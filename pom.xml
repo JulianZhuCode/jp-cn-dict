@@ -12,14 +12,44 @@
         <maven.compiler.source>25</maven.compiler.source>
         <maven.compiler.target>25</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <spring-whale.version>0.0.2</spring-whale.version>
+        <mapstruct.version>1.6.3</mapstruct.version>
     </properties>
 
     <dependencies>
         <dependency>
             <groupId>io.github.julianzhucode</groupId>
             <artifactId>spring-whale-webmvc</artifactId>
-            <version>0.0.2</version>
+        </dependency>
+        <dependency>
+            <groupId>io.github.julianzhucode</groupId>
+            <artifactId>spring-whale-database</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.mapstruct</groupId>
+            <artifactId>mapstruct</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.mapstruct</groupId>
+            <artifactId>mapstruct-processor</artifactId>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>io.github.julianzhucode</groupId>
+                <artifactId>spring-whale</artifactId>
+                <version>${spring-whale.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
 
 </project>
