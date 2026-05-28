@@ -3,6 +3,8 @@ package io.github.jpcndict.entity;
 import jakarta.persistence.*;
 import lombok.Data;
 
+import java.time.LocalDateTime;
+
 @Entity
 @Table(name = "examples", schema = "dict")
 @Data
@@ -24,4 +26,24 @@ public class ExamplesEntity {
      */
     @Column(columnDefinition = "text")
     private String cn;
+    /**
+     * 创建时间
+     */
+    private LocalDateTime createTime;
+    /**
+     * 修改时间
+     */
+    private LocalDateTime updateTime;
+    /**
+     * 创建人
+     */
+    private String createBy;
+    /**
+     * 修改人
+     */
+    private String updateBy;
+    /**
+     * 是否人工确认
+     */
+    private Boolean isManualConfirmed;
 }

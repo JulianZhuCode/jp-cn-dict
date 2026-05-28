@@ -4,6 +4,8 @@ import io.github.jpcndict.enums.WordPos;
 import jakarta.persistence.*;
 import lombok.Data;
 
+import java.time.LocalDateTime;
+
 @Entity
 @Table(name = "word", schema = "dict", indexes = {
         @Index(name = "idx_word_word", columnList = "word"),
@@ -44,6 +46,26 @@ public class WordEntity {
      */
     @Column(length = 50)
     private String pos;
+    /**
+     * 创建时间
+     */
+    private LocalDateTime createTime;
+    /**
+     * 修改时间
+     */
+    private LocalDateTime updateTime;
+    /**
+     * 创建人
+     */
+    private String createBy;
+    /**
+     * 修改人
+     */
+    private String updateBy;
+    /**
+     * 是否人工确认
+     */
+    private Boolean isManualConfirmed;
 
     public WordPos getPosEnum() {
         return pos != null ? WordPos.valueOf(pos) : null;
