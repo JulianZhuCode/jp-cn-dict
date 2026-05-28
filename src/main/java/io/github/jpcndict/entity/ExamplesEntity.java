@@ -1,21 +1,17 @@
 package io.github.jpcndict.entity;
 
-import jakarta.persistence.*;
+import io.github.springwhale.database.BaseEntity;
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
 import lombok.Data;
+import lombok.EqualsAndHashCode;
 
-import java.time.LocalDateTime;
-
+@EqualsAndHashCode(callSuper = true)
 @Entity
 @Table(name = "examples", schema = "dict")
 @Data
-public class ExamplesEntity {
-    /**
-     * 主键
-     */
-    @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "seq_examples_id")
-    @SequenceGenerator(name = "seq_examples_id", sequenceName = "seq_examples_id", allocationSize = 1)
-    private Integer id;
+public class ExamplesEntity extends BaseEntity {
     /**
      * 日语例句
      */
@@ -26,22 +22,6 @@ public class ExamplesEntity {
      */
     @Column(columnDefinition = "text")
     private String cn;
-    /**
-     * 创建时间
-     */
-    private LocalDateTime createTime;
-    /**
-     * 修改时间
-     */
-    private LocalDateTime updateTime;
-    /**
-     * 创建人
-     */
-    private String createBy;
-    /**
-     * 修改人
-     */
-    private String updateBy;
     /**
      * 是否人工确认
      */

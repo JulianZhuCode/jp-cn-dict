@@ -1,24 +1,20 @@
 package io.github.jpcndict.entity;
 
-import jakarta.persistence.*;
+import io.github.springwhale.database.BaseEntity;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Index;
+import jakarta.persistence.Table;
 import lombok.Data;
+import lombok.EqualsAndHashCode;
 
-import java.time.LocalDateTime;
-
+@EqualsAndHashCode(callSuper = true)
 @Entity
 @Table(name = "grammar", schema = "dict", indexes = {
         @Index(name = "idx_grammar_word", columnList = "word"),
         @Index(name = "idx_grammar_reading", columnList = "reading")
 })
 @Data
-public class GrammarEntity {
-    /**
-     * 主键
-     */
-    @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "seq_grammar_id")
-    @SequenceGenerator(name = "seq_grammar_id", sequenceName = "seq_grammar_id", allocationSize = 1)
-    private Integer id;
+public class GrammarEntity extends BaseEntity {
     /**
      * 语法条目
      */
@@ -35,22 +31,6 @@ public class GrammarEntity {
      * 说明
      */
     private String[] notes;
-    /**
-     * 创建时间
-     */
-    private LocalDateTime createTime;
-    /**
-     * 修改时间
-     */
-    private LocalDateTime updateTime;
-    /**
-     * 创建人
-     */
-    private String createBy;
-    /**
-     * 修改人
-     */
-    private String updateBy;
     /**
      * 是否人工确认
      */

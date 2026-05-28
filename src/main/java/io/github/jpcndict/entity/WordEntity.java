@@ -1,11 +1,15 @@
 package io.github.jpcndict.entity;
 
 import io.github.jpcndict.enums.WordPos;
-import jakarta.persistence.*;
+import io.github.springwhale.database.BaseEntity;
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Index;
+import jakarta.persistence.Table;
 import lombok.Data;
+import lombok.EqualsAndHashCode;
 
-import java.time.LocalDateTime;
-
+@EqualsAndHashCode(callSuper = true)
 @Entity
 @Table(name = "word", schema = "dict", indexes = {
         @Index(name = "idx_word_word", columnList = "word"),
@@ -13,14 +17,7 @@ import java.time.LocalDateTime;
         @Index(name = "idx_word_romaji", columnList = "romaji")
 })
 @Data
-public class WordEntity {
-    /**
-     * 主键
-     */
-    @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "seq_word_id")
-    @SequenceGenerator(name = "seq_word_id", sequenceName = "seq_word_id", allocationSize = 1)
-    private Integer id;
+public class WordEntity extends BaseEntity {
     /**
      * 单词
      */
@@ -46,22 +43,6 @@ public class WordEntity {
      */
     @Column(length = 50)
     private String pos;
-    /**
-     * 创建时间
-     */
-    private LocalDateTime createTime;
-    /**
-     * 修改时间
-     */
-    private LocalDateTime updateTime;
-    /**
-     * 创建人
-     */
-    private String createBy;
-    /**
-     * 修改人
-     */
-    private String updateBy;
     /**
      * 是否人工确认
      */
