@@ -28,19 +28,3 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.PostgreSQLDialect
         format_sql: true
-
-  whale:
-    rbac:
-      security:
-        permit-all-urls:
-          - /api/rbac/auth/**
-          - /api/rbac/public/**
-        csrf-enabled: false
-        cors-enabled: true
-        token-prefix: "Bearer "
-        token-header: "Authorization"
-        allowed-origin-patterns:
-          - "*"
-        jwt:
-          secret: SpringWhaleRBACSecretKey2024ForJWTTokenGenerationMustBeLongEnough
-          expiration: 86400000
