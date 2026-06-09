@@ -3,7 +3,6 @@ package io.github.jpcndict.mapper;
 import io.github.jpcndict.dto.vo.WordVO;
 import io.github.jpcndict.entity.WordEntity;
 import org.mapstruct.Mapper;
-import org.mapstruct.factory.Mappers;
 
 import java.util.List;
 
@@ -12,8 +11,6 @@ import java.util.List;
  */
 @Mapper(componentModel = "spring")
 public interface WordMapper {
-
-    WordMapper INSTANCE = Mappers.getMapper(WordMapper.class);
 
     /**
      * Entity → VO
