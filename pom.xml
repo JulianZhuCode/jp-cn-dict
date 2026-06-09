@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
-    <groupId>io.github.julianzhucode</groupId>
+    <parent>
+        <groupId>io.github.julianzhucode</groupId>
+        <artifactId>spring-whale</artifactId>
+        <version>0.0.2</version>
+    </parent>
     <artifactId>jp-cn-dict</artifactId>
     <version>0.0.1</version>
 
@@ -12,18 +15,12 @@
         <maven.compiler.source>25</maven.compiler.source>
         <maven.compiler.target>25</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring-whale.version>0.0.2</spring-whale.version>
-        <mapstruct.version>1.6.3</mapstruct.version>
     </properties>
 
     <dependencies>
         <dependency>
             <groupId>io.github.julianzhucode</groupId>
-            <artifactId>spring-whale-webmvc</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>io.github.julianzhucode</groupId>
-            <artifactId>spring-whale-database</artifactId>
+            <artifactId>spring-whale-rbac</artifactId>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
@@ -40,16 +37,5 @@
         </dependency>
     </dependencies>
 
-    <dependencyManagement>
-        <dependencies>
-            <dependency>
-                <groupId>io.github.julianzhucode</groupId>
-                <artifactId>spring-whale</artifactId>
-                <version>${spring-whale.version}</version>
-                <type>pom</type>
-                <scope>import</scope>
-            </dependency>
-        </dependencies>
-    </dependencyManagement>
 
 </project>
