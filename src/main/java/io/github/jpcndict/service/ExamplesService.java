@@ -1,6 +1,7 @@
 package io.github.jpcndict.service;
 
-import io.github.jpcndict.dto.ExamplesDTO;
+import io.github.jpcndict.dto.request.ExamplesRequest;
+import io.github.jpcndict.dto.vo.ExamplesVO;
 import io.github.jpcndict.entity.ExamplesEntity;
 import io.github.jpcndict.mapper.ExamplesMapper;
 import io.github.jpcndict.repository.ExamplesRepository;
@@ -24,48 +25,50 @@ public class ExamplesService {
     /**
      * 分页查询所有例句
      */
-    public Page<ExamplesDTO> findAll(Pageable pageable) {
-        return examplesRepository.findAll(pageable).map(examplesMapper::toDTO);
+    public Page<ExamplesVO> findAll(Pageable pageable) {
+        return examplesRepository.findAll(pageable).map(examplesMapper::toVO);
     }
 
     /**
      * 根据ID查询例句
      */
-    public Optional<ExamplesDTO> findById(Integer id) {
-        return examplesRepository.findById(id).map(examplesMapper::toDTO);
+    public Optional<ExamplesVO> findById(Integer id) {
+        return examplesRepository.findById(id).map(examplesMapper::toVO);
     }
 
     /**
      * 搜索例句（支持日语或中文模糊查询）
      */
-    public List<ExamplesDTO> search(String keyword) {
+    public List<ExamplesVO> search(String keyword) {
         if (keyword == null || keyword.trim().isEmpty()) {
             return List.of();
         }
-        return examplesMapper.toDTOList(examplesRepository.findByJpContainingOrCnContaining(keyword, keyword));
+        return examplesMapper.toVOList(examplesRepository.findByJpContainingOrCnContaining(keyword, keyword));
     }
 
     /**
      * 创建例句
      */
     @Transactional
-    public ExamplesDTO create(ExamplesDTO exampleDTO) {
-        ExamplesEntity entity = examplesMapper.toEntity(exampleDTO);
-        return examplesMapper.toDTO(examplesRepository.save(entity));
+    public ExamplesVO create(ExamplesRequest request) {
+        ExamplesEntity entity = new ExamplesEntity();
+        entity.setJp(request.getJp());
+        entity.setCn(request.getCn());
+        return examplesMapper.toVO(examplesRepository.save(entity));
     }
 
     /**
      * 更新例句
      */
     @Transactional
-    public ExamplesDTO update(Integer id, ExamplesDTO exampleDTO) {
+    public ExamplesVO update(Integer id, ExamplesRequest request) {
         ExamplesEntity example = examplesRepository.findById(id)
                 .orElseThrow(() -> new RuntimeException("例句不存在，ID: " + id));
 
-        example.setJp(exampleDTO.getJp());
-        example.setCn(exampleDTO.getCn());
+        example.setJp(request.getJp());
+        example.setCn(request.getCn());
 
-        return examplesMapper.toDTO(examplesRepository.save(example));
+        return examplesMapper.toVO(examplesRepository.save(example));
     }
 
     /**

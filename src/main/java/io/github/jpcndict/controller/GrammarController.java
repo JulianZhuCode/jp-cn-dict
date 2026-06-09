@@ -1,12 +1,13 @@
 package io.github.jpcndict.controller;
 
-import io.github.jpcndict.dto.GrammarDTO;
+import io.github.jpcndict.dto.request.GrammarRequest;
+import io.github.jpcndict.dto.vo.GrammarVO;
 import io.github.jpcndict.service.GrammarService;
+import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -23,11 +24,11 @@ public class GrammarController {
      * GET /api/grammars?page=0&size=20
      */
     @GetMapping
-    public ResponseEntity<Page<GrammarDTO>> findAll(
+    public Page<GrammarVO> findAll(
             @RequestParam(defaultValue = "0") int page,
             @RequestParam(defaultValue = "20") int size) {
         Pageable pageable = PageRequest.of(page, size);
-        return ResponseEntity.ok(grammarService.findAll(pageable));
+        return grammarService.findAll(pageable);
     }
 
     /**
@@ -35,10 +36,9 @@ public class GrammarController {
      * GET /api/grammars/{id}
      */
     @GetMapping("/{id}")
-    public ResponseEntity<GrammarDTO> findById(@PathVariable Integer id) {
+    public GrammarVO findById(@PathVariable Integer id) {
         return grammarService.findById(id)
-                .map(ResponseEntity::ok)
-                .orElse(ResponseEntity.notFound().build());
+                .orElseThrow(() -> new IllegalArgumentException("语法不存在: " + id));
     }
 
     /**
@@ -46,10 +46,9 @@ public class GrammarController {
      * GET /api/grammars/search/by-word?word=～ている
      */
     @GetMapping("/search/by-word")
-    public ResponseEntity<GrammarDTO> findByWord(@RequestParam String word) {
+    public GrammarVO findByWord(@RequestParam String word) {
         return grammarService.findByWord(word)
-                .map(ResponseEntity::ok)
-                .orElse(ResponseEntity.notFound().build());
+                .orElseThrow(() -> new IllegalArgumentException("语法不存在: " + word));
     }
 
     /**
@@ -57,8 +56,8 @@ public class GrammarController {
      * GET /api/grammars/search?keyword=～て
      */
     @GetMapping("/search")
-    public ResponseEntity<List<GrammarDTO>> search(@RequestParam String keyword) {
-        return ResponseEntity.ok(grammarService.search(keyword));
+    public List<GrammarVO> search(@RequestParam String keyword) {
+        return grammarService.search(keyword);
     }
 
     /**
@@ -66,8 +65,8 @@ public class GrammarController {
      * POST /api/grammars
      */
     @PostMapping
-    public ResponseEntity<GrammarDTO> create(@RequestBody GrammarDTO grammarDTO) {
-        return ResponseEntity.ok(grammarService.create(grammarDTO));
+    public GrammarVO create(@Valid @RequestBody GrammarRequest request) {
+        return grammarService.create(request);
     }
 
     /**
@@ -75,8 +74,8 @@ public class GrammarController {
      * PUT /api/grammars/{id}
      */
     @PutMapping("/{id}")
-    public ResponseEntity<GrammarDTO> update(@PathVariable Integer id, @RequestBody GrammarDTO grammarDTO) {
-        return ResponseEntity.ok(grammarService.update(id, grammarDTO));
+    public GrammarVO update(@PathVariable Integer id, @Valid @RequestBody GrammarRequest request) {
+        return grammarService.update(id, request);
     }
 
     /**
@@ -84,8 +83,7 @@ public class GrammarController {
      * DELETE /api/grammars/{id}
      */
     @DeleteMapping("/{id}")
-    public ResponseEntity<Void> delete(@PathVariable Integer id) {
+    public void delete(@PathVariable Integer id) {
         grammarService.delete(id);
-        return ResponseEntity.noContent().build();
     }
 }

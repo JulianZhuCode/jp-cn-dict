@@ -1,12 +1,13 @@
 package io.github.jpcndict.controller;
 
-import io.github.jpcndict.dto.ExamplesDTO;
+import io.github.jpcndict.dto.request.ExamplesRequest;
+import io.github.jpcndict.dto.vo.ExamplesVO;
 import io.github.jpcndict.service.ExamplesService;
+import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -23,11 +24,11 @@ public class ExamplesController {
      * GET /api/examples?page=0&size=20
      */
     @GetMapping
-    public ResponseEntity<Page<ExamplesDTO>> findAll(
+    public Page<ExamplesVO> findAll(
             @RequestParam(defaultValue = "0") int page,
             @RequestParam(defaultValue = "20") int size) {
         Pageable pageable = PageRequest.of(page, size);
-        return ResponseEntity.ok(examplesService.findAll(pageable));
+        return examplesService.findAll(pageable);
     }
 
     /**
@@ -35,10 +36,9 @@ public class ExamplesController {
      * GET /api/examples/{id}
      */
     @GetMapping("/{id}")
-    public ResponseEntity<ExamplesDTO> findById(@PathVariable Integer id) {
+    public ExamplesVO findById(@PathVariable Integer id) {
         return examplesService.findById(id)
-                .map(ResponseEntity::ok)
-                .orElse(ResponseEntity.notFound().build());
+                .orElseThrow(() -> new IllegalArgumentException("例句不存在: " + id));
     }
 
     /**
@@ -46,8 +46,8 @@ public class ExamplesController {
      * GET /api/examples/search?keyword=取引
      */
     @GetMapping("/search")
-    public ResponseEntity<List<ExamplesDTO>> search(@RequestParam String keyword) {
-        return ResponseEntity.ok(examplesService.search(keyword));
+    public List<ExamplesVO> search(@RequestParam String keyword) {
+        return examplesService.search(keyword);
     }
 
     /**
@@ -55,8 +55,8 @@ public class ExamplesController {
      * POST /api/examples
      */
     @PostMapping
-    public ResponseEntity<ExamplesDTO> create(@RequestBody ExamplesDTO exampleDTO) {
-        return ResponseEntity.ok(examplesService.create(exampleDTO));
+    public ExamplesVO create(@Valid @RequestBody ExamplesRequest request) {
+        return examplesService.create(request);
     }
 
     /**
@@ -64,8 +64,8 @@ public class ExamplesController {
      * PUT /api/examples/{id}
      */
     @PutMapping("/{id}")
-    public ResponseEntity<ExamplesDTO> update(@PathVariable Integer id, @RequestBody ExamplesDTO exampleDTO) {
-        return ResponseEntity.ok(examplesService.update(id, exampleDTO));
+    public ExamplesVO update(@PathVariable Integer id, @Valid @RequestBody ExamplesRequest request) {
+        return examplesService.update(id, request);
     }
 
     /**
@@ -73,8 +73,7 @@ public class ExamplesController {
      * DELETE /api/examples/{id}
      */
     @DeleteMapping("/{id}")
-    public ResponseEntity<Void> delete(@PathVariable Integer id) {
+    public void delete(@PathVariable Integer id) {
         examplesService.delete(id);
-        return ResponseEntity.noContent().build();
     }
 }

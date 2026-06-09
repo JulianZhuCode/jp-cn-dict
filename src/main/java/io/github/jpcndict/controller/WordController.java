@@ -1,12 +1,13 @@
 package io.github.jpcndict.controller;
 
-import io.github.jpcndict.dto.WordDTO;
+import io.github.jpcndict.dto.request.WordRequest;
+import io.github.jpcndict.dto.vo.WordVO;
 import io.github.jpcndict.service.WordService;
+import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -23,11 +24,11 @@ public class WordController {
      * GET /api/words?page=0&size=20
      */
     @GetMapping
-    public ResponseEntity<Page<WordDTO>> findAll(
+    public Page<WordVO> findAll(
             @RequestParam(defaultValue = "0") int page,
             @RequestParam(defaultValue = "20") int size) {
         Pageable pageable = PageRequest.of(page, size);
-        return ResponseEntity.ok(wordService.findAll(pageable));
+        return wordService.findAll(pageable);
     }
 
     /**
@@ -35,10 +36,9 @@ public class WordController {
      * GET /api/words/{id}
      */
     @GetMapping("/{id}")
-    public ResponseEntity<WordDTO> findById(@PathVariable Integer id) {
+    public WordVO findById(@PathVariable Integer id) {
         return wordService.findById(id)
-                .map(ResponseEntity::ok)
-                .orElse(ResponseEntity.notFound().build());
+                .orElseThrow(() -> new IllegalArgumentException("单词不存在: " + id));
     }
 
     /**
@@ -46,10 +46,9 @@ public class WordController {
      * GET /api/words/search/by-word?word=日本語
      */
     @GetMapping("/search/by-word")
-    public ResponseEntity<WordDTO> findByWord(@RequestParam String word) {
+    public WordVO findByWord(@RequestParam String word) {
         return wordService.findByWord(word)
-                .map(ResponseEntity::ok)
-                .orElse(ResponseEntity.notFound().build());
+                .orElseThrow(() -> new IllegalArgumentException("单词不存在: " + word));
     }
 
     /**
@@ -57,10 +56,9 @@ public class WordController {
      * GET /api/words/search/by-reading?reading=にほんご
      */
     @GetMapping("/search/by-reading")
-    public ResponseEntity<WordDTO> findByReading(@RequestParam String reading) {
+    public WordVO findByReading(@RequestParam String reading) {
         return wordService.findByReading(reading)
-                .map(ResponseEntity::ok)
-                .orElse(ResponseEntity.notFound().build());
+                .orElseThrow(() -> new IllegalArgumentException("单词不存在: " + reading));
     }
 
     /**
@@ -68,10 +66,9 @@ public class WordController {
      * GET /api/words/search/by-romaji?romaji=nihongo
      */
     @GetMapping("/search/by-romaji")
-    public ResponseEntity<WordDTO> findByRomaji(@RequestParam String romaji) {
+    public WordVO findByRomaji(@RequestParam String romaji) {
         return wordService.findByRomaji(romaji)
-                .map(ResponseEntity::ok)
-                .orElse(ResponseEntity.notFound().build());
+                .orElseThrow(() -> new IllegalArgumentException("单词不存在: " + romaji));
     }
 
     /**
@@ -79,8 +76,8 @@ public class WordController {
      * GET /api/words/search?keyword=日本
      */
     @GetMapping("/search")
-    public ResponseEntity<List<WordDTO>> search(@RequestParam String keyword) {
-        return ResponseEntity.ok(wordService.search(keyword));
+    public List<WordVO> search(@RequestParam String keyword) {
+        return wordService.search(keyword);
     }
 
     /**
@@ -88,8 +85,8 @@ public class WordController {
      * GET /api/words/by-pos?pos=NOUN
      */
     @GetMapping("/by-pos")
-    public ResponseEntity<List<WordDTO>> findByPos(@RequestParam String pos) {
-        return ResponseEntity.ok(wordService.findByPos(pos));
+    public List<WordVO> findByPos(@RequestParam String pos) {
+        return wordService.findByPos(pos);
     }
 
     /**
@@ -97,8 +94,8 @@ public class WordController {
      * POST /api/words
      */
     @PostMapping
-    public ResponseEntity<WordDTO> create(@RequestBody WordDTO wordDTO) {
-        return ResponseEntity.ok(wordService.create(wordDTO));
+    public WordVO create(@Valid @RequestBody WordRequest request) {
+        return wordService.create(request);
     }
 
     /**
@@ -106,8 +103,8 @@ public class WordController {
      * PUT /api/words/{id}
      */
     @PutMapping("/{id}")
-    public ResponseEntity<WordDTO> update(@PathVariable Integer id, @RequestBody WordDTO wordDTO) {
-        return ResponseEntity.ok(wordService.update(id, wordDTO));
+    public WordVO update(@PathVariable Integer id, @Valid @RequestBody WordRequest request) {
+        return wordService.update(id, request);
     }
 
     /**
@@ -115,8 +112,7 @@ public class WordController {
      * DELETE /api/words/{id}
      */
     @DeleteMapping("/{id}")
-    public ResponseEntity<Void> delete(@PathVariable Integer id) {
+    public void delete(@PathVariable Integer id) {
         wordService.delete(id);
-        return ResponseEntity.noContent().build();
     }
 }

@@ -1,12 +1,12 @@
-package io.github.jpcndict.dto;
+package io.github.jpcndict.dto.vo;
 
 import lombok.Data;
 
 /**
- * 单词数据传输对象
+ * 单词视图对象
  */
 @Data
-public class WordDTO {
+public class WordVO {
     private Integer id;
     private String word;
     private String reading;

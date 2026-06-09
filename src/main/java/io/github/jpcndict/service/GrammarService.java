@@ -1,6 +1,7 @@
 package io.github.jpcndict.service;
 
-import io.github.jpcndict.dto.GrammarDTO;
+import io.github.jpcndict.dto.request.GrammarRequest;
+import io.github.jpcndict.dto.vo.GrammarVO;
 import io.github.jpcndict.entity.GrammarEntity;
 import io.github.jpcndict.mapper.GrammarMapper;
 import io.github.jpcndict.repository.GrammarRepository;
@@ -24,57 +25,61 @@ public class GrammarService {
     /**
      * 分页查询所有语法
      */
-    public Page<GrammarDTO> findAll(Pageable pageable) {
-        return grammarRepository.findAll(pageable).map(grammarMapper::toDTO);
+    public Page<GrammarVO> findAll(Pageable pageable) {
+        return grammarRepository.findAll(pageable).map(grammarMapper::toVO);
     }
 
     /**
      * 根据ID查询语法
      */
-    public Optional<GrammarDTO> findById(Integer id) {
-        return grammarRepository.findById(id).map(grammarMapper::toDTO);
+    public Optional<GrammarVO> findById(Integer id) {
+        return grammarRepository.findById(id).map(grammarMapper::toVO);
     }
 
     /**
      * 根据语法条目精确查询
      */
-    public Optional<GrammarDTO> findByWord(String word) {
-        return grammarRepository.findByWord(word).map(grammarMapper::toDTO);
+    public Optional<GrammarVO> findByWord(String word) {
+        return grammarRepository.findByWord(word).map(grammarMapper::toVO);
     }
 
     /**
      * 搜索语法（支持条目或读音模糊查询）
      */
-    public List<GrammarDTO> search(String keyword) {
+    public List<GrammarVO> search(String keyword) {
         if (keyword == null || keyword.trim().isEmpty()) {
             return List.of();
         }
-        return grammarMapper.toDTOList(grammarRepository.findByWordContainingOrReadingContaining(keyword, keyword));
+        return grammarMapper.toVOList(grammarRepository.findByWordContainingOrReadingContaining(keyword, keyword));
     }
 
     /**
      * 创建语法
      */
     @Transactional
-    public GrammarDTO create(GrammarDTO grammarDTO) {
-        GrammarEntity entity = grammarMapper.toEntity(grammarDTO);
-        return grammarMapper.toDTO(grammarRepository.save(entity));
+    public GrammarVO create(GrammarRequest request) {
+        GrammarEntity entity = new GrammarEntity();
+        entity.setWord(request.getWord());
+        entity.setReading(request.getReading());
+        entity.setMeaning(request.getMeaning());
+        entity.setNotes(request.getNotes());
+        return grammarMapper.toVO(grammarRepository.save(entity));
     }
 
     /**
      * 更新语法
      */
     @Transactional
-    public GrammarDTO update(Integer id, GrammarDTO grammarDTO) {
+    public GrammarVO update(Integer id, GrammarRequest request) {
         GrammarEntity grammar = grammarRepository.findById(id)
                 .orElseThrow(() -> new RuntimeException("语法不存在，ID: " + id));
 
-        grammar.setWord(grammarDTO.getWord());
-        grammar.setReading(grammarDTO.getReading());
-        grammar.setMeaning(grammarDTO.getMeaning());
-        grammar.setNotes(grammarDTO.getNotes());
+        grammar.setWord(request.getWord());
+        grammar.setReading(request.getReading());
+        grammar.setMeaning(request.getMeaning());
+        grammar.setNotes(request.getNotes());
 
-        return grammarMapper.toDTO(grammarRepository.save(grammar));
+        return grammarMapper.toVO(grammarRepository.save(grammar));
     }
 
     /**

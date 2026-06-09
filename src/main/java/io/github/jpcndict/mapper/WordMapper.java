@@ -1,6 +1,6 @@
 package io.github.jpcndict.mapper;
 
-import io.github.jpcndict.dto.WordDTO;
+import io.github.jpcndict.dto.vo.WordVO;
 import io.github.jpcndict.entity.WordEntity;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
@@ -8,7 +8,7 @@ import org.mapstruct.factory.Mappers;
 import java.util.List;
 
 /**
- * 单词实体与DTO转换器（MapStruct）
+ * 单词实体与VO转换器（MapStruct）
  */
 @Mapper(componentModel = "spring")
 public interface WordMapper {
@@ -16,17 +16,17 @@ public interface WordMapper {
     WordMapper INSTANCE = Mappers.getMapper(WordMapper.class);
 
     /**
-     * Entity → DTO
+     * Entity → VO
      */
-    WordDTO toDTO(WordEntity entity);
+    WordVO toVO(WordEntity entity);
 
     /**
-     * DTO → Entity
+     * VO → Entity
      */
-    WordEntity toEntity(WordDTO dto);
+    WordEntity toEntity(WordVO vo);
 
     /**
-     * Entity列表 → DTO列表
+     * Entity列表 → VO列表
      */
-    List<WordDTO> toDTOList(List<WordEntity> entities);
+    List<WordVO> toVOList(List<WordEntity> entities);
 }

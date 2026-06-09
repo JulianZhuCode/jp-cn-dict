@@ -1,12 +1,12 @@
-package io.github.jpcndict.dto;
+package io.github.jpcndict.dto.vo;
 
 import lombok.Data;
 
 /**
- * 例句数据传输对象
+ * 例句视图对象
  */
 @Data
-public class ExamplesDTO {
+public class ExamplesVO {
     private Integer id;
     private String jp;
     private String cn;
