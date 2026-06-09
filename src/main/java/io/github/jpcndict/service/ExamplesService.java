@@ -1,5 +1,6 @@
 package io.github.jpcndict.service;
 
+import io.github.springwhale.framework.core.exception.BusinessException;
 import io.github.jpcndict.dto.request.ExamplesRequest;
 import io.github.jpcndict.dto.vo.ExamplesVO;
 import io.github.jpcndict.entity.ExamplesEntity;
@@ -63,7 +64,7 @@ public class ExamplesService {
     @Transactional
     public ExamplesVO update(Integer id, ExamplesRequest request) {
         ExamplesEntity example = examplesRepository.findById(id)
-                .orElseThrow(() -> new RuntimeException("例句不存在，ID: " + id));
+                .orElseThrow(() -> BusinessException.create("EXAMPLE_NOT_FOUND", "例句不存在，ID: " + id));
 
         example.setJp(request.getJp());
         example.setCn(request.getCn());
@@ -77,7 +78,7 @@ public class ExamplesService {
     @Transactional
     public void delete(Integer id) {
         ExamplesEntity example = examplesRepository.findById(id)
-                .orElseThrow(() -> new RuntimeException("例句不存在，ID: " + id));
+                .orElseThrow(() -> BusinessException.create("EXAMPLE_NOT_FOUND", "例句不存在，ID: " + id));
         examplesRepository.delete(example);
     }
 }

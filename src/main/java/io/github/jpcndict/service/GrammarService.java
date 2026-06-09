@@ -1,5 +1,6 @@
 package io.github.jpcndict.service;
 
+import io.github.springwhale.framework.core.exception.BusinessException;
 import io.github.jpcndict.dto.request.GrammarRequest;
 import io.github.jpcndict.dto.vo.GrammarVO;
 import io.github.jpcndict.entity.GrammarEntity;
@@ -72,7 +73,7 @@ public class GrammarService {
     @Transactional
     public GrammarVO update(Integer id, GrammarRequest request) {
         GrammarEntity grammar = grammarRepository.findById(id)
-                .orElseThrow(() -> new RuntimeException("语法不存在，ID: " + id));
+                .orElseThrow(() -> BusinessException.create("GRAMMAR_NOT_FOUND", "语法不存在，ID: " + id));
 
         grammar.setWord(request.getWord());
         grammar.setReading(request.getReading());
@@ -88,7 +89,7 @@ public class GrammarService {
     @Transactional
     public void delete(Integer id) {
         GrammarEntity grammar = grammarRepository.findById(id)
-                .orElseThrow(() -> new RuntimeException("语法不存在，ID: " + id));
+                .orElseThrow(() -> BusinessException.create("GRAMMAR_NOT_FOUND", "语法不存在，ID: " + id));
         grammarRepository.delete(grammar);
     }
 }

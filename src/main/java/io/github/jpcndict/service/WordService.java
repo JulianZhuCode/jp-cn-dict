@@ -1,5 +1,6 @@
 package io.github.jpcndict.service;
 
+import io.github.springwhale.framework.core.exception.BusinessException;
 import io.github.jpcndict.dto.request.WordRequest;
 import io.github.jpcndict.dto.vo.WordVO;
 import io.github.jpcndict.entity.WordEntity;
@@ -95,7 +96,7 @@ public class WordService {
     @Transactional
     public WordVO update(Integer id, WordRequest request) {
         WordEntity word = wordRepository.findById(id)
-                .orElseThrow(() -> new RuntimeException("单词不存在，ID: " + id));
+                .orElseThrow(() -> BusinessException.create("WORD_NOT_FOUND", "单词不存在，ID: " + id));
 
         word.setWord(request.getWord());
         word.setReading(request.getReading());
@@ -113,7 +114,7 @@ public class WordService {
     @Transactional
     public void delete(Integer id) {
         WordEntity word = wordRepository.findById(id)
-                .orElseThrow(() -> new RuntimeException("单词不存在，ID: " + id));
+                .orElseThrow(() -> BusinessException.create("WORD_NOT_FOUND", "单词不存在，ID: " + id));
         wordRepository.delete(word);
     }
 }
