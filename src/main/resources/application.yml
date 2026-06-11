@@ -4,6 +4,15 @@ server:
 spring:
   application:
     name: jp-cn-dict
+  thymeleaf:
+    cache: false
+  web:
+    resources:
+      cache:
+        cachecontrol:
+          max-age: 0
+      chain:
+        cache: false
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: org.postgresql.Driver
