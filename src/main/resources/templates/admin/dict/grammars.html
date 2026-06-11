@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{admin/layout}">
+
+<head>
+    <title>Grammars</title>
+</head>
+
+<body>
+
+<main layout:fragment="content">
+    <th:block th:replace="~{admin/fragments/data-table :: table(
+        title='Grammars',
+        description='Manage Japanese grammar entries',
+        createUrl='#',
+        createModal='grammar-modal',
+        createPermission='dict:grammar:create',
+        items=${grammars},
+        emptyMessage='No grammars found',
+        baseUrl='/admin/dict/grammars',
+        page=${page},
+        colspan=6,
+        headers=~{::#grammar-headers},
+        rows=~{::#grammar-row}
+    )}">
+        <th:block id="grammar-headers">
+            <th>ID</th>
+            <th>Word</th>
+            <th>Reading</th>
+            <th>Meaning</th>
+            <th>Notes</th>
+            <th>Actions</th>
+        </th:block>
+        <th:block id="grammar-row">
+            <td th:text="${item.id}">1</td>
+            <td><strong th:text="${item.word}">〜たい</strong></td>
+            <td th:text="${item.reading}">〜たい</td>
+            <td>
+                <span th:if="${item.meaning != null and #arrays.length(item.meaning) > 0}"
+                      th:each="m,iterStat : ${item.meaning}"
+                      th:text="${m + (iterStat.last ? '' : ', ')}">want to</span>
+                <span th:unless="${item.meaning != null and #arrays.length(item.meaning) > 0}">-</span>
+            </td>
+            <td>
+                <span th:if="${item.notes != null and #arrays.length(item.notes) > 0}"
+                      th:each="n,iterStat : ${item.notes}"
+                      th:text="${n + (iterStat.last ? '' : ', ')}">attached to masu-stem</span>
+                <span th:unless="${item.notes != null and #arrays.length(item.notes) > 0}">-</span>
+            </td>
+            <td class="flex-gap">
+                <button th:if="${#sets.contains(userAuthorities, '*') or #sets.contains(userAuthorities, 'dict:grammar:update')}"
+                        data-modal="grammar-modal" th:attr="data-edit-id=${item.id}" class="btn btn-primary btn-sm">Edit</button>
+            </td>
+        </th:block>
+    </th:block>
+
+    <!-- Grammar Modal -->
+    <div id="grammar-modal" class="dict-modal-overlay hidden">
+        <div class="modal-dialog">
+            <div class="modal-header">
+                <h2 class="modal-title">Create Grammar</h2>
+                <button class="modal-close">&times;</button>
+            </div>
+            <form class="dict-modal-form" data-api-base="/api/grammars">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label class="form-label" for="grammar-word">Word</label>
+                        <input type="text" id="grammar-word" name="word" class="form-control" required>
+                        <div class="form-error" data-field="word"></div>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="grammar-reading">Reading</label>
+                        <input type="text" id="grammar-reading" name="reading" class="form-control">
+                        <div class="form-error" data-field="reading"></div>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="grammar-meaning">Meaning (comma separated)</label>
+                        <input type="text" id="grammar-meaning" name="meaning" class="form-control">
+                        <div class="form-error" data-field="meaning"></div>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="grammar-notes">Notes (comma separated)</label>
+                        <input type="text" id="grammar-notes" name="notes" class="form-control">
+                        <div class="form-error" data-field="notes"></div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary modal-cancel">Cancel</button>
+                    <button type="button" class="btn btn-primary modal-submit">Save</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</main>
+
+</body>
+</html>

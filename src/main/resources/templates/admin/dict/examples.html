@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{admin/layout}">
+
+<head>
+    <title>Examples</title>
+</head>
+
+<body>
+
+<main layout:fragment="content">
+    <th:block th:replace="~{admin/fragments/data-table :: table(
+        title='Examples',
+        description='Manage Japanese-Chinese example sentences',
+        createUrl='#',
+        createModal='example-modal',
+        createPermission='dict:example:create',
+        items=${examples},
+        emptyMessage='No examples found',
+        baseUrl='/admin/dict/examples',
+        page=${page},
+        colspan=4,
+        headers=~{::#example-headers},
+        rows=~{::#example-row}
+    )}">
+        <th:block id="example-headers">
+            <th>ID</th>
+            <th>Japanese</th>
+            <th>Chinese</th>
+            <th>Actions</th>
+        </th:block>
+        <th:block id="example-row">
+            <td th:text="${item.id}">1</td>
+            <td th:text="${item.jp}">私は学生です。</td>
+            <td th:text="${item.cn}">我是学生。</td>
+            <td class="flex-gap">
+                <button th:if="${#sets.contains(userAuthorities, '*') or #sets.contains(userAuthorities, 'dict:example:update')}"
+                        data-modal="example-modal" th:attr="data-edit-id=${item.id}" class="btn btn-primary btn-sm">Edit</button>
+            </td>
+        </th:block>
+    </th:block>
+
+    <!-- Example Modal -->
+    <div id="example-modal" class="dict-modal-overlay hidden">
+        <div class="modal-dialog">
+            <div class="modal-header">
+                <h2 class="modal-title">Create Example</h2>
+                <button class="modal-close">&times;</button>
+            </div>
+            <form class="dict-modal-form" data-api-base="/api/examples">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label class="form-label" for="example-jp">Japanese</label>
+                        <input type="text" id="example-jp" name="jp" class="form-control" required>
+                        <div class="form-error" data-field="jp"></div>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="example-cn">Chinese</label>
+                        <input type="text" id="example-cn" name="cn" class="form-control" required>
+                        <div class="form-error" data-field="cn"></div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary modal-cancel">Cancel</button>
+                    <button type="button" class="btn btn-primary modal-submit">Save</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</main>
+
+</body>
+</html>
