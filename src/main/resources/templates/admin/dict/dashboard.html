@@ -203,13 +203,16 @@
                 .then(r => r.json())
                 .then(data => {
                     statusEl.style.display = '';
-                    if (data.success) {
-                        if (data.imported > 0) {
+                    // data is { "code":"200", "message":"success", "data": <count> }
+                    if (data.code === '200') {
+                        const count = data.data;
+                        if (count > 0) {
                             statusEl.className = 'alert alert-success mt-3';
+                            statusEl.textContent = 'Import complete: ' + count + ' records';
                         } else {
                             statusEl.className = 'alert alert-info mt-3';
+                            statusEl.textContent = data.message || 'Data already imported, skipped';
                         }
-                        statusEl.textContent = data.message || 'Import complete';
                         location.reload();
                     } else {
                         statusEl.className = 'alert alert-danger mt-3';
