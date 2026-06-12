@@ -73,7 +73,7 @@
             </h5>
         </div>
         <div class="card-body">
-            <p class="text-secondary mb-3">Select the data directory containing <code>word.json</code> and <code>grammar.json</code>, then click Import. Already imported data will be skipped.</p>
+            <p class="text-secondary mb-3">Select the data directory containing <code>word_1.json</code>, <code>word_2.json</code>… and <code>grammar_1.json</code>… then click Import. Already imported data will be skipped.</p>
             <div class="mb-3">
                 <label class="form-label">Select Data Directory</label>
                 <div class="input-group">
@@ -82,7 +82,7 @@
                         <i class="bi bi-folder2-open me-1"></i> Browse...
                     </button>
                 </div>
-                <div class="form-text">Select the folder that contains <code>word.json</code> and <code>grammar.json</code>.</div>
+                <div class="form-text">Select the folder that contains <code>word_*.json</code> and <code>grammar_*.json</code>.</div>
                 <input type="file" id="dirPicker" webkitdirectory hidden>
             </div>
             <div class="d-flex gap-2" id="importButtons" style="display:none">
@@ -94,6 +94,26 @@
                 </button>
             </div>
             <div id="importStatus" class="mt-3" style="display:none"></div>
+        </div>
+    </div>
+
+    <!-- Data Export Section -->
+    <div class="card shadow-sm mb-4">
+        <div class="card-header bg-transparent border-bottom-0 pt-3 pb-0">
+            <h5 class="card-title mb-0">
+                <i class="bi bi-download me-2"></i>Data Export
+            </h5>
+        </div>
+        <div class="card-body">
+            <p class="text-secondary mb-3">Export all data into zip archives. Each file covers an ID range of 100 (e.g. 1-100, 101-200).</p>
+            <div class="d-flex gap-2">
+                <a class="btn btn-primary" href="/api/dict/export/words">
+                    <i class="bi bi-file-earmark-zip me-1"></i> Export Words
+                </a>
+                <a class="btn btn-success" href="/api/dict/export/grammars">
+                    <i class="bi bi-file-earmark-zip me-1"></i> Export Grammars
+                </a>
+            </div>
         </div>
     </div>
 
@@ -150,44 +170,41 @@
     const dirDisplay = document.getElementById('dataDirDisplay');
     const dirPicker = document.getElementById('dirPicker');
     const importButtons = document.getElementById('importButtons');
-    let selectedFiles = [];
+    let wordFiles = [];
+    let grammarFiles = [];
 
-    // Click "Browse..." triggers hidden file input
     document.getElementById('btnBrowseDir').addEventListener('click', function () {
         dirPicker.value = '';
         dirPicker.click();
     });
 
-    // When directory is selected
     dirPicker.addEventListener('change', function () {
         if (this.files.length > 0) {
             const path = this.files[0].webkitRelativePath;
             const dirName = path.substring(0, path.indexOf('/'));
             dirDisplay.value = dirName;
-            selectedFiles = Array.from(this.files).filter(f =>
-                f.name === 'word.json' || f.name === 'grammar.json'
-            );
-            if (selectedFiles.length > 0) {
+            const all = Array.from(this.files);
+            wordFiles = all.filter(f => /^word_\d+\.json$/.test(f.name));
+            grammarFiles = all.filter(f => /^grammar_\d+\.json$/.test(f.name));
+            if (wordFiles.length > 0 || grammarFiles.length > 0) {
                 importButtons.style.display = '';
             } else {
                 importButtons.style.display = 'none';
                 statusEl.style.display = '';
                 statusEl.className = 'alert alert-warning mt-3';
-                statusEl.textContent = 'Selected folder does not contain word.json or grammar.json';
+                statusEl.textContent = 'Selected folder does not contain word_*.json or grammar_*.json';
             }
         }
     });
 
-    // Import buttons
     document.querySelectorAll('.import-btn').forEach(btn => {
         btn.addEventListener('click', function () {
-            const type = this.dataset.type;  // "words" or "grammars"
-            const fileName = type === 'words' ? 'word.json' : 'grammar.json';
-            const file = selectedFiles.find(f => f.name === fileName);
-            if (!file) {
+            const type = this.dataset.type;
+            const files = type === 'words' ? wordFiles : grammarFiles;
+            if (files.length === 0) {
                 statusEl.style.display = '';
                 statusEl.className = 'alert alert-danger mt-3';
-                statusEl.textContent = fileName + ' not found in selected folder';
+                statusEl.textContent = 'No matching ' + type + ' files found in selected folder';
                 return;
             }
 
@@ -197,13 +214,12 @@
             statusEl.style.display = 'none';
 
             const formData = new FormData();
-            formData.append('file', file);
+            files.forEach(f => formData.append('files', f));
 
             fetch('/api/dict/import/' + type, { method: 'POST', body: formData })
                 .then(r => r.json())
                 .then(data => {
                     statusEl.style.display = '';
-                    // data is { "code":"200", "message":"success", "data": <count> }
                     if (data.code === '200') {
                         const count = data.data;
                         if (count > 0) {
