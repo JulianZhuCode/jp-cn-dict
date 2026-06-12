@@ -1,6 +1,5 @@
 package io.github.jpcndict.entity;
 
-import io.github.jpcndict.enums.WordPos;
 import io.github.springwhale.database.BaseEntity;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -49,12 +48,4 @@ public class WordEntity extends BaseEntity {
      * 是否人工确认
      */
     private Boolean isManualConfirmed;
-
-    public WordPos getPosEnum() {
-        return pos != null ? WordPos.valueOf(pos) : null;
-    }
-
-    public void setPosEnum(WordPos posEnum) {
-        this.pos = posEnum != null ? posEnum.name() : null;
-    }
 }

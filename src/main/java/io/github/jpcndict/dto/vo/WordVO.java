@@ -1,5 +1,6 @@
 package io.github.jpcndict.dto.vo;
 
+import io.github.jpcndict.enums.WordPos;
 import lombok.Data;
 
 /**
@@ -14,4 +15,13 @@ public class WordVO {
     private String[] meaning;
     private String[] notes;
     private String pos;
+
+    public String getPosDescription() {
+        if (pos == null) return null;
+        try {
+            return WordPos.valueOf(pos).getRemark();
+        } catch (IllegalArgumentException e) {
+            return pos;
+        }
+    }
 }

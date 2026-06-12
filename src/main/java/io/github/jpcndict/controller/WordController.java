@@ -26,7 +26,7 @@ public class WordController {
     @GetMapping
     public Page<WordVO> findAll(
             @RequestParam(defaultValue = "0") int page,
-            @RequestParam(defaultValue = "20") int size) {
+            @RequestParam(defaultValue = "10") int size) {
         Pageable pageable = PageRequest.of(page, size);
         return wordService.findAll(pageable);
     }

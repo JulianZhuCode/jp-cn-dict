@@ -3,6 +3,7 @@ package io.github.jpcndict.controller.page;
 import io.github.jpcndict.dto.vo.ExamplesVO;
 import io.github.jpcndict.dto.vo.GrammarVO;
 import io.github.jpcndict.dto.vo.WordVO;
+import io.github.jpcndict.enums.WordPos;
 import io.github.jpcndict.repository.ExamplesRepository;
 import io.github.jpcndict.repository.GrammarRepository;
 import io.github.jpcndict.repository.WordRepository;
@@ -16,7 +17,6 @@ import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
@@ -54,30 +54,20 @@ public class DictPageController {
 
     @GetMapping("/words")
     public String words(@RequestParam(defaultValue = "0") int page,
-                        @RequestParam(defaultValue = "15") int size,
+                        @RequestParam(defaultValue = "10") int size,
                         Model model) {
         Page<WordVO> wordPage = wordService.findAll(PageRequest.of(page, size));
         model.addAttribute("words", wordPage.getContent());
         model.addAttribute("page", wordPage);
+        model.addAttribute("allPos", WordPos.values());
         return "admin/dict/words";
-    }
-
-    @GetMapping("/words/create")
-    public String wordCreate() {
-        return "admin/dict/word-form";
-    }
-
-    @GetMapping("/words/{id:\\d+}")
-    public String wordDetail(@PathVariable Integer id, Model model) {
-        model.addAttribute("word", wordService.findById(id).orElse(null));
-        return "admin/dict/word-detail";
     }
 
     // ---- Grammars ----
 
     @GetMapping("/grammars")
     public String grammars(@RequestParam(defaultValue = "0") int page,
-                           @RequestParam(defaultValue = "15") int size,
+                           @RequestParam(defaultValue = "10") int size,
                            Model model) {
         Page<GrammarVO> grammarPage = grammarService.findAll(PageRequest.of(page, size));
         model.addAttribute("grammars", grammarPage.getContent());
@@ -85,22 +75,11 @@ public class DictPageController {
         return "admin/dict/grammars";
     }
 
-    @GetMapping("/grammars/create")
-    public String grammarCreate() {
-        return "admin/dict/grammar-form";
-    }
-
-    @GetMapping("/grammars/{id:\\d+}")
-    public String grammarDetail(@PathVariable Integer id, Model model) {
-        model.addAttribute("grammar", grammarService.findById(id).orElse(null));
-        return "admin/dict/grammar-detail";
-    }
-
     // ---- Examples ----
 
     @GetMapping("/examples")
     public String examples(@RequestParam(defaultValue = "0") int page,
-                           @RequestParam(defaultValue = "15") int size,
+                           @RequestParam(defaultValue = "10") int size,
                            Model model) {
         Page<ExamplesVO> examplePage = examplesService.findAll(PageRequest.of(page, size));
         model.addAttribute("examples", examplePage.getContent());
@@ -108,14 +87,4 @@ public class DictPageController {
         return "admin/dict/examples";
     }
 
-    @GetMapping("/examples/create")
-    public String exampleCreate() {
-        return "admin/dict/example-form";
-    }
-
-    @GetMapping("/examples/{id:\\d+}")
-    public String exampleDetail(@PathVariable Integer id, Model model) {
-        model.addAttribute("example", examplesService.findById(id).orElse(null));
-        return "admin/dict/example-detail";
-    }
 }
