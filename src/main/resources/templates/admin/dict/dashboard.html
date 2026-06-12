@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{admin/layout}">
+
+<head>
+    <title>Dict Dashboard</title>
+</head>
+
+<body>
+
+<main layout:fragment="content">
+
+    <!-- Page Header -->
+    <div class="page-header card mb-4">
+        <div class="card-body">
+            <h1 class="mb-1">Dict Dashboard</h1>
+            <p class="text-secondary mb-0">Overview and data management for the Japanese-Chinese dictionary</p>
+        </div>
+    </div>
+
+    <!-- Stats Cards -->
+    <div class="row g-3 mb-4">
+        <div class="col-md-4">
+            <div class="card border-start border-primary border-3 shadow-sm h-100">
+                <div class="card-body">
+                    <div class="d-flex align-items-center justify-content-between mb-2">
+                        <span class="text-uppercase text-secondary fw-bold" style="font-size:.75rem">Words</span>
+                        <span class="badge bg-primary bg-opacity-10 text-primary rounded-pill">
+                            <i class="bi bi-book"></i>
+                        </span>
+                    </div>
+                    <h2 class="fw-bold mb-1" th:text="${wordCount}">0</h2>
+                    <p class="text-secondary small mb-0">Japanese vocabulary entries</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card border-start border-success border-3 shadow-sm h-100">
+                <div class="card-body">
+                    <div class="d-flex align-items-center justify-content-between mb-2">
+                        <span class="text-uppercase text-secondary fw-bold" style="font-size:.75rem">Grammars</span>
+                        <span class="badge bg-success bg-opacity-10 text-success rounded-pill">
+                            <i class="bi bi-journal-code"></i>
+                        </span>
+                    </div>
+                    <h2 class="fw-bold mb-1" th:text="${grammarCount}">0</h2>
+                    <p class="text-secondary small mb-0">Grammar pattern entries</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card border-start border-warning border-3 shadow-sm h-100">
+                <div class="card-body">
+                    <div class="d-flex align-items-center justify-content-between mb-2">
+                        <span class="text-uppercase text-secondary fw-bold" style="font-size:.75rem">Examples</span>
+                        <span class="badge bg-warning bg-opacity-10 text-warning rounded-pill">
+                            <i class="bi bi-chat-square-text"></i>
+                        </span>
+                    </div>
+                    <h2 class="fw-bold mb-1" th:text="${exampleCount}">0</h2>
+                    <p class="text-secondary small mb-0">Example sentences</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Data Import Section -->
+    <div class="card shadow-sm mb-4">
+        <div class="card-header bg-transparent border-bottom-0 pt-3 pb-0">
+            <h5 class="card-title mb-0">
+                <i class="bi bi-upload me-2"></i>Data Import
+            </h5>
+        </div>
+        <div class="card-body">
+            <p class="text-secondary mb-3">Select the data directory containing <code>word.json</code> and <code>grammar.json</code>, then click Import. Already imported data will be skipped.</p>
+            <div class="mb-3">
+                <label class="form-label">Select Data Directory</label>
+                <div class="input-group">
+                    <input type="text" class="form-control" id="dataDirDisplay" readonly placeholder="No directory selected...">
+                    <button class="btn btn-outline-secondary" type="button" id="btnBrowseDir">
+                        <i class="bi bi-folder2-open me-1"></i> Browse...
+                    </button>
+                </div>
+                <div class="form-text">Select the folder that contains <code>word.json</code> and <code>grammar.json</code>.</div>
+                <input type="file" id="dirPicker" webkitdirectory hidden>
+            </div>
+            <div class="d-flex gap-2" id="importButtons" style="display:none">
+                <button class="btn btn-primary import-btn" data-type="words" id="importWordsBtn">
+                    <i class="bi bi-file-earmark-arrow-up me-1"></i> Import Words
+                </button>
+                <button class="btn btn-success import-btn" data-type="grammars" id="importGrammarsBtn">
+                    <i class="bi bi-file-earmark-arrow-up me-1"></i> Import Grammars
+                </button>
+            </div>
+            <div id="importStatus" class="mt-3" style="display:none"></div>
+        </div>
+    </div>
+
+    <!-- Quick Links -->
+    <div class="card shadow-sm">
+        <div class="card-header bg-transparent border-bottom-0 pt-3 pb-0">
+            <h5 class="card-title mb-0">
+                <i class="bi bi-link-45deg me-2"></i>Quick Links
+            </h5>
+        </div>
+        <div class="card-body">
+            <div class="row g-3">
+                <div class="col-md-4">
+                    <a th:href="@{/admin/dict/words}" class="text-decoration-none">
+                        <div class="card bg-light border-0 h-100 quick-link-card">
+                            <div class="card-body text-center py-4">
+                                <i class="bi bi-book fs-2 text-primary mb-2 d-block"></i>
+                                <h6 class="mb-1">Words</h6>
+                                <small class="text-secondary">Manage vocabulary</small>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a th:href="@{/admin/dict/grammars}" class="text-decoration-none">
+                        <div class="card bg-light border-0 h-100 quick-link-card">
+                            <div class="card-body text-center py-4">
+                                <i class="bi bi-journal-code fs-2 text-success mb-2 d-block"></i>
+                                <h6 class="mb-1">Grammars</h6>
+                                <small class="text-secondary">Manage grammar patterns</small>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a th:href="@{/admin/dict/examples}" class="text-decoration-none">
+                        <div class="card bg-light border-0 h-100 quick-link-card">
+                            <div class="card-body text-center py-4">
+                                <i class="bi bi-chat-square-text fs-2 text-warning mb-2 d-block"></i>
+                                <h6 class="mb-1">Examples</h6>
+                                <small class="text-secondary">Manage example sentences</small>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<script th:inline="javascript">
+/*<![CDATA[*/
+(function () {
+    const statusEl = document.getElementById('importStatus');
+    const dirDisplay = document.getElementById('dataDirDisplay');
+    const dirPicker = document.getElementById('dirPicker');
+    const importButtons = document.getElementById('importButtons');
+    let selectedFiles = [];
+
+    // Click "Browse..." triggers hidden file input
+    document.getElementById('btnBrowseDir').addEventListener('click', function () {
+        dirPicker.value = '';
+        dirPicker.click();
+    });
+
+    // When directory is selected
+    dirPicker.addEventListener('change', function () {
+        if (this.files.length > 0) {
+            const path = this.files[0].webkitRelativePath;
+            const dirName = path.substring(0, path.indexOf('/'));
+            dirDisplay.value = dirName;
+            selectedFiles = Array.from(this.files).filter(f =>
+                f.name === 'word.json' || f.name === 'grammar.json'
+            );
+            if (selectedFiles.length > 0) {
+                importButtons.style.display = '';
+            } else {
+                importButtons.style.display = 'none';
+                statusEl.style.display = '';
+                statusEl.className = 'alert alert-warning mt-3';
+                statusEl.textContent = 'Selected folder does not contain word.json or grammar.json';
+            }
+        }
+    });
+
+    // Import buttons
+    document.querySelectorAll('.import-btn').forEach(btn => {
+        btn.addEventListener('click', function () {
+            const type = this.dataset.type;  // "words" or "grammars"
+            const fileName = type === 'words' ? 'word.json' : 'grammar.json';
+            const file = selectedFiles.find(f => f.name === fileName);
+            if (!file) {
+                statusEl.style.display = '';
+                statusEl.className = 'alert alert-danger mt-3';
+                statusEl.textContent = fileName + ' not found in selected folder';
+                return;
+            }
+
+            const originalHtml = this.innerHTML;
+            this.disabled = true;
+            this.innerHTML = '<span class="spinner-border spinner-border-sm me-1"></span> Importing...';
+            statusEl.style.display = 'none';
+
+            const formData = new FormData();
+            formData.append('file', file);
+
+            fetch('/api/dict/import/' + type, { method: 'POST', body: formData })
+                .then(r => r.json())
+                .then(data => {
+                    statusEl.style.display = '';
+                    if (data.success) {
+                        if (data.imported > 0) {
+                            statusEl.className = 'alert alert-success mt-3';
+                        } else {
+                            statusEl.className = 'alert alert-info mt-3';
+                        }
+                        statusEl.textContent = data.message || 'Import complete';
+                        location.reload();
+                    } else {
+                        statusEl.className = 'alert alert-danger mt-3';
+                        statusEl.textContent = data.message || 'Import failed';
+                    }
+                })
+                .catch(err => {
+                    statusEl.style.display = '';
+                    statusEl.className = 'alert alert-danger mt-3';
+                    statusEl.textContent = 'Import error: ' + err.message;
+                })
+                .finally(() => {
+                    this.disabled = false;
+                    this.innerHTML = originalHtml;
+                });
+        });
+    });
+})();
+/*]]>*/
+</script>
+
+</body>
+</html>

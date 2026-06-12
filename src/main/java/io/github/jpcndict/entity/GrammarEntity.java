@@ -1,6 +1,7 @@
 package io.github.jpcndict.entity;
 
 import io.github.springwhale.database.BaseEntity;
+import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Index;
 import jakarta.persistence.Table;
@@ -26,10 +27,12 @@ public class GrammarEntity extends BaseEntity {
     /**
      * 意义
      */
+    @Column(columnDefinition = "_text")
     private String[] meaning;
     /**
      * 说明
      */
+    @Column(columnDefinition = "_text")
     private String[] notes;
     /**
      * 是否人工确认

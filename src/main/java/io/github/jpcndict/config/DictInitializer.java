@@ -16,6 +16,7 @@ import org.springframework.transaction.annotation.Transactional;
  * Menu hierarchy:
  * <pre>
  * Dict (directory)
+ *   ├── Dashboard (menu)
  *   ├── Word Management (menu)
  *   │   ├── Word Create (button)
  *   │   ├── Word Update (button)
@@ -47,27 +48,55 @@ public class DictInitializer implements CommandLineRunner {
     // ==================== Dict Menus ====================
 
     private void initDictMenus() {
-        // Skip if menus already exist
-        if (menuRepository.findByCode("dict").isPresent()) {
-            log.info("Dict menus already initialized, skipping");
-            return;
-        }
+        // Get or create dict directory
+        MenuEntity dictDir = menuRepository.findByCode("dict")
+                .orElseGet(() -> {
+                    log.info("Creating Dict directory menu...");
+                    return createMenu(null, "dict", "Dict", RbacConstants.MENU_TYPE_DIRECTORY,
+                            null, null, null, "book", 20);
+                });
 
-        log.info("Initializing Dict menus...");
+        // Ensure each sub-menu exists (idempotent)
+        ensureMenuExists(dictDir, "dict:dashboard", "Dashboard",
+                "/admin/dict", 0);
 
-        // Dict directory
-        MenuEntity dictDir = createMenu(null, "dict", "Dict", RbacConstants.MENU_TYPE_DIRECTORY,
-                null, null, null, "book", 20);
-
-        // Three management menus with button permissions
-        createMenuWithButtons(dictDir, "dict:word", "Word Management",
+        ensureMenuWithButtonsExists(dictDir, "dict:word", "Word Management",
                 "/admin/dict/words", 1);
-        createMenuWithButtons(dictDir, "dict:grammar", "Grammar Management",
+
+        ensureMenuWithButtonsExists(dictDir, "dict:grammar", "Grammar Management",
                 "/admin/dict/grammars", 2);
-        createMenuWithButtons(dictDir, "dict:example", "Example Management",
+
+        ensureMenuWithButtonsExists(dictDir, "dict:example", "Example Management",
                 "/admin/dict/examples", 3);
 
         log.info("Dict menus initialized successfully");
+    }
+
+    private void ensureMenuExists(MenuEntity parent, String code, String name,
+                                   String path, int sort) {
+        if (menuRepository.findByCode(code).isEmpty()) {
+            createMenu(parent.getId(), code, name, RbacConstants.MENU_TYPE_MENU,
+                    path, null, null, "file-text", sort);
+        }
+    }
+
+    private void ensureMenuWithButtonsExists(MenuEntity parent, String baseCode, String name,
+                                              String path, int sort) {
+        MenuEntity menu = menuRepository.findByCode(baseCode)
+                .orElseGet(() -> createMenu(parent.getId(), baseCode, name, RbacConstants.MENU_TYPE_MENU,
+                        path, null, null, "file-text", sort));
+
+        // Ensure button permissions
+        ensureButtonExists(menu, baseCode + ":create", name + " Create", 1);
+        ensureButtonExists(menu, baseCode + ":update", name + " Update", 2);
+        ensureButtonExists(menu, baseCode + ":delete", name + " Delete", 3);
+    }
+
+    private void ensureButtonExists(MenuEntity parent, String code, String name, int sort) {
+        if (menuRepository.findByCode(code).isEmpty()) {
+            createMenu(parent.getId(), code, name, RbacConstants.MENU_TYPE_BUTTON,
+                    null, null, code, null, sort);
+        }
     }
 
     private MenuEntity createMenu(Integer parentId, String code, String name, int type,
@@ -86,24 +115,6 @@ public class DictInitializer implements CommandLineRunner {
         menu.setVisible(1);
         menu.setStatus(1);
         return menuRepository.save(menu);
-    }
-
-    /**
-     * Creates a menu item and its standard CRUD button permissions.
-     */
-    private void createMenuWithButtons(MenuEntity parent, String baseCode, String name,
-                                        String path, int sort) {
-        // Main menu
-        MenuEntity menu = createMenu(parent.getId(), baseCode, name, RbacConstants.MENU_TYPE_MENU,
-                path, null, null, "file-text", sort);
-
-        // Standard CRUD button permissions
-        createMenu(menu.getId(), baseCode + ":create", name + " Create", RbacConstants.MENU_TYPE_BUTTON,
-                null, null, baseCode + ":create", null, 1);
-        createMenu(menu.getId(), baseCode + ":update", name + " Update", RbacConstants.MENU_TYPE_BUTTON,
-                null, null, baseCode + ":update", null, 2);
-        createMenu(menu.getId(), baseCode + ":delete", name + " Delete", RbacConstants.MENU_TYPE_BUTTON,
-                null, null, baseCode + ":delete", null, 3);
     }
 
 }

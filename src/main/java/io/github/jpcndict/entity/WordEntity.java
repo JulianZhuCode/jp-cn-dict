@@ -33,10 +33,12 @@ public class WordEntity extends BaseEntity {
     /**
      * 意义
      */
+    @Column(columnDefinition = "_text")
     private String[] meaning;
     /**
      * 说明
      */
+    @Column(columnDefinition = "_text")
     private String[] notes;
     /**
      * 词性

@@ -4,6 +4,10 @@ server:
 spring:
   application:
     name: jp-cn-dict
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      max-request-size: 100MB
   thymeleaf:
     cache: false
   web:
