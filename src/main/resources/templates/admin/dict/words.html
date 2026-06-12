@@ -46,7 +46,7 @@
                 <span th:unless="${item.meaning != null and #arrays.length(item.meaning) > 0}">-</span>
             </td>
             <td>
-                <span th:if="${item.pos != null}" class="badge badge-info" th:text="${item.pos}">VERB_II</span>
+                <span th:if="${item.pos != null}" class="badge bg-info" th:text="${item.pos}">VERB_II</span>
                 <span th:unless="${item.pos != null}">-</span>
             </td>
             <td>
@@ -55,58 +55,60 @@
                       th:text="${n + (iterStat.last ? '' : ', ')}">verb</span>
                 <span th:unless="${item.notes != null and #arrays.length(item.notes) > 0}">-</span>
             </td>
-            <td class="flex-gap">
+            <td class="d-flex gap-2">
                 <button th:if="${#sets.contains(userAuthorities, '*') or #sets.contains(userAuthorities, 'dict:word:update')}"
-                        data-modal="word-modal" th:attr="data-edit-id=${item.id}" class="btn btn-primary btn-sm">Edit</button>
+                        data-modal="word-modal" th:attr="data-edit-id=${item.id}" class="btn btn-outline-primary btn-sm">Edit</button>
             </td>
         </th:block>
     </th:block>
 
-    <!-- Word Modal -->
-    <div id="word-modal" class="dict-modal-overlay hidden">
+    <!-- Word Modal (Bootstrap 5) -->
+    <div class="modal fade" id="word-modal" tabindex="-1" aria-hidden="true">
         <div class="modal-dialog">
-            <div class="modal-header">
-                <h2 class="modal-title">Create Word</h2>
-                <button class="modal-close">&times;</button>
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Create Word</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <form class="dict-modal-form" data-api-base="/api/words">
+                    <div class="modal-body">
+                        <div class="mb-3">
+                            <label class="form-label" for="word-word">Word</label>
+                            <input type="text" id="word-word" name="word" class="form-control" required>
+                            <div class="invalid-feedback" data-field="word"></div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" for="word-reading">Reading</label>
+                            <input type="text" id="word-reading" name="reading" class="form-control">
+                            <div class="invalid-feedback" data-field="reading"></div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" for="word-romaji">Romaji</label>
+                            <input type="text" id="word-romaji" name="romaji" class="form-control">
+                            <div class="invalid-feedback" data-field="romaji"></div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" for="word-pos">Part of Speech</label>
+                            <input type="text" id="word-pos" name="pos" class="form-control">
+                            <div class="invalid-feedback" data-field="pos"></div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" for="word-meaning">Meaning (comma separated)</label>
+                            <input type="text" id="word-meaning" name="meaning" class="form-control">
+                            <div class="invalid-feedback" data-field="meaning"></div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" for="word-notes">Notes (comma separated)</label>
+                            <input type="text" id="word-notes" name="notes" class="form-control">
+                            <div class="invalid-feedback" data-field="notes"></div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                        <button type="button" class="btn btn-primary modal-submit">Save</button>
+                    </div>
+                </form>
             </div>
-            <form class="dict-modal-form" data-api-base="/api/words">
-                <div class="modal-body">
-                    <div class="form-group">
-                        <label class="form-label" for="word-word">Word</label>
-                        <input type="text" id="word-word" name="word" class="form-control" required>
-                        <div class="form-error" data-field="word"></div>
-                    </div>
-                    <div class="form-group">
-                        <label class="form-label" for="word-reading">Reading</label>
-                        <input type="text" id="word-reading" name="reading" class="form-control">
-                        <div class="form-error" data-field="reading"></div>
-                    </div>
-                    <div class="form-group">
-                        <label class="form-label" for="word-romaji">Romaji</label>
-                        <input type="text" id="word-romaji" name="romaji" class="form-control">
-                        <div class="form-error" data-field="romaji"></div>
-                    </div>
-                    <div class="form-group">
-                        <label class="form-label" for="word-pos">Part of Speech</label>
-                        <input type="text" id="word-pos" name="pos" class="form-control">
-                        <div class="form-error" data-field="pos"></div>
-                    </div>
-                    <div class="form-group">
-                        <label class="form-label" for="word-meaning">Meaning (comma separated)</label>
-                        <input type="text" id="word-meaning" name="meaning" class="form-control">
-                        <div class="form-error" data-field="meaning"></div>
-                    </div>
-                    <div class="form-group">
-                        <label class="form-label" for="word-notes">Notes (comma separated)</label>
-                        <input type="text" id="word-notes" name="notes" class="form-control">
-                        <div class="form-error" data-field="notes"></div>
-                    </div>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary modal-cancel">Cancel</button>
-                    <button type="button" class="btn btn-primary modal-submit">Save</button>
-                </div>
-            </form>
         </div>
     </div>
 </main>
