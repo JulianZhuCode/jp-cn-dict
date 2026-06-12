@@ -59,16 +59,28 @@ public class DictDashboardController {
     }
 
     @GetMapping("/export/words")
-    public void exportWords(HttpServletResponse response) throws IOException {
-        response.setContentType("application/zip");
-        response.setHeader("Content-Disposition", "attachment; filename=words.zip");
-        dictImportService.exportWords(response.getOutputStream());
+    public void exportWords(HttpServletResponse response) {
+        try {
+            byte[] zipData = dictImportService.exportWords();
+            response.setContentType("application/zip");
+            response.setHeader("Content-Disposition", "attachment; filename=words.zip");
+            response.getOutputStream().write(zipData);
+        } catch (IOException e) {
+            log.error("words 导出失败", e);
+            throw BusinessException.create("EXPORT_ERROR", "导出失败");
+        }
     }
 
     @GetMapping("/export/grammars")
-    public void exportGrammars(HttpServletResponse response) throws IOException {
-        response.setContentType("application/zip");
-        response.setHeader("Content-Disposition", "attachment; filename=grammars.zip");
-        dictImportService.exportGrammars(response.getOutputStream());
+    public void exportGrammars(HttpServletResponse response) {
+        try {
+            byte[] zipData = dictImportService.exportGrammars();
+            response.setContentType("application/zip");
+            response.setHeader("Content-Disposition", "attachment; filename=grammars.zip");
+            response.getOutputStream().write(zipData);
+        } catch (IOException e) {
+            log.error("grammars 导出失败", e);
+            throw BusinessException.create("EXPORT_ERROR", "导出失败");
+        }
     }
 }

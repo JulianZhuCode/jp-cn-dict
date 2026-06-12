@@ -15,6 +15,7 @@ import tools.jackson.databind.DeserializationFeature;
 import tools.jackson.databind.ObjectMapper;
 import tools.jackson.databind.ObjectReader;
 
+import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
@@ -38,38 +39,37 @@ public class DictImportService {
     private final ObjectReader mapReader = objectMapper.readerFor(Map.class)
             .without(DeserializationFeature.FAIL_ON_TRAILING_TOKENS);
 
-    // ---- Import (batch) ----
+    // ---- Import (upsert by id) ----
 
     @Transactional
     public int importWords(List<InputStream> inputStreams) throws IOException {
-        long existingCount = wordRepository.count();
-        if (existingCount > 0) {
-            log.info("Words already imported ({} records), skipping", existingCount);
-            return 0;
-        }
+        long before = wordRepository.count();
         int total = 0;
         for (InputStream is : inputStreams) {
             total += importJsonArray(is, this::toWordEntity, wordRepository::saveAll);
         }
+        long after = wordRepository.count();
+        log.info("Words import complete: {} processed, {} new inserted, {} updated",
+                total, after - before, total - (after - before));
         return total;
     }
 
     @Transactional
     public int importGrammars(List<InputStream> inputStreams) throws IOException {
-        long existingCount = grammarRepository.count();
-        if (existingCount > 0) {
-            log.info("Grammars already imported ({} records), skipping", existingCount);
-            return 0;
-        }
+        long before = grammarRepository.count();
         int total = 0;
         for (InputStream is : inputStreams) {
             total += importJsonArray(is, this::toGrammarEntity, grammarRepository::saveAll);
         }
+        long after = grammarRepository.count();
+        log.info("Grammars import complete: {} processed, {} new inserted, {} updated",
+                total, after - before, total - (after - before));
         return total;
     }
 
     private WordEntity toWordEntity(Map<String, Object> raw) {
         WordEntity entity = new WordEntity();
+        entity.setId(toInt(raw.get("id")));
         entity.setWord((String) raw.get("word"));
         entity.setReading((String) raw.get("reading"));
         entity.setRomaji((String) raw.get("romaji"));
@@ -86,6 +86,7 @@ public class DictImportService {
 
     private GrammarEntity toGrammarEntity(Map<String, Object> raw) {
         GrammarEntity entity = new GrammarEntity();
+        entity.setId(toInt(raw.get("id")));
         entity.setWord((String) raw.get("word"));
         entity.setReading((String) raw.get("reading"));
         @SuppressWarnings("unchecked")
@@ -96,6 +97,13 @@ public class DictImportService {
         entity.setNotes(notes != null ? notes.toArray(new String[0]) : null);
         entity.setIsManualConfirmed(Boolean.TRUE.equals(raw.get("isManualConfirmed")));
         return entity;
+    }
+
+    private static Integer toInt(Object value) {
+        if (value instanceof Number n) {
+            return n.intValue();
+        }
+        return null;
     }
 
     private <T> int importJsonArray(InputStream inputStream,
@@ -133,24 +141,28 @@ public class DictImportService {
 
     // ---- Export ----
 
-    public void exportWords(OutputStream out) throws IOException {
+    public byte[] exportWords() throws IOException {
         List<WordEntity> all = wordRepository.findAll(Sort.by("id"));
         Map<Integer, List<Map<String, Object>>> groups = new TreeMap<>();
         for (WordEntity e : all) {
             int start = ((e.getId() - 1) / 100) * 100 + 1;
             groups.computeIfAbsent(start, _ -> new ArrayList<>()).add(toWordExportMap(e));
         }
-        writeZip(out, "word_", groups);
+        ByteArrayOutputStream baos = new ByteArrayOutputStream();
+        writeZip(baos, "word_", groups);
+        return baos.toByteArray();
     }
 
-    public void exportGrammars(OutputStream out) throws IOException {
+    public byte[] exportGrammars() throws IOException {
         List<GrammarEntity> all = grammarRepository.findAll(Sort.by("id"));
         Map<Integer, List<Map<String, Object>>> groups = new TreeMap<>();
         for (GrammarEntity e : all) {
             int start = ((e.getId() - 1) / 100) * 100 + 1;
             groups.computeIfAbsent(start, _ -> new ArrayList<>()).add(toGrammarExportMap(e));
         }
-        writeZip(out, "grammar_", groups);
+        ByteArrayOutputStream baos = new ByteArrayOutputStream();
+        writeZip(baos, "grammar_", groups);
+        return baos.toByteArray();
     }
 
     private Map<String, Object> toWordExportMap(WordEntity e) {
