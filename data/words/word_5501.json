@@ -1,0 +1,901 @@
+[ {
+  "id" : 5501,
+  "word" : "座席",
+  "reading" : "ざせき",
+  "romaji" : null,
+  "meaning" : [ "座位，席位" ],
+  "notes" : [ "指剧场、交通工具等场所的座位。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5502,
+  "word" : "座敷",
+  "reading" : "ざしき",
+  "romaji" : null,
+  "meaning" : [ "（日式）铺着榻榻米的房间；客厅；宴席" ],
+  "notes" : [ "指铺有榻榻米的日式房间，通常也指用于接待客人的房间或举办宴会的场所。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5503,
+  "word" : "座標",
+  "reading" : "ざひょう",
+  "romaji" : null,
+  "meaning" : [ "（数学）坐标；（位置、场所的）座落位置" ],
+  "notes" : [ "常用汉字。数学中表示确定平面上或空间中一点位置的一组有次序的数。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5504,
+  "word" : "座談会",
+  "reading" : "ざだんかい",
+  "romaji" : null,
+  "meaning" : [ "座谈会，讨论会；多人围坐在一起交谈的会议" ],
+  "notes" : [ "通常指为了讨论特定话题而聚集在一起进行的非正式会议。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5505,
+  "word" : "庭",
+  "reading" : "にわ",
+  "romaji" : null,
+  "meaning" : [ "院子，庭园" ],
+  "notes" : [ "指房屋周围的空地，通常种植花草或树木。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5506,
+  "word" : "庭園",
+  "reading" : "ていえん",
+  "romaji" : null,
+  "meaning" : [ "庭园，花园；园林。指为了观赏或休憩而精心设计的庭院。" ],
+  "notes" : [ "通常指经过人工设计、具有观赏价值的较大规模的庭院。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5507,
+  "word" : "庶民",
+  "reading" : "しょみん",
+  "romaji" : null,
+  "meaning" : [ "普通百姓，平民，大众。指社会地位一般的大多数人。" ],
+  "notes" : [ "常用来指代一般大众或平民阶层，带有平民化、大众化的语感。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5508,
+  "word" : "廃れる",
+  "reading" : "すたれる",
+  "romaji" : null,
+  "meaning" : [ "1. 废除；废止；不再流行（变得陈旧）。2. 衰落；衰败；不再被使用。" ],
+  "notes" : [ "通常用于描述风俗、习惯、语言或事物的流行度减退或消失。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5509,
+  "word" : "廃棄",
+  "reading" : "はいき",
+  "romaji" : null,
+  "meaning" : [ "废弃，报废（不再使用的东西）；废除（法律、条约等）" ],
+  "notes" : [ "常以「廃棄する」的形式作为动词使用。相关词汇：廃棄物（废弃物）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5510,
+  "word" : "廃止",
+  "reading" : "はいし",
+  "romaji" : null,
+  "meaning" : [ "废止，废除，作废" ],
+  "notes" : [ "通常以「廃止する」的形式作为动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5511,
+  "word" : "廊下",
+  "reading" : "ろうか",
+  "romaji" : null,
+  "meaning" : [ "走廊，过道" ],
+  "notes" : [ "指建筑物中连接各房间的通道。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5512,
+  "word" : "延々",
+  "reading" : "えんえん",
+  "romaji" : null,
+  "meaning" : [ "（形容事物）连绵不断、持续不断；没完没了地（进行）。" ],
+  "notes" : [ "写作“延々”或“延延”。通常用于形容时间、距离、动作等持续很长时间且没有结束迹象，带有冗长或单调的语感。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5513,
+  "word" : "延ばします",
+  "reading" : "のばします",
+  "romaji" : null,
+  "meaning" : [ "延长；拉长；拖延；展宽" ],
+  "notes" : [ "汉字写作“延ばす”或“伸ばす”。活用形：延ばさない（未然形）、延ばします（连用形）、延ばす（终止形）、延ばすとき（连体形）、延ばせば（假定形）、延ばせ（命令形）。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5514,
+  "word" : "延ばす",
+  "reading" : "のばす",
+  "romaji" : null,
+  "meaning" : [ "延长，伸展；拖延，推迟" ],
+  "notes" : [ "汉字写作「延ばす」时，主要表示时间的延长或推迟；写作「伸ばす」时，主要表示长度、伸展或能力的扩展。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5515,
+  "word" : "延びる",
+  "reading" : "のびる",
+  "romaji" : null,
+  "meaning" : [ "1. 延伸，延长；变长。\n2. （时间）推迟，延期。\n3. （形势、能力等）发展，长进。\n4. （身体）长高。" ],
+  "notes" : [ "自动词。对应的他动词为「延ばす（のばす）」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5516,
+  "word" : "延べ",
+  "reading" : "のべ",
+  "romaji" : null,
+  "meaning" : [ "总计，共计（指把分散的数量加在一起的总数，如总人数、总天数等）" ],
+  "notes" : [ "常用于计算累计数量，如“延べ人数”（总人次）、“延べ日数”（总天数）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5517,
+  "word" : "延期",
+  "reading" : "えんき",
+  "romaji" : null,
+  "meaning" : [ "延期，推迟；延长日期" ],
+  "notes" : [ "作为动词使用时，通常后续接「する」变为「延期する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5518,
+  "word" : "延長",
+  "reading" : "えんちょう",
+  "romaji" : null,
+  "meaning" : [ "延长；延伸；扩展" ],
+  "notes" : [ "作为动词时属于サ变动词（する），也可以作为名词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5519,
+  "word" : "建ちます",
+  "reading" : "たちます",
+  "romaji" : null,
+  "meaning" : [ "盖，建；耸立，矗立（建筑物等）" ],
+  "notes" : [ "原形为「建つ（たつ）」，属于自动词，表示建筑物建成或耸立。对应的他动词是「建てる（たてる）」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5520,
+  "word" : "建つ",
+  "reading" : "たつ",
+  "romaji" : null,
+  "meaning" : [ "（建筑物）盖，建；建立" ],
+  "notes" : [ "通常指建筑物建成。与「建てる（他动词）」相对，表示自发的动作或状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5521,
+  "word" : "建てます",
+  "reading" : "たてます",
+  "romaji" : null,
+  "meaning" : [ "盖，建造；建立，创立" ],
+  "notes" : [ "动词原形为「建てる」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5522,
+  "word" : "建てる",
+  "reading" : "たてる",
+  "romaji" : null,
+  "meaning" : [ "建造，盖（房子、建筑物等）；创立，建立（抽象事物，如国家、理论等）" ],
+  "notes" : [ "反义词是「壊（こわ）す」。作为后缀使用时，表示某种建筑风格，如「木造（もくぞう）建（だ）て」。「建つ」是自动词，表示“建好，耸立”。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5523,
+  "word" : "建前",
+  "reading" : "たてまえ",
+  "romaji" : null,
+  "meaning" : [ "原则，方针；（在社交场合说的）场面话，客套，冠冕堂皇的话" ],
+  "notes" : [ "常与“本音（ほんね）”一词对照使用，表示在公开场合或社交礼仪上所说的原则性话语，往往并非内心的真实想法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5524,
+  "word" : "建物",
+  "reading" : "たてもの",
+  "romaji" : null,
+  "meaning" : [ "建筑物，房屋" ],
+  "notes" : [ "通常指建造完成的房屋或建筑物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5525,
+  "word" : "建築",
+  "reading" : "けんちく",
+  "romaji" : null,
+  "meaning" : [ "建筑，建造（建筑物）" ],
+  "notes" : [ "サ变动词词干，也可作为名词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5526,
+  "word" : "建築家",
+  "reading" : "けんちくか",
+  "romaji" : null,
+  "meaning" : [ "建筑师；设计并监督房屋建造的人" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5527,
+  "word" : "建設",
+  "reading" : "けんせつ",
+  "romaji" : null,
+  "meaning" : [ "建设，修建，建造" ],
+  "notes" : [ "サ変動詞「建設する」の語幹としても使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5528,
+  "word" : "建設する",
+  "reading" : "けんせつする",
+  "romaji" : null,
+  "meaning" : [ "修建，建设，设立" ],
+  "notes" : [ "通常指建造建筑物、道路、桥梁等土木工程。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5529,
+  "word" : "建造物",
+  "reading" : "けんぞうぶつ",
+  "romaji" : null,
+  "meaning" : [ "建筑物；建造的物体。多指房屋、大楼等结构体。" ],
+  "notes" : [ "属于法律或建筑领域常用词汇，常用于指代受保护或具有特定价值的建筑结构。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5530,
+  "word" : "弁償",
+  "reading" : "べんしょう",
+  "romaji" : null,
+  "meaning" : [ "赔偿；赔偿损失。对他人的损失进行赔偿并恢复原状。" ],
+  "notes" : [ "サ変動詞「弁償する」の形でも使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5531,
+  "word" : "弁償",
+  "reading" : "べんしょう",
+  "romaji" : null,
+  "meaning" : [ "赔偿，补偿（因过失等造成的损失）" ],
+  "notes" : [ "通常以「弁償する」的形式使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5532,
+  "word" : "弁当",
+  "reading" : "べんとう",
+  "romaji" : null,
+  "meaning" : [ "盒饭，便当（装入盒中的饭菜，通常带出外食用）" ],
+  "notes" : [ "汉字也可写作“便当”。在日语中指装入容器中的饭菜，常用于午餐或外出时食用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5533,
+  "word" : "弁明",
+  "reading" : "べんめい",
+  "romaji" : null,
+  "meaning" : [ "解释，说明；辩解，辩白" ],
+  "notes" : [ "「弁明」侧重于为了消除误解或指责而进行的辩解或解释。作动词使用时，后续通常接「する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5534,
+  "word" : "弁解",
+  "reading" : "べんかい",
+  "romaji" : null,
+  "meaning" : [ "辩解，分辩，解释（通常指为错误或过失进行辩白）" ],
+  "notes" : [ "通常用于为错误或过失进行辩解的语境，带有试图推卸责任或找借口的语感。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5535,
+  "word" : "弁論",
+  "reading" : "べんろん",
+  "romaji" : null,
+  "meaning" : [ "辩论，演讲，论辩" ],
+  "notes" : [ "既可以指公开的演讲或演说，也可以指双方针对某一问题进行的争论或辩论。作为动词使用时，需后续「する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5536,
+  "word" : "弁護",
+  "reading" : "べんご",
+  "romaji" : null,
+  "meaning" : [ "辩护；辩解（为无罪或错误进行辩护）" ],
+  "notes" : [ "通常用于法律语境或为某种主张进行辩护。作为动词使用时，常用サ行变格活用动词「弁護する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5537,
+  "word" : "弁護士",
+  "reading" : "べんごし",
+  "romaji" : null,
+  "meaning" : [ "律师，辩护律师" ],
+  "notes" : [ "指在法庭上为当事人进行辩护的法律专业人士。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5538,
+  "word" : "弄る",
+  "reading" : "いじる",
+  "romaji" : null,
+  "meaning" : [ "摆弄，玩弄；玩赏（物品）；鼓捣，修理；嘲弄，戏弄；随意改动" ],
+  "notes" : [ "常用于表示摆弄物品、修理机器或无聊时的动作；也可表示对他人的戏弄。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5539,
+  "word" : "弊害",
+  "reading" : "へいがい",
+  "romaji" : null,
+  "meaning" : [ "弊病；恶劣影响；因某事物而产生的坏影响" ],
+  "notes" : [ "通常用于书面语或正式场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5540,
+  "word" : "弊社",
+  "reading" : "へいしゃ",
+  "romaji" : null,
+  "meaning" : [ "敝公司；本公司（自谦语，用于对外称呼自己的公司）" ],
+  "notes" : [ "自谦语，用于商务场合对外部人员称呼自己的公司。称呼对方公司时应使用“貴社（きしゃ）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5541,
+  "word" : "式",
+  "reading" : "しき",
+  "romaji" : null,
+  "meaning" : [ "1. 仪式，典礼；2. 方式，风格；3. 公式，算式；4. （表示某种特定的）形式，样式" ],
+  "notes" : [ "接尾词用法：表示特定的样式或风格，如‘洋式’（西式）、‘和式’（日式）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5542,
+  "word" : "式場",
+  "reading" : "しきじょう",
+  "romaji" : null,
+  "meaning" : [ "举行仪式的场所（如婚礼场、葬礼场等）" ],
+  "notes" : [ "通常指专门用于举办婚礼、葬礼等仪式的场所。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5543,
+  "word" : "引かれる",
+  "reading" : "ひかれる",
+  "romaji" : null,
+  "meaning" : [ "1. 被吸引，被迷住；2. 被拉开，被拽走；3. 被减去，被扣除；4. （人气等）被看中，受青睐" ],
+  "notes" : [ "动词「引く」的被动形式，也可作为下一段动词使用。常用于表达情感上的吸引或关注。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5544,
+  "word" : "引きこもる",
+  "reading" : "ひきこもる",
+  "romaji" : null,
+  "meaning" : [ "闭门不出；闷在家里；隐居，退隐" ],
+  "notes" : [ "通常指因心理原因、失业、学业压力等社会因素而长期待在家里，不与外界接触的状态。名词形式为「引きこもり」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5545,
+  "word" : "引きずる",
+  "reading" : "ひきずる",
+  "romaji" : null,
+  "meaning" : [ "1. 拖，拉；（在地上）拖行；2. 拖延，拖沓；3. 硬拉，强行带走" ],
+  "notes" : [ "通常写作「引きずる」，也可以写作「引ずる」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5546,
+  "word" : "引きます",
+  "reading" : "ひきます",
+  "romaji" : null,
+  "meaning" : [ "拉；引；查（字典）；减去；惹（人注意）；安装（线缆等）" ],
+  "notes" : [ "原型为「引く」。属于五段动词（Class 1 Verb）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5547,
+  "word" : "引き上げる",
+  "reading" : "ひきあげる",
+  "romaji" : null,
+  "meaning" : [ "1. 吊起，打捞（从水中等）；2. 提高，提升（价格、水平等）；3. 撤回，撤退（军队等）；4. 返回，带回" ],
+  "notes" : [ "反义词为引き下げる（ひきさげる）。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5548,
+  "word" : "引き下がる",
+  "reading" : "ひきさがる",
+  "romaji" : null,
+  "meaning" : [ "1. 退下，后退，撤走；2. 撤回，放弃（主张、要求等）；3. 认输，让步" ],
+  "notes" : [ "常用于表示从某处退离，或者放弃某种立场、主张。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5549,
+  "word" : "引き伸ばす",
+  "reading" : "ひきのばす",
+  "romaji" : null,
+  "meaning" : [ "拉长；延长；拖延；放大（照片等）" ],
+  "notes" : [ "也可以写作「引伸ばす」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5550,
+  "word" : "引き出し",
+  "reading" : "ひきだし",
+  "romaji" : null,
+  "meaning" : [ "抽屉；提取（存款）" ],
+  "notes" : [ "作动词使用时，写作“引き出す”，意为“拉出”、“提取（存款）”、“引出（隐藏的事物）”等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5551,
+  "word" : "引き出す",
+  "reading" : "ひきだす",
+  "romaji" : null,
+  "meaning" : [ "1. 拉出；抽出；抽出（抽屉等） 2. 引出；引导出（潜能、话等） 3. 提取（存款）" ],
+  "notes" : [ "汉字写作“引出す”或“引き出す”。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5552,
+  "word" : "引き分け",
+  "reading" : "ひきわけ",
+  "romaji" : null,
+  "meaning" : [ "平局；平手；不分胜负" ],
+  "notes" : [ "常用于比赛、竞技等场合表示未分出胜负。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5553,
+  "word" : "引き取る",
+  "reading" : "ひきとる",
+  "romaji" : null,
+  "meaning" : [ "1. 领回，取回（物品或人）；2. 收养，领养（孩子）；3. 退出，回去；4.（商店）买下，收购" ],
+  "notes" : [ "作为“回去、退出”讲时，通常含有离开某地不再停留的语感。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5554,
+  "word" : "引き受ける",
+  "reading" : "ひきうける",
+  "romaji" : null,
+  "meaning" : [ "1. 接受，承担（任务、责任等）；2. 答应，应承；3. 担保，保证" ],
+  "notes" : [ "通常写作「引き受ける」，也可写作「引受ける」。表示承担某种责任或接受某项任务。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5555,
+  "word" : "引き止める",
+  "reading" : "ひきとめる",
+  "romaji" : null,
+  "meaning" : [ "1. 拉住，拽住，使（某人）停下；劝阻，制止。\n2. 挽留，留住（不让走）。" ],
+  "notes" : [ "书写时也可以写作「引き留める」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5556,
+  "word" : "引き算",
+  "reading" : "ひきざん",
+  "romaji" : null,
+  "meaning" : [ "（数学）减法；减法运算" ],
+  "notes" : [ "反义词为“足し算”（加法）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5557,
+  "word" : "引き継ぐ",
+  "reading" : "ひきつぐ",
+  "romaji" : null,
+  "meaning" : [ "1. （工作、业务等）交接，移交。\n2. （传统、精神等）继承，承袭。" ],
+  "notes" : [ "由「引く」（拉、引）和「継ぐ」（继承、接续）组成的复合动词。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5558,
+  "word" : "引き続き",
+  "reading" : "ひきつづき",
+  "romaji" : null,
+  "meaning" : [ "紧接着，继续；连续；持续" ],
+  "notes" : [ "常用于商务场合或正式文书中，表示动作或状态的持续。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5559,
+  "word" : "引き締める",
+  "reading" : "ひきしめる",
+  "romaji" : null,
+  "meaning" : [ "1. 勒紧，扎紧（如腰带、领带等）。2. 使紧张，使振奋。3. 紧缩，缩减（如开支、纪律等）。" ],
+  "notes" : [ "也可写作「引締める」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5560,
+  "word" : "引き起こす",
+  "reading" : "ひきおこす",
+  "romaji" : null,
+  "meaning" : [ "1. 引起；导致（事故、问题、纠纷等）。\n2. 拉起；扶起（倒下的人或物）。" ],
+  "notes" : [ "通常写作汉字“引き起こす”，也可写作“ひき起こす”。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5561,
+  "word" : "引き返す",
+  "reading" : "ひきかえす",
+  "romaji" : null,
+  "meaning" : [ "返回，折回；中途倒退，回转身往回走" ],
+  "notes" : [ "常用于表示在中途改变方向返回原处，或因某种原因放弃前进而折返。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5562,
+  "word" : "引く",
+  "reading" : "ひく",
+  "romaji" : null,
+  "meaning" : [ "拉，拽；引（线）；减去；查（字典）；惹（祸）；吸入；退（席）；患（病）" ],
+  "notes" : [ "根据语境不同，有多种含义，如物理上的拉、数学运算、查阅、患病等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5563,
+  "word" : "引け目",
+  "reading" : "ひけめ",
+  "romaji" : null,
+  "meaning" : [ "自卑感；自惭形秽的感觉；短处，缺点（常指由此产生的自卑心理）" ],
+  "notes" : [ "由动词「引く」（退后、输）的连用形与「目」结合而成，表示觉得自己不如对方而退缩的心理。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5564,
+  "word" : "引っかける",
+  "reading" : "ひっかける",
+  "romaji" : null,
+  "meaning" : [ "1. 挂上，悬挂；2. 挂住，钩住；3. 潦草地写，涂；4. 猛泼，洒；5. 欺骗，以此蒙混；6. 抽（烟）" ],
+  "notes" : [ "通常指将物体挂在某处，或者物体被某物钩住。也常用于泼水或欺骗等语境。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5565,
+  "word" : "引っくり返る",
+  "reading" : "ひっくりかえる",
+  "romaji" : null,
+  "meaning" : [ "1. 倒下，翻倒（指物体倒置或翻了个儿）；2. 翻过来，颠倒（指上下、里外或顺序颠倒）；3. 形势逆转（指局面、情况等发生逆转）" ],
+  "notes" : [ "常写作「ひっくり返る」。近义词有「覆る（くつがえる）」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5566,
+  "word" : "引っ張ります",
+  "reading" : "ひっぱります",
+  "romaji" : null,
+  "meaning" : [ "拉，拽，拖；拖延" ],
+  "notes" : [ "动词原形为引っ張る（ひっぱる）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5567,
+  "word" : "引っ張る",
+  "reading" : "ひっぱる",
+  "romaji" : null,
+  "meaning" : [ "拉，拽，拖；强行拉走；（俗）邀请" ],
+  "notes" : [ "常用作他动词。物理上的拉扯动作，也可用于比喻（如：把人拉入伙）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5568,
+  "word" : "引っ掛かる",
+  "reading" : "ひっかかる",
+  "romaji" : null,
+  "meaning" : [ "1. 挂上，挂住；（钩子等）钩住 2. 牵连，连累 3. 被骗，上当；受...的圈套 4. 触（电）；被（警察）盘问" ],
+  "notes" : [ "有时也写作「引っかかる」。作为五段动词，其过去式为「引っ掛かった」，否定形式为「引っ掛からない」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5569,
+  "word" : "引っ掻く",
+  "reading" : "ひっかく",
+  "romaji" : null,
+  "meaning" : [ "抓，挠；搔（用指甲或爪子用力抓）" ],
+  "notes" : [ "常用于动物抓人或人抓痒、抓伤的情况。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5570,
+  "word" : "引っ繰り返る",
+  "reading" : "ひっくりかえる",
+  "romaji" : null,
+  "meaning" : [ "1. 翻倒，倒下（物体翻转到底部朝上）；2. 颠倒，翻转（上下、里外颠倒）；3. 彻底改变（局面、状态等）" ],
+  "notes" : [ "也可以写作「ひっくり返る」。其使役形态「引っ繰り返す（ひっくりかえす）」为他动词，意为“弄翻”、“推翻”。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5571,
+  "word" : "引っ越し",
+  "reading" : "ひっこし",
+  "romaji" : null,
+  "meaning" : [ "搬家，搬迁" ],
+  "notes" : [ "通常以「引っ越し（を）する」的形式作为动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5572,
+  "word" : "引っ越し",
+  "reading" : "ひっこし",
+  "romaji" : null,
+  "meaning" : [ "搬家，搬迁，迁居" ],
+  "notes" : [ "“引っ越しします”是动词“引っ越しする”的活用形式，原词通常作为名词使用，也可通过“する”变为动词（サ变动词）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5573,
+  "word" : "引っ越します",
+  "reading" : "ひっこします",
+  "romaji" : null,
+  "meaning" : [ "搬家，迁居，搬迁" ],
+  "notes" : [ "原形为「引っ越す」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5574,
+  "word" : "引っ越す",
+  "reading" : "ひっこす",
+  "romaji" : null,
+  "meaning" : [ "搬家，搬迁，迁居" ],
+  "notes" : [ "“引っ越す”是五段动词，意为搬迁住所。常用的相关词有“引っ越し（搬家）”。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5575,
+  "word" : "引っ込む",
+  "reading" : "ひっこむ",
+  "romaji" : null,
+  "meaning" : [ "1. 退下，撤回，退出；2. 缩进，凹陷；3. 畏缩，退缩；4. 隐居，闭门不出" ],
+  "notes" : [ "通常写作「引っ込む」，也可写作「引込む」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5576,
+  "word" : "引力",
+  "reading" : "いんりょく",
+  "romaji" : null,
+  "meaning" : [ "引力；万有引力。指物体之间相互吸引的力。" ],
+  "notes" : [ "物理学用語。特に「万有引力」を指すことが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5577,
+  "word" : "引率",
+  "reading" : "いんそつ",
+  "romaji" : null,
+  "meaning" : [ "（带领、率领）率领，带领。特指带领儿童、学生或团队前往某地。" ],
+  "notes" : [ "常用于老师带领学生、导游带领游客等场景。对应动词形式为「引率する（いんそつする）」，属于サ行变格动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5578,
+  "word" : "引用",
+  "reading" : "いんよう",
+  "romaji" : null,
+  "meaning" : [ "引用（文章、事例等）；摘录" ],
+  "notes" : [ "作为サ变动词（引用する）使用时，词性为动词，活用类型为サ变动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5579,
+  "word" : "引退",
+  "reading" : "いんたい",
+  "romaji" : null,
+  "meaning" : [ "隐退，退役，引退（指从职位、职业、竞技赛场等退下来）" ],
+  "notes" : [ "通常指从某种长期从事的职位、职业或竞技活动中正式退出。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5580,
+  "word" : "弛み",
+  "reading" : "ゆるみ",
+  "romaji" : null,
+  "meaning" : [ "松弛；松懈；（精神、纪律等）涣散；（螺丝等）松动" ],
+  "notes" : [ "动词“弛む（ゆるむ）”的连用形名词化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5581,
+  "word" : "弛む",
+  "reading" : "ゆるむ",
+  "romaji" : null,
+  "meaning" : [ "1. 松弛，松动；2. 缓和，放松；3. 松懈，散漫；4. （肌肉等）变软" ],
+  "notes" : [ "也可写作「緩む」，汉字「弛む」侧重于精神、肌肉的松弛或紧张状态的消除。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5582,
+  "word" : "弟",
+  "reading" : "おとうと",
+  "romaji" : null,
+  "meaning" : [ "弟弟（指比自己年幼的男性同胞，通常用于称呼自己的弟弟）" ],
+  "notes" : [ "日语中称呼自己的弟弟时用“弟”，称呼别人的弟弟时用“弟さん（otoutosan）”或“弟御様（otoutogoto-sama）”以示礼貌。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5583,
+  "word" : "弟さん",
+  "reading" : "おとうとさん",
+  "romaji" : null,
+  "meaning" : [ "（对他人的弟弟的尊称）令弟；弟弟" ],
+  "notes" : [ "用于称呼或提及对方的弟弟，带有尊敬语气的后缀“さん”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5584,
+  "word" : "弟子",
+  "reading" : "でし",
+  "romaji" : null,
+  "meaning" : [ "徒弟，弟子，门徒，学徒" ],
+  "notes" : [ "指跟随师傅学习技艺或学问的人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5585,
+  "word" : "弥生",
+  "reading" : "やよい",
+  "romaji" : null,
+  "meaning" : [ "阴历三月；三月（旧历三月，现指公历三月）" ],
+  "notes" : [ "日本旧历三月的别称，意为“草木日益茂盛”。现也常用于指代公历三月。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5586,
+  "word" : "弱々しい",
+  "reading" : "よわよわしい",
+  "romaji" : null,
+  "meaning" : [ "显得很弱的；看起来软弱的；弱不禁风的" ],
+  "notes" : [ "表示看起来很脆弱、软弱或缺乏力量的样子。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5587,
+  "word" : "弱い",
+  "reading" : "よわい",
+  "romaji" : null,
+  "meaning" : [ "弱的；脆弱的；经不起的；不擅长的" ],
+  "notes" : [ "可以表示身体虚弱、意志薄弱，或者对某事物缺乏抵抗力（如酒、虫等）。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5588,
+  "word" : "弱さ",
+  "reading" : "よわさ",
+  "romaji" : null,
+  "meaning" : [ "软弱；脆弱；微弱" ],
+  "notes" : [ "由形容词「弱い」的词干「弱」后续表示性质、状态的接尾词「さ」构成，构成抽象名词，表示软弱的程度或状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5589,
+  "word" : "弱まる",
+  "reading" : "よわまる",
+  "romaji" : null,
+  "meaning" : [ "变弱，减弱；衰退" ],
+  "notes" : [ "反义词：強まる（つよまる）" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5590,
+  "word" : "弱み",
+  "reading" : "よわみ",
+  "romaji" : null,
+  "meaning" : [ "弱点；短处；脆弱的地方；把柄" ],
+  "notes" : [ "由形容词「弱い」的词干「弱」接接尾词「み」构成，表示该性质的状态或程度。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5591,
+  "word" : "弱める",
+  "reading" : "よわめる",
+  "romaji" : null,
+  "meaning" : [ "减弱，削弱，使……变弱" ],
+  "notes" : [ "他动词。对应的自动词为「弱まる（よわまる）」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5592,
+  "word" : "弱点",
+  "reading" : "じゃくてん",
+  "romaji" : null,
+  "meaning" : [ "弱点；缺点，短处" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5593,
+  "word" : "弱音",
+  "reading" : "よわね",
+  "romaji" : null,
+  "meaning" : [ "泄气话，示弱的话，表示没有信心或想放弃的言语" ],
+  "notes" : [ "常以「弱音を吐く（よわねをはく）」的惯用形式出现，意为说泄气话、示弱。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5594,
+  "word" : "張り切る",
+  "reading" : "はりきる",
+  "romaji" : null,
+  "meaning" : [ "1. 鼓足干劲，精神百倍，起劲。2. （弦、发条等）绷紧。" ],
+  "notes" : [ "由“張る”（拉满、绷紧）和“切る”（切断、彻底）组合而成，表示拉满弓或上紧发条的状态，引申为精神饱满、干劲十足的样子。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5595,
+  "word" : "張り合い",
+  "reading" : "はりあい",
+  "romaji" : null,
+  "meaning" : [ "竞争，对手；劲头，意义，兴致；价值，用处" ],
+  "notes" : [ "通常以「張り合いがある」或「張り合いがない」的形式使用，表示做某事是否有意义、有劲头或有竞争的对手。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5596,
+  "word" : "張り合う",
+  "reading" : "はりあう",
+  "romaji" : null,
+  "meaning" : [ "竞争，争夺；比胜负；不相上下" ],
+  "notes" : [ "通常用于两个人或团体之间在实力、能力等方面进行竞争。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5597,
+  "word" : "張る",
+  "reading" : "はる",
+  "romaji" : null,
+  "meaning" : [ "伸展，伸开；拉紧，绷直；铺设，覆盖；膨胀；傲慢，盛气凌人" ],
+  "notes" : [ "常用作自动词和他动词。表示物体表面伸展、拉紧状态，或人为进行铺设、拉紧等动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5598,
+  "word" : "張本人",
+  "reading" : "ちょうにんにん",
+  "romaji" : null,
+  "meaning" : [ "罪魁祸首，肇事者，直接当事人" ],
+  "notes" : [ "指引起某事的主要责任人或直接当事人，多用于负面语境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5599,
+  "word" : "強い",
+  "reading" : "つよい",
+  "romaji" : null,
+  "meaning" : [ "强的；强壮的；坚强的；顽固的；擅长；耐用的" ],
+  "notes" : [ "常用词汇，属于基础形容词。可用于形容身体强壮、意志坚强、对某事物有抵抗力（如冷、热、酒精等）或擅长某领域。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5600,
+  "word" : "強いて",
+  "reading" : "しいて",
+  "romaji" : null,
+  "meaning" : [ "勉强，硬要，强迫；特意（多用于否定句，表示“未必”、“不见得”）" ],
+  "notes" : [ "常以「強いて～ない」的形式出现，表示“不一定要……”、“未必……”。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+} ]

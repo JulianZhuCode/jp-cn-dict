@@ -1,0 +1,901 @@
+[ {
+  "id" : 9701,
+  "word" : "血流",
+  "reading" : "けつりゅう",
+  "romaji" : null,
+  "meaning" : [ "血管内を流れる血液の流れ。また、血液の流れる様子。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9702,
+  "word" : "血液",
+  "reading" : "けつえき",
+  "romaji" : null,
+  "meaning" : [ "人や動物の血管を流れる液体。酸素や栄養分を体内に運び、老廃物を排出する役割を果たす。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9703,
+  "word" : "血液型",
+  "reading" : "けつえきがた",
+  "romaji" : null,
+  "meaning" : [ "血型" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9704,
+  "word" : "血筋",
+  "reading" : "ちすじ",
+  "romaji" : null,
+  "meaning" : [ "1. 血管；青筋。2. 血统，血缘。3. 出身，来历。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9705,
+  "word" : "衆議院",
+  "reading" : "しゅうぎいん",
+  "romaji" : null,
+  "meaning" : [ "日本国会的下议院，由选民选举的议员组成，负责立法、审议预算等重要事务。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9706,
+  "word" : "行い",
+  "reading" : "おこない",
+  "romaji" : null,
+  "meaning" : [ "行为，动作；品行，举止" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9707,
+  "word" : "行います",
+  "reading" : "おこないます",
+  "romaji" : null,
+  "meaning" : [ "进行；实行；举行；做" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9708,
+  "word" : "行う",
+  "reading" : "おこなう",
+  "romaji" : null,
+  "meaning" : [ "进行；实行；举行；做" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9709,
+  "word" : "行きます",
+  "reading" : "いきます",
+  "romaji" : null,
+  "meaning" : [ "去；前往；走；行驶；进行" ],
+  "notes" : [ "「行く」是五段动词，「行きます」是其ます形，属于礼貌体表达。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9710,
+  "word" : "行き先",
+  "reading" : "いきさき",
+  "romaji" : null,
+  "meaning" : [ "要去的地方；目的地" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9711,
+  "word" : "行き届く",
+  "reading" : "いきとどく",
+  "romaji" : null,
+  "meaning" : [ "周到，无微不至；普及到，达到" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9712,
+  "word" : "行き当たりばったり",
+  "reading" : "いきあたりばったり",
+  "romaji" : null,
+  "meaning" : [ "漫无目的；没有计划；听天由命；走到哪儿算哪儿" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9713,
+  "word" : "行き来",
+  "reading" : "いきぎ",
+  "romaji" : null,
+  "meaning" : [ "① 往来，往返（场所之间的往返移动）；② 来往，交往（人与人之间的交际、交流等活动）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9714,
+  "word" : "行き詰る",
+  "reading" : "いきつまる",
+  "romaji" : null,
+  "meaning" : [ "走到尽头；陷入僵局；行不通，走投无路" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9715,
+  "word" : "行き過ぎる",
+  "reading" : "いきすぎる",
+  "romaji" : null,
+  "meaning" : [ "走过头；做得过头；做得过度；走过（某地）而未停下；坐过（站）；错过（目的地）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9716,
+  "word" : "行き違い",
+  "reading" : "いきちがい",
+  "romaji" : null,
+  "meaning" : [ "1. 错过，走岔（道）；2. 意见分歧，产生龃龉；3. 误会，弄错" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9717,
+  "word" : "行き違う",
+  "reading" : "いきちがう",
+  "romaji" : null,
+  "meaning" : [ "1. 走岔，错过；2. 意见等不一致，有分歧；3. 情况等不同，有差异" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9718,
+  "word" : "行く",
+  "reading" : "いく",
+  "romaji" : null,
+  "meaning" : [ "去，到；往；走；行驶；进行；做（某事）" ],
+  "notes" : [ "「行く」的敬语形式有「いらっしゃる」等" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9719,
+  "word" : "行く手",
+  "reading" : "ゆくて",
+  "romaji" : null,
+  "meaning" : [ "前进的方向；去路；前方；前途" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9720,
+  "word" : "行ける",
+  "reading" : "いける",
+  "romaji" : null,
+  "meaning" : [ "能去；可以去；会去；能够前往；可以前往等" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9721,
+  "word" : "行事",
+  "reading" : "ぎょうじ",
+  "romaji" : null,
+  "meaning" : [ "仪式，活动；（学校、公司等的）例行活动、活动安排" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9722,
+  "word" : "行使",
+  "reading" : "こうし",
+  "romaji" : null,
+  "meaning" : [ "执行，行使（权力、权利等）；使用（某种手段等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9723,
+  "word" : "行儀",
+  "reading" : "ぎょうぎ",
+  "romaji" : null,
+  "meaning" : [ "举止，礼貌；规矩，礼节" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9724,
+  "word" : "行先",
+  "reading" : "ゆきさき",
+  "romaji" : null,
+  "meaning" : [ "目的地；去处；行踪" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9725,
+  "word" : "行列",
+  "reading" : "ぎょうれつ",
+  "romaji" : null,
+  "meaning" : [ "队伍；行列；（排队等候的）队列" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9726,
+  "word" : "行動",
+  "reading" : "こうどう",
+  "romaji" : null,
+  "meaning" : [ "行为，行动；活动" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9727,
+  "word" : "行政",
+  "reading" : "ぎょうせい",
+  "romaji" : null,
+  "meaning" : [ "国家、地方公共团体等的政治上的事务管理；行使国家、地方公共团体等的统治权的作用；与国家、地方公共团体等的事务管理相关的事务。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9728,
+  "word" : "行方",
+  "reading" : "ゆくえ",
+  "romaji" : null,
+  "meaning" : [ "去向，下落；未来的情况、前途" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9729,
+  "word" : "行楽",
+  "reading" : "こうらく",
+  "romaji" : null,
+  "meaning" : [ "游玩，游乐；消遣，娱乐" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9730,
+  "word" : "行楽地",
+  "reading" : "こうらくち",
+  "romaji" : null,
+  "meaning" : [ "供人们游玩、娱乐的场所，景点，游览地" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9731,
+  "word" : "行為",
+  "reading" : "こうい",
+  "romaji" : null,
+  "meaning" : [ "行为；举动；行动" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9732,
+  "word" : "街",
+  "reading" : "まち0",
+  "romaji" : null,
+  "meaning" : [ "街道；城镇；市区" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9733,
+  "word" : "街角",
+  "reading" : "まちかど",
+  "romaji" : null,
+  "meaning" : [ "街道的拐角处；街头" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9734,
+  "word" : "衛星放送",
+  "reading" : "えいせいほうそう",
+  "romaji" : null,
+  "meaning" : [ "通过卫星进行的广播，包括卫星电视和卫星广播等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9735,
+  "word" : "衛生",
+  "reading" : "えいせい",
+  "romaji" : null,
+  "meaning" : [ "为维护和增进健康，预防疾病所采取的措施；环境卫生；个人卫生。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9736,
+  "word" : "衛生状態",
+  "reading" : "えいせいじょうたい",
+  "romaji" : null,
+  "meaning" : [ "卫生状态，环境卫生情况" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9737,
+  "word" : "衝動",
+  "reading" : "しょうどう",
+  "romaji" : null,
+  "meaning" : [ "冲动；（物理上的）冲力，冲击；精神上的刺激，震动" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9738,
+  "word" : "衝撃",
+  "reading" : "しょうげき",
+  "romaji" : null,
+  "meaning" : [ "冲击，打击；轰动，震惊" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9739,
+  "word" : "衝突",
+  "reading" : "しょうとつ",
+  "romaji" : null,
+  "meaning" : [ "（1）（車両などが）ぶつかること。／（车辆等）相撞。（2）意見や考えなどが対立すること。／意见、想法等发生冲突、矛盾。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9740,
+  "word" : "衣帯",
+  "reading" : "いた",
+  "romaji" : null,
+  "meaning" : [ "1. （和服的）腰带；2. 衣服和腰带" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9741,
+  "word" : "衣替え",
+  "reading" : "ころもがえ",
+  "romaji" : null,
+  "meaning" : [ "换季时更换的衣物；换季换衣服的行为" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9742,
+  "word" : "衣服",
+  "reading" : "いふく",
+  "romaji" : null,
+  "meaning" : [ "衣裳，衣服；衣物。（着る物。服。）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9743,
+  "word" : "衣装",
+  "reading" : "いしょう",
+  "romaji" : null,
+  "meaning" : [ "服装；戏服；（特定场合穿的）衣服" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9744,
+  "word" : "衣類",
+  "reading" : "いるい",
+  "romaji" : null,
+  "meaning" : [ "衣服，衣物" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9745,
+  "word" : "衣食住",
+  "reading" : "いしょくじゅう",
+  "romaji" : null,
+  "meaning" : [ "衣服、食物和住房；吃穿住等基本生活需求" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9746,
+  "word" : "表",
+  "reading" : "うえ;おもて",
+  "romaji" : null,
+  "meaning" : [ "1. 物体的表面、正面（物体の表面、正面）；2. 外表、外观（見た目、外見）；3. 表格（表・テーブル）" ],
+  "notes" : [ "「うえ」一般用于表示物体的表面等，「おもて」更多用于表示外表、外观以及相对于“裏（うら）”的“表”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9747,
+  "word" : "表す",
+  "reading" : "あらわす",
+  "romaji" : null,
+  "meaning" : [ "表示；表现；表达；体现；象征；露出（某种表情等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9748,
+  "word" : "表する",
+  "reading" : "あらわす",
+  "romaji" : null,
+  "meaning" : [ "表示，表达；表现，体现；露出，显露；代表" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9749,
+  "word" : "表れる",
+  "reading" : "あらわれる",
+  "romaji" : null,
+  "meaning" : [ "1. 出现，显露；2. 表现，显出" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9750,
+  "word" : "表彰",
+  "reading" : "ひょうしょう",
+  "romaji" : null,
+  "meaning" : [ "对在工作、学习、社会贡献等方面有突出成绩或表现的人或团体给予公开的表扬和奖励。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9751,
+  "word" : "表彰する",
+  "reading" : "ひょうしょうする",
+  "romaji" : null,
+  "meaning" : [ "表彰，表扬，奖赏" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9752,
+  "word" : "表情",
+  "reading" : "ひょうじょう",
+  "romaji" : null,
+  "meaning" : [ "面部呈现出的情绪状态；面部的神态。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9753,
+  "word" : "表現",
+  "reading" : "ひょうげん",
+  "romaji" : null,
+  "meaning" : [ "表现；表达；表达方式；表现形式" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9754,
+  "word" : "表示",
+  "reading" : "ひょうじ",
+  "romaji" : null,
+  "meaning" : [ "1. 表示；表达；表达的内容。2. 指示；显示。3. 表明；显示出。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9755,
+  "word" : "表紙",
+  "reading" : "ひょうし",
+  "romaji" : null,
+  "meaning" : [ "封面，书皮，封皮；（杂志、报纸等的）头版" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9756,
+  "word" : "表通り",
+  "reading" : "おもてどおり",
+  "romaji" : null,
+  "meaning" : [ "主要街道，大马路；临街的马路" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9757,
+  "word" : "衰える",
+  "reading" : "おとろえる",
+  "romaji" : null,
+  "meaning" : [ "衰弱；衰退；减弱；衰老" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9758,
+  "word" : "衰退",
+  "reading" : "すいたい",
+  "romaji" : null,
+  "meaning" : [ "（体力、勢い、機能などが）だんだんと弱まったり、減ったりすること。衰退すること。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9759,
+  "word" : "袋",
+  "reading" : "ふくろ",
+  "romaji" : null,
+  "meaning" : [ "袋子，口袋；（某些动物的）育儿袋" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9760,
+  "word" : "袖",
+  "reading" : "そで",
+  "romaji" : null,
+  "meaning" : [ "袖子；（相扑）拉对手袖子的技术" ],
+  "notes" : [ "「袖が長い」是惯用语，表示吝啬" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9761,
+  "word" : "被せる",
+  "reading" : "かぶせる",
+  "romaji" : null,
+  "meaning" : [ "戴上；盖上，蒙上；使遭受（某种不好的事物等）；把……强加于" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9762,
+  "word" : "被る",
+  "reading" : "かぶる",
+  "romaji" : null,
+  "meaning" : [ "戴；蒙，盖；笼罩；遭受，蒙受；（雨、雪等）降下" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9763,
+  "word" : "被动形式",
+  "reading" : "ひどうけいしき",
+  "romaji" : null,
+  "meaning" : [ "日语动词的一种变形形式，用于表示被动的含义。具体变化规则为：一类动词（动1）基于ない形，将“ない”变为“れる”；二类动词（动2）基于ない形，将“ない”变为“られる”；三类动词（动3）中，“来る”变为“来られる”，“する”变为“される”。" ],
+  "notes" : [ "被动形式在日语中用于表达动作的承受者，常与表示动作发出者的“に”搭配使用。" ],
+  "pos" : "GRAMMAR",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9764,
+  "word" : "被告",
+  "reading" : "ひこく",
+  "romaji" : null,
+  "meaning" : [ "法律上指在民事、刑事诉讼中被控告的人" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9765,
+  "word" : "被害",
+  "reading" : "ひがい",
+  "romaji" : null,
+  "meaning" : [ "由于灾害、事故、犯罪等所遭受的损失或损害；受灾，受害" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9766,
+  "word" : "被災",
+  "reading" : "ひさい",
+  "romaji" : null,
+  "meaning" : [ "受灾，遭灾；遭受灾害" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9767,
+  "word" : "被災地",
+  "reading" : "ひさいち",
+  "romaji" : null,
+  "meaning" : [ "受灾地区，灾区" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9768,
+  "word" : "裁く",
+  "reading" : "さばく",
+  "romaji" : null,
+  "meaning" : [ "1. 审判；裁判。2. 判断；评判。3. 从中调停；调解" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9769,
+  "word" : "裁判",
+  "reading" : "さいばん",
+  "romaji" : null,
+  "meaning" : [ "1. 审判，裁判；2. 法院，法庭" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9770,
+  "word" : "裁決",
+  "reading" : "さいけつ",
+  "romaji" : null,
+  "meaning" : [ "裁决，裁断；（体育比赛等的）裁判决定" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9771,
+  "word" : "裁縫",
+  "reading" : "さいほう",
+  "romaji" : null,
+  "meaning" : [ "缝纫；做针线活儿；裁缝，缝纫业" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9772,
+  "word" : "裂く",
+  "reading" : "さく",
+  "romaji" : null,
+  "meaning" : [ "撕开；劈开，分开；匀出，腾出；扯破，划破；使分裂，使不和" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9773,
+  "word" : "裂ける",
+  "reading" : "さける",
+  "romaji" : null,
+  "meaning" : [ "裂开；破裂；绽开" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9774,
+  "word" : "装う",
+  "reading" : "よそおう",
+  "romaji" : null,
+  "meaning" : [ "1. 穿戴，打扮；2. 伪装，假装；3. 装饰，装潢" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9775,
+  "word" : "装備",
+  "reading" : "そうび",
+  "romaji" : null,
+  "meaning" : [ "装备，配备；装备品，设备" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9776,
+  "word" : "装置",
+  "reading" : "そうち",
+  "romaji" : null,
+  "meaning" : [ "设备，装置；机关，构造" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9777,
+  "word" : "装飾",
+  "reading" : "そうしょく",
+  "romaji" : null,
+  "meaning" : [ "装饰；装饰品" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9778,
+  "word" : "裏",
+  "reading" : "うら",
+  "romaji" : null,
+  "meaning" : [ "1. 物体的背面、反面；2. 事物的内幕、内情；3. （与正面相对的）里面、内侧；4. （衣服等的）里子。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9779,
+  "word" : "裏付ける",
+  "reading" : "うらづける",
+  "romaji" : null,
+  "meaning" : [ "1. 证实，印证，证明；2. 从背后支撑、支持" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9780,
+  "word" : "裏切る",
+  "reading" : "うらぎる",
+  "romaji" : null,
+  "meaning" : [ "背叛；违背；辜负；叛变；背离" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9781,
+  "word" : "裏口",
+  "reading" : "うらぐち",
+  "romaji" : null,
+  "meaning" : [ "1. 后门；背面的门。2. 不正当的途径，走后门" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9782,
+  "word" : "裏巻き",
+  "reading" : "うらまき",
+  "romaji" : null,
+  "meaning" : [ "1. 夹心卷；2. 翻转卷（如把紫菜卷在里面的寿司等）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9783,
+  "word" : "裏表",
+  "reading" : "うらおもて",
+  "romaji" : null,
+  "meaning" : [ "①表面和里面；②正面和反面；③比喻表里相反的情况，如反穿衣物；④形容人的言行、态度等表里不一" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9784,
+  "word" : "裏返し",
+  "reading" : "うらがえし",
+  "romaji" : null,
+  "meaning" : [ "1. 翻转，翻过来；2. 表里相反；3. 反证" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9785,
+  "word" : "裏返す",
+  "reading" : "うらがえす",
+  "romaji" : null,
+  "meaning" : [ "翻过来；颠倒；推翻（说法等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9786,
+  "word" : "裏門",
+  "reading" : "うらもん",
+  "romaji" : null,
+  "meaning" : [ "后门；（事物的）背后，幕后" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9787,
+  "word" : "裕福",
+  "reading" : "ゆうふく",
+  "romaji" : null,
+  "meaning" : [ "富裕，富足，有钱" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9788,
+  "word" : "補う",
+  "reading" : "おぎなう",
+  "romaji" : null,
+  "meaning" : [ "1. 补充；增添。2. 补偿，弥补。3. 补充（人员等）；补（缺）。" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9789,
+  "word" : "補修",
+  "reading" : "ほしゅう",
+  "romaji" : null,
+  "meaning" : [ "修补；修理；修复（破損・故障したものを直すこと。修理すること）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9790,
+  "word" : "補償",
+  "reading" : "ほしょう",
+  "romaji" : null,
+  "meaning" : [ "补偿，赔偿；弥补" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9791,
+  "word" : "補充",
+  "reading" : "ほじゅう",
+  "romaji" : null,
+  "meaning" : [ "1. 不足の分を加えて、十分な量にすること。/补充，补足。2. 必要な物や情報を加えること。/增添，追加。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9792,
+  "word" : "補助",
+  "reading" : "ほじょ",
+  "romaji" : null,
+  "meaning" : [ "补助，辅助；给予物质上的帮助或在工作等方面提供协助" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9793,
+  "word" : "補強",
+  "reading" : "ほきょう",
+  "romaji" : null,
+  "meaning" : [ "加强，强化；加固，补强（建筑物、机械等结构）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9794,
+  "word" : "補給",
+  "reading" : "ほきゅう",
+  "romaji" : null,
+  "meaning" : [ "补给，补充；（军事上的）给养补充" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9795,
+  "word" : "補講",
+  "reading" : "ほこう",
+  "romaji" : null,
+  "meaning" : [ "补课，补习；补充讲解" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9796,
+  "word" : "補足",
+  "reading" : "ほそく",
+  "romaji" : null,
+  "meaning" : [ "补充；补足；补充说明" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9797,
+  "word" : "裸",
+  "reading" : "はだか",
+  "romaji" : null,
+  "meaning" : [ "裸体；裸露的状态；身上没有穿戴衣物或携带物品" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9798,
+  "word" : "裸足",
+  "reading" : "はだし",
+  "romaji" : null,
+  "meaning" : [ "光脚，赤脚；光着的脚" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9799,
+  "word" : "製作",
+  "reading" : "せいさく",
+  "romaji" : null,
+  "meaning" : [ "制作；制造，生产（不仅限于工业产品，也可用于艺术作品、影视作品等的创作等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9800,
+  "word" : "製品",
+  "reading" : "せいひん",
+  "romaji" : null,
+  "meaning" : [ "产品；制品" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

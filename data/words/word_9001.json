@@ -1,0 +1,901 @@
+[ {
+  "id" : 9001,
+  "word" : "箱",
+  "reading" : "はこ",
+  "romaji" : null,
+  "meaning" : [ "箱子；盒子；容器等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9002,
+  "word" : "箸",
+  "reading" : "はし",
+  "romaji" : null,
+  "meaning" : [ "筷子" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9003,
+  "word" : "節",
+  "reading" : "せつ",
+  "romaji" : null,
+  "meaning" : [ "①时节，时候，时期。②节日。③段落。④节拍。" ],
+  "notes" : [ "在不同语境中有不同含义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9004,
+  "word" : "節分",
+  "reading" : "せつぶん",
+  "romaji" : null,
+  "meaning" : [ "立春、立夏、立秋、立冬这四个节气的前一天，尤指立春的前一天。在这天有撒豆子驱邪等习俗。" ],
+  "notes" : [ "節分に豆まきを行うとき、鬼を追い払うという意味があります。（在节分进行撒豆子时有驱赶鬼的含义。）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9005,
+  "word" : "節句",
+  "reading" : "せっく",
+  "romaji" : null,
+  "meaning" : [ "传统节日，特指具有祭祀等特定仪式的节日，如元旦、春分、秋分、端午、七夕、重阳等。" ],
+  "notes" : [ "在日本，節句有着丰富的传统习俗和文化内涵。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9006,
+  "word" : "節度",
+  "reading" : "せつど",
+  "romaji" : null,
+  "meaning" : [ "节制，分寸；规范；礼貌，规矩。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9007,
+  "word" : "節目",
+  "reading" : "ふしめ",
+  "romaji" : null,
+  "meaning" : [ "阶段，段落；节点；转折点；关节；（相扑比赛中的）胜败关键局" ],
+  "notes" : [ "在不同语境中有不同含义，如在相扑比赛中，指决定胜负的关键局" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9008,
+  "word" : "節約",
+  "reading" : "せつやく",
+  "romaji" : null,
+  "meaning" : [ "名詞：節約、節減。他動詞：節約する、省く。" ],
+  "notes" : [ "「節約」は、物資や費用を無駄にしないようにすることを意味します。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9009,
+  "word" : "節電",
+  "reading" : "せつでん",
+  "romaji" : null,
+  "meaning" : [ "节约用电，节省电力消耗。" ],
+  "notes" : [ "该词常用于描述通过采取各种措施减少电力使用量，以达到节约能源的目的。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9010,
+  "word" : "範囲",
+  "reading" : "はんい",
+  "romaji" : null,
+  "meaning" : [ "事物所涵盖的界限、限度等范围。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9011,
+  "word" : "築く",
+  "reading" : "つくる",
+  "romaji" : null,
+  "meaning" : [ "1. 建造，修筑（建筑物、道路、堤坝等）；2. 建立，创建（组织、制度等）；3. 积累，积攒（经验、知识、财富等）。" ],
+  "notes" : [ "该词为他动词，其宾语通常为表示建筑物、组织、经验等的名词。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9012,
+  "word" : "簡化24式太極拳",
+  "reading" : "かんかにじゅうよんしきたいきょくけん",
+  "romaji" : null,
+  "meaning" : [ "一种简化的太极拳套路，共二十四式" ],
+  "notes" : [ "簡化24式太極拳は、中国の太極拳を簡略化して作られたもので、初心者にも学びやすいスタイルです。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9013,
+  "word" : "簡単",
+  "reading" : "かんたん",
+  "romaji" : null,
+  "meaning" : [ "不复杂，容易理解或处理；平凡，普通" ],
+  "notes" : [ "形容事物不复杂或做起来轻松，也可形容人的生活、性格等方面平凡" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9014,
+  "word" : "簡単",
+  "reading" : "かんたん",
+  "romaji" : null,
+  "meaning" : [ "简单，不复杂；轻易，轻松；单纯，纯粹" ],
+  "notes" : [ "形容动词「簡単な」の語干。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9015,
+  "word" : "簡潔",
+  "reading" : "かんけつ",
+  "romaji" : null,
+  "meaning" : [ "形容动词，意为简洁、简明扼要。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9016,
+  "word" : "籠",
+  "reading" : "かご",
+  "romaji" : null,
+  "meaning" : [ "筐，篮，笼子；（建筑物、车辆等的）内部；（人、动物等的）聚集之处；（抽象的）范围、界限等" ],
+  "notes" : [ "较为常用的基础词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9017,
+  "word" : "籠もる",
+  "reading" : "こもる",
+  "romaji" : null,
+  "meaning" : [ "1. 闭门不出，把自己关在屋里。2. （场所等）挤满，充满。3. 包含，含有。" ],
+  "notes" : [ "常用的自他动词，自他动词形式为「籠める」，他动词含义为“关进，装入”等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9018,
+  "word" : "米",
+  "reading" : "ごめ",
+  "romaji" : null,
+  "meaning" : [ "作为食物的稻子脱壳后得到的颗粒；泛指粮食" ],
+  "notes" : [ "在日语中，“米”通常指的是食用的大米，而“稲”指的是稻子这种农作物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9019,
+  "word" : "米国",
+  "reading" : "べいこく",
+  "romaji" : null,
+  "meaning" : [ "指美利坚合众国，即美国。" ],
+  "notes" : [ "这是一个较为常见的日语词汇，用于指代美国。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9020,
+  "word" : "粉",
+  "reading" : "こな",
+  "romaji" : null,
+  "meaning" : [ "粉末；细粉。也可指用谷物等磨成的粉，如小麦粉、米粉等。在烹饪中，还可表示勾芡用的淀粉，如小麦粉、片栗粉等。此外，在一些固定用法中，如「粉にする」表示弄碎、弄成粉末状等意思。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9021,
+  "word" : "粉々",
+  "reading" : "こなこな",
+  "romaji" : null,
+  "meaning" : [ "物体が壊れて小さな粉々になった様子。また、混乱して秩序がない様子。" ],
+  "notes" : [ "形容動詞なので、連体形は「粉々な」、连用形は「粉々に」となります。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9022,
+  "word" : "粋",
+  "reading" : "いき",
+  "romaji" : null,
+  "meaning" : [ "潇洒；漂亮；风雅；通情达理；利落" ],
+  "notes" : [ "形容動詞で、名詞修飾の際は「粋な」となる。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9023,
+  "word" : "粒餡",
+  "reading" : "つぶあん",
+  "romaji" : null,
+  "meaning" : [ "用红豆等煮烂后制成的豆沙馅" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9024,
+  "word" : "粗い",
+  "reading" : "あらい",
+  "romaji" : null,
+  "meaning" : [ "1. （物体表面）粗糙，不光滑。2. （做事等）粗枝大叶，不精细。3. （声音等）粗，沙哑。4. （性格等）粗暴，粗鲁。5. （数量、程度等）粗略，大致。6. （线条、形状等）粗大，粗壮。" ],
+  "notes" : [ "形容詞で、比較級は「粗くない」、最上級は「一番粗い」です。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9025,
+  "word" : "粗末",
+  "reading" : "そまつ",
+  "romaji" : null,
+  "meaning" : [ "粗糙，不精致；浪费，挥霍；待遇不好，怠慢。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9026,
+  "word" : "粗筋",
+  "reading" : "あらすじ",
+  "romaji" : null,
+  "meaning" : [ "概要、梗概；大致的情节、主要内容。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9027,
+  "word" : "粘り",
+  "reading" : "ねばり",
+  "romaji" : null,
+  "meaning" : [ "黏性，黏度；毅力，坚韧不拔" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9028,
+  "word" : "粘る",
+  "reading" : "ねばる",
+  "romaji" : null,
+  "meaning" : [ "1. 发黏，有黏性。2. 坚持不懈，执着。3. 纠缠不休，赖着不走。" ],
+  "notes" : [ "该词在不同语境中有不同含义，使用时需根据上下文理解。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9029,
+  "word" : "粘土",
+  "reading" : "ねんど",
+  "romaji" : null,
+  "meaning" : [ "黏土，黏土类的土。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9030,
+  "word" : "粘着",
+  "reading" : "ねんちゃく",
+  "romaji" : null,
+  "meaning" : [ "物体が他の物体に強く付きつくこと。また、付着した状態。" ],
+  "notes" : [ "「粘着」は、主に名詞として使われます。動詞としての「粘着する」がありますが、それは「付着する、くっつく」という意味です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9031,
+  "word" : "精いっぱい",
+  "reading" : "せいいっぱい",
+  "romaji" : null,
+  "meaning" : [ "竭尽全力，尽最大努力" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9032,
+  "word" : "精力",
+  "reading" : "せいりょく",
+  "romaji" : null,
+  "meaning" : [ "充沛的精力，活力。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9033,
+  "word" : "精密",
+  "reading" : "せいみつ",
+  "romaji" : null,
+  "meaning" : [ "精密，精细；精确；严密。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9034,
+  "word" : "精密機器",
+  "reading" : "せいみつきか",
+  "romaji" : null,
+  "meaning" : [ "精密仪器，精密器械" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9035,
+  "word" : "精巧",
+  "reading" : "せいこう",
+  "romaji" : null,
+  "meaning" : [ "精巧で細かい。技術や手作りなどにおいて、細部まで丁寧に作られ、高度な技術や技能が施されているさま。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9036,
+  "word" : "精神",
+  "reading" : "せいしん",
+  "romaji" : null,
+  "meaning" : [ "人的意识、思维活动和一般心理状态；精力、活力。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9037,
+  "word" : "精神面",
+  "reading" : "せいしんめん",
+  "romaji" : null,
+  "meaning" : [ "精神层面，精神方面" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9038,
+  "word" : "精算",
+  "reading" : "せいさん",
+  "romaji" : null,
+  "meaning" : [ "1. 仔细计算，精打细算；2. 结算，清算；3. 补票。" ],
+  "notes" : [ "「精算」作为サ变动词，其词干为「精算」，词尾为「する」。在使用时要注意其不同含义的语境。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9039,
+  "word" : "精細",
+  "reading" : "せいさい",
+  "romaji" : null,
+  "meaning" : [ "詳細で、周到で、細かい。精密で正確なことを表す。" ],
+  "notes" : [ "形容動詞で、語尾は「だ」で活用する。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9040,
+  "word" : "糊",
+  "reading" : "のり",
+  "romaji" : null,
+  "meaning" : [ "糨糊；胶水；浆糊状物；黏性" ],
+  "notes" : [ "在日语中，“糊”还有其他含义，如“胶水”“浆糊状物”“黏性”等，具体含义需根据上下文判断。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9041,
+  "word" : "糖尿病",
+  "reading" : "ちょうにょうびょう",
+  "romaji" : null,
+  "meaning" : [ "体内の血糖値が高くなる病気。食事や運動、薬などによってコントロールすることができる。" ],
+  "notes" : [ "医学用語で、日常生活でも頻繁に使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9042,
+  "word" : "糸",
+  "reading" : "いと",
+  "romaji" : null,
+  "meaning" : [ "丝；丝线；线；（织物等的）线条；（钓鱼等用的）线；（乐器的）弦；（交通等的）线路；（文章等的）脉络；条理" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9043,
+  "word" : "系列",
+  "reading" : "れいけい",
+  "romaji" : null,
+  "meaning" : [ "一系列相关的事物按一定顺序排列而成的集合；事物之间相互关联形成的整体架构或组织形式" ],
+  "notes" : [ "该词常出现在商业、组织架构等相关语境中，用于描述具有关联性的一组事物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9044,
+  "word" : "系統",
+  "reading" : "けいとう",
+  "romaji" : null,
+  "meaning" : [ "具有特定结构和功能，由相互关联的部分组成的整体；同类事物按一定秩序和内部联系组合而成的整体。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9045,
+  "word" : "約束",
+  "reading" : "やくそく",
+  "romaji" : null,
+  "meaning" : [ "约定，商定；约束，规定" ],
+  "notes" : [ "作为名词使用较为常见，也有动词用法如「約束する」表示约定" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9046,
+  "word" : "約束します",
+  "reading" : "やくそくします",
+  "romaji" : null,
+  "meaning" : [ "约定；规定；约束。" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9047,
+  "word" : "紅茶",
+  "reading" : "こうちゃ",
+  "romaji" : null,
+  "meaning" : [ "从茶树的叶子中加工制成的饮品，具有独特的色泽和风味。" ],
+  "notes" : [ "“紅茶”在日语中特指红茶，与中文的“红茶”意思一致，但读音不同。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9048,
+  "word" : "紅葉",
+  "reading" : "もみじ",
+  "romaji" : null,
+  "meaning" : [ "枫叶；红叶（多指秋天树木的叶子变红）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9049,
+  "word" : "紆余曲折",
+  "reading" : "ゆうよきょくせつ",
+  "romaji" : null,
+  "meaning" : [ "事情发展过程中遇到的周折、波折；形容事物弯弯曲曲的样子。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9050,
+  "word" : "納める",
+  "reading" : "おさめる",
+  "romaji" : null,
+  "meaning" : [ "1. 缴纳，交纳（费用、税款等）；2. 供应，提供（物品等）；3. 结束，完成（工作、任务等）；4. 收起，收藏；5. 接受，收纳" ],
+  "notes" : [ "常用的他动词，在日常生活和商务场景中都较为常见。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9051,
+  "word" : "納付",
+  "reading" : "のうふ",
+  "romaji" : null,
+  "meaning" : [ "（向政府、团体等）缴纳（费用、税款、物品等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9052,
+  "word" : "納入",
+  "reading" : "のうにゅう",
+  "romaji" : null,
+  "meaning" : [ "缴纳，交纳；交付，供应" ],
+  "notes" : [ "常用的サ变动词，在商务场景等中经常使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9053,
+  "word" : "納品",
+  "reading" : "のうひん",
+  "romaji" : null,
+  "meaning" : [ "1. 交货，交付（货物、物品等）；2. 提交，呈送（文件、报告等）。" ],
+  "notes" : [ "作为名词时指交付的物品；作为动词时表示交付、提交的行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9054,
+  "word" : "納品",
+  "reading" : "のうひん",
+  "romaji" : null,
+  "meaning" : [ "交货，缴纳物品；提交（文件、报告等）" ],
+  "notes" : [ "作为サ变动词，其词干为「納品」，词尾为「する」，按照する型动词进行活用。常见用法为表示将物品交付给对方，或者提交某种资料等。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9055,
+  "word" : "納得",
+  "reading" : "なっとく",
+  "romaji" : null,
+  "meaning" : [ "理解，领会；同意，认可" ],
+  "notes" : [ "该词常用作サ变动词，也有名词词性，作名词时表示理解、领会等意思。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9056,
+  "word" : "納期",
+  "reading" : "のうき",
+  "romaji" : null,
+  "meaning" : [ "交货期，缴纳期限。指产品或货物交付给客户的预定日期，或者是应缴纳某种费用、款项等的截止日期。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9057,
+  "word" : "納豆",
+  "reading" : "なっとう",
+  "romaji" : null,
+  "meaning" : [ "一种将黄豆发酵制成的食品，外观黏滑，具有独特的气味和口感。" ],
+  "notes" : [ "纳豆是日本传统食品之一，富含蛋白质和纳豆激酶等营养成分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9058,
+  "word" : "紐",
+  "reading" : "ひも",
+  "romaji" : null,
+  "meaning" : [ "绳子、带子、线等；关系、纽带" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9059,
+  "word" : "純情",
+  "reading" : "じゅんじょう",
+  "romaji" : null,
+  "meaning" : [ "纯真，天真，纯洁，指感情或性格单纯真挚，不掺杂杂质。" ],
+  "notes" : [ "形容动词，词干为「純情」，词尾为「な」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9060,
+  "word" : "純粋",
+  "reading" : "じゅんすい",
+  "romaji" : null,
+  "meaning" : [ "纯粹，纯真；不含杂质，不掺杂其他成分" ],
+  "notes" : [ "该词常用来形容人的性格、事物的性质等" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9061,
+  "word" : "紙",
+  "reading" : "かみ",
+  "romaji" : null,
+  "meaning" : [ "纸；纸张；报纸；票据；文件等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9062,
+  "word" : "紙くず",
+  "reading" : "かみくず",
+  "romaji" : null,
+  "meaning" : [ "废纸；纸屑" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9063,
+  "word" : "紙幣",
+  "reading" : "しへい",
+  "romaji" : null,
+  "meaning" : [ "纸币；钞票" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9064,
+  "word" : "紙袋",
+  "reading" : "かみふくろ",
+  "romaji" : null,
+  "meaning" : [ "用纸制成的袋子，用于包装物品等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9065,
+  "word" : "紙飛行機",
+  "reading" : "かみひこうき",
+  "romaji" : null,
+  "meaning" : [ "纸折的飞机" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9066,
+  "word" : "紙コップ",
+  "reading" : "かみコップ",
+  "romaji" : null,
+  "meaning" : [ "纸杯" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9067,
+  "word" : "紛らす",
+  "reading" : "まぎらす",
+  "romaji" : null,
+  "meaning" : [ "1. 蒙混过去，掩饰过去；2. 排遣，解除，消除；3. 使混淆，使分不清" ],
+  "notes" : [ "该词常用的搭配有「罪を紛らわす」（掩饰罪行）、「寂しさを紛らわす」（排遣寂寞）等" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9068,
+  "word" : "紛らわしい",
+  "reading" : "まぎらわしい",
+  "romaji" : null,
+  "meaning" : [ "容易混淆的，不易分辨的；错综复杂的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9069,
+  "word" : "紛れる",
+  "reading" : "まぎれる",
+  "romaji" : null,
+  "meaning" : [ "1. 混淆，弄错。2. 混杂，混进。3. （因忙碌等）忘怀，忘却。" ],
+  "notes" : [ "常用的自动词，在描述事物相互混合、难以区分等情况时使用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9070,
+  "word" : "紛れ当たり",
+  "reading" : "まぎれあたり",
+  "romaji" : null,
+  "meaning" : [ "偶然碰巧；歪打正着；误打误撞" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9071,
+  "word" : "紛争",
+  "reading" : "ふんそう",
+  "romaji" : null,
+  "meaning" : [ "争端，纷争，纠纷。指人与人、团体与团体之间因意见不合等产生的争执、冲突。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9072,
+  "word" : "紛失",
+  "reading" : "ふんしつ",
+  "romaji" : null,
+  "meaning" : [ "物を失って見つからなくなること。失くすこと。" ],
+  "notes" : [ "「紛失」は他動詞で、対象を表す助詞「を」を伴って用いる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9073,
+  "word" : "素人",
+  "reading" : "しろうと",
+  "romaji" : null,
+  "meaning" : [ "外行；非专业人士；业余爱好者。指对某一领域缺乏专业知识和技能的人。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9074,
+  "word" : "素振り",
+  "reading" : "すぶり",
+  "romaji" : null,
+  "meaning" : [ "空手做动作练习；姿势；态度" ],
+  "notes" : [ "常见于武术、舞蹈等领域，指不使用器械等仅用身体做动作来练习或展示" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9075,
+  "word" : "素敵",
+  "reading" : "すてき",
+  "romaji" : null,
+  "meaning" : [ "极好的，绝佳的；美丽的，迷人的" ],
+  "notes" : [ "该词较为常用，在口语和书面语中均可使用。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9076,
+  "word" : "素早い",
+  "reading" : "すばやい",
+  "romaji" : null,
+  "meaning" : [ "动作迅速、敏捷，不拖泥带水；反应灵敏" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9077,
+  "word" : "素晴らしい",
+  "reading" : "すばらしい",
+  "romaji" : null,
+  "meaning" : [ "非常出色、优秀，令人惊叹、赞叹，极其美好" ],
+  "notes" : [ "该词为形容词，常用来形容事物的美好程度" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9078,
+  "word" : "素朴",
+  "reading" : "そぼく",
+  "romaji" : null,
+  "meaning" : [ "朴素，质朴；纯真，单纯。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9079,
+  "word" : "素材",
+  "reading" : "そざい",
+  "romaji" : null,
+  "meaning" : [ "构成事物的基本材料；创作、制作等所需的材料或元素" ],
+  "notes" : [ "常与「を」搭配使用，表示使用某种素材" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9080,
+  "word" : "素案",
+  "reading" : "そあん",
+  "romaji" : null,
+  "meaning" : [ "初步的方案、草案" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9081,
+  "word" : "素直",
+  "reading" : "すなお",
+  "romaji" : null,
+  "meaning" : [ "坦率、老实、纯真、质朴。不虚伪，如实表达自己的想法和感情；心地单纯，没有复杂的心思。" ],
+  "notes" : [ "形容动词，词干为「素直」，词尾为「だ」，在句中常作谓语、定语、状语等。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9082,
+  "word" : "素質",
+  "reading" : "そしつ",
+  "romaji" : null,
+  "meaning" : [ "个人に固有の性質や能力。特に、生まれつき持っている能力や、学習や訓練などによって身に付けられた能力や性質。" ],
+  "notes" : [ "「素質」は、人や物の持つ固有の性質や能力を表す名詞です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9083,
+  "word" : "索引",
+  "reading" : "さくいん",
+  "romaji" : null,
+  "meaning" : [ "书籍、文件等中按一定顺序排列的，用于方便查找特定内容的引导部分。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9084,
+  "word" : "紫",
+  "reading" : "むらさき",
+  "romaji" : null,
+  "meaning" : [ "紫色；紫红色" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9085,
+  "word" : "紫外線",
+  "reading" : "しがいせん",
+  "romaji" : null,
+  "meaning" : [ "紫外线。太阳光中含有的波长较短的电磁波，对生物有各种影响，如促进维生素D的合成、使皮肤变黑、造成晒伤等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9086,
+  "word" : "累加",
+  "reading" : "るいか",
+  "romaji" : null,
+  "meaning" : [ "逐次に加えていくつかの数や量を合計すること。また、徐々に増えていくこと。" ],
+  "notes" : [ "数学や統計学でよく用いられる言葉。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9087,
+  "word" : "累計",
+  "reading" : "るいけい",
+  "romaji" : null,
+  "meaning" : [ "一定期間における数量や金額などを順次加えて合計すること。また、その合計額。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9088,
+  "word" : "細い",
+  "reading" : "ほそい",
+  "romaji" : null,
+  "meaning" : [ "细的；狭窄的；纤细的；微弱的" ],
+  "notes" : [ "形容词，可用于描述物体的粗细、线条的宽窄、人的身材纤细等，也可形容声音微弱、光线暗淡等" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9089,
+  "word" : "細かい",
+  "reading" : "こまかい①",
+  "romaji" : null,
+  "meaning" : [ "细小，细微；细致，周到；琐碎，繁杂" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9090,
+  "word" : "細かい（お金）",
+  "reading" : "こまかい（おかね）",
+  "romaji" : null,
+  "meaning" : [ "（お金について）金額が小さい、つまり、小銭や額の少ないお金。また、物事については、詳細や細部にまでこだわったり、注意深く扱うさま。" ],
+  "notes" : [ "「細かい」は形容詞で、普通形が「細かい」で、否定形は「細かくない」、過去形は「細かかった」となります。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9091,
+  "word" : "細やか",
+  "reading" : "こまやか",
+  "romaji" : null,
+  "meaning" : [ "细致的，详细的；细腻的；无微不至的" ],
+  "notes" : [ "形容事物在细节方面处理得很好" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9092,
+  "word" : "細工",
+  "reading" : "さいく",
+  "romaji" : null,
+  "meaning" : [ "工艺品；手艺；技巧；耍花招；作弊" ],
+  "notes" : [ "作为名词使用较为常见，在表示‘耍花招、作弊’等负面含义时，多为贬义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9093,
+  "word" : "細胞",
+  "reading" : "さいぼう",
+  "romaji" : null,
+  "meaning" : [ "生物体の構成の基本単位で、原形質が膜に包まれており、独立した生活を行うことができる。" ],
+  "notes" : [ "生物学における重要な用語です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9094,
+  "word" : "細菌",
+  "reading" : "さいきん",
+  "romaji" : null,
+  "meaning" : [ "细菌；病菌" ],
+  "notes" : [ "该词指微小的单细胞生物，在自然界分布广泛，有些细菌能引起疾病。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9095,
+  "word" : "細長い",
+  "reading" : "ほそながい",
+  "romaji" : null,
+  "meaning" : [ "形容物体的形状细长" ],
+  "notes" : [ "该词为形容物体外观形状细长的形容词" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9096,
+  "word" : "紳士",
+  "reading" : "しんし",
+  "romaji" : null,
+  "meaning" : [ "有教养、有礼貌的人；绅士；君子" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9097,
+  "word" : "紹介",
+  "reading" : "しょうかい",
+  "romaji" : null,
+  "meaning" : [ "把某人或某事向他人说明、引见，使他人了解；推荐。" ],
+  "notes" : [ "サ变动词，其词干为「紹介」，词尾为「する」，按する型动词进行活用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9098,
+  "word" : "紹介する",
+  "reading" : "しょうかいする",
+  "romaji" : null,
+  "meaning" : [ "把人或事物的情况、特征等向别人说明，使别人了解；引进，传入" ],
+  "notes" : [ "サ变动词，其连用形为「紹介し」，て形为「紹介して」，た形为「紹介した」等" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9099,
+  "word" : "紺",
+  "reading" : "こん",
+  "romaji" : null,
+  "meaning" : [ "藏青色，深蓝色；（因淤血等呈现的）青紫色；（因害羞、愤怒等呈现的）红晕。" ],
+  "notes" : [ "该词为和语词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9100,
+  "word" : "終わり",
+  "reading" : "おわり",
+  "romaji" : null,
+  "meaning" : [ "末尾，终了；结局；尽头；完了；完蛋；死" ],
+  "notes" : [ "该词是「終わる」的名词形式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

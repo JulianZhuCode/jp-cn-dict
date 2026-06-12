@@ -1,0 +1,901 @@
+[ {
+  "id" : 1701,
+  "word" : "スピード",
+  "reading" : "すぴーど",
+  "romaji" : null,
+  "meaning" : [ "速度；速率，快慢；（体育运动中的）快速，速度感" ],
+  "notes" : [ "来源于英语单词\"speed\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1702,
+  "word" : "スプリング",
+  "reading" : "すぷりんぐ",
+  "romaji" : null,
+  "meaning" : [ "春天（spring的外来语）；弹簧，发条；弹力，弹性；（游泳赛等的）出发台" ],
+  "notes" : [ "源自英语「spring」的外来语，表达「春天」含义时多用于复合词，单独使用表春天的频率低于「春（はる）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1703,
+  "word" : "スプーン",
+  "reading" : "すぷーん",
+  "romaji" : null,
+  "meaning" : [ "汤匙，勺子；（高尔夫球杆的）1号木杆" ],
+  "notes" : [ "源自英语单词\"spoon\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1704,
+  "word" : "スペイン",
+  "reading" : "すぺいん",
+  "romaji" : null,
+  "meaning" : [ "西班牙（欧洲西南部的国家，Spain的日语外来语译名）" ],
+  "notes" : [ "源自英语\"Spain\"的外来语，属于地理专有名词，是日语入门阶段常见词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1705,
+  "word" : "スペース",
+  "reading" : "すぺーす",
+  "romaji" : null,
+  "meaning" : [ "空间；空白；空位；太空，外层空间；（报刊等的）版面" ],
+  "notes" : [ "来源于英语单词\"space\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1706,
+  "word" : "スペースシャトル",
+  "reading" : "スペースシャトル",
+  "romaji" : null,
+  "meaning" : [ "英语外来语，指航天飞机，是可重复使用的往返于地球近地轨道与地面之间的载人航天器" ],
+  "notes" : [ "来源于英语单词\"space shuttle\"，属于外来语名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1707,
+  "word" : "スポンサー",
+  "reading" : "すぽんさー",
+  "romaji" : null,
+  "meaning" : [ "1. 赞助者，赞助商，资助者，赞助单位；2.（广告等的）出资广告主；3.（体育、活动等的）主办单位，协办单位" ],
+  "notes" : [ "源自英语单词\"sponsor\"，是日语外来语词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1708,
+  "word" : "スポンジ",
+  "reading" : "すぽんじ",
+  "romaji" : null,
+  "meaning" : [ "1. 海绵，海绵制品；2. 海绵状多孔物体；3.（糕点的）海绵蛋糕" ],
+  "notes" : [ "源自英语单词\"sponge\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1709,
+  "word" : "スポーツ",
+  "reading" : "すぽーつ",
+  "romaji" : null,
+  "meaning" : [ "运动；体育" ],
+  "notes" : [ "源自英语\"sports\"，是日语外来语，泛指各类体育运动。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1710,
+  "word" : "スポーツウェア",
+  "reading" : "スポーツウェア",
+  "romaji" : null,
+  "meaning" : [ "运动服装，运动衣" ],
+  "notes" : [ "源自英语「sportswear」的外来语，泛指各类体育运动穿着的服装。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1711,
+  "word" : "スポーツクラブ",
+  "reading" : "スポーツクラブ",
+  "romaji" : null,
+  "meaning" : [ "体育俱乐部，运动俱乐部，指以开展各类体育运动、健身活动为目的的团体或场所" ],
+  "notes" : [ "源自英语“sports club”的外来语，也可指代商业健身俱乐部" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1712,
+  "word" : "スポーツジム",
+  "reading" : "スポーツジム",
+  "romaji" : null,
+  "meaning" : [ "健身房，健身场馆，指供人进行体育运动、健身锻炼的专门场所" ],
+  "notes" : [ "外来语，由英语\"sports gym\"音译而来，日语中也可简称「ジム」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1713,
+  "word" : "スポーツ用品",
+  "reading" : "スポーツようひん",
+  "romaji" : null,
+  "meaning" : [ "体育用品，运动用品" ],
+  "notes" : [ "由「スポーツ（体育、运动）」和「用品（用品）」复合而成的名词，日语中重音为平板型（0型），原标注的音调数字5有误" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1714,
+  "word" : "スマート",
+  "reading" : "スマート",
+  "romaji" : null,
+  "meaning" : [ "1.（体型）苗条，纤细 2.（着装、风格）潇洒，干练，洒脱，时髦 3.（智能设备）智能的" ],
+  "notes" : [ "来自英语\"smart\"，现代日语中也常用于表示「智能的」这一含义，属于日语外来语，作ナ形容词使用。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1715,
+  "word" : "スムーズ",
+  "reading" : "sumūzu",
+  "romaji" : null,
+  "meaning" : [ "平滑的，光滑的", "顺利的，流畅的，顺畅的", "（动作、过渡等）平稳的" ],
+  "notes" : [ "源自英语单词\"smooth\"，是日语外来语ナ形容词，修饰名词时需要后续「な」，修饰动词、形容词时需要后续「に」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1716,
+  "word" : "スモッグ",
+  "reading" : "すもっぐ",
+  "romaji" : null,
+  "meaning" : [ "（来自英语smog）烟霾，烟雾，雾霾，是烟与雾混合形成的大气污染现象" ],
+  "notes" : [ "源自英语单词\"smog\"，是smoke（烟）和fog（雾）的合成词，指工业生产、汽车尾气等排放的污染物与大气中的雾气结合形成的空气污染现象。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1717,
+  "word" : "スモモ",
+  "reading" : "スモモ⓪",
+  "romaji" : null,
+  "meaning" : [ "李，李子（蔷薇科李属落叶果树及其果实，也写作「李」）" ],
+  "notes" : [ "和制汉语「李（すもも）」的口语常用表记，也可汉字表记为「李」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1718,
+  "word" : "スライド",
+  "reading" : "すらいど",
+  "romaji" : null,
+  "meaning" : [ "1. （名词义）幻灯片，PPT；滑行，滑动；（物价等）浮动，联动调整；滑梯 2.（动词义）滑行，滑动；推移，变更；（物价）浮动调整" ],
+  "notes" : [ "来自英语单词\"slide\"，作动词使用时属于サ変活用动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1719,
+  "word" : "スラックス",
+  "reading" : "すらっくす",
+  "romaji" : null,
+  "meaning" : [ "宽松西裤，休闲西裤，男女通用的正装长裤，尤指剪裁宽松的西装裤" ],
+  "notes" : [ "源自英语单词\"slacks\"，原本指宽松长裤，现代日语中一般指搭配正装的西装长裤，并非仅指女士西裤。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1720,
+  "word" : "スリル",
+  "reading" : "すりる",
+  "romaji" : null,
+  "meaning" : [ "惊险，刺激性，紧张刺激感，激动兴奋感" ],
+  "notes" : [ "来源于英语单词\"thrill\"，多用于形容带有紧张感的兴奋刺激体验" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1721,
+  "word" : "スローガン",
+  "reading" : "すろーがん",
+  "romaji" : null,
+  "meaning" : [ "源自英文slogan，指为呼吁、宣传特定主张、目标而提出的简短有力的口号、标语" ],
+  "notes" : [ "外来语，来自英语单词\"slogan\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1722,
+  "word" : "スーツ",
+  "reading" : "すーつ",
+  "romaji" : null,
+  "meaning" : [ "1. （男女式）成套西装，西服套装；2. （运动、游泳等特定用途的）套装" ],
+  "notes" : [ "该词源自英语\"suit\"，是日语外来词，为日常生活常用词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1723,
+  "word" : "スーツケース",
+  "reading" : "すーつけーす",
+  "romaji" : null,
+  "meaning" : [ "行李箱，旅行箱（装有拉杆和滚轮的硬质旅行用行李箱）" ],
+  "notes" : [ "来源于英语\"suitcase\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1724,
+  "word" : "スーパー",
+  "reading" : "すーぱー",
+  "romaji" : null,
+  "meaning" : [ "超级；超级市场，超市（supermarket的略称）" ],
+  "notes" : [ "外来语，来自英语super，常用作supermarket（超市）的略称" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1725,
+  "word" : "スーパーコンピュータ",
+  "reading" : "スーパーコンピュータ",
+  "romaji" : null,
+  "meaning" : [ "超级计算机，指运算速度极快、处理能力远超普通计算机的高性能计算机" ],
+  "notes" : [ "英语外来语，源自英文\"supercomputer\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1726,
+  "word" : "スーパーマーケット",
+  "reading" : "スーパーマーケット",
+  "romaji" : null,
+  "meaning" : [ "超级市场，超市，指销售食品、日用品等各类商品的大型自助式零售商场" ],
+  "notes" : [ "常略称为「スーパー」，是来自英语\"supermarket\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1727,
+  "word" : "スープ",
+  "reading" : "すーぷ",
+  "romaji" : null,
+  "meaning" : [ "源自英语soup，指西餐、西餐风格的汤羹" ],
+  "notes" : [ "外来语，来自英语\"soup\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1728,
+  "word" : "セキュリティ",
+  "reading" : "セキュリティ",
+  "romaji" : null,
+  "meaning" : [ "安全；保安；治安；防护，安全保障；证券" ],
+  "notes" : [ "源自英语security，在IT领域常指网络安全、系统防护，也可指安保、证券相关含义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1729,
+  "word" : "セキュリティー",
+  "reading" : "せきゅりてぃー",
+  "romaji" : null,
+  "meaning" : [ "1. 安全，安保；指对人身、财产、信息等的防护保障 2.（证券、金融领域的）证券，债券" ],
+  "notes" : [ "源自英语security，也可写作セキュリティ（省略长音的形式也常用）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1730,
+  "word" : "セクション",
+  "reading" : "せくしょん",
+  "romaji" : null,
+  "meaning" : [ "部门；（报纸、书籍等的）版面，栏目；（事物的）部分、区段" ],
+  "notes" : [ "源自英语单词\"section\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1731,
+  "word" : "セクハラ",
+  "reading" : "せくはら",
+  "romaji" : null,
+  "meaning" : [ "セクシャル・ハラスメントの略称，中文含义为性骚扰，指利用职权或地位等对他人做出带有性意味的不受欢迎的言行" ],
+  "notes" : [ "「セクシャルハラスメント（sexual harassment）」的省略说法，是日语外来语缩略词，属于和制英语词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1732,
+  "word" : "セグメンテーション",
+  "reading" : "せぐめんてーしょん",
+  "romaji" : null,
+  "meaning" : [ "1. 分割，区分；2. （市場）細分化，區分；3. （語言學）語段切分；4. （計算機科學）分段，分片" ],
+  "notes" : [ "源自英語單詞「segmentation」，屬於外來語，是日語商務、IT領域常用術語" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1733,
+  "word" : "セット",
+  "reading" : "セット",
+  "romaji" : null,
+  "meaning" : [ "1. （名词）成套，一组，一套；2. 安装，组装，装配；3. （体育）盘，局；4. （发型）定型，做造型；5. （戏剧、影视）布景，场景；6. （餐饮）套餐" ],
+  "notes" : [ "源自英语单词\"set\"，是日语外来语，也可作他动词使用（サ変活用），表示摆放、设置、组装等动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1734,
+  "word" : "セミナー",
+  "reading" : "せみなー",
+  "romaji" : null,
+  "meaning" : [ "源于英语“seminar”，指研讨会、讲习会、研究班，为针对特定主题进行讨论、培训或研究的集会" ],
+  "notes" : [ "外来語，区别于「ディスカッション（讨论）」，セミナー通常围绕特定主题，带有教学或研究性质" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1735,
+  "word" : "セメント",
+  "reading" : "せめんと",
+  "romaji" : null,
+  "meaning" : [ "水泥， cement；（牙科用的）黏固粉" ],
+  "notes" : [ "外来语，源自英语单词\"cement\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1736,
+  "word" : "セルフサービス",
+  "reading" : "せるふさーびす",
+  "romaji" : null,
+  "meaning" : [ "自助服务，自选服务，指顾客自行选择商品、自行服务的商业服务模式" ],
+  "notes" : [ "源自英语\"self-service\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1737,
+  "word" : "セレモニー",
+  "reading" : "せれもにー",
+  "romaji" : null,
+  "meaning" : [ "仪式，典礼；开幕仪式" ],
+  "notes" : [ "来自英语「ceremony」的外来语，多用于正式的庆典、仪式场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1738,
+  "word" : "セロテープ",
+  "reading" : "せろてーぷ",
+  "romaji" : null,
+  "meaning" : [ "透明玻璃胶带，是赛璐玢胶带的俗称，日常也泛指一般透明办公胶带" ],
+  "notes" : [ "源自英文“cellophane tape”的和制外来语，是日本非常常用的生活词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1739,
+  "word" : "センサー",
+  "reading" : "せんさー",
+  "romaji" : null,
+  "meaning" : [ "传感器，感应装置，侦测器" ],
+  "notes" : [ "源自英语单词\"sensor\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1740,
+  "word" : "センス",
+  "reading" : "せんす",
+  "romaji" : null,
+  "meaning" : [ "感觉，判断力；审美能力，鉴赏力；感官" ],
+  "notes" : [ "来自英语单词\"sense\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1741,
+  "word" : "センター",
+  "reading" : "せんたー",
+  "romaji" : null,
+  "meaning" : [ "中心，中央；中心场所，核心机构；（球类运动的）中锋" ],
+  "notes" : [ "来源于英语单词\"center\"的外来语，也写作「センタ」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1742,
+  "word" : "センテンス",
+  "reading" : "せんてんす",
+  "romaji" : null,
+  "meaning" : [ "句子，语句，源自英语sentence" ],
+  "notes" : [ "日语外来语，和文「文（ぶん）」语义相近，在文章分析、语法学习场景中常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1743,
+  "word" : "セーター",
+  "reading" : "せーたー",
+  "romaji" : null,
+  "meaning" : [ "毛衣，针织套头衫，源自英语sweater" ],
+  "notes" : [ "日语外来语，对应英语词汇sweater，通常指针织的套头毛衣" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1744,
+  "word" : "セーフ",
+  "reading" : "せーふ",
+  "romaji" : null,
+  "meaning" : [ "安全；平安；（棒球）安全进垒；（游戏）未出局、安全状态；未违规、符合规则" ],
+  "notes" : [ "来自英语单词\"safe\"的外来语，作为ナ形容词使用时后接「だ」「な」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1745,
+  "word" : "セーブ",
+  "reading" : "せーぶ",
+  "romaji" : null,
+  "meaning" : [ "[名詞] 救済、救助；（スポーツで）好守備、セービング；（ゲームの）データ保存；節約、貯蓄；[動詞] 救う、救助する；保存する；節約する、蓄える；（力・体力などを）温存する；（スポーツで）好守備をする、得点を防ぐ" ],
+  "notes" : [ "外来语，源自英语save；作动词时按照サ変動詞活用，即セーブする" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1746,
+  "word" : "セール",
+  "reading" : "せーる",
+  "romaji" : null,
+  "meaning" : [ "1. 促销，大减价，廉价销售；2. （销售商品的）活动，特卖会；3. 推销，兜售" ],
+  "notes" : [ "该词是英语\"sale\"的外来语，是日语中常用生活词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1747,
+  "word" : "セールス",
+  "reading" : "せーるす",
+  "romaji" : null,
+  "meaning" : [ "1. 推销，销售；促销活动；2. 销售员，推销员" ],
+  "notes" : [ "源自英语单词\"sales\"，是日语外来语，可构成セールスマン（推销员）、セールスポイント（卖点）等复合词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1748,
+  "word" : "ゼミ/ゼミナール",
+  "reading" : "ぜみ / ぜみなーる",
+  "romaji" : null,
+  "meaning" : [ "源自德语Seminar，指日本大学中由教师指导学生进行研究、讨论、报告的小班化研讨课，即（大学的）专题研讨会、研究班" ],
+  "notes" : [ "ゼミ是ゼミナール的省略形，在日本大学教育中是非常常用的说法" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1749,
+  "word" : "ソックス",
+  "reading" : "そっくす",
+  "romaji" : null,
+  "meaning" : [ "源自英语socks，指短袜，也可泛指袜子" ],
+  "notes" : [ "外来语，复数形式对应英语原词，在日语中直接作为单数名词使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1750,
+  "word" : "ソファー",
+  "reading" : "ソファー",
+  "romaji" : null,
+  "meaning" : [ "沙发，一种供多人或一人坐卧的软质坐具" ],
+  "notes" : [ "也可写作「ソファ」，是来自英语「sofa」的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1751,
+  "word" : "ソフト",
+  "reading" : "そふと",
+  "romaji" : null,
+  "meaning" : [ "1. 计算机软件（ソフトウェア的略称）；2. 柔软的，柔和的，温和的；3.（摄影、印刷）软调的" ],
+  "notes" : [ "ソフトウェア（software）的略称，也可作为ナ形容词形容柔软、柔和的状态，对应的反义词是「ハード」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1752,
+  "word" : "ソフトウェア",
+  "reading" : "そふとうぇあ",
+  "romaji" : null,
+  "meaning" : [ "软件（computer software），是计算机系统中与硬件相互依存的部分，是程序、数据及相关文档的集合" ],
+  "notes" : [ "外来语，源自英语\"software\"，也可略称为ソフト，对应的反义词是ハードウェア（硬件）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1753,
+  "word" : "ソース",
+  "reading" : "ソース",
+  "romaji" : null,
+  "meaning" : [ "1. 西洋辣酱油，伍斯特酱；2. 沙司，调味汁，酱汁；3.（信息技术领域的）源，来源，源代码" ],
+  "notes" : [ "该词源自英语\"source\"和\"sauce\"，不同语境下含义不同。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1754,
+  "word" : "タイトル",
+  "reading" : "たいとる",
+  "romaji" : null,
+  "meaning" : [ "标题；头衔，称号；（影视的）字幕；（体育赛事的）冠军头衔" ],
+  "notes" : [ "源自英语单词\"title\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1755,
+  "word" : "タイプ",
+  "reading" : "タイプ",
+  "romaji" : null,
+  "meaning" : [ "1. 名词：类型，类别；（人的）性格类型，风格；打字；（计算机的）字体；2. サ変动词：打字，输入；按类型分类" ],
+  "notes" : [ "来源于英语单词\"type\"，是日语中常用的外来语，除名词用法外也可作为サ变动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1756,
+  "word" : "タイマー",
+  "reading" : "たいまー",
+  "romaji" : null,
+  "meaning" : [ "定时器，计时器；秒表；（体育比赛等的）计时员" ],
+  "notes" : [ "源自英语单词\"timer\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1757,
+  "word" : "タイミング",
+  "reading" : "タイミング",
+  "romaji" : null,
+  "meaning" : [ "来自英语“timing”，含义为时机，时候，时机掌握，时间安排" ],
+  "notes" : [ "日语外来语，来自英语单词timing，在日语中仅作名词使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1758,
+  "word" : "タイム",
+  "reading" : "たいむ",
+  "romaji" : null,
+  "meaning" : [ "1. （源自英语time）时间，时刻；2. （比赛等的）计时，记录时间；3. （体育比赛中的）暂停；4. （报刊等的）时报，时代" ],
+  "notes" : [ "日语外来语，源自英语单词\"time\"，是日语中常用的基础外来语词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1759,
+  "word" : "タイムサービス",
+  "reading" : "タイムサービス",
+  "romaji" : null,
+  "meaning" : [ "日语商业领域常用词，指商家为吸引客流推出的**限时优惠服务、限时特卖**" ],
+  "notes" : [ "源自英语“time service”，和英语原义（授时服务）语义不同，是日语产生的和制英语词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1760,
+  "word" : "タイムリー",
+  "reading" : "タイムリー",
+  "romaji" : null,
+  "meaning" : [ "适时的，正合时宜的；及时的" ],
+  "notes" : [ "源自英语单词\"timely\"的日语外来语，属于ナ形容词，修饰名词时需要后续助词「な」" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1761,
+  "word" : "タイムレコーダー",
+  "reading" : "たいむれこーだー",
+  "romaji" : null,
+  "meaning" : [ "考勤钟，计时打卡器，用于记录员工上下班时间的计时装置" ],
+  "notes" : [ "源自英语单词time recorder，是日语外来词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1762,
+  "word" : "タイヤ",
+  "reading" : "たいや",
+  "romaji" : null,
+  "meaning" : [ "轮胎，车胎（英语tire的外来语）" ],
+  "notes" : [ "来自英语外来语，指代汽车、自行车等交通工具的轮胎" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1763,
+  "word" : "タイル",
+  "reading" : "たいる",
+  "romaji" : null,
+  "meaning" : [ "瓷砖，花砖，砖片；（围棋）棋盘格子" ],
+  "notes" : [ "该词是英语“tile”的外来语，除建筑用瓷砖、花砖外，也可用于表示围棋棋盘的格子，广义也可指各类片状砖形装饰材料。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1764,
+  "word" : "タオル",
+  "reading" : "タオル",
+  "romaji" : null,
+  "meaning" : [ "源自英语“towel”，指毛巾、擦手巾" ],
+  "notes" : [ "日语外来语，日常生活常用词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1765,
+  "word" : "タクシー",
+  "reading" : "たくしー",
+  "romaji" : null,
+  "meaning" : [ "出租车，计程车（源自英语taxi）" ],
+  "notes" : [ "外来语，来自英语单词\"taxi\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1766,
+  "word" : "タコ",
+  "reading" : "たこ",
+  "romaji" : null,
+  "meaning" : [ "1. 章鱼；2. （俚语）吸大麻的人；3. （航海用语）劣质船员；4. （建筑行业俚语）学徒、小工" ],
+  "notes" : [ "日语中也可写作汉字「蛸」，是日常生活常用词汇，主要义项为章鱼。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1767,
+  "word" : "タバコ",
+  "reading" : "たばこ",
+  "romaji" : null,
+  "meaning" : [ "香烟，烟草，卷烟" ],
+  "notes" : [ "也可写作汉字「煙草」，日语外来语源自葡萄牙语「tabaco」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1768,
+  "word" : "タブー",
+  "reading" : "たぶー",
+  "romaji" : null,
+  "meaning" : [ "禁忌，忌讳；宗教、社会或文化中禁止接触、谈论的事物" ],
+  "notes" : [ "来源于英语单词\"taboo\"，也可写作「タブー」，属于外来语名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1769,
+  "word" : "タレント",
+  "reading" : "タレント",
+  "romaji" : null,
+  "meaning" : [ "1. 艺人，明星，指在媒体上露面活跃的演艺从业者，涵盖演员、歌手、主持人、偶像等各类演艺人士；2. 人才，天资，才能" ],
+  "notes" : [ "该词是源自英语「talent」的外来语，日本语境中更常用第一个义项，泛指各类媒体活跃的演艺人员，和狭义的「アイドル（偶像）」「俳優（演员）」范围不同，涵盖更广。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1770,
+  "word" : "タワー",
+  "reading" : "たわー",
+  "romaji" : null,
+  "meaning" : [ "塔，塔楼；（无线电、电视等的）发射塔，信号塔" ],
+  "notes" : [ "该词是英语\"tower\"的外来语，来源于外来语借入" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1771,
+  "word" : "ターゲット",
+  "reading" : "ターゲット",
+  "romaji" : null,
+  "meaning" : [ "1.（射击、运动等的）目标，靶；2.（想要达成的）目标，指标；3.（面向的）对象，目标群体" ],
+  "notes" : [ "源自英语单词\"target\"，是日语外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1772,
+  "word" : "ターミナル",
+  "reading" : "たーみなる",
+  "romaji" : null,
+  "meaning" : [ "终点站；航站楼；终端，终端设备；末端，终点" ],
+  "notes" : [ "源自英语“terminal”，除交通相关含义外，还可指计算机领域的终端设备" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1773,
+  "word" : "ターミナルケア",
+  "reading" : "たーみなるけあ",
+  "romaji" : null,
+  "meaning" : [ "临终看护，临终关怀，指对预计生存期不长的临终患者提供全面的医疗照护与心理支持，减轻患者痛苦、维护患者尊严的护理服务" ],
+  "notes" : [ "源自英语terminal care，是医疗护理领域的外来语词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1774,
+  "word" : "ダイエット",
+  "reading" : "ダイエット",
+  "romaji" : null,
+  "meaning" : [ "节食，减肥（特指通过控制饮食或运动来瘦身、保持身材的行为）" ],
+  "notes" : [ "源自英语单词\"diet\"，是日语中的外来词，既可以作为名词使用，也可以后续「する」作为サ変動詞使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1775,
+  "word" : "ダイナミック",
+  "reading" : "だいなみっく",
+  "romaji" : null,
+  "meaning" : [ "动态的", "充满活力的，有生气的", "强有力的", "动感的" ],
+  "notes" : [ "来自英语单词\"dynamic\"的外来语，作为ナ形容词使用，可修饰名词也可作表语。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1776,
+  "word" : "ダイビング",
+  "reading" : "だいびんぐ",
+  "romaji" : null,
+  "meaning" : [ "潜水；跳水；（跳伞的）开伞延迟" ],
+  "notes" : [ "源自英语\"diving\"，多作为名词使用，作动词使用时一般后续「する」构成サ変動詞「ダイビングする」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1777,
+  "word" : "ダイヤ",
+  "reading" : "だいや",
+  "romaji" : null,
+  "meaning" : [ "钻石（ダイヤモンドの略）；（火车、电车等公共交通的）运行时刻表（ダイヤグラムの略）；菱形，方块花色（扑克牌的方块）" ],
+  "notes" : [ "ダイヤモンド（钻石）、ダイヤグラム（运行图）的略称，是日语常用外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1778,
+  "word" : "ダイヤモンド／ダイヤ",
+  "reading" : "ダイヤモンド／ダイヤ",
+  "romaji" : null,
+  "meaning" : [ "1. 钻石，金刚石；2.（扑克牌的）方块；3. 棒球的内野，钻石型区域，也可指整个棒球场" ],
+  "notes" : [ "ダイヤ是ダイヤモンド的省略形，两个形式都常用，该词是来自英语diamond的外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1779,
+  "word" : "ダイヤル",
+  "reading" : "ダイヤル",
+  "romaji" : null,
+  "meaning" : [ "1. （机械的）旋钮，刻度盘，调节盘；2. （收音机、电视机的）调谐度盘，调谐旋钮；3. 电话号码盘，拨号盘；4. 表盘，钟盘；5. （橄榄球等的）迂回进攻战术" ],
+  "notes" : [ "源自英语单词\"dial\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1780,
+  "word" : "ダイレクトメール",
+  "reading" : "ダイレクトメール",
+  "romaji" : null,
+  "meaning" : [ "直邮广告，邮寄广告，即通过邮政系统直接向消费者发送广告宣传物料的广告形式，也可简称DM" ],
+  "notes" : [ "源自英文\"direct mail\"的外来语，常简称为DM" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1781,
+  "word" : "ダウン",
+  "reading" : "だうん",
+  "romaji" : null,
+  "meaning" : [ "下降，落下；倒下；（价格、温度等）降低；（身体）垮掉，累倒；（服装）羽绒，鸭绒；（软件）停机，无法使用；击倒，摔倒" ],
+  "notes" : [ "该词是英语\"down\"的外来语，除动词用法外也常作为名词使用，不同场景有多个常用含义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1782,
+  "word" : "ダウンロード",
+  "reading" : "だうんろーど",
+  "romaji" : null,
+  "meaning" : [ "将网络或存储设备上的文件、数据复制到本地设备的操作，中文意为下载" ],
+  "notes" : [ "来源于英语单词\"download\"，是日语外来语，可作为名词使用，也可后续「する」构成サ変動詞" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1783,
+  "word" : "ダビング",
+  "reading" : "だびんぐ",
+  "romaji" : null,
+  "meaning" : [ "1. （音像内容的）复制，翻录，拷贝（原指磁盘、唱片、磁带等介质的音视频内容复制，也可泛指数码影音内容的复制）；2. 配音，译制（影视内容的配音译制工作）" ],
+  "notes" : [ "该词源自英语\"dubbing\"，作动词使用时一般为「ダビングする」的サ変活用形式。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1784,
+  "word" : "ダブる",
+  "reading" : "だぶる",
+  "romaji" : null,
+  "meaning" : [ "1. （两件事物）重复、重叠；2. （服饰等）宽松下垂、起皱；3. （升学、升级时）留级；4. 兼职兼两份工作" ],
+  "notes" : [ "是日语外来语，源自英语动词\"double\"，口语中常用" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1785,
+  "word" : "ダブル",
+  "reading" : "だぶる",
+  "romaji" : null,
+  "meaning" : [ "1. 名詞：成双、成对；两倍、加倍；（服装）双层的、双料的；（住宿）双人大床房；（网球等）双打；2. 動詞：重叠、重复；加倍" ],
+  "notes" : [ "英語「double」由来の外来語" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1786,
+  "word" : "ダム",
+  "reading" : "ダム",
+  "romaji" : null,
+  "meaning" : [ "（源自英语dam）水库，大坝，水坝" ],
+  "notes" : [ "外来语，来自英语单词\"dam\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1787,
+  "word" : "ダンサー",
+  "reading" : "だんさー",
+  "romaji" : null,
+  "meaning" : [ "舞蹈演员，舞蹈家，舞者" ],
+  "notes" : [ "源自英语单词\"dancer\"的外来语，可指代所有职业舞者，不分性别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1788,
+  "word" : "ダンス",
+  "reading" : "ダンス",
+  "romaji" : null,
+  "meaning" : [ "1. 舞蹈；2. 跳舞，舞蹈表演" ],
+  "notes" : [ "来自英语单词\"dance\"的外来语，也可作サ変動詞使用，如「ダンスをする」表示跳舞。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1789,
+  "word" : "チェス",
+  "reading" : "チェス",
+  "romaji" : null,
+  "meaning" : [ "国际象棋（源自英语chess，是国际通行的两人对弈的棋盘竞技游戏）" ],
+  "notes" : [ "外来语，借自英语的chess。对应汉字将象棋类游戏中的国际象棋称为「西洋将棋」，チェス是日语中常用说法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1790,
+  "word" : "チェック",
+  "reading" : "ちぇっく",
+  "romaji" : null,
+  "meaning" : [ "检验，检查；支票；格子花纹；（国际象棋）将军" ],
+  "notes" : [ "作为动词使用时属于サ変動詞，后续接「する」构成动词用法，来自英语\"check\"的外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1791,
+  "word" : "チェックイン",
+  "reading" : "ちぇっくいん",
+  "romaji" : null,
+  "meaning" : [ "1.（酒店、机场等）办理入住手续，登机手续；2.（网络、系统等）签到；3.（围棋）插入" ],
+  "notes" : [ "来自英语check-in的外来语，也可作为サ変活用动词使用（チェックインする）" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1792,
+  "word" : "チェンジ",
+  "reading" : "ちぇんじ",
+  "romaji" : null,
+  "meaning" : [ "改变；更换；交换；兑换（货币）" ],
+  "notes" : [ "源自英语单词\"change\"，可作为名词使用，也可以接「する」构成サ変活用动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1793,
+  "word" : "チェーン",
+  "reading" : "ちぇーん",
+  "romaji" : null,
+  "meaning" : [ "链子，链条；连锁（商店、企业等）组织，连锁经营；（多项任务的）连续接力；链式（结构）" ],
+  "notes" : [ "来自英语单词\"chain\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1794,
+  "word" : "チケット",
+  "reading" : "ちけっと",
+  "romaji" : null,
+  "meaning" : [ "票，券；（车、船、电影、演出等的）入场券，车票，门票" ],
+  "notes" : [ "源自英语\"ticket\"的外来语，是日语中对各类票券的常用说法，对应汉语的\"票\"\"券\"。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1795,
+  "word" : "チップ",
+  "reading" : "ちっぷ",
+  "romaji" : null,
+  "meaning" : [ "1. 小费；2. 芯片，集成电路片；3. 碎片，碎屑；4. （高尔夫、桌球等的）轻击" ],
+  "notes" : [ "来源于英语单词\"chip\"，除常用义小费外，在科技、体育等领域也有广泛使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1796,
+  "word" : "チャイム",
+  "reading" : "ちゃいむ",
+  "romaji" : null,
+  "meaning" : [ "门铃；（学校等的）电铃；钟琴，编钟" ],
+  "notes" : [ "源自英语单词\"chime\"，是日语外来语，日常使用中最常指代门铃、校园电铃" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1797,
+  "word" : "チャレンジ",
+  "reading" : "ちゃれんじ",
+  "romaji" : null,
+  "meaning" : [ "挑战；提出质疑，挑战权威" ],
+  "notes" : [ "来自英语单词\"challenge\"的外来语，可作为名词使用，也可后接「する」构成サ変活用动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1798,
+  "word" : "チャンス",
+  "reading" : "チャンス",
+  "romaji" : null,
+  "meaning" : [ "机会，机遇；（体育运动中的）良机，得分机会" ],
+  "notes" : [ "源自英语单词\"chance\"，是日语中常用的外来语名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1799,
+  "word" : "チャンネル",
+  "reading" : "チャンネル",
+  "romaji" : null,
+  "meaning" : [ "1. （电视、广播等的）频道，波段；2. （信息传递、业务运作等的）渠道，途径；3. （沟槽、水道等的）槽沟，航道；4. （视频平台的）账号频道" ],
+  "notes" : [ "该词是英语\"channel\"的外来语，也可写作「チャネル」，两种写法通用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1800,
+  "word" : "チャンピオン",
+  "reading" : "ちゃんぴおん",
+  "romaji" : null,
+  "meaning" : [ "1. 冠军，优胜者（竞赛等的第一名）；2. 拥护者，捍卫者（主张、主义等的支持者）" ],
+  "notes" : [ "源自英语单词\"champion\"，是日语外来词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

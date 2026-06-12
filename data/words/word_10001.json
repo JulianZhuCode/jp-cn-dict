@@ -1,0 +1,901 @@
+[ {
+  "id" : 10001,
+  "word" : "言います",
+  "reading" : "いいます",
+  "romaji" : null,
+  "meaning" : [ "说；讲；告诉；表达" ],
+  "notes" : [ "原形为「言う」，「言います」是其ます形，常用于礼貌、正式的场合。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10002,
+  "word" : "言いよどむ",
+  "reading" : "いいよどむ",
+  "romaji" : null,
+  "meaning" : [ "欲言又止，吞吞吐吐" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10003,
+  "word" : "言い付ける",
+  "reading" : "いいつける",
+  "romaji" : null,
+  "meaning" : [ "1. 命令，吩咐；2. 告状；3. 经常说；4. （向神佛等）许愿，祈求" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10004,
+  "word" : "言い伝える",
+  "reading" : "いいつたえる",
+  "romaji" : null,
+  "meaning" : [ "传达，转告；流传；言传，口传" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10005,
+  "word" : "言い出す",
+  "reading" : "いいだす",
+  "romaji" : null,
+  "meaning" : [ "开始说；说出，讲出" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10006,
+  "word" : "言い分",
+  "reading" : "いいぶん",
+  "romaji" : null,
+  "meaning" : [ "辩解；借口；说法；主张；理由" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10007,
+  "word" : "言い合い",
+  "reading" : "いいあい",
+  "romaji" : null,
+  "meaning" : [ "互相说；争论，争吵，吵架" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10008,
+  "word" : "言い合う",
+  "reading" : "いいあう",
+  "romaji" : null,
+  "meaning" : [ "互相说；相互交谈；争论；各执一词" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10009,
+  "word" : "言い張る",
+  "reading" : "いいはる",
+  "romaji" : null,
+  "meaning" : [ "固执地主张；硬说；坚持（某种说法、观点等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10010,
+  "word" : "言い換える",
+  "reading" : "いいかえる",
+  "romaji" : null,
+  "meaning" : [ "换句话说，换一种说法表达；改说，重说" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10011,
+  "word" : "言い放つ",
+  "reading" : "いいはなつ",
+  "romaji" : null,
+  "meaning" : [ "断言；毅然说出；信口开河，乱说" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10012,
+  "word" : "言い残す",
+  "reading" : "いいのこす",
+  "romaji" : null,
+  "meaning" : [ "1. 没说完，没讲完；2. 留下话，留言；3. 遗留（某种印象等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10013,
+  "word" : "言い渡す",
+  "reading" : "いいわたす",
+  "romaji" : null,
+  "meaning" : [ "1. 宣告，宣布（法律、判决等）；2. 命令，吩咐" ],
+  "notes" : [ "「言い渡す」常用于正式场合宣布决定、命令等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10014,
+  "word" : "言い直す",
+  "reading" : "いいなおす",
+  "romaji" : null,
+  "meaning" : [ "重说；重新表达；换个说法" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10015,
+  "word" : "言い表す",
+  "reading" : "いいあらわす",
+  "romaji" : null,
+  "meaning" : [ "表达，表述，陈述，说明；象征，代表" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10016,
+  "word" : "言い訳",
+  "reading" : "いいわけ",
+  "romaji" : null,
+  "meaning" : [ "借口；辩解；托词" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10017,
+  "word" : "言い返す",
+  "reading" : "いいかえす",
+  "romaji" : null,
+  "meaning" : [ "1. 顶嘴；反驳 2. 重复说；再说一遍" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10018,
+  "word" : "言い間違える",
+  "reading" : "いいまちがえる",
+  "romaji" : null,
+  "meaning" : [ "说错；说漏嘴" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10019,
+  "word" : "言う",
+  "reading" : "いう",
+  "romaji" : null,
+  "meaning" : [ "说，讲；告诉，对…说；叫做，称为；说明，表明；认为，觉得" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10020,
+  "word" : "言うまでもなく",
+  "reading" : "いうまでもなく",
+  "romaji" : null,
+  "meaning" : [ "不用说，不言而喻，自不待言" ],
+  "notes" : [ "" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10021,
+  "word" : "言わば",
+  "reading" : "いわば",
+  "romaji" : null,
+  "meaning" : [ "说起来，可以说；比如说" ],
+  "notes" : [ "" ],
+  "pos" : "CONJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10022,
+  "word" : "言付ける",
+  "reading" : "いわづける",
+  "romaji" : null,
+  "meaning" : [ "吩咐，嘱咐；托人带口信" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10023,
+  "word" : "言伝",
+  "reading" : "ことづた",
+  "romaji" : null,
+  "meaning" : [ "传闻；口信；传话，传达" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10024,
+  "word" : "言動",
+  "reading" : "げんどう",
+  "romaji" : null,
+  "meaning" : [ "言行，语言和行动" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10025,
+  "word" : "言及",
+  "reading" : "げんきゅう",
+  "romaji" : null,
+  "meaning" : [ "提及，说到；谈到，涉及" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10026,
+  "word" : "言葉",
+  "reading" : "ことば",
+  "romaji" : null,
+  "meaning" : [ "话，语言；说法，措辞；言辞，言语" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10027,
+  "word" : "言葉に甘える",
+  "reading" : "ことばにあまえる",
+  "romaji" : null,
+  "meaning" : [ "过分依赖言辞，光靠嘴说；听信别人的话，轻信别人的言辞" ],
+  "notes" : [ "" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10028,
+  "word" : "言葉遣い",
+  "reading" : "ことばづかい",
+  "romaji" : null,
+  "meaning" : [ "措辞，用词；说话的方式、风格" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10029,
+  "word" : "言語",
+  "reading" : "げんご",
+  "romaji" : null,
+  "meaning" : [ "语言；言语；话" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10030,
+  "word" : "言語道断",
+  "reading" : "ごんごどうだん",
+  "romaji" : null,
+  "meaning" : [ "岂有此理，荒谬至极；无法用言语形容，难以言表" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10031,
+  "word" : "訂正",
+  "reading" : "ていせい",
+  "romaji" : null,
+  "meaning" : [ "订正，修订；改正错误" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10032,
+  "word" : "計",
+  "reading" : "けい",
+  "romaji" : null,
+  "meaning" : [ "1. 合计，总计；2. 计划，打算；3. 测量仪器；4. 策略，谋略" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10033,
+  "word" : "計り知れない",
+  "reading" : "はかりしれない",
+  "romaji" : null,
+  "meaning" : [ "不可估量的；无法预测的；非常大的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10034,
+  "word" : "計画",
+  "reading" : "けいかく",
+  "romaji" : null,
+  "meaning" : [ "计划，规划" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10035,
+  "word" : "計算",
+  "reading" : "けいさん",
+  "romaji" : null,
+  "meaning" : [ "计算；考虑，估计；算计" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10036,
+  "word" : "計算機",
+  "reading" : "けいさんき",
+  "romaji" : null,
+  "meaning" : [ "计算机；计算器" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10037,
+  "word" : "計算高い",
+  "reading" : "けいさんだかい",
+  "romaji" : null,
+  "meaning" : [ "精打细算的；会算计的；爱打小算盘的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10038,
+  "word" : "討つ",
+  "reading" : "うつ",
+  "romaji" : null,
+  "meaning" : [ "讨伐；攻击；攻打；（为复仇等）杀死" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10039,
+  "word" : "討議",
+  "reading" : "とうぎ",
+  "romaji" : null,
+  "meaning" : [ "讨论，共同研讨" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10040,
+  "word" : "訓示",
+  "reading" : "くんじ",
+  "romaji" : null,
+  "meaning" : [ "训示，训诫；指示，命令" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10041,
+  "word" : "訓練",
+  "reading" : "くんれん",
+  "romaji" : null,
+  "meaning" : [ "训练；锻炼；练习" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10042,
+  "word" : "託ける",
+  "reading" : "たくける",
+  "romaji" : null,
+  "meaning" : [ "1. 借口，托故；2. 委托，托付" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10043,
+  "word" : "記事",
+  "reading" : "きじ",
+  "romaji" : null,
+  "meaning" : [ "1. 新闻，报道；2. 文章，短文" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10044,
+  "word" : "記入",
+  "reading" : "きにゅうする",
+  "romaji" : null,
+  "meaning" : [ "写入，填写；记入，登记" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10045,
+  "word" : "記号",
+  "reading" : "きごう",
+  "romaji" : null,
+  "meaning" : [ "记号，符号" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10046,
+  "word" : "記名",
+  "reading" : "きめい",
+  "romaji" : null,
+  "meaning" : [ "记名；署名，签名" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10047,
+  "word" : "記念",
+  "reading" : "きねん",
+  "romaji" : null,
+  "meaning" : [ "纪念；纪念品" ],
+  "notes" : [ "「記念」也有动词形式「記念する」，意为“纪念”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10048,
+  "word" : "記念品",
+  "reading" : "きねんひん",
+  "romaji" : null,
+  "meaning" : [ "作为纪念而留存或赠送的物品，纪念品" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10049,
+  "word" : "記憶",
+  "reading" : "きおく",
+  "romaji" : null,
+  "meaning" : [ "记忆；记忆力；记性" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10050,
+  "word" : "記者",
+  "reading" : "きしゃ",
+  "romaji" : null,
+  "meaning" : [ "记者" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10051,
+  "word" : "記載",
+  "reading" : "きさい",
+  "romaji" : null,
+  "meaning" : [ "记载；登载" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10052,
+  "word" : "記述",
+  "reading" : "きじゅつ",
+  "romaji" : null,
+  "meaning" : [ "记述，记载；记述的文字" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10053,
+  "word" : "記録",
+  "reading" : "きろく",
+  "romaji" : null,
+  "meaning" : [ "1. 记录，记载；2. （比赛等的）成绩记录；3. （磁带、光盘等的）录音，录像" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10054,
+  "word" : "訛り",
+  "reading" : "ごとり",
+  "romaji" : null,
+  "meaning" : [ "口音，乡音；变形，走样" ],
+  "notes" : [ "「訛る」の名詞形" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10055,
+  "word" : "訪ねます",
+  "reading" : "たずねます",
+  "romaji" : null,
+  "meaning" : [ "访问，拜访；探寻，寻求；打听，询问" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10056,
+  "word" : "訪ねる",
+  "reading" : "たずねる",
+  "romaji" : null,
+  "meaning" : [ "访问，拜访；寻找，探求；打听，询问" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10057,
+  "word" : "訪れる",
+  "reading" : "おとずれる",
+  "romaji" : null,
+  "meaning" : [ "1. 到来，来临；2. 访问，拜访；3. 前往，去到" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10058,
+  "word" : "訪問",
+  "reading" : "ほうもん",
+  "romaji" : null,
+  "meaning" : [ "访问，拜访" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10059,
+  "word" : "訪問します",
+  "reading" : "ほうもんします",
+  "romaji" : null,
+  "meaning" : [ "拜访，访问" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10060,
+  "word" : "設ける",
+  "reading" : "もうける",
+  "romaji" : null,
+  "meaning" : [ "1. 设置，设立；2. 制定，规定；3. 准备，预备" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10061,
+  "word" : "設備",
+  "reading" : "せつび",
+  "romaji" : null,
+  "meaning" : [ "设备；设施；配备" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10062,
+  "word" : "設定",
+  "reading" : "せってい",
+  "romaji" : null,
+  "meaning" : [ "1. 设定，设置；2. （小说、戏剧等的）背景设定，设定情节" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10063,
+  "word" : "設立",
+  "reading" : "せつりつ",
+  "romaji" : null,
+  "meaning" : [ "设立，创立；建立（组织、机构等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10064,
+  "word" : "設立",
+  "reading" : "せつりつする",
+  "romaji" : null,
+  "meaning" : [ "（組織や制度などを）新しく作り上げる。創設する。设立；创办；创建" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10065,
+  "word" : "設置",
+  "reading" : "せっち",
+  "romaji" : null,
+  "meaning" : [ "设置，安装；设立；摆放" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10066,
+  "word" : "設計",
+  "reading" : "せっけい",
+  "romaji" : null,
+  "meaning" : [ "设计；设计图，设计方案" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10067,
+  "word" : "許す",
+  "reading" : "ゆるす",
+  "romaji" : null,
+  "meaning" : [ "原谅，宽恕；允许，容许；认可，承认；免除（义务、责任等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10068,
+  "word" : "許可",
+  "reading" : "きょか",
+  "romaji" : null,
+  "meaning" : [ "许可，允许；批准" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10069,
+  "word" : "訳",
+  "reading" : "わけ",
+  "romaji" : null,
+  "meaning" : [ "1. 理由，原因；2. 意思，意义；3. 情况，情形；4. 当然，自然；5. 译文，翻译" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10070,
+  "word" : "訳します",
+  "reading" : "やくします",
+  "romaji" : null,
+  "meaning" : [ "翻译；解释；说明；认为，觉得；有某种含义；有道理，说得通" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10071,
+  "word" : "訳す",
+  "reading" : "やくす",
+  "romaji" : null,
+  "meaning" : [ "翻译；解释；说明；理解；领会" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10072,
+  "word" : "訳する",
+  "reading" : "わけする",
+  "romaji" : null,
+  "meaning" : [ "1. 翻译；2. 解释；3. 认为，觉得；4. 算出，算出…的价值" ],
+  "notes" : [ "「訳す」是其简体形式" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10073,
+  "word" : "訴える",
+  "reading" : "うたえる",
+  "romaji" : null,
+  "meaning" : [ "1. 申诉，诉说；2. 呼吁；3. 诉诸，借助；4. 起诉，控告" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10074,
+  "word" : "訴訟",
+  "reading" : "そしょう",
+  "romaji" : null,
+  "meaning" : [ "诉讼；打官司" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10075,
+  "word" : "診る",
+  "reading" : "みる",
+  "romaji" : null,
+  "meaning" : [ "诊断；诊察；听诊；叩诊" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10076,
+  "word" : "診察",
+  "reading" : "しんさつ",
+  "romaji" : null,
+  "meaning" : [ "（医生对患者进行的）诊断、检查" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10077,
+  "word" : "診断",
+  "reading" : "しんだん",
+  "romaji" : null,
+  "meaning" : [ "诊断；判断；对病情、事物状态等做出判断" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10078,
+  "word" : "診療",
+  "reading" : "しんりょう",
+  "romaji" : null,
+  "meaning" : [ "诊疗，诊治；医疗服务" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10079,
+  "word" : "証",
+  "reading" : "しょう",
+  "romaji" : null,
+  "meaning" : [ "证据，证明；证件，凭证" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10080,
+  "word" : "証人",
+  "reading" : "しょうにん",
+  "romaji" : null,
+  "meaning" : [ "证人，提供证据或证词的人" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10081,
+  "word" : "証拠",
+  "reading" : "しょうこ",
+  "romaji" : null,
+  "meaning" : [ "证据；证明" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10082,
+  "word" : "証明",
+  "reading" : "しょうめい",
+  "romaji" : null,
+  "meaning" : [ "证明；证实；证据；证明书" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10083,
+  "word" : "証言",
+  "reading" : "しょうげん",
+  "romaji" : null,
+  "meaning" : [ "名词。当事人或证人就自己所知道的事实向司法机关或有关人员所作的陈述；证词。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10084,
+  "word" : "詐欺",
+  "reading" : "さぎ",
+  "romaji" : null,
+  "meaning" : [ "欺诈，欺骗；诈骗" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10085,
+  "word" : "評価",
+  "reading" : "ひょうか",
+  "romaji" : null,
+  "meaning" : [ "评价；评估；评定" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10086,
+  "word" : "評判",
+  "reading" : "ひょうばん",
+  "romaji" : null,
+  "meaning" : [ "1. 评论，评价；2. 名声，声誉；3. 出名，有名；4. （商品等的）销路，行情" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10087,
+  "word" : "評論",
+  "reading" : "ひょうろん",
+  "romaji" : null,
+  "meaning" : [ "评论；评论文章" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10088,
+  "word" : "詠嘆",
+  "reading" : "えいたん",
+  "romaji" : null,
+  "meaning" : [ "咏叹，感叹，赞叹；诗歌等中表达感叹的部分" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10089,
+  "word" : "詣でる",
+  "reading" : "もうでる",
+  "romaji" : null,
+  "meaning" : [ "1. 参拜（神社、寺院等）；2. 前往，到（某处）；3. （为求学问、技艺等）拜访，叩访" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10090,
+  "word" : "試しに",
+  "reading" : "ためしに",
+  "romaji" : null,
+  "meaning" : [ "试着，尝试；为了试验" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10091,
+  "word" : "試す",
+  "reading" : "ためす0",
+  "romaji" : null,
+  "meaning" : [ "尝试；试验；测试；试试看；品尝；考验" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10092,
+  "word" : "試み",
+  "reading" : "こころみ",
+  "romaji" : null,
+  "meaning" : [ "尝试，试验；意图，打算" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10093,
+  "word" : "試みる",
+  "reading" : "こころみる",
+  "romaji" : null,
+  "meaning" : [ "尝试，试验；试图，企图" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10094,
+  "word" : "試乗",
+  "reading" : "しじょう",
+  "romaji" : null,
+  "meaning" : [ "试乘；试驾（車や飛行機などを、運転・操縦して性能などを調べること）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10095,
+  "word" : "試作する",
+  "reading" : "しさくする",
+  "romaji" : null,
+  "meaning" : [ "试制，试做；试验性制作" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10096,
+  "word" : "試写会",
+  "reading" : "ししゃかい",
+  "romaji" : null,
+  "meaning" : [ "新闻记者等在正式发布前提前观看影片、演出等并撰写报道的活动；试映会，预映会" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10097,
+  "word" : "試合",
+  "reading" : "しあい",
+  "romaji" : null,
+  "meaning" : [ "比赛；竞赛；较量" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10098,
+  "word" : "試案",
+  "reading" : "しあん",
+  "romaji" : null,
+  "meaning" : [ "试行方案；草案；初步方案" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10099,
+  "word" : "試着",
+  "reading" : "しちゃく",
+  "romaji" : null,
+  "meaning" : [ "试穿（衣服等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10100,
+  "word" : "試練",
+  "reading" : "しれん",
+  "romaji" : null,
+  "meaning" : [ "考验，锻炼；磨难，苦难" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

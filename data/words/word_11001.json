@@ -1,0 +1,901 @@
+[ {
+  "id" : 11001,
+  "word" : "銀色",
+  "reading" : "ぎんしょく",
+  "romaji" : null,
+  "meaning" : [ "银色，银白色；也可用于形容具有银色外观的事物或状态" ],
+  "notes" : [ "可用于描述颜色、物体的外观等，常见于文学描写、日常事物的外观描述等场景" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11002,
+  "word" : "銀行",
+  "reading" : "ぎんこう",
+  "romaji" : null,
+  "meaning" : [ "银行，办理存款、贷款、汇兑、储蓄等业务的金融机构。" ],
+  "notes" : [ "「銀行」是日语中的外来语演变而来？不，「銀行」是和制汉语，由“银”（货币相关）和“行”（机构、店铺等含义）组合而成，对应英语的“bank”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11003,
+  "word" : "銀行員",
+  "reading" : "ぎんこういん",
+  "romaji" : null,
+  "meaning" : [ "银行职员，银行工作人员" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11004,
+  "word" : "銃",
+  "reading" : "じゅう",
+  "romaji" : null,
+  "meaning" : [ "枪，步枪；炮；猎枪；（台球）球杆头" ],
+  "notes" : [ "“銃”在日语中除了常见的“枪、步枪”含义外，还有“炮”“猎枪”以及台球术语中“球杆头”的意思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11005,
+  "word" : "銭湯",
+  "reading" : "せんとう",
+  "romaji" : null,
+  "meaning" : [ "公共澡堂，是日本传统的公共洗浴场所，一般设有大浴池、更衣室等设施，人们可以在此洗浴放松。" ],
+  "notes" : [ "在日本，銭湯有着悠久的历史和独特的文化，除了洗浴功能外，有时也会成为社区居民交流的场所之一。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11006,
+  "word" : "鋭い",
+  "reading" : "するどい",
+  "romaji" : null,
+  "meaning" : [ "1. 尖锐，锋利（如刀具、笔尖等物体的形状或质地锋利）；2. 敏锐，灵敏（如感觉、洞察力、思维等敏锐）；3. 强烈，激烈（如疼痛、光线、气味等强烈）" ],
+  "notes" : [ "「鋭い」的否定形式为「鈍い（にぶい）」，表示“钝的；迟钝的；微弱的”等含义。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11007,
+  "word" : "錆びる",
+  "reading" : "さびる",
+  "romaji" : null,
+  "meaning" : [ "生锈；（金属等）被氧化；（事物）变得陈旧、古板" ],
+  "notes" : [ "「錆びる」是自动词，其对应的他动词是「錆ばせる」（使生锈）" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11008,
+  "word" : "錠剤",
+  "reading" : "じょうざい",
+  "romaji" : null,
+  "meaning" : [ "药丸，药片，指将药物等制成的固体剂型，通常为圆形或椭圆形，便于服用" ],
+  "notes" : [ "一般用于医学、药学相关的语境中，描述药物的一种剂型" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11009,
+  "word" : "錯覚",
+  "reading" : "さくかく",
+  "romaji" : null,
+  "meaning" : [ "错觉，幻觉，对事物产生的与实际情况不符的错误认知或感觉" ],
+  "notes" : [ "常与「にとらわれる」「を起こす」等搭配使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11010,
+  "word" : "錯覚する",
+  "reading" : "さっかくする",
+  "romaji" : null,
+  "meaning" : [ "（产生）错觉，误以为" ],
+  "notes" : [ "「錯覚」为名词，加上「する」后构成サ変动词，表示主观上产生错误的知觉或认知。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11011,
+  "word" : "錯誤",
+  "reading" : "さくご",
+  "romaji" : null,
+  "meaning" : [ "错误；失误；不符合事实、道理的地方，错谬" ],
+  "notes" : [ "也可写作「錯誤」，注意其与「誤り（あやまり）」在使用语境上的区别，「錯誤」更偏向于学术、较为正式的场合中表示错误、失误，而「誤り」使用范围更广泛。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11012,
+  "word" : "録画",
+  "reading" : "ろくが",
+  "romaji" : null,
+  "meaning" : [ "录像，录制（节目等）" ],
+  "notes" : [ "也可作サ変動詞，如「録画する」（进行录像、录制）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11013,
+  "word" : "録音する",
+  "reading" : "ろくおんする",
+  "romaji" : null,
+  "meaning" : [ "录音，录制声音" ],
+  "notes" : [ "「録音」为サ变动词，由サ変動詞词干「録音」加「する」构成，其否定形式为「録音しない」，过去式为「録音した」等。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11014,
+  "word" : "鍋",
+  "reading" : "なべ",
+  "romaji" : null,
+  "meaning" : [ "锅；火锅；砂锅（用于烹饪、盛装食物等的器具，也可指用锅烹制的菜肴，如火锅等）" ],
+  "notes" : [ "常见的复合词有「電気鍋（でんきなべ）」（电饭锅）、「土鍋（どなべ）」（砂锅）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11015,
+  "word" : "鍋物",
+  "reading" : "なべもの",
+  "romaji" : null,
+  "meaning" : [ "火锅，指以锅为器具，以热源烧锅，以水或汤烧开来涮煮各类食物的料理方式，也可指这类料理的成品" ],
+  "notes" : [ "常见的鍋物种类有寿喜烧（すき焼き）、涮涮锅（しゃぶしゃぶ）、相扑火锅（ちゃんこ鍋）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11016,
+  "word" : "鍛える",
+  "reading" : "きたえる",
+  "romaji" : null,
+  "meaning" : [ "1. 锤炼，锻造（金属等）；2. 锻炼（身心、技能等）；3. 磨练（意志、本领等）" ],
+  "notes" : [ "其对应的他动词为「鍛える」（自他动词同形），过去式为「鍛えた」，否定式为「鍛えない」，可能态为「鍛えられる」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11017,
+  "word" : "鍛え上げる",
+  "reading" : "きたえあげる",
+  "romaji" : null,
+  "meaning" : [ "（通过反复练习、训练等）充分锻炼，精心培养，锻造好" ],
+  "notes" : [ "由「鍛える」（锻炼、锻造）和补助动词「上げる」（表示动作的完成、达到某种程度）构成，强调经过一定过程后使事物达到较高的水平或状态" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11018,
+  "word" : "鍵",
+  "reading" : "かぎ",
+  "romaji" : null,
+  "meaning" : [ "钥匙；锁；关键，要害" ],
+  "notes" : [ "「鍵」作“锁”讲时，既可以指锁具本身，也可以指锁的机关；作“关键”讲时，常用于比喻事物的核心、要害部分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11019,
+  "word" : "鎖",
+  "reading" : "くさり",
+  "romaji" : null,
+  "meaning" : [ "1. 锁链，链子；2. 联系，关系，纽带" ],
+  "notes" : [ "其对应的汉字也可写作「鎖」，在表示“联系、关系”时，常用于抽象意义上的关联，如人际关系、事物之间的关联等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11020,
+  "word" : "鎮まる",
+  "reading" : "しずまる",
+  "romaji" : null,
+  "meaning" : [ "1. （声音、风波、心情等）平息，平复，平静下来；2. （疼痛、瘙痒等）止住，消去；3. （人群、活动等）安静下来，静息" ],
+  "notes" : [ "其对应的他动词为「鎮める（しずめる）」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11021,
+  "word" : "鎮痛剤",
+  "reading" : "ちんつうざい",
+  "romaji" : null,
+  "meaning" : [ "止痛药，镇痛剂" ],
+  "notes" : [ "用于缓解疼痛的药物，常见的有阿司匹林、布洛芬等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11022,
+  "word" : "鏡",
+  "reading" : "かがみ",
+  "romaji" : null,
+  "meaning" : [ "镜子；（平静的水面等）镜面；榜样，典范" ],
+  "notes" : [ "「鏡」作为名词，除了常见的“镜子”的意思外，还可用于比喻平静的水面等具有镜面效果的事物，以及值得他人学习的榜样、典范等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11023,
+  "word" : "鐘",
+  "reading" : "しょう",
+  "romaji" : null,
+  "meaning" : [ "钟（一种计时或报时的器具，也可指钟声）" ],
+  "notes" : [ "在日语中，“鐘”主要用于表示钟这种器物或其发出的声音，和汉语中的“钟”在语义上有相似性，但在使用场景和搭配上有一定的日语语言习惯特点。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11024,
+  "word" : "鑑定",
+  "reading" : "かんてい",
+  "romaji" : null,
+  "meaning" : [ "鉴定，鉴别；评定，评价；估价，鉴定价格" ],
+  "notes" : [ "作为名词时，可后续「する」构成サ变动词使用，常用于文物、艺术品、物品价值等方面的鉴定场合" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11025,
+  "word" : "鑑賞",
+  "reading" : "かんしょう",
+  "romaji" : null,
+  "meaning" : [ "鉴赏，欣赏（艺术品、戏剧、音乐、风景等）" ],
+  "notes" : [ "常与「する」搭配使用，构成サ変動詞「鑑賞する」，此时词性为动词，活用类型为サ変複合動詞" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11026,
+  "word" : "長々",
+  "reading" : "なが々",
+  "romaji" : null,
+  "meaning" : [ "1. 冗长地，啰嗦地；2. （时间）长久地，漫长地；3. （物体、身体等）长长地，伸展地" ],
+  "notes" : [ "常以「長々と」的形式使用，后续常接动词，表示动作进行的方式或状态。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11027,
+  "word" : "長い",
+  "reading" : "ながい",
+  "romaji" : null,
+  "meaning" : [ "长的；（时间）久远的；（长度、距离等）漫长的；（文章、讲话等）冗长的" ],
+  "notes" : [ "其否定形式为「長くない」，过去式为「長かった」，过去否定式为「長くなかった」，比较级为「長く」（后续「～より」等表示比较的结构），最高级为「最も長い」等" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11028,
+  "word" : "長さ",
+  "reading" : "ながさ",
+  "romaji" : null,
+  "meaning" : [ "长度；（时间的）长短" ],
+  "notes" : [ "由形容词「長い」（ながい）加后缀「さ」构成的名词，用于表示物体的长度或时间的长短等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11029,
+  "word" : "長城",
+  "reading" : "ちょうじょう",
+  "romaji" : null,
+  "meaning" : [ "中国的著名古代防御工程，也是世界文化遗产之一，又称万里长城。" ],
+  "notes" : [ "「長城」在日语中也可写作「万里の長城」，用于指代中国的长城。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11030,
+  "word" : "長女",
+  "reading" : "ちょうじょ",
+  "romaji" : null,
+  "meaning" : [ "长女，最大的女儿" ],
+  "notes" : [ "「長女」是指一个家庭中出生顺序最早的女儿，对应“次女”（じじょ，第二个女儿）、“三女”（さんじょ，第三个女儿）等概念。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11031,
+  "word" : "長寿国",
+  "reading" : "ちょうじゅくに",
+  "romaji" : null,
+  "meaning" : [ "指人均寿命较长、长寿人口比例较高的国家。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11032,
+  "word" : "長居",
+  "reading" : "ながい",
+  "romaji" : null,
+  "meaning" : [ "长时间停留、久坐、久居" ],
+  "notes" : [ "也可作サ変動詞，如「長居する」（ながいする），表示长时间停留、久坐的行为" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11033,
+  "word" : "長年",
+  "reading" : "ながねん",
+  "romaji" : null,
+  "meaning" : [ "名词：多年，长年累月；副词：多年来，长期以来" ],
+  "notes" : [ "作为名词时，可后续「の」修饰名词；作为副词时，直接修饰动词、形容词等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11034,
+  "word" : "長引く",
+  "reading" : "ながびく",
+  "romaji" : null,
+  "meaning" : [ "（时间、状态等）拖延，拖长，持续很久" ],
+  "notes" : [ "「長引く」是自动词，主语通常是时间、事件、状态等，不能用于人做主语表示拖延（人做主语表示拖延常用「遅らせる」「引き延ばす」等他动词）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11035,
+  "word" : "長所",
+  "reading" : "ちょうしょ",
+  "romaji" : null,
+  "meaning" : [ "长处，优点" ],
+  "notes" : [ "无" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11036,
+  "word" : "長持ち",
+  "reading" : "ながもち",
+  "romaji" : null,
+  "meaning" : [ "耐用，持久；耐穿，经穿；长时间保持（某种状态）" ],
+  "notes" : [ "常与「する」搭配使用，构成「長持ちする」的动词形式，表示“耐用，持久”等含义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11037,
+  "word" : "長方形",
+  "reading" : "ちょうほうけい",
+  "romaji" : null,
+  "meaning" : [ "长方形，矩形" ],
+  "notes" : [ "由「長（ちょう）」（长）、「方（ほう）」（形状、方式）、「形（けい）」（形状）组合而成，用于描述具有四个直角，对边相等的四边形。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11038,
+  "word" : "長時間",
+  "reading" : "ちょうじかん",
+  "romaji" : null,
+  "meaning" : [ "长时间，很久" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11039,
+  "word" : "長期",
+  "reading" : "ちょうき",
+  "romaji" : null,
+  "meaning" : [ "长期，长时间（与“短期”相对，指持续时间较长的时期）" ],
+  "notes" : [ "可构成复合词，如「長期間（ちょうきかん）」（长时间）、「長期滞在（ちょうきたいざい）」（长期停留）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11040,
+  "word" : "長期予報",
+  "reading" : "ちょうきよほう",
+  "romaji" : null,
+  "meaning" : [ "长期预报（通常用于气象、地震等领域对未来较长一段时间情况的预测）" ],
+  "notes" : [ "一般在气象、地质等相关专业领域使用较多，用于预测较长周期（如数月、数年等）的情况" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11041,
+  "word" : "長男",
+  "reading" : "ちょうなん",
+  "romaji" : null,
+  "meaning" : [ "长子，指家庭中出生顺序最靠前的儿子" ],
+  "notes" : [ "在日本的家族文化中，長男通常在继承家业等方面可能会有一些传统的责任和期待" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11042,
+  "word" : "長続き",
+  "reading" : "ながつづき",
+  "romaji" : null,
+  "meaning" : [ "长久持续，持久（常以「～する」「～がする」等形式作为动词使用，表示某种状态、事物等长时间地维持下去）" ],
+  "notes" : [ "作为名词时，可表示“长久的持续状态”；作为サ变动词使用时，其活用形式遵循サ变动词的规则，如「長続きします」「長続きしない」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11043,
+  "word" : "長編",
+  "reading" : "ちょうへん",
+  "romaji" : null,
+  "meaning" : [ "长篇（一般用于形容小说、文章、电影、戏剧等的篇幅较长）" ],
+  "notes" : [ "常与「小説」「映画」「ドラマ」「文章」等词搭配使用，其反义词为「短編（たんぺん）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11044,
+  "word" : "長蛇",
+  "reading" : "ちょうだ",
+  "romaji" : null,
+  "meaning" : [ "长蛇；（人、车辆等）排成很长的队伍" ],
+  "notes" : [ "常与「列（れつ）」「並（なら）ぶ」等词搭配使用，构成「長蛇の列」等常用表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11045,
+  "word" : "長袖",
+  "reading" : "ながそで",
+  "romaji" : null,
+  "meaning" : [ "长袖；长袖衣服" ],
+  "notes" : [ "通常用于描述衣物的袖长款式，如「長袖の和服（长袖和服）」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11046,
+  "word" : "長距離",
+  "reading" : "ちょうきょり",
+  "romaji" : null,
+  "meaning" : [ "长途；远程（指距离较长的情况，常用于描述交通、通信、运输等方面的长距离状态，如长距离运输、长距离通话、长距离跑步等）" ],
+  "notes" : [ "可与「輸送（ゆそう）」「通話（つうわ）」「走破（そうは）」等词搭配使用，构成相关的复合词或短语来描述具体的长距离相关行为或事物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11047,
+  "word" : "長閑",
+  "reading" : "ながら",
+  "romaji" : null,
+  "meaning" : [ "1. （天气）晴朗的，风和日丽的；2. （氛围、环境等）恬静的，悠闲的，闲适的" ],
+  "notes" : [ "也可写作「長閑」，其名词形式为「長閑さ（ながらさ）」，表示悠闲、闲适的状态" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11048,
+  "word" : "長雨",
+  "reading" : "ながあめ",
+  "romaji" : null,
+  "meaning" : [ "连日降雨，长时间的降雨，持续多日的降雨" ],
+  "notes" : [ "通常用于描述降雨持续多日的天气状况，在气象相关的表述以及日常生活中描述长时间下雨的场景时使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11049,
+  "word" : "長靴",
+  "reading" : "ながぐつ",
+  "romaji" : null,
+  "meaning" : [ "靴子，长筒靴（一般指比较长、能覆盖到小腿部分甚至更长的靴子，常用于雨天、雪地等场景穿着，以起到防水、保暖等作用）" ],
+  "notes" : [ "通常写作「長靴」，也可根据具体款式等有不同的叫法，比如「レインブーツ（雨靴）」也属于长靴的一种常见类型。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11050,
+  "word" : "門",
+  "reading" : "もん",
+  "romaji" : null,
+  "meaning" : [ "名词，意为城门、门、大门，也可用于比喻义，如‘心の門’（心门），还可用于一些专有名称、机构名称等，如‘学問の門’（学问之门）、‘銀行の門’（银行的大门）等" ],
+  "notes" : [ "在日语中，‘門’还有一些特殊的用法和搭配，比如和其他词组成复合词，如‘門柱’（门柱）、‘門前’（门前）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11051,
+  "word" : "門松",
+  "reading" : "かどまつ",
+  "romaji" : null,
+  "meaning" : [ "门松，新年时为了迎接年神，在门前装饰的用松枝、竹子等做成的装饰物。" ],
+  "notes" : [ "门松通常在12月下旬开始装饰，1月7日左右撤下，也被称为“松饰”，是日本新年的传统装饰之一，象征着吉祥、长寿和迎接福气。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11052,
+  "word" : "門限",
+  "reading" : "もんげん",
+  "romaji" : null,
+  "meaning" : [ "（学校、公司、宿舍等规定的）关门时间，门禁时间" ],
+  "notes" : [ "一般用于表示场所规定的人员需要返回并关门的时间，常见于学校宿舍、公司宿舍、旅馆等场所的管理规定中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11053,
+  "word" : "閃く",
+  "reading" : "ひらめく",
+  "romaji" : null,
+  "meaning" : [ "1. 闪耀，闪烁（光が点灭したり、きらきらと輝いたりする）；2. （旗子等）飘扬（旗などが風になびく）；3. 突然想到（主意、灵感等）（アイデアや着想が突然浮かぶ）" ],
+  "notes" : [ "其ます形为「閃（ひら）めます」，过去形为「閃（ひら）めいた」，否定形为「閃（ひら）めかない」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11054,
+  "word" : "閉ざす",
+  "reading" : "とざす",
+  "romaji" : null,
+  "meaning" : [ "1. 关闭，封闭（出入口、通道等，使其不能通行或进入；也可用于关闭门窗、电器等）；2. 封锁（信息、消息等，使其不被外界知晓；或封锁某个区域，限制人员进出等）；3. 憋在心里，隐藏（情感、想法等，不向他人表露）" ],
+  "notes" : [ "“閉ざす”是他动词，其对应的自动词是“閉ざされる”（とざされる），表示“被关闭；被封锁”等含义。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11055,
+  "word" : "閉じこもる",
+  "reading" : "とじこもる",
+  "romaji" : null,
+  "meaning" : [ "闭门不出，闷在（家里等）；也可引申为精神上封闭自己，不与外界交流" ],
+  "notes" : [ "「閉じこもる」是自动词，其对应的他动词形式为「閉じこめる」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11056,
+  "word" : "閉じる",
+  "reading" : "とじる",
+  "romaji" : null,
+  "meaning" : [ "1. 关闭，合上（如关闭门窗、书本等）；2. 结束（如结束会议、活动等）；3. 封锁，封闭（如封锁道路、区域等）；4. （眼睛、嘴等）闭上，合上" ],
+  "notes" : [ "其对应的他动词是「閉める（とじめる）」，需要注意区分自他动词的用法。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11057,
+  "word" : "閉まります",
+  "reading" : "しまります",
+  "romaji" : null,
+  "meaning" : [ "（门、窗、盖子等）关闭，关上；（店铺、场所等）关门，打烊；（会议、活动等）结束，闭幕" ],
+  "notes" : [ "其基本形为「閉まる」，是自动词，强调事物自身发生关闭的动作或状态，不能用于表示人主动去关闭的行为（人主动关闭要用他动词「閉める」）" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11058,
+  "word" : "閉めます",
+  "reading" : "しめます",
+  "romaji" : null,
+  "meaning" : [ "关闭（门、窗、抽屉等）；合上（书本、伞等）；堵塞（洞口、缝隙等）；结束（会议、活动等）；停止（营业、播放等）" ],
+  "notes" : [ "其基本形为「閉める」（しめる），属于一段动词，「閉めます」是其ます形，用于礼貌体的表达。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11059,
+  "word" : "閉会",
+  "reading" : "へいかい",
+  "romaji" : null,
+  "meaning" : [ "闭会，散会；闭幕（会议、活动等结束，正式宣布结束的行为或状态）" ],
+  "notes" : [ "作为サ変动词使用时，可构成「閉会する」的形式，其否定形为「閉会しない」，过去形为「閉会した」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11060,
+  "word" : "閉口",
+  "reading" : "へいこう",
+  "romaji" : null,
+  "meaning" : [ "1. （作为名词）指因无奈、苦恼等而说不出话的状态，或感到难以忍受、为难的心情。2. （作为动词）①闭口不言，缄口不语；②（因某事）感到受不了、为难、无计可施。" ],
+  "notes" : [ "「閉口」作动词使用时，属于サ変动词，其活用形式为：未然形「閉口せ」、連用形「閉口し」、終止形「閉口する」、連体形「閉口する」、仮定形「閉口すれ」、命令形「閉口せよ」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11061,
+  "word" : "閉塞",
+  "reading" : "へいそく",
+  "romaji" : null,
+  "meaning" : [ "1. （道路、管道等）阻塞，闭塞，堵塞；2. （思路、社会等）封闭，停滞，僵化" ],
+  "notes" : [ "可作为名词或サ変动词使用，作动词时需与「する」搭配使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11062,
+  "word" : "閉店する",
+  "reading" : "へいてんする",
+  "romaji" : null,
+  "meaning" : [ "（商店、店铺等）关门，停业，歇业" ],
+  "notes" : [ "「閉店」也可作为名词使用，如「閉店時間（关门时间）」" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11063,
+  "word" : "閉店時刻",
+  "reading" : "へいてんじこく",
+  "romaji" : null,
+  "meaning" : [ "名词，指店铺停止营业、关门的时间" ],
+  "notes" : [ "通常用于表示商业店铺、营业场所等结束营业的具体时间点" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11064,
+  "word" : "閉鎖",
+  "reading" : "へいさ",
+  "romaji" : null,
+  "meaning" : [ "关闭，封锁；（交通、通信、经济等方面的）封锁，断绝" ],
+  "notes" : [ "作为サ変动词使用时，常以「閉鎖する」的形式出现，可用于描述对空间、通道、交流等的封闭行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11065,
+  "word" : "閉鎖",
+  "reading" : "へいさ",
+  "romaji" : null,
+  "meaning" : [ "关闭，封闭；封锁（道路、场所、信息等，使其无法通行、进入或传播）" ],
+  "notes" : [ "“閉鎖”作为サ变动词，其动词形式为“閉鎖する”，在使用时要注意和他动词“閉める”（侧重从外部关闭物体，如关门、关窗等）的区别，“閉鎖”更强调对区域、信息等进行封锁、封闭的行为。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11066,
+  "word" : "開きます",
+  "reading" : "ひらきます",
+  "romaji" : null,
+  "meaning" : [ "打开；张开；展开；（店铺、活动等）开张，开业；（会议、活动等）开始，召开" ],
+  "notes" : [ "其基本形为「開く（ひらく）」，「開きます」是「開く」的ます形，用于礼貌的表达场合。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11067,
+  "word" : "開く",
+  "reading" : "あく",
+  "romaji" : null,
+  "meaning" : [ "1. 开，打开（门、窗、书等）；2. （店铺、活动等）开张，开业，举办；3. （会议、集会等）召开；4. （花朵等）开放；5. （空间、间隔等）变宽，开阔" ],
+  "notes" : [ "其对应的他动词为「開ける（あける）」，注意区分自动词「開く（あく）」和他动词「開く（ひらく）」，「開く（ひらく）」也有“开，打开；开展，展开”等含义，比如「本を開く（ひらく）」（打开书）、「計画を開く（ひらく）」（开展计划）" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11068,
+  "word" : "開けます",
+  "reading" : "あけます",
+  "romaji" : null,
+  "meaning" : [ "打开（门、窗、容器等）；开启（电器、设备等）；开辟（道路、土地等）" ],
+  "notes" : [ "其基本形为「開ける」（あける），属于一类动词（五段动词），「開けます」是其礼貌体（ます形）的表达，用于较为正式、礼貌的场合，表达动作的进行或请求等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11069,
+  "word" : "開ける",
+  "reading" : "あける",
+  "romaji" : null,
+  "meaning" : [ "1. 打开，拉开（门、窗、抽屉等）；2. 开辟，开拓（道路、土地等）；3. 解开，拆开（包装、绳子等）；4. 启动，开启（电器、机器等）；5. 扩大，拓展（范围、规模等）" ],
+  "notes" : [ "其对应的他动词是「開く（あく）」，需注意区分自动词和他动词的用法。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11070,
+  "word" : "開会",
+  "reading" : "かいかい",
+  "romaji" : null,
+  "meaning" : [ "开会，会议开始" ],
+  "notes" : [ "「開会」作为サ変動詞时，可用于「開会する」（开会）、「開会させる」（让……开会）等活用形式，常与「式（しき）」搭配构成「開会式」（开幕式）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11071,
+  "word" : "開会式",
+  "reading" : "かいかいしき",
+  "romaji" : null,
+  "meaning" : [ "（会议、活动、赛事等的）开幕式，开幕仪式" ],
+  "notes" : [ "由「開会（かいかい）」（开会、开幕）和「式（しき）」（仪式）组合而成，通常用于正式的集会、活动等的开场仪式场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11072,
+  "word" : "開催",
+  "reading" : "かいさい",
+  "romaji" : null,
+  "meaning" : [ "召开，举办，举行（会议、活动、赛事等）" ],
+  "notes" : [ "「開催」作为サ変动词时，其连用形为「開催し」，连体形为「開催する」，终止形为「開催する」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11073,
+  "word" : "開始",
+  "reading" : "かいし",
+  "romaji" : null,
+  "meaning" : [ "（事物、行为等的）开始，开端；也可作动词，意为开始（做某事）" ],
+  "notes" : [ "作为サ变动词时，其连用形为「開始し」，连体形为「開始する」等，在句中可作谓语或定语等成分" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11074,
+  "word" : "開幕",
+  "reading" : "かいまく",
+  "romaji" : null,
+  "meaning" : [ "开幕，开演，开始（常用于戏剧、会议、赛事等活动的开始）" ],
+  "notes" : [ "可构成サ变动词「開幕する」，表示“开幕，开始”，如「会議が開幕する」（会议开幕）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11075,
+  "word" : "開拓",
+  "reading" : "かいたく",
+  "romaji" : null,
+  "meaning" : [ "1. 开垦（土地），开拓（荒地等）；2. 开辟（新领域、新市场等），开拓（事业、学问等的新领域）" ],
+  "notes" : [ "サ変動詞，可作名词使用，如「開拓の歴史」（开拓的历史）" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11076,
+  "word" : "開放",
+  "reading" : "かいほう",
+  "romaji" : null,
+  "meaning" : [ "1. （场所、设施等）开放，对外公开使用；2. （思想、态度等）开放，不保守；3. （门窗、容器等）打开" ],
+  "notes" : [ "作为サ变动词，其连用形为「開放し」，连体形为「開放する」，命令形为「開放せよ」等。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11077,
+  "word" : "開業",
+  "reading" : "かいぎょう",
+  "romaji" : null,
+  "meaning" : [ "开业，开店，创办企业等（指开始从事商业、服务业等业务活动）" ],
+  "notes" : [ "作为名词时，可后续「する」构成动词用法，属于サ变动词的一种常见构成方式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11078,
+  "word" : "開発",
+  "reading" : "かいはつ",
+  "romaji" : null,
+  "meaning" : [ "1. 开发（自然资源、新产品、新技术等）；2. 研制，研制出；3. 开拓，开辟（新领域、新市场等）" ],
+  "notes" : [ "「開発」作为サ变动词，其连用形为「開発し」，如「開発している（正在开发）」；过去式为「開発した（开发了）」等。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11079,
+  "word" : "開発します",
+  "reading" : "かいはつします",
+  "romaji" : null,
+  "meaning" : [ "开发；研制；开拓；开辟" ],
+  "notes" : [ "「開発」对应的基本形是「開発する」，属于サ変动词，「します」是其礼貌体（ます形）的变形，用于较为正式、礼貌的场合表达“做……”的意思，这里整体表示“开发（做开发这件事）”。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11080,
+  "word" : "開花",
+  "reading" : "かいか",
+  "romaji" : null,
+  "meaning" : [ "1. （植物）开花；2. （事物）发展、繁荣、兴起（比喻义）" ],
+  "notes" : [ "作为サ変动词时，可构成「開花する」的形式，如「技術が開花する（技术得到发展）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11081,
+  "word" : "開花前線",
+  "reading" : "かいかぜんせん",
+  "romaji" : null,
+  "meaning" : [ "随着季节变化，某种花卉依次开放的地域分界线，常用于描述樱花等花卉的开放进程。" ],
+  "notes" : [ "主要用于气象、植物学相关领域，描述花卉开放的时空分布情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11082,
+  "word" : "開設",
+  "reading" : "かいせつ",
+  "romaji" : null,
+  "meaning" : [ "开设，开办（如学校、公司、机构、设施等）" ],
+  "notes" : [ "「開設」是サ变动词，通常以「～を開設する」的形式使用，其对象多为具有一定规模和组织性的场所、机构等。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11083,
+  "word" : "開通",
+  "reading" : "かいつう",
+  "romaji" : null,
+  "meaning" : [ "1. （道路、铁路、航线等）开通，启用，通车，通航；2. （管道、线路等）开通，接通" ],
+  "notes" : [ "「開通」通常作为サ変動詞（する动词）使用，常与表示交通线路、通信线路等的名词搭配，用于描述其开始启用、接通的状态或动作。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11084,
+  "word" : "開通します",
+  "reading" : "かいつうします",
+  "romaji" : null,
+  "meaning" : [ "开通（道路、航线、线路等）；（使）贯通，（使）畅通" ],
+  "notes" : [ "「開通」对应的サ变动词为「開通する」，「開通します」是其ます形，用于较为正式、礼貌的表达场景，常与交通线路、管道、隧道等表示通道类的事物搭配使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11085,
+  "word" : "開閉",
+  "reading" : "かいへい",
+  "romaji" : null,
+  "meaning" : [ "开和关，开合（指物体的开启与关闭的动作或状态，也可用于抽象事物的开启与关闭，如电路的开闭合、信息的开闭合等）" ],
+  "notes" : [ "可作名词使用，也可作为サ変動詞（サ行变格活用动词）使用，作动词时为「開閉する」（かいへいする）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11086,
+  "word" : "開館",
+  "reading" : "かいかん",
+  "romaji" : null,
+  "meaning" : [ "1. （施設などが）開いて利用できるようになること。/（设施等）开放供人使用。例：博物館が開館する。/博物馆开馆。2. （新しい施設を）建設して開くこと。/（新建设施）建成并开放。例：新しい図書館を開館する。/新建并开放一座新图书馆。" ],
+  "notes" : [ "「開館」は主に施設（博物館、美術館、図書館、劇場など）の開放や新設に関する用語で、一般的な建物の「ドアを開ける」（開門）とは使い分けられる。/「開館」主要用于设施（博物馆、美术馆、图书馆、剧场等）的开放或新建，与一般建筑物的“开门”（開門）用法不同。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11087,
+  "word" : "間",
+  "reading" : "あいだ",
+  "romaji" : null,
+  "meaning" : [ "1. 当中，之间，期间；2. 房间，屋子；3. 机会，空儿" ],
+  "notes" : [ "“間”还有读音“ま”，如“間（ま）に合う”（赶上）、“間（ま）隔”（间隔）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11088,
+  "word" : "間に合います",
+  "reading" : "まにあいます",
+  "romaji" : null,
+  "meaning" : [ "来得及，赶得上；（在数量、程度等方面）足够，能满足" ],
+  "notes" : [ "其基本形为「間に合う」，属于一类动词（五段动词），「間に合います」是其ます形，用于礼貌体的表达。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11089,
+  "word" : "間に合う",
+  "reading" : "まにあう",
+  "romaji" : null,
+  "meaning" : [ "赶得上，来得及；（数量、时间等）够用，足够" ],
+  "notes" : [ "其否定形式为「間に合わない（まにあわない）」，过去式为「間に合った（まにあった）」，过去否定式为「間に合わなかった（まにあわなかった）」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11090,
+  "word" : "間に合わせる",
+  "reading" : "まにあわせる",
+  "romaji" : null,
+  "meaning" : [ "使……赶上，使……来得及；凑合，迁就，将就" ],
+  "notes" : [ "「間に合う」的使役形，既可以表示使某事物或某人赶上、来得及，也有迁就、凑合的意思" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11091,
+  "word" : "間もなく",
+  "reading" : "まもなく",
+  "romaji" : null,
+  "meaning" : [ "副词，意为马上、一会儿、不久之后" ],
+  "notes" : [ "该词主要用于描述时间上距离某事发生或某个状态出现不远，常用来修饰动作发生的时间，在句中一般作状语成分" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11092,
+  "word" : "間接的",
+  "reading" : "かんせつてき",
+  "romaji" : null,
+  "meaning" : [ "间接的，非直接的" ],
+  "notes" : [ "形容动词，在句中作定语时需后续「な」，作谓语时后续「だ」（简体）或「です」（敬体）等。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11093,
+  "word" : "間柄",
+  "reading" : "あいだがら",
+  "romaji" : null,
+  "meaning" : [ "（人与人之间的）关系，身份，地位；（事物之间的）关联，情况" ],
+  "notes" : [ "常用来表示人与人或事物之间的关系、身份地位等，可用于正式和日常场合" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11094,
+  "word" : "間近",
+  "reading" : "まぢか",
+  "romaji" : null,
+  "meaning" : [ "眼前，跟前，眼看就要（发生）" ],
+  "notes" : [ "常与「に」「が」等助词搭配使用，后接表示即将发生的动作或状态的内容。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11095,
+  "word" : "間違い",
+  "reading" : "まちがい",
+  "romaji" : null,
+  "meaning" : [ "错误，差错；失误，疏忽；过失，过错" ],
+  "notes" : [ "其对应的动词形式为「間違う（まちがう）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11096,
+  "word" : "間違いない",
+  "reading" : "まちがいない",
+  "romaji" : null,
+  "meaning" : [ "（形容词）一定的，肯定的，没错的；（副词性用法时）一定，肯定，没错" ],
+  "notes" : [ "可作形容词修饰名词，如「間違いない答え（正确的答案）」；也可后续「に」「く」等作副词性用法，修饰动词、形容词等。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11097,
+  "word" : "間違う",
+  "reading" : "まちがう",
+  "romaji" : null,
+  "meaning" : [ "他动词・自动词。1. 弄错，搞错，做错（正しくないことをする。また、正しくないと判断する）；2. 搞错，弄错（相手や場所、時期などを誤る）；3. 失误，出错（行動や判断に誤りがある）" ],
+  "notes" : [ "「間違う」作为他动词时，宾语通常是错误的对象或内容；作为自动词时，多表示自身出现错误的状态。其过去式为「間違えた」，命令形为「間違えろ」，可能形为「間違えられる」（较书面）或「間違える」（较口语）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11098,
+  "word" : "間違えます",
+  "reading" : "まちがえます",
+  "romaji" : null,
+  "meaning" : [ "弄错，搞错；做错，出错" ],
+  "notes" : [ "其基本形为「間違える」（まちがえる），属于一段动词（二类动词），「間違えます」是其礼貌体（ます形）形式，用于较为正式、礼貌的场合表达“弄错、做错”的意思。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11099,
+  "word" : "間違える",
+  "reading" : "まちがえる",
+  "romaji" : null,
+  "meaning" : [ "弄错，搞错；做错，失误；误会，误解" ],
+  "notes" : [ "其对应名词为「間違い（まちがい）」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11100,
+  "word" : "間隔",
+  "reading" : "かんかく",
+  "romaji" : null,
+  "meaning" : [ "间隔，间距，距离（事物与事物、时间与时间之间的空隙、距离）" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

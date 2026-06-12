@@ -1,0 +1,901 @@
+[ {
+  "id" : 4501,
+  "word" : "地下鉄",
+  "reading" : "ちかてつ",
+  "romaji" : null,
+  "meaning" : [ "地铁，地下铁道" ],
+  "notes" : [ "日本的地下铁多与JR线及私铁线路联运，部分城市的地下铁也会被称为「メトロ」（metro）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4502,
+  "word" : "地中",
+  "reading" : "ちちゅう",
+  "romaji" : null,
+  "meaning" : [ "地下，地里，地面以下的空间或区域" ],
+  "notes" : [ "可用于指自然地层下的空间，也可指人工挖掘的地下区域" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4503,
+  "word" : "地主",
+  "reading" : "じぶちゅう",
+  "romaji" : null,
+  "meaning" : [ "1. 拥有大量土地并将其出租给农民以获取地租的人；2. 土地的所有者" ],
+  "notes" : [ "现代日语中更多用于指大规模土地所有者，日常语境中若仅指普通土地持有者，常用「土地所有者（とちしょゆうしゃ）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4504,
+  "word" : "地位",
+  "reading" : "ちい",
+  "romaji" : null,
+  "meaning" : [ "1. 人或团体在社会、组织中所处的位置、等级；2. 职位，职务；3. 身份，名分" ],
+  "notes" : [ "可用于表示社会地位、职场职位等多种层级相关的概念，常与「高い」「低い」「向上する」等词搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4505,
+  "word" : "地価",
+  "reading" : "ちか",
+  "romaji" : null,
+  "meaning" : [ "地价，土地的买卖价格或评估价格" ],
+  "notes" : [ "可构成「公示地価（こうじちか）」「路線価（ろせんか）」等相关复合词，多用于房地产、经济相关场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4506,
+  "word" : "地元",
+  "reading" : "じもと",
+  "romaji" : null,
+  "meaning" : [ "当地，本地，故乡；本地居民，当地人" ],
+  "notes" : [ "可用于指代地域范围，也可指代该地域的居住者，日常对话和书面语中均常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4507,
+  "word" : "地割れ",
+  "reading" : "じわれ",
+  "romaji" : null,
+  "meaning" : [ "地裂，地面开裂、断裂" ],
+  "notes" : [ "多因地震、地质活动或强降雨等引发，可用于描述自然现象导致的地面裂隙" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4508,
+  "word" : "地区",
+  "reading" : "ちく",
+  "romaji" : null,
+  "meaning" : [ "指具有某种共同特征或特定用途的区域，如行政区域、特定功能区域等；地区，区域" ],
+  "notes" : [ "可与「行政」「商業」「住宅」等词搭配构成复合词，如「行政地区」「商業地区」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4509,
+  "word" : "地名",
+  "reading" : "ちめい",
+  "romaji" : null,
+  "meaning" : [ "表示地方名称的词语，如城市、乡镇、街道、山川等的名称" ],
+  "notes" : [ "属于普通名词，可与「日本の」「外国の」等定语搭配使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4510,
+  "word" : "地味",
+  "reading" : "じみ",
+  "romaji" : null,
+  "meaning" : [ "1.（生活、衣食住等）质朴，俭朴；2.（外观、设计等）朴素，不花哨；3.（性格、想法等）朴实，不张扬；4.（事物）平淡，乏味" ],
+  "notes" : [ "作为形容动词使用，常后续「な」修饰名词，后续「に」修饰动词；部分语境下可带有“乏味、不起眼”的消极含义" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4511,
+  "word" : "地図",
+  "reading" : "ちず",
+  "romaji" : null,
+  "meaning" : [ "地图；示意图" ],
+  "notes" : [ "可构成复合词，如「観光地図（かんこうちず）」（观光地图）、「道路地図（どうろちず）」（道路地图）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4512,
+  "word" : "地域",
+  "reading" : "ちいき",
+  "romaji" : null,
+  "meaning" : [ "1. 地域，地区，区域；2. （具有某种共同特征的）地区范围" ],
+  "notes" : [ "可用于表示行政划分、自然环境、文化特征等不同属性的区域范围" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4513,
+  "word" : "地層",
+  "reading" : "ちそう",
+  "romaji" : null,
+  "meaning" : [ "地球表层中呈层状分布的岩石、堆积物等的集合体；地质层" ],
+  "notes" : [ "多用于地质学相关领域，可用于描述地质结构、化石埋藏环境、能源矿产的储存层等场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4514,
+  "word" : "地平線",
+  "reading" : "ちへいせん",
+  "romaji" : null,
+  "meaning" : [ "地平线；水平线；事物的界限、尽头" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4515,
+  "word" : "地形",
+  "reading" : "ちけい",
+  "romaji" : null,
+  "meaning" : [ "地表的形态，包括山地、平原、丘陵、盆地等各种地貌" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4516,
+  "word" : "地方",
+  "reading" : "ちほう",
+  "romaji" : null,
+  "meaning" : [ "1. 地区，地方，区域；2. （相对于首都、中心城市的）地方，外地；3. （日本的）地方自治体，地方政府；4. （特定的）领域，范围" ],
+  "notes" : [ "可构成复合词，如「地方紙（ちほうし）」（地方报纸）、「地方選挙（ちほうせんきょ）」（地方选举）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4517,
+  "word" : "地方自治体",
+  "reading" : "ちほうじちたい",
+  "romaji" : null,
+  "meaning" : [ "日本的地方公共团体，包括都道府县、市町村等具有自治权的行政单位" ],
+  "notes" : [ "是日本行政体系中承担地方自治事务的主体，拥有独立的行政、财政权限" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4518,
+  "word" : "地獄",
+  "reading" : "じごく",
+  "romaji" : null,
+  "meaning" : [ "1. 佛教中指人死后因生前罪孽而遭受惩罚的痛苦世界；2. 比喻极其痛苦、艰难的处境或场所" ],
+  "notes" : [ "除了本义的佛教概念，日常使用中多用来形容极端痛苦的状态或环境" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4519,
+  "word" : "地球",
+  "reading" : "ちきゅう",
+  "romaji" : null,
+  "meaning" : [ "太阳系八大行星之一，是人类居住的星球；也可指地球仪" ],
+  "notes" : [ "通常单独使用时多指代行星地球，在特定语境下可表示地球仪" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4520,
+  "word" : "地球温暖化",
+  "reading" : "ちきゅうおんだんか",
+  "romaji" : null,
+  "meaning" : [ "地球变暖，指由于二氧化碳等温室气体的增加，导致地球整体气温上升的现象" ],
+  "notes" : [ "属于环境相关专业词汇，在日语能力考N2级别及以上的阅读、听力题目中常有出现" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4521,
+  "word" : "地理",
+  "reading" : "ちり",
+  "romaji" : null,
+  "meaning" : [ "1. 地球表面的自然环境、地形、气候、居民分布等的总称；2. 某个地区的地势、风土等情况；3. 地理学" ],
+  "notes" : [ "可构成复合词「地理学（ちりがく）」「地理学者（ちりがくしゃ）」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4522,
+  "word" : "地盤",
+  "reading" : "じばん",
+  "romaji" : null,
+  "meaning" : [ "1. 地基，地面基础；2. 地盘，势力范围；3. （团体、组织等的）基础，根基" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4523,
+  "word" : "地道",
+  "reading" : "じみち",
+  "romaji" : null,
+  "meaning" : [ "1. 勤恳，踏实，脚踏实地；2. 质朴，朴实，不浮华；3. 正宗，纯粹，地道（指事物的风格、品质等符合原本的样子）" ],
+  "notes" : [ "作为形容动词使用，常以「地道に」的形式修饰动词，也可直接接名词作定语，如「地道な努力」" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4524,
+  "word" : "地銀",
+  "reading" : "ちぎん",
+  "romaji" : null,
+  "meaning" : [ "地方银行（日本地方政府出资或主要服务于特定地域的中小型商业银行）" ],
+  "notes" : [ "「地方銀行」の略称で、主に日本国内の地域密着型銀行を指す" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4525,
+  "word" : "地震",
+  "reading" : "じしん",
+  "romaji" : null,
+  "meaning" : [ "地球内部的能量突然释放引起的地面震动，即地震；也可引申指社会、组织等出现的剧烈变动、动荡" ],
+  "notes" : [ "作为引申义使用时，多用来比喻某个群体内部出现的重大冲击性变动，属于较常用的比喻表达" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4526,
+  "word" : "地面",
+  "reading" : "じめん",
+  "romaji" : null,
+  "meaning" : [ "1. 地球的表面，大地；2. 室内、建筑物内的地板、地面；3. 物体的底部接触面" ],
+  "notes" : [ "作为「大地」义使用时，可与「地面」「大地」互换；指室内地板时，也可使用「床（ゆか）」，但「地面」更强调实体的地面表层" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4527,
+  "word" : "地頭",
+  "reading" : "じとう",
+  "romaji" : null,
+  "meaning" : [ "1. 封建时代的地方领主；2. 当地的有权势者、地头蛇；3. （口语）当地、该地" ],
+  "notes" : [ "「地頭」原本是日本中世武家社会的官职名称，后来引申出当地有权势者的含义，口语中也可简单指代当地。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4528,
+  "word" : "坂",
+  "reading" : "さか",
+  "romaji" : null,
+  "meaning" : [ "斜坡，坡，坡道，山坡" ],
+  "notes" : [ "可构成复合词，如「坂道（さかみち）」，表示坡道、斜坡路。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4529,
+  "word" : "均衡",
+  "reading" : "きんこう",
+  "romaji" : null,
+  "meaning" : [ "1. （数量、力量、状态等的）均衡，平衡，均等；2. （经济、市场等的）供需平衡" ],
+  "notes" : [ "作为名词使用时可后续「の」修饰其他名词，如「均衡状態（きんこうじょうたい）」；作为サ変動詞使用时可作「均衡する」「均衡させる」等活用形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4530,
+  "word" : "均質",
+  "reading" : "きんしつ",
+  "romaji" : null,
+  "meaning" : [ "1. 均质的，等质的，成分、性质等均匀一致的；2. （在统计学等领域）同质的" ],
+  "notes" : [ "作形容动词使用时，常以「均質な」「均質である」的形式出现，多用于书面语，可用于描述物质的性质或学术领域的概念。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4531,
+  "word" : "坊ちゃん",
+  "reading" : "ぼうちゃん",
+  "romaji" : null,
+  "meaning" : [ "1. 对小男孩的亲昵称呼，小弟弟、小朋友；2. 对富贵人家、有地位人家儿子的称呼，大少爷、公子哥；3. 对僧侣的亲昵称呼，小师父、小和尚" ],
+  "notes" : [ "该词属于口语中较常用的亲昵称呼，不同含义对应的使用场景不同，称呼僧侣时多为对年轻僧侣的叫法" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4532,
+  "word" : "坊主",
+  "reading" : "ぼうず",
+  "romaji" : null,
+  "meaning" : [ "1. 和尚，僧侣；2. 光头（指人或无毛发的状态）；3. （孩童的）光头发型；4. 光秃秃的东西（如无树叶的树、无头发的头顶等）" ],
+  "notes" : [ "除基本含义外，在口语中还可用于亲昵地称呼小男孩，带有一定的随意性" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4533,
+  "word" : "垂れる",
+  "reading" : "たれる",
+  "romaji" : null,
+  "meaning" : [ "1. 下垂，耷拉；2. 滴落，流下；3. 倾斜，下垂（指物体一端下沉）；4. （精神）萎靡，颓丧" ],
+  "notes" : [ "自动词，通常表示物体自然下垂、液体滴落或人的精神状态萎靡，无他动词用法，原含义中的「使下垂」表述错误，该词不能用于他动" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4534,
+  "word" : "垂直",
+  "reading" : "すいちょく",
+  "romaji" : null,
+  "meaning" : [ "1. 垂直的，与水平面或基准线成90度角的；2. 竖的，直立的" ],
+  "notes" : [ "作为形容动词使用时，常以「垂直だ」「垂直に」「垂直な」的形式活用，多用于描述空间位置、线条的角度关系" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4535,
+  "word" : "型",
+  "reading" : "かた",
+  "romaji" : null,
+  "meaning" : [ "模型；类型，样式；惯例，模式；模具，模子；形状，外形" ],
+  "notes" : [ "作为名词使用，可用于表示具体的模具、形状，也可用于抽象的类型、模式、惯例等概念" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4536,
+  "word" : "垢",
+  "reading" : "あか",
+  "romaji" : null,
+  "meaning" : [ "1. 污垢，尘土，污渍；2. 水垢，水锈；3. （皮肤表面的）污垢，泥垢；4. （金属等的）锈迹" ],
+  "notes" : [ "该词除表示常见的污垢、水垢外，在网络语境中还可指“账号（アカウント的略称）”，属于衍生用法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4537,
+  "word" : "垣根",
+  "reading" : "かね",
+  "romaji" : null,
+  "meaning" : [ "1. 篱笆，栅栏；2. 墙壁，围墙；3. 隔阂，障碍" ],
+  "notes" : [ "除了表示具体的围栏、围墙外，还可用于比喻人际关系等方面的隔阂、障碍。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4538,
+  "word" : "垣間見る",
+  "reading" : "かいまみる",
+  "romaji" : null,
+  "meaning" : [ "1. 从缝隙、墙垣间窥视，偷看；2. 隐约看到、略微窥见（事物的一部分、真相、本质等）" ],
+  "notes" : [ "该词除了表示实际的偷看行为外，也常用于抽象意义上的隐约察觉、窥见事物的部分面貌。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4539,
+  "word" : "埃",
+  "reading" : "ほこり",
+  "romaji" : null,
+  "meaning" : [ "灰尘，尘埃；尘世，世俗" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4540,
+  "word" : "埋まる",
+  "reading" : "うまる",
+  "romaji" : null,
+  "meaning" : [ "1. 被埋上，被埋藏；2. 填满，占满；3. 填补，弥补空缺；4. （座位等）被占满" ],
+  "notes" : [ "自动词，与他动词「埋める（うめる）」对应，强调状态的自然形成或被动的结果。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4541,
+  "word" : "埋める",
+  "reading" : "うめる",
+  "romaji" : null,
+  "meaning" : [ "1. 填埋、掩埋；2. 填补（空缺、漏洞等）；3. 填满、充满；4. 掩盖、隐瞒；5. 埋入、嵌入" ],
+  "notes" : [ "「埋める」他动词，对应自动词为「埋まる（うまる）」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4542,
+  "word" : "埋め尽くす",
+  "reading" : "うめつくす",
+  "romaji" : null,
+  "meaning" : [ "1. 填满，塞满，挤满；2. 埋没，湮没，完全覆盖" ],
+  "notes" : [ "「尽くす」接在动词连用形后，表示动作彻底完成、达到极限的状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4543,
+  "word" : "埋め立てる",
+  "reading" : "うめたてる",
+  "romaji" : null,
+  "meaning" : [ "1. 填海造地；填埋（洼地、空地等）；2. 填补，弥补（空缺、亏空等）" ],
+  "notes" : [ "该词除了表示物理层面的填埋行为，也可用于抽象意义上的填补、弥补。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4544,
+  "word" : "埋め込む",
+  "reading" : "うめこむ",
+  "romaji" : null,
+  "meaning" : [ "1. 埋进，埋入，嵌入；2. 灌输，植入（思想、观念等）；3. 插入，嵌入（文档、代码等）" ],
+  "notes" : [ "「埋め込む」可用于物理层面的嵌入动作，也可用于抽象层面的思想灌输、电子文档的内容插入等场景" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4545,
+  "word" : "埋蔵",
+  "reading" : "まいぞう",
+  "romaji" : null,
+  "meaning" : [ "1. 埋藏；掩埋。2. （资源、宝物等）蕴藏，埋藏。" ],
+  "notes" : [ "作为サ变自动词使用时，多以「～が埋蔵されている」的被动形式出现，用于表述自然资源、文物等被埋藏的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4546,
+  "word" : "城",
+  "reading" : "しろ",
+  "romaji" : null,
+  "meaning" : [ "1. 城堡，城池；2. （日本历史上的）城郭建筑；3. （喻）像城堡一样坚固的场所" ],
+  "notes" : [ "作为日本特有的建筑时，也可特指具备防御功能的封建领主居所，部分名城被列为世界文化遗产" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4547,
+  "word" : "城下町",
+  "reading" : "じょうかまち",
+  "romaji" : null,
+  "meaning" : [ "日本封建时代围绕诸侯的居城（城郭）发展形成的城市，集居住、商业、手工业等功能于一体，是当时的政治与经济中心" ],
+  "notes" : [ "城下町是日本近世社会特有的城市形态，典型代表有江户（现东京）、大阪、京都等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4548,
+  "word" : "執る",
+  "reading" : "とる",
+  "romaji" : null,
+  "meaning" : [ "1. 处理，办理；掌管，负责；2. 执笔，写；3. 采取（某种态度、手段）；4. 举行，举办（仪式等）" ],
+  "notes" : [ "「執る」作为五段动词，活用规则同「取る（とる）」；书面语色彩较强，日常对话中有时会用更口语化的表达替代。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4549,
+  "word" : "執拗",
+  "reading" : "しつよう",
+  "romaji" : null,
+  "meaning" : [ "1. 纠缠不休，死缠烂打；2. 执拗，固执，顽固地坚持己见" ],
+  "notes" : [ "形容動詞，使用时常后续「に」修饰动词，或后续「な」修饰名词" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4550,
+  "word" : "執着",
+  "reading" : "しゅうちゃく",
+  "romaji" : null,
+  "meaning" : [ "1. 执着，贪恋，不肯舍弃；2. 拘泥，固执于某一事物或状态" ],
+  "notes" : [ "作名词使用时常后续「する」构成サ変動詞，多带有负面语感，指对人、事物或过去的经历过度留恋、无法释怀。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4551,
+  "word" : "執筆",
+  "reading" : "しっぴつ",
+  "romaji" : null,
+  "meaning" : [ "执笔，写作，撰稿；担任笔记者，记录" ],
+  "notes" : [ "可作为サ変動詞使用，也可作为名词单独使用，如「執筆活動（写作活动）」" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4552,
+  "word" : "執行",
+  "reading" : "しっこう",
+  "romaji" : null,
+  "meaning" : [ "1. 执行（法律、判决、计划等）；实施，施行。2. （对罪犯）执行（刑罚）" ],
+  "notes" : [ "作为サ变动词，可构成「執行する」的动词形式，常搭配法律、政策、计划、刑罚等名词使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4553,
+  "word" : "基づく",
+  "reading" : "もとづく",
+  "romaji" : null,
+  "meaning" : [ "依据，根据，基于；以……为基础" ],
+  "notes" : [ "「基づく」为自动词，常与「〜に」搭配使用，表示动作的依据或基础" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4554,
+  "word" : "基地",
+  "reading" : "きち",
+  "romaji" : null,
+  "meaning" : [ "1. 军事基地；2. 作为活动、工作等基础的场所，根据地、基地" ],
+  "notes" : [ "该词既可以指军事用途的基地，也可用于指代各类活动的核心据点" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4555,
+  "word" : "基本",
+  "reading" : "きほん",
+  "romaji" : null,
+  "meaning" : [ "1. 基础，根本；2. 基本，原则，基准；3. （数学、理科等的）基础知识" ],
+  "notes" : [ "可后续接「的（てき）」构成形容动词「基本的」，表示“基本的，根本的”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4556,
+  "word" : "基本形",
+  "reading" : "きほんけい",
+  "romaji" : null,
+  "meaning" : [ "1. （日语语法）指动词、形容词等未发生活用变形的原始形态，也称为辞书形；2. 事物的基础形态、基本形式" ],
+  "notes" : [ "在日语语法范畴中，「基本形」通常与「辞書形」同义，主要用于词典收录、语法规则说明等场景；在一般语境中可表示各类事物的基础样式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4557,
+  "word" : "基準",
+  "reading" : "きじゅん",
+  "romaji" : null,
+  "meaning" : [ "1. 基准，标准，规范；2. （测量、判断的）依据，准则；3. （竞争、评价的）参照尺度" ],
+  "notes" : [ "可构成复合词如「基準値（きじゅんち）」（基准值）、「基準点（きじゅんてん）」（基准点），多用于正式场合或专业领域" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4558,
+  "word" : "基準木",
+  "reading" : "きじゅんぼく",
+  "romaji" : null,
+  "meaning" : [ "基准树；在林业、生态调查等领域中，作为测量、调查标准的树木，常用来推算林分的生长状况、蓄积量等" ],
+  "notes" : [ "多用于林业、生态相关的专业场景，日常对话中较少使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4559,
+  "word" : "基盤",
+  "reading" : "きばん",
+  "romaji" : null,
+  "meaning" : [ "1. 基础，根基，基础架构；2. 底座，基座，支承台；3. （体育等的）基准面，场地基础" ],
+  "notes" : [ "可用于抽象的基础（如事业、理论的根基）和具象的底座、基座，是日常及商务场景中常用的名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4560,
+  "word" : "基礎",
+  "reading" : "きそ",
+  "romaji" : null,
+  "meaning" : [ "1. 基础，根基，地基；2. 基本，基础（知识、理论等）；3. 底座，基座" ],
+  "notes" : [ "可作为接尾词使用，如「学力基礎（がくりょくきそ）」表示学力基础" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4561,
+  "word" : "堂々",
+  "reading" : "どうどう",
+  "romaji" : null,
+  "meaning" : [ "1. 威严庄重、威风凛凛；2. 堂堂正正、光明磊落；3. 公然、毫无顾忌地" ],
+  "notes" : [ "作为形容动词使用时，常接「と」修饰动词，或接「な」修饰名词；也可作为副词单独使用" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4562,
+  "word" : "堅い",
+  "reading" : "かたい",
+  "romaji" : null,
+  "meaning" : [ "1. 坚硬的，坚固的；2. 坚定的，坚决的；3. 严格的，严厉的；4. 生硬的，不灵活的；5. （食物）硬的，咬不动的" ],
+  "notes" : [ "作为イ形容词，遵循イ形容词的活用规则；含义丰富，需根据语境判断具体语义" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4563,
+  "word" : "堅実",
+  "reading" : "けんじつ",
+  "romaji" : null,
+  "meaning" : [ "1. 坚实，稳固；扎实，牢靠。指事物基础稳固、不易动摇；2. 踏实，稳重，可靠。指人做事沉稳、不冒进，值得信赖；3. 稳健，保守。指行事风格稳妥，不追求激进" ],
+  "notes" : [ "作为形容动词使用，常接「な」修饰名词，接「に」修饰动词" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4564,
+  "word" : "堅苦しい",
+  "reading" : "かたくるしい",
+  "romaji" : null,
+  "meaning" : [ "1. （态度、氛围、规则等）过于严肃的，郑重其事的，拘谨的；2. （事物）死板的，生硬的，不灵活的" ],
+  "notes" : [ "多用来形容让人感到拘束、不自在的氛围、言行或规章制度等，带有贬义倾向。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4565,
+  "word" : "堤",
+  "reading" : "つつみ",
+  "romaji" : null,
+  "meaning" : [ "堤坝，堤岸，河堤" ],
+  "notes" : [ "可构成复合词如「堤防（ていぼう）」，表示更正式的“堤防、堤坝”含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4566,
+  "word" : "堤防",
+  "reading" : "ていぼう",
+  "romaji" : null,
+  "meaning" : [ "堤，堤坝，防洪堤；防波堤" ],
+  "notes" : [ "多用于表示为防止洪水、海浪侵袭而修建的人工防护堤岸" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4567,
+  "word" : "堪える",
+  "reading" : "こらえる",
+  "romaji" : null,
+  "meaning" : [ "1. 忍耐，忍受，克制；2. 原谅，宽恕；3. 经受住，承受住" ],
+  "notes" : [ "「堪える」作为“原谅”的含义使用时，多为口语中较随意的表达，书面语中更常用「許す」；另外存在文语残留的活用形式「堪えず（こらえず）」，常作为副词使用，表示“忍不住，不由得”。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4568,
+  "word" : "堪らない",
+  "reading" : "たえらない",
+  "romaji" : null,
+  "meaning" : [ "1. 难以忍受的，熬不住的；2. 非常的，不得了的，忍不住的" ],
+  "notes" : [ "该词除了表示无法忍受的负面情绪，也可用于表达对人或事物强烈的喜爱、赞赏等正面情绪，属于口语中常用的表达。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4569,
+  "word" : "堪能",
+  "reading" : "たんのう",
+  "romaji" : null,
+  "meaning" : [ "1. 擅长，精通；2. 充分满足，心满意足；3. 尽情享受，充分利用" ],
+  "notes" : [ "作为形容动词使用时多接在名词后表示“擅长某事物”，作为サ变动词使用时多表示“享受、满足”的动作。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4570,
+  "word" : "報いる",
+  "reading" : "むくいる",
+  "romaji" : null,
+  "meaning" : [ "1. 报答，报偿，回报；2. 报复，报仇，报应" ],
+  "notes" : [ "该词可用于正面的报答、回报，也可用于负面的报复、报应，语义范围较广。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4571,
+  "word" : "報う",
+  "reading" : "むくう",
+  "romaji" : null,
+  "meaning" : [ "1. 报答，回报；2. 报复，报仇；3. 报应，果报" ],
+  "notes" : [ "该词既可以用于正面的报答，也可用于负面的报复、报应，使用时需根据语境判断具体含义。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4572,
+  "word" : "報じる",
+  "reading" : "ほうじる",
+  "romaji" : null,
+  "meaning" : [ "1. 报告，通知，传达；2. 报答，回报；3. 报应，果报" ],
+  "notes" : [ "作为「報告する」的书面语形式使用时，多用于正式场合；表示「报应」时多为自动词用法。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4573,
+  "word" : "報告",
+  "reading" : "ほうこく",
+  "romaji" : null,
+  "meaning" : [ "1. 报告，汇报；2. 报告书，汇报材料；3. 告发，举报" ],
+  "notes" : [ "作为サ变动词使用时，常以「報告する」的形式出现，可接「に」提示报告对象，接「を」提示报告内容。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4574,
+  "word" : "報告書",
+  "reading" : "ほうこくしょ",
+  "romaji" : null,
+  "meaning" : [ "报告书，报告文件；记载调查、研究、工作进展等内容并向上级或相关方提交的书面材料" ],
+  "notes" : [ "一般用于正式场合，如职场、行政事务、学术研究等场景" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4575,
+  "word" : "報告する",
+  "reading" : "ほうこくする",
+  "romaji" : null,
+  "meaning" : [ "报告，汇报；告知，通知；告发，举报" ],
+  "notes" : [ "「報告～」是不完整的动词形式，完整形式为「報告する」，作为サ変動詞，可后续「～ます」「～た」「～ている」等进行活用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4576,
+  "word" : "報知",
+  "reading" : "ほうち",
+  "romaji" : null,
+  "meaning" : [ "1. 报告、通知；2. （向公众）告知、发布" ],
+  "notes" : [ "可作为サ変動詞（サ行変格活用動詞）使用，形式为「報知する」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4577,
+  "word" : "報道",
+  "reading" : "ほうどう",
+  "romaji" : null,
+  "meaning" : [ "1. 报道，报导，新闻报道；2. 传播，传达" ],
+  "notes" : [ "作为サ变动词使用时，可构成「報道する」的动词形式，常与ニュース（新闻）、事件（事件）等词汇搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4578,
+  "word" : "報酬",
+  "reading" : "ほうしゅう",
+  "romaji" : null,
+  "meaning" : [ "报酬，酬劳，酬金；（给予的）报答，酬谢" ],
+  "notes" : [ "可用于表示劳动所得的酬金，也可指对付出、努力等的报答性回馈" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4579,
+  "word" : "場",
+  "reading" : "ば",
+  "romaji" : null,
+  "meaning" : [ "1. 场所，地方；2. 场合，场面，情况；3. （特定的）场地，场所；4. （戏剧、比赛等的）场次" ],
+  "notes" : [ "当表示“场合、情况”时，常与「～の場」「その場」等形式搭配使用；另有读音「じょう」，如「場所（ばしょ）」「立場（りちょう）」等词中需注意区分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4580,
+  "word" : "場合",
+  "reading" : "ばあい",
+  "romaji" : null,
+  "meaning" : [ "1. 场合，情形，情况；2. 时候，时机；3. 场合，场所" ],
+  "notes" : [ "可构成「～場合には」「～場合のように」等常用表达，用于表示假设或特定状况" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4581,
+  "word" : "場当たり",
+  "reading" : "ばあたり",
+  "romaji" : null,
+  "meaning" : [ "1. 即兴的，临时发挥的；2. 权宜的，敷衍的，临时凑合的" ],
+  "notes" : [ "通常后续接「な」修饰名词，或接「に」作副词使用，多带有敷衍、不够周全的语感，也可用于形容即兴发挥的行为。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4582,
+  "word" : "場所",
+  "reading" : "ばしょ",
+  "romaji" : null,
+  "meaning" : [ "1. 位置，场所，地方；2. 座位，席位；3. 场合，场面" ],
+  "notes" : [ "作为表示空间位置的基础名词，日常使用率极高，可用于具体物理空间也可用于抽象场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4583,
+  "word" : "場違い",
+  "reading" : "ばちがい",
+  "romaji" : null,
+  "meaning" : [ "不合时宜、不合场合、格格不入" ],
+  "notes" : [ "属于ナ形容詞（形容動詞），常用来描述言行、物品等与所处的时间、场所、氛围不匹配的状态。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4584,
+  "word" : "場面",
+  "reading" : "ばめん",
+  "romaji" : null,
+  "meaning" : [ "1. 场景，场面；2. （戏剧、电影等的）场次，幕；3. 场合，局面" ],
+  "notes" : [ "可用于描述现实中的场景、文艺作品中的片段或特定的局面场合，属于常用名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4585,
+  "word" : "塀",
+  "reading" : "へい",
+  "romaji" : null,
+  "meaning" : [ "墙，院墙，围墙，栅栏；（用于区分空间的）隔断墙" ],
+  "notes" : [ "多指由砖石、木材等搭建的用于分界、防护的实体墙或栅栏，相较于「壁」更侧重室外的、具有边界性的围挡结构" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4586,
+  "word" : "塊",
+  "reading" : "かたまり",
+  "romaji" : null,
+  "meaning" : [ "1. 块，疙瘩，团；2. 群，群体，集团；3. 极端……的人，……迷" ],
+  "notes" : [ "可作为接尾词使用，接在名词后表示“满是……的”“净是……的”，如「泥の塊」（满身泥污）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4587,
+  "word" : "塗り薬",
+  "reading" : "ぬりぐすり",
+  "romaji" : null,
+  "meaning" : [ "外敷药，外用药，涂敷药（涂抹在皮肤患处的药物）" ],
+  "notes" : [ "通常用于皮肤炎症、跌打损伤等外用的膏状、液状涂抹类药物，与「飲み薬（口服药）」相对。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4588,
+  "word" : "塗り薬",
+  "reading" : "ぬりぐすり",
+  "romaji" : null,
+  "meaning" : [ "外用药，涂剂，涂抹类药剂" ],
+  "notes" : [ "通常指直接涂抹于皮肤、黏膜等部位的外用药物，多为软膏、乳膏、药水等形态" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4589,
+  "word" : "塗る",
+  "reading" : "ぬる①",
+  "romaji" : null,
+  "meaning" : [ "1. 涂，擦，抹，敷；2. 搽，涂（化妆品等）；3. 抹上，涂上（颜色、油漆等）；4. 浇，淋（酱料等）" ],
+  "notes" : [ "该动词虽拼写为「塗る」，但属于一段动词（动2），活用变形遵循一段动词规则，如「塗ります」「塗った」等。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4590,
+  "word" : "塞がる",
+  "reading" : "ふさがる",
+  "romaji" : null,
+  "meaning" : [ "1.（出入口、孔洞等）关闭，堵上；2.（道路、通道等）堵塞，不通；3.（场所、空间等）被占满，挤满" ],
+  "notes" : [ "该动词为自动词，强调状态或自然形成的堵塞、关闭，对应他动词为「塞ぐ（ふさぐ）」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4591,
+  "word" : "塞ぐ",
+  "reading" : "ふさぐ",
+  "romaji" : null,
+  "meaning" : [ "1. 堵，塞，堵塞；2. 占满，填满；3. 憋闷，郁闷；4. 关闭，封闭" ],
+  "notes" : [ "「塞ぐ」是他动词，除了表示物理层面的堵塞、封闭，也可用于表达心理上的憋闷情绪。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4592,
+  "word" : "塩",
+  "reading" : "しお",
+  "romaji" : null,
+  "meaning" : [ "食盐；盐；盐类；味道咸的东西" ],
+  "notes" : [ "可构成复合词，如「塩漬け（しおづけ）」（腌咸菜）、「塩辛い（しからい）」（咸的）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4593,
+  "word" : "塩分",
+  "reading" : "えんぶん",
+  "romaji" : null,
+  "meaning" : [ "盐分，指物质中所含的盐类成分，常用于表示食物、体液等中的含盐量" ],
+  "notes" : [ "日常生活中常与「多い」「少ない」「補う」等词搭配使用，用于描述饮食健康、生理调节相关场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4594,
+  "word" : "塩漬け",
+  "reading" : "しおづけ",
+  "romaji" : null,
+  "meaning" : [ "1. 名词：盐腌的食物；盐腌的状态；2. サ变动词：用盐腌制" ],
+  "notes" : [ "作名词时可指盐腌食品本身，也可表示盐腌的行为结果；作サ变动词使用时多以「〜を塩漬けにする」的形式出现，是日常料理中常见的表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4595,
+  "word" : "塩辛い",
+  "reading" : "しおからい",
+  "romaji" : null,
+  "meaning" : [ "1. 咸的；2. （味道）过咸的；3. （比喻）刻薄的、尖酸的" ],
+  "notes" : [ "作为形容词使用时，词尾「い」遵循イ形容词的活用规则；除了表示味觉上的咸，还可用于形容言语、态度刻薄尖锐。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4596,
+  "word" : "塵",
+  "reading" : "ちり",
+  "romaji" : null,
+  "meaning" : [ "1. 灰尘，尘土；2. 细小的东西，碎屑；3. 少许，丝毫" ],
+  "notes" : [ "可构成惯用句「塵も積もれば山となる」，意为积少成多。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4597,
+  "word" : "塾",
+  "reading" : "じゅく",
+  "romaji" : null,
+  "meaning" : [ "补习班，私塾，补习学校；家庭教师授课的场所" ],
+  "notes" : [ "除指面向升学考试的课外补习班外，也可指传统的私塾，或是私人开办的小型教学场所" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4598,
+  "word" : "境",
+  "reading" : "さかい",
+  "romaji" : null,
+  "meaning" : [ "1. 边界、国境、地界；2. 分界线、界限；3. 场合、时机、契机；4. 境地、地步" ],
+  "notes" : [ "当表示“契机”含义时，常与「を境に」「を境として」搭配使用，用于表示前后状态的转变。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4599,
+  "word" : "境界",
+  "reading" : "きょうかい",
+  "romaji" : null,
+  "meaning" : [ "1. 边界、疆界、国界；2. 分界线、界限；3. （抽象的）境界、境地、层次" ],
+  "notes" : [ "可用于具体的地理边界，也可用于抽象的领域、层次划分" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4600,
+  "word" : "境遇",
+  "reading" : "きょうぐう",
+  "romaji" : null,
+  "meaning" : [ "境遇，处境，状况；指人所处的社会地位、生活环境等整体状况" ],
+  "notes" : [ "可用于描述个人的生活处境、社会地位等客观状况，既可以指良好的境遇，也可以指困难的处境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

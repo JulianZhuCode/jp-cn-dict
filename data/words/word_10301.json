@@ -1,0 +1,901 @@
+[ {
+  "id" : 10301,
+  "word" : "貯蓄",
+  "reading" : "ちょちく",
+  "romaji" : null,
+  "meaning" : [ "储蓄，积蓄；存款" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10302,
+  "word" : "貯蔵",
+  "reading" : "ちょぞう",
+  "romaji" : null,
+  "meaning" : [ "储藏，储存" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10303,
+  "word" : "貯蔵する",
+  "reading" : "ちょぞうする",
+  "romaji" : null,
+  "meaning" : [ "储存，贮藏；把物品等保存在某处" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10304,
+  "word" : "貯金",
+  "reading" : "ちょきん",
+  "romaji" : null,
+  "meaning" : [ "1. 存钱，储蓄；2. 存款" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10305,
+  "word" : "貯金します",
+  "reading" : "ちょきんします",
+  "romaji" : null,
+  "meaning" : [ "存钱，储蓄；把钱存入银行等金融机构" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10306,
+  "word" : "貴族",
+  "reading" : "きぞく",
+  "romaji" : null,
+  "meaning" : [ "指具有高贵身份、地位和特权的社会阶层成员" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10307,
+  "word" : "貴校",
+  "reading" : "きこう",
+  "romaji" : null,
+  "meaning" : [ "您的学校；贵校（对对方学校的尊称）" ],
+  "notes" : [ "用于向对方提及对方所在学校时的敬称" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10308,
+  "word" : "貴社",
+  "reading" : "きしゃ",
+  "romaji" : null,
+  "meaning" : [ "贵公司；贵社（对对方公司的敬称）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10309,
+  "word" : "貴行",
+  "reading" : "きこう",
+  "romaji" : null,
+  "meaning" : [ "对对方银行、公司等的尊称，贵行；贵公司" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10310,
+  "word" : "貴重",
+  "reading" : "きちょう",
+  "romaji" : null,
+  "meaning" : [ "贵重的，宝贵的；有价值的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10311,
+  "word" : "貶す",
+  "reading" : "へしくだす",
+  "romaji" : null,
+  "meaning" : [ "贬低，诋毁，诽谤；降低（身份、地位等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10312,
+  "word" : "買います",
+  "reading" : "かいます",
+  "romaji" : null,
+  "meaning" : [ "购买，买" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10313,
+  "word" : "買い入れる",
+  "reading" : "かいいれる",
+  "romaji" : null,
+  "meaning" : [ "买进，收购，采购；（为了储备等）大量购买" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10314,
+  "word" : "買い求める",
+  "reading" : "かいもとめる",
+  "romaji" : null,
+  "meaning" : [ "为满足需求而大量购买；到处寻求购买" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10315,
+  "word" : "買い物します",
+  "reading" : "かいものします",
+  "romaji" : null,
+  "meaning" : [ "购物，买东西" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10316,
+  "word" : "買い物する",
+  "reading" : "かいものする",
+  "romaji" : null,
+  "meaning" : [ "购物，买东西" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10317,
+  "word" : "買う",
+  "reading" : "かう",
+  "romaji" : null,
+  "meaning" : [ "买，购买" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10318,
+  "word" : "貸し",
+  "reading" : "かし",
+  "romaji" : null,
+  "meaning" : [ "借出；租出；出租物；借款" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10319,
+  "word" : "貸します",
+  "reading" : "かします",
+  "romaji" : null,
+  "meaning" : [ "借给；出租；租出" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10320,
+  "word" : "貸し借り",
+  "reading" : "かしかり",
+  "romaji" : null,
+  "meaning" : [ "借贷；借进和借出；租赁和租用" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10321,
+  "word" : "貸し出し",
+  "reading" : "かしだし",
+  "romaji" : null,
+  "meaning" : [ "出借，出租；借出的东西，租出的东西" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10322,
+  "word" : "貸し出す",
+  "reading" : "かしだす",
+  "romaji" : null,
+  "meaning" : [ "把自己的东西借给别人；把房屋、土地等出租给别人使用" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10323,
+  "word" : "貸し切り",
+  "reading" : "かしきり",
+  "romaji" : null,
+  "meaning" : [ "包租；全部租下；独占" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10324,
+  "word" : "貸す",
+  "reading" : "かす",
+  "romaji" : null,
+  "meaning" : [ "借出，借给；出租" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10325,
+  "word" : "貸出し",
+  "reading" : "かしだし",
+  "romaji" : null,
+  "meaning" : [ "出租；借出；贷款" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10326,
+  "word" : "貸切",
+  "reading" : "かしきり",
+  "romaji" : null,
+  "meaning" : [ "（船、房间、车辆等）包租；包场；独占使用" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10327,
+  "word" : "貸家",
+  "reading" : "かしや",
+  "romaji" : null,
+  "meaning" : [ "出租的房子，供出租的房屋" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10328,
+  "word" : "貸間",
+  "reading" : "かしま",
+  "romaji" : null,
+  "meaning" : [ "出租的房间；供出租的房间" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10329,
+  "word" : "費やす",
+  "reading" : "ついやす",
+  "romaji" : null,
+  "meaning" : [ "花费，耗费；浪费" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10330,
+  "word" : "費用",
+  "reading" : "ひよう",
+  "romaji" : null,
+  "meaning" : [ "花费的钱，费用" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10331,
+  "word" : "貼る",
+  "reading" : "はる",
+  "romaji" : null,
+  "meaning" : [ "1. 粘，贴；2. 糊，裱；3. 紧挨着，贴近" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10332,
+  "word" : "貿易",
+  "reading" : "ぼうえき",
+  "romaji" : null,
+  "meaning" : [ "国や地域間で行われる商品やサービスの売買や交換。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10333,
+  "word" : "賃上げ",
+  "reading" : "ちんあげ",
+  "romaji" : null,
+  "meaning" : [ "涨房租；涨工资，加薪" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10334,
+  "word" : "賃貸",
+  "reading" : "ちんたい",
+  "romaji" : null,
+  "meaning" : [ "出租，租赁；出租的房屋、土地等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10335,
+  "word" : "賃金",
+  "reading" : "ちんぎん",
+  "romaji" : null,
+  "meaning" : [ "工资，薪水，薪金" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10336,
+  "word" : "賄う",
+  "reading" : "まかなう",
+  "romaji" : null,
+  "meaning" : [ "1. 供给伙食；提供食物。2. 负担，筹措（费用等）。3. 维持（生活等）；保障。4. 行贿，收买" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10337,
+  "word" : "賄賂",
+  "reading" : "わいろ",
+  "romaji" : null,
+  "meaning" : [ "为了谋取私利等，向公职人员等赠送金钱、物品等的不正当行为；贿赂" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10338,
+  "word" : "資料",
+  "reading" : "しりょう",
+  "romaji" : null,
+  "meaning" : [ "资料，材料；可供参考或研究的事物" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10339,
+  "word" : "資本",
+  "reading" : "しほん",
+  "romaji" : null,
+  "meaning" : [ "用于生产、经营等的资金或财产；资本家手中的财富，经济力量。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10340,
+  "word" : "資格",
+  "reading" : "しかく",
+  "romaji" : null,
+  "meaning" : [ "资格；身份；条件；权利" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10341,
+  "word" : "資源",
+  "reading" : "しげん",
+  "romaji" : null,
+  "meaning" : [ "生产或生活中需要的天然来源的物质或能量等资源。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10342,
+  "word" : "資源ごみ",
+  "reading" : "しげんごみ",
+  "romaji" : null,
+  "meaning" : [ "资源性垃圾，再生性垃圾" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10343,
+  "word" : "資産",
+  "reading" : "しさん",
+  "romaji" : null,
+  "meaning" : [ "资产，财产" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10344,
+  "word" : "資金",
+  "reading" : "しきん",
+  "romaji" : null,
+  "meaning" : [ "资金，钱财" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10345,
+  "word" : "賑やか",
+  "reading" : "にぎやか",
+  "romaji" : null,
+  "meaning" : [ "热闹的，繁华的；极其开朗的；充满活力的" ],
+  "notes" : [ "形容动词，词尾为“だ”，修饰名词时用“賑やかな”，修饰动词、形容词、其他形容动词时用“賑やかに”" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10346,
+  "word" : "賑わう",
+  "reading" : "にぎわう",
+  "romaji" : null,
+  "meaning" : [ "1. （场所、活动等）热闹，热闹起来，熙熙攘攘；2. （生意、经济等）繁荣，兴盛；3. （人）忙，忙碌" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10347,
+  "word" : "賛否",
+  "reading" : "さんぴ",
+  "romaji" : null,
+  "meaning" : [ "赞成和反对；同意与否" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10348,
+  "word" : "賛成",
+  "reading" : "さんせい",
+  "romaji" : null,
+  "meaning" : [ "赞成，同意" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10349,
+  "word" : "賛美",
+  "reading" : "さんび",
+  "romaji" : null,
+  "meaning" : [ "称赞，赞扬，赞美" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10350,
+  "word" : "賞",
+  "reading" : "しょう",
+  "romaji" : null,
+  "meaning" : [ "1. 奖，奖赏；奖金，奖品。2. 称赞，赞赏。3. 鉴赏，欣赏。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10351,
+  "word" : "賞与",
+  "reading" : "しょうよ",
+  "romaji" : null,
+  "meaning" : [ "奖金，红利" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10352,
+  "word" : "賞味期限",
+  "reading" : "しょうみきげん",
+  "romaji" : null,
+  "meaning" : [ "食品保质期，最佳食用期限，指食品在一定的流通条件下，能够保持品质的期限" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10353,
+  "word" : "賞品",
+  "reading" : "しょうひん",
+  "romaji" : null,
+  "meaning" : [ "奖品，奖赏的物品" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10354,
+  "word" : "賞金",
+  "reading" : "しょうきん",
+  "romaji" : null,
+  "meaning" : [ "赏金；奖金，奖赏" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10355,
+  "word" : "賠償",
+  "reading" : "ばいしょう",
+  "romaji" : null,
+  "meaning" : [ "赔偿，补偿" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10356,
+  "word" : "賢い",
+  "reading" : "かしこい",
+  "romaji" : null,
+  "meaning" : [ "聪明的，伶俐的；机灵的；精通的，擅长的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10357,
+  "word" : "賢明",
+  "reading" : "けんめい",
+  "romaji" : null,
+  "meaning" : [ "贤明的，高明的，明智的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10358,
+  "word" : "質",
+  "reading" : "しつ",
+  "romaji" : null,
+  "meaning" : [ "1. 质量；2. 质，本质；3. 品质，性质；4. 人质；5. 抵押品" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10359,
+  "word" : "質問",
+  "reading" : "しつもん",
+  "romaji" : null,
+  "meaning" : [ "问题；提问，询问" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10360,
+  "word" : "質疑",
+  "reading" : "しつぎ",
+  "romaji" : null,
+  "meaning" : [ "质疑；提问，询问" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10361,
+  "word" : "質素",
+  "reading" : "しっそ",
+  "romaji" : null,
+  "meaning" : [ "简朴，朴素；简陋" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10362,
+  "word" : "賭ける",
+  "reading" : "かける",
+  "romaji" : null,
+  "meaning" : [ "1. 赌，打赌；以…作赌注；2. （为达到某种目的）不惜，豁出，拼搏；3. 寄托，倾注" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10363,
+  "word" : "購入",
+  "reading" : "こうにゅう",
+  "romaji" : null,
+  "meaning" : [ "购买，采购；买进（商品、物品等）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10364,
+  "word" : "購入",
+  "reading" : "こうにゅう",
+  "romaji" : null,
+  "meaning" : [ "买进，购入" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10365,
+  "word" : "購買傾向",
+  "reading" : "こうばいけいこう",
+  "romaji" : null,
+  "meaning" : [ "购买意向，购买倾向" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10366,
+  "word" : "贅沢",
+  "reading" : "ぜいたく",
+  "romaji" : null,
+  "meaning" : [ "奢侈，铺张；豪华，奢华；过分讲究，不惜工本；（转）尽情，痛快" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10367,
+  "word" : "贈り物",
+  "reading" : "おくりもの",
+  "romaji" : null,
+  "meaning" : [ "礼物，礼品" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10368,
+  "word" : "贈る",
+  "reading" : "おくる",
+  "romaji" : null,
+  "meaning" : [ "赠送；赠予；送给；献给" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10369,
+  "word" : "贈呈",
+  "reading" : "ぞうてい",
+  "romaji" : null,
+  "meaning" : [ "赠送，赠予；赠送的物品。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10370,
+  "word" : "贈賄",
+  "reading" : "ぞうわい",
+  "romaji" : null,
+  "meaning" : [ "行贿，赠送财物以谋取不正当利益" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10371,
+  "word" : "赤",
+  "reading" : "あか",
+  "romaji" : null,
+  "meaning" : [ "1. 红色；2. 赤字，亏损；3. （婴儿等）皮肤红嫩" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10372,
+  "word" : "赤い",
+  "reading" : "あかい",
+  "romaji" : null,
+  "meaning" : [ "红色的；通红的；害羞的（比如脸通红）；眼红的；血腥的（如赤い歴史，血腥的历史）" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10373,
+  "word" : "赤ちゃん",
+  "reading" : "あかちゃん",
+  "romaji" : null,
+  "meaning" : [ "婴儿，小宝宝" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10374,
+  "word" : "赤らむ",
+  "reading" : "あからむ",
+  "romaji" : null,
+  "meaning" : [ "变红，发红；害羞而脸红" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10375,
+  "word" : "赤ん坊",
+  "reading" : "あかんぼう",
+  "romaji" : null,
+  "meaning" : [ "婴儿；小宝宝" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10376,
+  "word" : "赤字",
+  "reading" : "あかじ",
+  "romaji" : null,
+  "meaning" : [ "支出額が収入額を上回って、帳簿に赤字で計上されること。また、その金額。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10377,
+  "word" : "赤道",
+  "reading" : "せきどう",
+  "romaji" : null,
+  "meaning" : [ "地球を南北に二等分する仮想の大円。また、その周辺の地域。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10378,
+  "word" : "赤ワイン",
+  "reading" : "あかワイン",
+  "romaji" : null,
+  "meaning" : [ "红葡萄酒" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10379,
+  "word" : "走ります",
+  "reading" : "はしります",
+  "romaji" : null,
+  "meaning" : [ "跑，奔跑；（车、船等）行驶；运转；飞逝" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10380,
+  "word" : "走り回る",
+  "reading" : "はしりまわる",
+  "romaji" : null,
+  "meaning" : [ "到处跑，四处奔走；四处活动，东奔西走" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10381,
+  "word" : "走行",
+  "reading" : "そうこう",
+  "romaji" : null,
+  "meaning" : [ "（交通工具等）行驶；运行；行进" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10382,
+  "word" : "赴く",
+  "reading" : "おもむく",
+  "romaji" : null,
+  "meaning" : [ "1. 前往，奔赴；2. 趋向，倾向；3. 致力于，投身于" ],
+  "notes" : [ "「赴く」は比較的硬い言葉で、日常会話ではあまり使われないことが多い。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10383,
+  "word" : "赴任",
+  "reading" : "ふにん",
+  "romaji" : null,
+  "meaning" : [ "前往任职地点就任；就任新的职务" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10384,
+  "word" : "赴任する",
+  "reading" : "ふにんする",
+  "romaji" : null,
+  "meaning" : [ "到任，赴任，就任新职" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10385,
+  "word" : "起きます",
+  "reading" : "おきます",
+  "romaji" : null,
+  "meaning" : [ "起床；起来；发生；产生；出现" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10386,
+  "word" : "起きる",
+  "reading" : "おきる",
+  "romaji" : null,
+  "meaning" : [ "起床，起身；发生；产生；（数量等）增加" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10387,
+  "word" : "起こします",
+  "reading" : "おこします",
+  "romaji" : null,
+  "meaning" : [ "叫醒，唤醒；引起，引发" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10388,
+  "word" : "起こす",
+  "reading" : "おこす",
+  "romaji" : null,
+  "meaning" : [ "叫醒，唤醒；引起；发动；扬起（灰尘等）；使发生；使产生" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10389,
+  "word" : "起こる",
+  "reading" : "おこる",
+  "romaji" : null,
+  "meaning" : [ "发生；引起；起床；站起来；产生；唤起" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10390,
+  "word" : "起伏",
+  "reading" : "きぶく",
+  "romaji" : null,
+  "meaning" : [ "起伏；波动；变化；兴衰，浮沉，起落" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10391,
+  "word" : "起動",
+  "reading" : "きどう",
+  "romaji" : null,
+  "meaning" : [ "启动，开始运转；（计划、项目等）开始实施、开展" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10392,
+  "word" : "起床",
+  "reading" : "きそう",
+  "romaji" : null,
+  "meaning" : [ "醒来后从床上起来；起床。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10393,
+  "word" : "起源",
+  "reading" : "きげん",
+  "romaji" : null,
+  "meaning" : [ "事物が始まったこと、その始まりの所。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10394,
+  "word" : "起用",
+  "reading" : "きよう",
+  "romaji" : null,
+  "meaning" : [ "起用，任用；采用、启用（新的政策、方法等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10395,
+  "word" : "起訴",
+  "reading" : "きそ",
+  "romaji" : null,
+  "meaning" : [ "向法院提起诉讼，请求对犯罪嫌疑人进行审判等法律程序；提起公诉。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10396,
+  "word" : "超えます",
+  "reading" : "こえます",
+  "romaji" : null,
+  "meaning" : [ "超过；超越；越过；超出" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10397,
+  "word" : "超える",
+  "reading" : "こえる",
+  "romaji" : null,
+  "meaning" : [ "1. 超过，超出（数量、范围等）；2. 超越，胜过；3. 渡过，越过" ],
+  "notes" : [ "「超える」在使用时需注意后接不同助词时的语义差异，比如「を超える」常表示超过某个界限等。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10398,
+  "word" : "超過",
+  "reading" : "ちょうか",
+  "romaji" : null,
+  "meaning" : [ "超过，超出；（在数量、程度等方面）超越了规定或预期的范围" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10399,
+  "word" : "超音波",
+  "reading" : "ちょうおんぱ",
+  "romaji" : null,
+  "meaning" : [ "超出人能听到的声波频率范围的声波，即超声波。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10400,
+  "word" : "越える",
+  "reading" : "こえる",
+  "romaji" : null,
+  "meaning" : [ "1. 越过，翻过；2. 超过，超出；3. 渡过，穿过" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+} ]

@@ -1,0 +1,901 @@
+[ {
+  "id" : 5001,
+  "word" : "安定",
+  "reading" : "あんてい",
+  "romaji" : null,
+  "meaning" : [ "（事物）安定，稳定；（局势、物价等）平稳，安定；（精神）安定，镇定" ],
+  "notes" : [ "作为サ变动词使用时，词尾活用为「安定する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5002,
+  "word" : "安心",
+  "reading" : "あんしん",
+  "romaji" : null,
+  "meaning" : [ "放心，安心；无顾虑；心中踏实" ],
+  "notes" : [ "也可作为名词或那形容词使用，表示安心的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5003,
+  "word" : "安心",
+  "reading" : "あんしん",
+  "romaji" : null,
+  "meaning" : [ "安心，放心；无忧无虑" ],
+  "notes" : [ "作为サ变动词使用时，活用类型为「动3」，词性为「动词」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5004,
+  "word" : "安易",
+  "reading" : "あんい",
+  "romaji" : null,
+  "meaning" : [ "（做事）轻率的，不经心的；（方法）容易的，简单的；（生活）安闲的，舒适的" ],
+  "notes" : [ "通常带有贬义，指缺乏深思熟虑或过于简单化。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5005,
+  "word" : "安静",
+  "reading" : "あんせい",
+  "romaji" : null,
+  "meaning" : [ "（形容动词）安静、平静；（医嘱）静养、保持安静" ],
+  "notes" : [ "常用作医学术语，指病人需要静养，不进行活动。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5006,
+  "word" : "完了",
+  "reading" : "かんりょう",
+  "romaji" : null,
+  "meaning" : [ "1. 完成，完毕，结束。 2. (常用作サ变动词) 完成，做完。" ],
+  "notes" : [ "常用作「完了する」（サ变他动词）或「完了した」（过去式）使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5007,
+  "word" : "完全",
+  "reading" : "かんぜん",
+  "romaji" : null,
+  "meaning" : [ "完全，完美，彻底" ],
+  "notes" : [ "通常作为“な形容词”使用，修饰名词时用“完全な”，修饰动词时用“完全に”。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5008,
+  "word" : "完勝",
+  "reading" : "かんしょう",
+  "romaji" : null,
+  "meaning" : [ "完全胜利，完胜；彻底的胜利" ],
+  "notes" : [ "通常作为サ变动词词干使用，如「完勝する」；也可以作为名词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5009,
+  "word" : "完工",
+  "reading" : "かんこう",
+  "romaji" : null,
+  "meaning" : [ "完工，竣工；完成（工程、作品等）" ],
+  "notes" : [ "主要用于土木工程、建筑或大型项目完成时的正式表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5010,
+  "word" : "完成",
+  "reading" : "かんせい",
+  "romaji" : null,
+  "meaning" : [ "完成，做完；完美" ],
+  "notes" : [ "既可作名词使用，也可作为サ变动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5011,
+  "word" : "完成します",
+  "reading" : "かんせいします",
+  "romaji" : null,
+  "meaning" : [ "完成，做完" ],
+  "notes" : [ "原型是「完成する」，表示将工作进行到最后并结束。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5012,
+  "word" : "完結",
+  "reading" : "かんけつ",
+  "romaji" : null,
+  "meaning" : [ "完结，结束；（故事等）完结；（事情）彻底解决" ],
+  "notes" : [ "通常用于指故事、连载、系列等的完结，或事情的彻底解决。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5013,
+  "word" : "宗教",
+  "reading" : "しゅうきょう",
+  "romaji" : null,
+  "meaning" : [ "宗教" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5014,
+  "word" : "宙返り",
+  "reading" : "ちゅうがえり",
+  "romaji" : null,
+  "meaning" : [ "翻跟头，空翻" ],
+  "notes" : [ "通常以「する」动词形式使用，如「宙返りする」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5015,
+  "word" : "定まる",
+  "reading" : "さだまる",
+  "romaji" : null,
+  "meaning" : [ "1. 决定，确定；2. 安定，稳定；3. 平息，平定" ],
+  "notes" : [ "自动词，对应的他动词为「定める（さだめる）」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5016,
+  "word" : "定める",
+  "reading" : "さだめる",
+  "romaji" : null,
+  "meaning" : [ "决定；制定；规定；平定；奠定；固定" ],
+  "notes" : [ "反义词为「定まる（さだまる）」（自动词）。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5017,
+  "word" : "定休日",
+  "reading" : "ていきゅうび",
+  "romaji" : null,
+  "meaning" : [ "定期休息日，例行休假日（指店铺或机构固定的休息日）" ],
+  "notes" : [ "通常用于商店、餐厅等营业场所，表示固定的休息日。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5018,
+  "word" : "定価",
+  "reading" : "ていか",
+  "romaji" : null,
+  "meaning" : [ "定价，规定价格" ],
+  "notes" : [ "「定価」是指商品标示的固定价格，通常与实际售价（売価）有所区别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5019,
+  "word" : "定員",
+  "reading" : "ていいん",
+  "romaji" : null,
+  "meaning" : [ "定员，规定的人数；人员名额满员" ],
+  "notes" : [ "常用作“定員割れ”（未满员）或“定員オーバー”（超员）使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5020,
+  "word" : "定年",
+  "reading" : "ていねん",
+  "romaji" : null,
+  "meaning" : [ "退休；退休年龄" ],
+  "notes" : [ "常与「退職」连用，组成复合词「定年退職（ていねんたいしょく）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5021,
+  "word" : "定期",
+  "reading" : "ていき",
+  "romaji" : null,
+  "meaning" : [ "定期；定期票；月票" ],
+  "notes" : [ "常用于指代通勤或通学的定期车票（定期券）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5022,
+  "word" : "定期券",
+  "reading" : "ていきけん",
+  "romaji" : null,
+  "meaning" : [ "定期车票，月票，通勤/通学用的长期车票" ],
+  "notes" : [ "通常指在一定期间内，在特定区间内可以无限次乘坐交通工具的票券。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5023,
+  "word" : "定着",
+  "reading" : "ていちゃく",
+  "romaji" : null,
+  "meaning" : [ "扎根，固定，定居；（习惯、风俗等）普及，确立" ],
+  "notes" : [ "作为名词使用时表示“固定、扎根”的状态；作为サ变动词使用时，表示使某物固定下来或某物变得普及。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5024,
+  "word" : "定義",
+  "reading" : "ていぎ",
+  "romaji" : null,
+  "meaning" : [ "定义，规定（概念或词语的确切含义）" ],
+  "notes" : [ "通常以「定義する」（下定义）或「定義される」（被定义）的形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5025,
+  "word" : "定規",
+  "reading" : "じょうぎ",
+  "romaji" : null,
+  "meaning" : [ "尺子，规尺；直尺；标准，尺度" ],
+  "notes" : [ "指绘图或测量时使用的直尺。有时也比喻为行为的标准或准则。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5026,
+  "word" : "定説",
+  "reading" : "ていせつ",
+  "romaji" : null,
+  "meaning" : [ "定说，定论；公认的说法" ],
+  "notes" : [ "通常指在某个领域内被广泛接受的观点或理论。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5027,
+  "word" : "定食",
+  "reading" : "ていしょく",
+  "romaji" : null,
+  "meaning" : [ "套餐，定食（指包含米饭、主菜、配菜及汤等的一整套固定价格的料理）" ],
+  "notes" : [ "通常指日式套餐，价格固定，内容搭配均衡。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5028,
+  "word" : "宛てる",
+  "reading" : "あてる",
+  "romaji" : null,
+  "meaning" : [ "寄给，发给；送往；给（电话、邮件等）" ],
+  "notes" : [ "接在名词后使用‘宛（あて）’的形式也很常见，如‘社長宛’。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5029,
+  "word" : "宛て先",
+  "reading" : "あてさき",
+  "romaji" : null,
+  "meaning" : [ "收件人地址；收件人姓名；收信人地址；投递目的地" ],
+  "notes" : [ "也可写作「宛先」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5030,
+  "word" : "宛ら",
+  "reading" : "まるで",
+  "romaji" : null,
+  "meaning" : [ "宛如，好像，仿佛。表示比喻，或表示强调事实。" ],
+  "notes" : [ "常与「ようだ」「みたいだ」等比喻助动词呼应使用。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5031,
+  "word" : "宛先",
+  "reading" : "あてさき",
+  "romaji" : null,
+  "meaning" : [ "收件人姓名、地址；信件、包裹等的投递目的地" ],
+  "notes" : [ "也可写作「宛名（あてな）」，但「宛先」更侧重于地址或投递地。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5032,
+  "word" : "宛名",
+  "reading" : "あてな",
+  "romaji" : null,
+  "meaning" : [ "收件人姓名；收件地址" ],
+  "notes" : [ "常用于书信、邮件或包裹的收件人信息。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5033,
+  "word" : "宜しい",
+  "reading" : "よろしい",
+  "romaji" : null,
+  "meaning" : [ "好的；可以；行；令人满意的；妥当" ],
+  "notes" : [ "是“良い”的郑重说法，常用于正式场合或表示客气的许可。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5034,
+  "word" : "宝くじ",
+  "reading" : "たからくじ",
+  "romaji" : null,
+  "meaning" : [ "彩票，奖券" ],
+  "notes" : [ "也可写作“富くじ”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5035,
+  "word" : "宝物",
+  "reading" : "たからもの",
+  "romaji" : null,
+  "meaning" : [ "宝物，宝贝；珍宝；珍贵的东西" ],
+  "notes" : [ "也可写作“たから”，但“宝物”更常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5036,
+  "word" : "宝石",
+  "reading" : "ほうせき",
+  "romaji" : null,
+  "meaning" : [ "宝石；珍贵的东西" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5037,
+  "word" : "実",
+  "reading" : "み",
+  "romaji" : null,
+  "meaning" : [ "种子；果实；内容；实质；真实" ],
+  "notes" : [ "训读词汇。除了表示植物的果实外，常用于抽象概念，指事物的内容、实质或真实性。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5038,
+  "word" : "実に",
+  "reading" : "じつに",
+  "romaji" : null,
+  "meaning" : [ "实在，的确，确实；非常，很" ],
+  "notes" : [ "用于加强语气，表示程度之深或情况的确凿。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5039,
+  "word" : "実は",
+  "reading" : "じつは",
+  "romaji" : null,
+  "meaning" : [ "说真的；老实说；其实；事实上（用于引出话题或透露意想不到的事实）" ],
+  "notes" : [ "常用于句首，表示揭示事实或坦白某事，带有向对方透露秘密或重要信息的语气。" ],
+  "pos" : "CONJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5040,
+  "word" : "実る",
+  "reading" : "みのる",
+  "romaji" : null,
+  "meaning" : [ "（植物、农作物等）成熟，结果；（努力、工作等）结出果实，有成果，有成效" ],
+  "notes" : [ "常用汉字表外字体可写作“實る”。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5041,
+  "word" : "実を結ぶ",
+  "reading" : "みをむすぶ",
+  "romaji" : null,
+  "meaning" : [ "1. 结果实；结果。（植物が実をつける。）\n2. 取得成果；成功；实现。（努力したことが良い結果として現れる。）" ],
+  "notes" : [ "也可写作「実を結ぶ」。作为惯用语使用时，多指抽象的“成果”或“结果”。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5042,
+  "word" : "実体",
+  "reading" : "じったい",
+  "romaji" : null,
+  "meaning" : [ "实体，实质，本质，真相；（法律上的）主体" ],
+  "notes" : [ "常用汉字。除表示事物的实质、真相外，也常用于法律或哲学语境，指代实际存在的主体或物体本身。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5043,
+  "word" : "实例",
+  "reading" : "じっれい",
+  "romaji" : null,
+  "meaning" : [ "实例，实际的例子；（计算机科学中的）对象实例" ],
+  "notes" : [ "常用于表示具体的例子或作为证明的案例。在计算机领域指对象实例。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5044,
+  "word" : "実力",
+  "reading" : "じつりょく",
+  "romaji" : null,
+  "meaning" : [ "实际的能力；实力；本领" ],
+  "notes" : [ "指实际具备的能力或本领，与表面形式相对。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5045,
+  "word" : "実務",
+  "reading" : "じつむ",
+  "romaji" : null,
+  "meaning" : [ "实际业务；实务；具体工作" ],
+  "notes" : [ "指实际进行的业务或工作，常与‘理論’（理论）相对。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5046,
+  "word" : "実家",
+  "reading" : "じっか",
+  "romaji" : null,
+  "meaning" : [ "老家；娘家；父母的家" ],
+  "notes" : [ "指本人出生成长的家，或结婚后父母居住的家。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5047,
+  "word" : "実情",
+  "reading" : "じつじょう",
+  "romaji" : null,
+  "meaning" : [ "真实情况；实情；真相" ],
+  "notes" : [ "指实际的情况或真相，常用于商务或新闻报道中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5048,
+  "word" : "実感",
+  "reading" : "じっかん",
+  "romaji" : null,
+  "meaning" : [ "真实感；实感；切实感受到" ],
+  "notes" : [ "常作为サ变动词使用，表示通过亲身体验而真实地感觉到某事。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5049,
+  "word" : "実感する",
+  "reading" : "じっかんする",
+  "romaji" : null,
+  "meaning" : [ "切实感受，真切感受；实感" ],
+  "notes" : [ "常以「～を実感する」的形式使用，表示通过亲身体验而深刻地感觉到某事。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5050,
+  "word" : "実態",
+  "reading" : "じったい",
+  "romaji" : null,
+  "meaning" : [ "实际状态，真实情况" ],
+  "notes" : [ "多用于指与表面现象不同的真实情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5051,
+  "word" : "実施",
+  "reading" : "じっし",
+  "romaji" : null,
+  "meaning" : [ "实施，实行，执行" ],
+  "notes" : [ "サ変動詞（する動詞）としても使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5052,
+  "word" : "実施する",
+  "reading" : "じっしする",
+  "romaji" : null,
+  "meaning" : [ "实施，执行，实行（将计划、政策等具体落实）" ],
+  "notes" : [ "「実施」侧重于按照计划或规定具体地去执行。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5053,
+  "word" : "实物",
+  "reading" : "じつぶつ",
+  "romaji" : null,
+  "meaning" : [ "实物，实体的东西；现货；真实的（东西）" ],
+  "notes" : [ "常用于对比照片、模型或想象中的事物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5054,
+  "word" : "実現",
+  "reading" : "じつげん",
+  "romaji" : null,
+  "meaning" : [ "实现，变为现实；达成（目标、理想等）" ],
+  "notes" : [ "既可以作他动词（如：計画を実現する），也可以作自动词（如：夢が実現する）。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5055,
+  "word" : "実現します",
+  "reading" : "じつげんします",
+  "romaji" : null,
+  "meaning" : [ "实现，变为现实" ],
+  "notes" : [ "「実現する」的ます形。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5056,
+  "word" : "実生活",
+  "reading" : "じっせいかつ",
+  "romaji" : null,
+  "meaning" : [ "实际生活，现实生活" ],
+  "notes" : [ "通常指与理论、理想或虚构相对的现实日常生活。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5057,
+  "word" : "実用",
+  "reading" : "じつよう",
+  "romaji" : null,
+  "meaning" : [ "实际应用；实际有用。指在实际生活中发挥作用或具有实际用途。" ],
+  "notes" : [ "常以「実用的（じつようてき）」的形式使用，表示“实用的”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5058,
+  "word" : "実用化",
+  "reading" : "じつようか",
+  "romaji" : null,
+  "meaning" : [ "实用化，实际应用" ],
+  "notes" : [ "「実用化」是名词，通常以「～する」的形式（サ変动词）使用，表示将理论或技术投入实际使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5059,
+  "word" : "実用的",
+  "reading" : "じつようてき",
+  "romaji" : null,
+  "meaning" : [ "实用的，有实用性的" ],
+  "notes" : [ "表示具有实际用途或功能，常用于评价物品、设计或方法。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5060,
+  "word" : "実社会",
+  "reading" : "じっしゃかい",
+  "romaji" : null,
+  "meaning" : [ "现实社会；实际社会" ],
+  "notes" : [ "常指与学校、理论等相对的现实生活环境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5061,
+  "word" : "実績",
+  "reading" : "じっせき",
+  "romaji" : null,
+  "meaning" : [ "实际成绩；实际成果；业绩" ],
+  "notes" : [ "指实际做出的成绩或成果，常用于商务、学术或体育等语境中，表示通过努力得到的实质性结果。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5062,
+  "word" : "実習",
+  "reading" : "じっしゅう",
+  "romaji" : null,
+  "meaning" : [ "实习，见习，实战练习" ],
+  "notes" : [ "通常作为サ変动词（実習する）使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5063,
+  "word" : "実行",
+  "reading" : "じっこう",
+  "romaji" : null,
+  "meaning" : [ "实行，执行；付诸行动" ],
+  "notes" : [ "作为名词时表示“实行、执行”的行为或过程；作为サ变动词时表示“做、干、实行”的动作。常用搭配有「計画を実行する」（实行计划）、「実行犯」（实行犯/执行者）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5064,
+  "word" : "実行",
+  "reading" : "じっこう",
+  "romaji" : null,
+  "meaning" : [ "执行；实行；实践；落实" ],
+  "notes" : [ "作为动词使用时，后续通常接「する」变为「実行する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5065,
+  "word" : "実話",
+  "reading" : "じつわ",
+  "romaji" : null,
+  "meaning" : [ "真实的故事；实有其事" ],
+  "notes" : [ "指真实发生的事情，常用于电影、小说等作品的题材说明。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5066,
+  "word" : "実費",
+  "reading" : "じっぴ",
+  "romaji" : null,
+  "meaning" : [ "实际费用，成本；实报实销" ],
+  "notes" : [ "指实际支出的费用，通常不包括利润或额外的加价。常用于“実費を請求する”（收取实际费用）等表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5067,
+  "word" : "実質",
+  "reading" : "じっしつ",
+  "romaji" : null,
+  "meaning" : [ "实质，本质；实际上，实质上" ],
+  "notes" : [ "通常指事物的真实性质或实际状况，常用于对比表面现象。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5068,
+  "word" : "実践",
+  "reading" : "じっせん",
+  "romaji" : null,
+  "meaning" : [ "实践，实行" ],
+  "notes" : [ "既可以作为名词使用，也可以作为サ变动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5069,
+  "word" : "実際",
+  "reading" : "じっさい",
+  "romaji" : null,
+  "meaning" : [ "实际，事实；现实；其实。" ],
+  "notes" : [ "也可以作副词使用，表示“其实、实际上”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5070,
+  "word" : "実際に",
+  "reading" : "じっさいに",
+  "romaji" : null,
+  "meaning" : [ "实际上；实地；其实；真实地" ],
+  "notes" : [ "常用于强调事实情况或亲身经历。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5071,
+  "word" : "実験",
+  "reading" : "じっけん",
+  "romaji" : null,
+  "meaning" : [ "实验；实际经验" ],
+  "notes" : [ "也可作为サ变动词使用，意为‘进行实验’。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5072,
+  "word" : "客",
+  "reading" : "きゃく",
+  "romaji" : null,
+  "meaning" : [ "客人；顾客；旅客" ],
+  "notes" : [ "指来访的人或商业上的顾客。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5073,
+  "word" : "客室",
+  "reading" : "きゃくしつ",
+  "romaji" : null,
+  "meaning" : [ "宾馆、酒店等的客房；接待客人的房间" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5074,
+  "word" : "客観的",
+  "reading" : "きゃっかんてき",
+  "romaji" : null,
+  "meaning" : [ "客观的，不偏不倚的；基于事实而非个人感情的" ],
+  "notes" : [ "反义词是「主観的（しゅかんてき）」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5075,
+  "word" : "客間",
+  "reading" : "きゃくま",
+  "romaji" : null,
+  "meaning" : [ "客厅，会客室" ],
+  "notes" : [ "指家中专门用来接待客人的房间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5076,
+  "word" : "宣伝",
+  "reading" : "せんでん",
+  "romaji" : null,
+  "meaning" : [ "宣传；广告；推销" ],
+  "notes" : [ "也可以作为サ变动词（宣伝する）使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5077,
+  "word" : "宣告",
+  "reading" : "せんこく",
+  "romaji" : null,
+  "meaning" : [ "宣告，宣布（通常指官方或正式场合的宣布）" ],
+  "notes" : [ "多用于法律、政治等正式场合。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5078,
+  "word" : "宣教師",
+  "reading" : "せんきょうし",
+  "romaji" : null,
+  "meaning" : [ "传教士；布道者" ],
+  "notes" : [ "指为了传播宗教（特别是基督教）而进行活动的人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5079,
+  "word" : "宣言",
+  "reading" : "せんげん",
+  "romaji" : null,
+  "meaning" : [ "（名詞・スル動）宣言，声明，宣告。正式表明某种主张、决定或决心。" ],
+  "notes" : [ "サ変動詞（する）としても使用可能。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5080,
+  "word" : "室内",
+  "reading" : "しつない",
+  "romaji" : null,
+  "meaning" : [ "室内，屋里" ],
+  "notes" : [ "反义词是“室外（そとがい）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5081,
+  "word" : "室外",
+  "reading" : "しつがい",
+  "romaji" : null,
+  "meaning" : [ "室外，户外，屋外" ],
+  "notes" : [ "反意語は「室内（しつない）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5082,
+  "word" : "室温",
+  "reading" : "しつおん",
+  "romaji" : null,
+  "meaning" : [ "室温，室内温度" ],
+  "notes" : [ "通常指室内的温度，一般保持在20度左右比较舒适。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5083,
+  "word" : "宥める",
+  "reading" : "なだめる",
+  "romaji" : null,
+  "meaning" : [ "抚慰，安抚；劝解，平息；哄（孩子）" ],
+  "notes" : [ "通常用于平息愤怒、安抚情绪或劝解纠纷。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5084,
+  "word" : "宮保蝦仁",
+  "reading" : "ゴンバオシャーレン",
+  "romaji" : null,
+  "meaning" : [ "【料理】宮保蝦仁（中国料理の四川料理の一つ。エビとピーナッツを唐辛子入りの甘辛いタレで炒めたもの）。" ],
+  "notes" : [ "日本語では中国語の発音（ゴンバオシャーレン）をカタカナで表記することが一般的です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5085,
+  "word" : "宮保鶏丁",
+  "reading" : "きょうほうけてい",
+  "romaji" : null,
+  "meaning" : [ "名詞：宮保鶏丁。ピーナッツと鶏の唐揚げを辛味噌で炒めた中華料理。" ],
+  "notes" : [ "日本では「きょうほうけてい」と読むのが一般的ですが、中国語の音読みである「ゴンバオジーディン」と呼ばれることもあります。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5086,
+  "word" : "害",
+  "reading" : "がい",
+  "romaji" : null,
+  "meaning" : [ "害，害处；损害；危害" ],
+  "notes" : [ "多用于复合词中，如：公害（こうがい）、被害（ひがい）、損害（そんがい）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5087,
+  "word" : "害する",
+  "reading" : "がいする",
+  "romaji" : null,
+  "meaning" : [ "伤害；损害；危害；妨碍" ],
+  "notes" : [ "通常作为复合词的一部分使用，如「損害する」「妨害する」等，单独使用的情况较少见。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5088,
+  "word" : "宴会",
+  "reading" : "えんかい",
+  "romaji" : null,
+  "meaning" : [ "宴会，宴席；酒会" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5089,
+  "word" : "家",
+  "reading" : "いえ",
+  "romaji" : null,
+  "meaning" : [ "1. 房屋，房子 2. 家，家庭 3. （从事某种行业或具有某种技能的）家，流派" ],
+  "notes" : [ "读音也可读作「うち (uchi)」，侧重于指“我家”、“家里”或“家庭内部”的亲切感；「いえ」侧重于指建筑物本身。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5090,
+  "word" : "家事",
+  "reading" : "かじ",
+  "romaji" : null,
+  "meaning" : [ "家务，家务活；家庭内部的事务" ],
+  "notes" : [ "指日常生活中的家务劳动，如做饭、打扫、洗衣等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5091,
+  "word" : "家具",
+  "reading" : "かぐ",
+  "romaji" : null,
+  "meaning" : [ "家具" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5092,
+  "word" : "家内",
+  "reading" : "かない",
+  "romaji" : null,
+  "meaning" : [ "（自己的）妻子；内人" ],
+  "notes" : [ "谦逊语，用于对外人称呼自己的妻子。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5093,
+  "word" : "家出",
+  "reading" : "いえで",
+  "romaji" : null,
+  "meaning" : [ "离家出走" ],
+  "notes" : [ "通常以「家出（を）する」的形式使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5094,
+  "word" : "家屋",
+  "reading" : "かおく",
+  "romaji" : null,
+  "meaning" : [ "房屋；住房；房屋和建筑物（统称）" ],
+  "notes" : [ "比「家（いえ）」更正式，侧重指建筑物本身。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5095,
+  "word" : "家庭",
+  "reading" : "かてい",
+  "romaji" : null,
+  "meaning" : [ "家庭，家，家属" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5096,
+  "word" : "家庭教師",
+  "reading" : "かていきょうし",
+  "romaji" : null,
+  "meaning" : [ "家庭教师，家教" ],
+  "notes" : [ "指在学生家中进行个别教学的教师，通常针对特定科目进行辅导。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5097,
+  "word" : "家庭料理",
+  "reading" : "かていりょうり",
+  "romaji" : null,
+  "meaning" : [ "家常菜；家庭做的饭菜" ],
+  "notes" : [ "由“家庭”和“料理”组成的复合词，指在家里做的饭菜，通常具有亲切、朴素的特点。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5098,
+  "word" : "家族",
+  "reading" : "かぞく",
+  "romaji" : null,
+  "meaning" : [ "家人；家庭，家族" ],
+  "notes" : [ "指居住在一起或有血缘关系的亲属群体。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5099,
+  "word" : "家族連れ",
+  "reading" : "かぞくづれ",
+  "romaji" : null,
+  "meaning" : [ "带着家属，携家带眷；一家人一起（外出等）" ],
+  "notes" : [ "「連れ（づれ）」は、人を連れていることを表す接尾語。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5100,
+  "word" : "家計",
+  "reading" : "かけい",
+  "romaji" : null,
+  "meaning" : [ "家庭经济情况；家庭收支情况" ],
+  "notes" : [ "通常指家庭每月的收入和支出情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

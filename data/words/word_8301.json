@@ -1,0 +1,901 @@
+[ {
+  "id" : 8301,
+  "word" : "生地",
+  "reading" : "きじ",
+  "romaji" : null,
+  "meaning" : [ "1. 质地，布料；2. 本来面目，本色；3. 未加工的材料，原料" ],
+  "notes" : [ "「生地」在表示布料时，主要指未经染色或加工的布料；表示人的本性时，通常用于积极意义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8302,
+  "word" : "生存",
+  "reading" : "せいぞん",
+  "romaji" : null,
+  "meaning" : [ "生存，活下去，维持生命" ],
+  "notes" : [ "作为サ变动词使用时为「生存する」，属于サ変動詞（三类动词）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8303,
+  "word" : "生存者",
+  "reading" : "せいぞんしゃ",
+  "romaji" : null,
+  "meaning" : [ "名词 生存者，生还者（指在事故、灾难、战争等事件中存活下来的人）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8304,
+  "word" : "生年月日",
+  "reading" : "せいねんがっぴ",
+  "romaji" : null,
+  "meaning" : [ "出生年月日，出生日期" ],
+  "notes" : [ "由「生」（出生）、「年」（年）、「月」（月）、「日」（日）组成的复合名词，用于正式场合记录个人出生日期信息。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8305,
+  "word" : "生徒",
+  "reading" : "せいと",
+  "romaji" : null,
+  "meaning" : [ "（小学、初中、高中等的）学生，弟子，门生" ],
+  "notes" : [ "主要指中小学学生，与「学生」（多指大学生）有所区别" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8306,
+  "word" : "生息地",
+  "reading" : "せいそくち",
+  "romaji" : null,
+  "meaning" : [ "生物が生活し繁殖する場所。栖息地。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8307,
+  "word" : "生意気",
+  "reading" : "なまいき",
+  "romaji" : null,
+  "meaning" : [ "自大，傲慢，狂妄，厚脸皮，不礼貌" ],
+  "notes" : [ "形容动词，词干为「生意気」，活用形为「生意気だ」「生意気です」「生意気な」「生意気に」等。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8308,
+  "word" : "生態",
+  "reading" : "せいたい",
+  "romaji" : null,
+  "meaning" : [ "生态；生物与环境之间的相互关系；生物的生活状态" ],
+  "notes" : [ "常用汉字词，可构成复合词如「生態系」「生態学」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8309,
+  "word" : "生死",
+  "reading" : "せいし",
+  "romaji" : null,
+  "meaning" : [ "生と死。生存と死亡。" ],
+  "notes" : [ "「生死」は名詞として使用され、「生」と「死」の二つの状態を合わせた概念を表します。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8310,
+  "word" : "生活",
+  "reading" : "せいかつ",
+  "romaji" : null,
+  "meaning" : [ "生活；生计，生活方式，日常生活" ],
+  "notes" : [ "可作名词使用，也可与「する」结合构成サ変动词「生活する」（せいかつする），表示“过生活，生活”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8311,
+  "word" : "生活習慣病",
+  "reading" : "せいかつしゅうかんびょう",
+  "romaji" : null,
+  "meaning" : [ "生活习惯病，因不良生活习惯（如饮食不规律、缺乏运动、吸烟、饮酒过量等）引起的疾病，如高血压、糖尿病、高血脂等" ],
+  "notes" : [ "又称「生活習慣関連疾患」，常见于中老年人群，但近年来有年轻化趋势。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8312,
+  "word" : "生涯",
+  "reading" : "しょうがい",
+  "romaji" : null,
+  "meaning" : [ "一生，终生，毕生" ],
+  "notes" : [ "表示从出生到死亡的整个人生期间，可用于积极或中性语境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8313,
+  "word" : "生温い",
+  "reading" : "なまあたたかい",
+  "romaji" : null,
+  "meaning" : [ "1. 微温的，不冷不热的；2. 不严格的，不够彻底的，态度暧昧的" ],
+  "notes" : [ "「なま」+「あたたかい」の合成形容詞。温度や態度・対応が中途半端で十分でないことを表す。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8314,
+  "word" : "生物",
+  "reading" : "せいぶつ",
+  "romaji" : null,
+  "meaning" : [ "生物，生命体（动植物等具有生命活动的有机体）" ],
+  "notes" : [ "「なまもの」（生もの）是“生鲜食品”的意思，与「生物」（せいぶつ）意义不同，请注意区分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8315,
+  "word" : "生理的",
+  "reading" : "せいりてき",
+  "romaji" : null,
+  "meaning" : [ "生理上的，肉体上的；本能的，自然的" ],
+  "notes" : [ "可作连体词直接修饰名词，也可后续「だ/です」作谓语" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8316,
+  "word" : "生産",
+  "reading" : "せいさん",
+  "romaji" : null,
+  "meaning" : [ "生产，制造；（精神、文化等的）创造，产生" ],
+  "notes" : [ "「生産する」是サ变动词，由名词「生産」后续「する」构成。表示物质产品的制造或精神文化等抽象事物的创造。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8317,
+  "word" : "生産します",
+  "reading" : "せいさんします",
+  "romaji" : null,
+  "meaning" : [ "生产，制造" ],
+  "notes" : [ "「生産する」の敬体形式。基本形は「生産する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8318,
+  "word" : "生産コスト",
+  "reading" : "せいさんコスト",
+  "romaji" : null,
+  "meaning" : [ "製品を生産するためにかかる費用の総称。原材料費、労務費、設備費などを含む。" ],
+  "notes" : [ "「コスト」は英語の「cost」から来た外来語で、費用・原価を意味する。「生産コスト」はビジネスや経済関連の場面でよく使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8319,
+  "word" : "生産地",
+  "reading" : "せいさんち",
+  "romaji" : null,
+  "meaning" : [ "产品等的生产地点，产地" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8320,
+  "word" : "生真面目",
+  "reading" : "きまじめ",
+  "romaji" : null,
+  "meaning" : [ "一本正经，认真，一丝不苟，死心眼儿" ],
+  "notes" : [ "「生真面目」は主に人の性格や態度を表す形容動詞で、マイナスの意味（頑固、融通が利かない）を含む場合もあります。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8321,
+  "word" : "生育",
+  "reading" : "せいいく",
+  "romaji" : null,
+  "meaning" : [ "生育，生长发育；繁殖，繁育" ],
+  "notes" : [ "「生育」作为サ变动词使用时，常用形式为「生育する」，表示生物体的生长发育过程。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8322,
+  "word" : "生臭い",
+  "reading" : "なまぐさい",
+  "romaji" : null,
+  "meaning" : [ "腥的；血腥的；有生腥味的；发出腥臭味的；（比喻）卑鄙的，卑劣的" ],
+  "notes" : [ "五段活用形容词，活用形式：生臭かった、生臭く、生臭ければ、生臭さ" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8323,
+  "word" : "生計",
+  "reading" : "せいけい",
+  "romaji" : null,
+  "meaning" : [ "生计，生活；维持生活的手段" ],
+  "notes" : [ "常用搭配有「生計を立てる」（谋生）、「生計を支える」（维持生计）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8324,
+  "word" : "生身",
+  "reading" : "なまみ",
+  "romaji" : null,
+  "meaning" : [ "肉体，肉身；活生生的人" ],
+  "notes" : [ "通常用于书面语或正式场合，指有血有肉的人体或活生生的人" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8325,
+  "word" : "生返事",
+  "reading" : "なまへんじ",
+  "romaji" : null,
+  "meaning" : [ "含糊的回答，支支吾吾的回答" ],
+  "notes" : [ "「生」在这里表示未加工的、不充分的状态，指没有经过深思熟虑的回答。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8326,
+  "word" : "生魚",
+  "reading" : "なまざかな",
+  "romaji" : null,
+  "meaning" : [ "生鱼，未经烹饪的鱼" ],
+  "notes" : [ "通常指用于食用的生鱼，常见于刺身、寿司等日本料理中" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8327,
+  "word" : "産む/生む",
+  "reading" : "うむ",
+  "romaji" : null,
+  "meaning" : [ "1. 生，生育（孩子、幼崽）；2. 产生，产出（利息、结果、问题等）；3. 创作，孕育（作品、想法等）" ],
+  "notes" : [ "「産む」更侧重于生育孩子或动物的生理过程；「生む」使用范围更广，可表示产生抽象事物（如结果、想法等）。两者读音相同，部分语境下可互换，但存在细微语义差异。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8328,
+  "word" : "産出",
+  "reading" : "さんしゅつ",
+  "romaji" : null,
+  "meaning" : [ "出产，生产，产出；（自然地）产生，出现" ],
+  "notes" : [ "「産出」は主に物質的なものや抽象的な成果・知見などを生み出すことを表す。他動詞として用いられることが多い。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8329,
+  "word" : "産地",
+  "reading" : "さんち",
+  "romaji" : null,
+  "meaning" : [ "产品、农作物等的生产地，产地" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8330,
+  "word" : "産業",
+  "reading" : "さんぎょう",
+  "romaji" : null,
+  "meaning" : [ "产业，工业；生产事业的总称" ],
+  "notes" : [ "「第一次産業」（农业、林业等）、「第二次産業」（制造业、建筑业等）、「第三次産業」（服务业等）のように分類されることが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8331,
+  "word" : "甥",
+  "reading" : "おい",
+  "romaji" : null,
+  "meaning" : [ "侄子；外甥" ],
+  "notes" : [ "指兄弟姐妹的儿子，无性别区分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8332,
+  "word" : "用",
+  "reading" : "よう",
+  "romaji" : null,
+  "meaning" : [ "事情，用途，需要，费用" ],
+  "notes" : [ "常用汉字，可构成复合词如「用事」「用途」「費用」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8333,
+  "word" : "用いる",
+  "reading" : "もちいる",
+  "romaji" : null,
+  "meaning" : [ "使用，运用，采用" ],
+  "notes" : [ "「用いる」は「使用する」よりもやや硬い表現で、文章語的な傾向があります。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8334,
+  "word" : "用事",
+  "reading" : "ようじ",
+  "romaji" : null,
+  "meaning" : [ "事情，事务，应办的事，要事" ],
+  "notes" : [ "通常指需要处理的具体事务或安排，可用于「用事がある」（有事）、「用事を済ます」（办完事情）等表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8335,
+  "word" : "用件",
+  "reading" : "ようけん",
+  "romaji" : null,
+  "meaning" : [ "要办的事情，要事，正事" ],
+  "notes" : [ "通常指需要处理或传达的重要事情，不用于日常琐碎小事" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8336,
+  "word" : "用品",
+  "reading" : "ようひん",
+  "romaji" : null,
+  "meaning" : [ "用品，物品，用具，器具" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8337,
+  "word" : "用心",
+  "reading" : "ようじん",
+  "romaji" : null,
+  "meaning" : [ "注意，小心，留神，警惕，提防" ],
+  "notes" : [ "可作为名词使用，也可作为サ変動詞（suru verb）使用，构成「用心する」的形式。常用搭配有「用心深い」（谨慎的）、「～の用心」（对～的警惕）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8338,
+  "word" : "用心深い",
+  "reading" : "ようじんぶかい",
+  "romaji" : null,
+  "meaning" : [ "十分细心的，十分谨慎的，警惕性高的" ],
+  "notes" : [ "由名词「用心」（ようじん）和形容词「深い」（ぶかい）构成的复合形容词，表示对事物保持高度警惕和谨慎的态度。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8339,
+  "word" : "用意します",
+  "reading" : "よういします",
+  "romaji" : null,
+  "meaning" : [ "准备，预备，备齐" ],
+  "notes" : [ "「用意する」的礼貌形，用于表示为某事做好必要的准备工作。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8340,
+  "word" : "用材",
+  "reading" : "ようざい",
+  "romaji" : null,
+  "meaning" : [ "（建筑、制造等用途的）木材，木料，用材" ],
+  "notes" : [ "主に建築や工芸品、家具などの製造に使用される木材を指す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8341,
+  "word" : "用法",
+  "reading" : "ようほう",
+  "romaji" : null,
+  "meaning" : [ "用法，使用方法，操作方法" ],
+  "notes" : [ "常用汉字词，由「用」（使用）和「法」（方法）组成，指事物的使用方式或规则。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8342,
+  "word" : "用紙",
+  "reading" : "ようし",
+  "romaji" : null,
+  "meaning" : [ "用纸，专用纸张，特定用途的纸张" ],
+  "notes" : [ "通常指具有特定用途的纸张，如申请书用纸、打印用纸等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8343,
+  "word" : "用途",
+  "reading" : "ようと",
+  "romaji" : null,
+  "meaning" : [ "用途，用处，使用目的" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8344,
+  "word" : "田圃",
+  "reading" : "たんぼ",
+  "romaji" : null,
+  "meaning" : [ "田地，农田，庄稼地" ],
+  "notes" : [ "「田圃」は主に日本語で用いられる表現で、中国語の「田地」「农田」に相当する。「畑（はたけ）」とは異なり、主に水田地帯を指すことが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8345,
+  "word" : "田植え",
+  "reading" : "たうえ",
+  "romaji" : null,
+  "meaning" : [ "插秧，栽种水稻" ],
+  "notes" : [ "可作为サ变动词使用，形式为「田植えする」（たうえする）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8346,
+  "word" : "田舎",
+  "reading" : "いなか",
+  "romaji" : null,
+  "meaning" : [ "乡下，农村；故乡，老家" ],
+  "notes" : [ "可用于表示地理上的农村地区，也可用于表达对故乡的亲切感" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8347,
+  "word" : "田／田んぼ",
+  "reading" : "た／たんぼ",
+  "romaji" : null,
+  "meaning" : [ "田地；稻田，水田" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8348,
+  "word" : "由来する",
+  "reading" : "ゆらいする",
+  "romaji" : null,
+  "meaning" : [ "来源于，源自，由来于" ],
+  "notes" : [ "「由来する」はサ変動詞で、「～に由来する」の形でよく用いられる。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8349,
+  "word" : "甲",
+  "reading" : "こう",
+  "romaji" : null,
+  "meaning" : [ "甲壳；甲胄；第一位，甲等；天干第一位（甲、乙、丙...）；（化学）甲基" ],
+  "notes" : [ "常用汉字。「甲」单独使用时多表示顺序或等级的第一位，「甲壳」的含义在现代日语中更常用「甲殻（こうかく）」来表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8350,
+  "word" : "甲乙",
+  "reading" : "こうおつ",
+  "romaji" : null,
+  "meaning" : [ "1. 甲和乙，第一和第二；2. 优劣，上下，等级顺序" ],
+  "notes" : [ "常用于比较事物的优劣或表示顺序关系，也可指合同、协议中的双方当事人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8351,
+  "word" : "申します",
+  "reading" : "もうします",
+  "romaji" : null,
+  "meaning" : [ "说，讲，告诉；是（自谦语）；叫做，称为" ],
+  "notes" : [ "「言う」的自谦语形式，用于表示谦逊地表达自己的行为或意见。ます形为礼貌体，基本形是「申す（もうす）」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8352,
+  "word" : "申し付ける",
+  "reading" : "もうしつける",
+  "romaji" : null,
+  "meaning" : [ "吩咐，命令，指示，告知" ],
+  "notes" : [ "「申し付ける」是「言う」的谦逊语表达，多用于上级对下级或长辈对晚辈下达指示或命令的场合，语气较为正式。其被动形式「申し付けられる」表示“被吩咐，被命令”。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8353,
+  "word" : "申し入れる",
+  "reading" : "もうしいれる",
+  "romaji" : null,
+  "meaning" : [ "提议，提出；申请，要求；表明，表达" ],
+  "notes" : [ "「申す」の他動詞形で、主に意見や要求、申請などを公式または丁寧に述べる場合に使用される。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8354,
+  "word" : "申し出",
+  "reading" : "もうしで",
+  "romaji" : null,
+  "meaning" : [ "名 申请，提议，提出；（主动）提议，建议" ],
+  "notes" : [ "「申し出る」（もうしでる）是其动词形式，意为“提出，提议，申请”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8355,
+  "word" : "申し出る",
+  "reading" : "もうしでる",
+  "romaji" : null,
+  "meaning" : [ "提议，提出；申请，报名；表示（意见、愿望等）" ],
+  "notes" : [ "自谦语表达，比「提出する」更礼貌。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8356,
+  "word" : "申し分",
+  "reading" : "もうしぶん",
+  "romaji" : null,
+  "meaning" : [ "缺陷，缺点；不满，意见；异议" ],
+  "notes" : [ "常用搭配有「申し分がない」（无可挑剔，完美）、「申し分を言う」（提意见，抱怨）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8357,
+  "word" : "申し訳",
+  "reading" : "もうしわけ",
+  "romaji" : null,
+  "meaning" : [ "辩解，申辩；道歉，赔罪；借口，理由" ],
+  "notes" : [ "常用「申し訳ない」（抱歉，对不起）的形式；可构成复合词如「申し訳無い」「申し訳がない」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8358,
+  "word" : "申し訳ありません",
+  "reading" : "もうしわけありません",
+  "romaji" : null,
+  "meaning" : [ "非常抱歉，表示歉意的礼貌表达" ],
+  "notes" : [ "比「すみません」更正式、更诚恳的道歉方式，常用于商务场合或对长辈、上级道歉" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8359,
+  "word" : "申し訳ございません",
+  "reading" : "もうしわけございません",
+  "romaji" : null,
+  "meaning" : [ "非常抱歉，表示深深的歉意" ],
+  "notes" : [ "「申し訳」是名词，意为“借口、理由”，「ございません」是「有る」的礼貌否定形式，整体构成郑重的道歉表达，比「すみません」更正式、更具歉意" ],
+  "pos" : "GREET",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8360,
+  "word" : "申し訳ない",
+  "reading" : "もうしわけない",
+  "romaji" : null,
+  "meaning" : [ "对不起，抱歉，过意不去" ],
+  "notes" : [ "「申し訳ありません」的口语化表达，比「すみません」更正式一些，用于表达歉意或感激时的谦逊态度。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8361,
+  "word" : "申し込み",
+  "reading" : "もうしこみ",
+  "romaji" : null,
+  "meaning" : [ "名词。报名，申请；提议，建议；预约，订购" ],
+  "notes" : [ "「申し込む」（もうしこむ）の名詞形。サ变动詞「申し込む」の連用形が名詞化したもの。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8362,
+  "word" : "申し込み用紙",
+  "reading" : "もうしこみようし",
+  "romaji" : null,
+  "meaning" : [ "申请书，申请表格" ],
+  "notes" : [ "复合名词，由「申し込み」（申请）和「用紙」（纸张，表格）构成，表示用于申请的表格或文件。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8363,
+  "word" : "申し込む",
+  "reading" : "もうしこむ",
+  "romaji" : null,
+  "meaning" : [ "他动词。申请；报名；预约；提议" ],
+  "notes" : [ "「申し込む」是「言う」的谦逊语形式，用于表示向对方提出请求或申请，语气较为正式礼貌。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8364,
+  "word" : "申告",
+  "reading" : "しんこく",
+  "romaji" : null,
+  "meaning" : [ "申报，报告，呈报（向官方或上级机关正式报告事项）" ],
+  "notes" : [ "常用搭配：「税を申告する」（申报税款）、「変更を申告する」（申报变更）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8365,
+  "word" : "申請",
+  "reading" : "しんせい",
+  "romaji" : null,
+  "meaning" : [ "申请，提出请求" ],
+  "notes" : [ "「申請」は名詞としても使用でき、「申請する」の形で動詞として使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8366,
+  "word" : "申込書",
+  "reading" : "もうしこみしょ",
+  "romaji" : null,
+  "meaning" : [ "申请书，申请表（用于提出申请的书面文件）" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8367,
+  "word" : "申込者",
+  "reading" : "もうしこみしゃ",
+  "romaji" : null,
+  "meaning" : [ "申请者，报名者，提出申请的人" ],
+  "notes" : [ "由动词「申込む（もうしこむ）」的连用形「申込み」加上表示人的接尾词「者」构成的复合名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8368,
+  "word" : "男",
+  "reading" : "おとこ",
+  "romaji" : null,
+  "meaning" : [ "男性，男子，男人；儿子" ],
+  "notes" : [ "常用汉字，基本词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8369,
+  "word" : "男の子",
+  "reading" : "おとこのこ",
+  "romaji" : null,
+  "meaning" : [ "男孩子，男性儿童" ],
+  "notes" : [ "指未成年的男性，对应的女性词汇是「女の子（おんなのこ）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8370,
+  "word" : "男優",
+  "reading" : "だんゆう",
+  "romaji" : null,
+  "meaning" : [ "男性の俳優。男性の役を演じる芸術家。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8371,
+  "word" : "男女",
+  "reading" : "だんじょう",
+  "romaji" : null,
+  "meaning" : [ "男性と女性。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8372,
+  "word" : "男子",
+  "reading" : "だんし",
+  "romaji" : null,
+  "meaning" : [ "男性；男孩子；儿子" ],
+  "notes" : [ "较为基础的日语词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8373,
+  "word" : "男性",
+  "reading" : "だんせい",
+  "romaji" : null,
+  "meaning" : [ "男性，男子" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8374,
+  "word" : "町",
+  "reading" : "まち",
+  "romaji" : null,
+  "meaning" : [ "城镇；街区；市区；地区" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8375,
+  "word" : "町並み",
+  "reading" : "まちなみ",
+  "romaji" : null,
+  "meaning" : [ "街道的样子，街景；城镇的风貌；街头建筑等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8376,
+  "word" : "画家",
+  "reading" : "がか",
+  "romaji" : null,
+  "meaning" : [ "从事绘画创作的人，画家" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8377,
+  "word" : "画期的",
+  "reading" : "かきごんてき",
+  "romaji" : null,
+  "meaning" : [ "划时期的，具有开创意义的，划时代的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8378,
+  "word" : "画策",
+  "reading" : "かくさく",
+  "romaji" : null,
+  "meaning" : [ "計画を立てる、企てる。物事を進めるための具体的な計画や方法を考え出すこと。" ],
+  "notes" : [ "「画策」は、主にある目的を達成するための計画や方法を考えることを表す言葉です。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8379,
+  "word" : "画質",
+  "reading" : "がしつ",
+  "romaji" : null,
+  "meaning" : [ "图像质量，画面质量" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8380,
+  "word" : "画面",
+  "reading" : "がめん",
+  "romaji" : null,
+  "meaning" : [ "1. （电视、电脑等的）屏幕，画面。2. （书籍、绘画等的）页面，画幅。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8381,
+  "word" : "畑",
+  "reading" : "はたけ",
+  "romaji" : null,
+  "meaning" : [ "旱田，旱地；田地；（喻）活动范围，工作领域等" ],
+  "notes" : [ "较为基础的日语词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8382,
+  "word" : "留める",
+  "reading" : "とめる",
+  "romaji" : null,
+  "meaning" : [ "1. 固定；系住；扣住。例：ベルトを留める（系皮带）。2. 留下；留住；使停留。例：友達を一晩留める（留朋友住一晚）。3. 扣留；扣押。例：犯人を留める（扣留犯人）。4. 记住；牢记。例：要点を留める（记住要点）。5. 抑制；控制；阻止。例：涙を留める（忍住眼泪）。" ],
+  "notes" : [ "他动词，需要接宾语" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8383,
+  "word" : "留学",
+  "reading" : "りゅうがく",
+  "romaji" : null,
+  "meaning" : [ "到外国去学习" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8384,
+  "word" : "留学する",
+  "reading" : "りゅうがくする",
+  "romaji" : null,
+  "meaning" : [ "到外国去学习" ],
+  "notes" : [ "サ变动词，需要する、勉強する等词一样，词干后续ます变成连用形。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8385,
+  "word" : "留学生",
+  "reading" : "りゅうがくせい",
+  "romaji" : null,
+  "meaning" : [ "在外国学习的学生" ],
+  "notes" : [ "该词为名词，无特殊活用形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8386,
+  "word" : "留守",
+  "reading" : "るす",
+  "romaji" : null,
+  "meaning" : [ "1. 看家，看门；不在家。2. 因外出等不在家时的状况。" ],
+  "notes" : [ "常用词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8387,
+  "word" : "留守にする",
+  "reading" : "るすにする",
+  "romaji" : null,
+  "meaning" : [ "表示让家里无人，即故意使自己或他人处于不在家的状态。" ],
+  "notes" : [ "该词为他动词，其对象一般是自己的家等场所。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8388,
+  "word" : "留守番",
+  "reading" : "るすばん",
+  "romaji" : null,
+  "meaning" : [ "看家、看家的人；（电话）留言、留话" ],
+  "notes" : [ "较为常用的生活词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8389,
+  "word" : "留年",
+  "reading" : "りゅうねん",
+  "romaji" : null,
+  "meaning" : [ "留级。指学生学年未达到升级标准，需继续在原年级学习。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8390,
+  "word" : "留意",
+  "reading" : "りゅうい",
+  "romaji" : null,
+  "meaning" : [ "注意する、用心する。あることに目を向け、それに対して気を配ること。" ],
+  "notes" : [ "「留意」は、他の人や物事に対して、特に危険や問題がある場合に、十分な注意を払うことを意味する。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8391,
+  "word" : "畜産",
+  "reading" : "ちくさん",
+  "romaji" : null,
+  "meaning" : [ "畜产，畜牧。指饲养家畜、家禽等以获取畜产品的生产活动。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8392,
+  "word" : "略",
+  "reading" : "りゃく",
+  "romaji" : null,
+  "meaning" : [ "简略；概要；省略；计谋等意思。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8393,
+  "word" : "略奪",
+  "reading" : "りゃくだつ",
+  "romaji" : null,
+  "meaning" : [ "掠夺，抢夺，抢劫" ],
+  "notes" : [ "较为常用的表达‘掠夺’‘抢夺’的词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8394,
+  "word" : "略語",
+  "reading" : "りゃくご",
+  "romaji" : null,
+  "meaning" : [ "由原词语缩短而成的词语，用于简便地表达复杂或冗长的概念。" ],
+  "notes" : [ "略語は原語の一部を省略してできた言葉で、使いやすさや速さを重視して作られます。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8395,
+  "word" : "番人",
+  "reading" : "ばんにん",
+  "romaji" : null,
+  "meaning" : [ "值班的人；看守的人；哨兵。" ],
+  "notes" : [ "较为常用的日常词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8396,
+  "word" : "番号",
+  "reading" : "ばんごう",
+  "romaji" : null,
+  "meaning" : [ "号码；编号。通常用于表示顺序号、电话号码、房间号等各种编号。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8397,
+  "word" : "番組",
+  "reading" : "ばんぐみ",
+  "romaji" : null,
+  "meaning" : [ "（电视、广播等的）节目" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8398,
+  "word" : "異なる",
+  "reading" : "ことなる",
+  "romaji" : null,
+  "meaning" : [ "自动词，意为不同、不一样；他动词，意为使……不同、使……有差异" ],
+  "notes" : [ "作为自动词使用时较为常见，他动词用法相对较少" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8399,
+  "word" : "異動",
+  "reading" : "いどう",
+  "romaji" : null,
+  "meaning" : [ "人员、工作岗位等的调动；事物的变动、变更" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8400,
+  "word" : "異常",
+  "reading" : "いじょう",
+  "romaji" : null,
+  "meaning" : [ "与正常情况不同，不正常；异常，反常。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+} ]

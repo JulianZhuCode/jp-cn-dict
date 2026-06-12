@@ -1,0 +1,901 @@
+[ {
+  "id" : 10801,
+  "word" : "達する",
+  "reading" : "たどりつく",
+  "romaji" : null,
+  "meaning" : [ "达到；完成；到达；达成（目标等）；及，涉及" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10802,
+  "word" : "達人",
+  "reading" : "たつじん",
+  "romaji" : null,
+  "meaning" : [ "在某方面技艺高超、精通的人；高手，能手，行家" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10803,
+  "word" : "達成",
+  "reading" : "たっせい",
+  "romaji" : null,
+  "meaning" : [ "达到，成就，完成；达成，实现（目标等）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10804,
+  "word" : "達者",
+  "reading" : "たっしゃ",
+  "romaji" : null,
+  "meaning" : [ "精通，熟练；健康，健壮；擅长，拿手" ],
+  "notes" : [ "形容动词的词尾变化遵循形容动词的规则，比如作谓语时词尾变为「だ」，作定语时词尾变为「な」等。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10805,
+  "word" : "違い",
+  "reading" : "ちがい",
+  "romaji" : null,
+  "meaning" : [ "不同；差异；区别；差别；分歧；不一致" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10806,
+  "word" : "違いない",
+  "reading" : "ちがいない",
+  "romaji" : null,
+  "meaning" : [ "表示推测，意为“一定、肯定、没错”" ],
+  "notes" : [ "" ],
+  "pos" : "AUX",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10807,
+  "word" : "違います",
+  "reading" : "ちがいます",
+  "romaji" : null,
+  "meaning" : [ "不同，不一样；错误；有差异" ],
+  "notes" : [ "其原形为“違う”" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10808,
+  "word" : "違います",
+  "reading" : "ちがいます",
+  "romaji" : null,
+  "meaning" : [ "不同；不一样；不对；不是" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10809,
+  "word" : "違う",
+  "reading" : "ちがう",
+  "romaji" : null,
+  "meaning" : [ "不同；不一样；不一致；错误；违背；违反" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10810,
+  "word" : "違える",
+  "reading" : "ちがえる",
+  "romaji" : null,
+  "meaning" : [ "使不同；弄错，搞错；改变，更改" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10811,
+  "word" : "違反",
+  "reading" : "いはん",
+  "romaji" : null,
+  "meaning" : [ "违反，违背；触犯（法律、规定等）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10812,
+  "word" : "違和感",
+  "reading" : "いわかん",
+  "romaji" : null,
+  "meaning" : [ "不协调感；异样感；别扭的感觉" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10813,
+  "word" : "違法",
+  "reading" : "いほう",
+  "romaji" : null,
+  "meaning" : [ "违反法律；非法" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10814,
+  "word" : "遜る",
+  "reading" : "やぶる",
+  "romaji" : null,
+  "meaning" : [ "①谦恭，谦逊；②不及，比不上，不如" ],
+  "notes" : [ "「謙る」一般写作「謙虚（けんきょ）」等词来表达谦逊之意，单独的「謙る」这种写法较少见，常见的是「遜る」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10815,
+  "word" : "遠い",
+  "reading" : "とおい",
+  "romaji" : null,
+  "meaning" : [ "远；遥远；久远；长远；（关系等）疏远" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10816,
+  "word" : "遠く",
+  "reading" : "とおく",
+  "romaji" : null,
+  "meaning" : [ "远处，远方；差距大（如在程度、数量等方面）" ],
+  "notes" : [ "「遠い」的连用形，也可作副词使用" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10817,
+  "word" : "遠ざかる",
+  "reading" : "とおざかる",
+  "romaji" : null,
+  "meaning" : [ "1. 远离，离得越来越远；2. 疏远，关系变得冷淡" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10818,
+  "word" : "遠ざける",
+  "reading" : "とおざける",
+  "romaji" : null,
+  "meaning" : [ "使远离；躲开，避开；疏远；节制" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10819,
+  "word" : "遠回り",
+  "reading" : "とおまわり",
+  "romaji" : null,
+  "meaning" : [ "绕道，绕远；迂回的办法，绕圈子的做法" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10820,
+  "word" : "遠慮",
+  "reading" : "えんりょ",
+  "romaji" : null,
+  "meaning" : [ "客气；顾虑、犹豫；谢绝、婉拒；节制、自制" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10821,
+  "word" : "遠慮しておきます",
+  "reading" : "えんりょしておきます",
+  "romaji" : null,
+  "meaning" : [ "预先拒绝；提前推辞；算了，不用了" ],
+  "notes" : [ "" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10822,
+  "word" : "遠慮します",
+  "reading" : "えんりょします",
+  "romaji" : null,
+  "meaning" : [ "①客气，顾虑；②谢绝，婉拒" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10823,
+  "word" : "遠慮なく",
+  "reading" : "えんりょなく",
+  "romaji" : null,
+  "meaning" : [ "熟语，不客气；毫无顾忌地，尽情地" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10824,
+  "word" : "遠方",
+  "reading" : "えんぽう",
+  "romaji" : null,
+  "meaning" : [ "远方，远处；远方的地方，离说话人较远的地方" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10825,
+  "word" : "遠視",
+  "reading" : "えんし",
+  "romaji" : null,
+  "meaning" : [ "视力障碍的一种，近处物体看起来模糊，远处物体相对清晰，即远视。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10826,
+  "word" : "遠足",
+  "reading" : "えんそく",
+  "romaji" : null,
+  "meaning" : [ "远足，徒步旅行；郊游" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10827,
+  "word" : "遡る",
+  "reading" : "さかのぼる",
+  "romaji" : null,
+  "meaning" : [ "逆流而上；追溯；回忆；回顾" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10828,
+  "word" : "遣り繰り",
+  "reading" : "やりくり",
+  "romaji" : null,
+  "meaning" : [ "① 设法安排，筹措；② （事情的）处理，办理；③ （商业等方面的）经营，运作" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10829,
+  "word" : "遣り通す",
+  "reading" : "やりつづす",
+  "romaji" : null,
+  "meaning" : [ "做完，完成；坚持做下去，贯彻到底" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10830,
+  "word" : "適する",
+  "reading" : "てきする",
+  "romaji" : null,
+  "meaning" : [ "适合，适于；适应" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10831,
+  "word" : "適切",
+  "reading" : "てきせつ",
+  "romaji" : null,
+  "meaning" : [ "恰当，适当，适合；恰到好处" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10832,
+  "word" : "適宜",
+  "reading" : "てきぎ",
+  "romaji" : null,
+  "meaning" : [ "适宜，适当；酌情；恰如其分，妥善" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10833,
+  "word" : "適度",
+  "reading" : "てきど",
+  "romaji" : null,
+  "meaning" : [ "适度，适当；（程度等）正好，恰到好处" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10834,
+  "word" : "適当",
+  "reading" : "てきとう",
+  "romaji" : null,
+  "meaning" : [ "适当，适宜；适中；适度；随便，敷衍；马马虎虎；一般" ],
+  "notes" : [ "形容动词在修饰名词时，需用「適当な」的形式；修饰动词、形容词、其他副词时，用「適当に」的形式。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10835,
+  "word" : "適応",
+  "reading" : "てきおう",
+  "romaji" : null,
+  "meaning" : [ "适应；适合；顺应" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10836,
+  "word" : "適性",
+  "reading" : "てきせい",
+  "romaji" : null,
+  "meaning" : [ "适合某种工作、活动等的素质、能力；适应性" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10837,
+  "word" : "適用",
+  "reading" : "てきよう",
+  "romaji" : null,
+  "meaning" : [ "适合某种情况或条件而被采用、应用；将规定、规则等应用于特定对象或情况" ],
+  "notes" : [ "作为サ变动词使用时，常以「適用する」的形式出现；「適用」作为名词也可单独使用，如「このルールに適用がある。（适用于这条规则。）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10838,
+  "word" : "適する",
+  "reading" : "てきする",
+  "romaji" : null,
+  "meaning" : [ "适合；适应；相称；恰当" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10839,
+  "word" : "遭う",
+  "reading" : "あう",
+  "romaji" : null,
+  "meaning" : [ "遭遇，碰上；被（遇到不好的事情）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10840,
+  "word" : "遭難",
+  "reading" : "そうなん",
+  "romaji" : null,
+  "meaning" : [ "遇难，遇险；遭遇灾难" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10841,
+  "word" : "遮る",
+  "reading" : "さえぎる",
+  "romaji" : null,
+  "meaning" : [ "阻挡；遮挡；遮住；挡住；妨碍；阻碍" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10842,
+  "word" : "遮二無二",
+  "reading" : "しゃにむに",
+  "romaji" : null,
+  "meaning" : [ "不顾一切地，一个劲儿地，贸然，盲目地" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10843,
+  "word" : "遮断",
+  "reading" : "しゃだん",
+  "romaji" : null,
+  "meaning" : [ "截断，切断，隔绝；隔断电路等使其不导通" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10844,
+  "word" : "選びます",
+  "reading" : "えらびます",
+  "romaji" : null,
+  "meaning" : [ "挑选，选择" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10845,
+  "word" : "選ぶ",
+  "reading" : "えらぶ",
+  "romaji" : null,
+  "meaning" : [ "选择；挑选；选定" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10846,
+  "word" : "選定",
+  "reading" : "せんてい",
+  "romaji" : null,
+  "meaning" : [ "选定，挑选确定" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10847,
+  "word" : "選手",
+  "reading" : "せんしゅ",
+  "romaji" : null,
+  "meaning" : [ "选手，运动员" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10848,
+  "word" : "選択",
+  "reading" : "せんたく",
+  "romaji" : null,
+  "meaning" : [ "选择；挑选" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10849,
+  "word" : "選択肢",
+  "reading" : "せんたくし",
+  "romaji" : null,
+  "meaning" : [ "（从多个事物中进行选择时的）选项，选择项" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10850,
+  "word" : "選挙",
+  "reading" : "せんきょ",
+  "romaji" : null,
+  "meaning" : [ "选举；推选" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10851,
+  "word" : "選考",
+  "reading" : "せんこう",
+  "romaji" : null,
+  "meaning" : [ "选拔；考试选拔；（对论文、作品等的）审查，评选" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10852,
+  "word" : "遺伝",
+  "reading" : "いでん",
+  "romaji" : null,
+  "meaning" : [ "遗传；遗传学" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10853,
+  "word" : "遺憾",
+  "reading" : "いかん",
+  "romaji" : null,
+  "meaning" : [ "遗憾，可惜；不满意，不满意的地方" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10854,
+  "word" : "遺棄",
+  "reading" : "いき",
+  "romaji" : null,
+  "meaning" : [ "丢弃；遗弃" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10855,
+  "word" : "遺産",
+  "reading" : "いさん",
+  "romaji" : null,
+  "meaning" : [ "遗产；遗留下来的东西" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10856,
+  "word" : "遺留",
+  "reading" : "いりゅう",
+  "romaji" : null,
+  "meaning" : [ "遗留、留下（多为死后留下财产、物品等；也可指留下某种现象、痕迹等）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10857,
+  "word" : "遺跡",
+  "reading" : "いせき",
+  "romaji" : null,
+  "meaning" : [ "古代人类遗留下来的建筑物、生活痕迹等遗址、遗迹" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10858,
+  "word" : "避けます",
+  "reading" : "さけます",
+  "romaji" : null,
+  "meaning" : [ "回避，避免；躲避，躲开；让开，闪开" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10859,
+  "word" : "避ける",
+  "reading" : "さける",
+  "romaji" : null,
+  "meaning" : [ "避开，躲避，逃避；避免（不良情况等）；不选择（某个选项等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10860,
+  "word" : "避難",
+  "reading" : "ひなん",
+  "romaji" : null,
+  "meaning" : [ "躲避灾难、危险等；避难，逃难" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10861,
+  "word" : "避難する",
+  "reading" : "ひなんする",
+  "romaji" : null,
+  "meaning" : [ "避难，躲避危险；逃生" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10862,
+  "word" : "還元",
+  "reading" : "かんげん",
+  "romaji" : null,
+  "meaning" : [ "还原；恢复原状；（数学）化简" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10863,
+  "word" : "還暦",
+  "reading" : "かんれき",
+  "romaji" : null,
+  "meaning" : [ "名词。指人满六十岁，也指六十岁寿辰的庆祝活动。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10864,
+  "word" : "邪魔",
+  "reading" : "じゃま",
+  "romaji" : null,
+  "meaning" : [ "1. 打扰；妨碍，阻碍。2. 拜访，串门" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10865,
+  "word" : "邸宅",
+  "reading" : "ていたく",
+  "romaji" : null,
+  "meaning" : [ "宅邸，公馆" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10866,
+  "word" : "郊外",
+  "reading" : "こうがい",
+  "romaji" : null,
+  "meaning" : [ "城市周围的地区；郊外，郊区" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10867,
+  "word" : "部下",
+  "reading" : "ぶか",
+  "romaji" : null,
+  "meaning" : [ "部下，下属；手下的人" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10868,
+  "word" : "部分的",
+  "reading" : "ぶぶんてき",
+  "romaji" : null,
+  "meaning" : [ "部分的；局部的；片面的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10869,
+  "word" : "部品",
+  "reading" : "ぶひん",
+  "romaji" : null,
+  "meaning" : [ "零件，部件" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10870,
+  "word" : "部品工場",
+  "reading" : "ぶひんこうじょう",
+  "romaji" : null,
+  "meaning" : [ "零件制造厂；零部件工厂" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10871,
+  "word" : "部屋",
+  "reading" : "へや",
+  "romaji" : null,
+  "meaning" : [ "房间；屋子；家；办公室；店铺；（棋类等的）一局；（剧场等的）包厢" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10872,
+  "word" : "部屋代",
+  "reading" : "へやだい",
+  "romaji" : null,
+  "meaning" : [ "房租，房间的租金" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10873,
+  "word" : "部活",
+  "reading" : "ぶかつ",
+  "romaji" : null,
+  "meaning" : [ "社团活动（学校里学生自发组织参与的各种活动团体开展的活动）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10874,
+  "word" : "部署",
+  "reading" : "ぶしょ",
+  "romaji" : null,
+  "meaning" : [ "部门；部署；安排，布置；配置" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10875,
+  "word" : "部長",
+  "reading" : "ぶちょう",
+  "romaji" : null,
+  "meaning" : [ "部长，部门负责人" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10876,
+  "word" : "部門",
+  "reading" : "ぶもん",
+  "romaji" : null,
+  "meaning" : [ "部门；部类" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10877,
+  "word" : "郵便",
+  "reading" : "ゆうびん",
+  "romaji" : null,
+  "meaning" : [ "邮政；邮件；邮票" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10878,
+  "word" : "郵便受け",
+  "reading" : "ゆうびんうけ",
+  "romaji" : null,
+  "meaning" : [ "信箱，邮筒，用来接收邮件的容器" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10879,
+  "word" : "郵便局",
+  "reading" : "ゆうびんきょく",
+  "romaji" : null,
+  "meaning" : [ "邮局，邮政局" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10880,
+  "word" : "郵送",
+  "reading" : "ゆうそう",
+  "romaji" : null,
+  "meaning" : [ "邮寄，用邮件发送" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10881,
+  "word" : "郷土",
+  "reading" : "ごうど",
+  "romaji" : null,
+  "meaning" : [ "故乡；地方，乡间；本地，当地" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10882,
+  "word" : "郷愁",
+  "reading" : "ごうしゅう",
+  "romaji" : null,
+  "meaning" : [ "乡愁；对故乡、过去等的思念、怀念之情" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10883,
+  "word" : "郷里",
+  "reading" : "ごうり",
+  "romaji" : null,
+  "meaning" : [ "故乡，家乡；老家；出生地" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10884,
+  "word" : "都",
+  "reading" : "と",
+  "romaji" : null,
+  "meaning" : [ "首都；大城市；繁华都市；京城" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10885,
+  "word" : "都会",
+  "reading" : "とかい",
+  "romaji" : null,
+  "meaning" : [ "大城市，都市；繁华的城市地区" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10886,
+  "word" : "都内",
+  "reading" : "とない",
+  "romaji" : null,
+  "meaning" : [ "东京都内；东京都中心地区" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10887,
+  "word" : "都合",
+  "reading" : "つごう",
+  "romaji" : null,
+  "meaning" : [ "1. 情况，情形；2. 方便，合适；3. 安排，处理；4. 关系，关联" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10888,
+  "word" : "都市",
+  "reading" : "とし",
+  "romaji" : null,
+  "meaning" : [ "城市；都市" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10889,
+  "word" : "都庁",
+  "reading" : "とちょう",
+  "romaji" : null,
+  "meaning" : [ "（日本的）都政府机关办公的地方；都政府" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10890,
+  "word" : "都心",
+  "reading" : "としん",
+  "romaji" : null,
+  "meaning" : [ "城市的中心地区；市中心" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10891,
+  "word" : "酌む",
+  "reading" : "しゃくむ",
+  "romaji" : null,
+  "meaning" : [ "1. 斟（酒等）；倒（茶等）。2. 考虑；斟酌；体谅；酌情处理。" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10892,
+  "word" : "配る",
+  "reading" : "くばる",
+  "romaji" : null,
+  "meaning" : [ "1. 分配，分给；2. 散发，传播（消息等）；3. 撒（药等）；4. 施展（影响力等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10893,
+  "word" : "配付",
+  "reading" : "はいふ",
+  "romaji" : null,
+  "meaning" : [ "分发，分配（给每个人）；配送，发送（物品等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10894,
+  "word" : "配偶",
+  "reading" : "はいぐう",
+  "romaji" : null,
+  "meaning" : [ "配偶者；夫妻中的一方" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10895,
+  "word" : "配分",
+  "reading" : "はいぶん",
+  "romaji" : null,
+  "meaning" : [ "分配，分摊；配给，分发" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10896,
+  "word" : "配列",
+  "reading" : "はいれつ",
+  "romaji" : null,
+  "meaning" : [ "排列；排列的顺序；阵列" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10897,
+  "word" : "配属",
+  "reading" : "はいぞく",
+  "romaji" : null,
+  "meaning" : [ "分配，调配，安排（人员等所属的部门、岗位等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10898,
+  "word" : "配布",
+  "reading" : "はいふ",
+  "romaji" : null,
+  "meaning" : [ "分发，散发，散布；（在一定范围内）分配" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10899,
+  "word" : "配慮",
+  "reading" : "はいりょ",
+  "romaji" : null,
+  "meaning" : [ "体谅，考虑，照顾；关怀，关照" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10900,
+  "word" : "配慮",
+  "reading" : "はいりょ",
+  "romaji" : null,
+  "meaning" : [ "考虑；照顾；关怀；体谅" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+} ]

@@ -1,0 +1,901 @@
+[ {
+  "id" : 1401,
+  "word" : "オフィス",
+  "reading" : "オフィス",
+  "romaji" : null,
+  "meaning" : [ "办公室，事务所；写字楼，办公场所" ],
+  "notes" : [ "源自英语单词\"office\"的外来语，为日语常用外来语词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1402,
+  "word" : "オプション",
+  "reading" : "オプション",
+  "romaji" : null,
+  "meaning" : [ "选择；选择权；（商品等的）可选配件，附加装置，可选服务" ],
+  "notes" : [ "源自英语单词「option」，是日语外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1403,
+  "word" : "オペラ",
+  "reading" : "オペラ",
+  "romaji" : null,
+  "meaning" : [ "歌剧，是一种融合歌唱、表演、剧本、管弦乐伴奏的舞台戏剧艺术形式" ],
+  "notes" : [ "源自意大利语「opera」的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1404,
+  "word" : "オリエンテーション",
+  "reading" : "オリエンテーション",
+  "romaji" : null,
+  "meaning" : [ "1.（新生、新员工的）入职培训，入学教育，迎新说明会；2.（旅行、活动等的）方向指引，情况介绍会" ],
+  "notes" : [ "源自英语单词\"orientation\"，是日语外来语，常用于校园、企业等场合对新成员的介绍培训环节。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1405,
+  "word" : "オリジナリティー",
+  "reading" : "オリジナリティー",
+  "romaji" : null,
+  "meaning" : [ "独创性，创意，创造力，原创性" ],
+  "notes" : [ "源自英语单词\"originality\"，也可写作オリジナリティ（省略长音的写法也常用）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1406,
+  "word" : "オリジナル",
+  "reading" : "おりじなる",
+  "romaji" : null,
+  "meaning" : [ "1. 原创的，独创的；原创作物 2. 原版，正本，原作 3. 原始的，原本的" ],
+  "notes" : [ "源自英语单词\"original\"，可作为名词或ナ形容词使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1407,
+  "word" : "オリンピック",
+  "reading" : "オリンピック",
+  "romaji" : null,
+  "meaning" : [ "奥林匹克运动会，奥运会" ],
+  "notes" : [ "源自英语单词\"Olympic\"，是「オリンピック競技大会」的常用略称" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1408,
+  "word" : "オルガン",
+  "reading" : "おるがん",
+  "romaji" : null,
+  "meaning" : [ "风琴，源自英语organ，可指管风琴、美式簧风琴等键盘乐器" ],
+  "notes" : [ "外来语，来自英语的\"organ\"，属于日语外来语名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1409,
+  "word" : "オレンジ",
+  "reading" : "オレンジ",
+  "romaji" : null,
+  "meaning" : [ "橙子，甜橙；橙色，橘黄色" ],
+  "notes" : [ "来自英语单词\"orange\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1410,
+  "word" : "オンライン",
+  "reading" : "おんらいん",
+  "romaji" : null,
+  "meaning" : [ "在线，联网，联机；线上" ],
+  "notes" : [ "源自英语单词\"online\"的外来语，可作名词使用，也可修饰其他名词作形容动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1411,
+  "word" : "オークション",
+  "reading" : "おーくしょん",
+  "romaji" : null,
+  "meaning" : [ "拍卖（auction的外来语，指公开竞价售卖商品的交易方式）" ],
+  "notes" : [ "来自英语单词\"auction\"的外来语，也可略称为オークション" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1412,
+  "word" : "オーケストラ",
+  "reading" : "オーケストラ",
+  "romaji" : null,
+  "meaning" : [ "管弦乐团；管弦乐" ],
+  "notes" : [ "来源于英语单词\"orchestra\"的外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1413,
+  "word" : "オーケー",
+  "reading" : "おーけー",
+  "romaji" : null,
+  "meaning" : [ "1. 好，可以，行，OK（同意・承認）；2. 没问题，没关系，OK（了承・安心）；3. 不错，良好（状態が良いこと）" ],
+  "notes" : [ "来自英语OK的外来语，也可写作「オッケー」" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1414,
+  "word" : "オーストラリア",
+  "reading" : "オーストラリア",
+  "romaji" : null,
+  "meaning" : [ "澳大利亚，澳大利亚联邦（位于大洋洲的联邦制国家）" ],
+  "notes" : [ "外来语，源自英语\"Australia\"，是大洋洲面积最大的国家。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1415,
+  "word" : "オーソドックス",
+  "reading" : "おーそどっくす",
+  "romaji" : null,
+  "meaning" : [ "正统的；传统的；常规的，符合惯例的" ],
+  "notes" : [ "来源于英语单词\"orthodox\"，是日语外来词，作ナ形容词使用，可修饰名词也可结句。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1416,
+  "word" : "オーダーメイド",
+  "reading" : "おーだーめいど",
+  "romaji" : null,
+  "meaning" : [ "定做，定制，量身定制，指按照顾客的要求单独制作商品或服务" ],
+  "notes" : [ "源自英语「order made」，也可作形容动词使用，日常商业和生活场景中广泛使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1417,
+  "word" : "オートバイ",
+  "reading" : "おーとばい",
+  "romaji" : null,
+  "meaning" : [ "摩托车，源自英语“motorcycle”" ],
+  "notes" : [ "也可略称为バイク，日常使用中バイク的称呼更普遍" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1418,
+  "word" : "オートマチック",
+  "reading" : "おーとまちっく",
+  "romaji" : null,
+  "meaning" : [ "1.（机械等）自动的，自动式的；2.自动装置，自动挡；3.（行为等）无意识的，下意识的" ],
+  "notes" : [ "外来语，源自英语\"automatic\"，常简称オートマ，对应手动式是マニュアル" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1419,
+  "word" : "オートメーション",
+  "reading" : "おーとめーしょん",
+  "romaji" : null,
+  "meaning" : [ "自动化，指通过机械、电子装置等自动控制生产或作业，替代人工操作的体系或技术" ],
+  "notes" : [ "源自英语单词\"automation\"的外来语，也可表自动控制" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1420,
+  "word" : "オーナー",
+  "reading" : "おーなー",
+  "romaji" : null,
+  "meaning" : [ "物主，所有者， owner，（事业、店铺等的）老板，业主" ],
+  "notes" : [ "源自英语单词\"owner\"的外来语，是日语中常用词，可用于指各类物品、资产、店铺、宠物等的所有者或主人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1421,
+  "word" : "オーバー",
+  "reading" : "オーバー",
+  "romaji" : null,
+  "meaning" : [ "1.超出，超过，超额；2.（物体等）溢出；3.过度，过量；4.结束，完结；5.（服饰） Oversized（ oversized宽松款）；6.（摄影、印刷）叠印" ],
+  "notes" : [ "外来语，源自英语“over”，可单独作名词，也可作为サ変动词接「する」使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1422,
+  "word" : "オーブン",
+  "reading" : "おーぶん",
+  "romaji" : null,
+  "meaning" : [ "烤箱，烤炉，源自英语oven，指烘焙、烘烤食物用的电热或燃气加热电器" ],
+  "notes" : [ "外来语，来自英语\"oven\"，是烹饪常用名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1423,
+  "word" : "オープン",
+  "reading" : "おーぷん",
+  "romaji" : null,
+  "meaning" : [ "1.（动词/名词）开业；开张 2.（动词/名词）开放，公开 3.（形容词性）敞开的，开放的" ],
+  "notes" : [ "来源于英语单词\"open\"，在日语中可作为サ変活用动词、名词使用，也可作形容动词表达属性。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1424,
+  "word" : "オープンする",
+  "reading" : "オープンする",
+  "romaji" : null,
+  "meaning" : [ "1. 开张，开业；2. 开放，公开；3. 敞开，打开" ],
+  "notes" : [ "来自英语\"open\"的外来语动词，属于サ变动词，除了表示店铺开业、场所开放，也可表示物体打开、信息公开等用法。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1425,
+  "word" : "カウンセラー",
+  "reading" : "かうんせらー",
+  "romaji" : null,
+  "meaning" : [ "源自英语\"counselor\"，指咨询顾问，特指（心理）咨询师、辅导员；也可指生活指导顾问" ],
+  "notes" : [ "外来语，来自英语counselor的音译" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1426,
+  "word" : "カウンセリング",
+  "reading" : "かうんせりんぐ",
+  "romaji" : null,
+  "meaning" : [ "心理咨询，咨询指导，心理辅导" ],
+  "notes" : [ "这是源自英语\"counseling\"的外来语，广义也可泛指各类专业咨询服务，狭义通常指心理健康相关的心理咨询服务。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1427,
+  "word" : "カウンター",
+  "reading" : "カウンター",
+  "romaji" : null,
+  "meaning" : [ "1. 柜台，服务台；2. 计数器，计算器；3. 吧台；4. （拳击等的）反击，迎击" ],
+  "notes" : [ "源自英语单词\"counter\"，是日语外来语词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1428,
+  "word" : "カクテル",
+  "reading" : "カクテル",
+  "romaji" : null,
+  "meaning" : [ "1. 鸡尾酒，混合酒；2. 泛指混合制成的饮品或食物" ],
+  "notes" : [ "源自英语单词\"cocktail\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1429,
+  "word" : "カシミヤ",
+  "reading" : "かしみや",
+  "romaji" : null,
+  "meaning" : [ "山羊绒，开司米；也指山羊绒制成的织物" ],
+  "notes" : [ "英语\"cashmere\"的音译，是来自克什米尔地区山羊的特种羊绒，因质地柔软轻盈保暖被广泛用于高端纺织品制作。也可写作「カシミア」，两者通用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1430,
+  "word" : "カタログ",
+  "reading" : "かたろぐ",
+  "romaji" : null,
+  "meaning" : [ "商品目录，产品名录；目录，一览表" ],
+  "notes" : [ "来源于英语单词\"catalog/catalogue\"，是日语外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1431,
+  "word" : "カット",
+  "reading" : "かっと",
+  "romaji" : null,
+  "meaning" : [ "1.（动词义）切，割，剪，削；剪发；删去，删减；停止，取消；削减，缩减；（球运动）削球，切球；（美发）修剪造型；2.（名词义）切口，切面；剪辑，裁剪；剪发，发型；削减，删减；切球，削球" ],
+  "notes" : [ "原为英语外来语\"cut\"，可作为名词使用，也可后续「する」构成サ変活用动词，是日语能力考N3级别核心词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1432,
+  "word" : "カップ",
+  "reading" : "カップ",
+  "romaji" : null,
+  "meaning" : [ "1. 杯子，茶杯，咖啡杯；2. 奖杯，优胜杯；3.（内衣的）罩杯；4. （体育比赛的）杯赛" ],
+  "notes" : [ "源自英语\"cup\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1433,
+  "word" : "カップラーメン",
+  "reading" : "かっぷらーめん",
+  "romaji" : null,
+  "meaning" : [ "杯装方便面，桶装方便面，是カップ入りインスタントラーメン的略称" ],
+  "notes" : [ "和袋装方便面（袋麺）相对，指装入纸杯/纸桶中、可直接注水冲泡的即食方便面，中文也常称杯面" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1434,
+  "word" : "カップル",
+  "reading" : "カップル",
+  "romaji" : null,
+  "meaning" : [ "源自英语\"couple\"，主要含义为：1. 情侣，一对恋人；2. 一对儿，一对男女（也可指搭档等成对的两人组合）" ],
+  "notes" : [ "外来语，是日语中对成对的两人，尤其是情侣伴侣的常用称呼" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1435,
+  "word" : "カップ麺",
+  "reading" : "かっぷめん",
+  "romaji" : null,
+  "meaning" : [ "杯装方便面，桶装方便面，是カップラーメン的略称，也可指杯装的其他面条类速食食品" ],
+  "notes" : [ "正式全称为カップラーメン，日常生活中常用略称カップ麺，属于和制外来语复合词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1436,
+  "word" : "カテゴリー",
+  "reading" : "かてごりー",
+  "romaji" : null,
+  "meaning" : [ "类别，范畴，种类" ],
+  "notes" : [ "源自英语单词\"category\"的外来语，也可写作「カテゴリ」，属于日语能力考N3级别的常见外来语词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1437,
+  "word" : "カニカマ",
+  "reading" : "かにかま",
+  "romaji" : null,
+  "meaning" : [ "蟹柳，仿蟹肉，是用鱼糜加工制成的模拟蟹肉风味的水产加工食品，正式名称为カニ風味かまぼこ" ],
+  "notes" : [ "是「カニ風味かまぼこ」的略称，属于外来语混缩略词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1438,
+  "word" : "カバー",
+  "reading" : "かばー",
+  "romaji" : null,
+  "meaning" : [ "1. 名詞：覆盖物，外皮，套子，封面，书皮；（运动）补位，防守补位；（保险）承保范围；2. 动词：覆盖，遮盖；弥补，填补（不足、空缺）；涵盖，包括；（媒体）报道，采访" ],
+  "notes" : [ "源自英语单词cover，兼具名词和サ変变动词词性，含义丰富，不同语境下语义不同" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1439,
+  "word" : "カプセル",
+  "reading" : "かぷせる",
+  "romaji" : null,
+  "meaning" : [ "胶囊；（航天器的）密封舱，太空舱；（瓶装饮品的）密封瓶盖；胶囊旅馆" ],
+  "notes" : [ "源自英语单词“capsule”的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1440,
+  "word" : "カボチャ",
+  "reading" : "かぼちゃ",
+  "romaji" : null,
+  "meaning" : [ "南瓜，倭瓜；南瓜（番南瓜）的果实，可食用" ],
+  "notes" : [ "汉字可写作「南瓜」，是日本常用的日常蔬菜词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1441,
+  "word" : "カムバック",
+  "reading" : "かむばっく",
+  "romaji" : null,
+  "meaning" : [ "1. 回归、复出（退役、休止活动后重新回归）；2. 恢复（原位、原状态）；3. 东山再起" ],
+  "notes" : [ "源自英语单词\"comeback\"的外来语，作为名词使用，也可接する作サ变动词使用。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1442,
+  "word" : "カメラ",
+  "reading" : "かめら",
+  "romaji" : null,
+  "meaning" : [ "照相机，摄影机，相机" ],
+  "notes" : [ "该词是英语\"camera\"的外来语，可表示照相机、摄像机等摄影设备" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1443,
+  "word" : "カメラマン",
+  "reading" : "かめらまん",
+  "romaji" : null,
+  "meaning" : [ "摄影师，摄影记者；摄影爱好者" ],
+  "notes" : [ "来源于英语单词\"cameraman\"，多指职业摄影从业者，也可指摄影爱好者。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1444,
+  "word" : "カラオケ",
+  "reading" : "からおけ",
+  "romaji" : null,
+  "meaning" : [ "卡拉OK，指通过伴奏带演唱、提供歌唱娱乐的休闲活动或场所" ],
+  "notes" : [ "由日语「空(から)」+英语「orchestra（オーケストラ）」缩合而成的和制外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1445,
+  "word" : "カラス",
+  "reading" : "からす",
+  "romaji" : null,
+  "meaning" : [ "乌鸦；（转指）不吉利的人，讨厌的人" ],
+  "notes" : [ "日语中也写作「烏」，是日语最常用的乌鸦指称词汇，属于基础词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1446,
+  "word" : "カラー",
+  "reading" : "からー",
+  "romaji" : null,
+  "meaning" : [ "颜色，色彩；（人的）特色，特质；（服装的）领，衣领；染发" ],
+  "notes" : [ "来自英语单词\"color\"，除基础义项外，在日语中也常用表示染发、衣领的含义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1447,
+  "word" : "カリスマ",
+  "reading" : "かりすま",
+  "romaji" : null,
+  "meaning" : [ "源自英语「charisma」，本义指神授的超凡能力，现指吸引人追随的领袖魅力、感召力，也可指具备超凡魅力、极具影响力的人气人物" ],
+  "notes" : [ "外来语，源自英语charisma" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1448,
+  "word" : "カルシウム",
+  "reading" : "かるしうむ",
+  "romaji" : null,
+  "meaning" : [ "钙（化学元素，符号Ca，原子序数20；也指食品、营养中的钙质）" ],
+  "notes" : [ "来源于英语单词\"calcium\"的外来语，是人体必需的营养元素，主要用于营养学、化学领域。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1449,
+  "word" : "カルテ",
+  "reading" : "かるて",
+  "romaji" : null,
+  "meaning" : [ "病历，病历卡，诊断记录，源自德语Karte" ],
+  "notes" : [ "该词是来自德语的外来语，在日本医疗领域广泛使用，不仅指记录纸本身，也可指记录的诊断内容" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1450,
+  "word" : "カレー",
+  "reading" : "からー",
+  "romaji" : null,
+  "meaning" : [ "咖喱，咖喱饭" ],
+  "notes" : [ "源自英语\"curry\"，是日语中对咖喱及咖喱饭的常用称呼。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1451,
+  "word" : "カレー［ライス］",
+  "reading" : "かれー［らいす］",
+  "romaji" : null,
+  "meaning" : [ "咖喱；咖喱饭" ],
+  "notes" : [ "「カレー」单独使用时也常指代咖喱饭，全称一般为「カレーライス」，是日本非常普及的大众料理。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1452,
+  "word" : "カロリー",
+  "reading" : "カロリー",
+  "romaji" : null,
+  "meaning" : [ "热量，卡路里（热量单位，音译自英语calorie）" ],
+  "notes" : [ "这是源自英语「calorie」的外来语，是用于表示食物热量的能量单位，日常饮食、健身领域常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1453,
+  "word" : "カンニング",
+  "reading" : "かんにんぐ",
+  "romaji" : null,
+  "meaning" : [ "（考试等场合的）作弊，偷看作弊" ],
+  "notes" : [ "该词源自英语“cunning”，作名词使用，变动词词性为「カンニングする」" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1454,
+  "word" : "カーソル",
+  "reading" : "かーそる",
+  "romaji" : null,
+  "meaning" : [ "（计算机界面的）光标，指针" ],
+  "notes" : [ "源自英语单词「cursor」，是IT领域常用外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1455,
+  "word" : "カーテン",
+  "reading" : "かーてん",
+  "romaji" : null,
+  "meaning" : [ "窗帘；（舞台的）幕布" ],
+  "notes" : [ "来源于英语单词\"curtain\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1456,
+  "word" : "カード",
+  "reading" : "カード",
+  "romaji" : null,
+  "meaning" : [ "1. 卡，卡片；2. 纸牌，扑克牌；3. 信用卡；4. （游戏、身份等用途的）卡" ],
+  "notes" : [ "源自英语单词\"card\"，是日语外来语，可用于多种卡片类物品的统称。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1457,
+  "word" : "カーナビ",
+  "reading" : "かーなび",
+  "romaji" : null,
+  "meaning" : [ "汽车导航仪，是「カーナビゲーション（car navigation）」的省略说法" ],
+  "notes" : [ "日语外来语，是英语「car navigation」的缩略形式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1458,
+  "word" : "カーブ",
+  "reading" : "かーぶ",
+  "romaji" : null,
+  "meaning" : [ "1. 转弯，弯道；2. 弯曲，曲线；3.（棒球运动中的）曲线球；4.（美发的）卷发烫" ],
+  "notes" : [ "源自英语单词\"curve\"的日语外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1459,
+  "word" : "カーペット",
+  "reading" : "かーぺっと",
+  "romaji" : null,
+  "meaning" : [ "地毯，源于英语carpet，指铺在地面的覆盖物" ],
+  "notes" : [ "外来语，和「絨毯（じゅうたん）」语义相近，日常使用频率较高" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1460,
+  "word" : "ガイド",
+  "reading" : "ガイド",
+  "romaji" : null,
+  "meaning" : [ "1. 导游，向导；2. 指南，手册，入门指导；3. 引导，指引，导航" ],
+  "notes" : [ "该词是英语「guide」的外来语，除名词用法外也可作为サ変動詞使用，如「ガイドする」表示引导、做向导" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1461,
+  "word" : "ガイドブック",
+  "reading" : "ガイドブック",
+  "romaji" : null,
+  "meaning" : [ "旅行指南；参考手册，指南手册" ],
+  "notes" : [ "源自英语\"guidebook\"的外来语，是日语中常用的舶来词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1462,
+  "word" : "ガス",
+  "reading" : "ガス",
+  "romaji" : null,
+  "meaning" : [ "气体；煤气，燃气；天然气；（麻醉用）气体；毒气" ],
+  "notes" : [ "来自英语单词\"gas\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1463,
+  "word" : "ガソリン",
+  "reading" : "ガソリン",
+  "romaji" : null,
+  "meaning" : [ "汽油（源自英文gasoline），是汽车等内燃机车使用的燃料" ],
+  "notes" : [ "该词为来自英语的外来语名词，日语中重音在第一个音节，原标注的0型声调标注正确，通常省略声调数字也可正常认读" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1464,
+  "word" : "ガム",
+  "reading" : "がむ",
+  "romaji" : null,
+  "meaning" : [ "口香糖；也可指树胶、树脂" ],
+  "notes" : [ "来源于英语单词“gum”的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1465,
+  "word" : "ガーゼ",
+  "reading" : "がーぜ",
+  "romaji" : null,
+  "meaning" : [ "纱布，脱脂纱布；也可指 gauze（薄纱、网纱）类织物" ],
+  "notes" : [ "源自英语单词“gauze”的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1466,
+  "word" : "ガード",
+  "reading" : "がーど",
+  "romaji" : null,
+  "meaning" : [ "1. 警卫，守卫；保安人员 2. 防卫，防御，防护 3.（体育）防守，后卫 4.（铁道等的）护栏，防护装置" ],
+  "notes" : [ "源自英语单词\"guard\"的外来语，可作为名词使用，也可构成サ変動詞「ガードする」使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1467,
+  "word" : "ガードレール",
+  "reading" : "がーどれーる",
+  "romaji" : null,
+  "meaning" : [ "（道路的）护栏，防撞护栏" ],
+  "notes" : [ "来源于英语单词\"guardrail\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1468,
+  "word" : "ガール",
+  "reading" : "がーる",
+  "romaji" : null,
+  "meaning" : [ "少女，女孩；（特定职业的）年轻女性" ],
+  "notes" : [ "来源于英语单词\"girl\"的外来语，日常生活中也常用于组成复合词，例如ガールフレンド（女朋友）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1469,
+  "word" : "キッチン",
+  "reading" : "きっちん",
+  "romaji" : null,
+  "meaning" : [ "厨房，灶间，（家庭的）做饭区域" ],
+  "notes" : [ "源自英语单词\"kitchen\"，属于外来语，在日语中既可以指专业餐厅的厨房，也常用来指家庭住宅中的烹饪区域。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1470,
+  "word" : "キツネ",
+  "reading" : "きつね",
+  "romaji" : null,
+  "meaning" : [ "狐狸，狐；（歌舞伎的）狐角色；（日式点心）油炸豆腐" ],
+  "notes" : [ "日语中习惯将油炸豆腐称为「キツネ」，因此添加了油炸豆腐配料的乌冬面被叫做「きつねうどん」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1471,
+  "word" : "キツネうどん",
+  "reading" : "きつねうどん",
+  "romaji" : null,
+  "meaning" : [ "狐狸乌冬面，是日本常见的乌冬面料理，指在乌冬面上放上一块调味油炸豆腐（油揚げ）制成的面食。因传说狐狸喜欢吃油炸豆腐，因此得名" ],
+  "notes" : [ "也写作「狐うどん」，对应搭配了油炸豆腐的荞麦面被称为「キツネそば」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1472,
+  "word" : "キャッシュ",
+  "reading" : "きゃっしゅ",
+  "romaji" : null,
+  "meaning" : [ "1. 現金，現款；2.（電腦領域）緩存，高速緩衝存儲器" ],
+  "notes" : [ "原词为英语cash，除常用的现金含义外，在信息技术领域广泛使用缓存这一含义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1473,
+  "word" : "キャッチ",
+  "reading" : "きゃっち",
+  "romaji" : null,
+  "meaning" : [ "1. 捕捉，捕获；接住（球等）；2.（棒球）接球；3. 接收（信号、信息等）；4. 理解，领会；5. 抓，握住" ],
+  "notes" : [ "外来语，源自英语\"catch\"，可作为名词使用，也可后续「する」作サ変活用动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1474,
+  "word" : "キャッチフレーズ",
+  "reading" : "キャッチフレーズ",
+  "romaji" : null,
+  "meaning" : [ "广告词，宣传口号，标语，吸引人的宣传语" ],
+  "notes" : [ "源自英语catch phrase，是日语外来语词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1475,
+  "word" : "キャプテン",
+  "reading" : "キャプテン",
+  "romaji" : null,
+  "meaning" : [ "1. 队长，领队（团队、运动队的负责人）；2. 船长；舰长；机长；3. （运动队的）主将队长" ],
+  "notes" : [ "来源于英语单词\"captain\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1476,
+  "word" : "キャベツ",
+  "reading" : "きゃべつ",
+  "romaji" : null,
+  "meaning" : [ "圆白菜，卷心菜，包菜" ],
+  "notes" : [ "源自英语外来语cabbage" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1477,
+  "word" : "キャラクター",
+  "reading" : "キャラクター",
+  "romaji" : null,
+  "meaning" : [ "1.（小说、影视、游戏等的）登场人物，角色；2.性格，品性，特性；3.（品牌等的）形象代言人，形象角色；4.字符，文字符号" ],
+  "notes" : [ "源自英语单词\"character\"，日常中也常缩略为「キャラ」使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1478,
+  "word" : "キャリア",
+  "reading" : "キャリア",
+  "romaji" : null,
+  "meaning" : [ "履历；职业生涯；（也指）职业经历、职业生涯规划、 carriers（承载者，载波，极少数语境使用）" ],
+  "notes" : [ "源自英语单词\"career\"，是日语外来语，除了履历、职业生涯的常用含义外，在医学、通信等专业领域还有\"承载者\"\"载波\"等专业含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1479,
+  "word" : "キャンセル",
+  "reading" : "キャンセル",
+  "romaji" : null,
+  "meaning" : [ "取消；作废；注销" ],
+  "notes" : [ "来源于英语单词\"cancel\"，可作为名词使用，也可加する构成さ変動詞。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1480,
+  "word" : "キャンパス",
+  "reading" : "キャンパス",
+  "romaji" : null,
+  "meaning" : [ "大学校园，（大学的）校区；泛指校园" ],
+  "notes" : [ "源自英语campus，日语中多用于指代大学的校区、校园，较少用于中小学" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1481,
+  "word" : "キャンプ",
+  "reading" : "きゃんぷ",
+  "romaji" : null,
+  "meaning" : [ "1. 露营，野营（户外休闲活动）；2. 营地，露营地；3. 帐篷；4. （运动员的）集训营" ],
+  "notes" : [ "该词是源自英语camp的外来语，作动词使用时需后续「する」构成サ変動詞。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1482,
+  "word" : "キャンペーン",
+  "reading" : "キャンペーン",
+  "romaji" : null,
+  "meaning" : [ "1.（政治等的）运动，竞选活动；2.宣传活动，促销活动；3.（广告、营销）推广活动" ],
+  "notes" : [ "源自英语单词\"campaign\"，是日语外来词，在营销、政治等场景中广泛使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1483,
+  "word" : "キャンセル",
+  "reading" : "きゃんせる",
+  "romaji" : null,
+  "meaning" : [ "1. 名词义：取消，废除，注销；（航班、赛事等的）中止，取消 2. 动词义：取消，废除，注销" ],
+  "notes" : [ "原词「キャンヤル」为拼写错误，正确拼写为来自英语cancel的外来语「キャンセル」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1484,
+  "word" : "キャー",
+  "reading" : "キャー",
+  "romaji" : null,
+  "meaning" : [ "感叹词，多用于女性、年轻人在感到惊讶、害羞、惊喜、恐怖等强烈情绪时发出的喊声，相当于中文的“呀！”“哇！”“哎呀！”" ],
+  "notes" : [ "是感叹词，属于口语中的拟声感叹语气词，日常对话中常用" ],
+  "pos" : "INTERJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1485,
+  "word" : "キンモクセイ",
+  "reading" : "キンモクセイ",
+  "romaji" : null,
+  "meaning" : [ "木犀，金桂，丹桂，是木犀科木犀属的常绿灌木或乔木，秋季开浓香的黄色小花" ],
+  "notes" : [ "对应中文也常称作金木犀，与开白花的ギンモクセイ（银桂）对应" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1486,
+  "word" : "キーホルダー",
+  "reading" : "キーホルダー",
+  "romaji" : null,
+  "meaning" : [ "钥匙扣，钥匙挂坠，源自英文key holder，指用来悬挂钥匙的饰品配件" ],
+  "notes" : [ "外来语，也可写作「キーホルダ」，是日语中对钥匙挂饰的常用称呼" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1487,
+  "word" : "キーボード",
+  "reading" : "きーぼーど",
+  "romaji" : null,
+  "meaning" : [ "键盘，指用于输入文字、指令的计算机或电子设备外设；也可指乐器、打字机等的键盘部分" ],
+  "notes" : [ "源自英语“keyboard”的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1488,
+  "word" : "ギター",
+  "reading" : "ぎたー",
+  "romaji" : null,
+  "meaning" : [ "吉他（英文guitar的音译外来词，指弹拨弦鸣乐器吉他）" ],
+  "notes" : [ "外来语，来自英语guitar，属于音乐类常用名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1489,
+  "word" : "ギャップ",
+  "reading" : "ぎゃっぷ",
+  "romaji" : null,
+  "meaning" : [ "裂缝，裂口；差距，差异；分歧，隔阂；（外形、性格等的）反差" ],
+  "notes" : [ "来源于英语单词“gap”的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1490,
+  "word" : "ギャラ",
+  "reading" : "ぎゃら",
+  "romaji" : null,
+  "meaning" : [ "出场费，演出费；（ギャラリー的略称）画廊，美术展览，观众" ],
+  "notes" : [ "是日语外来语ギャランティ（guarantee）、ギャラリー（gallery）的缩略语，最常用义为演艺相关的出场费、演出费" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1491,
+  "word" : "ギャンブル",
+  "reading" : "ギャンブル",
+  "romaji" : null,
+  "meaning" : [ "1. 赌博；2. 投机，冒险性行为" ],
+  "notes" : [ "来源于英语单词\"gamble\"，也可作サ変活用动词使用，如「ギャンブルをする」「ギャンブルに興じる」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1492,
+  "word" : "クイズ",
+  "reading" : "クイズ",
+  "romaji" : null,
+  "meaning" : [ "猜谜，智力问答，问答竞赛" ],
+  "notes" : [ "源自英语单词\"quiz\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1493,
+  "word" : "クイズ番組",
+  "reading" : "クイズばんぐみ",
+  "romaji" : null,
+  "meaning" : [ "智力竞赛节目，问答节目，指以问答竞赛为内容的电视或广播节目" ],
+  "notes" : [ "由外来语「クイズ」（quiz，问答、智力竞赛）和和语「番組」（节目）复合而成的名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1494,
+  "word" : "クエスチョンマーク",
+  "reading" : "くえすちょんまーく",
+  "romaji" : null,
+  "meaning" : [ "问号，英文question mark的日语外来语，指标点符号「？」" ],
+  "notes" : [ "源自英语外来语，也可简称「クエ」，对应中文标点符号问号「？」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1495,
+  "word" : "クッキー",
+  "reading" : "くっきー",
+  "romaji" : null,
+  "meaning" : [ "1. 曲奇饼干，西式甜饼干；2.（计算机领域）Cookie，网络站点为识别用户身份存储在本地终端的数据" ],
+  "notes" : [ "该词是源自英语「cookie」的外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1496,
+  "word" : "クモ",
+  "reading" : "クモ",
+  "romaji" : null,
+  "meaning" : [ "蜘蛛；（转指）蛛网" ],
+  "notes" : [ "汉字可写作「蜘蛛」，常用假名表记" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1497,
+  "word" : "クライマックス",
+  "reading" : "くらいまっくす",
+  "romaji" : null,
+  "meaning" : [ "1.（戏剧、小说、电影等文艺作品的）高潮，最高潮；2.顶点，最高峰，巅峰" ],
+  "notes" : [ "外来语，源自英语单词\"climax\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1498,
+  "word" : "クラシック",
+  "reading" : "くらしっく",
+  "romaji" : null,
+  "meaning" : [ "1. 名词义：古典音乐；2. 形容动词义：古典风格的，传统经典的" ],
+  "notes" : [ "来自英语\"classic\"的外来语，可作名词和形容动词使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1499,
+  "word" : "クラス",
+  "reading" : "ku ra su",
+  "romaji" : null,
+  "meaning" : [ "班级；等级；（社交、运动等的）阶层，等级；（网球等球类的）同级组" ],
+  "notes" : [ "该词是英语\"class\"的外来语，除基础含义外，还可用于表示社会阶层、体育赛事中的同级分组等场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1500,
+  "word" : "クラスメート",
+  "reading" : "くらすめーと",
+  "romaji" : null,
+  "meaning" : [ "同班同学，同班同学（来自英语classmate，指同一个班级的同学）" ],
+  "notes" : [ "也可表记为クラスメイト，是来自英语classmate的外来语，属于日语教育基础词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

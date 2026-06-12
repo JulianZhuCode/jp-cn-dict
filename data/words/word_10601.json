@@ -1,0 +1,901 @@
+[ {
+  "id" : 10601,
+  "word" : "追求",
+  "reading" : "ついきゅう",
+  "romaji" : null,
+  "meaning" : [ "积极地寻求、探求；执着地追寻（目标、理想等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10602,
+  "word" : "追究",
+  "reading" : "ついきゅう",
+  "romaji" : null,
+  "meaning" : [ "深入调查、追查、探究；责问、追究责任等" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10603,
+  "word" : "追跡",
+  "reading" : "ついせき",
+  "romaji" : null,
+  "meaning" : [ "追踪；追查；跟踪" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10604,
+  "word" : "退かす",
+  "reading" : "どかす",
+  "romaji" : null,
+  "meaning" : [ "让⋯⋯躲开；挪走，搬走；使退避，使让开" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10605,
+  "word" : "退く",
+  "reading" : "どく",
+  "romaji" : null,
+  "meaning" : [ "躲开，让开；退出，离开；后退，撤退；辞官，退职" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10606,
+  "word" : "退ける",
+  "reading" : "しりぞける",
+  "romaji" : null,
+  "meaning" : [ "挪开，移开；击退，赶跑；排除，消除" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10607,
+  "word" : "退勤",
+  "reading" : "たいきん",
+  "romaji" : null,
+  "meaning" : [ "下班；下班时间" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10608,
+  "word" : "退化",
+  "reading" : "たいか",
+  "romaji" : null,
+  "meaning" : [ "生物体の器官や構造が、進化の逆方向に変化すること。また、一般に、機能や能力が低下すること。/ （生物体的器官或结构向进化的相反方向变化。此外，一般指功能或能力下降。）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10609,
+  "word" : "退学",
+  "reading" : "たいがく",
+  "romaji" : null,
+  "meaning" : [ "学生が、学業を途中でやめること。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10610,
+  "word" : "退屈",
+  "reading" : "たいくつ",
+  "romaji" : null,
+  "meaning" : [ "无聊；没趣；烦闷；寂寞" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10611,
+  "word" : "退治",
+  "reading" : "たいじ",
+  "romaji" : null,
+  "meaning" : [ "扑灭，消灭；打退；（祭祀等）祓除" ],
+  "notes" : [ "「退治」是サ变动词，常以「～を退治する」的形式使用" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10612,
+  "word" : "退社",
+  "reading" : "たいしゃ",
+  "romaji" : null,
+  "meaning" : [ "辞职，退职；（下班）离开公司" ],
+  "notes" : [ "「退社する」是其常见的动词形式，在口语等中有时也会简化说成「退社」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10613,
+  "word" : "退職",
+  "reading" : "たいしょく",
+  "romaji" : null,
+  "meaning" : [ "辞职；退职；退休" ],
+  "notes" : [ "「退職する」是其动词形式，属于サ变动词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10614,
+  "word" : "退路",
+  "reading" : "たいろ",
+  "romaji" : null,
+  "meaning" : [ "退避する道。後路。また、事態が悪化したときの身の寄り道。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10615,
+  "word" : "退院",
+  "reading" : "たいいん",
+  "romaji" : null,
+  "meaning" : [ "（病人等）出院" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10616,
+  "word" : "送ります",
+  "reading" : "おくります",
+  "romaji" : null,
+  "meaning" : [ "送；寄；派遣；打发；送（人）；送别；运送；发送" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10617,
+  "word" : "送り状",
+  "reading" : "おくりじょう",
+  "romaji" : null,
+  "meaning" : [ "发货单；送货单；托运单" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10618,
+  "word" : "送り迎え",
+  "reading" : "おくりむかえ",
+  "romaji" : null,
+  "meaning" : [ "迎送，接送；迎来送往" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10619,
+  "word" : "送る",
+  "reading" : "おくる0",
+  "romaji" : null,
+  "meaning" : [ "1. 送，寄送（信件、包裹等）；2. 派遣，打发；3. 赠送，授予；4. 送别，送行；5. 发射（火箭等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10620,
+  "word" : "送付",
+  "reading" : "そうふ",
+  "romaji" : null,
+  "meaning" : [ "寄送；发送；寄出" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10621,
+  "word" : "送別",
+  "reading" : "そうべつ",
+  "romaji" : null,
+  "meaning" : [ "送别，送行" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10622,
+  "word" : "送別会",
+  "reading" : "そうべつかい",
+  "romaji" : null,
+  "meaning" : [ "欢送会，送别会" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10623,
+  "word" : "送料",
+  "reading" : "そうりょう",
+  "romaji" : null,
+  "meaning" : [ "运费，邮费" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10624,
+  "word" : "送金",
+  "reading" : "そうきん",
+  "romaji" : null,
+  "meaning" : [ "汇款，寄钱" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10625,
+  "word" : "逃がす",
+  "reading" : "にがす",
+  "romaji" : null,
+  "meaning" : [ "放跑；使逃脱；错过（机会等）；没抓住（机会等）；让…溜掉" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10626,
+  "word" : "逃げます",
+  "reading" : "にげます",
+  "romaji" : null,
+  "meaning" : [ "逃跑；逃避；溜走" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10627,
+  "word" : "逃げる",
+  "reading" : "にげる",
+  "romaji" : null,
+  "meaning" : [ "逃跑；逃避，推卸；躲避（风雨等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10628,
+  "word" : "逃げ出す",
+  "reading" : "にげだす",
+  "romaji" : null,
+  "meaning" : [ "急忙从某个地方逃走、跑开；偷偷地溜出" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10629,
+  "word" : "逃す",
+  "reading" : "のがす",
+  "romaji" : null,
+  "meaning" : [ "错过；放过；让……逃跑；使溜掉" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10630,
+  "word" : "逃れる",
+  "reading" : "のがれる",
+  "romaji" : null,
+  "meaning" : [ "1. 逃跑，逃脱；2. 逃避，躲避；3. 摆脱，脱离" ],
+  "notes" : [ "「逃れる」是自动词，常与から等格助词搭配使用，表示从某个场所、状态等逃脱或逃避。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10631,
+  "word" : "逃亡",
+  "reading" : "とうぼう",
+  "romaji" : null,
+  "meaning" : [ "逃走，逃跑，逃亡；（资金等）外流" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10632,
+  "word" : "逃避",
+  "reading" : "とうひ",
+  "romaji" : null,
+  "meaning" : [ "躲开、避开不想面对的人、事物、情况等；回避" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10633,
+  "word" : "逆",
+  "reading" : "ぎゃく",
+  "romaji" : null,
+  "meaning" : [ "1. 相反，反；倒。2. 违背；逆。3. 逆运算。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10634,
+  "word" : "逆らう",
+  "reading" : "さからう",
+  "romaji" : null,
+  "meaning" : [ "1. 逆着，与……相反（方向等）；2. 违抗，违背（命令、意愿等）；3. 不顺从，违背（自然规律、常理等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10635,
+  "word" : "逆上",
+  "reading" : "そりあがり",
+  "romaji" : null,
+  "meaning" : [ "（因激愤、悲痛等）血充上头，勃然大怒；（物价等）飞涨，暴涨" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10636,
+  "word" : "逆光",
+  "reading" : "ぎゃっこう",
+  "romaji" : null,
+  "meaning" : [ "从背后射来的光；逆着光线。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10637,
+  "word" : "逆境",
+  "reading" : "ぎゃくじょう",
+  "romaji" : null,
+  "meaning" : [ "不顺利的境遇；逆境" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10638,
+  "word" : "逆様",
+  "reading" : "さかさま",
+  "romaji" : null,
+  "meaning" : [ "颠倒；相反；倒转；反向" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10639,
+  "word" : "逆転",
+  "reading" : "ぎゃくてん",
+  "romaji" : null,
+  "meaning" : [ "1. 向相反方向转变，逆转，反转。2. 位置、顺序等倒过来，颠倒。" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10640,
+  "word" : "逆輸入する",
+  "reading" : "ぎゃくゆにゅうする",
+  "romaji" : null,
+  "meaning" : [ "（原本出口的商品等）反向进口，再输入" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10641,
+  "word" : "透き通る",
+  "reading" : "すきとおる",
+  "romaji" : null,
+  "meaning" : [ "1. 透明，能透过；2. 清澈；3. 看透，洞悉" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10642,
+  "word" : "透徹",
+  "reading" : "とうてつ",
+  "romaji" : null,
+  "meaning" : [ "透彻，彻底；（目光等）锐利、犀利" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10643,
+  "word" : "透明",
+  "reading" : "とうめい",
+  "romaji" : null,
+  "meaning" : [ "物体等能透过光线，清澈、无遮挡，可清晰看见另一侧的情况；也可形容人的性格、意图等坦率、无隐瞒。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10644,
+  "word" : "途上",
+  "reading" : "とじょう",
+  "romaji" : null,
+  "meaning" : [ "途中，路上；（事物发展的）过程中，进程中" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10645,
+  "word" : "途中",
+  "reading" : "とちゅう",
+  "romaji" : null,
+  "meaning" : [ "1. 过程中；2. 中途；3. 路上" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10646,
+  "word" : "途切れる",
+  "reading" : "とぎれる",
+  "romaji" : null,
+  "meaning" : [ "中断，间断，断绝；（声音等）突然停止；（关系等）断绝" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10647,
+  "word" : "途方もない",
+  "reading" : "とほうもない",
+  "romaji" : null,
+  "meaning" : [ "毫无道理的；出奇的，惊人的，非常大的；难以置信的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10648,
+  "word" : "途端",
+  "reading" : "とたん",
+  "romaji" : null,
+  "meaning" : [ "表示前项动作、状态发生后，紧接着发生了后项动作、状态，可译为“正当……的时候；刚一……就；一……就……”" ],
+  "notes" : [ "" ],
+  "pos" : "PART",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10649,
+  "word" : "途絶える",
+  "reading" : "とだえる",
+  "romaji" : null,
+  "meaning" : [ "断绝，中断；停止，中止" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10650,
+  "word" : "這う",
+  "reading" : "はう",
+  "romaji" : null,
+  "meaning" : [ "爬行；（植物）攀缘，爬；（人）匍匐前进；（时间等）缓缓流逝" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10651,
+  "word" : "通います",
+  "reading" : "かよいます",
+  "romaji" : null,
+  "meaning" : [ "来往，往返；定期去（学校、公司等场所）；上学；上班；常去" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10652,
+  "word" : "通う",
+  "reading" : "つう",
+  "romaji" : null,
+  "meaning" : [ "往返；定期往返于（学校、工作地点等）；上学，上班；经常出入（某处）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10653,
+  "word" : "通じます",
+  "reading" : "つうじます",
+  "romaji" : null,
+  "meaning" : [ "1. 相通，相连；2. 通晓，精通；3. 传达，通报；4. 通过，穿过；5. 通用，适用" ],
+  "notes" : [ "「通じる」的ます形，五段动词特殊变化，词尾「る」变为「り」后续「ます」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10654,
+  "word" : "通じる",
+  "reading" : "つうじる",
+  "romaji" : null,
+  "meaning" : [ "通；通行；通往；通过；传达；使理解；精通；通晓；相通" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10655,
+  "word" : "通す",
+  "reading" : "とおす",
+  "romaji" : null,
+  "meaning" : [ "1. 使通过，使穿过；2. 使（电话等）接通；3. 持续，坚持到底；4. 使通行，使通过（检查等）；5. 透过，看穿" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10656,
+  "word" : "通り",
+  "reading" : "とおり",
+  "romaji" : null,
+  "meaning" : [ "1. 道路，街道；2. 来往，通行；3. 样子，情形；4. 按照，如同" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10657,
+  "word" : "通りかかる",
+  "reading" : "とおりかかる",
+  "romaji" : null,
+  "meaning" : [ "路过，经过；恰巧路过" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10658,
+  "word" : "通ります",
+  "reading" : "とおります",
+  "romaji" : null,
+  "meaning" : [ "通过，经过；沿着……走；按照，依据" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10659,
+  "word" : "通り抜けます",
+  "reading" : "とおりぬけます",
+  "romaji" : null,
+  "meaning" : [ "穿过，通过；（从人群等中）穿行而过；（在比赛等中）顺利通过（某一阶段等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10660,
+  "word" : "通り抜ける",
+  "reading" : "とおりぬける",
+  "romaji" : null,
+  "meaning" : [ "穿过；通过；穿行；走过" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10661,
+  "word" : "通り過ぎる",
+  "reading" : "とおりすぎる",
+  "romaji" : null,
+  "meaning" : [ "走过，经过；超过，超出（某范围、限度等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10662,
+  "word" : "通る",
+  "reading" : "とおる",
+  "romaji" : null,
+  "meaning" : [ "通过，经过；通往，通向；流通，通行；精通，熟悉" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10663,
+  "word" : "通信",
+  "reading" : "つうしん",
+  "romaji" : null,
+  "meaning" : [ "通信；通讯；信息传递" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10664,
+  "word" : "通信手段",
+  "reading" : "つうしんしゅだん",
+  "romaji" : null,
+  "meaning" : [ "通讯手段；通信手段" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10665,
+  "word" : "通信販売",
+  "reading" : "つうしんはんばい",
+  "romaji" : null,
+  "meaning" : [ "邮购；通过通信手段进行的商品销售方式，包括电话订购、网络购物等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10666,
+  "word" : "通勤",
+  "reading" : "つうきん",
+  "romaji" : null,
+  "meaning" : [ "从家到工作地点或学校等的往来；上下班，上下学" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10667,
+  "word" : "通勤ラッシュ",
+  "reading" : "つうきんラッシュ",
+  "romaji" : null,
+  "meaning" : [ "上下班高峰，通勤高峰" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10668,
+  "word" : "通報",
+  "reading" : "つうほう",
+  "romaji" : null,
+  "meaning" : [ "通报，通知；报告，汇报" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10669,
+  "word" : "通学",
+  "reading" : "つうがく",
+  "romaji" : null,
+  "meaning" : [ "每天往返于家庭和学校之间上学；走读" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10670,
+  "word" : "通帳",
+  "reading" : "つうちょう",
+  "romaji" : null,
+  "meaning" : [ "存折，银行存折；账本，账册" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10671,
+  "word" : "通常",
+  "reading" : "つうじょう",
+  "romaji" : null,
+  "meaning" : [ "一般的な状況や普通の場合。平常、普通。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10672,
+  "word" : "通念",
+  "reading" : "つうねん",
+  "romaji" : null,
+  "meaning" : [ "普遍的想法，普遍观念，一般观念；通常的看法" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10673,
+  "word" : "通用",
+  "reading" : "つうよう",
+  "romaji" : null,
+  "meaning" : [ "①普遍适用；通用。②（货币、票据等）流通，通用。③（在某个范围内）通行，通用。" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10674,
+  "word" : "通知",
+  "reading" : "つうち",
+  "romaji" : null,
+  "meaning" : [ "通知；通告；消息" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10675,
+  "word" : "通行",
+  "reading" : "つうこう",
+  "romaji" : null,
+  "meaning" : [ "（行人、車両などが）通り抜けること。往来。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10676,
+  "word" : "通行止め",
+  "reading" : "つうこうどめ",
+  "romaji" : null,
+  "meaning" : [ "禁止通行；禁止通行的标识" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10677,
+  "word" : "通行禁止",
+  "reading" : "つうこうきんし",
+  "romaji" : null,
+  "meaning" : [ "名詞。通行を禁止すること。また、その指示を表す標識。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10678,
+  "word" : "通訳",
+  "reading" : "つうやく",
+  "romaji" : null,
+  "meaning" : [ "翻译；口译；口译员" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10679,
+  "word" : "通路",
+  "reading" : "つうろ",
+  "romaji" : null,
+  "meaning" : [ "通道，过道；（电路等的）通路，导通" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10680,
+  "word" : "通過",
+  "reading" : "つうか",
+  "romaji" : null,
+  "meaning" : [ "1. （从空间上）通过，穿过；2. （议案等）通过；3. （考试等）通过" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10681,
+  "word" : "通達",
+  "reading" : "つうたつ",
+  "romaji" : null,
+  "meaning" : [ "1. 通知，通告；2. 精通，熟悉；3. 迅速到达，顺利抵达" ],
+  "notes" : [ "「通達」作为“通知，通告”义时，常以「～の通達」或「～を通達する」的形式使用；作为“精通，熟悉”义时，一般用「～に通達する」的表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10682,
+  "word" : "逞しい",
+  "reading" : "たくましい",
+  "romaji" : null,
+  "meaning" : [ "1. 健壮的，强壮的；2. 旺盛的；3. 了不起的，出色的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10683,
+  "word" : "速い",
+  "reading" : "はやい",
+  "romaji" : null,
+  "meaning" : [ "快的；迅速的；速度快；敏捷的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10684,
+  "word" : "速い、早い",
+  "reading" : "はやい②",
+  "romaji" : null,
+  "meaning" : [ "速い：速度快；早い：时间上早、快，也可表示提前、预先等" ],
+  "notes" : [ "“速い”更侧重于速度方面，“早い”使用场景更广泛，可用于时间等方面" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10685,
+  "word" : "速さ",
+  "reading" : "はやさ",
+  "romaji" : null,
+  "meaning" : [ "速度；快速，迅速" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10686,
+  "word" : "速める",
+  "reading" : "はやめる",
+  "romaji" : null,
+  "meaning" : [ "使……加速，加快；提高（速度等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10687,
+  "word" : "速やか",
+  "reading" : "すみやか",
+  "romaji" : null,
+  "meaning" : [ "迅速的，及时的；立即，马上" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10688,
+  "word" : "速度",
+  "reading" : "そくど",
+  "romaji" : null,
+  "meaning" : [ "运动的物体在某个方向上单位时间内所通过的距离；事情进行的快慢程度。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10689,
+  "word" : "速達",
+  "reading" : "そくたつ",
+  "romaji" : null,
+  "meaning" : [ "快件；快信；快递（邮件、包裹等）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10690,
+  "word" : "連なる",
+  "reading" : "つななる",
+  "romaji" : null,
+  "meaning" : [ "1. 相连，连接，连绵；2. 排队，列队；3. 列席，参加；4. 关系到，关联" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10691,
+  "word" : "連ねる",
+  "reading" : "つらねる",
+  "romaji" : null,
+  "meaning" : [ "排列成行；罗列；使相连；使连贯；连同；包括" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10692,
+  "word" : "連れ",
+  "reading" : "つれ",
+  "romaji" : null,
+  "meaning" : [ "同伴；伴侣；伙伴；一同前往的人" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10693,
+  "word" : "連れて来ます",
+  "reading" : "つれてきます",
+  "romaji" : null,
+  "meaning" : [ "带（某人或某物）来；领着……来；伴随……而来" ],
+  "notes" : [ "「連れる」是五段动词，「来る」是特殊动词，二者结合构成此表达方式。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10694,
+  "word" : "連れて行きます",
+  "reading" : "つれていきます",
+  "romaji" : null,
+  "meaning" : [ "带（某人）去；领着（某人）去" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10695,
+  "word" : "連れます",
+  "reading" : "つれます",
+  "romaji" : null,
+  "meaning" : [ "带，领；陪同，带着（某人）；携带（某物）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10696,
+  "word" : "連れる",
+  "reading" : "つれる",
+  "romaji" : null,
+  "meaning" : [ "带；领；领（某人）去；带着（某物）；伴同；伴随" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10697,
+  "word" : "連れ出す",
+  "reading" : "つれだす",
+  "romaji" : null,
+  "meaning" : [ "把（人或物）带出去、领出去；带出（某种情绪、状态等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10698,
+  "word" : "連中",
+  "reading" : "れんちゅう",
+  "romaji" : null,
+  "meaning" : [ "伙伴，同伙（多含轻蔑或调侃意味）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10699,
+  "word" : "連休",
+  "reading" : "れんきゅう",
+  "romaji" : null,
+  "meaning" : [ "连续的休息日，连休" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10700,
+  "word" : "連合",
+  "reading" : "れんごう",
+  "romaji" : null,
+  "meaning" : [ "联合；合并；联盟；结合" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

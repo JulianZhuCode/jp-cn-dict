@@ -1,0 +1,901 @@
+[ {
+  "id" : 10201,
+  "word" : "請求書",
+  "reading" : "せいきゅうしょ",
+  "romaji" : null,
+  "meaning" : [ "帐单，付款通知单" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10202,
+  "word" : "論じる",
+  "reading" : "論じる（ろんじる）",
+  "romaji" : null,
+  "meaning" : [ "1. 论述，阐明；2. 争论，辩论；3. 考虑，衡量" ],
+  "notes" : [ "「論じる」は比較的硬い表現で、学術的や正式な場面でよく使われます。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10203,
+  "word" : "論争",
+  "reading" : "ろんそう",
+  "romaji" : null,
+  "meaning" : [ "争论，争辩；论战" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10204,
+  "word" : "論文",
+  "reading" : "ろんぶん",
+  "romaji" : null,
+  "meaning" : [ "论文，学术性文章" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10205,
+  "word" : "論点",
+  "reading" : "ろんてん",
+  "romaji" : null,
+  "meaning" : [ "论点，争论的中心点；讨论的焦点" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10206,
+  "word" : "論理",
+  "reading" : "ろんり",
+  "romaji" : null,
+  "meaning" : [ "逻辑；道理；论理学，逻辑学" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10207,
+  "word" : "諦め",
+  "reading" : "あきらめ",
+  "romaji" : null,
+  "meaning" : [ "断念，死心，想开；放弃，认输" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10208,
+  "word" : "諦める",
+  "reading" : "あきらめる",
+  "romaji" : null,
+  "meaning" : [ "死心，放弃；不再指望；断念" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10209,
+  "word" : "諭す",
+  "reading" : "さとす",
+  "romaji" : null,
+  "meaning" : [ "1. 教诲，教导；2. 告知，通知；3. 使理解，使领会" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10210,
+  "word" : "諮る",
+  "reading" : "たずねる",
+  "romaji" : null,
+  "meaning" : [ "1. 请教，咨询，求教。向他人询问并听取意见。2. 磋商，商议。与他人商量事情。" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10211,
+  "word" : "諺",
+  "reading" : "ことわざ",
+  "romaji" : null,
+  "meaning" : [ "谚语，俗语" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10212,
+  "word" : "謀る",
+  "reading" : "はかる",
+  "romaji" : null,
+  "meaning" : [ "策划；谋划；图谋；考虑；衡量；估计；测定；测算" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10213,
+  "word" : "謎",
+  "reading" : "なぞ",
+  "romaji" : null,
+  "meaning" : [ "谜语；谜；谜团；不解之谜；暗示" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10214,
+  "word" : "謙虚",
+  "reading" : "けんきょ",
+  "romaji" : null,
+  "meaning" : [ "谦虚，谦逊；虚心" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10215,
+  "word" : "謙譲",
+  "reading" : "けんじょう",
+  "romaji" : null,
+  "meaning" : [ "谦让，谦逊；（权利、利益等的）让渡，出让" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10216,
+  "word" : "謙遜",
+  "reading" : "けんそん",
+  "romaji" : null,
+  "meaning" : [ "谦逊，谦虚；谦恭的态度或行为" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10217,
+  "word" : "講じる",
+  "reading" : "こうじる",
+  "romaji" : null,
+  "meaning" : [ "1. 采取（措施等）；2. 举行，举办；3. 讲说，朗读" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10218,
+  "word" : "講堂",
+  "reading" : "こうどう",
+  "romaji" : null,
+  "meaning" : [ "礼堂；讲堂；大教室" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10219,
+  "word" : "講壇",
+  "reading" : "こうだん",
+  "romaji" : null,
+  "meaning" : [ "讲台；讲坛；（基督教等的）布道坛" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10220,
+  "word" : "講師",
+  "reading" : "こうし",
+  "romaji" : null,
+  "meaning" : [ "讲师；演讲者" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10221,
+  "word" : "講座",
+  "reading" : "こうざ",
+  "romaji" : null,
+  "meaning" : [ "（为学习某一专门知识或技术等而开设的）讲座；（大学等的）课程，学科" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10222,
+  "word" : "講演",
+  "reading" : "こうえん",
+  "romaji" : null,
+  "meaning" : [ "演讲，演说" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10223,
+  "word" : "講義",
+  "reading" : "こうぎ",
+  "romaji" : null,
+  "meaning" : [ "1. 讲义；2. （大学里等的）授课，讲课；3. 讲解，解说" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10224,
+  "word" : "講習",
+  "reading" : "こうしゅう",
+  "romaji" : null,
+  "meaning" : [ "（集中的に）学問や技術などを学ぶこと。また、そのための行事。/集中学习学问、技术等的行为。也指为此而举办的活动。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10225,
+  "word" : "謝ります",
+  "reading" : "あやまります",
+  "romaji" : null,
+  "meaning" : [ "道歉；谢罪；感谢；酬谢" ],
+  "notes" : [ "「謝る」的ます形。除了道歉的意思外，在一些场合还有感谢、酬谢等含义" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10226,
+  "word" : "謝る",
+  "reading" : "あやまる",
+  "romaji" : null,
+  "meaning" : [ "道歉；谢罪；认错；承认错误；感谢；酬谢；辞去（职务等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10227,
+  "word" : "謝絶",
+  "reading" : "しゃぜつ",
+  "romaji" : null,
+  "meaning" : [ "谢绝，拒绝；辞谢" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10228,
+  "word" : "謝罪",
+  "reading" : "しゃざい",
+  "romaji" : null,
+  "meaning" : [ "谢罪，道歉" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10229,
+  "word" : "謹んで",
+  "reading" : "つつしんで",
+  "romaji" : null,
+  "meaning" : [ "恭敬地；郑重地；谨慎地" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10230,
+  "word" : "警備",
+  "reading" : "けいび",
+  "romaji" : null,
+  "meaning" : [ "警戒；警备；警卫；戒备" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10231,
+  "word" : "警備員",
+  "reading" : "けいびいん",
+  "romaji" : null,
+  "meaning" : [ "警卫员，保安人员" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10232,
+  "word" : "警告",
+  "reading" : "けいこく",
+  "romaji" : null,
+  "meaning" : [ "警告；告诫；训诫" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10233,
+  "word" : "警告",
+  "reading" : "けいこく",
+  "romaji" : null,
+  "meaning" : [ "警告；告诫" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10234,
+  "word" : "警官",
+  "reading" : "けいかん",
+  "romaji" : null,
+  "meaning" : [ "警察，警官" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10235,
+  "word" : "警察",
+  "reading" : "けいさつ",
+  "romaji" : null,
+  "meaning" : [ "警察；警察机关" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10236,
+  "word" : "警察官",
+  "reading" : "けいさつかん",
+  "romaji" : null,
+  "meaning" : [ "警察，警官" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10237,
+  "word" : "警察署",
+  "reading" : "けいさつしょ",
+  "romaji" : null,
+  "meaning" : [ "警察局，警察机关的基层单位" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10238,
+  "word" : "警戒",
+  "reading" : "けいかい",
+  "romaji" : null,
+  "meaning" : [ "警戒，防范；警惕，提防" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10239,
+  "word" : "警部",
+  "reading" : "けいぶ",
+  "romaji" : null,
+  "meaning" : [ "日本警察的一种职称，位于警视之下、警部补之上。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10240,
+  "word" : "議会",
+  "reading" : "ぎかい",
+  "romaji" : null,
+  "meaning" : [ "国家や地方公共団体などの意思決定や立法などのために設けられた機関。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10241,
+  "word" : "議員",
+  "reading" : "ぎいん",
+  "romaji" : null,
+  "meaning" : [ "议员" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10242,
+  "word" : "議案",
+  "reading" : "ぎあん",
+  "romaji" : null,
+  "meaning" : [ "提交会议讨论决定的建议、提案等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10243,
+  "word" : "議決",
+  "reading" : "ぎけつ",
+  "romaji" : null,
+  "meaning" : [ "会议等通过投票等方式对议案等作出决定；决议，表决" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10244,
+  "word" : "議論",
+  "reading" : "ぎろん",
+  "romaji" : null,
+  "meaning" : [ "议论，讨论，争论；（学术等方面的）论点，见解" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10245,
+  "word" : "議長",
+  "reading" : "ぎちょう",
+  "romaji" : null,
+  "meaning" : [ "会议等的主持人、司仪；议会等的议长、主席" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10246,
+  "word" : "譲る",
+  "reading" : "ゆずる0",
+  "romaji" : null,
+  "meaning" : [ "1. 让，让给；2. 转让；3. 让步，妥协；4. 亚于，比不上" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10247,
+  "word" : "譲歩",
+  "reading" : "じょうほ",
+  "romaji" : null,
+  "meaning" : [ "让步；妥协；退让" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10248,
+  "word" : "護身術",
+  "reading" : "ごしんじゅつ",
+  "romaji" : null,
+  "meaning" : [ "用于保护自己身体免受侵害的技能、技巧；防身术" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10249,
+  "word" : "谷",
+  "reading" : "たに",
+  "romaji" : null,
+  "meaning" : [ "山谷，山沟；（事物发展过程中的）低谷，低落时期" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10250,
+  "word" : "谷間",
+  "reading" : "たにま",
+  "romaji" : null,
+  "meaning" : [ "山谷间；山涧，峡谷" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10251,
+  "word" : "豆",
+  "reading" : "まめ",
+  "romaji" : null,
+  "meaning" : [ "豆类；大豆；豆子" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10252,
+  "word" : "豆乳",
+  "reading" : "とうにゅう",
+  "romaji" : null,
+  "meaning" : [ "豆浆" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10253,
+  "word" : "豆腐",
+  "reading" : "とうふ",
+  "romaji" : null,
+  "meaning" : [ "豆腐" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10254,
+  "word" : "豊か",
+  "reading" : "ゆたか",
+  "romaji" : null,
+  "meaning" : [ "丰富的；富裕的；充裕的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10255,
+  "word" : "豊作",
+  "reading" : "ほうさく",
+  "romaji" : null,
+  "meaning" : [ "丰收，收成好的年份" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10256,
+  "word" : "豊富",
+  "reading" : "ほうふ0",
+  "romaji" : null,
+  "meaning" : [ "丰富，充裕，繁多" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10257,
+  "word" : "豚",
+  "reading" : "ぶた",
+  "romaji" : null,
+  "meaning" : [ "猪；猪肉" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10258,
+  "word" : "豚肉",
+  "reading" : "ぶたにく",
+  "romaji" : null,
+  "meaning" : [ "猪肉" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10259,
+  "word" : "豚肉の四川風唐辛子炒め",
+  "reading" : "ぶたにくのしせんふうとうがらしいため",
+  "romaji" : null,
+  "meaning" : [ "名词，猪肉炒四川风味辣椒（并非鱼香肉丝，鱼香肉丝是豚肉のユーシャン風炒め）" ],
+  "notes" : [ "原条目中含义错误，此为猪肉炒四川风味辣椒，不是鱼香肉丝" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10260,
+  "word" : "象",
+  "reading" : "ぞう",
+  "romaji" : null,
+  "meaning" : [ "大象" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10261,
+  "word" : "象徴",
+  "reading" : "しょうちょう",
+  "romaji" : null,
+  "meaning" : [ "象征；标志；代表性的人或事物" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10262,
+  "word" : "豪華",
+  "reading" : "ごうか",
+  "romaji" : null,
+  "meaning" : [ "豪华，奢华；华丽，壮丽" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10263,
+  "word" : "豪華客船",
+  "reading" : "ごうかきゃくせん",
+  "romaji" : null,
+  "meaning" : [ "豪华的客船" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10264,
+  "word" : "豪雨",
+  "reading" : "ごうう",
+  "romaji" : null,
+  "meaning" : [ "暴雨，大雨" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10265,
+  "word" : "貝殻",
+  "reading" : "かいがら",
+  "romaji" : null,
+  "meaning" : [ "贝壳" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10266,
+  "word" : "負かす",
+  "reading" : "まけす",
+  "romaji" : null,
+  "meaning" : [ "打败，战胜；使……失败；讲价，杀价" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10267,
+  "word" : "負け",
+  "reading" : "まけ",
+  "romaji" : null,
+  "meaning" : [ "输，失败；（比赛、竞争等中的）败北，失利" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10268,
+  "word" : "負けず劣らず",
+  "reading" : "まけずおとらず",
+  "romaji" : null,
+  "meaning" : [ "势均力敌，不相上下；不逊色，不亚于" ],
+  "notes" : [ "" ],
+  "pos" : "PRENOM",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10269,
+  "word" : "負けます",
+  "reading" : "まけます",
+  "romaji" : null,
+  "meaning" : [ "输，落败；输给，败于；未中，未猜中；不如，比不上" ],
+  "notes" : [ "动词原形为「負ける」，常见搭配如「負け犬（まけいぬ）」表示“败犬，失败者（多形容女性）” 。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10270,
+  "word" : "負んぶ",
+  "reading" : "おんぶ",
+  "romaji" : null,
+  "meaning" : [ "（让别人）背在背上；背负在背上的人（尤指小孩）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10271,
+  "word" : "負債",
+  "reading" : "ふさい",
+  "romaji" : null,
+  "meaning" : [ "负债，欠债" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10272,
+  "word" : "負傷",
+  "reading" : "ふしょう",
+  "romaji" : null,
+  "meaning" : [ "受伤，负伤" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10273,
+  "word" : "負傷者",
+  "reading" : "ふしょうしゃ",
+  "romaji" : null,
+  "meaning" : [ "受伤的人；负伤者" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10274,
+  "word" : "負担",
+  "reading" : "ふたん",
+  "romaji" : null,
+  "meaning" : [ "名词。1. （经济、精神等方面的）负担；2. （物理上的）负荷，载重" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10275,
+  "word" : "財務",
+  "reading" : "ざいむ",
+  "romaji" : null,
+  "meaning" : [ "财务，财政事务" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10276,
+  "word" : "財布",
+  "reading" : "さいふ",
+  "romaji" : null,
+  "meaning" : [ "钱包；皮夹子" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10277,
+  "word" : "財政",
+  "reading" : "ざいせい",
+  "romaji" : null,
+  "meaning" : [ "国家、地方公共団体、企業などの収支や資金の運用などに関する事務。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10278,
+  "word" : "財産",
+  "reading" : "ざいさん",
+  "romaji" : null,
+  "meaning" : [ "财产；资产" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10279,
+  "word" : "貢献",
+  "reading" : "こうけん",
+  "romaji" : null,
+  "meaning" : [ "贡献，为集体、社会等做有益的事；所做的有益的事" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10280,
+  "word" : "貧しい",
+  "reading" : "まずしい",
+  "romaji" : null,
+  "meaning" : [ "贫穷的；贫乏的；不足的；微薄的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10281,
+  "word" : "貧乏",
+  "reading" : "びんぼう",
+  "romaji" : null,
+  "meaning" : [ "贫穷，贫困；贫乏，缺乏" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10282,
+  "word" : "貧困",
+  "reading" : "ひんこん",
+  "romaji" : null,
+  "meaning" : [ "贫困，贫穷；贫乏" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10283,
+  "word" : "貧弱",
+  "reading" : "ひんじゃく",
+  "romaji" : null,
+  "meaning" : [ "① （身体、力量等）虚弱，衰弱；② （能力、水平等）低劣，差；③ （数量、内容等）贫乏，不足；④ 寒碜，简陋" ],
+  "notes" : [ "形容动词，词尾为「だ」，连接名词时用「な」，连接动词、形容词、其他形容动词或副词时用「に」" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10284,
+  "word" : "貧血",
+  "reading" : "ひんけつ",
+  "romaji" : null,
+  "meaning" : [ "贫血；比喻缺乏活力、生气等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10285,
+  "word" : "貨物",
+  "reading" : "かもつ",
+  "romaji" : null,
+  "meaning" : [ "货物；货运；载货；运输的物品" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10286,
+  "word" : "販売",
+  "reading" : "はんばい",
+  "romaji" : null,
+  "meaning" : [ "销售，出售" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10287,
+  "word" : "販売促進",
+  "reading" : "はんばいそくしん",
+  "romaji" : null,
+  "meaning" : [ "促销，销售促进" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10288,
+  "word" : "販売員",
+  "reading" : "はんばいいん",
+  "romaji" : null,
+  "meaning" : [ "销售人员，售货员" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10289,
+  "word" : "販売ルート",
+  "reading" : "はんばいルート",
+  "romaji" : null,
+  "meaning" : [ "销售渠道，营销渠道" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10290,
+  "word" : "貪る",
+  "reading" : "むさぼる",
+  "romaji" : null,
+  "meaning" : [ "贪图；贪恋；垂涎；渴望得到" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10291,
+  "word" : "貫く",
+  "reading" : "つらぬく",
+  "romaji" : null,
+  "meaning" : [ "1. 穿过，穿透；2. 贯彻，坚持到底；3. 贯通，连通" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10292,
+  "word" : "貫禄",
+  "reading" : "かんろく",
+  "romaji" : null,
+  "meaning" : [ "威严，威信；品格，风度；（江户时代）高级武家等穿的礼服。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10293,
+  "word" : "責める",
+  "reading" : "せめる",
+  "romaji" : null,
+  "meaning" : [ "责备；指责；追究责任；要求；催逼；折磨；（体育比赛等中）紧逼" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10294,
+  "word" : "責任",
+  "reading" : "せきにん",
+  "romaji" : null,
+  "meaning" : [ "1. 份内应做的事。2. 没有做好份内应做的事，因而应当承担的过失。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10295,
+  "word" : "責任を取る",
+  "reading" : "せきにんをとる",
+  "romaji" : null,
+  "meaning" : [ "负责任，承担责任" ],
+  "notes" : [ "" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10296,
+  "word" : "責任者",
+  "reading" : "せきにんしゃ",
+  "romaji" : null,
+  "meaning" : [ "负责人；责任人" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10297,
+  "word" : "責務",
+  "reading" : "せきむ",
+  "romaji" : null,
+  "meaning" : [ "责任与义务，职责" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10298,
+  "word" : "貯める",
+  "reading" : "ためる",
+  "romaji" : null,
+  "meaning" : [ "存储；积蓄；积攒（钱、物等）；储蓄" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10299,
+  "word" : "貯水槽",
+  "reading" : "ちょすいそう",
+  "romaji" : null,
+  "meaning" : [ "储水槽，蓄水池" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10300,
+  "word" : "貯水池",
+  "reading" : "ちょすいち",
+  "romaji" : null,
+  "meaning" : [ "储存水的池子，蓄水池" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

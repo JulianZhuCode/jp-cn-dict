@@ -1,0 +1,901 @@
+[ {
+  "id" : 4001,
+  "word" : "及ぼす",
+  "reading" : "およぼす",
+  "romaji" : null,
+  "meaning" : [ "1. 影响到，波及，使受到影响；2. 达到，及于；3. 给予（恩惠、影响等）" ],
+  "notes" : [ "「及ぼす」多用于表示抽象的影响、作用的传递，主语多为事件、行为、事物等，宾语常为「影響」「作用」「影響力」等词汇。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4002,
+  "word" : "友",
+  "reading" : "とも",
+  "romaji" : null,
+  "meaning" : [ "朋友，友人；伙伴，同伴；（工作上的）同事" ],
+  "notes" : [ "通常用于口语或较为随意的语境中，书面语里更常用「友人（ゆうじん）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4003,
+  "word" : "友人",
+  "reading" : "ゆうじん",
+  "romaji" : null,
+  "meaning" : [ "朋友，友人；熟人" ],
+  "notes" : [ "日常及书面语中均可使用，比「ともだち（友達）」更偏向正式或书面表达" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4004,
+  "word" : "友好",
+  "reading" : "ゆうこう",
+  "romaji" : null,
+  "meaning" : [ "1. 名词：国与国、人与人之间亲善和睦的关系；2. ナ形容词：亲善和睦的，友好的" ],
+  "notes" : [ "作为ナ形容词使用时，可后续「な」修饰名词，后续「に」作状语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4005,
+  "word" : "友情",
+  "reading" : "ゆうじょう",
+  "romaji" : null,
+  "meaning" : [ "朋友之间的情谊、友谊" ],
+  "notes" : [ "可用于书面语和口语，常与「大切にする」「深める」「壊れる」等动词搭配使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4006,
+  "word" : "友達",
+  "reading" : "ともだち",
+  "romaji" : null,
+  "meaning" : [ "朋友，友人；伙伴，同伴" ],
+  "notes" : [ "常用作口语表达，较为随意，正式场合可使用「友人（ゆうじん）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4007,
+  "word" : "双子",
+  "reading" : "ふたご",
+  "romaji" : null,
+  "meaning" : [ "双胞胎；孪生儿；一对，两个相似的事物" ],
+  "notes" : [ "可构成复合词如「双子児（ふたごじ）」表示双胞胎婴儿，日常对话中常用「双子」指代双胞胎兄弟姐妹。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4008,
+  "word" : "反する",
+  "reading" : "はんする",
+  "romaji" : null,
+  "meaning" : [ "1. 相反，相悖；2. 违反，违背" ],
+  "notes" : [ "多用来表示与预期、规则、常识等内容相悖或违反的情况，可接「～に」构成「～に反する」的形式使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4009,
+  "word" : "反る",
+  "reading" : "そる",
+  "romaji" : null,
+  "meaning" : [ "1. 翘，弯曲（物体因干燥、外力等发生变形，向相反方向翘起）；2. 身子向后弯，仰身；3. 违背，违反（规则、约定等）" ],
+  "notes" : [ "「反る」作为“违背”义使用时，多以「～を反る」的形式出现，且该用法较为书面化" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4010,
+  "word" : "反乱",
+  "reading" : "はんらん",
+  "romaji" : null,
+  "meaning" : [ "名词・自动词サ变：叛乱，反叛，造反，暴动；（内心的）混乱，骚动" ],
+  "notes" : [ "作为サ変動詞使用时，常以「反乱を起こす」「反乱する」的形式出现" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4011,
+  "word" : "反乱/叛乱",
+  "reading" : "はんらん",
+  "romaji" : null,
+  "meaning" : [ "1. 叛乱，谋反，造反；2. 暴动，骚乱" ],
+  "notes" : [ "「反乱」と「叛乱」は意味的にほぼ同義ですが、「反乱」は比較的規模の小さい騒乱や抵抗を指すこともあり、「叛乱」は国家権力に対する組織的な謀反を指す場合が多いです。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4012,
+  "word" : "反則",
+  "reading" : "はんそく",
+  "romaji" : null,
+  "meaning" : [ "1. （体育比赛等的）犯规；2. （规则、规定等的）违反，违规" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「反則する」的动词形式，主要用于体育赛事场景或各类规则遵守相关的语境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4013,
+  "word" : "反対",
+  "reading" : "はんたい",
+  "romaji" : null,
+  "meaning" : [ "1. 反对；相反；对立 2. 相反的事物；对立面" ],
+  "notes" : [ "作为な形容词使用时可后续「だ・で・な」等活用形；作为名词时可构成「反対する」（サ変動詞）的动词形式，表示“反对”的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4014,
+  "word" : "反射",
+  "reading" : "はんしゃ",
+  "romaji" : null,
+  "meaning" : [ "1.（光・音・熱などが障害物にあたって跳ね返る）反射；2.（生理的に刺激に対して無意識に反応する）反射；3.（過去の経験などをもとに無意識に反応する）条件反射，本能反应" ],
+  "notes" : [ "「反射」は名詞としても使用可能で、「反射現象」「反射神経」のように複合語を作ることも多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4015,
+  "word" : "反応",
+  "reading" : "はんのう",
+  "romaji" : null,
+  "meaning" : [ "1. 反应，生理、化学反应；2. 反响，回应，对事物的回应态度；3. 感应，对刺激的回应动作" ],
+  "notes" : [ "作为名词时可后续「する」构成サ变动词使用，在表示生理、化学反应及社会反响等场景中常用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4016,
+  "word" : "反感",
+  "reading" : "はんかん",
+  "romaji" : null,
+  "meaning" : [ "对人或事物产生的抵触、厌恶的情绪" ],
+  "notes" : [ "可作サ変動詞使用，表记为「反感する」，意为“产生反感，抵触”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4017,
+  "word" : "反抗",
+  "reading" : "はんこう",
+  "romaji" : null,
+  "meaning" : [ "1. 反抗，抗拒，抵触；2. 反对，对抗，不服从" ],
+  "notes" : [ "作为サ变他动词使用时，常以「～に反抗する」的形式搭配对象名词；也可单独作为名词使用，如「反抗の態度（反抗的态度）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4018,
+  "word" : "反抗する",
+  "reading" : "はんこうする",
+  "romaji" : null,
+  "meaning" : [ "违背、抗拒、反抗，指不服从上级、权威或既定规则，采取对抗的态度或行为。" ],
+  "notes" : [ "「反抗～」是该动词的连用形或词干形式，完整动词为「反抗する」；常用于描述对权威、规则、长辈等的抵触行为。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4019,
+  "word" : "反撃",
+  "reading" : "はんげき",
+  "romaji" : null,
+  "meaning" : [ "1. （受到攻击后进行的）反击，还击；2. （在竞争、论战等场合的）反击，反驳" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「反撃する」的形式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4020,
+  "word" : "反映",
+  "reading" : "はんえい",
+  "romaji" : null,
+  "meaning" : [ "1. （光・音・熱などを）反射；2. （事物の内容・性質などを）反映，体现；3. （意見・要望などを）反映，纳入考虑" ],
+  "notes" : [ "作为サ変动词，可构成「反映する」「反映させる」等活用形，在表示“纳入意见”等含义时，多使用被动形式「反映される」或使役形式「反映させる」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4021,
+  "word" : "反発",
+  "reading" : "はんぱつ",
+  "romaji" : null,
+  "meaning" : [ "1. 排斥，抵触；2. 反感，抗拒；3. （物理）反弹，反作用力；4. （行情、数值等）回升，反弹" ],
+  "notes" : [ "作为名词使用时可后续「する」构成サ变他动词，可用于物理现象、人际关系、经济行情等多种场景" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4022,
+  "word" : "反省",
+  "reading" : "はんせい",
+  "romaji" : null,
+  "meaning" : [ "1. 反省，反思，回顾自身行为并认识错误；2. （对自己的言行）自我检讨" ],
+  "notes" : [ "作为サ変動詞使用时可后续「する」，构成「反省する」的动词形式，名词形式可直接使用，如「反省の念」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4023,
+  "word" : "反面",
+  "reading" : "はんめん",
+  "romaji" : null,
+  "meaning" : [ "1. 物体的另一面；2. 事物的相反方面、对立面；3. 另一方面（用于指出与前述内容相对的情况）" ],
+  "notes" : [ "作为副词使用时，多用来引出与前文相对立的内容，常与「～が」「～だが」等搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4024,
+  "word" : "反響",
+  "reading" : "はんきょう",
+  "romaji" : null,
+  "meaning" : [ "1. 反响，反应（指外界对某事物的回应、反馈）；2. 回音，回声（声音被反射回来的声响）" ],
+  "notes" : [ "可作为サ変動詞「反響する」使用，表示产生反响、回响" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4025,
+  "word" : "収まる",
+  "reading" : "おさまる",
+  "romaji" : null,
+  "meaning" : [ "1. 容纳，装下；2. 收纳，整理好；3. 平息，平静下来；4. 稳定，安定；5. 符合，合适；6. 得到解决，了结；7. 恢复（健康、状态）" ],
+  "notes" : [ "作为自动词，主语多为物品、状态、事态等，强调自然达成容纳、安定等结果；与他动词「収める」相对应。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4026,
+  "word" : "収める",
+  "reading" : "おさめる",
+  "romaji" : null,
+  "meaning" : [ "1. 缴纳，交纳（税金、会费等）；2. 收藏，收纳，整理；3. 结束，完毕（工作、活动等）；4. 获得，取得（成果、荣誉等）；5. 平定，平息（混乱、叛乱等）" ],
+  "notes" : [ "「収める」是他动词，对应的自动词为「収まる（おさまる）」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4027,
+  "word" : "収入",
+  "reading" : "しゅうにゅう",
+  "romaji" : null,
+  "meaning" : [ "收入，所得；进款，进项" ],
+  "notes" : [ "可构成复合词如「収入源（しゅうにゅうげん）」（收入来源）、「収入簿（しゅうにゅうぼ）」（收入账簿）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4028,
+  "word" : "収容",
+  "reading" : "しゅよう",
+  "romaji" : null,
+  "meaning" : [ "1. 收容，容纳，接纳（人、物等使其进入特定场所或设施）；2. 收容，收留（收容所等接收流浪者、难民等）；3. 包含，容纳（内容、范围等涵盖）" ],
+  "notes" : [ "作为サ変动词，可构成「収容する」的动词形式，常用于设施容纳量、人员救助收容、内容涵盖等场景。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4029,
+  "word" : "収支",
+  "reading" : "しゅうし",
+  "romaji" : null,
+  "meaning" : [ "收支，收支情况；盈亏" ],
+  "notes" : [ "可构成复合词如「収支決算（しゅうしけっさん）」，意为收支决算" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4030,
+  "word" : "収益",
+  "reading" : "しゅうえき",
+  "romaji" : null,
+  "meaning" : [ "1. 收益，盈利，所得的利益；2. （企业等的）营业收入，获利额" ],
+  "notes" : [ "多用于商业、经济领域，指通过经营、投资等活动获得的实际利益" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4031,
+  "word" : "収穫",
+  "reading" : "しゅうかく",
+  "romaji" : null,
+  "meaning" : [ "1. 名词：农作物等的收获；获得的成果、收益；2. サ変動詞：收获（农作物）；取得成果、获益" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「収穫する」「収穫できる」等形式，除指实物收获外，也常用于抽象的成果获取场景" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4032,
+  "word" : "収賄",
+  "reading" : "しゅうわい",
+  "romaji" : null,
+  "meaning" : [ "受贿，接受贿赂（指公职人员等利用职务之便，收受他人提供的财物或不正当利益的行为）" ],
+  "notes" : [ "作为サ变动词使用时，可构成「収賄する」的形式，属于正式且带有法律性质的词汇，多用于描述公职人员等的违法违纪行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4033,
+  "word" : "収集",
+  "reading" : "しゅうしゅう",
+  "romaji" : null,
+  "meaning" : [ "收集、搜集，指将分散的物品、信息、资料等集中到一起；也可指对特定对象进行系统性的汇集整理" ],
+  "notes" : [ "作为サ变动词，常以「収集する」的形式使用，可用于书面语和口语，涉及范围广泛，包括实物、信息、情报等多种对象" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4034,
+  "word" : "取っ手",
+  "reading" : "とって",
+  "romaji" : null,
+  "meaning" : [ "1. （器物的）把儿，把手，手柄；2. （方便抓握、搬运的）提手，拉手；3. （处理事物的）线索，头绪，着手点" ],
+  "notes" : [ "该词除了表示器物的把手外，还可引申为处理事情的切入点、线索，属于多义名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4035,
+  "word" : "取りかかる",
+  "reading" : "とりかかる",
+  "romaji" : null,
+  "meaning" : [ "1. 着手，开始做；2. 动工，启动（工作、项目等）；3. 开始处理，着手应对" ],
+  "notes" : [ "多接在「～に」的形式后，表示针对某件具体的工作、任务等开始行动，强调正式启动并投入其中的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4036,
+  "word" : "取り箸",
+  "reading" : "とりばし②",
+  "romaji" : null,
+  "meaning" : [ "公用筷子，公筷；分餐筷" ],
+  "notes" : [ "通常用于多人共餐时，避免直接接触食物，保持卫生的专用筷子" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4037,
+  "word" : "取ります",
+  "reading" : "とります",
+  "romaji" : null,
+  "meaning" : [ "1. 拿，取，取走；2. 获得，取得；3. 除去，去掉；4. 吃，喝，服用；5. 上（年纪）［年を取る］；6. 采取（措施、态度等）；7. 录用，雇用" ],
+  "notes" : [ "「取ります」是动词「取る（とる）」的ます形，属于五段动词的ます形活用；含义丰富，需根据上下文判断具体语义。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4038,
+  "word" : "取りまとめる",
+  "reading" : "とりまとめる",
+  "romaji" : null,
+  "meaning" : [ "1. 归纳，汇总，整理；2. 调解，调停，斡旋" ],
+  "notes" : [ "「取りまとめる」是他动词，既可以用于对事物的整理汇总，也可用于对人际关系、纠纷等的调解调停。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4039,
+  "word" : "取りやめる",
+  "reading" : "とりやめる",
+  "romaji" : null,
+  "meaning" : [ "中止，停止，作罢；取消预定、计划等" ],
+  "notes" : [ "多用来表示主动取消原本预定进行的行动、计划或约定，涉及预先安排的事项时使用更贴切" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4040,
+  "word" : "取り上げる",
+  "reading" : "とりあげる",
+  "romaji" : null,
+  "meaning" : [ "1. 拿起，举起；2. 采纳，采用；3. 报道，介绍；4. 没收，征用；5. 受理，处理" ],
+  "notes" : [ "该动词含义丰富，需根据上下文区分具体语义；作为「一段动词」，活用规则为词尾「げる」变为「げ」后续活用形。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4041,
+  "word" : "取り下げる",
+  "reading" : "とりさげる",
+  "romaji" : null,
+  "meaning" : [ "1. 撤销、撤回（申请、提案、诉讼等）；2. 取下、拿下（悬挂、放置的物品）；3. 降低（价格、要求等）" ],
+  "notes" : [ "该动词根据语境不同有多种含义，最常用的为「撤销申请、提案」类用法，取下物品时多针对悬挂、高处放置的物件。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4042,
+  "word" : "取り乱す",
+  "reading" : "とりみだす",
+  "romaji" : null,
+  "meaning" : [ "1. 弄乱，打乱，把物品等弄得乱七八糟；2. 慌张，慌乱，因惊慌或激动而失去冷静，举止失措" ],
+  "notes" : [ "「取り乱す」可用于描述物品状态被打乱，也可形容人的情绪或行为失控，其自动词形式为「乱れる（みだれる）」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4043,
+  "word" : "取り付ける",
+  "reading" : "とりつける",
+  "romaji" : null,
+  "meaning" : [ "1. 安装、装设（设备、器具等）；2. 附上、贴上（标签、贴纸等）；3. 任命、委派（职务等）；4. 使（人）习惯于、使适应" ],
+  "notes" : [ "作为他动词使用，对象通常为具体物品或抽象的职务、适应状态等；「取り付く」为其自动词形式，意为“安装上、附着、适应”" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4044,
+  "word" : "取り入れる",
+  "reading" : "とりいれる",
+  "romaji" : null,
+  "meaning" : [ "1. 引进，引入，采用；2. 收割，收获；3. 接纳，收容；4. 吸收，摄取" ],
+  "notes" : [ "该词含义丰富，需根据上下文判断具体语义；作为一段动词，活用遵循一段动词规则，未然形为「取り入れ」+「ない/られる」等" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4045,
+  "word" : "取り出す",
+  "reading" : "とりだす",
+  "romaji" : null,
+  "meaning" : [ "1. 拿出，取出；2. 选出，挑出；3. 发掘，提炼；4. 支取（钱款等）" ],
+  "notes" : [ "该动词可用于具体物品的拿取，也可用于抽象事物的提炼、选取，还可指金融场景下的钱款支取。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4046,
+  "word" : "取り囲む",
+  "reading" : "とりかこむ",
+  "romaji" : null,
+  "meaning" : [ "1. 围绕，包围，围拢；2. 笼络，拉拢；3. 笼罩，充满" ],
+  "notes" : [ "可用于具象的包围动作，也可用于抽象的氛围、人际关系等语境" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4047,
+  "word" : "取り寄せる",
+  "reading" : "とりよせる",
+  "romaji" : null,
+  "meaning" : [ "1. （向外地、厂家等）订购，函购，邮购；2. （从别处）调过来，取来，叫来" ],
+  "notes" : [ "该动词常用于从距离较远的地方获取物品或资料，对象多为无法直接在本地获取的商品、文献等。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4048,
+  "word" : "取り巻く",
+  "reading" : "とりまく",
+  "romaji" : null,
+  "meaning" : [ "1. 围住、围绕、环绕；2. （人员）簇拥、包围；3. 笼罩、弥漫" ],
+  "notes" : [ "自动词、他动词两用，作为他动词使用时可表示刻意包围、笼络他人" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4049,
+  "word" : "取り引き",
+  "reading" : "とりひき",
+  "romaji" : null,
+  "meaning" : [ "1. 交易，买卖，生意；2. 交涉，谈判；3. （人与人之间的）往来，交际" ],
+  "notes" : [ "可作为サ変動詞「取り引きする」使用，意为进行交易、交涉" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4050,
+  "word" : "取り戻す",
+  "reading" : "とりもどす",
+  "romaji" : null,
+  "meaning" : [ "1. 取回、拿回、收回（失去或遗落的物品等）；2. 挽回、恢复（失去的状态、名誉、时间等）；3. 重新获得（失去的权利、机会等）" ],
+  "notes" : [ "「取り戻す」可用于具体物品的取回，也可用于抽象的状态、权益等的恢复或挽回，是日常及书面场景都常用的动词。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4051,
+  "word" : "取り扱い",
+  "reading" : "とりあつかい",
+  "romaji" : null,
+  "meaning" : [ "1. 办理，处理，处置；2. 对待，待遇；3. 经营，经销；4. 使用，操作" ],
+  "notes" : [ "该词汇也可作为サ变动词「取り扱う」的名词形式使用，含义与动词对应" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4052,
+  "word" : "取り扱う",
+  "reading" : "とりあつかう",
+  "romaji" : null,
+  "meaning" : [ "1. 对待、接待（人）；2. 操作、使用（机器、工具等）；3. 处理、办理（事务、案件等）；4. 经销、售卖（商品）" ],
+  "notes" : [ "该动词可灵活搭配人、物品、事务等不同对象，根据搭配对象含义会有所侧重。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4053,
+  "word" : "取り替えます",
+  "reading" : "とりかえます",
+  "romaji" : null,
+  "meaning" : [ "1. 更换，替换；2. 交换，互换" ],
+  "notes" : [ "「取り替えます」是动词「取り替える」的ます形，多用于物品的更换、互换场景，可搭配具体物品或抽象事物使用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4054,
+  "word" : "取り替える",
+  "reading" : "とりかえる",
+  "romaji" : null,
+  "meaning" : [ "1. 交换，互换；2. 更换，替换（将旧的、坏的换成新的或其他的）；3. 调换（位置、顺序等）" ],
+  "notes" : [ "「取り替える」强调将原有物品替换为其他物品，可用于物品、位置、人员等多种对象；其名词形式为「取り替え」（とりかえ）。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4055,
+  "word" : "取り次ぐ",
+  "reading" : "とりつぐ",
+  "romaji" : null,
+  "meaning" : [ "1. 传达，转达，传递（话语、信息等）；2. 经销，代销，代办（商品、业务等）；3. 居间斡旋，从中牵线" ],
+  "notes" : [ "作「传达、转达」义时，多用于职场、业务等正式场景，常搭配「～に～を取り次ぐ」的结构；作「经销、代销」义时，一般指店铺或机构代理销售特定商品" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4056,
+  "word" : "取り決める",
+  "reading" : "とりきめる",
+  "romaji" : null,
+  "meaning" : [ "1. 商定，约定，议定；2. 规定，制定（规则、条款等）；3. 确定（事项、条件等）" ],
+  "notes" : [ "该词侧重于通过双方或多方协商后达成一致的决定，多用于正式场合的约定、规则制定等场景。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4057,
+  "word" : "取り消す",
+  "reading" : "とりけす",
+  "romaji" : null,
+  "meaning" : [ "1. 取消，作废，撤销；2. 废除，解除；3. 收回（前言、发言等）" ],
+  "notes" : [ "该动词可接を构成他动词使用，常见搭配有「予約を取り消す」「命令を取り消す」等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4058,
+  "word" : "取り混ぜる",
+  "reading" : "とりまぜる",
+  "romaji" : null,
+  "meaning" : [ "1. 掺杂，混合；2. 搅和，搅混；3. 混同，混淆" ],
+  "notes" : [ "该动词可用于具体物品的混合，也可用于抽象概念的混同；其名词形式为「取り混ぜ（とりまぜ）」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4059,
+  "word" : "取り立てる",
+  "reading" : "とりたてる",
+  "romaji" : null,
+  "meaning" : [ "1. 索取，催收（款项、债务等）；2. 提拔，提拔重用；3. 特别提及，强调，特意指出" ],
+  "notes" : [ "当表示「催收」含义时，多与「家賃」「借金」「料金」等款项类名词搭配；表示「特别提及」时，常与「特に」「あえて」等副词连用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4060,
+  "word" : "取り組み",
+  "reading" : "とりくみ0",
+  "romaji" : null,
+  "meaning" : [ "1. 措施，举措，对策；2. 努力，奋斗，致力于某事的行动；3. （两人）较量，交手，对抗" ],
+  "notes" : [ "该词由动词「取り組む」（とりくむ）的ます形名词化而来，既可以表示针对某问题的具体应对措施，也可指投入精力进行的努力行为，还可用于描述双方的对抗、较量场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4061,
+  "word" : "取り組む",
+  "reading" : "とりくむ",
+  "romaji" : null,
+  "meaning" : [ "1. 致力于，埋头于，专心从事；2. 同...较量，对抗；3. 采取（某种态度、措施）应对" ],
+  "notes" : [ "当表示“致力于”时，常与「〜に」搭配；表示“对抗、较量”时，常与「〜と」搭配。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4062,
+  "word" : "取り締まる",
+  "reading" : "とりしまる",
+  "romaji" : null,
+  "meaning" : [ "1. 取缔、查禁；2. 监督、管理、管束；3. 征收（税款、费用等）" ],
+  "notes" : [ "该动词对象多为违规行为、需要约束的对象或应缴款项，在正式场合及日常行政场景中常用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4063,
+  "word" : "取り調べる",
+  "reading" : "とりしらべる",
+  "romaji" : null,
+  "meaning" : [ "1.调查，查问；2.审讯，审问（针对嫌疑人、证人等进行的讯问）" ],
+  "notes" : [ "该动词既可以用于一般事务的调查核查，也特指司法场景下对相关人员的审讯审问。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4064,
+  "word" : "取り返す",
+  "reading" : "とりかえす",
+  "romaji" : null,
+  "meaning" : [ "1. 取回，拿回，要回；2. 挽回，弥补，恢复；3. 重新取得，夺回" ],
+  "notes" : [ "可用于物品、权利、信用、状态等多种对象的恢复或取回" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4065,
+  "word" : "取り除く",
+  "reading" : "とりのぞく",
+  "romaji" : null,
+  "meaning" : [ "1. 去除，除去，除掉；2. 开除，解雇" ],
+  "notes" : [ "「取り除く」侧重从某个场所、物体或群体中将不需要的人或物彻底移除，语气较正式。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4066,
+  "word" : "取る",
+  "reading" : "とる",
+  "romaji" : null,
+  "meaning" : [ "1.拿，取，握；2.取得，获得，领取；3.捕捉，捕获；4.记录，拍摄；5.理解，领会；6.接受，采纳；7.去除，除掉；8.选择，选取" ],
+  "notes" : [ "「取る」是日语中使用频率极高的多义动词，搭配不同宾语或前缀可衍生丰富语义，如「取り消す（取消）」「取り組む（致力于）」等复合动词。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4067,
+  "word" : "取れる",
+  "reading" : "とれる",
+  "romaji" : null,
+  "meaning" : [ "1. 脱落、掉下；2. 去除、消除、解除；3. 能取下、能拿下；4. 收获、采集；5. 理解、领会；6. 花费（时间、金钱）；7. （比赛等）取胜、赢" ],
+  "notes" : [ "作为自动词使用，根据语境有多种含义，部分含义可引申为抽象的表达，如「理解が取れる」表示达成共识、互相理解。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4068,
+  "word" : "取引",
+  "reading" : "とりひき",
+  "romaji" : null,
+  "meaning" : [ "1. 交易，买卖，贸易；2. 打交道，往来；3. （体育比赛中的）攻防，对抗" ],
+  "notes" : [ "作为サ变自动词使用时，常以「〜と取引する」「取引をする」的形式出现；「取引先」是常见派生词，意为交易对象、客户。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4069,
+  "word" : "取引所",
+  "reading" : "とりひきじょ",
+  "romaji" : null,
+  "meaning" : [ "交易所，交易市场，进行有价证券、商品、外汇等交易的专门场所" ],
+  "notes" : [ "多与特定领域词汇搭配使用，如「証券取引所」（证券交易所）、「先物取引所」（期货交易所）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4070,
+  "word" : "取引高",
+  "reading" : "とりひきだか",
+  "romaji" : null,
+  "meaning" : [ "交易额，成交额；交易量" ],
+  "notes" : [ "指一定期间内商品、证券、外汇等交易的总金额或总数量，常用于商业、金融领域" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4071,
+  "word" : "取材",
+  "reading" : "しゅざい",
+  "romaji" : null,
+  "meaning" : [ "1. 采访（新闻、报道等的素材收集活动）；2. 取材，收集创作素材（文学、艺术、影视等领域）" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「取材する」的动词形式，主要用于新闻、文艺创作等领域的素材收集场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4072,
+  "word" : "取締役",
+  "reading" : "とりしまりやく",
+  "romaji" : null,
+  "meaning" : [ "董事，经理；（日本公司的）董事" ],
+  "notes" : [ "日本企业中，「取締役」是参与公司经营决策的核心职位之一，通常由股东大会选任，负责公司的日常运营管理" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4073,
+  "word" : "受かる",
+  "reading" : "うかる",
+  "romaji" : null,
+  "meaning" : [ "1. 考上，考中，及格；2. 被接受，被录取；3. 得到认可，受欢迎" ],
+  "notes" : [ "「受かる」是自动词，对应的他动词为「受ける」，表示“参加（考试等）”；在表示考试合格时，常用「～に受かる」的结构" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4074,
+  "word" : "受けます",
+  "reading" : "うけます",
+  "romaji" : null,
+  "meaning" : [ "1. 接受，收到；2. 承受，遭受；3. 感受，受到；4. 承担，担任；5. 继承；6. 容纳，装下" ],
+  "notes" : [ "「受けます」是「受ける」的ます形（敬体形式），根据语境不同含义有较大差异，日常使用频率较高。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4075,
+  "word" : "受ける",
+  "reading" : "うける",
+  "romaji" : null,
+  "meaning" : [ "1. 接住，接住落下或飞来的物品；2. 受到，接受，获取来自他人的物品、信息、恩惠、影响等；3. 遭受，蒙受（损失、灾害、批评等）；4. 承担，担任（职务、工作等）；5. 容纳，收纳；6. （用在被动句中）被，遭受" ],
+  "notes" : [ "作为被动助动词「られる」的文语形式「れる・られる」的口语缩略形式时，仅表示被动含义，无实义动词用法" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4076,
+  "word" : "受け付ける",
+  "reading" : "うけつける",
+  "romaji" : null,
+  "meaning" : [ "1. 接受、受理（申请、投诉、咨询等）；2. 接待、迎接（客人）；3. 认可、同意（意见、主张等）；4. 容纳、承受（重量、力量等）" ],
+  "notes" : [ "「受け付ける」作为他动词使用，对应的自动词是「受け付く（うけつく）」，表示“被受理、被接纳”的意思。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4077,
+  "word" : "受け入れる",
+  "reading" : "うけいれる",
+  "romaji" : null,
+  "meaning" : [ "1. 接受，接纳；2. 采纳，同意；3. 收容，收留；4. 理解，认同" ],
+  "notes" : [ "该动词可用于对人、事物、意见等多种对象，语义范围较广；作为一段动词，活用规则为词尾「れる」变化，如否定形「受け入れない」、过去形「受け入れた」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4078,
+  "word" : "受け取り",
+  "reading" : "うけとり",
+  "romaji" : null,
+  "meaning" : [ "1. 收取，领取，接纳；2. 收据，收条" ],
+  "notes" : [ "「受け取り」是动词「受け取る（うけとる）」的ます形名词化形式，可表示动作行为本身，也可表示相关凭证。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4079,
+  "word" : "受け取る",
+  "reading" : "うけとる",
+  "romaji" : null,
+  "meaning" : [ "1. 接，接收，领取；2. 理解，领会；3. 承担，接受（责任、任务等）；4. 容忍，忍受" ],
+  "notes" : [ "「受け取る」强调主动接收动作，与表示被动接收的「届く」有区别；作“理解”义时多表示主观上的解读，可能存在偏差。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4080,
+  "word" : "受け持つ",
+  "reading" : "うけもつ",
+  "romaji" : null,
+  "meaning" : [ "1. 掌管，负责；2. 担任（课程、班级的授课老师）；3. 照料，照看（病人、老人等）" ],
+  "notes" : [ "除了常见的负责工作、担任授课的用法外，也可用于照料需要看护的对象，活用遵循五段动词规则，例如否定形为「受け持たない」，过去形为「受け持った」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4081,
+  "word" : "受け止める",
+  "reading" : "うけとめる",
+  "romaji" : null,
+  "meaning" : [ "1. 接住，挡住；2. 阻止，阻击；3. 理解，领会；4. 承担，接收" ],
+  "notes" : [ "作为「理解、接受」义项使用时，多强调准确领会对方的想法、情绪或客观事实，带有主动接纳的语气。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4082,
+  "word" : "受け継ぐ",
+  "reading" : "うけつぐ",
+  "romaji" : null,
+  "meaning" : [ "1. 继承（财产、地位、事业等）；2. 传承（技艺、文化、传统、思想等）；3. 接过（他人的工作、任务等继续做）" ],
+  "notes" : [ "多用于承接具有一定历史或价值的事物，既可以是具象的物质，也可以是抽象的文化、精神等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4083,
+  "word" : "受け身",
+  "reading" : "うけみ",
+  "romaji" : null,
+  "meaning" : [ "1. 被动状态；被动语态。2. 消极被动的态度、立场。" ],
+  "notes" : [ "作为语法术语时，特指日语中的被动语态；用于描述人的态度时，侧重指缺乏主动性、消极应对的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4084,
+  "word" : "受付",
+  "reading" : "うけつけ",
+  "romaji" : null,
+  "meaning" : [ "1. 受理，接受（申请、委托等）；2. 问讯处，接待处，前台；3. 接受的物品，受理的事项；4. 接待，应对" ],
+  "notes" : [ "作为サ变动词使用时，可变形为「受付ける」「受付けます」「受付けて」等形式；日常场景中多用来指代机构、场所的前台接待处" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4085,
+  "word" : "受信",
+  "reading" : "じゅしん",
+  "romaji" : null,
+  "meaning" : [ "1. 接收（信件、广播、信号、电子邮件等）；2. （无线电、通讯设备的）接收功能；3. 收件" ],
+  "notes" : [ "作为サ变动词使用时，可构成「受信する」的形式，在通讯、邮政、电子设备相关场景中高频使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4086,
+  "word" : "受取人",
+  "reading" : "うけとりにん",
+  "romaji" : null,
+  "meaning" : [ "收件人，收款人；领受人" ],
+  "notes" : [ "主要用于邮件、信件、汇款等场景，指接收物品或款项的对象" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4087,
+  "word" : "受容",
+  "reading" : "じゅよう",
+  "romaji" : null,
+  "meaning" : [ "1. 容纳，接纳；2. 接受，认可；3. 鉴赏，理解（艺术、思想等）；4. （生理）感受，接收（刺激等）" ],
+  "notes" : [ "作为サ变自动词使用时，常以「～を受容する」「～を受容できる」的形式出现；可用于抽象的思想、文化等领域，也可用于具体的容纳场景及生理学术语中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4088,
+  "word" : "受注",
+  "reading" : "うちゅう",
+  "romaji" : null,
+  "meaning" : [ "1. 接受订购、接受订货；2. 承接订单（指获得的订单业务）" ],
+  "notes" : [ "作为サ变动词使用时，可构成「受注する」「受注した」等活用形式；作为名词时多指代已承接的订单业务量或订单本身。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4089,
+  "word" : "受診",
+  "reading" : "じゅしん",
+  "romaji" : null,
+  "meaning" : [ "（到医院等）就诊，接受诊断、检查" ],
+  "notes" : [ "通常用于主动前往医疗机构接受专业人员的诊断或检查，对象多为医生、牙医等医疗从业者或相关机构。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4090,
+  "word" : "受話器",
+  "reading" : "じゅわき",
+  "romaji" : null,
+  "meaning" : [ "（电话的）听筒，耳机；（收音机、对讲机等的）受话器" ],
+  "notes" : [ "一般多指电话听筒，也可泛指各类音频设备的受话装置" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4091,
+  "word" : "受講料",
+  "reading" : "じゅこうりょう",
+  "romaji" : null,
+  "meaning" : [ "听课费，学费（特指参加讲座、培训课程等的费用）" ],
+  "notes" : [ "区别于一般学校的「授業料」，多针对短期讲座、专项培训等课程的费用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4092,
+  "word" : "受講生",
+  "reading" : "じゅこうせい",
+  "romaji" : null,
+  "meaning" : [ "听课的人，听讲者，参加讲习/课程的学员" ],
+  "notes" : [ "多用于指代参加有组织的课程、讲习会、讲座等的学习者，区别于一般的旁听者" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4093,
+  "word" : "受賞",
+  "reading" : "じゅしょう",
+  "romaji" : null,
+  "meaning" : [ "获奖，得奖；受奖，领奖" ],
+  "notes" : [ "作为サ变动词使用时，常以「受賞する」的形式出现，可用于被动语态「受賞される」表示尊敬。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4094,
+  "word" : "受賞する",
+  "reading" : "じゅしょうする",
+  "romaji" : null,
+  "meaning" : [ "获奖，得奖，受奖" ],
+  "notes" : [ "「受賞する」是他动词，通常以「～を受賞する」的形式使用，对象为奖项名称或奖项类别。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4095,
+  "word" : "受験",
+  "reading" : "じゅけん",
+  "romaji" : null,
+  "meaning" : [ "1. 应试，参加考试；2. （为升学、就业等目的的）考试" ],
+  "notes" : [ "可作为サ变动词使用，形式为「受験する」，表示“参加考试，应试”的动作" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4096,
+  "word" : "口",
+  "reading" : "くち0",
+  "romaji" : null,
+  "meaning" : [ "1. 嘴，口；2. 说话，言辞；3. 出入口，开口；4. 口味，味道；5. 人数" ],
+  "notes" : [ "作为数量词使用时，可用于计量人数，如「5口の家族」（五口之家）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4097,
+  "word" : "口げんか",
+  "reading" : "くちげんか",
+  "romaji" : null,
+  "meaning" : [ "吵架，争吵，口角" ],
+  "notes" : [ "作为名词使用时后续可接「をする」「になる」等表达，作为サ変动词可直接活用，如「口げんかする」「口げんかしている」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4098,
+  "word" : "口ずさむ",
+  "reading" : "くちずさむ",
+  "romaji" : null,
+  "meaning" : [ "1. 哼唱，低声唱；2. 吟诵，低声念诵" ],
+  "notes" : [ "通常指无意识或小声地歌唱、吟诵，多用于较为轻松、随意的场景" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4099,
+  "word" : "口に合う",
+  "reading" : "くちにあう",
+  "romaji" : null,
+  "meaning" : [ "1. 合口味，对胃口；2. 适合自己的喜好、感觉" ],
+  "notes" : [ "由名词「口」和动词「合う」组成的惯用表达，除了用于食物味道适配，还可引申为事物符合个人喜好、能力等情况。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4100,
+  "word" : "口ぶり",
+  "reading" : "くちぶり",
+  "romaji" : null,
+  "meaning" : [ "口吻，口气，说话的语气、腔调" ],
+  "notes" : [ "通常用来描述人说话时的语气、态度，常与「厳しい」「優しい」「心配げな」等形容词搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

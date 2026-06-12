@@ -1,0 +1,901 @@
+[ {
+  "id" : 4901,
+  "word" : "妬む",
+  "reading" : "ねたむ",
+  "romaji" : null,
+  "meaning" : [ "嫉妒，眼红；羡慕" ],
+  "notes" : [ "常写作「妬む」，有时也可写作「嫉む」。表示看到别人的幸福、成功等时感到不快或心生羡慕。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4902,
+  "word" : "妹",
+  "reading" : "いもうと",
+  "romaji" : null,
+  "meaning" : [ "妹妹" ],
+  "notes" : [ "指比自己年小的女性同胞。称呼别人的妹妹时，通常使用尊称“妹さん（いもうとさん）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4903,
+  "word" : "妹さん",
+  "reading" : "いもうとさん",
+  "romaji" : null,
+  "meaning" : [ "（他人的）妹妹；对年轻女性的尊称" ],
+  "notes" : [ "敬语形式，用于称呼或提及他人的妹妹，不能用于自己的妹妹。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4904,
+  "word" : "妻",
+  "reading" : "つま",
+  "romaji" : null,
+  "meaning" : [ "妻子；老婆" ],
+  "notes" : [ "通常用于指代自己的妻子，或者比较随意的场合。在正式场合或对他人表示尊敬时，常用“奥さん（おくさん）”或“夫人（ふじん）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4905,
+  "word" : "妻／家内",
+  "reading" : "つま／かない",
+  "romaji" : null,
+  "meaning" : [ "（自己的）妻子。“妻”是通用的说法；“家内”是对他人说话时的谦逊语，语感较旧式。" ],
+  "notes" : [ "“家内”属于谦逊语，用于对外人说话时指代自己的妻子，现在年轻人使用较少，多用于正式场合或商务场合。不要用来称呼别人的妻子（别人的妻子应用“奥さん”或“御夫人”）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4906,
+  "word" : "姉",
+  "reading" : "あね",
+  "romaji" : null,
+  "meaning" : [ "姐姐；称呼比自己年长的女性（用于口语中称呼非亲属的年长女性时）" ],
+  "notes" : [ "在称呼他人的姐姐时，通常使用“お姉さん（おねえさん）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4907,
+  "word" : "姉妹",
+  "reading" : "しまい",
+  "romaji" : null,
+  "meaning" : [ "姐妹；姐妹俩" ],
+  "notes" : [ "特指兄弟姐妹中的女性，即姐姐和妹妹。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4908,
+  "word" : "始まり",
+  "reading" : "はじまり",
+  "romaji" : null,
+  "meaning" : [ "开始；开端；起源；来历" ],
+  "notes" : [ "由动词「始まる（はじまる）」的连用形名词化而来。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4909,
+  "word" : "始まります",
+  "reading" : "はじまります",
+  "romaji" : null,
+  "meaning" : [ "开始" ],
+  "notes" : [ "原型为「始まる」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4910,
+  "word" : "始まる",
+  "reading" : "はじまる",
+  "romaji" : null,
+  "meaning" : [ "开始；着手；发起；源自" ],
+  "notes" : [ "通常表示时间、季节、活动等的开始。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4911,
+  "word" : "始め",
+  "reading" : "はじめ",
+  "romaji" : null,
+  "meaning" : [ "开头，开始，起初" ],
+  "notes" : [ "作为时间名词时，表示时间的初始点；也常用于寒暄语“始めまして”（初次见面）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4912,
+  "word" : "始め/初め",
+  "reading" : "はじめ",
+  "romaji" : null,
+  "meaning" : [ "最初；开端；开头；（时间的）起初" ],
+  "notes" : [ "写作“始め”时，侧重于动作、行为的开始；写作“初め”时，侧重于时间、顺序的最初阶段。作为副词使用时读作“はじめに”." ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4913,
+  "word" : "始めます",
+  "reading" : "はじめます",
+  "romaji" : null,
+  "meaning" : [ "开始；着手；开创" ],
+  "notes" : [ "基本形为「始める」。对应汉字词「開始（かいし）」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4914,
+  "word" : "始める",
+  "reading" : "はじめる",
+  "romaji" : null,
+  "meaning" : [ "开始，着手；创办，开创" ],
+  "notes" : [ "他动词。对应的自动词为「始まる」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4915,
+  "word" : "始末",
+  "reading" : "しまつ",
+  "romaji" : null,
+  "meaning" : [ "1. 事情的原委、经过、情况。2. 处理、收拾、应付。3. 节约、节省。" ],
+  "notes" : [ "作为名词时表示情况或结果；作为サ变动词时表示处理或节约。常用于消极语境或表示最终的糟糕结果，或者表示为了省钱而精打细算。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4916,
+  "word" : "始発",
+  "reading" : "しはつ",
+  "romaji" : null,
+  "meaning" : [ "首班车；始发；头班车" ],
+  "notes" : [ "指每天最早发出的列车或巴士。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4917,
+  "word" : "始発駅",
+  "reading" : "しはつえき",
+  "romaji" : null,
+  "meaning" : [ "始发站，第一班列车发车的车站" ],
+  "notes" : [ "由“始発”（首班车）和“駅”（车站）组成的复合词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4918,
+  "word" : "姓",
+  "reading" : "せい",
+  "romaji" : null,
+  "meaning" : [ "姓；姓氏" ],
+  "notes" : [ "指家族的姓氏。在表示姓氏时，也可以读作“名字（みょうじ）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4919,
+  "word" : "姓名",
+  "reading" : "じょうめい",
+  "romaji" : null,
+  "meaning" : [ "姓名；姓和名" ],
+  "notes" : [ "「氏名（しめい）」とほぼ同じ意味で使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4920,
+  "word" : "委ねる",
+  "reading" : "ゆだねる",
+  "romaji" : null,
+  "meaning" : [ "1. 委托，听凭，听任（将某事交给某人处理，听从其判断）。2. 献身，委身（将身心托付给某物或某人）。" ],
+  "notes" : [ "常以「～に委ねる」的形式出现。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4921,
+  "word" : "委員",
+  "reading" : "いいん",
+  "romaji" : null,
+  "meaning" : [ "委员" ],
+  "notes" : [ "指被任命或选举出来担任特定职务或处理特定事务的成员。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4922,
+  "word" : "委員会",
+  "reading" : "いいんかい",
+  "romaji" : null,
+  "meaning" : [ "委员会；为调查审议特定事项而设立的机构。" ],
+  "notes" : [ "由复数委员组成的合议制机构，通常用于审议特定事项。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4923,
+  "word" : "委託",
+  "reading" : "いたく",
+  "romaji" : null,
+  "meaning" : [ "委托，托付；（法律）委任，嘱托" ],
+  "notes" : [ "通常以「委託する」的形式使用。指将某项工作或业务委托给他人或外部机构处理。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4924,
+  "word" : "うるさい",
+  "reading" : "うるさい",
+  "romaji" : null,
+  "meaning" : [ "吵闹的，喧闹的；烦人的，啰嗦的；（过于）亲密的" ],
+  "notes" : [ "常用于表示噪音大或对别人的多嘴多管感到厌烦。作「～にうるさい」使用时，表示对某事过分拘泥或爱唠叨。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4925,
+  "word" : "姪",
+  "reading" : "めい",
+  "romaji" : null,
+  "meaning" : [ "侄女；外甥女" ],
+  "notes" : [ "指兄弟或姐妹的女儿。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4926,
+  "word" : "姿",
+  "reading" : "すがた",
+  "romaji" : null,
+  "meaning" : [ "姿态，姿势；打扮，装束；样子，状态；身影，情形" ],
+  "notes" : [ "「姿」不仅指身体的姿势，也可以指事物的状态或情形。常用的复合词有「お姿」（尊称）、「全貌」（整体的样子）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4927,
+  "word" : "姿勢",
+  "reading" : "しせい",
+  "romaji" : null,
+  "meaning" : [ "1. 姿势；姿态。（身体的姿态。） 2. 态度；姿态；想法。（对事物的心理准备或态度。）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4928,
+  "word" : "威力",
+  "reading" : "いりょく",
+  "romaji" : null,
+  "meaning" : [ "威力；威力，威势；（巨大的）力量，威力" ],
+  "notes" : [ "表示令人敬畏的力量或破坏力。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4929,
+  "word" : "威嚇",
+  "reading" : "いかく",
+  "romaji" : null,
+  "meaning" : [ "威胁，恫吓，吓唬" ],
+  "notes" : [ "通常指使用武力或言语让对方感到恐惧从而屈服。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4930,
+  "word" : "威圧",
+  "reading" : "いあつ",
+  "romaji" : null,
+  "meaning" : [ "用威势使人屈服；威逼，威慑" ],
+  "notes" : [ "サ変動詞「威圧する」の語幹としても使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4931,
+  "word" : "威張る",
+  "reading" : "いばる",
+  "romaji" : null,
+  "meaning" : [ "摆架子，逞威风，自吹自擂，炫耀" ],
+  "notes" : [ "通常用于贬义，描述人骄傲自大、盛气凌人的样子。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4932,
+  "word" : "娘",
+  "reading" : "むすめ",
+  "romaji" : null,
+  "meaning" : [ "女儿；女孩；年轻女子" ],
+  "notes" : [ "除指自己的女儿外，也可用于称呼年轻女性。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4933,
+  "word" : "娯楽",
+  "reading" : "ごらく",
+  "romaji" : null,
+  "meaning" : [ "娱乐；消遣" ],
+  "notes" : [ "通常指在工作或学习之余，为了放松心情而进行的消遣活动。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4934,
+  "word" : "婉曲",
+  "reading" : "えんきょく",
+  "romaji" : null,
+  "meaning" : [ "委婉的，婉转的；间接的" ],
+  "notes" : [ "多用于书面语或正式场合，表示说话方式不直接，以免伤害对方感情。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4935,
+  "word" : "婚約",
+  "reading" : "こんやく",
+  "romaji" : null,
+  "meaning" : [ "婚约；订婚" ],
+  "notes" : [ "通常作为サ变动词（婚約する）使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4936,
+  "word" : "婚約する",
+  "reading" : "こんやくする",
+  "romaji" : null,
+  "meaning" : [ "订婚，婚约" ],
+  "notes" : [ "通常以「婚約する」或「婚約している」的形式使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4937,
+  "word" : "婦人",
+  "reading" : "ふじん",
+  "romaji" : null,
+  "meaning" : [ "妇女，女士（成年女性的敬称或通称，多用于书面语或特定组合词中，如：婦人服、婦人警官）" ],
+  "notes" : [ "通常用于比较正式的场合或作为复合词的一部分，口语中多用「女性」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4938,
+  "word" : "媚びる",
+  "reading" : "こびる",
+  "romaji" : null,
+  "meaning" : [ "讨好，巴结，谄媚；献媚" ],
+  "notes" : [ "通常用于贬义，指为了某种利益而故意取悦他人。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4939,
+  "word" : "嫁",
+  "reading" : "よめ",
+  "romaji" : null,
+  "meaning" : [ "1. 妻子（自称或对他人的妻子）；2. 儿媳；3. 新娘" ],
+  "notes" : [ "作自称时指“妻子”，作他称时多指“儿媳”或“别人的妻子”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4940,
+  "word" : "嫉妬",
+  "reading" : "しっと",
+  "romaji" : null,
+  "meaning" : [ "嫉妒，眼红，忌妒" ],
+  "notes" : [ "作为サ变动词使用时读作「嫉妬する（しっとする）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4941,
+  "word" : "嫌",
+  "reading" : "いや",
+  "romaji" : null,
+  "meaning" : [ "讨厌，厌烦；不愿意，不喜欢" ],
+  "notes" : [ "常以「嫌な（いやな）」的形式修饰名词，表示令人不快、讨厌的。也可读作「きらい（kirai）」，词性为名词或形容动词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4942,
+  "word" : "嫌い",
+  "reading" : "きらい",
+  "romaji" : null,
+  "meaning" : [ "讨厌，厌恶；有……之嫌" ],
+  "notes" : [ "作为名词使用时表示“厌恶、讨厌”；接在名词或动词连体形后，以“～きらいがある”的形式表示某种倾向或消极的癖好。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4943,
+  "word" : "嫌い［な］",
+  "reading" : "きらい［な］",
+  "romaji" : null,
+  "meaning" : [ "讨厌，不喜欢；（某种事物）令人厌恶的，难以接受的" ],
+  "notes" : [ "作为形容动词（Na形容词）使用，后接名词时需加「な」。接在动词连用形形后表示“容易……”（如：燃えやすい）时读作「やすい」，与此词不同。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4944,
+  "word" : "嫌う",
+  "reading" : "きらう",
+  "romaji" : null,
+  "meaning" : [ "讨厌，厌恶；嫌恶，不愿意" ],
+  "notes" : [ "通常写作平假名，也可以写作「厭う」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4945,
+  "word" : "嫌がらせ",
+  "reading" : "いやがらせ",
+  "romaji" : null,
+  "meaning" : [ "找麻烦，刁难，令人厌恶的行为（特指职场霸凌、骚扰等）" ],
+  "notes" : [ "动词「嫌がる」（讨厌、不愿意）的连用形名词化。常用于指代心理或行为上的骚扰。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4946,
+  "word" : "嫌がる",
+  "reading" : "いやがる",
+  "romaji" : null,
+  "meaning" : [ "讨厌，不愿意，嫌恶；（第三人称）感到厌烦" ],
+  "notes" : [ "表示第三人称的心理或感情，意为“感到讨厌”、“不愿意”。接续为「嫌がる＋名词」或「嫌がる＋助词」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4947,
+  "word" : "嫌らしい",
+  "reading" : "いやらしい",
+  "romaji" : null,
+  "meaning" : [ "令人讨厌的；令人作呕的；下流的，卑鄙的；不正经的" ],
+  "notes" : [ "属于イ形容词。除了表示“下流、卑鄙”之外，还可以形容天气或状况令人不快、不舒服。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4948,
+  "word" : "嫌味",
+  "reading" : "いやみ",
+  "romaji" : null,
+  "meaning" : [ "讨厌的话；令人不快的态度；挖苦，讽刺" ],
+  "notes" : [ "虽然词性为名词，但在日语中常作为形容动词（な形容词）使用，如「嫌味な人」（令人讨厌的人/说话带刺的人）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4949,
+  "word" : "嫌気",
+  "reading" : "いやけ",
+  "romaji" : null,
+  "meaning" : [ "讨厌，厌烦，嫌弃；感到厌腻的心情。" ],
+  "notes" : [ "常以「嫌気が差す（いやけがさす）」的形式使用，表示产生厌烦情绪。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4950,
+  "word" : "嬉しい",
+  "reading" : "うれしい",
+  "romaji" : null,
+  "meaning" : [ "高兴的，欢喜的；令人喜悦的" ],
+  "notes" : [ "表示主观的情感，形容因某事而感到开心或满足的状态。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4951,
+  "word" : "子",
+  "reading" : "こ",
+  "romaji" : null,
+  "meaning" : [ "孩子；子女；(动物的)崽；卵；利息；小" ],
+  "notes" : [ "常用汉字。作为接尾词使用时，表示“...子”或“...儿”，如“椅子”、“椅子”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4952,
+  "word" : "子ども",
+  "reading" : "こども",
+  "romaji" : null,
+  "meaning" : [ "小孩，儿童；自己的儿女" ],
+  "notes" : [ "书写时也可写作“子供”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4953,
+  "word" : "子供",
+  "reading" : "こども",
+  "romaji" : null,
+  "meaning" : [ "孩子，儿童；子女；自己的儿女" ],
+  "notes" : [ "也可写作“供”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4954,
+  "word" : "子孫",
+  "reading" : "しそん",
+  "romaji" : null,
+  "meaning" : [ "子孙，后代" ],
+  "notes" : [ "指自己的孩子、孙子以及后代，有时也指所有后代。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4955,
+  "word" : "子犬",
+  "reading" : "こいぬ",
+  "romaji" : null,
+  "meaning" : [ "小狗；幼犬" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4956,
+  "word" : "子育て",
+  "reading" : "こそだて",
+  "romaji" : null,
+  "meaning" : [ "育儿，抚养孩子" ],
+  "notes" : [ "「子育て」是名词，通常作为「子育てをする」的形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4957,
+  "word" : "孕む",
+  "reading" : "はらむ",
+  "romaji" : null,
+  "meaning" : [ "1. 怀孕，妊娠。\n2. 孕育，包含（某种可能性、问题等）。\n3. （果实、穗等）鼓胀，饱满。" ],
+  "notes" : [ "常用作比喻，表示包含新的变化或隐含的问题。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4958,
+  "word" : "字",
+  "reading" : "じ",
+  "romaji" : null,
+  "meaning" : [ "1. 字；文字（表记文字）。2. 字体；书法；笔迹。" ],
+  "notes" : [ "常用汉字。在表示“字体”或“笔迹”时，常读作“じ”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4959,
+  "word" : "字引",
+  "reading" : "じびき",
+  "romaji" : null,
+  "meaning" : [ "字典；词典" ],
+  "notes" : [ "「字引」是「辞書（じしょ）」的旧称，现在多用于书面语或比喻义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4960,
+  "word" : "存ずる",
+  "reading" : "ぞんずる",
+  "romaji" : null,
+  "meaning" : [ "（自谦语）知道，认识；觉得，认为；打算" ],
+  "notes" : [ "“存ずる”是“知る”和“思う”的谦逊语（自谦语），用于对长辈或上级表示谦虚。现代日语中常略读为“存じます”。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4961,
+  "word" : "存じています",
+  "reading" : "ぞんじています",
+  "romaji" : null,
+  "meaning" : [ "（自谦语）知道，晓得（“知っている”的郑重自谦形式）" ],
+  "notes" : [ "“存じる”是“知る”和“思う”的郑重语（丁宁语）或自谦语（谦让语）。接续助词“て”后接“います”构成敬语形态，通常用于自谦，表示“知道”或“认为”。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4962,
+  "word" : "存じる",
+  "reading" : "ぞんじる",
+  "romaji" : null,
+  "meaning" : [ "（「知る」「思う」的谦逊语）知道；认为；觉得" ],
+  "notes" : [ "「知る」「思う」的谦逊语（丁重語），用于降低自己的动作以表示对听话人的尊敬。常见的固定搭配有「存じません」（不知道）和「そう存じます」（这么认为）。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4963,
+  "word" : "存在",
+  "reading" : "そんざい",
+  "romaji" : null,
+  "meaning" : [ "存在；实在" ],
+  "notes" : [ "作为动词使用时，活用类型为“サ行变格动词”（动3）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4964,
+  "word" : "存続",
+  "reading" : "そんぞく",
+  "romaji" : null,
+  "meaning" : [ "（事物、团体等）继续存在；长存，永存" ],
+  "notes" : [ "通常以「存続する」的形式作为动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4965,
+  "word" : "孝行",
+  "reading" : "こうこう",
+  "romaji" : null,
+  "meaning" : [ "孝顺，孝敬（父母）" ],
+  "notes" : [ "通常作为サ变动词词干使用，构成「孝行する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4966,
+  "word" : "季節",
+  "reading" : "きせつ",
+  "romaji" : null,
+  "meaning" : [ "季节" ],
+  "notes" : [ "表示一年中的四个时期（春、夏、秋、冬）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4967,
+  "word" : "学ぶ",
+  "reading" : "まなぶ",
+  "romaji" : null,
+  "meaning" : [ "1. 学习，修得（知识、技能等）；2. 模仿，仿照" ],
+  "notes" : [ "常以「～から学ぶ」的形式表示“从……中学习/吸取教训”。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4968,
+  "word" : "学会",
+  "reading" : "がっかい",
+  "romaji" : null,
+  "meaning" : [ "学术会议；学会" ],
+  "notes" : [ "指学术界举行的会议或学术团体。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4969,
+  "word" : "学力",
+  "reading" : "がくりょく",
+  "romaji" : null,
+  "meaning" : [ "学力，学习实力；通过学习获得的实际能力" ],
+  "notes" : [ "指在学校或通过学习所掌握的知识和能力。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4970,
+  "word" : "学問",
+  "reading" : "がくもん",
+  "romaji" : null,
+  "meaning" : [ "学问，学识；学术，科学" ],
+  "notes" : [ "指系统的知识或研究，也指个人的学识。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4971,
+  "word" : "学年",
+  "reading" : "がくねん",
+  "romaji" : null,
+  "meaning" : [ "学年；年级；学校年度" ],
+  "notes" : [ "指学校的年级或年度制度，如“1年生（一年级）”或“2023年度（2023学年）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4972,
+  "word" : "学期",
+  "reading" : "がっき",
+  "romaji" : null,
+  "meaning" : [ "学期；学校的一学年分为两个或三个学期" ],
+  "notes" : [ "通常指学校教育中的学期，日本学校通常分为三个学期（4月-7月、9月-12月、1月-3月）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4973,
+  "word" : "学校",
+  "reading" : "がっこう",
+  "romaji" : null,
+  "meaning" : [ "学校；供学生进行学习活动的场所或机构" ],
+  "notes" : [ "常用词，属于基础词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4974,
+  "word" : "学業",
+  "reading" : "がくぎょう",
+  "romaji" : null,
+  "meaning" : [ "学业；学问；学习成绩" ],
+  "notes" : [ "通常指学校里的学习、学问或学业成绩。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4975,
+  "word" : "学歴",
+  "reading" : "がくれき",
+  "romaji" : null,
+  "meaning" : [ "学历" ],
+  "notes" : [ "指个人的最终学历或学习经历。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4976,
+  "word" : "学生",
+  "reading" : "がくせい",
+  "romaji" : null,
+  "meaning" : [ "学生" ],
+  "notes" : [ "指在学校学习的人，通常指大学生或更高学历的学生。小学生、中学生通常称为“児童”或“生徒”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4977,
+  "word" : "学級",
+  "reading" : "がっきゅう",
+  "romaji" : null,
+  "meaning" : [ "学级；班级；学校中为了便于教学和管理而划分的学生团体（通常指一个年级中的若干班级之一）" ],
+  "notes" : [ "常用于教育机构相关的语境，如“学級崩壊”（班级崩溃，指课堂秩序混乱无法维持）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4978,
+  "word" : "学習",
+  "reading" : "がくしゅう",
+  "romaji" : null,
+  "meaning" : [ "学习；修习（通过学习获得知识或技能）" ],
+  "notes" : [ "作为名词时表示学习的行为或内容；作为サ变动词时表示进行学习。比「勉強」更侧重于系统性的知识获取。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4979,
+  "word" : "学習する",
+  "reading" : "がくしゅうする",
+  "romaji" : null,
+  "meaning" : [ "学习" ],
+  "notes" : [ "意为学习、修得。通常指通过努力系统地掌握知识或技术。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4980,
+  "word" : "学者",
+  "reading" : "がくしゃ",
+  "romaji" : null,
+  "meaning" : [ "学者、专家" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4981,
+  "word" : "学術",
+  "reading" : "がくじゅつ",
+  "romaji" : null,
+  "meaning" : [ "学术；关于学问的" ],
+  "notes" : [ "通常用于指代系统的、专业的学问研究。常见复合词有：学術会議（学术会议）、学術論文（学术论文）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4982,
+  "word" : "学説",
+  "reading" : "がくせつ",
+  "romaji" : null,
+  "meaning" : [ "学说；（关于某事物的）理论，主张" ],
+  "notes" : [ "通常指学术上系统的理论或主张。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4983,
+  "word" : "学費",
+  "reading" : "がくひ",
+  "romaji" : null,
+  "meaning" : [ "学费；求学的费用" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4984,
+  "word" : "学部",
+  "reading" : "がくぶ",
+  "romaji" : null,
+  "meaning" : [ "系，学院；大学本科" ],
+  "notes" : [ "指大学中的学院或系，也指大学本科课程阶段（相对于大学院/研究生院）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4985,
+  "word" : "学長",
+  "reading" : "がくちょう",
+  "romaji" : null,
+  "meaning" : [ "（大学）校长" ],
+  "notes" : [ "特指大学的校长，中小学校长通常称为'校長（こうちょう）'。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4986,
+  "word" : "孫",
+  "reading" : "まご",
+  "romaji" : null,
+  "meaning" : [ "孙子；孙女" ],
+  "notes" : [ "指子女的孩子，不分性别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4987,
+  "word" : "孵る",
+  "reading" : "かえる",
+  "romaji" : null,
+  "meaning" : [ "（蛋）孵化；孵出" ],
+  "notes" : [ "常用作自动词。他动词形式为「孵す（かえす）」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4988,
+  "word" : "宅配便",
+  "reading" : "たくはいびん",
+  "romaji" : null,
+  "meaning" : [ "快递，上门配送服务；通过快递发送的货物" ],
+  "notes" : [ "指将货物直接送到家里的配送服务或其货物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4989,
+  "word" : "宇宙",
+  "reading" : "うちゅう",
+  "romaji" : null,
+  "meaning" : [ "宇宙，万物；空间；太空" ],
+  "notes" : [ "指地球大气层以外的整个空间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4990,
+  "word" : "宇宙船",
+  "reading" : "うちゅうせん",
+  "romaji" : null,
+  "meaning" : [ "宇宙飞船；太空船" ],
+  "notes" : [ "由“宇宙”（うちゅう）和“船”（せん）组成的复合词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4991,
+  "word" : "宇宙開発",
+  "reading" : "うちゅうかいはつ",
+  "romaji" : null,
+  "meaning" : [ "宇宙开发；空间开发" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4992,
+  "word" : "宇宙飛行士",
+  "reading" : "うちゅうひこうし",
+  "romaji" : null,
+  "meaning" : [ "宇航员，航天员" ],
+  "notes" : [ "由“宇宙（うちゅう）”和“飛行士（ひこうし）”组成的复合词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4993,
+  "word" : "宇宙食",
+  "reading" : "うちゅうしょく",
+  "romaji" : null,
+  "meaning" : [ "太空食品；宇航员在太空中食用的食品" ],
+  "notes" : [ "由“宇宙（(うちゅう）”和“食（しょく）”组成的复合词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4994,
+  "word" : "守ります",
+  "reading" : "まもります",
+  "romaji" : null,
+  "meaning" : [ "遵守；保护；守护" ],
+  "notes" : [ "原形为「守る」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4995,
+  "word" : "守る",
+  "reading" : "まもる",
+  "romaji" : null,
+  "meaning" : [ "保护，守卫，维护；遵守（规则、法律等）；保持（原有状态、记录等）；保守（秘密等）" ],
+  "notes" : [ "其名词形式为「守り（まもり）」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4996,
+  "word" : "守衛",
+  "reading" : "しゅえい",
+  "romaji" : null,
+  "meaning" : [ "门卫，保安，守卫（指在门口或特定场所负责警戒、保卫人员安全的人）" ],
+  "notes" : [ "通常指在工厂、学校、公司等场所担任警戒任务的人员。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4997,
+  "word" : "安い",
+  "reading" : "やすい",
+  "romaji" : null,
+  "meaning" : [ "便宜的；廉价的；平静的，安稳的" ],
+  "notes" : [ "常用词，表示价格低廉。也可表示“安稳的、平静的”，如“安らぐ”。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4998,
+  "word" : "安っぽい",
+  "reading" : "やすっぽい",
+  "romaji" : null,
+  "meaning" : [ "（外观或感觉）廉价的，不值钱的；庸俗的，俗气的" ],
+  "notes" : [ "口语中常用，形容物品看起来不高级或人的举止庸俗。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4999,
+  "word" : "安らか",
+  "reading" : "やすらか",
+  "romaji" : null,
+  "meaning" : [ "平稳的，安静的；无忧无虑的，安乐的，舒畅的" ],
+  "notes" : [ "通常以「安らかだ」「安らかな」的形式使用。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5000,
+  "word" : "安全",
+  "reading" : "あんぜん",
+  "romaji" : null,
+  "meaning" : [ "安全；平安；放心" ],
+  "notes" : [ "常用词，既可作名词使用，也可作形容动词（な形容词）使用。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+} ]

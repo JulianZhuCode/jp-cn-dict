@@ -1,0 +1,901 @@
+[ {
+  "id" : 9901,
+  "word" : "見聞",
+  "reading" : "けんぶん",
+  "romaji" : null,
+  "meaning" : [ "见闻，见识；看到和听到的事情" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9902,
+  "word" : "見舞い",
+  "reading" : "みまい",
+  "romaji" : null,
+  "meaning" : [ "1. 探望，慰问；2. 慰问品；3. 疾病、灾害等的侵袭" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9903,
+  "word" : "見舞う",
+  "reading" : "みまう",
+  "romaji" : null,
+  "meaning" : [ "1. 探望，慰问；2. 遭受（灾害等）；3. 降临，侵袭（多用于自然现象或疾病等）" ],
+  "notes" : [ "「見舞い」是其名词形式，可表示“慰问品；探望，慰问”等意思" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9904,
+  "word" : "見苦しい",
+  "reading" : "みぐるしい",
+  "romaji" : null,
+  "meaning" : [ "难看的，寒碜的；丢脸的；不像样的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9905,
+  "word" : "見落とす",
+  "reading" : "みおとす",
+  "romaji" : null,
+  "meaning" : [ "看漏，没看出来，忽略；遗漏，没注意到" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9906,
+  "word" : "見覚え",
+  "reading" : "みあき",
+  "romaji" : null,
+  "meaning" : [ "1. 眼熟，面熟；2. 模糊的记忆，隐约的印象" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9907,
+  "word" : "見解",
+  "reading" : "けんかい",
+  "romaji" : null,
+  "meaning" : [ "见解，看法" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9908,
+  "word" : "見計らう",
+  "reading" : "みはからう",
+  "romaji" : null,
+  "meaning" : [ "①估量，估计；②斟酌，考虑" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9909,
+  "word" : "見誤る",
+  "reading" : "みあやまる",
+  "romaji" : null,
+  "meaning" : [ "看错，看差；错认；判断失误" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9910,
+  "word" : "見識",
+  "reading" : "けんしき",
+  "romaji" : null,
+  "meaning" : [ "见地，见识，鉴赏力" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9911,
+  "word" : "見込み",
+  "reading" : "みこみ",
+  "romaji" : null,
+  "meaning" : [ "1. 预料，估计；2. 可能性；3. 预期，预计；4. 前景，前途；5. 顾客，主顾" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9912,
+  "word" : "見込みます",
+  "reading" : "みこみます",
+  "romaji" : null,
+  "meaning" : [ "预料，估计；预计，打算；认为，觉得；有希望，有可能；估计会，预计会" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9913,
+  "word" : "見込む",
+  "reading" : "みこむ",
+  "romaji" : null,
+  "meaning" : [ "1. 预料，估计；2. 预测，推测；3. 有希望，有望；4. 打算，计划；5. 估计到，考虑到；6. 看准，看中" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9914,
+  "word" : "見返す",
+  "reading" : "みかえす",
+  "romaji" : null,
+  "meaning" : [ "1. 回头看；2. 重看，再看一遍；3. 回看，对视；4. 争气；5. 挽回，恢复（名誉、损失等）；6. 报答，回报" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9915,
+  "word" : "見送り",
+  "reading" : "みおくり",
+  "romaji" : null,
+  "meaning" : [ "送行；目送；展望，预见" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9916,
+  "word" : "見送る",
+  "reading" : "みおくる",
+  "romaji" : null,
+  "meaning" : [ "1. 目送；送别。（人や物を去っていく方向を見つめる。見送りをする。） 2. 搁置；放弃不管。（自らの手で行うつもりをやめる。） 3. 旁观；不参与。（ある出来事や行動に関係なく、傍から見る。）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9917,
+  "word" : "見逃す",
+  "reading" : "みのがす",
+  "romaji" : null,
+  "meaning" : [ "1. 看漏，没看见；2. 错过（机会等）；3. 放过，饶恕，不追究" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9918,
+  "word" : "見通し",
+  "reading" : "みとおし",
+  "romaji" : null,
+  "meaning" : [ "1. 眺望；视野。2. （对前景的）预料，推测；展望。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9919,
+  "word" : "見過ごす",
+  "reading" : "みすごす",
+  "romaji" : null,
+  "meaning" : [ "1. 看漏，没看到；2. 饶恕，放过；3. 忽略，忽视" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9920,
+  "word" : "見違える",
+  "reading" : "みちがえる",
+  "romaji" : null,
+  "meaning" : [ "（因为变化大而）认不出，简直不敢相信是同一人或物；看错" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9921,
+  "word" : "見頃",
+  "reading" : "みごろ",
+  "romaji" : null,
+  "meaning" : [ "（景色、果实等）最美好、最适宜观赏或收获的时期；（人）最有魅力、状态最佳的时期" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9922,
+  "word" : "見飽きる",
+  "reading" : "みあきる",
+  "romaji" : null,
+  "meaning" : [ "看厌，看腻；看够" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9923,
+  "word" : "規則",
+  "reading" : "きそく",
+  "romaji" : null,
+  "meaning" : [ "规则，规章，规定；整齐，规律" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9924,
+  "word" : "規則正しい",
+  "reading" : "きそくただしい",
+  "romaji" : null,
+  "meaning" : [ "有规律；整齐；合乎规则，规矩" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9925,
+  "word" : "規定",
+  "reading" : "きてい",
+  "romaji" : null,
+  "meaning" : [ "规定；规则；章程；条例" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9926,
+  "word" : "規律",
+  "reading" : "きりつ",
+  "romaji" : null,
+  "meaning" : [ "1. 规律；2. 纪律，规章" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9927,
+  "word" : "規格",
+  "reading" : "きかく",
+  "romaji" : null,
+  "meaning" : [ "规格；标准；规范" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9928,
+  "word" : "規模",
+  "reading" : "きぼ",
+  "romaji" : null,
+  "meaning" : [ "规模；范围" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9929,
+  "word" : "視察",
+  "reading" : "しさつ",
+  "romaji" : null,
+  "meaning" : [ "实地观察、考察；视察" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9930,
+  "word" : "視察団",
+  "reading" : "しさつだん",
+  "romaji" : null,
+  "meaning" : [ "进行视察的团体；视察团。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9931,
+  "word" : "視点",
+  "reading" : "してん",
+  "romaji" : null,
+  "meaning" : [ "视点，角度；观点，看法" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9932,
+  "word" : "視線",
+  "reading" : "しせん",
+  "romaji" : null,
+  "meaning" : [ "视线；目光" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9933,
+  "word" : "視聴",
+  "reading" : "しちょう",
+  "romaji" : null,
+  "meaning" : [ "视听；收看；收听；观看；关注" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9934,
+  "word" : "視聴率",
+  "reading" : "しちょうりつ",
+  "romaji" : null,
+  "meaning" : [ "指某一节目在特定时间段内，观看该节目的家庭或个人数量占拥有电视机的家庭或个人总数的百分比，即收视率。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9935,
+  "word" : "視聴者",
+  "reading" : "しちょうしゃ",
+  "romaji" : null,
+  "meaning" : [ "观众，听众；收视者，收听者" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9936,
+  "word" : "視覚",
+  "reading" : "しかく",
+  "romaji" : null,
+  "meaning" : [ "视觉；视力；目力" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9937,
+  "word" : "視野",
+  "reading" : "しや",
+  "romaji" : null,
+  "meaning" : [ "视野；眼界" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9938,
+  "word" : "覗く",
+  "reading" : "のぞく",
+  "romaji" : null,
+  "meaning" : [ "窥视；偷看；从缝隙等中看；略微露出；稍微涉及" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9939,
+  "word" : "覚え",
+  "reading" : "おぼえ",
+  "romaji" : null,
+  "meaning" : [ "1. 记忆，记忆力；2. 记住的事物，记忆的内容；3. 经验，体验；4. （对人的）信任，信赖；5. （做某事的）信心，把握" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9940,
+  "word" : "覚えます",
+  "reading" : "おぼえます",
+  "romaji" : null,
+  "meaning" : [ "记住；记得；学会；感觉；体验" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9941,
+  "word" : "覚える",
+  "reading" : "おぼえる",
+  "romaji" : null,
+  "meaning" : [ "记住；学会，掌握；感觉到，意识到" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9942,
+  "word" : "覚ます",
+  "reading" : "さます",
+  "romaji" : null,
+  "meaning" : [ "弄醒，叫醒；使……清醒；唤起，引起（某种情感、记忆等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9943,
+  "word" : "覚める",
+  "reading" : "さめる",
+  "romaji" : null,
+  "meaning" : [ "醒来；清醒，醒悟；从（某种状态）恢复；（味道、感觉等）消失，减退" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9944,
+  "word" : "覚悟",
+  "reading" : "かくご",
+  "romaji" : null,
+  "meaning" : [ "思想准备，决心；觉悟；死心，认输" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9945,
+  "word" : "覚束ない",
+  "reading" : "おぼつかない",
+  "romaji" : null,
+  "meaning" : [ "不可靠的；不确实的；令人不放心的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9946,
+  "word" : "覚醒",
+  "reading" : "かくせい",
+  "romaji" : null,
+  "meaning" : [ "醒悟；觉醒；觉悟；苏醒" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9947,
+  "word" : "覚醒剤",
+  "reading" : "かくせいざい",
+  "romaji" : null,
+  "meaning" : [ "兴奋剂，刺激性药物" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9948,
+  "word" : "親",
+  "reading" : "おや",
+  "romaji" : null,
+  "meaning" : [ "父母，双亲；亲人；对幼儿等的称呼，指父母；（动植物的）原种，原株；起源，本源；（比赛等的）观众，支持者" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9949,
+  "word" : "親しい",
+  "reading" : "したしい",
+  "romaji" : null,
+  "meaning" : [ "亲密的，亲切的；熟悉的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9950,
+  "word" : "親しむ",
+  "reading" : "したしむ",
+  "romaji" : null,
+  "meaning" : [ "亲近，亲密；爱好，喜好；熟悉，习惯" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9951,
+  "word" : "親しむ",
+  "reading" : "したしむ",
+  "romaji" : null,
+  "meaning" : [ "1. 亲近，亲密，要好；2. 喜欢，喜爱；3. 习惯，适应" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9952,
+  "word" : "親兄弟",
+  "reading" : "しんきょうだい",
+  "romaji" : null,
+  "meaning" : [ "亲兄弟；亲兄弟姐妹" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9953,
+  "word" : "親切",
+  "reading" : "しんせつ",
+  "romaji" : null,
+  "meaning" : [ "亲切，热情；好意，关照；帮忙，照顾" ],
+  "notes" : [ "形容动词，词尾「親切だ」，修饰名词时用「親切な」，修饰动词等用「親切に」" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9954,
+  "word" : "親切［な］",
+  "reading" : "しんせつ［な］",
+  "romaji" : null,
+  "meaning" : [ "亲切（的）；热情（的）；和蔼（的）；体贴（的）" ],
+  "notes" : [ "后接名词时，使用「親切な」；后接动词、形容词、其他副词等时，使用「親切に」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9955,
+  "word" : "親友",
+  "reading" : "しんゆう",
+  "romaji" : null,
+  "meaning" : [ "非常要好的朋友，挚友；密友，至交" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9956,
+  "word" : "親善大使",
+  "reading" : "しんぜんたいし",
+  "romaji" : null,
+  "meaning" : [ "代表国家、组织等进行友好交流活动的人，友好大使，亲善大使" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9957,
+  "word" : "親子",
+  "reading" : "おやこ",
+  "romaji" : null,
+  "meaning" : [ "父母和子女；（动物的）母子；（烹饪用语）鸡肉鸡蛋（料理）" ],
+  "notes" : [ "「親子丼」是一种常见的日式盖饭，由鸡肉和鸡蛋等食材制作而成" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9958,
+  "word" : "親子丼",
+  "reading" : "おやこどん",
+  "romaji" : null,
+  "meaning" : [ "名。以鸡肉和鸡蛋为主要食材，盖在米饭上的日式盖饭" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9959,
+  "word" : "親孝行",
+  "reading" : "おやこうこう",
+  "romaji" : null,
+  "meaning" : [ "孝顺父母；孝顺的行为；孝子，孝女" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9960,
+  "word" : "親心",
+  "reading" : "おやごころ",
+  "romaji" : null,
+  "meaning" : [ "父母的慈爱；（父母般的）亲切关怀" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9961,
+  "word" : "親戚",
+  "reading" : "しんせき",
+  "romaji" : null,
+  "meaning" : [ "亲戚，亲属" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9962,
+  "word" : "親指",
+  "reading" : "おやゆび",
+  "romaji" : null,
+  "meaning" : [ "大拇指；拇指" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9963,
+  "word" : "親方",
+  "reading" : "おやかた",
+  "romaji" : null,
+  "meaning" : [ "老板；头目；师傅；师傅（对工匠、艺人等的尊称）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9964,
+  "word" : "親父",
+  "reading" : "おやじ",
+  "romaji" : null,
+  "meaning" : [ "（语气随意）父亲，爸爸；（对老年男子的随意称呼）老大爷，老头儿" ],
+  "notes" : [ "一般为男性使用的较为随意的说法" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9965,
+  "word" : "親近感",
+  "reading" : "しんきんかん",
+  "romaji" : null,
+  "meaning" : [ "亲近感，亲切感，亲密感" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9966,
+  "word" : "親類",
+  "reading" : "しんるい",
+  "romaji" : null,
+  "meaning" : [ "亲戚；亲属；同类" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9967,
+  "word" : "観光",
+  "reading" : "かんこう",
+  "romaji" : null,
+  "meaning" : [ "观光，游览" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9968,
+  "word" : "観光スポット",
+  "reading" : "かんこうスポット",
+  "romaji" : null,
+  "meaning" : [ "旅游景点，观光景点" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9969,
+  "word" : "観光地",
+  "reading" : "かんこうち",
+  "romaji" : null,
+  "meaning" : [ "观光胜地，旅游胜地" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9970,
+  "word" : "観光客",
+  "reading" : "かんこうきゃく",
+  "romaji" : null,
+  "meaning" : [ "游客，观光的人" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9971,
+  "word" : "観客",
+  "reading" : "かんきゃく",
+  "romaji" : null,
+  "meaning" : [ "观众，听众" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9972,
+  "word" : "観察",
+  "reading" : "かんさつ",
+  "romaji" : null,
+  "meaning" : [ "观察；观测；考察" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9973,
+  "word" : "観念",
+  "reading" : "かんねん",
+  "romaji" : null,
+  "meaning" : [ "1. 观念，想法；2. 死心，想开，认命" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9974,
+  "word" : "観測",
+  "reading" : "かんそく",
+  "romaji" : null,
+  "meaning" : [ "观察、观测；（用仪器等）测量" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9975,
+  "word" : "角",
+  "reading" : "かど",
+  "romaji" : null,
+  "meaning" : [ "角；拐角，转弯处；角落；棱角；方面" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9976,
+  "word" : "角度",
+  "reading" : "かくど",
+  "romaji" : null,
+  "meaning" : [ "1. 两条直线或两个平面相交而形成的角。2. 看事物的出发点、观点。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9977,
+  "word" : "解く",
+  "reading" : "とく",
+  "romaji" : null,
+  "meaning" : [ "解开；解决，解答；阐明，解释；消除，解除" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9978,
+  "word" : "解ける",
+  "reading" : "とける",
+  "romaji" : null,
+  "meaning" : [ "解开；融化；消除（气、紧张等情绪）；解除（合同、约束等）；（数学题等）解开；（谜等）被解开" ],
+  "notes" : [ "「解ける」是自动词，强调状态的变化；与之对应的他动词是「解く（とく）」，表示人为地解开、解除等动作。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9979,
+  "word" : "解凍",
+  "reading" : "かいとう",
+  "romaji" : null,
+  "meaning" : [ "解冻，化开（使冻结的东西恢复到原来的状态）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9980,
+  "word" : "解剖",
+  "reading" : "かいぼう",
+  "romaji" : null,
+  "meaning" : [ "1. 医学、生物学用语，指切开生物体，以研究其内部构造。2. 对事物进行深入分析、剖析。" ],
+  "notes" : [ "「解剖」是サ変動詞「解剖する」的词干，单独使用时为名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9981,
+  "word" : "解放",
+  "reading" : "かいほう",
+  "romaji" : null,
+  "meaning" : [ "1. 解除束缚，使自由。2. 从某种状态或限制中摆脱出来。" ],
+  "notes" : [ "「解放」作为サ変動詞使用时，常以「解放する」的形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9982,
+  "word" : "解散",
+  "reading" : "かいさん",
+  "romaji" : null,
+  "meaning" : [ "（团体、组织等）解散；（会议等）散会；（物体等）解体" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9983,
+  "word" : "解明する",
+  "reading" : "かいめいする",
+  "romaji" : null,
+  "meaning" : [ "弄清楚，查明，阐明" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9984,
+  "word" : "解決",
+  "reading" : "かいけつ",
+  "romaji" : null,
+  "meaning" : [ "解决；处理完毕；问题等得到解决的状态" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9985,
+  "word" : "解決する",
+  "reading" : "かいけつする",
+  "romaji" : null,
+  "meaning" : [ "解决；处理；解答" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9986,
+  "word" : "解消",
+  "reading" : "かいしょうする",
+  "romaji" : null,
+  "meaning" : [ "缓解；解除；取消；消灭；消除（紧张、不安等情绪）" ],
+  "notes" : [ "「解消」为サ变动词，常接「する」构成动词短语使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9987,
+  "word" : "解答",
+  "reading" : "かいとう",
+  "romaji" : null,
+  "meaning" : [ "解答；答案；解决（问题等）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9988,
+  "word" : "解約",
+  "reading" : "かいやく",
+  "romaji" : null,
+  "meaning" : [ "解约，解除合同，废除契约" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9989,
+  "word" : "解説",
+  "reading" : "かいせつ",
+  "romaji" : null,
+  "meaning" : [ "解说；讲解；说明" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9990,
+  "word" : "解釈",
+  "reading" : "かいしゃく",
+  "romaji" : null,
+  "meaning" : [ "解释，说明；注解，注释" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9991,
+  "word" : "解除",
+  "reading" : "かいじょ",
+  "romaji" : null,
+  "meaning" : [ "①法律や規則、契約などを取り消すこと。廃止すること。②（制限や束縛などを）とること。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9992,
+  "word" : "解雇",
+  "reading" : "かいこ",
+  "romaji" : null,
+  "meaning" : [ "雇用を解消すること。職を失わせること。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9993,
+  "word" : "解雇する",
+  "reading" : "かいこする",
+  "romaji" : null,
+  "meaning" : [ "解雇，开除；免职" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9994,
+  "word" : "触ります",
+  "reading" : "さわります",
+  "romaji" : null,
+  "meaning" : [ "1. 触摸，触碰；2. 触及，涉及；3. 触犯，冒犯" ],
+  "notes" : [ "「触る」的连用形+ます，礼貌体表达" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9995,
+  "word" : "触る",
+  "reading" : "さわる",
+  "romaji" : null,
+  "meaning" : [ "1. 触摸，触碰；2. 牵涉，涉及；3. 略微触及，略谈" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9996,
+  "word" : "触れる",
+  "reading" : "ふれる",
+  "romaji" : null,
+  "meaning" : [ "1. 触摸，碰；2. 触及，涉及；3. 感动，触动" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9997,
+  "word" : "触れ合い",
+  "reading" : "ふれあい",
+  "romaji" : null,
+  "meaning" : [ "相互接触；交往，交际" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9998,
+  "word" : "触れ合う",
+  "reading" : "ふれあう",
+  "romaji" : null,
+  "meaning" : [ "互相接触；互相交往、交流" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9999,
+  "word" : "言いそびれる",
+  "reading" : "いいそびれる",
+  "romaji" : null,
+  "meaning" : [ "没能及时说出，错过时机而没说出口" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10000,
+  "word" : "言いつける",
+  "reading" : "いいつける",
+  "romaji" : null,
+  "meaning" : [ "命令；吩咐；嘱咐；告发，告状" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+} ]

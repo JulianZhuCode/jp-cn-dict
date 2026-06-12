@@ -1,0 +1,901 @@
+[ {
+  "id" : 5901,
+  "word" : "悟る",
+  "reading" : "さとる",
+  "romaji" : null,
+  "meaning" : [ "知晓，领悟；察觉，发觉；醒悟，觉悟" ],
+  "notes" : [ "该词为五段动词，词尾变化遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5902,
+  "word" : "悠々",
+  "reading" : "ゆうゆう",
+  "romaji" : null,
+  "meaning" : [ "悠然自得；从容不迫；绰绰有余" ],
+  "notes" : [ "该词主要用于描述人的状态或行为，表达一种从容、闲适的感觉。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5903,
+  "word" : "悠久",
+  "reading" : "ゆうきゅう",
+  "romaji" : null,
+  "meaning" : [ "名词，意为久远、悠久，形容时间或空间的长久、无尽" ],
+  "notes" : [ "该词常用于描述时间、历史、文化等具有长久、深远意义的事物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5904,
+  "word" : "患う",
+  "reading" : "かなう",
+  "romaji" : null,
+  "meaning" : [ "患病；苦恼，烦恼；遭受（不幸等）" ],
+  "notes" : [ "该词在使用时要注意其搭配的对象，既可以是疾病，也可以是苦恼、不幸等抽象事物。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5905,
+  "word" : "患者",
+  "reading" : "かんじゃ",
+  "romaji" : null,
+  "meaning" : [ "患者；病人" ],
+  "notes" : [ "该词为音读词汇，“患”音读为“かん”，“者”音读为“じゃ”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5906,
+  "word" : "悩ましい",
+  "reading" : "なやましい",
+  "romaji" : null,
+  "meaning" : [ "烦恼的，苦恼的；棘手的，难办的" ],
+  "notes" : [ "「悩ましい」是い形容词，词尾「い」可根据不同语法规则发生变化用于不同语境。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5907,
+  "word" : "悩ます",
+  "reading" : "なやます",
+  "romaji" : null,
+  "meaning" : [ "使苦恼，使为难；使烦恼；使伤脑筋。" ],
+  "notes" : [ "该动词为他动词，使用时需要注意其宾语的搭配。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5908,
+  "word" : "悩み",
+  "reading" : "なやみ",
+  "romaji" : null,
+  "meaning" : [ "烦恼；苦恼；烦心事" ],
+  "notes" : [ "该词为名词，无词形变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5909,
+  "word" : "悩む",
+  "reading" : "なやむ",
+  "romaji" : null,
+  "meaning" : [ "烦恼，苦恼；伤脑筋，发愁" ],
+  "notes" : [ "「悩む」是五段动词，其词尾「む」在词尾变化时遵循五段动词的变化规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5910,
+  "word" : "悪い",
+  "reading" : "わるい",
+  "romaji" : null,
+  "meaning" : [ "坏的；不好的；恶劣的；不对的；抱歉的" ],
+  "notes" : [ "「悪い」作为形容词，有多种含义，在不同语境中可灵活理解。在表示道歉时，较为口语化。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5911,
+  "word" : "悪いけど",
+  "reading" : "わるいけど",
+  "romaji" : null,
+  "meaning" : [ "表示歉意，意为“不好意思、抱歉”" ],
+  "notes" : [ "这是一个常用的口语表达，用于在提出请求或表达歉意时使用。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5912,
+  "word" : "悪しからず",
+  "reading" : "あしからず",
+  "romaji" : null,
+  "meaning" : [ "请不要见怪；请原谅；请多包涵" ],
+  "notes" : [ "这是一种较为正式、礼貌的表达方式，常用于书面语或正式场合。" ],
+  "pos" : "INTERJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5913,
+  "word" : "悪人",
+  "reading" : "あくにん",
+  "romaji" : null,
+  "meaning" : [ "坏人，恶人" ],
+  "notes" : [ "该词为名词，无词形变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5914,
+  "word" : "悪化",
+  "reading" : "あっか",
+  "romaji" : null,
+  "meaning" : [ "名词：恶化；动词：恶化，情况变得更糟" ],
+  "notes" : [ "作为サ变动词使用时，常见形式为「悪化する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5915,
+  "word" : "悪口",
+  "reading" : "わるぐち",
+  "romaji" : null,
+  "meaning" : [ "名词，指坏话、骂人的话" ],
+  "notes" : [ "「悪口を言う」是常用搭配，表示说坏话。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5916,
+  "word" : "悪天候",
+  "reading" : "あくてんこう",
+  "romaji" : null,
+  "meaning" : [ "坏天气，恶劣的天气" ],
+  "notes" : [ "常用于描述不利于出行、活动等的天气状况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5917,
+  "word" : "悪寒",
+  "reading" : "おかん",
+  "romaji" : null,
+  "meaning" : [ "发冷，恶寒。指人体感觉寒冷，常是疾病的一种症状。" ],
+  "notes" : [ "该词常用于描述身体不适时的症状表现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5918,
+  "word" : "悪徳",
+  "reading" : "あくとく",
+  "romaji" : null,
+  "meaning" : [ "缺德，不道德；违背道德的行为" ],
+  "notes" : [ "常用于描述人或行为违背道德规范的情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5919,
+  "word" : "悪戦",
+  "reading" : "あくせん",
+  "romaji" : null,
+  "meaning" : [ "艰苦的战斗，激烈的较量" ],
+  "notes" : [ "常用于描述竞争、比赛等场景中激烈且艰难的过程。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5920,
+  "word" : "悪戯",
+  "reading" : "いたずら",
+  "romaji" : null,
+  "meaning" : [ "恶作剧；消遣，开玩笑；淘气，调皮" ],
+  "notes" : [ "该词为名词，使用时前面常搭配助词「を」来表示动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5921,
+  "word" : "悪者",
+  "reading" : "あくもの",
+  "romaji" : null,
+  "meaning" : [ "坏人；恶人；歹徒" ],
+  "notes" : [ "该词常用于描述道德败坏、做坏事的人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5922,
+  "word" : "悪質",
+  "reading" : "あくしつ",
+  "romaji" : null,
+  "meaning" : [ "质量差；性质恶劣；品质恶劣、坏心眼" ],
+  "notes" : [ "作为形容动词使用时，词尾要进行相应变化，如词干接「だ」「です」等，或中顿用「で」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5923,
+  "word" : "悪銭",
+  "reading" : "あくせん",
+  "romaji" : null,
+  "meaning" : [ "不义之财；来路不正的钱" ],
+  "notes" : [ "该词常用于描述通过不正当手段获取的钱财。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5924,
+  "word" : "悪魔",
+  "reading" : "あくま",
+  "romaji" : null,
+  "meaning" : [ "恶魔；魔鬼；恶人" ],
+  "notes" : [ "该词源自汉语，在日语中常用来比喻极端邪恶的人或事物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5925,
+  "word" : "悲しい",
+  "reading" : "かなしい",
+  "romaji" : null,
+  "meaning" : [ "悲伤的；难过的；悲痛的" ],
+  "notes" : [ "い形容词，词尾为「い」，有词形变化，可用于修饰名词、作谓语等。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5926,
+  "word" : "悲しむ",
+  "reading" : "かなしむ",
+  "romaji" : null,
+  "meaning" : [ "（感到）悲伤；悲痛；哀伤" ],
+  "notes" : [ "该词为五段动词，词尾为「む」，在日语中表达悲伤的情感。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5927,
+  "word" : "悲劇",
+  "reading" : "ひげき",
+  "romaji" : null,
+  "meaning" : [ "名词，指悲剧、惨剧；比喻不幸的遭遇。" ],
+  "notes" : [ "该词常用于描述具有悲惨结局的事件、故事等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5928,
+  "word" : "悲惨",
+  "reading" : "ひさん",
+  "romaji" : null,
+  "meaning" : [ "悲惨，凄惨；形容遭遇、状况等极其不幸、令人痛心。" ],
+  "notes" : [ "形容动词在修饰名词时，要使用「悲惨な」的形式；作谓语时，词尾要变成「悲惨だ」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5929,
+  "word" : "悲観",
+  "reading" : "ひかん",
+  "romaji" : null,
+  "meaning" : [ "悲观，失望；对事物的发展缺乏信心，持消极的看法。" ],
+  "notes" : [ "作为名词时，常和「的」搭配组成「悲観的」；作为动词时，是サ变动词，使用时常用「悲観する」形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5930,
+  "word" : "悲観的",
+  "reading" : "ひかんてき",
+  "romaji" : null,
+  "meaning" : [ "悲观的；消极的" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾需变成「だ」，作定语时词尾为「な」，作状语时词尾为「に」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5931,
+  "word" : "悲鳴",
+  "reading" : "ひめい",
+  "romaji" : null,
+  "meaning" : [ "悲鸣，惨叫；叫苦声" ],
+  "notes" : [ "常用于描述人在遭遇危险、恐惧等情况时发出的尖锐叫声。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5932,
+  "word" : "悼む",
+  "reading" : "いたむ",
+  "romaji" : null,
+  "meaning" : [ "哀悼，悼念；惋惜，痛惜" ],
+  "notes" : [ "该词为五段动词，词尾为「む」，在日语中用于表达对死者的哀悼之情，也可用于表达对事物的惋惜。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5933,
+  "word" : "情け",
+  "reading" : "なさけ",
+  "romaji" : null,
+  "meaning" : [ "仁慈，怜悯；情义，恩情；爱情，恋情" ],
+  "notes" : [ "该词通常用于表达人类情感方面的含义，如对他人的同情、人与人之间的情义等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5934,
+  "word" : "情けない",
+  "reading" : "なさけない",
+  "romaji" : null,
+  "meaning" : [ "可怜；可悲；可耻；没出息；不值一提" ],
+  "notes" : [ "该词为い形容词，词尾变化遵循い形容词的规则，如否定形式是「情けなくない」等。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5935,
+  "word" : "情け深い",
+  "reading" : "なさけぶかい",
+  "romaji" : null,
+  "meaning" : [ "仁慈的，有同情心的；心地善良的" ],
+  "notes" : [ "「情け深い」是一个描述人性格特征的い形容词，强调内心的善良和对他人的同情。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5936,
+  "word" : "情報",
+  "reading" : "じょうほう",
+  "romaji" : null,
+  "meaning" : [ "信息；消息；情报" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5937,
+  "word" : "情熱",
+  "reading" : "じょうねつ",
+  "romaji" : null,
+  "meaning" : [ "热情，激情；热忱" ],
+  "notes" : [ "常用于表达对事物的强烈喜爱和投入的情感。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5938,
+  "word" : "情緒",
+  "reading" : "じょうちょ",
+  "romaji" : null,
+  "meaning" : [ "情趣；情绪；情感氛围" ],
+  "notes" : [ "该词常用于描述某种氛围或人的情感状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5939,
+  "word" : "惑星",
+  "reading" : "わくせい",
+  "romaji" : null,
+  "meaning" : [ "行星；有前途的人" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5940,
+  "word" : "惚ける/恍ける",
+  "reading" : "ぼける",
+  "romaji" : null,
+  "meaning" : [ "装傻，装糊涂；出洋相；发呆，发愣；头脑变得迟钝" ],
+  "notes" : [ "该词在口语中较为常用，表达人表现出不精明、反应迟钝的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5941,
+  "word" : "惜しい",
+  "reading" : "おしい",
+  "romaji" : null,
+  "meaning" : [ "可惜的，遗憾的；舍不得的，吝惜的；惋惜的；觉得可惜" ],
+  "notes" : [ "「惜しい」是い形容词，词尾变化遵循い形容词的规则，如过去式为「惜しかった」，否定式为「惜しくない」等。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5942,
+  "word" : "惜しまず",
+  "reading" : "おしまず",
+  "romaji" : null,
+  "meaning" : [ "不惜，毫不吝惜" ],
+  "notes" : [ "该词一般用于描述某人在做某事时不吝惜付出某种代价，如时间、精力、金钱等。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5943,
+  "word" : "惜しむ",
+  "reading" : "おしむ",
+  "romaji" : null,
+  "meaning" : [ "1. 吝惜，舍不得；2. 惋惜；3. 爱惜，珍惜；4. 感到可惜，觉得遗憾" ],
+  "notes" : [ "该动词为五段动词，其词尾变化遵循五段动词的规则，如「惜しみます」「惜しんで」等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5944,
+  "word" : "惨め",
+  "reading" : "みじめ",
+  "romaji" : null,
+  "meaning" : [ "凄惨的，悲惨的；可怜的；寒碜的" ],
+  "notes" : [ "形容动词在句中作谓语时，要在词干后加「だ」；作定语时，直接修饰名词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5945,
+  "word" : "想像",
+  "reading" : "そうぞう",
+  "romaji" : null,
+  "meaning" : [ "名词，想象，设想；想象力" ],
+  "notes" : [ "该词为音读词汇，在日常表达和写作中较为常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5946,
+  "word" : "想定",
+  "reading" : "そうてい",
+  "romaji" : null,
+  "meaning" : [ "估计，设想，假想；假定，预设" ],
+  "notes" : [ "该词在日语中主要作为名词使用，常与动词搭配，如「想定する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5947,
+  "word" : "愉快",
+  "reading" : "ゆかい",
+  "romaji" : null,
+  "meaning" : [ "愉快的，高兴的；快活的，欢快的" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾要接「です」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5948,
+  "word" : "意向",
+  "reading" : "いこう",
+  "romaji" : null,
+  "meaning" : [ "意向，打算；意图，想法" ],
+  "notes" : [ "该词为音读词汇，在正式场合或书面语中常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5949,
+  "word" : "意味",
+  "reading" : "いみ",
+  "romaji" : null,
+  "meaning" : [ "意思；意义；含义；价值" ],
+  "notes" : [ "无" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5950,
+  "word" : "意図",
+  "reading" : "いと",
+  "romaji" : null,
+  "meaning" : [ "意图，打算，企图；有意识地做某事的想法" ],
+  "notes" : [ "该词为名词，不可作为动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5951,
+  "word" : "意地",
+  "reading" : "いじ",
+  "romaji" : null,
+  "meaning" : [ "心术，用心；固执，倔强；志气，骨气" ],
+  "notes" : [ "该词可用于描述人的性格特点，如固执、倔强等，也可指人做事的用心和意图。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5952,
+  "word" : "意地悪",
+  "reading" : "いじわる",
+  "romaji" : null,
+  "meaning" : [ "形容人爱捉弄人、使坏、搞恶作剧，也可表示行为带有恶意、刁难。" ],
+  "notes" : [ "意地悪作为形容动词，词尾变形遵循形容动词的规则，如词干加「な」修饰名词，词干加「に」修饰动词等。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5953,
+  "word" : "意外",
+  "reading" : "いがい",
+  "romaji" : null,
+  "meaning" : [ "出乎意料，意想不到；意外的，偶然的" ],
+  "notes" : [ "形容动词在修饰名词时，要将词尾变为「な」，如「意外な出来事」（意外的事件）。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5954,
+  "word" : "意外と",
+  "reading" : "いがいに",
+  "romaji" : null,
+  "meaning" : [ "意外地；出乎意料地" ],
+  "notes" : [ "该词用于表达实际情况与预想不同，常置于句中修饰动词、形容词等。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5955,
+  "word" : "意志",
+  "reading" : "いし",
+  "romaji" : null,
+  "meaning" : [ "名词，指人的意愿、决心、意向等心理状态。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5956,
+  "word" : "意志形",
+  "reading" : "いしけい",
+  "romaji" : null,
+  "meaning" : [ "日语动词的一种变形形式，用于说话人当场表示自己的决心、意志。其变形规则如下：从动词基本形变起，动词一类（五段动词）：词尾假名变为该段“お”段上的假名，并后续长音“う”；动词二类（一段动词）：去掉词尾的“る”，后续“よう”；动词三类：“する”变为“しよう”，“くる”变为“こよう”。" ],
+  "notes" : [ "意志形常用于表达个人的意愿、提议或劝诱等语气。在口语和书面语中都较为常用。" ],
+  "pos" : "GRAMMAR",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5957,
+  "word" : "意思",
+  "reading" : "いし",
+  "romaji" : null,
+  "meaning" : [ "意思，想法；打算；意志" ],
+  "notes" : [ "该词在日语中常用来表达个人的主观想法、意愿等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5958,
+  "word" : "意欲",
+  "reading" : "いよく",
+  "romaji" : null,
+  "meaning" : [ "意愿；积极性；热情" ],
+  "notes" : [ "该词多用于描述人对事物的积极态度和热情。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5959,
+  "word" : "意気込み",
+  "reading" : "いきごみ",
+  "romaji" : null,
+  "meaning" : [ "干劲儿，热情；积极性；决心" ],
+  "notes" : [ "常用于表达人在做某事时所具有的积极态度和热情。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5960,
+  "word" : "意気込む",
+  "reading" : "いきごむ",
+  "romaji" : null,
+  "meaning" : [ "振奋，鼓起干劲儿；下定决心去做某事" ],
+  "notes" : [ "该词常用于表达积极投入某项活动时的心理状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5961,
+  "word" : "意義",
+  "reading" : "いぎ",
+  "romaji" : null,
+  "meaning" : [ "意义，价值；重要性" ],
+  "notes" : [ "该词是音读词汇，在书面语和正式场合使用较多。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5962,
+  "word" : "意見",
+  "reading" : "いけん",
+  "romaji" : null,
+  "meaning" : [ "意见；见解" ],
+  "notes" : [ "该词为名词，无动词的提建议、劝告之意，使用时常见搭配如「意見を述べる」（陈述意见）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5963,
+  "word" : "意識",
+  "reading" : "いしき",
+  "romaji" : null,
+  "meaning" : [ "名词，意为意识；知觉；觉悟；自觉" ],
+  "notes" : [ "常用于描述人的心理状态或认知情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5964,
+  "word" : "愚か",
+  "reading" : "おろか",
+  "romaji" : null,
+  "meaning" : [ "愚蠢的，糊涂的；荒唐的，无意义的" ],
+  "notes" : [ "「愚か」是い形容词，词尾变化遵循い形容词的规则，如「愚かだった」（过去式）、「愚かではない」（否定式）等。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5965,
+  "word" : "愚痴",
+  "reading" : "ぐち",
+  "romaji" : null,
+  "meaning" : [ "抱怨，牢骚；怨言，怪话" ],
+  "notes" : [ "常用于表达某人对某事不满而发出的抱怨话语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5966,
+  "word" : "愛",
+  "reading" : "あい",
+  "romaji" : null,
+  "meaning" : [ "名词，爱；爱情；慈爱；喜爱" ],
+  "notes" : [ "该词是日语中常用的表达情感的名词，使用较为广泛。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5967,
+  "word" : "愛くるしい",
+  "reading" : "いとくるしい",
+  "romaji" : null,
+  "meaning" : [ "天真可爱的；令人怜爱的；惹人疼爱的" ],
+  "notes" : [ "这是一个描述人或事物可爱、惹人怜爱的形容词，常用于表达对人或事物的喜爱之情。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5968,
+  "word" : "愛しい",
+  "reading" : "いとしい",
+  "romaji" : null,
+  "meaning" : [ "可爱的；令人怜爱的；宝贵的；心爱的" ],
+  "notes" : [ "「愛しい」是い形容词，词尾变化遵循い形容词的规则，如否定形式是「愛しくない」，过去式是「愛しかった」等。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5969,
+  "word" : "愛し合う",
+  "reading" : "あいしあう",
+  "romaji" : null,
+  "meaning" : [ "相互爱慕，相爱，彼此相爱；相互关爱" ],
+  "notes" : [ "该词强调双方之间相互的爱情或关爱情感。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5970,
+  "word" : "愛する",
+  "reading" : "あいする",
+  "romaji" : null,
+  "meaning" : [ "喜爱，热爱；爱；爱好；疼爱；敬爱" ],
+  "notes" : [ "“愛する”是较为正式、书面的表达爱的方式，在口语中也会使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5971,
+  "word" : "愛好",
+  "reading" : "あいこう",
+  "romaji" : null,
+  "meaning" : [ "爱好，喜爱；爱好的事物" ],
+  "notes" : [ "「愛好」是一个名词，常与「者」搭配，构成「愛好者」表示爱好者。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5972,
+  "word" : "愛好者",
+  "reading" : "あいこうしゃ",
+  "romaji" : null,
+  "meaning" : [ "爱好者" ],
+  "notes" : [ "“愛好者”用于表示对某事物有喜爱和热衷之情的人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5973,
+  "word" : "愛嬌",
+  "reading" : "あいきょう",
+  "romaji" : null,
+  "meaning" : [ "言行举止可爱；殷勤，讨好；惹人喜爱的态度、神情等" ],
+  "notes" : [ "该词常用于形容人具有可爱、亲切的特质，给人留下好印象。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5974,
+  "word" : "愛情",
+  "reading" : "あいじょう",
+  "romaji" : null,
+  "meaning" : [ "爱；爱情；感情；慈爱。" ],
+  "notes" : [ "常用于表达人与人之间的情感，可用于亲情、爱情等多种情境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5975,
+  "word" : "愛想",
+  "reading" : "あいそ",
+  "romaji" : null,
+  "meaning" : [ "1. 亲切，和蔼；2. 招待；3. 寒暄，应酬；4. 人缘，受欢迎程度" ],
+  "notes" : [ "「愛想を尽くす」是常用搭配，表示殷勤招待；「愛想がいい」表示亲切和蔼。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5976,
+  "word" : "愛用",
+  "reading" : "あいよう",
+  "romaji" : null,
+  "meaning" : [ "动3，爱用，经常使用，喜欢用" ],
+  "notes" : [ "「愛用」是一个サ変動詞，在使用时通常以「愛用する」的形式出现。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5977,
+  "word" : "愛着",
+  "reading" : "あいちゃく",
+  "romaji" : null,
+  "meaning" : [ "名词，指对人、地方、事物等产生的眷恋、留恋、难舍的情感。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5978,
+  "word" : "愛顧",
+  "reading" : "あいこ",
+  "romaji" : null,
+  "meaning" : [ "名词，指光顾、眷顾、惠顾，多用于商业场景，表示顾客对店铺等的支持和照顾。" ],
+  "notes" : [ "该词常用于商业表达，向顾客表示感谢和期待继续获得支持。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5979,
+  "word" : "感じ",
+  "reading" : "かんじ",
+  "romaji" : null,
+  "meaning" : [ "感觉；印象；感受；情绪；心情等。" ],
+  "notes" : [ "「感じ」是一个较为常用的名词，常用来描述人的主观感受和对事物的直观印象。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5980,
+  "word" : "感じがします",
+  "reading" : "かんじがします",
+  "romaji" : null,
+  "meaning" : [ "感觉，觉得，有一种……的感觉" ],
+  "notes" : [ "该表达常用于表达个人主观的感受或预感。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5981,
+  "word" : "感じます",
+  "reading" : "かんじます",
+  "romaji" : null,
+  "meaning" : [ "感觉，觉得；感到；察觉" ],
+  "notes" : [ "该词为一段动词，其基本形是「感じる」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5982,
+  "word" : "感じる",
+  "reading" : "かんじる",
+  "romaji" : null,
+  "meaning" : [ "感觉，感到；觉得，认为；感受，体验" ],
+  "notes" : [ "该动词为他动词，使用时需注意宾语的搭配。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5983,
+  "word" : "感動",
+  "reading" : "かんどう",
+  "romaji" : null,
+  "meaning" : [ "感动；激动；感慨" ],
+  "notes" : [ "该词是名词，常与「に」搭配使用，表示被某事或某物感动。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5984,
+  "word" : "感動する",
+  "reading" : "かんどうする",
+  "romaji" : null,
+  "meaning" : [ "感动；激动；打动" ],
+  "notes" : [ "该词为サ变动词，在使用时需注意其词尾变化规则。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5985,
+  "word" : "感度",
+  "reading" : "かんど",
+  "romaji" : null,
+  "meaning" : [ "灵敏度，灵敏性；（对某种事物的）感受程度" ],
+  "notes" : [ "常用于描述仪器设备的灵敏程度，也可用于形容人对事物的感受能力。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5986,
+  "word" : "感心",
+  "reading" : "かんしん",
+  "romaji" : null,
+  "meaning" : [ "1. 钦佩，佩服；2. 好，不错" ],
+  "notes" : [ "作名词时，常与する搭配使用，构成动作表达；作评价时，可单独使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5987,
+  "word" : "感性",
+  "reading" : "かんせい",
+  "romaji" : null,
+  "meaning" : [ "感觉、感性；对事物的感受、感知能力" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5988,
+  "word" : "感情",
+  "reading" : "かんじょう",
+  "romaji" : null,
+  "meaning" : [ "感情，情绪；情感" ],
+  "notes" : [ "该词为音读词汇，常用于描述人类内心的情感状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5989,
+  "word" : "感想",
+  "reading" : "かんそう",
+  "romaji" : null,
+  "meaning" : [ "名词，指对人、事、物等产生的感受和想法。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5990,
+  "word" : "感染",
+  "reading" : "かんせん",
+  "romaji" : null,
+  "meaning" : [ "感染，传染；沾染（不良习惯、风气等）" ],
+  "notes" : [ "该词为名词，在使用时需搭配合适的动词，如「する」等，来表达动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5991,
+  "word" : "感激",
+  "reading" : "かんげき",
+  "romaji" : null,
+  "meaning" : [ "名词，感激，感动" ],
+  "notes" : [ "「感激」一般用于表达内心受到强烈触动，产生感动、感谢等情绪。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5992,
+  "word" : "感慨無量",
+  "reading" : "かんがいむりょう",
+  "romaji" : null,
+  "meaning" : [ "感慨万千；无限感慨" ],
+  "notes" : [ "该词为固定表达，常用于表达内心强烈的感慨之情。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5993,
+  "word" : "感覚",
+  "reading" : "かんかく",
+  "romaji" : null,
+  "meaning" : [ "名词，指感觉、知觉；对事物的感受、直觉。" ],
+  "notes" : [ "该词常用于描述人对事物的感知和感受能力。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5994,
+  "word" : "感触",
+  "reading" : "かんしょく",
+  "romaji" : null,
+  "meaning" : [ "触觉，触感；对事物的感受、感觉" ],
+  "notes" : [ "该词常用于描述对物体表面的感觉或对事情的主观感受。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5995,
+  "word" : "感謝",
+  "reading" : "かんしゃ",
+  "romaji" : null,
+  "meaning" : [ "感谢，感激" ],
+  "notes" : [ "作为名词使用时，可搭配「する」构成动词短语；作为サ变动词使用时，可直接表示动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5996,
+  "word" : "感謝する",
+  "reading" : "かんしゃする",
+  "romaji" : null,
+  "meaning" : [ "表示感激、感谢" ],
+  "notes" : [ "这是一个サ变动词，敬体形式是「感謝します」，常用来表达对他人帮助、支持等的感激之情。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5997,
+  "word" : "感銘",
+  "reading" : "かんめい",
+  "romaji" : null,
+  "meaning" : [ "感慨、感动；深刻的印象。" ],
+  "notes" : [ "该词为名词，在句中可作主语、宾语等成分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5998,
+  "word" : "態勢",
+  "reading" : "たいせい",
+  "romaji" : null,
+  "meaning" : [ "态势，姿态；准备，体制" ],
+  "notes" : [ "常用于描述某种状态、准备情况或体制的表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5999,
+  "word" : "態度",
+  "reading" : "たいど",
+  "romaji" : null,
+  "meaning" : [ "态度；举止；姿态" ],
+  "notes" : [ "该词为音读词汇，在日常交流和书面语中较为常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6000,
+  "word" : "慌ただしい",
+  "reading" : "あわただしい",
+  "romaji" : null,
+  "meaning" : [ "慌张的，匆忙的；忙乱的；纷扰的" ],
+  "notes" : [ "常用于描述人处于慌乱忙乱的状态，或形容环境、氛围杂乱纷扰。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+} ]

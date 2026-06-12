@@ -1,0 +1,901 @@
+[ {
+  "id" : 7201,
+  "word" : "桜前線北上中",
+  "reading" : "さくらぜんせんほくじょうちゅう",
+  "romaji" : null,
+  "meaning" : [ "惯用语 指樱花前线正在向北移动，即樱花由南向北依次开放的状态" ],
+  "notes" : [ "「桜前線」是指日本春季樱花从南到北依次开放的日期线，「北上中」表示正在向北移动。常用于春季天气预报或樱花观赏相关话题。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7202,
+  "word" : "桜茶",
+  "reading" : "さくらちゃ",
+  "romaji" : null,
+  "meaning" : [ "樱花茶，一种将樱花（通常是八重樱的腌渍花瓣）放入热水中冲泡而成的日本传统茶饮料" ],
+  "notes" : [ "多在春季饮用，具有樱花的香气和淡淡的甜味，常作为日式点心的搭配茶" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7203,
+  "word" : "桜餅",
+  "reading" : "さくらもち",
+  "romaji" : null,
+  "meaning" : [ "樱花糕，樱花饼（一种日式点心，通常用糯米包裹红豆馅，外裹盐渍樱花叶）" ],
+  "notes" : [ "日本春季代表性点心，因使用樱花叶增添风味而得名，有大福型和长圆形（関東・関西で形状が異なる場合があります）等不同种类。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7204,
+  "word" : "桟橋",
+  "reading" : "さんばし",
+  "romaji" : null,
+  "meaning" : [ "码头，栈桥，（连接岸边与船的）跳板" ],
+  "notes" : [ "指供人上下船或装卸货物用的栈桥，也指港口的码头设施" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7205,
+  "word" : "桶",
+  "reading" : "おけ",
+  "romaji" : null,
+  "meaning" : [ "桶，木桶，水桶" ],
+  "notes" : [ "通常指有把手的圆柱形容器，材质多为木头或塑料。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7206,
+  "word" : "梅",
+  "reading" : "うめ",
+  "romaji" : null,
+  "meaning" : [ "名词 梅花，梅树；梅子，青梅；梅酒" ],
+  "notes" : [ "「梅」は果物としての梅子、その木、花を指す。また、梅酒（うめしゅ）の原料としてもよく使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7207,
+  "word" : "梅雨",
+  "reading" : "つゆ",
+  "romaji" : null,
+  "meaning" : [ "梅雨；梅雨季节（日本及中国长江中下游地区等在夏季初期出现的持续阴雨天气）" ],
+  "notes" : [ "「梅雨」は通常、6月から7月にかけての期間を指し、「つゆ」とも読みます。形容詞の「梅雨の」形でも使用されます。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7208,
+  "word" : "梅雨明け",
+  "reading" : "つゆあけ",
+  "romaji" : null,
+  "meaning" : [ "出梅，梅雨期结束" ],
+  "notes" : [ "由「梅雨」(つゆ)和「明け」(あけ、结束)构成的复合名词，表示梅雨季节的结束。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7209,
+  "word" : "梢",
+  "reading" : "こずえ",
+  "romaji" : null,
+  "meaning" : [ "树梢，树尖，枝条的末端" ],
+  "notes" : [ "通常指树木枝条的顶端部分，可用于比喻事物的末端或细微之处。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7210,
+  "word" : "梨",
+  "reading" : "なし",
+  "romaji" : null,
+  "meaning" : [ "梨，梨子" ],
+  "notes" : [ "果物の一種で、丸い形をしており、果肉は白くて汁が多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7211,
+  "word" : "梯子",
+  "reading" : "はしご",
+  "romaji" : null,
+  "meaning" : [ "梯子，阶梯" ],
+  "notes" : [ "常用汉字词，指用于攀爬的工具，由两根立柱和若干横档组成。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7212,
+  "word" : "梱包",
+  "reading" : "こんぽう",
+  "romaji" : null,
+  "meaning" : [ "包装，捆包，打包（将物品用箱子、袋子等整理并捆绑起来的行为或过程）" ],
+  "notes" : [ "「梱包する」是サ变动词，由名词「梱包」后续「する」构成。主要用于表示对物品进行包装、捆扎以便运输或保存的行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7213,
+  "word" : "棄権",
+  "reading" : "きけん",
+  "romaji" : null,
+  "meaning" : [ "放弃权利；弃权（尤指在投票、选举等场合不参与投票或放弃表决权）" ],
+  "notes" : [ "作为名词使用时可后续「する」构成动词，活用形式与一般サ変动词相同。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7214,
+  "word" : "棒",
+  "reading" : "ぼう",
+  "romaji" : null,
+  "meaning" : [ "棒，棍子；条状物；（棒球）球棒；（数学）棒状图形" ],
+  "notes" : [ "常用汉字，可用于表示各种棒状物体，也有比喻用法" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7215,
+  "word" : "棒球",
+  "reading" : "やきゅう",
+  "romaji" : null,
+  "meaning" : [ "名词 棒球（一种球类运动，两队各9名选手，通过击球和跑垒得分）" ],
+  "notes" : [ "「ピッチャー」は野球の位置の一つで「投手」を意味します。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7216,
+  "word" : "棘",
+  "reading" : "とげ",
+  "romaji" : null,
+  "meaning" : [ "1. （植物等的）刺，荆棘；2. （说话、态度等的）尖酸，刻薄，带刺" ],
+  "notes" : [ "常用汉字，可用于比喻义表示言语尖刻" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7217,
+  "word" : "棚",
+  "reading" : "たな",
+  "romaji" : null,
+  "meaning" : [ "架子，搁板，搁架" ],
+  "notes" : [ "表示用于放置物品的水平架子，可用于家庭、商店等场所。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7218,
+  "word" : "棚上げ",
+  "reading" : "たなあげ",
+  "romaji" : null,
+  "meaning" : [ "1. 搁置，暂不处理；2. （商品等）囤积不卖，囤积居奇" ],
+  "notes" : [ "「棚上げする」の形で動詞として使用されることが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7219,
+  "word" : "棚卸し",
+  "reading" : "たなおろし",
+  "romaji" : null,
+  "meaning" : [ "盘点，盘货，清查库存" ],
+  "notes" : [ "可作名词使用，也可构成复合动词「棚卸しする」（盘点，盘货）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7220,
+  "word" : "棟",
+  "reading" : "むね",
+  "romaji" : null,
+  "meaning" : [ "1. 屋脊，房顶；2. 大梁，脊檩；3. （房屋的）栋，幢" ],
+  "notes" : [ "「棟」作为量词时，用于计算房屋的数量，相当于汉语的“栋”“幢”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7221,
+  "word" : "森",
+  "reading" : "もり",
+  "romaji" : null,
+  "meaning" : [ "森林，树林" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7222,
+  "word" : "森林",
+  "reading" : "しんりん",
+  "romaji" : null,
+  "meaning" : [ "森林，树林" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7223,
+  "word" : "森林破壊",
+  "reading" : "しんりんはかい",
+  "romaji" : null,
+  "meaning" : [ "森林遭到破坏的现象；对森林的破坏行为" ],
+  "notes" : [ "环境相关常用词汇，由「森林」（しんりん）和「破壊」（はかい）构成的复合名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7224,
+  "word" : "植える",
+  "reading" : "うえる",
+  "romaji" : null,
+  "meaning" : [ "种植，栽种；移植；嵌入，插入" ],
+  "notes" : [ "他动词，基本形为「植える」，活用形变化遵循一段动词规则。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7225,
+  "word" : "植わる",
+  "reading" : "うわる",
+  "romaji" : null,
+  "meaning" : [ "被种植，（植物）生长，栽有（植物）" ],
+  "notes" : [ "自动词，表示植物被种植后生长的状态或自然生长的状态，对应的他动词为「植える」（うえる）。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7226,
+  "word" : "植木",
+  "reading" : "うえき",
+  "romaji" : null,
+  "meaning" : [ "栽种的树，盆栽的花木，庭园树" ],
+  "notes" : [ "可指庭院中种植的树木或盆栽植物，常与「鉢（はち）」组合为「植木鉢」（花盆）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7227,
+  "word" : "植林活動",
+  "reading" : "しょくりんかつどう",
+  "romaji" : null,
+  "meaning" : [ "植树活动，为了绿化、防止水土流失等目的而进行的集体植树行为" ],
+  "notes" : [ "由「植林」（しょくりん，植树造林）和「活動」（かつどう，活动）构成的复合名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7228,
+  "word" : "植民地",
+  "reading" : "しょくみんち",
+  "romaji" : null,
+  "meaning" : [ "殖民地，指由宗主国统治、没有政治、经济、军事和外交方面独立权利的地区" ],
+  "notes" : [ "「植民地」是指一个国家在国外占领并移民居住的地区，或由宗主国控制的附属地区。在历史上主要指15世纪至20世纪欧洲列强在世界各地建立的殖民地。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7229,
+  "word" : "植物",
+  "reading" : "しょくぶつ",
+  "romaji" : null,
+  "meaning" : [ "植物，指生物的一大类，多具有细胞壁，靠光合作用制造养分" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7230,
+  "word" : "椎茸",
+  "reading" : "しいたけ",
+  "romaji" : null,
+  "meaning" : [ "香菇，冬菇，香蕈" ],
+  "notes" : [ "「椎茸」は、椎の木の枯れ木に生えるキノコを指す。人工栽培も盛んに行われている。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7231,
+  "word" : "検事",
+  "reading" : "けんじ",
+  "romaji" : null,
+  "meaning" : [ "检察官，检察厅的官员，负责刑事案件的公诉和侦查监督等工作" ],
+  "notes" : [ "法律相关词汇，正式场合使用，对应英文为\"public prosecutor\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7232,
+  "word" : "検察官",
+  "reading" : "けんさつかん",
+  "romaji" : null,
+  "meaning" : [ "检察官，检察厅的官员，负责刑事案件的公诉和侦查监督等工作" ],
+  "notes" : [ "法律相关词汇，指在日本检察厅工作的国家公务员，主要职责包括提起公诉、指挥侦查等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7233,
+  "word" : "検査",
+  "reading" : "けんさ",
+  "romaji" : null,
+  "meaning" : [ "检查，检验，查验" ],
+  "notes" : [ "可作サ变动词使用，形式为「検査する」（けんさする），意为“进行检查”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7234,
+  "word" : "検討",
+  "reading" : "けんとう",
+  "romaji" : null,
+  "meaning" : [ "讨论，探讨，研究，审议" ],
+  "notes" : [ "「検討する」の形で動詞として使用されることが多い。名詞としても単独で使用可能（例：検討中）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7235,
+  "word" : "検討します",
+  "reading" : "けんとうします",
+  "romaji" : null,
+  "meaning" : [ "讨论，研究，探讨" ],
+  "notes" : [ "「検討する」的礼貌形，用于正式场合或对长辈、上级说话时" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7236,
+  "word" : "楕円形",
+  "reading" : "だえんけい",
+  "romaji" : null,
+  "meaning" : [ "椭圆形，椭圆形状" ],
+  "notes" : [ "由「楕円」（だえん，椭圆）和「形」（けい，形状）构成的复合名词，指椭圆的形状。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7237,
+  "word" : "業務",
+  "reading" : "ぎょうむ",
+  "romaji" : null,
+  "meaning" : [ "业务，工作，职业上的任务或职责" ],
+  "notes" : [ "通常指职业或职务上的工作内容，与「仕事」相比更侧重于特定职责范围内的任务" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7238,
+  "word" : "業界",
+  "reading" : "ぎょうかい",
+  "romaji" : null,
+  "meaning" : [ "行业，业界，某一职业领域的全体" ],
+  "notes" : [ "指特定的职业领域或行业全体，包括相关的企业、从业者等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7239,
+  "word" : "業績",
+  "reading" : "ぎょうせき",
+  "romaji" : null,
+  "meaning" : [ "業務上の成果や成績。特に仕事や事業で得られた成果・実績。" ],
+  "notes" : [ "「業」(ぎょう)は仕事や事業を意味し、「績」(せき)は成果や実績を表す。主に仕事や事業に関する成果を指す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7240,
+  "word" : "極めて",
+  "reading" : "きわめて",
+  "romaji" : null,
+  "meaning" : [ "极其，非常，极度" ],
+  "notes" : [ "表示程度非常高，用于书面语或正式场合较多" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7241,
+  "word" : "極める",
+  "reading" : "きわめる",
+  "romaji" : null,
+  "meaning" : [ "1. 达到极限，极尽；2. 精通，熟练掌握；3. 极其，非常" ],
+  "notes" : [ "「極める」作为他动词使用，其自动词形式为「極まる（きわまる）」。表示程度时常用「～の極みだ」的形式。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7242,
+  "word" : "極楽",
+  "reading" : "ごくらく",
+  "romaji" : null,
+  "meaning" : [ "极乐，极乐世界，天堂；无忧无虑的快乐生活" ],
+  "notes" : [ "源自佛教用语，指阿弥陀佛的净土，后也用于形容非常舒适快乐的生活状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7243,
+  "word" : "極端",
+  "reading" : "きょくたん",
+  "romaji" : null,
+  "meaning" : [ "极端，偏激，过火" ],
+  "notes" : [ "可作名词使用，如「極端な両極」（极端的两极）" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7244,
+  "word" : "極限",
+  "reading" : "きょくげん",
+  "romaji" : null,
+  "meaning" : [ "极限，最大限度；数学中的极限" ],
+  "notes" : [ "可用于表示物理、心理等方面的最大限度，也常用于数学术语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7245,
+  "word" : "楽",
+  "reading" : "らく",
+  "romaji" : null,
+  "meaning" : [ "（精神、身体）快乐，舒适；容易，简单；轻松，不费力" ],
+  "notes" : [ "「楽」作为形容动词使用，常后续「だ/です」「な」「に」等。其副词形式为「楽に」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7246,
+  "word" : "楽々",
+  "reading" : "らくらく",
+  "romaji" : null,
+  "meaning" : [ "副词：轻松地，毫不费力地；形容动词：轻松的，舒适的，安逸的" ],
+  "notes" : [ "作为副词使用时，常后续「と」；作为形容动词使用时，有「楽々な+名词」「楽々だ/です」等用法。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7247,
+  "word" : "楽しい",
+  "reading" : "たのしい",
+  "romaji" : null,
+  "meaning" : [ "高兴的，快乐的，愉快的，有趣的" ],
+  "notes" : [ "イ形容词，基本形为「楽しい」，过去式为「楽しかった」，否定形为「楽しくない」" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7248,
+  "word" : "楽しみ",
+  "reading" : "たのしみ",
+  "romaji" : null,
+  "meaning" : [ "乐趣，快乐；期待，盼望" ],
+  "notes" : [ "可构成惯用表达「楽しみにする」（期待）、「楽しみにしています」（我很期待）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7249,
+  "word" : "楽しむ",
+  "reading" : "たのしむ",
+  "romaji" : null,
+  "meaning" : [ "享受，欣赏，愉快地度过；期待，盼望" ],
+  "notes" : [ "他动词，通常以「～を楽しむ」形式使用" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7250,
+  "word" : "楽器",
+  "reading" : "がっき",
+  "romaji" : null,
+  "meaning" : [ "乐器，演奏音乐所用的器具" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7251,
+  "word" : "楽観",
+  "reading" : "らっかん",
+  "romaji" : null,
+  "meaning" : [ "乐观，对事物抱有积极向上的看法" ],
+  "notes" : [ "通常与「的」结合构成形容动词「楽観的」使用，单独作为名词时表示乐观的心态或态度" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7252,
+  "word" : "楽観的",
+  "reading" : "らっかんてき",
+  "romaji" : null,
+  "meaning" : [ "形容动词，指对事物或未来抱有积极、向好的看法，认为结果会顺利或良好。" ],
+  "notes" : [ "「楽観的」是由名词「楽観」（らっかん）加上接尾词「的」（てき）构成的形容动词，常用来修饰名词或作谓语，其否定形式为「楽観的ではない」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7253,
+  "word" : "概ね",
+  "reading" : "およそ",
+  "romaji" : null,
+  "meaning" : [ "大概，大致，大约；大部分，大体上" ],
+  "notes" : [ "表示接近准确值或整体情况的大致状态，书面语中使用较多" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7254,
+  "word" : "概念",
+  "reading" : "がいねん",
+  "romaji" : null,
+  "meaning" : [ "概念，观念，思想" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7255,
+  "word" : "概略",
+  "reading" : "がいりゃく",
+  "romaji" : null,
+  "meaning" : [ "概要，概略，梗概，大致内容" ],
+  "notes" : [ "常用汉字词，可用于表示事物的大致轮廓或主要内容" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7256,
+  "word" : "概要",
+  "reading" : "がいよう",
+  "romaji" : null,
+  "meaning" : [ "事物の主要な内容や要点をまとめたもの。概略。大略。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7257,
+  "word" : "概説",
+  "reading" : "がいせつ",
+  "romaji" : null,
+  "meaning" : [ "概说，概述，概要；对事物进行概括性的说明" ],
+  "notes" : [ "可作为サ变动词使用，构成「概説する」（概述，概括说明）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7258,
+  "word" : "概論",
+  "reading" : "がいろん",
+  "romaji" : null,
+  "meaning" : [ "概论，概括性论述，对某一领域或主题的基本原理、主要内容进行简要概括的论述" ],
+  "notes" : [ "通常作为名词使用，可构成复合词如「文学概論」「科学概論」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7259,
+  "word" : "構う",
+  "reading" : "かまう",
+  "romaji" : null,
+  "meaning" : [ "管，干预；照顾，照料；介意，在乎；招待，款待" ],
+  "notes" : [ "常用否定形式「構わない」表示“没关系，不介意”。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7260,
+  "word" : "構える",
+  "reading" : "かまえる",
+  "romaji" : null,
+  "meaning" : [ "1. 修建，建造；2. 设立，开设（店铺、公司等）；3. 摆出（姿势、架势）；4. 准备，防备；5. 假托，装作" ],
+  "notes" : [ "「構える」是他动词，强调有意识地做出某种行为或状态。其对应的自动词为「構える」（かまえる），但使用频率较低，通常情况下「構える」多作为他动词使用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7261,
+  "word" : "構内",
+  "reading" : "こうない",
+  "romaji" : null,
+  "meaning" : [ "特定の施設や組織の境界内、敷地内。例えば駅、工場、会社、学校などの内部範囲。" ],
+  "notes" : [ "「構内」は主に施設や組織の物理的な境界内を指す場所名詞です。「構外」（がいがい）と対比して使用されることが多いです。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7262,
+  "word" : "構想",
+  "reading" : "こうそう",
+  "romaji" : null,
+  "meaning" : [ "设想，构思，构想（方案、计划、作品等）" ],
+  "notes" : [ "可作サ变动词使用，构成「構想する」形式，意为“进行设想，构思”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7263,
+  "word" : "構成",
+  "reading" : "こうせい",
+  "romaji" : null,
+  "meaning" : [ "名词 构成，组成，结构；构造" ],
+  "notes" : [ "可作サ変動詞使用（構成する），表示“构成，组成”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7264,
+  "word" : "構造",
+  "reading" : "こうぞう",
+  "romaji" : null,
+  "meaning" : [ "构造，结构；建筑结构；组织，体系" ],
+  "notes" : [ "可用于表示物体的物理结构、抽象事物的组织体系等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7265,
+  "word" : "様変わり",
+  "reading" : "さまがわり",
+  "romaji" : null,
+  "meaning" : [ "样子改变，情况变化；(行情、形势等的)突变，骤变" ],
+  "notes" : [ "通常与「する」结合使用，构成サ变动词「様変わりする」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7266,
+  "word" : "様子",
+  "reading" : "ようす",
+  "romaji" : null,
+  "meaning" : [ "样子，情况，状态，情形；迹象，征兆" ],
+  "notes" : [ "常用搭配有「様子を見る」（观察情况）、「様子がない」（没有迹象）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7267,
+  "word" : "様式",
+  "reading" : "ようしき",
+  "romaji" : null,
+  "meaning" : [ "样式，格式，形式，方式" ],
+  "notes" : [ "常用汉字词，指事物的标准形式或固定格式，尤其用于文件、表格等正式场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7268,
+  "word" : "様相",
+  "reading" : "ようそう",
+  "romaji" : null,
+  "meaning" : [ "样子，情况，状态，面貌" ],
+  "notes" : [ "通常用于描述事物呈现出来的外观或状态，书面语中使用较多。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7269,
+  "word" : "標本",
+  "reading" : "ひょうほん",
+  "romaji" : null,
+  "meaning" : [ "标本，样本，样品，范例" ],
+  "notes" : [ "表示经过处理保存起来的动植物等样品，也可比喻具有代表性的事物或人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7270,
+  "word" : "標準",
+  "reading" : "ひょうじゅん",
+  "romaji" : null,
+  "meaning" : [ "标准，规范，基准" ],
+  "notes" : [ "可构成复合词，如「標準語」（标准语）、「標準偏差」（标准偏差）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7271,
+  "word" : "標識",
+  "reading" : "ひょうしき",
+  "romaji" : null,
+  "meaning" : [ "标识，标记，记号；路标，指示牌" ],
+  "notes" : [ "指用于指示、警告、引导等的视觉标识，包括交通标志、公共设施标识等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7272,
+  "word" : "模倣",
+  "reading" : "もほう",
+  "romaji" : null,
+  "meaning" : [ "模仿，效仿，仿效（他人的行为、样式、方法等）" ],
+  "notes" : [ "「模倣する」の形で動詞として使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7273,
+  "word" : "模型",
+  "reading" : "もけい",
+  "romaji" : null,
+  "meaning" : [ "模型，模型制品，样板，模式" ],
+  "notes" : [ "指按比例制作的实物的缩小或放大复制品，也可指抽象的模式、样板。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7274,
+  "word" : "模様",
+  "reading" : "もよう",
+  "romaji" : null,
+  "meaning" : [ "1. 花纹，花样，图案；2. 样子，情况，状态；3. 征兆，迹象" ],
+  "notes" : [ "常用汉字，可用于描述物体表面的装饰图案或事物呈现的状态、趋势" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7275,
+  "word" : "模範",
+  "reading" : "もはん",
+  "romaji" : null,
+  "meaning" : [ "模范，榜样，典范，范例" ],
+  "notes" : [ "常用汉字词，可用于形容人或事物作为榜样的存在" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7276,
+  "word" : "模索/摸索",
+  "reading" : "もさく",
+  "romaji" : null,
+  "meaning" : [ "探索，摸索，探求（未知的事物或方法）" ],
+  "notes" : [ "「模索」作为名词时可后续「する」构成サ変动词，意为进行探索或探求的行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7277,
+  "word" : "権利",
+  "reading" : "けんり",
+  "romaji" : null,
+  "meaning" : [ "法律上または道義上、当然に持つべき利益や資格。他人から干渉されないように保障されるもの。" ],
+  "notes" : [ "「権利」は主に法律や社会的な文脈で使用される抽象的な概念を表す名詞。「権利を主張する」「権利を侵害する」などの表現がよく使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7278,
+  "word" : "権力",
+  "reading" : "けんりょく",
+  "romaji" : null,
+  "meaning" : [ "权力，指对他人或事物的支配力量、影响力" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7279,
+  "word" : "権威",
+  "reading" : "けんい",
+  "romaji" : null,
+  "meaning" : [ "权威，威信，权力，权威性" ],
+  "notes" : [ "指在特定领域具有最高地位和影响力的人或事物，也指其拥有的权力和威信" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7280,
+  "word" : "権益",
+  "reading" : "けんえき",
+  "romaji" : null,
+  "meaning" : [ "权利和利益，权益" ],
+  "notes" : [ "複合名詞で、「権利」と「利益」を合わせた意味を持つ。法律や経済分野でよく使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7281,
+  "word" : "権限",
+  "reading" : "けんげん",
+  "romaji" : null,
+  "meaning" : [ "权限，职权范围，指在特定范围内被赋予的权力或权限" ],
+  "notes" : [ "常用汉字词，可用于表示各种领域中的权限，如计算机操作权限、管理权限等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7282,
+  "word" : "横",
+  "reading" : "よこ",
+  "romaji" : null,
+  "meaning" : [ "横，横向；旁边，侧面；旁边的人或物" ],
+  "notes" : [ "常用汉字，可构成复合词如「横断」「横顔」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7283,
+  "word" : "横たわる",
+  "reading" : "よこたわる",
+  "romaji" : null,
+  "meaning" : [ "1. 躺，卧，横卧；2. 横亘，横卧（于某物上）；3. （问题、危险等）存在，迫在眼前，摆在面前" ],
+  "notes" : [ "自动词，基本形为「横たわる」，过去式「横たわった」，否定形「横たわらない」，可能形「横たわれる」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7284,
+  "word" : "横切る",
+  "reading" : "よこぎる",
+  "romaji" : null,
+  "meaning" : [ "横过，横穿；横跨，跨越" ],
+  "notes" : [ "「横切る」是他动词，强调主动横向穿过某个空间或物体。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7285,
+  "word" : "横断",
+  "reading" : "おうだん",
+  "romaji" : null,
+  "meaning" : [ "横穿，横渡；横向切断；（信息等的）全面了解，综合分析" ],
+  "notes" : [ "「横断する」是サ変動詞（suru verb），可作为名词单独使用，也可加「する」构成动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7286,
+  "word" : "横断歩道",
+  "reading" : "おうだんほどう",
+  "romaji" : null,
+  "meaning" : [ "横断するための歩行者用の道路。主に交差点などに設けられ、白線で表示される。" ],
+  "notes" : [ "「おうだんほどう」と読み、略して「横断」とも呼ばれることがある。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7287,
+  "word" : "横断禁止",
+  "reading" : "おうだんきんし",
+  "romaji" : null,
+  "meaning" : [ "名詞。道路などを横切ることを禁止すること。特に、交通ルールとして定められた横断の禁止。" ],
+  "notes" : [ "「横断」は「横切ること」を意味し、「禁止」は「することを許さないこと」を意味する。合成名詞で、道路や線路などを横切る行為を禁止することを指す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7288,
+  "word" : "横暴",
+  "reading" : "おうぼう",
+  "romaji" : null,
+  "meaning" : [ "蛮横，粗暴，专横跋扈，仗势欺人" ],
+  "notes" : [ "形容动词用法时后续「だ/です/な/に」等，如「横暴な行為」「横暴に振る舞う」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7289,
+  "word" : "横着",
+  "reading" : "よこづら",
+  "romaji" : null,
+  "meaning" : [ "1. 横向，横放；2. 不认真，敷衍了事，马虎；3. 厚脸皮，无耻" ],
+  "notes" : [ "作为形容动词使用时，词尾变化为「横着だ」「横着です」「横着な」「横着に」等形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7290,
+  "word" : "横綱",
+  "reading" : "よこづな0",
+  "romaji" : null,
+  "meaning" : [ "相扑的最高级别；横纲级力士" ],
+  "notes" : [ "相扑段位从高到低依次为：横纲、大关、关胁、小结、前头、十两、幕下等。横纲是终身荣誉，即使成绩下滑也不会降级，需主动退役。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7291,
+  "word" : "横行",
+  "reading" : "おうこう",
+  "romaji" : null,
+  "meaning" : [ "横冲直撞；横行霸道，肆无忌惮地行动" ],
+  "notes" : [ "「横行する」の形で動詞として使用されることが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7292,
+  "word" : "横転",
+  "reading" : "おうてん",
+  "romaji" : null,
+  "meaning" : [ "翻滚，翻转；（车辆等）侧翻，翻倒；（形势、状态等）逆转，急转直下" ],
+  "notes" : [ "「横転する」の形で使用されるサ変動詞。物が横に回転して倒れることや、状況が急激に変化することを表す。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7293,
+  "word" : "横道",
+  "reading" : "よこみち",
+  "romaji" : null,
+  "meaning" : [ "1. 岔路，歧路，旁道；2. （话题等的）偏离，岔开，离题" ],
+  "notes" : [ "「横道にそれる」是固定搭配，表示话题偏离主题。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7294,
+  "word" : "横領",
+  "reading" : "おうりょう",
+  "romaji" : null,
+  "meaning" : [ "侵占，贪污，侵吞（他人或公共财产）" ],
+  "notes" : [ "他动词，通常指对金钱、财物等的非法占有，多用于正式场合或法律术语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7295,
+  "word" : "樹皮",
+  "reading" : "じゅひ",
+  "romaji" : null,
+  "meaning" : [ "树皮，树的表皮" ],
+  "notes" : [ "植物の幹や枝の表面を覆う層で、保護や通気の役割を持つ。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7296,
+  "word" : "樹立",
+  "reading" : "じゅりつ",
+  "romaji" : null,
+  "meaning" : [ "树立，建立（思想、主义、方针、制度等抽象事物）" ],
+  "notes" : [ "主に抽象的な概念や制度などを対象とする。「樹立する」の形で使用するサ変動詞。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7297,
+  "word" : "橋",
+  "reading" : "はし",
+  "romaji" : null,
+  "meaning" : [ "桥，桥梁" ],
+  "notes" : [ "常用汉字，基本词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7298,
+  "word" : "橋渡し",
+  "reading" : "はしわたし",
+  "romaji" : null,
+  "meaning" : [ "1. 架桥，桥梁；2. 当中间人，调解，斡旋" ],
+  "notes" : [ "「橋渡し役」という形でもよく使われ、「仲介者」「調停者」の意味を持つ。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7299,
+  "word" : "機会",
+  "reading" : "きかい",
+  "romaji" : null,
+  "meaning" : [ "机会，时机" ],
+  "notes" : [ "「機会」和「チャンス」意思相近，但「機会」更书面化，「チャンス」更口语化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7300,
+  "word" : "機内",
+  "reading" : "きない",
+  "romaji" : null,
+  "meaning" : [ "机舱内，飞机内" ],
+  "notes" : [ "指飞机内部的空间，包括客舱、驾驶舱等区域。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

@@ -1,0 +1,901 @@
+[ {
+  "id" : 7001,
+  "word" : "有給",
+  "reading" : "ゆうきゅう",
+  "romaji" : null,
+  "meaning" : [ "带薪；有报酬。通常用于表示带薪休假等情况。" ],
+  "notes" : [ "该词常见于工作场景，用于描述与带薪相关的事物，如“有給休日（带薪休息日）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7002,
+  "word" : "有罪",
+  "reading" : "ゆうざい",
+  "romaji" : null,
+  "meaning" : [ "名词，指犯罪事实成立、被判定有罪行。" ],
+  "notes" : [ "常用于法律相关语境，描述某人在法律上被认定犯有罪行的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7003,
+  "word" : "有能",
+  "reading" : "ゆうのう",
+  "romaji" : null,
+  "meaning" : [ "有能力，能干，有才干" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾要加「だ」；作定语时，词尾要加「な」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7004,
+  "word" : "有難い",
+  "reading" : "ありがとうい",
+  "romaji" : null,
+  "meaning" : [ "难得的；可贵的；值得感激的；谢谢，多谢" ],
+  "notes" : [ "“有難い”较常用的口语形式是“ありがとう”，语气更为随意。此外“有難い”还有“难得、可贵”等含义。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7005,
+  "word" : "有頂天",
+  "reading" : "ゆうちょうてん",
+  "romaji" : null,
+  "meaning" : [ "得意扬扬，高兴得忘乎所以；欢闹，喧闹" ],
+  "notes" : [ "作为形容动词使用时，词尾变化遵循形容动词的规则，如词干+に可作副词修饰动词，词干+な可修饰名词等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7006,
+  "word" : "服",
+  "reading" : "ふく",
+  "romaji" : null,
+  "meaning" : [ "衣服；服装" ],
+  "notes" : [ "“服”是一个常用的日语名词，用于表示各种衣物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7007,
+  "word" : "服する",
+  "reading" : "ふくする",
+  "romaji" : null,
+  "meaning" : [ "服从；听从；从事（某种职业等）；服用（药等）；使服从" ],
+  "notes" : [ "该词为三类动词，在使用时需注意其变形规则。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7008,
+  "word" : "服装",
+  "reading" : "ふくそう",
+  "romaji" : null,
+  "meaning" : [ "衣服；衣着；装束" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7009,
+  "word" : "朗らか",
+  "reading" : "ほがらか",
+  "romaji" : null,
+  "meaning" : [ "开朗的，爽快的；晴朗的，明亮的" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾需要接「だ」；作定语时，词尾接「な」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7010,
+  "word" : "朗報",
+  "reading" : "ろうほう",
+  "romaji" : null,
+  "meaning" : [ "好消息，喜讯" ],
+  "notes" : [ "常用于正式或书面场合表达令人高兴的消息。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7011,
+  "word" : "朗読",
+  "reading" : "ろうどく",
+  "romaji" : null,
+  "meaning" : [ "朗读，朗诵" ],
+  "notes" : [ "该词常与「を」搭配，构成「朗読をする」的形式，表示进行朗读的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7012,
+  "word" : "望ましい",
+  "reading" : "のぞましい",
+  "romaji" : null,
+  "meaning" : [ "理想的，最好的；合乎愿望的，值得期望的" ],
+  "notes" : [ "い形容词，词尾可进行各种词形变化，用于描述事物的性质或状态。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7013,
+  "word" : "望む",
+  "reading" : "のぞむ",
+  "romaji" : null,
+  "meaning" : [ "1. 想，希望；2. 眺望，遥望；3. 期望，期待" ],
+  "notes" : [ "该词为五段动词，词尾为「む」，在变形时遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7014,
+  "word" : "望遠鏡",
+  "reading" : "ぼうえんきょう",
+  "romaji" : null,
+  "meaning" : [ "望远镜" ],
+  "notes" : [ "该词是常见的日常词汇，用于表示观察远处物体的光学仪器。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7015,
+  "word" : "朝",
+  "reading" : "あさ",
+  "romaji" : null,
+  "meaning" : [ "早晨；早上；上午" ],
+  "notes" : [ "“朝”一般指从天亮到上午的这段时间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7016,
+  "word" : "朝ごはん",
+  "reading" : "あさごはん",
+  "romaji" : null,
+  "meaning" : [ "早餐；早饭" ],
+  "notes" : [ "“朝ごはん”是比较常用的日常词汇，“ご”在这里是敬语接头词，增添尊敬的语气。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7017,
+  "word" : "朝ご飯",
+  "reading" : "あさごはん",
+  "romaji" : null,
+  "meaning" : [ "早饭；早餐" ],
+  "notes" : [ "“朝ご飯”是较为正式、礼貌的说法，日常口语中也可以说“朝飯（あさめし）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7018,
+  "word" : "朝一",
+  "reading" : "あさいち",
+  "romaji" : null,
+  "meaning" : [ "一大早，早上头一件事；第一天早上，刚一开始" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7019,
+  "word" : "朝夕",
+  "reading" : "ちょうせき",
+  "romaji" : null,
+  "meaning" : [ "早晨和晚上；从早到晚；经常，总是" ],
+  "notes" : [ "该词常用于描述时间范围或表示频率，强调时间上的连续性。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7020,
+  "word" : "朝寝坊",
+  "reading" : "あさねぼう",
+  "romaji" : null,
+  "meaning" : [ "睡懒觉，起床晚" ],
+  "notes" : [ "该词为名词，常与「をする」搭配使用，表示进行睡懒觉这个行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7021,
+  "word" : "朝市",
+  "reading" : "あさいち",
+  "romaji" : null,
+  "meaning" : [ "早市，早晨开放的集市" ],
+  "notes" : [ "朝市通常是在清晨到上午时间段营业，以销售新鲜农产品、日用品等为主。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7022,
+  "word" : "朝方",
+  "reading" : "あさがた",
+  "romaji" : null,
+  "meaning" : [ "早晨，清晨；也可泛指日出前后的一段时间" ],
+  "notes" : [ "「朝方」较为书面和正式，在日常口语中使用相对较少，口语中常用「朝（あさ）」来表达早晨的意思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7023,
+  "word" : "朝日",
+  "reading" : "あさひ",
+  "romaji" : null,
+  "meaning" : [ "早晨初升的太阳；朝阳" ],
+  "notes" : [ "“朝日”是一个较为常用的名词，在描述早晨的景色、氛围等场景中经常使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7024,
+  "word" : "朝顔",
+  "reading" : "あさがお",
+  "romaji" : null,
+  "meaning" : [ "牵牛花，喇叭花；比喻容易消逝的事物" ],
+  "notes" : [ "在日语中，“朝顔”除了指植物外，还可以用来比喻像牵牛花一样容易消逝的事物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7025,
+  "word" : "朝食",
+  "reading" : "ちょうしょく",
+  "romaji" : null,
+  "meaning" : [ "名词，指早餐、早饭" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7026,
+  "word" : "朝飯前",
+  "reading" : "あさごはんまえ",
+  "romaji" : null,
+  "meaning" : [ "表示事情非常容易做到，轻而易举，极其容易。" ],
+  "notes" : [ "该词是一个比较形象的表达，将做某事比作吃早饭一样轻松简单。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7027,
+  "word" : "期待",
+  "reading" : "きたい",
+  "romaji" : null,
+  "meaning" : [ "期待，期望，盼望；预期，预料" ],
+  "notes" : [ "作为名词使用时，常与「を」搭配；作为サ变动词使用时，词尾变化遵循サ变动词规则，如「期待する」「期待して」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7028,
+  "word" : "期待します",
+  "reading" : "きたいします",
+  "romaji" : null,
+  "meaning" : [ "希望，期待；盼望，预期" ],
+  "notes" : [ "“期待する”是三类动词，其敬体形式是“期待します”，常用于表达对人或事物的期望。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7029,
+  "word" : "期日",
+  "reading" : "きじつ",
+  "romaji" : null,
+  "meaning" : [ "日期，期限；特指规定的日期、截止日期等" ],
+  "notes" : [ "该词常用于正式场合，涉及工作、学习中的计划安排、截止时间等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7030,
+  "word" : "期間",
+  "reading" : "きかん",
+  "romaji" : null,
+  "meaning" : [ "期间，时间段；期限" ],
+  "notes" : [ "该词为音读词汇，常用于描述一段时间的范围或期限。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7031,
+  "word" : "期限",
+  "reading" : "きげん",
+  "romaji" : null,
+  "meaning" : [ "期限；规定的时间" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7032,
+  "word" : "木",
+  "reading" : "き",
+  "romaji" : null,
+  "meaning" : [ "树；木头；木材；木（五行之一）" ],
+  "notes" : [ "在日语中，“木”作为名词使用，可用于描述树木或木材等。在五行概念中，“木”代表一种元素。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7033,
+  "word" : "木の実",
+  "reading" : "きのみ",
+  "romaji" : null,
+  "meaning" : [ "树上的果实；坚果" ],
+  "notes" : [ "该词既可以指树上生长的果实，也常用来表示坚果类食物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7034,
+  "word" : "木の葉",
+  "reading" : "このは",
+  "romaji" : null,
+  "meaning" : [ "名词，树叶" ],
+  "notes" : [ "该词由名词“木（き）”和名词“葉（は）”组成，中间的“の”是表示所属关系的助词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7035,
+  "word" : "木工",
+  "reading" : "もくこう",
+  "romaji" : null,
+  "meaning" : [ "木工；木匠；木工艺" ],
+  "notes" : [ "该词为音读词汇，“木”读“もく”，“工”读“こう”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7036,
+  "word" : "木曜日",
+  "reading" : "もくようび",
+  "romaji" : null,
+  "meaning" : [ "星期四" ],
+  "notes" : [ "在日语中，一周七天的名称与五行等概念相关，木曜日对应星期四。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7037,
+  "word" : "木材",
+  "reading" : "もくざい",
+  "romaji" : null,
+  "meaning" : [ "木材；木料" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7038,
+  "word" : "木枯らし",
+  "reading" : "こがらし",
+  "romaji" : null,
+  "meaning" : [ "寒风；秋风；冬天的暴风" ],
+  "notes" : [ "该词常用来描绘秋冬季节寒冷且强劲的风。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7039,
+  "word" : "木綿",
+  "reading" : "もめん",
+  "romaji" : null,
+  "meaning" : [ "棉花；棉织品；棉布" ],
+  "notes" : [ "该词在日语中是常用词汇，用于描述与棉花相关的物品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7040,
+  "word" : "木耳",
+  "reading" : "きくらげ",
+  "romaji" : null,
+  "meaning" : [ "木耳，一种可食用的菌类，通常生长在树木上，形状类似耳朵，颜色多为黑色或褐色。" ],
+  "notes" : [ "“きくらげ”是“木耳”的常用日语表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7041,
+  "word" : "未だ",
+  "reading" : "まだ",
+  "romaji" : null,
+  "meaning" : [ "（后多接否定）未曾，尚未；仍然，还；（前接肯定）刚刚，才" ],
+  "notes" : [ "该词在使用时，后接否定表达时表示事情尚未发生；前接肯定表达时强调事情发生不久。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7042,
+  "word" : "未だしも",
+  "reading" : "まだしも",
+  "romaji" : null,
+  "meaning" : [ "还算可以，还好；退一步说；即便如此" ],
+  "notes" : [ "常用于表达一种相对乐观的情况，或在不利状况下进行一定程度的自我安慰。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7043,
+  "word" : "未だに",
+  "reading" : "まだに",
+  "romaji" : null,
+  "meaning" : [ "（后接否定）仍然，尚未；也可用于肯定句，表示“依旧、还是”。" ],
+  "notes" : [ "该词在口语和书面语中都较为常用，使用范围较广，后接否定表达时强调事情持续未发生，接肯定表达时突出状态的持续。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7044,
+  "word" : "未婚",
+  "reading" : "みこん",
+  "romaji" : null,
+  "meaning" : [ "尚未结婚，单身状态" ],
+  "notes" : [ "常用于描述人的婚姻状况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7045,
+  "word" : "未定",
+  "reading" : "みてい",
+  "romaji" : null,
+  "meaning" : [ "尚未决定；未确定" ],
+  "notes" : [ "形容动词在句中作谓语时，词干后要接「です」；作定语时直接修饰名词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7046,
+  "word" : "未来",
+  "reading" : "みらい",
+  "romaji" : null,
+  "meaning" : [ "未来，将来" ],
+  "notes" : [ "该词为名词，无词形变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7047,
+  "word" : "未満",
+  "reading" : "みまん",
+  "romaji" : null,
+  "meaning" : [ "未满，不满，不足。用于表示某个数量、程度等未达到特定标准。" ],
+  "notes" : [ "通常与数量词搭配使用，如「10歳未満」「100円未満」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7048,
+  "word" : "未熟",
+  "reading" : "みじゅく",
+  "romaji" : null,
+  "meaning" : [ "未成熟；不熟练；幼稚。多用于形容人在经验、技能、思想等方面还不够成熟或老练。" ],
+  "notes" : [ "「未熟」是形容动词，在句中作谓语时需要加「だ」，作定语时词尾要变成「な」来修饰名词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7049,
+  "word" : "未知",
+  "reading" : "みち",
+  "romaji" : null,
+  "meaning" : [ "不知道，尚未知晓；未知的事物" ],
+  "notes" : [ "常用来表示未知的情况、领域、事物等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7050,
+  "word" : "未練",
+  "reading" : "みれん",
+  "romaji" : null,
+  "meaning" : [ "依恋，恋恋不舍；留恋，放不下；惋惜，遗憾" ],
+  "notes" : [ "该词为名词，使用时前面常搭配“を持つ”“がある”等表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7051,
+  "word" : "未開",
+  "reading" : "みかい",
+  "romaji" : null,
+  "meaning" : [ "未开化；未开垦；未经开发。" ],
+  "notes" : [ "「未開」作为形容动词，词尾可以接「な」修饰名词，接「に」修饰动词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7052,
+  "word" : "末",
+  "reading" : "すえ",
+  "romaji" : null,
+  "meaning" : [ "1. 末尾，末了，结尾；2. 结果；3. 最后阶段；4. 末期；5. 末端，末梢" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7053,
+  "word" : "末っ子",
+  "reading" : "すえっこ",
+  "romaji" : null,
+  "meaning" : [ "最小的孩子；老幺" ],
+  "notes" : [ "“末っ子”是比较口语化的表达，用于描述家庭中年龄最小的孩子。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7054,
+  "word" : "末期",
+  "reading" : "まっき",
+  "romaji" : null,
+  "meaning" : [ "晚期；末期；最后阶段" ],
+  "notes" : [ "该词常用于描述事物发展到最后的阶段，尤其是疾病、时代等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7055,
+  "word" : "本",
+  "reading" : "ほん",
+  "romaji" : null,
+  "meaning" : [ "书；书籍；本子；册子；细长物品的量词（如：一支笔、一根香烟等）" ],
+  "notes" : [ "「本」作为名词使用时，可表示书、本子等物品；作为量词使用时，用于细长形状的物品计数。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7056,
+  "word" : "本の",
+  "reading" : "ほんの",
+  "romaji" : null,
+  "meaning" : [ "仅仅，少许，一点点" ],
+  "notes" : [ "「本の」常用来表示程度轻微，数量很少。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7057,
+  "word" : "本人",
+  "reading" : "ほんにん",
+  "romaji" : null,
+  "meaning" : [ "名词，指说话人所提到的那个人自身，即当事人。" ],
+  "notes" : [ "该词在日常交流和正式场合中都较为常用，用于明确所指的当事人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7058,
+  "word" : "本体",
+  "reading" : "ほんたい",
+  "romaji" : null,
+  "meaning" : [ "1. 机身；2. 事物的本身、主体；3. 人的身体；4. 真相、实质等" ],
+  "notes" : [ "该词常用于描述具体物品的主体部分，也可用于抽象事物的本质。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7059,
+  "word" : "本名",
+  "reading" : "ほんみょう",
+  "romaji" : null,
+  "meaning" : [ "本名，真名" ],
+  "notes" : [ "该词为名词，无词形变化，常用于表达人的真实姓名。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7060,
+  "word" : "本国",
+  "reading" : "ほんこく",
+  "romaji" : null,
+  "meaning" : [ "本国，祖国；故乡" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7061,
+  "word" : "本場",
+  "reading" : "ほんば",
+  "romaji" : null,
+  "meaning" : [ "原产地；正宗，地道；事物的发源地、中心地" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7062,
+  "word" : "本家",
+  "reading" : "ほんけ",
+  "romaji" : null,
+  "meaning" : [ "1. 发祥地，正宗，嫡派；2. 本家，正支；3. 指某个家族或企业的总部、总店" ],
+  "notes" : [ "在使用时，‘本家’可用于表示家族、店铺、技艺等的正统源头。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7063,
+  "word" : "本屋",
+  "reading" : "ほんや",
+  "romaji" : null,
+  "meaning" : [ "书店" ],
+  "notes" : [ "该词是名词，无词形变化，用于表示售卖书籍的场所。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7064,
+  "word" : "本店",
+  "reading" : "ほんてん",
+  "romaji" : null,
+  "meaning" : [ "总店；本店；老号；老铺" ],
+  "notes" : [ "该词常用于商业场景，指某个品牌或企业的主要店铺。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7065,
+  "word" : "本当",
+  "reading" : "ほんとう",
+  "romaji" : null,
+  "meaning" : [ "真；真实；实在；的确；真的。用于表示事情的真实性、肯定的程度或强调某种情感、情况等。" ],
+  "notes" : [ "作为名词使用时，可在句中作主语、宾语等；作为形容动词使用时，后接「な」修饰名词，接「に」修饰动词、形容词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7066,
+  "word" : "本当に",
+  "reading" : "ほんとうに",
+  "romaji" : null,
+  "meaning" : [ "真的；实在，的确" ],
+  "notes" : [ "用于强调事物的真实性或程度。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7067,
+  "word" : "本心",
+  "reading" : "ほんしん",
+  "romaji" : null,
+  "meaning" : [ "真心，本心；本性" ],
+  "notes" : [ "该词为名词，无词形变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7068,
+  "word" : "本日",
+  "reading" : "ほんじつ",
+  "romaji" : null,
+  "meaning" : [ "名词，今日，今天" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7069,
+  "word" : "本来",
+  "reading" : "ほんらい",
+  "romaji" : null,
+  "meaning" : [ "原本，本来；按理说" ],
+  "notes" : [ "常用于表达事物原本的状态或理应如此的情况。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7070,
+  "word" : "本格",
+  "reading" : "ほんかく",
+  "romaji" : null,
+  "meaning" : [ "名词，意为正式、正规、正统；也可表示真格的、纯粹的。" ],
+  "notes" : [ "常用于描述事物具有正统、正式的特点，在美食、艺术等领域使用较为频繁。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7071,
+  "word" : "本格的",
+  "reading" : "ほんかくてき",
+  "romaji" : null,
+  "meaning" : [ "真正的；正式的；地道的" ],
+  "notes" : [ "「本格的」是形容动词，在句中作谓语时需要使用「です」，修饰名词时一般使用「な」连接。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7072,
+  "word" : "本棚",
+  "reading" : "ほんだな",
+  "romaji" : null,
+  "meaning" : [ "书架；书橱" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7073,
+  "word" : "本気",
+  "reading" : "ほんき",
+  "romaji" : null,
+  "meaning" : [ "认真，当真；真心，诚意" ],
+  "notes" : [ "“本気”常与“を出す”搭配，表示“拿出干劲，认真起来”；与“になる”搭配，表示“变得认真”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7074,
+  "word" : "本物",
+  "reading" : "ほんもの",
+  "romaji" : null,
+  "meaning" : [ "真东西，真货；真实的事物；纯正的物品" ],
+  "notes" : [ "与「贋物（にせもの）」相对，用于区分真假物品等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7075,
+  "word" : "本社",
+  "reading" : "ほんしゃ",
+  "romaji" : null,
+  "meaning" : [ "名词，指公司、组织等的总部、总公司、本部" ],
+  "notes" : [ "常用于商务、组织相关的场景中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7076,
+  "word" : "本筋",
+  "reading" : "ほんすじ",
+  "romaji" : null,
+  "meaning" : [ "主要情节；正题，本题；事物的核心、关键部分" ],
+  "notes" : [ "常用于讨论或叙述中，强调回到主要内容或关键部分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7077,
+  "word" : "本能",
+  "reading" : "ほんのう",
+  "romaji" : null,
+  "meaning" : [ "本能，与生俱来的能力或倾向" ],
+  "notes" : [ "常用于描述生物天生具有的行为或反应" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7078,
+  "word" : "本調子",
+  "reading" : "ほんちょうし",
+  "romaji" : null,
+  "meaning" : [ "正常状态，常态；最佳状态" ],
+  "notes" : [ "常用于描述人或事物处于正常、良好的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7079,
+  "word" : "本質",
+  "reading" : "ほんしつ",
+  "romaji" : null,
+  "meaning" : [ "本质，实质；事物最根本的性质" ],
+  "notes" : [ "常用于分析事物的根本属性，在书面语和口语中都较为常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7080,
+  "word" : "本部",
+  "reading" : "ほんぶ",
+  "romaji" : null,
+  "meaning" : [ "名词，指某个组织、团体、企业等的主要办事机构，即总部、本部" ],
+  "notes" : [ "该词常用于描述组织架构中的核心管理部门。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7081,
+  "word" : "本音",
+  "reading" : "ほんね",
+  "romaji" : null,
+  "meaning" : [ "真心话；内心的想法" ],
+  "notes" : [ "常用于表达某人说出内心真实的想法或感受。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7082,
+  "word" : "本館",
+  "reading" : "ほんかん",
+  "romaji" : null,
+  "meaning" : [ "主楼，正楼；主要的馆舍，如图书馆的主馆等" ],
+  "notes" : [ "此词为普通名词，无词形变化，在描述建筑物的主要部分时常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7083,
+  "word" : "札",
+  "reading" : "さつ",
+  "romaji" : null,
+  "meaning" : [ "纸币；票据；牌子；标签等" ],
+  "notes" : [ "「札」在不同语境下有不同含义，常见用法如「切符札」（车票）、「看板札」（招牌）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7084,
+  "word" : "東洋",
+  "reading" : "とうよう",
+  "romaji" : null,
+  "meaning" : [ "名词，指亚洲，尤其是亚洲东部和东南部地区；也可泛指东方，与“西洋”相对。" ],
+  "notes" : [ "“東洋”在日语中常用来表示与西方相对的东方概念，在文化、历史等语境中较为常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7085,
+  "word" : "東洋人",
+  "reading" : "とうようじん",
+  "romaji" : null,
+  "meaning" : [ "名词，指东方人，通常指亚洲人" ],
+  "notes" : [ "该词在现代语境中使用频率相对不高，且可能带有一定的历史文化背景含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7086,
+  "word" : "東洋医学",
+  "reading" : "とうよういがく",
+  "romaji" : null,
+  "meaning" : [ "东方医学，指起源于东方地区（如中国、日本等）的传统医学体系，包含针灸、中药等治疗方法。" ],
+  "notes" : [ "该词汇中“東洋”表示东方，“医学”表示医学领域。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7087,
+  "word" : "机",
+  "reading" : "つくえ",
+  "romaji" : null,
+  "meaning" : [ "桌子；书桌" ],
+  "notes" : [ "该词为普通名词，在日语中用于表示放置物品、进行工作或学习等的家具。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7088,
+  "word" : "朽ちる",
+  "reading" : "くちる",
+  "romaji" : null,
+  "meaning" : [ "腐朽，腐烂；衰败，衰亡；（时光）流逝" ],
+  "notes" : [ "常用于描述物体的腐烂或事物的衰败等情况。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7089,
+  "word" : "杉",
+  "reading" : "すぎ0",
+  "romaji" : null,
+  "meaning" : [ "名词，杉树，一种常绿乔木，树干端直，树形整齐。" ],
+  "notes" : [ "在日本，杉树常被用于建筑、家具等方面，是一种重要的木材资源。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7090,
+  "word" : "材料",
+  "reading" : "ざいりょう",
+  "romaji" : null,
+  "meaning" : [ "名词。指制作物品、菜肴等所使用的原料；也可比喻为写作、研究等所依据的资料。" ],
+  "notes" : [ "该词为音读词汇，由“材（ざい）”和“料（りょう）”组成。在不同语境中，可灵活理解为原料、材料、素材等意思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7091,
+  "word" : "材木",
+  "reading" : "ざいもく",
+  "romaji" : null,
+  "meaning" : [ "木材，木料" ],
+  "notes" : [ "“材木”一般指用于建筑、制作家具等用途的木材。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7092,
+  "word" : "村",
+  "reading" : "むら",
+  "romaji" : null,
+  "meaning" : [ "村庄，村落；乡下，乡村" ],
+  "notes" : [ "该词为普通名词，无特殊语法现象" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7093,
+  "word" : "村落",
+  "reading" : "そんらく",
+  "romaji" : null,
+  "meaning" : [ "村庄；村落" ],
+  "notes" : [ "该词为音读词汇，在描述乡村地区的聚落时使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7094,
+  "word" : "杖",
+  "reading" : "つえ",
+  "romaji" : null,
+  "meaning" : [ "拐杖；手杖；依靠之物" ],
+  "notes" : [ "该词为普通名词，无特殊语法现象。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7095,
+  "word" : "束",
+  "reading" : "たば",
+  "romaji" : null,
+  "meaning" : [ "束，捆，把；量词，用于计量成束的物品" ],
+  "notes" : [ "该词作为量词使用时，后续接被计量的物品，如“花の束”“紙の束”等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7096,
+  "word" : "束ねる",
+  "reading" : "たばねる",
+  "romaji" : null,
+  "meaning" : [ "扎，束，捆；整理，整顿；集中，汇集" ],
+  "notes" : [ "该词为一段动词，在使用时需注意其词尾变化规则。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7097,
+  "word" : "束の間",
+  "reading" : "たばのま",
+  "romaji" : null,
+  "meaning" : [ "刹那间，转瞬，极短的时间" ],
+  "notes" : [ "该词汇常用来形容时间短暂。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7098,
+  "word" : "束縛",
+  "reading" : "そくばく",
+  "romaji" : null,
+  "meaning" : [ "束缚，限制；约束，拘束" ],
+  "notes" : [ "该词为名词，在句子中常作宾语等成分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7099,
+  "word" : "条件",
+  "reading" : "じょうけん",
+  "romaji" : null,
+  "meaning" : [ "名词，条件；前提" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7100,
+  "word" : "条約",
+  "reading" : "じょうやく",
+  "romaji" : null,
+  "meaning" : [ "条约；协定。" ],
+  "notes" : [ "无" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

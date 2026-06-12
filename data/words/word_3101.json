@@ -1,0 +1,901 @@
+[ {
+  "id" : 3101,
+  "word" : "例文",
+  "reading" : "れいぶん",
+  "romaji" : null,
+  "meaning" : [ "例句；用于说明语法、用法或词义的句子示例。" ],
+  "notes" : [ "常用汉字表内音读。在语言学习中，指用于说明语法、词汇用法等的具体句子。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3102,
+  "word" : "侍",
+  "reading" : "さむらい",
+  "romaji" : null,
+  "meaning" : [ "武士；有骨气、有气节的人；在现代语境中也指在传统服务行业（如高级餐厅、旅馆）中提供极致服务的人。" ],
+  "notes" : [ "「侍」源自「さぶらふ（侍ふ）」，原意为“侍奉”。作为名词特指日本历史上的武士阶级。其读音「さむらい」是由「さぶらひ」约音变化而来。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3103,
+  "word" : "供給",
+  "reading" : "きょうきゅう",
+  "romaji" : null,
+  "meaning" : [ "供给，供应" ],
+  "notes" : [ "既可以作为名词使用，也可以作为サ变动词（する动词）使用。在商业、经济、公共事业等领域常用。其反义词是「需要（じゅよう）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3104,
+  "word" : "依存",
+  "reading" : "いぞん",
+  "romaji" : null,
+  "meaning" : [ "依存，依靠，仰仗" ],
+  "notes" : [ "\"依存\"是名词，但通常作为\"する\"动词使用，表示依靠、依赖某人或某物。在日语能力考试中常作为N2级别词汇出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3105,
+  "word" : "依然",
+  "reading" : "いぜん",
+  "romaji" : null,
+  "meaning" : [ "依然として、相変わらず、以前の状態を保っているさま。" ],
+  "notes" : [ "主に「依然として」の形で用いられることが多い。やや書き言葉的、または改まった表現。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3106,
+  "word" : "依頼",
+  "reading" : "いらい",
+  "romaji" : null,
+  "meaning" : [ "请求，委托；依赖，依靠" ],
+  "notes" : [ "作为名词使用。作为动词使用时，其形式为‘依頼する’（する动词），活用类型为‘サ行変格活用’。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3107,
+  "word" : "依頼します",
+  "reading" : "いらいします",
+  "romaji" : null,
+  "meaning" : [ "委托，请求，拜托" ],
+  "notes" : [ "「依頼します」是动词「依頼する」的ます形（礼貌体）。原形为「依頼する」。在表示请求时，常用句型为「～に～を依頼する」。这是一个他动词。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3108,
+  "word" : "価値",
+  "reading" : "かち",
+  "romaji" : null,
+  "meaning" : [ "价值；重要性；有用性；值得、有...的价值" ],
+  "notes" : [ "「価値がある」是常用搭配，意为“有价值”。也可构成「価値観」，意为“价值观”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3109,
+  "word" : "価格",
+  "reading" : "かかく",
+  "romaji" : null,
+  "meaning" : [ "商品やサービスの値段。" ],
+  "notes" : [ "経済やビジネスの場面でよく使われる硬い表現。日常会話では「値段（ねだん）」を使うことが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3110,
+  "word" : "侮辱",
+  "reading" : "ぶじょく",
+  "romaji" : null,
+  "meaning" : [ "相手の人格や名誉を傷つけること。見下して、恥をかかせること。" ],
+  "notes" : [ "サ変動詞として「侮辱する」の形で用いられることが多い。書き言葉的で、硬い表現。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3111,
+  "word" : "侵す",
+  "reading" : "おかす",
+  "romaji" : null,
+  "meaning" : [ "侵犯，侵害；侵占；冒犯，亵渎" ],
+  "notes" : [ "注意与同音异义词「犯す」（违反、犯罪）和「冒す」（冒着、冒犯）在用法上的区别。在法律和正式语境中常用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3112,
+  "word" : "侵入する",
+  "reading" : "しんにゅうする",
+  "romaji" : null,
+  "meaning" : [ "（許可なく）他者の領土、領域、建物などに無理に入り込むこと。" ],
+  "notes" : [ "「侵入する」は、サ変動詞として扱われます。自動詞としても他動詞としても使用可能です（例：国境を侵入する）。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3113,
+  "word" : "侵害",
+  "reading" : "しんがい",
+  "romaji" : null,
+  "meaning" : [ "侵害；侵犯（权利、利益等）" ],
+  "notes" : [ "作为サ变动词使用时，词干为「侵害」，后续「する」构成动词。该词主要指对权利、利益、自由等的非法侵犯。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3114,
+  "word" : "侵略",
+  "reading" : "しんりゃく",
+  "romaji" : null,
+  "meaning" : [ "侵略、入侵、侵犯（指一国对另一国领土、主权等的侵犯行为）" ],
+  "notes" : [ "通常用作名词，表示侵略行为。作为动词使用时，采用「侵略する」的形式，属于サ行変格活用动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3115,
+  "word" : "便",
+  "reading" : "びん",
+  "romaji" : null,
+  "meaning" : [ "1. 航班；班次；交通工具（如飞机、轮船、火车等）的定期运行。2. 方便；便利。3. 大小便。" ],
+  "notes" : [ "该词有多种含义，具体意义需根据上下文判断。作为“航班”等交通含义时，通常接在交通方式后，如「飛行機便」、「バス便」。作为“方便”时，多用于固定表达，如「便宜を図る」。作为“大小便”时，属于书面或正式用语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3116,
+  "word" : "便り",
+  "reading" : "たより",
+  "romaji" : null,
+  "meaning" : [ "消息，音信；书信" ],
+  "notes" : [ "「音信」や「消息」を意味する。また、手紙などの「便り」を指す場合もある。やや文語的な表現。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3117,
+  "word" : "便利",
+  "reading" : "べんり",
+  "romaji" : null,
+  "meaning" : [ "便利，方便，有用" ],
+  "notes" : [ "「便利」是形容动词（ナ形容词），其活用方式与名词相同，需要后续助动词「だ」或「です」等构成谓语，或后续「な」修饰名词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3118,
+  "word" : "便利さ",
+  "reading" : "べんりさ",
+  "romaji" : null,
+  "meaning" : [ "方便性，便利程度" ],
+  "notes" : [ "形容词「便利（な）」的名词化形式，表示其属性或程度。在实际使用中，常与「の」或「が」等助词搭配，用于描述事物便利的具体方面。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3119,
+  "word" : "便利［な］",
+  "reading" : "べんり［な］",
+  "romaji" : null,
+  "meaning" : [ "方便的，便利的。形容事物便于使用、省时省力，或对实现目标有帮助。" ],
+  "notes" : [ "\"[な]\"表示在修饰名词时需要使用\"な\"。例如：\"便利な場所\"。作为谓语时使用\"です\"或\"だ\"。例如：\"この店は便利です。\" 该词为ナ形容词（形容动词），属于日语能力考试N4级别词汇。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3120,
+  "word" : "便器",
+  "reading" : "べんき",
+  "romaji" : null,
+  "meaning" : [ "便桶，便盆，便壶，马桶" ],
+  "notes" : [ "日常用語。通常は「トイレ」や「お手洗い」が部屋全体を指すのに対し、「便器」は具体的な器具を指す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3121,
+  "word" : "便宜",
+  "reading" : "べんぎ",
+  "romaji" : null,
+  "meaning" : [ "方便；权宜；权宜之计" ],
+  "notes" : [ "「便宜」在现代日语中主要作为名词使用，表示“方便”或“权宜之计”。虽然有时在中文中作为形容词使用，但在日语中其形容词形式通常为「便宜的な」或使用「便宜上」等固定搭配。这是一个书面语词汇，在正式场合或文章中较为常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3122,
+  "word" : "便所",
+  "reading" : "べんじょ",
+  "romaji" : null,
+  "meaning" : [ "厕所，洗手间" ],
+  "notes" : [ "“便所”一词较为直接，在正式或礼貌的场合，更常用“トイレ”或“お手洗い”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3123,
+  "word" : "便秘",
+  "reading" : "べんぴ",
+  "romaji" : null,
+  "meaning" : [ "便秘。指排便困难或排便次数减少的状态。" ],
+  "notes" : [ "该词为名词，无活用变化。在日语中常用。注意与动词「便秘する」的用法区别，后者表示“患上便秘”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3124,
+  "word" : "係",
+  "reading" : "かかり",
+  "romaji" : null,
+  "meaning" : [ "负责人，主管，担任某项工作的人" ],
+  "notes" : [ "通常作为后缀使用，如「総務係」「受付係」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3125,
+  "word" : "係員",
+  "reading" : "かかりいん",
+  "romaji" : null,
+  "meaning" : [ "工作人员，负责某具体事务的职员，主管人员" ],
+  "notes" : [ "通常指在特定场所（如车站、柜台、活动现场等）负责某项具体事务的工作人员。是「係」和「員」组成的复合名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3126,
+  "word" : "係長",
+  "reading" : "かかりちょう",
+  "romaji" : null,
+  "meaning" : [ "（公司里的职务）股长，系长，组长。指负责管理一个部门或小组的基层管理人员。" ],
+  "notes" : [ "「係長」是日本企业和组织中常见的基层管理职位，通常位于“课长”之下，“主任”或一般职员之上。有时也简称为「係長（かかり）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3127,
+  "word" : "促す",
+  "reading" : "うながす",
+  "romaji" : null,
+  "meaning" : [ "1. 催促，敦促；2. 促进，促使" ],
+  "notes" : [ "他动词。在表示“催促”时，对象通常是人或组织；在表示“促进”时，对象通常是事物或过程。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3128,
+  "word" : "促進",
+  "reading" : "そくしん",
+  "romaji" : null,
+  "meaning" : [ "促进，增进，加快" ],
+  "notes" : [ "「促進」本身是名词，但可以作为サ变动词（する动词）使用，表示“使...加速/前进”的含义。其对应的他动词形式是「促進する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3129,
+  "word" : "保つ",
+  "reading" : "たもつ",
+  "romaji" : null,
+  "meaning" : [ "1. 保持，维持；保，保住 2. 坚守，保守（地位、秘密等）" ],
+  "notes" : [ "五段活用动词，词干为‘たも’，连用形为‘たもち’，过去式为‘たもった’。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3130,
+  "word" : "保存",
+  "reading" : "ほぞん",
+  "romaji" : null,
+  "meaning" : [ "保存； 保管； 存盘" ],
+  "notes" : [ "作为名词或サ变动词使用。计算机领域常译为“存盘”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3131,
+  "word" : "保守",
+  "reading" : "ほしゅ",
+  "romaji" : null,
+  "meaning" : [ "1. （思想、政策等）保守；维持现状。 2. （机器、设备等的）保养、维护。" ],
+  "notes" : [ "「保守」作为名词使用，可以表示思想、政治上的保守主义，也可以表示对机器、设备等的保养维护。在中文中对应的动词用法（如“保守秘密”）在日语中通常用「守る」等动词表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3132,
+  "word" : "保守的",
+  "reading" : "ほしゅてき",
+  "romaji" : null,
+  "meaning" : [ "保守的，因循守旧的" ],
+  "notes" : [ "作为ナ形容詞（形容動詞）使用，如「保守的だ」、「保守的な」、「保守的に」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3133,
+  "word" : "保温",
+  "reading" : "ほおん",
+  "romaji" : null,
+  "meaning" : [ "保温，保持温度，隔热" ],
+  "notes" : [ "「保温」是一个名词，也可作为サ变动词（保温する）使用，但核心词性为名词。其对应的动词形式是「保温する」。通常指保持液体、食物或空间的温度。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3134,
+  "word" : "保管",
+  "reading" : "ほかん",
+  "romaji" : null,
+  "meaning" : [ "保管，保存，管理。指对物品、文件等进行安全地存放和照看。" ],
+  "notes" : [ "作为サ变动词使用时，词干为「保管」，活用形为「保管する」「保管しない」「保管します」「保管した」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3135,
+  "word" : "保育",
+  "reading" : "ほいく",
+  "romaji" : null,
+  "meaning" : [ "保育。指对幼儿的养育和保护，通常指在幼儿园、保育所等机构进行的看护和教育。" ],
+  "notes" : [ "作为名词使用。虽然可以构成‘保育する’这样的サ变动词，但词汇条目本身是名词。在JLPT考试中，作为独立词汇出现时，更常以名词形式考查。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3136,
+  "word" : "保育士",
+  "reading" : "ほいくし",
+  "romaji" : null,
+  "meaning" : [ "保育士，幼师，儿童保育师（指在幼儿园、托儿所等设施中从事儿童保育工作的专业人员，需持有国家资格）" ],
+  "notes" : [ "该词为日本国家资格，写作\"士\"而非\"師\"。与\"幼稚園教諭\"（幼儿园教师）是两种不同的资格，工作场所和职责有重叠但法律上有所区别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3137,
+  "word" : "保証",
+  "reading" : "ほしょう",
+  "romaji" : null,
+  "meaning" : [ "保证，担保；保障，保修" ],
+  "notes" : [ "作为名词和サ变动词使用。表示“保修”时，通常指商品的保修期。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3138,
+  "word" : "保証する",
+  "reading" : "ほしょうする",
+  "romaji" : null,
+  "meaning" : [ "保证，担保，打保票" ],
+  "notes" : [ "「保証」本身是名词，加上「する」构成サ变动词。在表示“为...担保”时，对象通常用「を」表示。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3139,
+  "word" : "保護",
+  "reading" : "ほご",
+  "romaji" : null,
+  "meaning" : [ "保护，庇护，监护。指为使某人或某物免受伤害、损失或危险而采取的行动或状态。" ],
+  "notes" : [ "可作为サ变动词使用，即「保護する」。例如：「自然を保護する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3140,
+  "word" : "保釈",
+  "reading" : "ほしゃく",
+  "romaji" : null,
+  "meaning" : [ "保释；释放（交保后）" ],
+  "notes" : [ "「保釈」是一个名词，但可作为サ变动词（保釈する）使用，表示“保释某人”。在司法领域常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3141,
+  "word" : "保険",
+  "reading" : "ほけん",
+  "romaji" : null,
+  "meaning" : [ "保险；保障；预防措施" ],
+  "notes" : [ "可单独使用，也可构成复合词，如「健康保険」「保険証券」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3142,
+  "word" : "保険証",
+  "reading" : "ほけんしょう",
+  "romaji" : null,
+  "meaning" : [ "保险证，健康保险证。用于在日本接受医疗服务时证明自己拥有健康保险的证件。" ],
+  "notes" : [ "全称为「健康保険被保険者証」。在口语中常简称为「保険証」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3143,
+  "word" : "保障",
+  "reading" : "ほしょう",
+  "romaji" : null,
+  "meaning" : [ "保障；担保；保证" ],
+  "notes" : [ "「保障」主要用作名词，表示保障、担保。虽然有时以「する」结尾作为サ变动词使用，但更常见的用法是名词或「保障する」的动词形式。其核心含义是确保某种权利、安全或状态不受侵害。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3144,
+  "word" : "保養",
+  "reading" : "ほよう",
+  "romaji" : null,
+  "meaning" : [ "休养，疗养；保养，滋补" ],
+  "notes" : [ "作为サ变动词使用时，词干为「保養」，其活用形式为「保養する」。作为名词时也可单独使用。该词侧重通过休息、疗养等方式恢复或维持健康，也可用于指精神上的修养。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3145,
+  "word" : "信じます",
+  "reading" : "しんじます",
+  "romaji" : null,
+  "meaning" : [ "相信；信任；信赖；信仰" ],
+  "notes" : [ "原型为「信じる」。此处给出的是礼貌体（ます形），是动词「信じる」的活用形式之一。属于一段动词（上一段动词）。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3146,
+  "word" : "信じる",
+  "reading" : "しんじる",
+  "romaji" : null,
+  "meaning" : [ "相信；信赖；确信；认为" ],
+  "notes" : [ "常用汉字表记是「信じる」。是「信ずる」的口语形式，属于一段动词（上一段活用）。在表示“认为”时，常以「～と信じる」的形式使用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3147,
+  "word" : "信仰",
+  "reading" : "しんこう",
+  "romaji" : null,
+  "meaning" : [ "信仰；信念（特指对宗教、神或教义的笃信与尊崇）" ],
+  "notes" : [ "1. 此词通常作为名词使用，也可作为サ变动词词干，如「信仰する」。2. 在日语中，「信仰」一词多与宗教、信念等抽象概念相关，使用范围比中文的“信仰”稍窄。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3148,
+  "word" : "信仰する",
+  "reading" : "しんこうする",
+  "romaji" : null,
+  "meaning" : [ "ある宗教や神、思想などを信じて崇拝すること。" ],
+  "notes" : [ "「信仰」の名詞形もあります。サ変動詞のため、活用は「しない・します・する・するとき・すれば・しろ」などとなります。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3149,
+  "word" : "信号",
+  "reading" : "しんごう",
+  "romaji" : null,
+  "meaning" : [ "信号；红绿灯" ],
+  "notes" : [ "通常指交通信号灯，也可指广义的信号。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3150,
+  "word" : "信念",
+  "reading" : "しんねん",
+  "romaji" : null,
+  "meaning" : [ "信念；信仰；信条；信心；确信" ],
+  "notes" : [ "表示对某种思想、学说或事物坚定不移的内心态度。词性为名词，无活用变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3151,
+  "word" : "信条",
+  "reading" : "しんじょう",
+  "romaji" : null,
+  "meaning" : [ "信条；信念；原则；教义" ],
+  "notes" : [ "「信条」是一个名词，表示个人或团体所坚信的、作为行为准则的信念或原则。通常不用于表示临时的、简单的想法，而是指较为根本和坚定的信念。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3152,
+  "word" : "信用",
+  "reading" : "しんよう",
+  "romaji" : null,
+  "meaning" : [ "信用，诚信，信誉，信任" ],
+  "notes" : [ "既可以表示对他人的信任，也可以表示自身的信誉。在商业和法律语境中经常使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3153,
+  "word" : "信者",
+  "reading" : "しんじゃ",
+  "romaji" : null,
+  "meaning" : [ "信徒，教徒；特定人物、团体或思想的狂热崇拜者、支持者。" ],
+  "notes" : [ "作为宗教信徒时，也可读作「しんしゃ」。\"狂热崇拜者\"的用法多为引申义，带有一定的非正式色彩。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3154,
+  "word" : "信頼",
+  "reading" : "しんらい",
+  "romaji" : null,
+  "meaning" : [ "信赖，信任" ],
+  "notes" : [ "「信頼する」是サ变动词（三类动词）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3155,
+  "word" : "信頼する",
+  "reading" : "しんらいする",
+  "romaji" : null,
+  "meaning" : [ "信赖，信任，相信" ],
+  "notes" : [ "\"信頼する\" 是サ行変格活用动词（サ変動詞），其连用形为\"信頼し\"，过去式/过去否定式为\"信頼した/信頼しなかった\"，否定形为\"信頼しない\"。它表示对人或事物的可靠性、能力或品格抱有坚定的信心。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3156,
+  "word" : "信頼関係",
+  "reading" : "しんらいかんけい",
+  "romaji" : null,
+  "meaning" : [ "信赖关系，信任关系。指人与人之间基于互相信赖而建立起来的稳定关系。" ],
+  "notes" : [ "常用汉字表记。在商务和人际交往中是一个非常重要的概念。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3157,
+  "word" : "修士",
+  "reading" : "しゅうし",
+  "romaji" : null,
+  "meaning" : [ "硕士（学位）" ],
+  "notes" : [ "指硕士学位或硕士课程在读/毕业生。更口语化的表达是「マスター」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3158,
+  "word" : "修学旅行",
+  "reading" : "しゅうがくりょこう",
+  "romaji" : null,
+  "meaning" : [ "学校の教育活動の一環として、児童・生徒が教師の引率のもとで行う、遠方への旅行。" ],
+  "notes" : [ "「しゅうがくりょこう」と平板型（へいばんがた）に発音するのが一般的です。数字のアクセント表記（例: 5）は不要です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3159,
+  "word" : "修業",
+  "reading" : "しゅぎょう",
+  "romaji" : null,
+  "meaning" : [ "修习学业、技艺或进行特定修行（如佛道）。指为了掌握某种技术、学问或达到精神上的目标而进行的学习和实践过程。" ],
+  "notes" : [ "作为名词使用，常见的动词形式是「修業する」。请注意与同音词「修行（しゅぎょう）」在含义和常用场景上的区别，后者更侧重于精神或宗教上的修炼。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3160,
+  "word" : "修正",
+  "reading" : "しゅうせい",
+  "romaji" : null,
+  "meaning" : [ "修正，改正，修改" ],
+  "notes" : [ "作为名词或サ变动词使用。多用于修改文件、计划、法律、错误等正式或书面场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3161,
+  "word" : "修正する",
+  "reading" : "しゅうせいする",
+  "romaji" : null,
+  "meaning" : [ "修改，修正，改正" ],
+  "notes" : [ "「修正」作为サ变动词使用，其名词形式「修正」也常用。在表示对错误、不足或不完善之处进行修改时使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3162,
+  "word" : "修理",
+  "reading" : "しゅうり",
+  "romaji" : null,
+  "meaning" : [ "修理，修缮，维修" ],
+  "notes" : [ "作为动词使用时，是サ变动词（する动词）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3163,
+  "word" : "修理します",
+  "reading" : "しゅうりします",
+  "romaji" : null,
+  "meaning" : [ "修理，维修" ],
+  "notes" : [ "「します」是「する」的ます形，表示礼貌体。原形为「修理する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3164,
+  "word" : "修繕",
+  "reading" : "しゅうぜん",
+  "romaji" : null,
+  "meaning" : [ "修缮，修理，修补。" ],
+  "notes" : [ "常用作名词，有时也以「修繕する」的形式作为サ变动词使用。表示对建筑物、机械等进行修补使其恢复原状。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3165,
+  "word" : "修行",
+  "reading" : "しゅぎょう",
+  "romaji" : null,
+  "meaning" : [ "1. （佛教、宗教用语）修行，为达到精神或宗教上的觉悟而进行的实践。2. 为掌握某种学问或技艺而进行的刻苦学习和锻炼。" ],
+  "notes" : [ "作为名词使用，也可后续「する」构成サ变动词。在表示“学习、锻炼”时，通常指长期、艰苦的过程。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3166,
+  "word" : "修飾",
+  "reading" : "しゅうしょく",
+  "romaji" : null,
+  "meaning" : [ "1. 修饰，装饰。2. （语法）修饰。" ],
+  "notes" : [ "作为名词使用，指添加装饰使其美观，或指语法上的修饰关系。当表示“进行修饰”这个动作时，使用动词形式「修飾する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3167,
+  "word" : "俯く",
+  "reading" : "うつむく",
+  "romaji" : null,
+  "meaning" : [ "うつむく。顔や視線を下に向ける。" ],
+  "notes" : [ "「俯く」は「うつむく」と読み、漢字表記は「俯く」または「うつむく」と書く。また、「俯く」は自動詞であり、他動詞は「俯ける（うつむける）」である。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3168,
+  "word" : "俳優",
+  "reading" : "はいゆう",
+  "romaji" : null,
+  "meaning" : [ "演员，特指电影、戏剧等表演艺术中的职业演员。" ],
+  "notes" : [ "「はいゆう」的声调为平板型（⓪型）。在日语中，泛指演员时也可使用「役者」，但「俳優」是更正式、通用的词汇，男女均可使用。有时特指男演员，女演员则常用「女優」。这是一个非常基础的词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3169,
+  "word" : "俳句",
+  "reading" : "はいく",
+  "romaji" : null,
+  "meaning" : [ "一种日本古典短诗，由五、七、五共三句十七个音组成。" ],
+  "notes" : [ "是日本文学的重要体裁之一，常包含季语（季語），用以表现自然景物或抒发瞬间的情思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3170,
+  "word" : "倉庫",
+  "reading" : "そうこ",
+  "romaji" : null,
+  "meaning" : [ "仓库，用于储存货物或物品的建筑物。" ],
+  "notes" : [ "常用汉字词汇，书写时注意「倉」的写法。与「蔵」字开头的词语（如「蔵書」）含义不同。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3171,
+  "word" : "個人",
+  "reading" : "こじん",
+  "romaji" : null,
+  "meaning" : [ "1. 私人，个人。与团体、组织相对。2. 个人，个体。指具有独立人格的个人。" ],
+  "notes" : [ "「個人」的读音为平板型（0型），音调核在第一个音节，后续音节音高下降。与「個人（こじん）」相关的常见搭配有「個人情報（こじんじょうほう）」、「個人主義（こじんしゅぎ）」、「個人経営（こじんけいえい）」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3172,
+  "word" : "個別",
+  "reading" : "こべつ",
+  "romaji" : null,
+  "meaning" : [ "1. 个别，单个。2. 分别，各自。" ],
+  "notes" : [ "常用「個別に」的形式作为副词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3173,
+  "word" : "個性",
+  "reading" : "こせい",
+  "romaji" : null,
+  "meaning" : [ "個人または事物が持つ他と区別される独自の性質や特徴。" ],
+  "notes" : [ "形容詞として「個性的（こせいてき）」という派生形がある。名詞としての用法が基本。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3174,
+  "word" : "倍",
+  "reading" : "ばい",
+  "romaji" : null,
+  "meaning" : [ "1. 倍；倍数；翻倍 2. （表示比较）…倍" ],
+  "notes" : [ "作为名词使用，常与数词结合表示倍数。例如「2倍（にばい）」、「3倍（さんばい）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3175,
+  "word" : "倍増",
+  "reading" : "ばいぞうする",
+  "romaji" : null,
+  "meaning" : [ "倍增，翻倍，成倍增加" ],
+  "notes" : [ "作为动词使用时，是「サ変動詞」，词干为「倍増」，后续「する」构成动词。亦可作为名词使用，读作「ばいぞう」，词性标注为「名詞」，含义相同。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3176,
+  "word" : "倒す",
+  "reading" : "たおす",
+  "romaji" : null,
+  "meaning" : [ "1. 推倒，弄倒。2. 打倒，击败。3. 杀死，干掉。4. （使事业等）倒闭，搞垮。" ],
+  "notes" : [ "他動詞。對應的自動詞是「倒れる（たおれる）」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3177,
+  "word" : "倒れる",
+  "reading" : "たおれる",
+  "romaji" : null,
+  "meaning" : [ "1. 病気や過労などで、立っていられなくなる。\n2. 立っていたものが、支えを失って横になる。\n3. 建物などが、立っていた状態から崩れる。\n4. 事業や会社などが、続けることができなくなる。" ],
+  "notes" : [ "自動詞。他動詞は「倒す」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3178,
+  "word" : "倒産",
+  "reading" : "とうさん",
+  "romaji" : null,
+  "meaning" : [ "破产，倒闭（指企业或经营者因资不抵债而停止业务）" ],
+  "notes" : [ "该词可作为サ变动词（する）使用，如「倒産する」。在法律和商业语境中常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3179,
+  "word" : "倒産します",
+  "reading" : "とうさんします",
+  "romaji" : null,
+  "meaning" : [ "（公司、企业等）破产，倒闭。" ],
+  "notes" : [ "「倒産する」的ます形。サ变动词，词干为「倒産」，词尾为「する」。在商务和新闻中常用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3180,
+  "word" : "候補",
+  "reading" : "こうほ",
+  "romaji" : null,
+  "meaning" : [ "候选人；候补者；候补（人或事物）。" ],
+  "notes" : [ "通常指被提名为某个职位或奖项的人或事物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3181,
+  "word" : "候補地",
+  "reading" : "こうほち",
+  "romaji" : null,
+  "meaning" : [ "候选地点；候选地区" ],
+  "notes" : [ "是「候補（こうほ）」与「地（ち）」的复合词，用于表示被考虑为某种用途或目的的特定地点或区域。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3182,
+  "word" : "借ります",
+  "reading" : "かります",
+  "romaji" : null,
+  "meaning" : [ "借りる（入れる）。他人の物を一時的に使用するために受け取ること。" ],
+  "notes" : [ "「借ります」は「借りる」の丁寧形（ます形）です。反対の意味（貸す）を持つ動詞は「貸します」です。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3183,
+  "word" : "借りる",
+  "reading" : "かりる",
+  "romaji" : null,
+  "meaning" : [ "借りる。自分が物や金銭などを他から受け取って使用すること。また、他者の力や知恵を利用すること。" ],
+  "notes" : [ "「借りる」の反対語は「貸す（かす）」。対象が金銭の場合は「借金（しゃっきん）する」とも言う。一段動詞なので、未然形「借り-」、連用形「借り-」、終止形「借りる」、連体形「借りる」、仮定形「借りれ」、命令形「借りろ／借りよ」と活用する。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3184,
+  "word" : "借り入れる",
+  "reading" : "かりいれる",
+  "romaji" : null,
+  "meaning" : [ "借り入れる，借入，租入，租借。通常指从外部（如银行、公司、他人处）借钱或租借物品。" ],
+  "notes" : [ "这是一个复合动词，由‘借りる’（借）和‘入れる’（放入）构成。注意与‘借りる’（普通借）的区别，‘借り入れる’更强调‘借入’这一行为本身，多用于较为正式或商业的语境。其活用规则与下一段动词相同。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3185,
+  "word" : "借家",
+  "reading" : "しゃくや",
+  "romaji" : null,
+  "meaning" : [ "租住的房子，租赁的房屋" ],
+  "notes" : [ "这是一个名词，不是动词。表示“租房”这个动作的动词是「家を借りる」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3186,
+  "word" : "借金",
+  "reading" : "しゃっきん",
+  "romaji" : null,
+  "meaning" : [ "借款，欠款，负债" ],
+  "notes" : [ "是「しゃくきん」的音变形式。常用短语有「借金がある」（有欠款）、「借金を返す」（还债）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3187,
+  "word" : "倣う",
+  "reading" : "ならう",
+  "romaji" : null,
+  "meaning" : [ "模仿，仿效，以...为榜样" ],
+  "notes" : [ "与「習う」读音相同但含义不同。通常以「〜に倣う」的形式使用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3188,
+  "word" : "値する",
+  "reading" : "あたいする",
+  "romaji" : null,
+  "meaning" : [ "值得，有…的价值；与…相称，配得上" ],
+  "notes" : [ "该动词为サ变动词，连用形为「値し（あたいし）」，否定形为「値しない（あたいしない）」。常与「に」搭配使用，构成「～に値する」的句式。通常用于书面或正式场合。作为サ变动词，其活用方式与「する」相同。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3189,
+  "word" : "値上がり",
+  "reading" : "ねあがり",
+  "romaji" : null,
+  "meaning" : [ "价格上涨，涨价" ],
+  "notes" : [ "「値上がり」是名词，其对应的自动词是「値上がる」。在日常会话中常以「～が値上がりする」的形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3190,
+  "word" : "値上げ",
+  "reading" : "ねあげ",
+  "romaji" : null,
+  "meaning" : [ "涨价，提价，加价" ],
+  "notes" : [ "「値上げ」本身是名词，与「する」结合构成サ变动词（する動詞）。在日语中，它更常作为名词或名词+する的形式使用，而非纯粹的动词。其反义词是「値下げ（ねさげ）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3191,
+  "word" : "値切る",
+  "reading" : "ねぎる",
+  "romaji" : null,
+  "meaning" : [ "讨价还价，压价" ],
+  "notes" : [ "这是一个他动词，表示通过交涉使价格降低。通常用于购物等交易场景，有时会带有贬义，暗示行为有些过分或小气。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3192,
+  "word" : "値引き",
+  "reading" : "ねびき",
+  "romaji" : null,
+  "meaning" : [ "降价，打折，减价" ],
+  "notes" : [ "「値引き」通常作为名词使用，但也可以与「する」结合构成サ变动词（する動詞）使用。其名词属性更基本。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3193,
+  "word" : "値打ち",
+  "reading" : "ねうち",
+  "romaji" : null,
+  "meaning" : [ "价值；价格；值得…之处" ],
+  "notes" : [ "作为名词使用。常指物品、行动或人的内在价值或价格。在表示“价格”时，有时与「値段」同义，但更侧重于价值感。表示“值得…之处”时，如「読む値打ちがある」（值得一读）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3194,
+  "word" : "値段",
+  "reading" : "ねだん",
+  "romaji" : null,
+  "meaning" : [ "价格，价钱" ],
+  "notes" : [ "表示商品或服务的价格。在口语和书面语中均常用。与「価格（かかく）」相比，「値段」更偏向于日常会话中使用的价格，而「価格」则更正式，多用于商业或书面语境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3195,
+  "word" : "値頃",
+  "reading" : "ねごろ",
+  "romaji" : null,
+  "meaning" : [ "価格が適切であること、手頃な値段であること" ],
+  "notes" : [ "「ねごろ」と読む。「値段が頃合い」という意味から。通常、値段が手頃である、お買い得であるという意味で用いられる。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3196,
+  "word" : "倫理",
+  "reading" : "りんり",
+  "romaji" : null,
+  "meaning" : [ "伦理；道德规范；人伦" ],
+  "notes" : [ "「倫理」是名词，没有词形变化。它通常指社会或特定群体中关于善恶对错的行为规范。与「道徳（どうとく）」意思相近，但「倫理」有时更侧重于理论或体系化的规范，尤其是在学术或专业领域。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3197,
+  "word" : "倹約",
+  "reading" : "けんやく",
+  "romaji" : null,
+  "meaning" : [ "节俭，节省" ],
+  "notes" : [ "作为动词使用时，通常以「倹約する」的形式出现。这是一个サ变动词。在JLPT考试中，作为名词和动词（する）的用法都需要掌握。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3198,
+  "word" : "偉い",
+  "reading" : "えらい",
+  "romaji" : null,
+  "meaning" : [ "伟大的；地位高的；了不起的；厉害的（用于讽刺时，可表示‘糟糕的、麻烦的’）" ],
+  "notes" : [ "1. 作为形容词使用时，属于イ形容词（形容詞），其活用遵循イ形容词的规则（如：偉くない、偉かった、偉ければ）。\n2. 在口语中，‘偉い’常用来夸奖孩子或晚辈，意为‘真棒’。\n3. 在表示讽刺或负面评价时，意为‘糟糕的、够呛的’，例如‘偉いことになった’（这下可麻烦了）。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3199,
+  "word" : "偉大",
+  "reading" : "いだい",
+  "romaji" : null,
+  "meaning" : [ "伟大；卓越；宏大；崇高。形容规模、程度、品格等超出寻常，令人敬畏或敬仰。" ],
+  "notes" : [ "「偉大」属于ナ形容詞（形容动词），其连用形为「偉大で」或「偉大に」，连体形为「偉大な」。作为汉语词汇，其语感较为书面和正式。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3200,
+  "word" : "偏る",
+  "reading" : "かたよる",
+  "romaji" : null,
+  "meaning" : [ "1. 分布や状態が一方に寄り、均等でない。\n2. 考え方や判断が公平でなく、特定の方向に傾く。\n3. 栄養などが特定のものに依存し、バランスが取れていない。" ],
+  "notes" : [ "自動詞として用いられる。他動詞形は「偏らせる」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+} ]

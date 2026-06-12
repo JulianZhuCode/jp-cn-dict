@@ -1,0 +1,649 @@
+[ {
+  "id" : 11601,
+  "word" : "鴨",
+  "reading" : "かも",
+  "romaji" : null,
+  "meaning" : [ "1. 鸭子；2. （俗语）冤大头，容易上当受骗的人" ],
+  "notes" : [ "作为“冤大头”的用法属于口语、俗语用法，使用时需注意场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11602,
+  "word" : "鵜呑み",
+  "reading" : "うのみ",
+  "romaji" : null,
+  "meaning" : [ "囫囵吞枣，不加咀嚼地吞咽（比喻对事物不加分析思考，笼统地接受）" ],
+  "notes" : [ "常与「に」「で」等助词搭配使用，构成「鵜呑みに～」「鵜呑みで～」的结构，表示以囫囵吞枣的方式做某事" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11603,
+  "word" : "鶴",
+  "reading" : "つる",
+  "romaji" : null,
+  "meaning" : [ "鹤；（日本传说中）千年鹤（象征长寿、吉祥）" ],
+  "notes" : [ "在日语文化中，鹤常与龟一起被视为长寿的代表，常用于贺寿等场合的装饰或表达中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11604,
+  "word" : "鷹",
+  "reading" : "たか",
+  "romaji" : null,
+  "meaning" : [ "鹰，鸟类的一种，猛禽，具有锐利的目光和强健的翅膀，善于捕猎小型动物。" ],
+  "notes" : [ "在日语中，“鷹”也常用于一些成语、谚语或文学作品中，如「鷹のような目」（鹰一般的眼睛，形容目光锐利）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11605,
+  "word" : "鹿",
+  "reading" : "しか",
+  "romaji" : null,
+  "meaning" : [ "鹿，一种草食性哺乳动物，通常具有角（雄性），动作敏捷，多栖息于森林、草原等自然环境中。" ],
+  "notes" : [ "在日语中，“鹿”除了表示动物鹿之外，在一些固定短语或俗语中也有使用，例如“鹿の仲間”（愚蠢的伙伴，笨蛋一伙）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11606,
+  "word" : "麓",
+  "reading" : "ろく",
+  "romaji" : null,
+  "meaning" : [ "山脚，山麓（山や丘陵などの下端の部分）" ],
+  "notes" : [ "「麓」は主に山や丘陵の下端の部分を指す。漢字の「麓」は「林」と「鹿」から成り、鹿が集まる林のある山の下という意味合いから来ているとされる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11607,
+  "word" : "麗しい",
+  "reading" : "うるわしい",
+  "romaji" : null,
+  "meaning" : [ "优美的；华丽的；动人的；令人感到美好的" ],
+  "notes" : [ "“麗しい”在书面语中使用较多，常用来形容景色、事物、声音等具有美感的对象。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11608,
+  "word" : "麦",
+  "reading" : "むぎ",
+  "romaji" : null,
+  "meaning" : [ "麦子，小麦；麦粒，麦穗" ],
+  "notes" : [ "也可写作「小麦（こくびき）」，但「麦」更常用作口语和书面语中对小麦的简称。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11609,
+  "word" : "麺類",
+  "reading" : "めんるい",
+  "romaji" : null,
+  "meaning" : [ "面条类（如拉面、乌冬面、荞麦面等各种以面粉等为原料制作的面食的统称）" ],
+  "notes" : [ "通常用于概括各种面食，在饮食相关的表达中较为常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11610,
+  "word" : "麻",
+  "reading" : "あさ",
+  "romaji" : null,
+  "meaning" : [ "麻；麻布；麻绳；芝麻" ],
+  "notes" : [ "在表示“芝麻”时，也常用「ごま」的读音，但「あさ」也可表示芝麻，需根据语境判断" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11611,
+  "word" : "麻痺",
+  "reading" : "まひ",
+  "romaji" : null,
+  "meaning" : [ "1.（身体の一部が）感覚や運動能力を失い、しびれた状態になること。/（身体某部分）失去感觉和运动能力，处于麻木状态。2.（交通・通信・経済などのシステムが）機能しなくなり、停滞すること。/（交通、通信、经济等系统）无法正常运作，陷入停滞。" ],
+  "notes" : [ "「麻痺」作为サ変动词时，其连用形为「麻痺し」，例如「麻痺して動けない」（麻痹得动不了）；终止形为「麻痺する」，例如「神経が麻痺する」（神经麻痹）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11612,
+  "word" : "麻酔",
+  "reading" : "ますい",
+  "romaji" : null,
+  "meaning" : [ "麻醉，使失去知觉或感觉，通常用于医疗过程中以减轻疼痛或使患者在手术等操作中无痛苦" ],
+  "notes" : [ "可作サ変動詞使用，如「麻酔する」（进行麻醉）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11613,
+  "word" : "黄色",
+  "reading" : "きいろ",
+  "romaji" : null,
+  "meaning" : [ "黄色，黄颜色" ],
+  "notes" : [ "也可写作「黄色い（きいろい）」形容动词形式，意为“黄色的”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11614,
+  "word" : "黄色い",
+  "reading" : "きいろい",
+  "romaji" : null,
+  "meaning" : [ "形容词，意为“黄色的”，也可引申为“色情的”（较口语化，正式场合慎用）" ],
+  "notes" : [ "在表示“色情的”含义时，较为口语化且带有一定不正式的色彩，使用时需注意场合。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11615,
+  "word" : "黄金",
+  "reading" : "おうごん",
+  "romaji" : null,
+  "meaning" : [ "黄金；金色，金黄色" ],
+  "notes" : [ "也可用于比喻珍贵、有价值的事物或时期" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11616,
+  "word" : "黒",
+  "reading" : "くろ",
+  "romaji" : null,
+  "meaning" : [ "名词，黑色；黑色的东西；黑夜；邪恶，不法；（围棋）黑子；（姓氏）黑；形容词，黑色的；皮肤黑的；（前途）暗淡的，黑暗的；阴险的，邪恶的；（围棋）黑棋的" ],
+  "notes" : [ "「黒」作为名词时，可表示颜色、物体、时间、抽象概念等；作为形容词时，可用于描述颜色、人的肤色、前途、人的品性等，其形容词形式为「黒い（くろい）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11617,
+  "word" : "黒い",
+  "reading" : "くろい",
+  "romaji" : null,
+  "meaning" : [ "黑色的；黑暗的；阴险的，邪恶的" ],
+  "notes" : [ "其连用形「黒く」可作副词，如「黒く塗る（涂成黑色）」；过去式为「黒かった」，否定式为「黒くない」" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11618,
+  "word" : "黒っぽい",
+  "reading" : "くろっぽい",
+  "romaji" : null,
+  "meaning" : [ "发黑的，带黑的，有点黑的" ],
+  "notes" : [ "「～っぽい」是接尾词，接在名词或形容词词干后，表示“带…的，有点…的，像…似的”之意" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11619,
+  "word" : "黒字",
+  "reading" : "こくじ",
+  "romaji" : null,
+  "meaning" : [ "（财务上的）盈余，顺差，赚钱（与“赤字（じし）”相对）" ],
+  "notes" : [ "常与“赤字（じし）”对应使用，在经济、财务相关领域使用频率较高" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11620,
+  "word" : "黒板",
+  "reading" : "こくばん",
+  "romaji" : null,
+  "meaning" : [ "黑板，是一种通常为黑色、绿色等颜色的平面，多用于学校、教室等场所，教师在上面书写教学内容，学生进行观看学习，也可用于会议、讲座等场合记录相关信息等。" ],
+  "notes" : [ "“黒板”在现代的学校中，除了传统的黑色、绿色的黑板，也有电子黑板等形式，其功能都是为了方便信息的展示和传递。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11621,
+  "word" : "黙る",
+  "reading" : "だまる",
+  "romaji" : null,
+  "meaning" : [ "1. 不说话，不出声，沉默；2. 不声张，保密；3. 静止，不动" ],
+  "notes" : [ "其过去式为「黙った（だまった）」，过去否定形式为「黙らなかった（だまらなかった）」，命令形为「黙れ（だまれ）」，意志形为「黙ろう（だまろう）」等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11622,
+  "word" : "黙認",
+  "reading" : "もくにん",
+  "romaji" : null,
+  "meaning" : [ "默认，默许；（法律上的）默认，承认" ],
+  "notes" : [ "作为动词时，属于サ変动词，其动词用法为「黙認する」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11623,
+  "word" : "黴",
+  "reading" : "かび",
+  "romaji" : null,
+  "meaning" : [ "1. 霉，霉菌，霉斑；2. 陈旧，陈腐，迂腐（常用于形容思想、观念、风格等方面）" ],
+  "notes" : [ "“黴”也可写作“霉”，在表示“霉”的含义时，常与“生える（はえる）”“取れる（とれる）”等动词搭配使用；表示“陈旧、陈腐”时，多用来修饰抽象事物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11624,
+  "word" : "黴菌",
+  "reading" : "ばいきん",
+  "romaji" : null,
+  "meaning" : [ "霉菌，真菌（多细胞的真菌类的总称，与细菌不同，细菌属于原核生物，而霉菌属于真核生物）" ],
+  "notes" : [ "注意与“細菌（さいきん）”区分，“細菌”指细菌，是原核生物，而“黴菌”是真菌，属于真核生物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11625,
+  "word" : "鼓",
+  "reading" : "つづみ",
+  "romaji" : null,
+  "meaning" : [ "鼓，小鼓；（古乐器）鼓" ],
+  "notes" : [ "常见的鼓类乐器相关词汇，也可用于指代古乐器中的鼓。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11626,
+  "word" : "鼓動",
+  "reading" : "こどう",
+  "romaji" : null,
+  "meaning" : [ "1. 心脏等的跳动，搏动；2. （事物的）跃动，悸动，活力" ],
+  "notes" : [ "可作サ変動詞使用，如「鼓動する」（悸动，跳动）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11627,
+  "word" : "鼠",
+  "reading" : "ねずみ",
+  "romaji" : null,
+  "meaning" : [ "老鼠；耗子" ],
+  "notes" : [ "也可写作「ねず」（较为古旧的用法），常见的相关词汇有「鼠色（ねずみいろ）」（鼠灰色）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11628,
+  "word" : "鼻",
+  "reading" : "はな",
+  "romaji" : null,
+  "meaning" : [ "鼻子；鼻涕" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11629,
+  "word" : "鼾",
+  "reading" : "いびき",
+  "romaji" : null,
+  "meaning" : [ "鼾声，呼噜声" ],
+  "notes" : [ "通常用于描述人睡觉时发出的鼾声，也可用于动物等发出类似声音的情况" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11630,
+  "word" : "3割引",
+  "reading" : "さんわりびき",
+  "romaji" : null,
+  "meaning" : [ "名词，指商品或服务的价格按照原价的70%收取，即七折（原价的30%被扣除，所以实际支付价格为原价的1 - 0.3 = 0.7，也就是七折）" ],
+  "notes" : [ "「割引（わりびき）」本身有“折扣、减价”的意思，「3割引」表示扣除原价的30%，所以实际折扣力度是七折，在日语的商业促销等场景中常用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11631,
+  "word" : "ＣＤ",
+  "reading" : "シーディー",
+  "romaji" : null,
+  "meaning" : [ "名词，光盘，激光唱片（Compact Disc的缩写，用于存储音频、数据等的圆形盘片）" ],
+  "notes" : [ "外来语，由英语“Compact Disc”缩写而来" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11632,
+  "word" : "Ｉターン現象",
+  "reading" : "アイターンげんしょう",
+  "romaji" : null,
+  "meaning" : [ "指在大城市（如东京等）工作一段时间后，又回到家乡所在的地方城市或农村工作、生活的社会现象。" ],
+  "notes" : [ "“Ｉターン”中的“I”取自英文“return”的首字母，也有说法认为取自“地方（いちほう）”的发音首字母。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11633,
+  "word" : "ＩＤカード",
+  "reading" : "アイディーカード",
+  "romaji" : null,
+  "meaning" : [ "名词，身份证件，身份识别卡（用于证明个人身份的卡片，常见的如身份证、学生证、工作证等带有身份识别功能的卡片）" ],
+  "notes" : [ "「ID」是「Identification」的缩写，「カード」意为“卡片”，组合起来表示用于身份识别的卡片。在日本，常见的IDカード有学生用的学生证（有时也被称为生徒証等，但广义上带有身份识别的学生证也可归为此类）、公司职员的员工证等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11634,
+  "word" : "IT産業",
+  "reading" : "アイティーさんぎょう",
+  "romaji" : null,
+  "meaning" : [ "信息技术产业，通过计算机、网络等信息通信技术进行信息的处理、传输、利用等相关的产业。" ],
+  "notes" : [ "「IT」是「Information Technology（情報技術）」的缩写，「産業（さんぎょう）」意为产业。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11635,
+  "word" : "Ｕターン現象",
+  "reading" : "ユーターンげんしょう",
+  "romaji" : null,
+  "meaning" : [ "指曾经离开家乡、前往大城市等地方发展的人，后来又回到家乡或原来的地方生活、工作的社会现象。" ],
+  "notes" : [ "「Ｕターン」来源于英文“U - turn”，原意为“U型转弯，调头”，在此处用于形象地描述人员从离开家乡到返回家乡的行为轨迹类似U型转弯。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11636,
+  "word" : "［いいえ、］まだまだです。",
+  "reading" : "［いいえ、］まだまだです。",
+  "romaji" : null,
+  "meaning" : [ "（不，）还不行。还差得远呢。" ],
+  "notes" : [ "常用于回应别人的询问或评价，表示自己的能力、事物的状态等还达不到要求或预期，还有很大的提升或改进空间。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11637,
+  "word" : "お寿司",
+  "reading" : "おすし",
+  "romaji" : null,
+  "meaning" : [ "寿司（一种日本传统食物，通常由醋饭搭配生鱼片、海鲜、蔬菜等食材制成）" ],
+  "notes" : [ "「お寿司」是「寿司（すし）」的礼貌说法，在日语中，在一些名词前加上「お」或「ご」（和语词前加「お」，汉语词前加「ご」）可以表示尊敬、礼貌或使表达更柔和。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11638,
+  "word" : "お風呂",
+  "reading" : "おふろ",
+  "romaji" : null,
+  "meaning" : [ "浴室；洗澡" ],
+  "notes" : [ "「お風呂」是「風呂（ふろ）」的敬语形式，常用于日常表达洗澡相关的事物或行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11639,
+  "word" : "お仕事",
+  "reading" : "おしごと",
+  "romaji" : null,
+  "meaning" : [ "工作，职业；活儿，活计（也可用于礼貌地询问、提及他人的工作，如「お仕事は何ですか？（您的工作是什么？）」）" ],
+  "notes" : [ "「お」是接头辞，用于表示尊敬，使「仕事」的表达更礼貌、客气，常用于对他人工作的提及或询问等场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11640,
+  "word" : "お国",
+  "reading" : "おくに",
+  "romaji" : null,
+  "meaning" : [ "贵国；自己的国家；故乡，家乡" ],
+  "notes" : [ "「お国」是「国（くに）」的尊敬语和自谦语用法，用于称呼对方的国家或自己的国家、家乡，较为礼貌正式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11641,
+  "word" : "お寺",
+  "reading" : "おてら",
+  "romaji" : null,
+  "meaning" : [ "寺庙，寺院" ],
+  "notes" : [ "「お」是接头辞，用于表示尊敬、亲切等语气，在这里使对“寺”的称呼更显尊敬、柔和。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11642,
+  "word" : "お正月",
+  "reading" : "おしょうがつ",
+  "romaji" : null,
+  "meaning" : [ "新年，正月，元旦及其前后数天；过年期间的活动等" ],
+  "notes" : [ "「お正月」中的「お」是接头辞，用于表示尊敬、美化等，使词汇更具礼貌性和文雅感。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11643,
+  "word" : "お祈り",
+  "reading" : "おいのり",
+  "romaji" : null,
+  "meaning" : [ "祈祷，祈愿；祷告，祈念（神仏に対して、願い事や御利益を得るために行う言葉や行為。また、その際に用いる言葉や物）" ],
+  "notes" : [ "「お祈り」通常作为名词使用，也可后续「する」构成サ变动词「お祈りする」，表示“祈祷，祈愿”的动作" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11644,
+  "word" : "お祭り",
+  "reading" : "おまつり",
+  "romaji" : null,
+  "meaning" : [ "节庆，庆典；祭祀活动；热闹的场面，盛会" ],
+  "notes" : [ "「お」是接头辞，在这里起到尊敬、美化的作用，使「祭り」这个词的语气更显亲切、正式或带有一定的礼仪感。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11645,
+  "word" : "お花見",
+  "reading" : "おはなみ",
+  "romaji" : null,
+  "meaning" : [ "赏花（例：お花見をします：去赏花；お花見に行きます：去赏花）" ],
+  "notes" : [ "「お花見」通常指在春天观赏樱花等花卉的活动，是日本的传统习俗之一。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11646,
+  "word" : "お菓子",
+  "reading" : "おかし",
+  "romaji" : null,
+  "meaning" : [ "糕点，点心；糖果" ],
+  "notes" : [ "「お」是接头辞，用于表示尊敬、亲切等语气，此处使「菓子」的说法更委婉、亲切。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11647,
+  "word" : "お話",
+  "reading" : "おはなし",
+  "romaji" : null,
+  "meaning" : [ "1. 讲话，演讲；2. 故事，传说；3. 话题，谈话内容；4. 商量，商谈" ],
+  "notes" : [ "「お話」是「話（はなし）」的礼貌说法，常用于日常交流和较为正式的场合中" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11648,
+  "word" : "お酒",
+  "reading" : "おさけ",
+  "romaji" : null,
+  "meaning" : [ "酒，酒类，日本酒，酒精饮料" ],
+  "notes" : [ "「お酒」是「酒（さけ）」的礼貌说法，常用来表示酒、酒类、日本酒等酒精饮品，在日常交流和书面表达中较为常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11649,
+  "word" : "［どうも］ありがとう［ございます］",
+  "reading" : "どうもありがとうございます",
+  "romaji" : null,
+  "meaning" : [ "非常感谢你。是一种比较礼貌、正式的感谢表达方式，在日常生活和商务等场景中广泛使用，用于向对方表达较为诚挚的谢意。" ],
+  "notes" : [ "「どうも」在这里起到加强语气的作用，使感谢的程度更深；「ございます」是礼貌语的表达形式，让整个表达更加正式、客气。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11650,
+  "word" : "健康保険証",
+  "reading" : "けんこうほけんしょう",
+  "romaji" : null,
+  "meaning" : [ "健康保险证，是在日本享受健康保险待遇时需要出示的证件，上面记载着被保险人的相关信息等，用于就医时报销医疗费用等相关事务。" ],
+  "notes" : [ "在日本，加入健康保险的人员会获得该证件，就医时通常需要出示以享受保险赔付的相关优惠政策，不同的保险类别（如厚生年金保险、国民健康保险等）对应的健康保险证在具体细节和适用范围上会有一些差异。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11651,
+  "word" : "よろしくお願いします",
+  "reading" : "よろしくおねがいします",
+  "romaji" : null,
+  "meaning" : [ "熟语，用于初次见面、开始新的关系或场合时，向对方表达希望得到对方的关照、支持、友好对待等意思，可译为“请多关照”“请多多指教”" ],
+  "notes" : [ "“よろしく”本身有“妥善、好好地”等含义，“お願いします”是“请求、拜托”的意思，组合起来是非常常用的礼貌表达，在商务、社交、日常等多种场合广泛使用" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11652,
+  "word" : "オーストラリア人",
+  "reading" : "オーストラリアじん",
+  "romaji" : null,
+  "meaning" : [ "名词，澳大利亚人" ],
+  "notes" : [ "「～人」接在国名等后面，表示该国家或地区的人，读音一般为「じん」（在“日本人（にほんじん）”等词中也有「じん」的读音，不过“中国人（ちゅうごくじん）”“韓国人（かんこくじん）”等常见词读音也遵循此规律）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11653,
+  "word" : "バーゲン会場",
+  "reading" : "バーゲンかいじょう",
+  "romaji" : null,
+  "meaning" : [ "名词，指进行降价销售、促销活动的场所，即降价处理大卖场" ],
+  "notes" : [ "「バーゲン」是外来语，源自英语“bargain”，有“廉价、特价、减价”等含义，「会場」意为“场所、场地”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11654,
+  "word" : "スキー場",
+  "reading" : "スキーじょう",
+  "romaji" : null,
+  "meaning" : [ "滑雪场" ],
+  "notes" : [ "由「スキー（滑雪）」和「場（场所）」组成的复合名词，表示进行滑雪运动的场所。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11655,
+  "word" : "ローマ字",
+  "reading" : "ローマじ",
+  "romaji" : null,
+  "meaning" : [ "罗马字，用拉丁字母（罗马字母）来表示日语的发音，常用于标注日语的读音、拼写日语的专有名词（如人名、地名、机构名等）以供国际交流等场合使用。" ],
+  "notes" : [ "“ローマ字”也可写作“羅馬字”，其对应的英文为“Romanization of Japanese”，常见的日语罗马字拼写体系有训令式、平文式等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11656,
+  "word" : "ケーキ屋",
+  "reading" : "ケーキや",
+  "romaji" : null,
+  "meaning" : [ "蛋糕店，也可用于称呼在蛋糕店工作的人（蛋糕师傅）" ],
+  "notes" : [ "「～屋」是接尾词，接在名词后，表示从事该行业的人或者该行业的店铺，例如「本屋（书店、书商）」「花屋（花店、花商）」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11657,
+  "word" : "オゾン層",
+  "reading" : "オゾンそう",
+  "romaji" : null,
+  "meaning" : [ "臭氧层，指大气层平流层中臭氧浓度相对较高的部分，主要作用是吸收短波紫外线，保护地球上的生命免受强烈紫外线的伤害。" ],
+  "notes" : [ "「オゾン」是外来语，来自英语“ozone”，表示臭氧；「層（そう）」有层、层次的意思，组合起来表示臭氧层。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11658,
+  "word" : "デジタル技術",
+  "reading" : "デジタルぎじゅつ",
+  "romaji" : null,
+  "meaning" : [ "数码技术，数字技术，利用数字（离散）信号进行信息的处理、传输、存储等的技术" ],
+  "notes" : [ "「デジタル」是外来语，源自英语“digital”，表示“数字的；数码的”，「技術（ぎじゅつ）」意为“技术；工艺”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11659,
+  "word" : "キリスト教式結婚式",
+  "reading" : "キリストきょうしきけっこんしき",
+  "romaji" : null,
+  "meaning" : [ "基督教式的婚礼，在教堂等基督教相关场所，按照基督教的教义、仪式流程举办的婚礼" ],
+  "notes" : [ "“キリスト教”意为“基督教”，“式”在这里表示“仪式、方式”，该词汇常用于描述遵循基督教传统仪式的结婚典礼" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11660,
+  "word" : "アルバイト料",
+  "reading" : "アルバイトりょう",
+  "romaji" : null,
+  "meaning" : [ "打工所得的报酬、工资" ],
+  "notes" : [ "「アルバイト」是“打工、兼职”的意思，「料」在这里表示“费用、报酬”，组合起来就是打工的报酬。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11661,
+  "word" : "フランス料理",
+  "reading" : "フランスりょうり",
+  "romaji" : null,
+  "meaning" : [ "名词，指法国的菜肴，通常具有精致的烹饪工艺、独特的调味和摆盘风格，在世界美食文化中占有重要地位。" ],
+  "notes" : [ "“料理”在日语中本身就有“菜肴、烹饪”的意思，“フランス料理”是复合名词，用来专门称呼法国的菜肴。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11662,
+  "word" : "ペルー沖",
+  "reading" : "ペルーおき",
+  "romaji" : null,
+  "meaning" : [ "名词，指秘鲁附近的海域" ],
+  "notes" : [ "「沖（おき）」有“海上、海面”的意思，此处与国名「ペルー（秘鲁）」组合，表示秘鲁周边的海域" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11663,
+  "word" : "ボランティア活動",
+  "reading" : "ボランティアかつどう",
+  "romaji" : null,
+  "meaning" : [ "志愿者活动，指个人或团体出于自愿、无偿地为社会、他人提供服务或帮助的活动" ],
+  "notes" : [ "「ボランティア」来自英语“volunteer”，意为志愿者，该词汇在日语中常作为外来语使用，其构成的「ボランティア活動」在日语的生活场景和社会活动相关表达中较为常用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11664,
+  "word" : "コピー用紙",
+  "reading" : "コピーようし",
+  "romaji" : null,
+  "meaning" : [ "复印纸，用于复印机进行复印的纸张" ],
+  "notes" : [ "「コピー」是外来语，来自英语“copy”，「用紙」意为纸张、用纸，组合起来表示复印用的纸张。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11665,
+  "word" : "テレビ番組",
+  "reading" : "テレビばんぐみ",
+  "romaji" : null,
+  "meaning" : [ "电视节目" ],
+  "notes" : [ "「～番組」中的「～」一般可搭配如「テレビ」「ラジオ」等表示媒体的词汇，构成“电视节目”“广播节目”等含义的词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11666,
+  "word" : "メタボリック症候群",
+  "reading" : "メタボリックしょうこうぐん",
+  "romaji" : null,
+  "meaning" : [ "代谢综合征，是指人体的蛋白质、脂肪、碳水化合物等物质发生代谢紊乱的病理状态，通常表现为肥胖、高血压、高血糖、高血脂等症状同时出现的综合征。" ],
+  "notes" : [ "「メタボリック」是英文“metabolic”的日语片假名转写，意为“代谢的”。该词汇在医疗、健康管理等领域使用频率较高。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11667,
+  "word" : "プーアル茶",
+  "reading" : "プーアルちゃ",
+  "romaji" : null,
+  "meaning" : [ "普洱茶，一种以云南省大叶种晒青毛茶为原料，经过特定加工工艺制成的后发酵茶类。" ],
+  "notes" : [ "「プーアル」は中国雲南省のプーアル地区（現在の普洱市）名に由来し、同地区で生産されることで知られるお茶。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11668,
+  "word" : "日程表",
+  "reading" : "にっていひょう",
+  "romaji" : null,
+  "meaning" : [ "名 记录日程安排的表格，用于规划、记录每天或一段时期内的活动、事务等安排的表格。" ],
+  "notes" : [ "也可写作「スケジュール表（スケジュールひょう）」，外来语与和语混合构成的词汇，在使用中「日程表」更为常用，「スケジュール表」也被广泛使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11669,
+  "word" : "チェコ語",
+  "reading" : "チェコご",
+  "romaji" : null,
+  "meaning" : [ "名词，捷克语，指捷克这个国家所使用的语言" ],
+  "notes" : [ "「～語」是表示语言的接尾词，接在国家或民族等名称之后，用来表示该国家或民族所使用的语言。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11670,
+  "word" : "ノーベル賞",
+  "reading" : "ノーベルしょう",
+  "romaji" : null,
+  "meaning" : [ "诺贝尔奖，是指根据诺贝尔的遗嘱设立的奖项，包括诺贝尔生理学或医学奖、诺贝尔物理学奖、诺贝尔化学奖、诺贝尔文学奖、诺贝尔和平奖，后来又增设了诺贝尔经济学奖。" ],
+  "notes" : [ "「ノーベル賞」是外来语和日语固有词的组合，“ノーベル”来自“Nobel”（诺贝尔），“賞”表示奖项。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11671,
+  "word" : "スーパー銭湯",
+  "reading" : "スーパーせんとう",
+  "romaji" : null,
+  "meaning" : [ "超级公共浴池，相较于传统公共浴池，设施更完善、规模更大、服务更丰富的洗浴场所" ],
+  "notes" : [ "「銭湯（せんとう）」原本指日本传统的公共浴池，「スーパー銭湯」是在其基础上发展而来的现代化洗浴场所，通常集洗浴、休闲、娱乐等功能于一体" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11672,
+  "word" : "インスタント食品",
+  "reading" : "インスタントしょくひん",
+  "romaji" : null,
+  "meaning" : [ "方便食品，速食（指经过加工处理，可快速食用的食品，如方便面、速食米饭、速溶汤等）" ],
+  "notes" : [ "「インスタント」是外来语，源自英语“instant”，表示“即时的、速溶的、方便的”，常与其他词汇组合构成复合词，如「インスタントラーメン（方便面）」「インスタントコーヒー（速溶咖啡）」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

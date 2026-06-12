@@ -1,0 +1,901 @@
+[ {
+  "id" : 4601,
+  "word" : "墓",
+  "reading" : "はか",
+  "romaji" : null,
+  "meaning" : [ "坟墓，墓地，坟茔" ],
+  "notes" : [ "一般指埋葬死者遗体或骨灰的场所，也可泛指墓地区域" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4602,
+  "word" : "墓参り",
+  "reading" : "はかまいり",
+  "romaji" : null,
+  "meaning" : [ "扫墓，上坟，前往墓地祭拜祖先或逝者" ],
+  "notes" : [ "作为名词使用时常后续「をする」「に行く」等表达动作的短语，作为サ变动词时可直接活用，如「墓参りします」「墓参りした」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4603,
+  "word" : "墓地",
+  "reading" : "ぼち",
+  "romaji" : null,
+  "meaning" : [ "墓地，坟地，公墓" ],
+  "notes" : [ "指埋葬死者遗体或骨灰的场所，也可写作「墓場（はかば）」，二者含义相近，「墓地」更侧重整体区域，「墓場」有时也可单指坟墓本身。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4604,
+  "word" : "増えます",
+  "reading" : "ふえます",
+  "romaji" : null,
+  "meaning" : [ "（数量、程度等）增加，增多，增长；（人数、物品等）增多，增加" ],
+  "notes" : [ "「増えます」是自动词，强调事物自身数量、程度的增加；其对应的他动词为「増やす（ふやす）」，表示人为使某事物增加。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4605,
+  "word" : "増える",
+  "reading" : "ふえる",
+  "romaji" : null,
+  "meaning" : [ "1. 增加，增多，增长；2. 增强，变大；3. 超过，超出" ],
+  "notes" : [ "自动词，不接宾语，常用「〜が増える」的形式表示事物自身的增加；其他动词形式为「増やす」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4606,
+  "word" : "増し",
+  "reading" : "まし",
+  "romaji" : null,
+  "meaning" : [ "胜过，强于", "更加，越发", "剩余，多余" ],
+  "notes" : [ "作为形容动词使用时，常接「～より」表示比较；作为名词可表示数量上的剩余。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4607,
+  "word" : "増す",
+  "reading" : "ます",
+  "romaji" : null,
+  "meaning" : [ "1.（数量、数量等）增加，增多；2.（程度、强度等）增强，加深；3.（能力、品质等）胜过，超过；4.（年龄）增长" ],
+  "notes" : [ "作为特殊五段活用动词，其ます形为「増します」，过去式为「増した」，否定形为「増さない」；该词多用于书面语或较为正式的语境，日常口语中更常用「増える」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4608,
+  "word" : "増やす",
+  "reading" : "ふやす",
+  "romaji" : null,
+  "meaning" : [ "1. 增加，增多；2. 增长，提高；3. 添加，增添" ],
+  "notes" : [ "他动词，需接宾语使用；其自动词形式为「増える（ふえる）」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4609,
+  "word" : "増加",
+  "reading" : "ぞうか",
+  "romaji" : null,
+  "meaning" : [ "数量、程度等增加、增多、增长" ],
+  "notes" : [ "作为サ变自动词使用时，常以「～が増加する」形式出现；作名词时可构成「増加率」「増加傾向」等复合词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4610,
+  "word" : "増加する",
+  "reading" : "ぞうかする",
+  "romaji" : null,
+  "meaning" : [ "（数量、程度等）增加，增多，增长" ],
+  "notes" : [ "多用于书面语或正式场合，可作为自动词或他动词使用。作为他动词时可接宾语，如「予算を増加する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4611,
+  "word" : "増大",
+  "reading" : "ぞうだい",
+  "romaji" : null,
+  "meaning" : [ "（数量、规模、程度等）增大，增多，扩大" ],
+  "notes" : [ "作为な形容词时可构成「増大な」的形式，修饰名词；作为サ变动词时可后续「する」「している」等活用形使用。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4612,
+  "word" : "増強",
+  "reading" : "ぞうきょう",
+  "romaji" : null,
+  "meaning" : [ "增强，加强，强化（力量、能力、作用等使其变得更强）" ],
+  "notes" : [ "作为サ变动词，常以「～を増強する」的形式使用，多用于抽象事物或能力、力量等的强化，也可用于具体设备性能的提升。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4613,
+  "word" : "増減",
+  "reading" : "ぞうげん",
+  "romaji" : null,
+  "meaning" : [ "1. 数量、程度等的增加和减少；2. （数量等的）变动，增减幅度" ],
+  "notes" : [ "作为名词使用时可直接后续助词，作为サ変动词使用时可后续「する」构成动词短语，常用于描述数值、数量的变化情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4614,
+  "word" : "増産",
+  "reading" : "ぞうさん",
+  "romaji" : null,
+  "meaning" : [ "增加生产数量，提高产量" ],
+  "notes" : [ "可作为名词单独使用，如「増産計画（ぞうさんけいかく）」、「増産目標（ぞうさんもくひょう）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4615,
+  "word" : "増給",
+  "reading" : "ぞうきゅう",
+  "romaji" : null,
+  "meaning" : [ "加薪，涨薪；增加的薪金" ],
+  "notes" : [ "作为サ変动词使用时，常以「増給する」「増給される」的形式出现，多用于职场场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4616,
+  "word" : "増進",
+  "reading" : "ぞうしん",
+  "romaji" : null,
+  "meaning" : [ "1. （数量、程度等）增加，增多；2. （健康、能力、关系等）增进，提升，促进" ],
+  "notes" : [ "可作为サ変動詞使用，也可作为名词使用，构成「〜の増進」的形式，如「学力の増進」「食欲の増進」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4617,
+  "word" : "墜落",
+  "reading" : "ついらく",
+  "romaji" : null,
+  "meaning" : [ "1. （从高处）坠落、掉下；2. （地位、名声、经济等）没落、衰败" ],
+  "notes" : [ "作为サ変动词使用时，常以「墜落する」的形式出现；可用于物理性掉落和抽象层面的衰败两种场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4618,
+  "word" : "墨",
+  "reading" : "すみ",
+  "romaji" : null,
+  "meaning" : [ "1. 墨，墨汁；2. 墨色，黑色；3.（书画用的）墨锭；4. 墨线，墨痕；5. （比喻）污点，不光彩的事" ],
+  "notes" : [ "可构成复合词，如「墨汁（ぼくじゅう）」墨汁、「墨壺（すみつぼ）」墨斗，也可用于惯用句「墨を塗る」抹黑、使蒙污" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4619,
+  "word" : "墨絵",
+  "reading" : "すみえ",
+  "romaji" : null,
+  "meaning" : [ "水墨画，用墨汁绘制的日本传统绘画，多以山水、花鸟等为题材，注重线条与墨色浓淡的表现" ],
+  "notes" : [ "是日本传统绘画形式的一种，与中国水墨画有渊源但发展出了自身独特的艺术风格" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4620,
+  "word" : "壁",
+  "reading" : "かべ",
+  "romaji" : null,
+  "meaning" : [ "1. 墙壁，墙体；2. 障碍，隔阂；3. 壁垒，屏障；4. （相扑）力士背后的土墙" ],
+  "notes" : [ "作为“障碍、隔阂”义时多为抽象用法，常见搭配「壁を作る」（产生隔阂）、「壁を越える」（克服障碍）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4621,
+  "word" : "壁飾り",
+  "reading" : "かべかざり",
+  "romaji" : null,
+  "meaning" : [ "墙饰，壁挂，挂在墙壁上的装饰品" ],
+  "notes" : [ "属于和语复合名词，由「壁（かべ）」与「飾り（かざり）」复合而成，通常用于指代悬挂、粘贴在墙壁上的各类装饰物品" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4622,
+  "word" : "壊します",
+  "reading" : "こわします",
+  "romaji" : null,
+  "meaning" : [ "1. 弄坏，损坏；2. 破坏，毁坏；3. 打破（规则、关系等）；4. 打乱（计划、秩序等）" ],
+  "notes" : [ "「壊します」是动词「壊す」的ます形，多用于正式场合或礼貌表达；自动词对应「壊れます」，表示物品自行损坏、故障。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4623,
+  "word" : "壊す",
+  "reading" : "こわす",
+  "romaji" : null,
+  "meaning" : [ "1. 弄坏，损坏，破坏；2. 打破，违反（规则、约定等）；3. 使崩溃，瓦解（组织、关系等）；4. 消灭，毁灭" ],
+  "notes" : [ "他动词，强调主动施加动作使对象受损、失效或瓦解；其自动词形式为「壊れる（こわれる）」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4624,
+  "word" : "壊れます",
+  "reading" : "こわれます",
+  "romaji" : null,
+  "meaning" : [ "1. 损坏，坏，出故障；2. 破碎，碎裂；3. 崩溃，垮掉；4. 失效，失灵" ],
+  "notes" : [ "该词是「壊れる」的ます形，多用于表示物品自然损坏、故障，或身体、组织等的垮塌、受损，不包含人为主动破坏的语义。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4625,
+  "word" : "壊れる",
+  "reading" : "こわれる",
+  "romaji" : null,
+  "meaning" : [ "1. 破损，损坏，坏掉；2. 出故障，失灵；3. 崩溃，垮掉；4. 破灭，落空" ],
+  "notes" : [ "作为自动词，主语多为事物，强调状态的变化；其对应的他动词是「壊す（こわす）」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4626,
+  "word" : "壮大",
+  "reading" : "そうだい",
+  "romaji" : null,
+  "meaning" : [ "1. 规模宏大、雄伟壮观；2. 气魄宏伟、气势磅礴；3. 场面盛大、隆重" ],
+  "notes" : [ "作为形容动词使用时，修饰名词需加「な」，修饰动词需加「に」；多用于描述自然景观、计划、仪式等具有宏大感的对象。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4627,
+  "word" : "声",
+  "reading" : "こえ",
+  "romaji" : null,
+  "meaning" : [ "（人或动物发出的）声音；嗓音；意见" ],
+  "notes" : [ "指人或动物发出的声音；若指物体发出的声音通常用「音（おと）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4628,
+  "word" : "声優",
+  "reading" : "せいゆう",
+  "romaji" : null,
+  "meaning" : [ "配音演员，为动画、游戏、外语影片等配音的演员" ],
+  "notes" : [ "专指从事配音工作的职业演员，常见于动漫、游戏及译制片领域。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4629,
+  "word" : "声援",
+  "reading" : "せいえん",
+  "romaji" : null,
+  "meaning" : [ "声援，助威；支援，支持" ],
+  "notes" : [ "也可以作为名词使用，表示声援的行为或声援声。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4630,
+  "word" : "声明",
+  "reading" : "せいめい",
+  "romaji" : null,
+  "meaning" : [ "声明；声明书；（国家、团体等的）声明" ],
+  "notes" : [ "作为サ变动词使用时为「声明する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4631,
+  "word" : "売ります",
+  "reading" : "うります",
+  "romaji" : null,
+  "meaning" : [ "卖，销售，出售" ],
+  "notes" : [ "动词原形为「売る」（うる）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4632,
+  "word" : "売り上げ",
+  "reading" : "うりあげ",
+  "romaji" : null,
+  "meaning" : [ "销售额，营业额，卖款" ],
+  "notes" : [ "通常指企业或店铺在一定时期内的销售总额。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4633,
+  "word" : "売り出す",
+  "reading" : "うりだす",
+  "romaji" : null,
+  "meaning" : [ "1. 开始出售，上市。2. 甩卖，大减价。3. （初登台）亮相，崭露头角，出名。" ],
+  "notes" : [ "由「売る」的连用形「売り」加上「出す」构成复合动词。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4634,
+  "word" : "売り切れ",
+  "reading" : "うりきれ",
+  "romaji" : null,
+  "meaning" : [ "卖完，售罄" ],
+  "notes" : [ "通常以「売り切れ（です）」的形式使用，表示商品已全部售出。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4635,
+  "word" : "売り切れる",
+  "reading" : "うりきれる",
+  "romaji" : null,
+  "meaning" : [ "卖完，售罄" ],
+  "notes" : [ "自动词，他动词形式为「売り切る（うりきる）」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4636,
+  "word" : "売り場",
+  "reading" : "うりば",
+  "romaji" : null,
+  "meaning" : [ "柜台，售货处，卖场" ],
+  "notes" : [ "通常指商店内出售特定商品的区域或柜台。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4637,
+  "word" : "売り手",
+  "reading" : "うりて",
+  "romaji" : null,
+  "meaning" : [ "卖方，卖主，卖家" ],
+  "notes" : [ "反义词是「買い手（かいて）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4638,
+  "word" : "売り物",
+  "reading" : "うりもの",
+  "romaji" : null,
+  "meaning" : [ "1. 商品，货品；2. 招牌，幌子，诱饵（比喻为了吸引人而展示的手段）" ],
+  "notes" : [ "通常指待售的商品；在比喻义中指为了达到某种目的而展示的手段或诱饵。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4639,
+  "word" : "売り込み",
+  "reading" : "うりこみ",
+  "romaji" : null,
+  "meaning" : [ "推销，兜售；自我推销" ],
+  "notes" : [ "源自动词「売り込む（うりこむ）」的连用形名词化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4640,
+  "word" : "売り込む",
+  "reading" : "うりこむ",
+  "romaji" : null,
+  "meaning" : [ "推销，销售；兜售；极力推荐（自己或自己的主张）" ],
+  "notes" : [ "由动词「売る」的连用形「売り」与复合动词后缀「込む」组成。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4641,
+  "word" : "売る",
+  "reading" : "うる",
+  "romaji" : null,
+  "meaning" : [ "卖，出售；销售" ],
+  "notes" : [ "他动词，反义词为「買う（かう）」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4642,
+  "word" : "売れます",
+  "reading" : "うれます",
+  "romaji" : null,
+  "meaning" : [ "好卖，畅销；能卖出" ],
+  "notes" : [ "是动词「売る」的可能态（卖れる）或自发态，表示“能卖”或“自然畅销”。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4643,
+  "word" : "売れる",
+  "reading" : "うれる",
+  "romaji" : null,
+  "meaning" : [ "1. 畅销，好卖；2. 出名，知名" ],
+  "notes" : [ "自动词，对应的他动词为「売る（うる）」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4644,
+  "word" : "売れ行き",
+  "reading" : "うれゆき",
+  "romaji" : null,
+  "meaning" : [ "销路，销售情况；行情" ],
+  "notes" : [ "由动词「売れる」的连用形「売れ」与接尾词「行き」复合而成。常用搭配有「売れ行きが良い（销路好）」、「売れ行きが悪い（销路差）」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4645,
+  "word" : "売却",
+  "reading" : "ばいきゃく",
+  "romaji" : null,
+  "meaning" : [ "（将持有的土地、房屋、股票、物品等）出售，变卖，拍卖。" ],
+  "notes" : [ "通常指为了换钱而将持有的财产或物品变卖，比「売る」更正式。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4646,
+  "word" : "売店",
+  "reading" : "ばいてん",
+  "romaji" : null,
+  "meaning" : [ "小卖部；售货亭（车站、学校、医院等处设立的小型商店）" ],
+  "notes" : [ "通常指在车站、学校、医院、公司等设施内，为了方便顾客而设置的小型商店。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4647,
+  "word" : "売買",
+  "reading" : "ばいばい",
+  "romaji" : null,
+  "meaning" : [ "买卖；交易" ],
+  "notes" : [ "“売買”通常作为名词使用，表示物品或权利的买卖交易行为。若要表示动词含义，通常使用“売買する”（做买卖/交易）的形式，但在标准日语中更常见的是使用相关动词如“取引する”或“売る/買う”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4648,
+  "word" : "壺",
+  "reading" : "つぼ",
+  "romaji" : null,
+  "meaning" : [ "坛子，罐；穴位，穴位点；关键，要点，秘密" ],
+  "notes" : [ "“壺”在中医或指代人体穴位时对应中文的“穴”；在抽象语境中常指事物的核心或秘密所在。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4649,
+  "word" : "変",
+  "reading" : "へん",
+  "romaji" : null,
+  "meaning" : [ "奇怪的，反常的；变化；变故" ],
+  "notes" : [ "作为形容动词使用时，词尾通常为「な」或「だ」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4650,
+  "word" : "変えます",
+  "reading" : "かえます",
+  "romaji" : null,
+  "meaning" : [ "改变，变换，更换；使之不同" ],
+  "notes" : [ "是动词「変える（かえる）」的礼貌体（丁寧語）。基本形为「変える」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4651,
+  "word" : "変える",
+  "reading" : "かえる",
+  "romaji" : null,
+  "meaning" : [ "改变，变换，更换" ],
+  "notes" : [ "他动词，前接助词「を」。与自动词「変わる（かわる）」对应。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4652,
+  "word" : "変に思う",
+  "reading" : "へんにおもう",
+  "romaji" : null,
+  "meaning" : [ "觉得奇怪；感到不寻常；觉得不对劲" ],
+  "notes" : [ "由形容词“変（へん）”与动词“思う”组合而成，表示对某事产生怀疑或觉得不自然。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4653,
+  "word" : "変わった",
+  "reading" : "かわった",
+  "romaji" : null,
+  "meaning" : [ "1. （状态）发生了变化，变了。 2. （性质、样子等）不同，不一样。 3. 奇怪的，古怪的，与众不同的。" ],
+  "notes" : [ "「変わる」的过去式（た形）。常以「変わった＋名词」的形式表示“古怪的”、“与众不同的”。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4654,
+  "word" : "変わり",
+  "reading" : "かわり",
+  "romaji" : null,
+  "meaning" : [ "变化；改变；不同；替代" ],
+  "notes" : [ "通常写作汉字「変わり」，也可写作假名「代わり」表示替代、代替的意思。作为动词「変わる」的连用形名词化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4655,
+  "word" : "変わります",
+  "reading" : "かわります",
+  "romaji" : null,
+  "meaning" : [ "变，变化；不同；改变；更换" ],
+  "notes" : [ "原型为「変わる」。表示状态、性质、位置等发生变化，或表示事物与以前不同。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4656,
+  "word" : "変わる",
+  "reading" : "かわる",
+  "romaji" : null,
+  "meaning" : [ "变化；改变；不同；变换" ],
+  "notes" : [ "通常以「～が変わる」的形式表示事物的状态或性质发生变化。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4657,
+  "word" : "変動",
+  "reading" : "へんどう",
+  "romaji" : null,
+  "meaning" : [ "变动，变化；（价格、行情等的）波动" ],
+  "notes" : [ "常以「変動する」（サ変动词）的形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4658,
+  "word" : "変化",
+  "reading" : "へんか",
+  "romaji" : null,
+  "meaning" : [ "（事物的）状态、性质等发生变化。变化；改变。" ],
+  "notes" : [ "也可以作为サ变动词「変化する」使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4659,
+  "word" : "変容",
+  "reading" : "へんよう",
+  "romaji" : null,
+  "meaning" : [ "（样子、面貌等）发生变化，改观，变样" ],
+  "notes" : [ "也可以作为サ变动词使用，如「変容する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4660,
+  "word" : "変幻",
+  "reading" : "へんげん",
+  "romaji" : null,
+  "meaning" : [ "（像魔术一样）变化多端，千变万化；变幻莫测" ],
+  "notes" : [ "通常以「変幻自在（へんげんじざい）」或「変幻極（きわ）まりない」的形式使用，形容变化自由自在、没有定规。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4661,
+  "word" : "変形",
+  "reading" : "へんけい",
+  "romaji" : null,
+  "meaning" : [ "变形，形状改变；变态，畸形" ],
+  "notes" : [ "作为动词使用时，词尾为「する」，属于サ变动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4662,
+  "word" : "変換",
+  "reading" : "へんかん",
+  "romaji" : null,
+  "meaning" : [ "改变，变换；（将数据、信号等）转换" ],
+  "notes" : [ "通常指将某种形式、状态转换为另一种形式或状态。在计算机领域常用于指代文件格式或编码的转换。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4663,
+  "word" : "変更",
+  "reading" : "へんこう",
+  "romaji" : null,
+  "meaning" : [ "改变，变更，更改" ],
+  "notes" : [ "作为サ变动词使用时读作「へんこうする」，活用类型为「动3」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4664,
+  "word" : "変貌",
+  "reading" : "へんぼう",
+  "romaji" : null,
+  "meaning" : [ "改变面貌，改观，变样。指事物的形状、性质、状态等发生显著变化。" ],
+  "notes" : [ "通常用于描述街道、景观、形势、人心等发生巨大的、根本性的变化。语感比単純な「変わる」更正式且程度更深。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4665,
+  "word" : "変身",
+  "reading" : "へんしん",
+  "romaji" : null,
+  "meaning" : [ "1. 变身，变形；（特指）乔装改扮\n2. 脱胎换骨，转变（形象、性格等）" ],
+  "notes" : [ "作动词使用时，需读作“へんしんする”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4666,
+  "word" : "変遷",
+  "reading" : "へんせん",
+  "romaji" : null,
+  "meaning" : [ "事物的变迁，随时间推移而产生的变化" ],
+  "notes" : [ "通常以「～の変遷」的形式使用，表示随着时间的推移而产生的状态或形势的变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4667,
+  "word" : "变革",
+  "reading" : "へんかく",
+  "romaji" : null,
+  "meaning" : [ "变革，改革，根本性的变化" ],
+  "notes" : [ "通常指根本性的、彻底的变革或改革。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4668,
+  "word" : "夏",
+  "reading" : "なつ",
+  "romaji" : null,
+  "meaning" : [ "夏季，夏天" ],
+  "notes" : [ "表示一年中炎热的季节，通常指6月至8月。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4669,
+  "word" : "夏休み",
+  "reading" : "なつやすみ",
+  "romaji" : null,
+  "meaning" : [ "暑假" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4670,
+  "word" : "夏場",
+  "reading" : "なつば",
+  "romaji" : null,
+  "meaning" : [ "夏季，夏天（特指盛夏时期或夏季的特定场合）" ],
+  "notes" : [ "由“夏”和“場”组成，侧重于指代夏季这一时间段或场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4671,
+  "word" : "夏物",
+  "reading" : "なつもの",
+  "romaji" : null,
+  "meaning" : [ "夏季用品；夏装；夏季商品" ],
+  "notes" : [ "指专门在夏季使用的物品或衣物，反义词是'冬物（ふゆもの）'。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4672,
+  "word" : "夕べ",
+  "reading" : "ゆうべ",
+  "romaji" : null,
+  "meaning" : [ "昨天晚上；昨晚" ],
+  "notes" : [ "「夕べ」是「昨夜」的雅语表现，主要用于书面语或正式场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4673,
+  "word" : "夕刊",
+  "reading" : "ゆうかん",
+  "romaji" : null,
+  "meaning" : [ "晚报" ],
+  "notes" : [ "朝刊（ちょうかん）の対する語。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4674,
+  "word" : "夕方",
+  "reading" : "ゆうがた",
+  "romaji" : null,
+  "meaning" : [ "黄昏，傍晚（指日落前后的时间）" ],
+  "notes" : [ "通常指下午5点到7点左右的时间段。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4675,
+  "word" : "夕日",
+  "reading" : "ゆうひ",
+  "romaji" : null,
+  "meaning" : [ "夕阳，落日；傍晚的太阳" ],
+  "notes" : [ "也可写作“夕陽”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4676,
+  "word" : "夕暮れ",
+  "reading" : "ゆうぐれ",
+  "romaji" : null,
+  "meaning" : [ "黄昏，傍晚" ],
+  "notes" : [ "指太阳下山后，天色尚未完全变黑的时间段。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4677,
+  "word" : "夕焼け",
+  "reading" : "ゆうやけ",
+  "romaji" : null,
+  "meaning" : [ "晚霞，火烧云；傍晚的天空因夕阳照射而呈现的红色景象。" ],
+  "notes" : [ "通常指日落时天空呈现的红色景象。谚语“夕焼けは晴れ”（晚霞预示明天是晴天）广为人知。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4678,
+  "word" : "夕立",
+  "reading" : "ゆうだち",
+  "romaji" : null,
+  "meaning" : [ "（夏季傍晚下的）骤雨，雷阵雨" ],
+  "notes" : [ "特指夏季傍晚或夜间突然下的阵雨，常伴有雷声。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4679,
+  "word" : "夕闇",
+  "reading" : "ゆうぐれ",
+  "romaji" : null,
+  "meaning" : [ "暮色，黄昏。指太阳下山后，天空和周围变暗的状态。" ],
+  "notes" : [ "“夕闇”读作“ゆうぐれ”时是名词，指黄昏时的昏暗景象。注意不要与“夕暮れ（ゆうぐれ）”混淆，虽然读音相同，但“夕暮れ”更侧重指傍晚的时间段，而“夕闇”侧重指昏暗的光线状态。另外，“夕闇”也可以读作“せきこん”，但较为少见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4680,
+  "word" : "夕食",
+  "reading" : "ゆうしょく",
+  "romaji" : null,
+  "meaning" : [ "晚餐，晚饭" ],
+  "notes" : [ "「晩ご飯（ばんごはん）」とも言う。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4681,
+  "word" : "夕飯",
+  "reading" : "ゆうはん",
+  "romaji" : null,
+  "meaning" : [ "晚饭，晚餐" ],
+  "notes" : [ "常用于日常口语中，指代晚上吃的饭。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4682,
+  "word" : "外",
+  "reading" : "そと",
+  "romaji" : null,
+  "meaning" : [ "外面，户外；外部" ],
+  "notes" : [ "通常指建筑物的外部或户外。对应反义词是「中（なか）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4683,
+  "word" : "外す",
+  "reading" : "はずす",
+  "romaji" : null,
+  "meaning" : [ "1. 取下，摘下，卸下（眼镜、戒指等）；2. 避开，躲开（要害、攻击等）；3. 错过，没抓住（机会、时机等）；4. 撤下，退下（席位等）；5. 离开，缺席（不在座位上）" ],
+  "notes" : [ "反义词是「外す（はずす）」对应「付ける（つける）」或「掛ける（かける）」等，视具体对象而定。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4684,
+  "word" : "外れ",
+  "reading" : "はずれ",
+  "romaji" : null,
+  "meaning" : [ "1. 落空，不中，没抽中（彩票等）。2. 离题，不合题意。3. 尽头，边缘。4. （质量、性能等）差劲的，次品。" ],
+  "notes" : [ "常作为接尾词使用，表示“……之外”或“……的一端”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4685,
+  "word" : "外れる",
+  "reading" : "はずれる",
+  "romaji" : null,
+  "meaning" : [ "脱落，掉下；脱落，掉下；（位置）偏离，错开；（预期等）落空，没中；脱离（团体等）；不适合，不符合（条件、资格等）" ],
+  "notes" : [ "反义词：外す（はずす）。通常作为自动动词使用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4686,
+  "word" : "外交",
+  "reading" : "がいこう",
+  "romaji" : null,
+  "meaning" : [ "国家と国との間の関係。また、その交渉や活動。" ],
+  "notes" : [ "政治的な用語として使われることが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4687,
+  "word" : "外側",
+  "reading" : "そとがわ",
+  "romaji" : null,
+  "meaning" : [ "外面，外侧" ],
+  "notes" : [ "反义词是「内側（うちがわ）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4688,
+  "word" : "外出",
+  "reading" : "がいしゅつ",
+  "romaji" : null,
+  "meaning" : [ "外出，出门；不在家" ],
+  "notes" : [ "常以「～する」的形式作为动词使用；也可以作为名词表示不在家的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4689,
+  "word" : "外出",
+  "reading" : "がいしゅつ",
+  "romaji" : null,
+  "meaning" : [ "外出，出门" ],
+  "notes" : [ "「外出します」是其敬体形式。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4690,
+  "word" : "外向的",
+  "reading" : "がいこうてき",
+  "romaji" : null,
+  "meaning" : [ "外向的；善于社交的" ],
+  "notes" : [ "反义词是「内向的（ないこうてき）」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4691,
+  "word" : "外回り",
+  "reading" : "そとまわり",
+  "romaji" : null,
+  "meaning" : [ "1. 外勤；跑外勤的人（指在公司外部进行销售、业务联系等工作）。2. 外圈；外围（绕着外侧走或转动）。" ],
+  "notes" : [ "通常指销售人员或业务员外出进行推销、收款等业务。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4692,
+  "word" : "外国",
+  "reading" : "がいこく",
+  "romaji" : null,
+  "meaning" : [ "外国；异国" ],
+  "notes" : [ "指日本以外的国家。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4693,
+  "word" : "外国人",
+  "reading" : "がいこくじん",
+  "romaji" : null,
+  "meaning" : [ "指没有拥有该国国籍的人。来自其他国家的人。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4694,
+  "word" : "外国語",
+  "reading" : "がいこくご",
+  "romaji" : null,
+  "meaning" : [ "外语；外国语" ],
+  "notes" : [ "通常指母语以外的语言。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4695,
+  "word" : "外壁",
+  "reading" : "がいへき",
+  "romaji" : null,
+  "meaning" : [ "外壁，外墙；（建筑物）外部的墙壁" ],
+  "notes" : [ "常用于建筑领域，指建筑物外部的墙壁。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4696,
+  "word" : "外来",
+  "reading" : "がいらい",
+  "romaji" : null,
+  "meaning" : [ "1. 外国传来的；（事物）从外部进入的。2. （医院的）门诊。" ],
+  "notes" : [ "常用作「外来語（がいらいご）」，指来自外国语的词汇。在医疗场景中，指「外来診療（がいらいしんりょう）」，即不需要住院的门诊治疗。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4697,
+  "word" : "外来語",
+  "reading" : "がいらいご",
+  "romaji" : null,
+  "meaning" : [ "从外国传入的语言，通常指来自西方国家的词汇（主要源自英语、葡萄牙语、荷兰语等），用片假名书写。" ],
+  "notes" : [ "外来语在日语中通常使用片假名表示。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4698,
+  "word" : "外泊",
+  "reading" : "がいはく",
+  "romaji" : null,
+  "meaning" : [ "在外过夜，夜不归宿" ],
+  "notes" : [ "通常指在自己家以外的地方过夜。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4699,
+  "word" : "外界",
+  "reading" : "がいかい",
+  "romaji" : null,
+  "meaning" : [ "外界，外部；外界社会；外部环境" ],
+  "notes" : [ "通常指物理上的外部或指代社会环境，有时与「内部（ないぶ）」相对。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4700,
+  "word" : "外科",
+  "reading" : "げか",
+  "romaji" : null,
+  "meaning" : [ "外科" ],
+  "notes" : [ "指以手术为主要治疗手段的医学分科。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

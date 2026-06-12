@@ -1,0 +1,901 @@
+[ {
+  "id" : 7301,
+  "word" : "機器/器機",
+  "reading" : "きき/きき",
+  "romaji" : null,
+  "meaning" : [ "机械，设备，器具" ],
+  "notes" : [ "「機器」と「器機」はほぼ同義ですが、「機器」の方がより広く用いられる傾向があります。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7302,
+  "word" : "機嫌",
+  "reading" : "きげん",
+  "romaji" : null,
+  "meaning" : [ "心情，情绪；（用于寒暄时）精神状态，身体状况；畅快，痛快" ],
+  "notes" : [ "常用搭配有「機嫌がいい/悪い」（心情好/不好）、「機嫌を取る」（讨好，取悦）、「機嫌を損ねる」（惹人生气，使心情变坏）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7303,
+  "word" : "機械",
+  "reading" : "きかい",
+  "romaji" : null,
+  "meaning" : [ "机器，机械，机械装置；机械般的（人或行为）" ],
+  "notes" : [ "常用汉字词汇，可用于表示具体的机械设备或比喻缺乏灵活性的人或行为" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7304,
+  "word" : "機械的",
+  "reading" : "きかいてき",
+  "romaji" : null,
+  "meaning" : [ "机械的，呆板的，不加思考的，公式化的" ],
+  "notes" : [ "作定语时需加「な」，如「機械的な動作」" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7305,
+  "word" : "機構",
+  "reading" : "きこう",
+  "romaji" : null,
+  "meaning" : [ "机构，组织；结构，构造" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7306,
+  "word" : "機種",
+  "reading" : "きしゅ",
+  "romaji" : null,
+  "meaning" : [ "机种，机型，产品型号" ],
+  "notes" : [ "指机器、设备、电器等的种类或型号" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7307,
+  "word" : "機能",
+  "reading" : "きのう",
+  "romaji" : null,
+  "meaning" : [ "功能，机能，作用" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7308,
+  "word" : "機関",
+  "reading" : "きかん",
+  "romaji" : null,
+  "meaning" : [ "机构，机关；引擎，发动机" ],
+  "notes" : [ "「機関」は組織や団体を指す場合と、機械の動力源を指す場合があります。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7309,
+  "word" : "欠かす",
+  "reading" : "かかす",
+  "romaji" : null,
+  "meaning" : [ "缺，缺少，遗漏，省去" ],
+  "notes" : [ "他动词，基本形为「欠かす」，否定形为「欠かさない」，可能形为「欠かせる」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7310,
+  "word" : "欠く",
+  "reading" : "かく",
+  "romaji" : null,
+  "meaning" : [ "缺乏，缺少；欠缺，不足；（义务等的）未履行，怠慢" ],
+  "notes" : [ "他动词，基本形为「欠く」，过去式「欠いた」，否定形「欠かない」。主要用于表示具体事物或抽象概念的缺失，以及义务、责任等的未履行。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7311,
+  "word" : "欠ける",
+  "reading" : "かける",
+  "romaji" : null,
+  "meaning" : [ "1. （物品）有缺口，缺损；2. 缺少，不足，欠缺；3. （期限等）到期，满期" ],
+  "notes" : [ "自动词，表示事物本身存在缺口或不足的状态，不可用于被动形式。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7312,
+  "word" : "欠乏",
+  "reading" : "けつぼう",
+  "romaji" : null,
+  "meaning" : [ "缺乏，不足，匮乏" ],
+  "notes" : [ "可作为サ変動詞使用，构成「欠乏する」（けつぼうする），表示“变得缺乏，发生不足”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7313,
+  "word" : "欠伸",
+  "reading" : "あくび",
+  "romaji" : null,
+  "meaning" : [ "哈欠，打哈欠" ],
+  "notes" : [ "可作动词使用，形式为「欠伸をする」，表示“打哈欠”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7314,
+  "word" : "欠勤",
+  "reading" : "けっきん",
+  "romaji" : null,
+  "meaning" : [ "名词 缺勤，旷职" ],
+  "notes" : [ "可作名词使用，也可后续「する」构成サ变动词使用（欠勤する）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7315,
+  "word" : "欠如",
+  "reading" : "けつじょ",
+  "romaji" : null,
+  "meaning" : [ "缺少，缺乏，不存在" ],
+  "notes" : [ "通常用于书面语，可与「が」「に」等助词搭配使用，如「～が欠如する」「～に欠如する」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7316,
+  "word" : "欠席",
+  "reading" : "けっせき",
+  "romaji" : null,
+  "meaning" : [ "缺席，缺勤，缺课" ],
+  "notes" : [ "「欠席する」の形で動詞として使用される。名詞としても単独で使用可能（例：欠席率）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7317,
+  "word" : "欠席します",
+  "reading" : "けっせきします",
+  "romaji" : null,
+  "meaning" : [ "缺席，缺勤，缺课" ],
+  "notes" : [ "「欠席する」の敬体形。基本形は「欠席する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7318,
+  "word" : "欠損",
+  "reading" : "けっそん",
+  "romaji" : null,
+  "meaning" : [ "缺损，缺失；（财务上的）亏损，损失" ],
+  "notes" : [ "可作名词使用，也可构成复合词如「欠損値」（缺失值）、「欠損率」（缺损率）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7319,
+  "word" : "欠点",
+  "reading" : "けってん",
+  "romaji" : null,
+  "meaning" : [ "缺点，不足之处，短处" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7320,
+  "word" : "欠陥",
+  "reading" : "けっかん",
+  "romaji" : null,
+  "meaning" : [ "缺点，缺陷，毛病，瑕疵" ],
+  "notes" : [ "通常指物品、系统、计划等存在的结构性或功能性缺陷，比「欠点」更侧重技术或质量上的问题。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7321,
+  "word" : "次",
+  "reading" : "つぎ",
+  "romaji" : null,
+  "meaning" : [ "下一个，接下来，其次；下一次，下一回；下面，后续" ],
+  "notes" : [ "「次」は名詞としてよく使われ、「次の+名詞」の形でもよく用いられます。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7322,
+  "word" : "次々",
+  "reading" : "つぎつぎ",
+  "romaji" : null,
+  "meaning" : [ "不断，接二连三，接踵而来" ],
+  "notes" : [ "「次々」は連用形であり、「次々に」の形でも使用されるが、意味に大きな差はない。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7323,
+  "word" : "次に",
+  "reading" : "つぎに",
+  "romaji" : null,
+  "meaning" : [ "接续词，表示事物或动作的顺序，意为“其次，接着，然后”" ],
+  "notes" : [ "常与「まず」「最初に」等词呼应使用，表示顺序关系" ],
+  "pos" : "CONJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7324,
+  "word" : "次の",
+  "reading" : "つぎの",
+  "romaji" : null,
+  "meaning" : [ "下一个的，接下来的，下次的" ],
+  "notes" : [ "「次の」是连体词，必须接在名词前使用，不能单独使用。" ],
+  "pos" : "PRENOM",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7325,
+  "word" : "次元",
+  "reading" : "じげん",
+  "romaji" : null,
+  "meaning" : [ "1. 维度，次元（数学、物理学中表示空间或抽象概念的维度）；2. 层面，领域，立场（指思考或看待事物的不同角度或立场）" ],
+  "notes" : [ "「次元」在数学和物理学中表示空间维度，如「三次元」（三维）；在日常用语中常用来比喻不同的思考层面或领域，与「視点」「立場」等词意思相近。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7326,
+  "word" : "次回",
+  "reading" : "じかい",
+  "romaji" : null,
+  "meaning" : [ "下次，下回，下一次" ],
+  "notes" : [ "通常用于正式场合或书面语，指紧接着的下一次活动、事件等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7327,
+  "word" : "次女",
+  "reading" : "じじょ",
+  "romaji" : null,
+  "meaning" : [ "次女，第二个女儿" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7328,
+  "word" : "次男",
+  "reading" : "じなん",
+  "romaji" : null,
+  "meaning" : [ "次子，二儿子" ],
+  "notes" : [ "对应「長男」（长子）、「三男」（三子）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7329,
+  "word" : "次第",
+  "reading" : "しだい",
+  "romaji" : null,
+  "meaning" : [ "1. 顺序，次序；2. 事情的经过，缘由；3. 听凭，要看…而定；4. 一旦…立即就…" ],
+  "notes" : [ "作为接尾辞时，接在名词或动词连用形后，表示“全凭…；要看…而定”；作为接续助词时，接在动词连用形后，表示“一旦…立即就…”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7330,
+  "word" : "次第で",
+  "reading" : "しだいで",
+  "romaji" : null,
+  "meaning" : [ "根据……的情况；取决于……；要看……而定" ],
+  "notes" : [ "前接体言、动词连体形或「名词+の」的形式，表示后项结果由前项的情况或条件所决定。" ],
+  "pos" : "PART",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7331,
+  "word" : "次第に",
+  "reading" : "しだいに",
+  "romaji" : null,
+  "meaning" : [ "逐渐，渐渐地，慢慢地，表示事物随时间推移而发生变化的过程" ],
+  "notes" : [ "通常用于描述变化的过程，修饰动词或形容词。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7332,
+  "word" : "欧米",
+  "reading" : "おうべい0",
+  "romaji" : null,
+  "meaning" : [ "欧美，欧洲和美洲（通常指西欧、北美等发达国家地区）" ],
+  "notes" : [ "「欧米」是「欧州」（欧洲）和「米州」（美洲）的缩略语，在日语中常用来泛指西方发达国家。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7333,
+  "word" : "欲",
+  "reading" : "よく",
+  "romaji" : null,
+  "meaning" : [ "贪欲，欲望，贪心；渴望，想要" ],
+  "notes" : [ "「欲」は名詞として使用され、「欲望」「貪欲」の意味を表します。「欲しい」（形容詞）とは品詞が異なり注意が必要です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7334,
+  "word" : "欲が深い",
+  "reading" : "よくがふかい",
+  "romaji" : null,
+  "meaning" : [ "形容人的欲望非常强烈，贪得无厌，总是不满足于现状。" ],
+  "notes" : [ "由「欲（よく）」（欲望）和「深い（ふかい）」（深的）构成的惯用句，用于表达对他人贪欲的负面评价。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7335,
+  "word" : "欲しい",
+  "reading" : "ほしい",
+  "romaji" : null,
+  "meaning" : [ "想要的；希望得到的" ],
+  "notes" : [ "イ形容詞。表示说话人自身的愿望。用于第三人称时需使用「欲しがる」的形式。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7336,
+  "word" : "欲を出す",
+  "reading" : "よくをだす",
+  "romaji" : null,
+  "meaning" : [ "惯用语，露出贪欲，表现出欲望" ],
+  "notes" : [ "「欲」在这里指欲望、贪欲，「出す」表示表现出、显露出来，整体表示无法抑制地表现出内心的欲望或贪婪。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7337,
+  "word" : "欲張り",
+  "reading" : "よくばり",
+  "romaji" : null,
+  "meaning" : [ "贪得无厌的人；贪心的人；贪婪者" ],
+  "notes" : [ "可作为名词表示贪婪的人，也可作为形容动词使用（词尾可加だ/で/な等），如「欲張りな人」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7338,
+  "word" : "欲張る",
+  "reading" : "よくばる",
+  "romaji" : null,
+  "meaning" : [ "贪婪，贪得无厌，贪多" ],
+  "notes" : [ "「欲張り」（名词/形容动词）是其名词形式，意为“贪婪的人，贪心鬼”" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7339,
+  "word" : "欲望",
+  "reading" : "よくぼう",
+  "romaji" : null,
+  "meaning" : [ "欲望，愿望，渴望" ],
+  "notes" : [ "通常指对某种事物的强烈渴望，可用于正面或负面语境" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7340,
+  "word" : "欲求",
+  "reading" : "よっきゅう",
+  "romaji" : null,
+  "meaning" : [ "欲望，欲求，渴望得到的事物或状态" ],
+  "notes" : [ "可作名词使用，有时也可作为サ变动词「欲求する」使用，意为“渴望，追求”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7341,
+  "word" : "欲深い",
+  "reading" : "よくぶかい",
+  "romaji" : null,
+  "meaning" : [ "贪得无厌的，贪心的，欲望强烈的" ],
+  "notes" : [ "形容词「欲しい」(想要)的派生词汇，由「欲(よく)」+「深い(ぶかい)」构成，强调欲望的程度深。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7342,
+  "word" : "欺く",
+  "reading" : "あざむく",
+  "romaji" : null,
+  "meaning" : [ "欺骗，蒙骗；哄骗，诱惑；胜过，赛过，超越" ],
+  "notes" : [ "「欺く」は他动词で、人や物事をだます意味で使用される。「勝る」「凌ぐ」などの意味でも用いられるが、この場合は比較的文語的な表現になる。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7343,
+  "word" : "歌",
+  "reading" : "うた",
+  "romaji" : null,
+  "meaning" : [ "歌曲，歌；诗歌，歌谣" ],
+  "notes" : [ "可作名词使用，表示歌曲；也可作为动词「歌う」（うたう）的词干" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7344,
+  "word" : "歌います",
+  "reading" : "うたいます",
+  "romaji" : null,
+  "meaning" : [ "唱歌，演唱" ],
+  "notes" : [ "「歌う」的礼貌形，基本形为「歌う（うたう）」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7345,
+  "word" : "歌う",
+  "reading" : "うたう",
+  "romaji" : null,
+  "meaning" : [ "唱歌，演唱；吟咏，歌颂" ],
+  "notes" : [ "基本形「歌う」、未然形「歌わ」、連用形「歌い/歌っ」、終止形「歌う」、連体形「歌う」、仮定形「歌え」、命令形「歌え」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7346,
+  "word" : "歌声",
+  "reading" : "うたごえ",
+  "romaji" : null,
+  "meaning" : [ "歌声，歌唱声" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7347,
+  "word" : "歌手",
+  "reading" : "かしゅ",
+  "romaji" : null,
+  "meaning" : [ "歌手，歌唱家" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7348,
+  "word" : "歌舞伎",
+  "reading" : "かぶき",
+  "romaji" : null,
+  "meaning" : [ "日本传统戏剧形式之一，以华丽的服装、夸张的动作和独特的化妆为特征，由男性演员扮演所有角色" ],
+  "notes" : [ "歌舞伎是江户时代（17世纪初）发展起来的日本传统戏剧，被列为联合国教科文组织世界非物质文化遗产" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7349,
+  "word" : "歌舞伎役者",
+  "reading" : "かぶきやくしゃ",
+  "romaji" : null,
+  "meaning" : [ "歌舞伎演员，指在歌舞伎表演中扮演各种角色的专业演员" ],
+  "notes" : [ "歌舞伎是日本传统戏剧之一，演员通常为男性，即使扮演女性角色也由男性演员担任" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7350,
+  "word" : "歌詞",
+  "reading" : "かし",
+  "romaji" : null,
+  "meaning" : [ "歌词，歌曲的文词" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7351,
+  "word" : "歌謡曲",
+  "reading" : "かようきょく",
+  "romaji" : null,
+  "meaning" : [ "流行歌曲，特指日本昭和时期（1926-1989）的流行音乐，或具有传统流行风格的歌曲" ],
+  "notes" : [ "与现代J-POP有所区别，更强调旋律性和叙事性，常被用于演歌或传统流行音乐范畴" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7352,
+  "word" : "歓声",
+  "reading" : "かんせい",
+  "romaji" : null,
+  "meaning" : [ "欢呼声，喝彩声" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7353,
+  "word" : "歓迎",
+  "reading" : "かんげい",
+  "romaji" : null,
+  "meaning" : [ "欢迎，迎接；受欢迎" ],
+  "notes" : [ "「歓迎する」是サ变动词，可作为名词单独使用，也可后接する构成动词。常用搭配有「歓迎会（欢迎会）」、「心から歓迎する（衷心欢迎）」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7354,
+  "word" : "歓迎します",
+  "reading" : "かんげいします",
+  "romaji" : null,
+  "meaning" : [ "欢迎" ],
+  "notes" : [ "「歓迎する」の敬体形。基本形は「歓迎する」（かんげいする）。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7355,
+  "word" : "歓迎会",
+  "reading" : "かんげいかい",
+  "romaji" : null,
+  "meaning" : [ "新しく来た人や帰ってきた人を迎えるために行われる集まり。新成员、客人等到来时举行的欢迎聚会。" ],
+  "notes" : [ "「歓迎」(かんげい)と「会」(かい)を組み合わせた複合名詞。一般的に食事やパーティー形式で行われることが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7356,
+  "word" : "止す",
+  "reading" : "とどす",
+  "romaji" : null,
+  "meaning" : [ "停止，作罢；戒掉，中止；拦截，阻止" ],
+  "notes" : [ "「止す」是「止める」的古旧说法或方言用法，现代标准语中更常用「止める」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7357,
+  "word" : "止まります",
+  "reading" : "とまります",
+  "romaji" : null,
+  "meaning" : [ "停止，停住，停下；（雨、雪等）停止，停歇" ],
+  "notes" : [ "「止まります」是「止まる」的敬体形式，表示物体或人停止移动，也可用于自然现象如雨雪停止等。其基本形「止まる」为自动词。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7358,
+  "word" : "止まる",
+  "reading" : "とまる",
+  "romaji" : null,
+  "meaning" : [ "停止，停下；停留，滞留；堵塞，不通" ],
+  "notes" : [ "自动词，强调自然停止或自身停止的状态。对应的他动词为「止める」（とめる）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7359,
+  "word" : "止めます",
+  "reading" : "とめます",
+  "romaji" : null,
+  "meaning" : [ "停止，使停止，制止，止住，关闭，关掉，停住（交通工具等），取消（计划等）" ],
+  "notes" : [ "「止めます」是他动词，对应的自动词为「止まります（とまります）」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7360,
+  "word" : "止める",
+  "reading" : "とめる",
+  "romaji" : null,
+  "meaning" : [ "使停止，使停下；制止，阻止；戒掉，中止；留住，挽留" ],
+  "notes" : [ "他动词，对应的自动词为「止まる（とまる）」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7361,
+  "word" : "正しい",
+  "reading" : "ただしい",
+  "romaji" : null,
+  "meaning" : [ "正确的，正当的，端正的，合适的" ],
+  "notes" : [ "イ形容詞（一类形容词），否定形为「正しくない」，过去式为「正しかった」" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7362,
+  "word" : "正しく",
+  "reading" : "ただしく",
+  "romaji" : null,
+  "meaning" : [ "正确地，准确地；端正地；的确，确实" ],
+  "notes" : [ "「正しい」的副词形式，由形容词词干「正し」+副词后缀「く」构成。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7363,
+  "word" : "正す",
+  "reading" : "ただす",
+  "romaji" : null,
+  "meaning" : [ "改正，订正；端正，纠正；矫正，治好；澄清，辨明" ],
+  "notes" : [ "基本形「正す」、未然形「正さ」、連用形「正し/正して」、終止形「正す」、連体形「正す」、仮定形「正せ」、命令形「正せ」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7364,
+  "word" : "正体",
+  "reading" : "しょうたい",
+  "romaji" : null,
+  "meaning" : [ "1. 真实面目，原形，本来面目；2. 意识，神志；3. 正身，本人" ],
+  "notes" : [ "「正体が現れる」「正体を現す」等の慣用表現がある。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7365,
+  "word" : "正午",
+  "reading" : "しょうご",
+  "romaji" : null,
+  "meaning" : [ "中午12点，正午" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7366,
+  "word" : "正味",
+  "reading" : "しょうみ",
+  "romaji" : null,
+  "meaning" : [ "1. 实质，内容，本质；2. 净重，净量；3. 实价，纯利，净收入" ],
+  "notes" : [ "「正味」は主に具体的な量や価値、あるいは物事の本質的な部分を指す際に使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7367,
+  "word" : "正常化",
+  "reading" : "せいじょうか",
+  "romaji" : null,
+  "meaning" : [ "使恢复正常状态；正常化" ],
+  "notes" : [ "可作サ変動詞使用，构成「正常化する」的形式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7368,
+  "word" : "正式",
+  "reading" : "せいしき",
+  "romaji" : null,
+  "meaning" : [ "形容动词。正规的，正式的，合乎规定的。" ],
+  "notes" : [ "「正式」は主に手続き、場面、立場などが規定や基準に合っていることを表す形容動詞です。名詞としても使用されることがあります（例：「正式を欠く」）が、形容動詞としての用法が一般的です。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7369,
+  "word" : "正当",
+  "reading" : "せいとう",
+  "romaji" : null,
+  "meaning" : [ "正当的，合理的，合法的" ],
+  "notes" : [ "形容动词，常与「な」连用修饰名词，或单独使用作谓语。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7370,
+  "word" : "正方形",
+  "reading" : "せいほうけい",
+  "romaji" : null,
+  "meaning" : [ "正方形，四方形" ],
+  "notes" : [ "数学用語で、四辺が等しく、すべての角が直角の四角形を指す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7371,
+  "word" : "正月",
+  "reading" : "しょうがつ",
+  "romaji" : null,
+  "meaning" : [ "正月；新年，指日本的1月1日至1月7日期间，是日本最重要的传统节日之一" ],
+  "notes" : [ "常用表达有「正月料理（しょうがつりょうり）」「正月休み（しょうがつやすみ）」「お正月（おしょうがつ）」等，其中「お正月」更为礼貌和常用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7372,
+  "word" : "正月休み",
+  "reading" : "しょうがつやすみ",
+  "romaji" : null,
+  "meaning" : [ "新年假期，指日本从12月下旬到1月上旬左右的年末年初休假期间" ],
+  "notes" : [ "日本的传统新年假期，通常包括12月29日至1月3日左右，部分企业会延长至1月5日或7日" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7373,
+  "word" : "正気",
+  "reading" : "しょうき",
+  "romaji" : null,
+  "meaning" : [ "精神正常，神志清醒；理智，理性" ],
+  "notes" : [ "常用搭配有「正気を失う」（失去理智）、「正気の沙汰」（合乎情理的事）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7374,
+  "word" : "正直",
+  "reading" : "しょうじき",
+  "romaji" : null,
+  "meaning" : [ "形容动词。老实，诚实，正直；说真的，说实话" ],
+  "notes" : [ "「正直」作为形容动词使用时，词尾变化遵循形容动词规则；作为副词使用时可直接修饰动词或句子。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7375,
+  "word" : "正確",
+  "reading" : "せいかく",
+  "romaji" : null,
+  "meaning" : [ "正确，准确，精确" ],
+  "notes" : [ "形容动词，可作定语、谓语或状语使用" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7376,
+  "word" : "正義",
+  "reading" : "せいぎ",
+  "romaji" : null,
+  "meaning" : [ "正义，公正，正当的道理" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7377,
+  "word" : "正装",
+  "reading" : "せいそう",
+  "romaji" : null,
+  "meaning" : [ "正式场合穿着的服装，正装" ],
+  "notes" : [ "「正装する」として動詞的にも使用されることがありますが、基本的には名詞です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7378,
+  "word" : "正規",
+  "reading" : "せいき",
+  "romaji" : null,
+  "meaning" : [ "正规，正式，合乎规定的，标准的" ],
+  "notes" : [ "可作连体词使用，如「正規の方法」；也可后续「だ/です」作谓语，如「この文書は正規だ」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7379,
+  "word" : "正解",
+  "reading" : "せいかい",
+  "romaji" : null,
+  "meaning" : [ "正确答案，正解" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7380,
+  "word" : "正論",
+  "reading" : "せいろん",
+  "romaji" : null,
+  "meaning" : [ "正确的言论，正当的主张，合理的意见" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7381,
+  "word" : "武力",
+  "reading" : "ぶりょく",
+  "romaji" : null,
+  "meaning" : [ "武力，军事力量；暴力" ],
+  "notes" : [ "通常指军事力量或强制手段，用于描述解决问题的暴力方式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7382,
+  "word" : "武器",
+  "reading" : "ぶき",
+  "romaji" : null,
+  "meaning" : [ "武器，兵器；（斗争、竞争中能发挥作用的）手段，工具" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7383,
+  "word" : "武士",
+  "reading" : "ぶし",
+  "romaji" : null,
+  "meaning" : [ "日本中世から近世にかけて存在した、武芸を習い軍事を職とする身分の人。主君に仕え、恩給や知行を受ける。" ],
+  "notes" : [ "江戸時代には士農工商の四民の筆頭に位置づけられた。現代では主に歴史用語として使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7384,
+  "word" : "武道",
+  "reading" : "ぶどう",
+  "romaji" : null,
+  "meaning" : [ "武道，指以武术为基础，追求身心修养和人格完善的传统技艺体系，包括剑道、柔道、空手道等" ],
+  "notes" : [ "注意「武道」与「武士道（ぶしどう）」的区别，前者侧重技艺与修养，后者是武士的道德规范" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7385,
+  "word" : "歩いて",
+  "reading" : "あるいて",
+  "romaji" : null,
+  "meaning" : [ "步行，走（动词「歩く」的て形）" ],
+  "notes" : [ "「歩く」（あるく）的连用形「歩き」后续「て」时发生音便，变为「歩いて」。用于表示动作的方式、中顿或相继发生等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7386,
+  "word" : "歩きます",
+  "reading" : "あるきます",
+  "romaji" : null,
+  "meaning" : [ "步行，走路，行走" ],
+  "notes" : [ "「歩きます」是动词「歩く」（あるく）的ます形，用于礼貌体表达。基本形「歩く」为五段动词。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7387,
+  "word" : "歩き回る",
+  "reading" : "あるきまわる",
+  "romaji" : null,
+  "meaning" : [ "到处走，来回走动，走遍" ],
+  "notes" : [ "由「歩く」(走)和「回る」(转，绕)构成的复合动词，表示在一定范围内来回走动或四处走动。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7388,
+  "word" : "歩く",
+  "reading" : "あるく",
+  "romaji" : null,
+  "meaning" : [ "走路，步行，行走；前进，进展" ],
+  "notes" : [ "自动词，可表示物理上的行走动作或抽象事物的进展" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7389,
+  "word" : "歩み",
+  "reading" : "あゆみ",
+  "romaji" : null,
+  "meaning" : [ "步伐，脚步；进展，发展过程，历程" ],
+  "notes" : [ "「歩む」（あゆむ）的名词形式，常用搭配有「時代の歩み」「着実な歩み」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7390,
+  "word" : "歩む",
+  "reading" : "あゆむ",
+  "romaji" : null,
+  "meaning" : [ "1. 走，步行，行走；2. 前进，进展，发展；3. 遵循，按照（道路、方针等）前进" ],
+  "notes" : [ "「歩む」比「歩く」更书面化，常用于表示抽象意义上的前进或发展" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7391,
+  "word" : "歩行者",
+  "reading" : "ほこうしゃ",
+  "romaji" : null,
+  "meaning" : [ "行人，步行者，徒步旅行者" ],
+  "notes" : [ "指用双脚行走的人，常用于交通相关场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7392,
+  "word" : "歩調",
+  "reading" : "ほちょう",
+  "romaji" : null,
+  "meaning" : [ "步调，步伐；进展速度，节奏" ],
+  "notes" : [ "常用搭配：~を速める（加快步调）、~を合わせる（配合步调）、~が遅い（步调慢）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7393,
+  "word" : "歩道",
+  "reading" : "ほどう",
+  "romaji" : null,
+  "meaning" : [ "人行道，供行人行走的道路" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7394,
+  "word" : "歪む",
+  "reading" : "ゆがむ",
+  "romaji" : null,
+  "meaning" : [ "变形，扭曲，歪斜；（心术）不正，扭曲" ],
+  "notes" : [ "自动词，表示物体形状发生扭曲或人的思想、判断等出现偏差。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7395,
+  "word" : "歯",
+  "reading" : "は",
+  "romaji" : null,
+  "meaning" : [ "牙齿，牙" ],
+  "notes" : [ "常用汉字，可构成复合词如「歯医者（はいしゃ）」（牙医）、「虫歯（むしば）」（蛀牙）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7396,
+  "word" : "歯切れ",
+  "reading" : "はぎれ",
+  "romaji" : null,
+  "meaning" : [ "1. （食物的）脆度，脆感；2. 口齿清晰度，发音清晰度；3. （态度、言行的）干脆，爽快，利落" ],
+  "notes" : [ "常用搭配：歯切れがよい（脆；口齿清晰；干脆）、歯切れが悪い（不脆；口齿不清；不干脆）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7397,
+  "word" : "歯医者",
+  "reading" : "はいしゃ",
+  "romaji" : null,
+  "meaning" : [ "牙医，牙科医生" ],
+  "notes" : [ "「歯医者さん」是更礼貌的说法" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7398,
+  "word" : "歯止め",
+  "reading" : "はどめ",
+  "romaji" : null,
+  "meaning" : [ "1. 车闸，制动器；2. 制止，抑制，控制" ],
+  "notes" : [ "常用搭配：「歯止めをかける」（加以制止，控制住）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7399,
+  "word" : "歯磨き",
+  "reading" : "はみがき",
+  "romaji" : null,
+  "meaning" : [ "刷牙；牙刷；牙膏" ],
+  "notes" : [ "「歯磨き粉」指牙膏，「歯磨き」单独使用时可指刷牙的行为或牙刷，需根据上下文判断具体含义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7400,
+  "word" : "歯車",
+  "reading" : "はぐるま",
+  "romaji" : null,
+  "meaning" : [ "齿轮，传动装置；比喻相互关联、相互作用的事物或人们" ],
+  "notes" : [ "常用汉字词，由「歯」（牙齿）和「車」（轮子）组成，形象地表示齿轮的形状和功能" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

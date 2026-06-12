@@ -1,0 +1,901 @@
+[ {
+  "id" : 8101,
+  "word" : "熟語",
+  "reading" : "じゅくご",
+  "romaji" : null,
+  "meaning" : [ "由两个或两个以上的汉字组合而成的复合词；也指惯用句、成语等固定表达方式" ],
+  "notes" : [ "熟語包括合成词（如「山脈」「電話」）和惯用句、成语（如「一石二鳥」「雨后春笋」）等，是日语词汇的重要组成部分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8102,
+  "word" : "熱",
+  "reading" : "ねつ",
+  "romaji" : null,
+  "meaning" : [ "热度，热；体温升高，发烧；热情，热忱" ],
+  "notes" : [ "常用汉字，可单独使用表示发烧，也可构成复合词如「熱中(ねっちゅう)」「発熱(はつねつ)」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8103,
+  "word" : "熱する",
+  "reading" : "ねつする",
+  "romaji" : null,
+  "meaning" : [ "加热；使变热；（对某事）热衷，热心" ],
+  "notes" : [ "「熱する」は他動詞で、対象を加熱する意味や、対象に熱中する意味で使われる。自動詞としての「熱くなる」「熱が出る」とは異なる。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8104,
+  "word" : "熱っぽい",
+  "reading" : "ねつっぽい",
+  "romaji" : null,
+  "meaning" : [ "（身体）感觉发烧；（对事物）有热情，有兴趣" ],
+  "notes" : [ "「熱っぽい」是由名词「熱（ねつ）」加上接尾词「っぽい」构成的形容词，表示有某种倾向或感觉。用于身体时指有发烧的感觉，用于对事物的态度时表示有热情、感兴趣的倾向。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8105,
+  "word" : "熱帯",
+  "reading" : "ねったい",
+  "romaji" : null,
+  "meaning" : [ "热带，地球赤道附近气候炎热的地带" ],
+  "notes" : [ "通常指赤道两侧南北纬23度26分之间的地带，气候特点为高温多雨" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8106,
+  "word" : "熱弁",
+  "reading" : "ねつべん",
+  "romaji" : null,
+  "meaning" : [ "热情洋溢的辩论，慷慨激昂的演说" ],
+  "notes" : [ "「熱弁を振るう」是常用搭配，表示进行热情洋溢的演讲或辩论" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8107,
+  "word" : "熱心",
+  "reading" : "ねっしん",
+  "romaji" : null,
+  "meaning" : [ "形容动词。热情的，热心的，积极的" ],
+  "notes" : [ "作副词使用时需加「に」，如「熱心に取り組む」（热心地投入）。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8108,
+  "word" : "熱意",
+  "reading" : "ねつい",
+  "romaji" : null,
+  "meaning" : [ "热忱，热情，强烈的意愿和积极性" ],
+  "notes" : [ "通常用于表达对事物的积极态度和强烈的投入感" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8109,
+  "word" : "熱波",
+  "reading" : "ねつは",
+  "romaji" : null,
+  "meaning" : [ "热浪，持续的异常高温天气" ],
+  "notes" : [ "气象学用语，指长时间持续的高温天气现象" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8110,
+  "word" : "熱湯",
+  "reading" : "ねっとう",
+  "romaji" : null,
+  "meaning" : [ "热水，开水，滚烫的水" ],
+  "notes" : [ "通常指温度很高的热水，接近沸点的水" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8111,
+  "word" : "熱狂",
+  "reading" : "ねっきょう",
+  "romaji" : null,
+  "meaning" : [ "狂热，极度兴奋" ],
+  "notes" : [ "可作为サ変動詞使用，构成「熱狂する」的形式，意为\"变得狂热，热衷于\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8112,
+  "word" : "熱量",
+  "reading" : "ねつりょう",
+  "romaji" : null,
+  "meaning" : [ "热量，热的量；表示物体所含热能多少的物理量" ],
+  "notes" : [ "常用单位为「カロリー（卡路里）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8113,
+  "word" : "燃える",
+  "reading" : "もえる",
+  "romaji" : null,
+  "meaning" : [ "燃烧，着火；（热情等）燃烧，洋溢；（颜色）鲜明，鲜艳" ],
+  "notes" : [ "自动词，表示燃烧的状态或自然着火。可用于比喻抽象事物如热情、爱情等的高涨。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8114,
+  "word" : "燃え上がる",
+  "reading" : "もえあがる",
+  "romaji" : null,
+  "meaning" : [ "燃烧起来，燃起；（感情等）高涨，爆发" ],
+  "notes" : [ "自动词，强调燃烧的动作或状态的开始与发展，可用于比喻情感等的高涨。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8115,
+  "word" : "燃やす",
+  "reading" : "もやす",
+  "romaji" : null,
+  "meaning" : [ "燃烧；烧毁；点燃；激起（热情、愤怒等）；使…燃烧" ],
+  "notes" : [ "他动词，基本形为「燃やす」，对应的自动词为「燃える」（もえる）" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8116,
+  "word" : "燃料",
+  "reading" : "ねんりょう",
+  "romaji" : null,
+  "meaning" : [ "燃烧时产生能量的物质，如煤、石油、天然气等" ],
+  "notes" : [ "一般指用于产生动力或热量的可燃性物质" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8117,
+  "word" : "燃費",
+  "reading" : "ねんぴ",
+  "romaji" : null,
+  "meaning" : [ "燃油效率，指单位燃料行驶的距离，通常以公里/升表示" ],
+  "notes" : [ "由「燃(ねん)」(燃烧)和「費(ひ)」(消耗)组成的复合名词，主要用于描述汽车等交通工具的燃油经济性" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8118,
+  "word" : "燻る",
+  "reading" : "くすぶる",
+  "romaji" : null,
+  "meaning" : [ "1. 熏黑，熏成黑色；2. （火）闷烧，冒烟；3. （因不通风等）闷热；4. （心情等）郁闷，憋闷" ],
+  "notes" : [ "「燻る」主要用于表示因烟熏、不通风等导致的物理变化或状态，以及由此引申的心情郁闷。其活用形式遵循五段动词规则，如「燻った」「燻ります」「燻ろう」等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8119,
+  "word" : "爆弾",
+  "reading" : "ばくだん",
+  "romaji" : null,
+  "meaning" : [ "炸弹，爆炸装置" ],
+  "notes" : [ "通常指具有破坏力的爆炸装置，可用于军事或恐怖活动等场景" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8120,
+  "word" : "爆発",
+  "reading" : "ばくはつ",
+  "romaji" : null,
+  "meaning" : [ "名词：爆发，爆炸；（情绪等的）爆发，迸发。自动词：爆炸；突然发生，爆发" ],
+  "notes" : [ "「爆発する」作为サ変动词使用，可用于表示物理爆炸或抽象的情绪、现象等的突然发生。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8121,
+  "word" : "爆発的",
+  "reading" : "ばくはつてき",
+  "romaji" : null,
+  "meaning" : [ "爆炸性的；爆发性的；急剧的，迅猛的，惊人的" ],
+  "notes" : [ "作定语时需加「な」，如「爆発的な勢い」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8122,
+  "word" : "爆破",
+  "reading" : "ばくは",
+  "romaji" : null,
+  "meaning" : [ "1. （通过爆炸）炸毁，爆破；2. （语音学）爆破音" ],
+  "notes" : [ "作为サ変动词使用时，基本形为「爆破する」，否定形「爆破しない」，过去形「爆破した」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8123,
+  "word" : "爆笑",
+  "reading" : "ばくしょう",
+  "romaji" : null,
+  "meaning" : [ "哄堂大笑，放声大笑；非常可笑" ],
+  "notes" : [ "「爆笑する」の形で动词として使用されることが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8124,
+  "word" : "爪",
+  "reading" : "つめ",
+  "romaji" : null,
+  "meaning" : [ "指甲，趾甲；（动物的）爪子；（器物的）爪形部分" ],
+  "notes" : [ "常用汉字，可用于指人和动物的指甲/爪子，也可用于比喻器物的爪形部件。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8125,
+  "word" : "父",
+  "reading" : "ちち",
+  "romaji" : null,
+  "meaning" : [ "父亲，爸爸（对他人提及自己父亲时的称呼）" ],
+  "notes" : [ "对他人父亲的尊称通常使用「お父さん」(おとうさん)" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8126,
+  "word" : "父母",
+  "reading" : "ふぼ",
+  "romaji" : null,
+  "meaning" : [ "父亲和母亲，双亲" ],
+  "notes" : [ "「父母」は比較的硬い表現で、日常会話では「両親」がよく使われます。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8127,
+  "word" : "父親",
+  "reading" : "ちちおや0",
+  "romaji" : null,
+  "meaning" : [ "父亲，爸爸（对他人提及自己的父亲或泛指父亲时使用的正式说法）" ],
+  "notes" : [ "日常口语中多使用「お父さん」「パパ」，「父親」较为正式或书面化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8128,
+  "word" : "爽やか",
+  "reading" : "さわやか",
+  "romaji" : null,
+  "meaning" : [ "清爽的，爽朗的，清新的，舒畅的" ],
+  "notes" : [ "常用作形容天气、空气、心情、性格等，可表示清新舒适或性格开朗爽快。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8129,
+  "word" : "片づけ",
+  "reading" : "かたづけ",
+  "romaji" : null,
+  "meaning" : [ "收拾，整理；解决，处理" ],
+  "notes" : [ "「片づける」（动词）的名词形式，可构成「片づけをする」的动词性表达" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8130,
+  "word" : "片づけます",
+  "reading" : "かたづけます",
+  "romaji" : null,
+  "meaning" : [ "收拾，整理，处理，解决" ],
+  "notes" : [ "「片づける」的礼貌形，基本形为「片づける」（かたづける）" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8131,
+  "word" : "片一方",
+  "reading" : "かたいっぽう",
+  "romaji" : null,
+  "meaning" : [ "（两个中的）一个；（一对中的）一只；（两方当中的）一方" ],
+  "notes" : [ "通常指两者中的一方，使用时多与「の」连用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8132,
+  "word" : "片付く",
+  "reading" : "かたづく",
+  "romaji" : null,
+  "meaning" : [ "1. 收拾整齐，整理好；2. 解决，处理完毕；3. 得到解决，有结果；4. （心情等）平静下来，安定" ],
+  "notes" : [ "自动词，表示状态的变化或问题的解决。其对应的他动词为「片付ける」（かたづける）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8133,
+  "word" : "片付ける",
+  "reading" : "かたづける",
+  "romaji" : null,
+  "meaning" : [ "1. 收拾，整理；2. 解决，处理；3. 清除，消除" ],
+  "notes" : [ "「片付ける」强调将散乱的物品整理归位或使问题得到彻底解决，其对应的自动词为「片付く」（かたづく）" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8134,
+  "word" : "片仮名",
+  "reading" : "かたかな",
+  "romaji" : null,
+  "meaning" : [ "日语文字之一，由汉字简化而来，主要用于书写外来语、拟声词、拟态词、动植物名称等" ],
+  "notes" : [ "与平假名（ひらがな）共同构成日语的表音文字系统，片仮名字形较方正" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8135,
+  "word" : "片思い",
+  "reading" : "かたおもい",
+  "romaji" : null,
+  "meaning" : [ "单相思，单方面爱恋，单恋" ],
+  "notes" : [ "由「片（かた）」（单方面）和「思い（おもい）」（思念）组成的复合名词，指仅一方对另一方怀有爱恋之情的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8136,
+  "word" : "片手",
+  "reading" : "かたて0",
+  "romaji" : null,
+  "meaning" : [ "单手，一只手" ],
+  "notes" : [ "常用搭配：片手で（用单手）、片手に（在一只手上）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8137,
+  "word" : "片方",
+  "reading" : "かたほう",
+  "romaji" : null,
+  "meaning" : [ "（两方中的）一方，（两个中的）一个；单侧，一边" ],
+  "notes" : [ "通常指两个中的一个，与「両方」（双方）相对，与「もう片方」（另一个）搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8138,
+  "word" : "片言",
+  "reading" : "かたこと",
+  "romaji" : null,
+  "meaning" : [ "只言片语，不完整的话，简短的话语" ],
+  "notes" : [ "通常指用外语或不熟练的语言说出的简短、不完整的话语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8139,
+  "word" : "片足",
+  "reading" : "かたあし",
+  "romaji" : null,
+  "meaning" : [ "一条腿；一只脚；（成对物品中的）一只，单只（如鞋、袜子等）" ],
+  "notes" : [ "表示身体部位时指一条腿/一只脚；表示成对物品时指其中一只，通常用于鞋、袜子等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8140,
+  "word" : "片道",
+  "reading" : "かたみち",
+  "romaji" : null,
+  "meaning" : [ "单程；单方向" ],
+  "notes" : [ "常用搭配：片道切符（单程票）、片道料金（单程费用）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8141,
+  "word" : "牛",
+  "reading" : "うし",
+  "romaji" : null,
+  "meaning" : [ "牛，牛科动物；牛肉" ],
+  "notes" : [ "常用汉字，基本词汇，指牛这种动物，也可指牛肉。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8142,
+  "word" : "牛乳",
+  "reading" : "ぎゅうにゅう",
+  "romaji" : null,
+  "meaning" : [ "牛奶，牛乳" ],
+  "notes" : [ "「ミルク」是外来语，更口语化；「牛乳」是和语，更书面或正式场合使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8143,
+  "word" : "牛肉",
+  "reading" : "ぎゅうにく0",
+  "romaji" : null,
+  "meaning" : [ "牛の肉。食用として用いられる。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8144,
+  "word" : "牧場",
+  "reading" : "ぼくじょう",
+  "romaji" : null,
+  "meaning" : [ "饲养家畜或经营畜牧业的场所；牧场" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8145,
+  "word" : "牧畜",
+  "reading" : "ぼくちく",
+  "romaji" : null,
+  "meaning" : [ "畜牧，畜牧业，指饲养牛、马、羊等家畜的产业" ],
+  "notes" : [ "「牧畜」は主に家畜の飼育を指す産業を表す名詞です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8146,
+  "word" : "物",
+  "reading" : "もの",
+  "romaji" : null,
+  "meaning" : [ "物品，东西；事物；对象；内容；性质；人；事理，道理" ],
+  "notes" : [ "常用汉字，可构成多种复合词，如「食物」「動物」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8147,
+  "word" : "物事",
+  "reading" : "ものごと",
+  "romaji" : null,
+  "meaning" : [ "事物，事情，所有的事情，一切事情" ],
+  "notes" : [ "通常用于表示抽象的、一般性的事情或泛指各种事物，可用于正式和非正式场合" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8148,
+  "word" : "物価",
+  "reading" : "ぶっか",
+  "romaji" : null,
+  "meaning" : [ "物价，商品的价格水平" ],
+  "notes" : [ "指市场上商品和服务的价格总体水平，常用搭配有「物価が上がる/下がる」（物价上涨/下跌）、「物価水準」（物价水平）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8149,
+  "word" : "物凄い",
+  "reading" : "ものすごい",
+  "romaji" : null,
+  "meaning" : [ "可怕的；惊人的，不得了的；非常，极其" ],
+  "notes" : [ "口语中常用，可表示程度非常高，相当于「非常に」「とても」" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8150,
+  "word" : "物好き",
+  "reading" : "ものずき",
+  "romaji" : null,
+  "meaning" : [ "好奇的人，好事者，喜欢尝试新鲜事物的人" ],
+  "notes" : [ "可作为名词单独使用，也可后续「な」作为形容动词使用，如「物好きな性格」（好奇的性格）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8151,
+  "word" : "物差し",
+  "reading" : "ものさし",
+  "romaji" : null,
+  "meaning" : [ "尺子，量尺；标准，尺度，衡量事物的基准" ],
+  "notes" : [ "「物差し」可用于具体测量长度的工具，也可用于抽象的衡量标准。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8152,
+  "word" : "物忘れ",
+  "reading" : "ものわすれ",
+  "romaji" : null,
+  "meaning" : [ "健忘，记忆力减退，忘记的事情" ],
+  "notes" : [ "可作为名词使用，也可构成复合动词「物忘れる（ものわすれる）」，表示忘记事物的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8153,
+  "word" : "物理",
+  "reading" : "ぶつり",
+  "romaji" : null,
+  "meaning" : [ "物理学，物理" ],
+  "notes" : [ "「物理」は「物理学」の略称です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8154,
+  "word" : "物置",
+  "reading" : "ものおき",
+  "romaji" : null,
+  "meaning" : [ "库房，储物间，存放物品的房间" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8155,
+  "word" : "物色",
+  "reading" : "ぶっしょく",
+  "romaji" : null,
+  "meaning" : [ "物色，寻找，挑选（合适的人或物）" ],
+  "notes" : [ "「物色」は主に人や物を慎重に選ぶために探すことを意味し、比較的正式な表現です。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8156,
+  "word" : "物語",
+  "reading" : "ものがたり",
+  "romaji" : null,
+  "meaning" : [ "故事，传说，叙事；讲述，叙述" ],
+  "notes" : [ "「物語」作为名词表示故事或传说；作为サ変動詞（三类动词）时读作「ものがたる」，表示讲述、叙述，此时活用类型为サ変動詞" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8157,
+  "word" : "物語る",
+  "reading" : "ものがたる",
+  "romaji" : null,
+  "meaning" : [ "讲述，叙述；表现出，流露" ],
+  "notes" : [ "「物語る」是他动词，基本形为「物語る」，过去式「物語った」，否定式「物語らない」。常与「話」「思い」「気持ち」等名词搭配使用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8158,
+  "word" : "物議",
+  "reading" : "ぶつぎ",
+  "romaji" : null,
+  "meaning" : [ "社会的な批判や世論。特に物事の不当さや問題点に対する広く行われる批判的な意見。" ],
+  "notes" : [ "「物議を醸す」「物議を招く」「物議をかもす」などの形でよく使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8159,
+  "word" : "物資",
+  "reading" : "ぶっし",
+  "romaji" : null,
+  "meaning" : [ "物资，物品（多指生产、生活、军事等方面所需要的各种物质资料）" ],
+  "notes" : [ "通常指大量的、具有实用价值的物资，而非单个物体。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8160,
+  "word" : "物質",
+  "reading" : "ぶっしつ",
+  "romaji" : null,
+  "meaning" : [ "物质，指构成宇宙万物的实体，具有质量和占据空间的属性" ],
+  "notes" : [ "可用于物理、化学等科学领域，也可用于日常表达" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8161,
+  "word" : "物足りない",
+  "reading" : "ものたりない",
+  "romaji" : null,
+  "meaning" : [ "形容词 不够，不足，不满足，不充分，不尽兴" ],
+  "notes" : [ "「物が足りない」の略で、何かが不足していて満足感が得られないことを表す。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8162,
+  "word" : "物音",
+  "reading" : "ものおと",
+  "romaji" : null,
+  "meaning" : [ "声音，声响（指物体发出的声音或不明确的声响）" ],
+  "notes" : [ "通常指非人声的、比较轻微或不明确的声音，可用于描述环境中的各种声响。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8163,
+  "word" : "物騒",
+  "reading" : "ぶっそう",
+  "romaji" : null,
+  "meaning" : [ "不太平，不安定；危险，惊险" ],
+  "notes" : [ "形容动词，词干为「物騒」，活用形为「物騒だ・物騒で・物騒に・物騒な」等。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8164,
+  "word" : "特に",
+  "reading" : "とくに",
+  "romaji" : null,
+  "meaning" : [ "特别，尤其，格外" ],
+  "notes" : [ "表示程度上的特别强调，用于修饰形容词、副词、动词等。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8165,
+  "word" : "特典",
+  "reading" : "とくてん",
+  "romaji" : null,
+  "meaning" : [ "名词 特别的优惠、赠品、特权、福利" ],
+  "notes" : [ "主に商品購入時の追加サービスや、会員・イベント参加者などに与えられる特別な待遇を指す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8166,
+  "word" : "特別",
+  "reading" : "とくべつ",
+  "romaji" : null,
+  "meaning" : [ "特别，格外，特殊" ],
+  "notes" : [ "可作名词使用，如「特別の事情」（特殊情况）" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8167,
+  "word" : "特定",
+  "reading" : "とくてい",
+  "romaji" : null,
+  "meaning" : [ "特别指定；明确指出；确定，查明" ],
+  "notes" : [ "作为名词时可后续「の」作定语，作为サ変动词时可用于「特定する」「特定できる」等形式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8168,
+  "word" : "特徴",
+  "reading" : "とくちょう",
+  "romaji" : null,
+  "meaning" : [ "特征，特点，特性" ],
+  "notes" : [ "可构成复合词「特徴的（とくちょうてき）」，为形容动词，意为“具有特征的，有特色的”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8169,
+  "word" : "特急",
+  "reading" : "とっきゅう",
+  "romaji" : null,
+  "meaning" : [ "1. 特快列车；2. 加急，火速" ],
+  "notes" : [ "可作为接尾词使用，如「特急券」（特快列车票）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8170,
+  "word" : "特急電車",
+  "reading" : "とっきゅうでんしゃ",
+  "romaji" : null,
+  "meaning" : [ "特快列车，比普通列车速度快、停站少的列车" ],
+  "notes" : [ "通常需要额外支付特急料金" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8171,
+  "word" : "特技",
+  "reading" : "とくぎ",
+  "romaji" : null,
+  "meaning" : [ "特长，特别技能，拿手好戏" ],
+  "notes" : [ "指在某方面特别擅长的技能或技艺" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8172,
+  "word" : "特有",
+  "reading" : "とくゆう",
+  "romaji" : null,
+  "meaning" : [ "特有的，独有的，独特的" ],
+  "notes" : [ "作为形容动词使用，后续常接「の」修饰名词，或接「だ/です」作谓语。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8173,
+  "word" : "特権",
+  "reading" : "とっけん",
+  "romaji" : null,
+  "meaning" : [ "特权，特殊的权利或待遇" ],
+  "notes" : [ "一般指基于特定身份、地位等获得的普通大众所没有的特殊权利" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8174,
+  "word" : "特殊",
+  "reading" : "とくしゅ",
+  "romaji" : null,
+  "meaning" : [ "特殊的，特别的，与众不同的" ],
+  "notes" : [ "可作名词使用，如「特殊を追求する」（追求特殊性）" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8175,
+  "word" : "特注",
+  "reading" : "とくちゅう",
+  "romaji" : null,
+  "meaning" : [ "特别订货，定制，定做" ],
+  "notes" : [ "可作为名词使用，也可构成复合词如「特注品」「特注製」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8176,
+  "word" : "特産",
+  "reading" : "とくさん",
+  "romaji" : null,
+  "meaning" : [ "地方で特によく産出されるものや特徴的な製品。地方特有の名産品。" ],
+  "notes" : [ "「特産品」という形でもよく使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8177,
+  "word" : "特級",
+  "reading" : "とっきゅう",
+  "romaji" : null,
+  "meaning" : [ "特级，最高等级" ],
+  "notes" : [ "表示等级中的最高级别，常用于形容商品、服务、食材等的品质等级" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8178,
+  "word" : "特級調理師",
+  "reading" : "とっきゅうちょうりし",
+  "romaji" : null,
+  "meaning" : [ "特级厨师，指在料理领域拥有最高级别专业资格的厨师" ],
+  "notes" : [ "日本の調理師免許の最高級で、高度な技術と知識を持つ専門家を指す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8179,
+  "word" : "特色",
+  "reading" : "とくしょく",
+  "romaji" : null,
+  "meaning" : [ "特色，特征，特点，特质" ],
+  "notes" : [ "常用汉字词，指事物所具有的独特之处或显著特征。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8180,
+  "word" : "特長",
+  "reading" : "とくちょう",
+  "romaji" : null,
+  "meaning" : [ "特长，特征，特点" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8181,
+  "word" : "犠牲",
+  "reading" : "ぎせい",
+  "romaji" : null,
+  "meaning" : [ "1. 牺牲（为某种目的而放弃的重要事物、利益等）；2. 牺牲品，牺牲者；3. 代价" ],
+  "notes" : [ "「犠牲になる」是常用搭配，表示成为牺牲品或牺牲者。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8182,
+  "word" : "犠牲者",
+  "reading" : "ぎせいしゃ",
+  "romaji" : null,
+  "meaning" : [ "牺牲者，遇难者，受害者" ],
+  "notes" : [ "指因事故、灾害、战争等不幸事件而死亡或受到伤害的人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8183,
+  "word" : "犬",
+  "reading" : "いぬ",
+  "romaji" : null,
+  "meaning" : [ "狗，犬" ],
+  "notes" : [ "常用动物名词，指家养的狗或犬科动物" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8184,
+  "word" : "犯す",
+  "reading" : "おかす",
+  "romaji" : null,
+  "meaning" : [ "1. 违反，违背（法律、规则等）；2. 犯（错误、罪等）；3. 冒犯，伤害（他人感情等）" ],
+  "notes" : [ "他动词，强调主动实施的行为。常用搭配有「規則を犯す」「過失を犯す」等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8185,
+  "word" : "犯人",
+  "reading" : "はんにん",
+  "romaji" : null,
+  "meaning" : [ "犯人，罪犯，犯罪者" ],
+  "notes" : [ "指实施了犯罪行为的人，可用于各种犯罪场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8186,
+  "word" : "犯罪",
+  "reading" : "はんざい",
+  "romaji" : null,
+  "meaning" : [ "犯罪，指违反法律并应受到处罚的行为" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8187,
+  "word" : "犯行",
+  "reading" : "はんこう",
+  "romaji" : null,
+  "meaning" : [ "犯罪行为，罪行" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8188,
+  "word" : "状態",
+  "reading" : "じょうたい",
+  "romaji" : null,
+  "meaning" : [ "状态，状况，情形" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8189,
+  "word" : "状況",
+  "reading" : "じょうきょう",
+  "romaji" : null,
+  "meaning" : [ "情况，状况，情形，局势" ],
+  "notes" : [ "可用于描述各种场合的当前状态或发展情况，正式和日常用语中均可使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8190,
+  "word" : "狂う",
+  "reading" : "くるう",
+  "romaji" : null,
+  "meaning" : [ "1. 发疯，疯狂；精神失常 2. 失去理智，着迷 3. （机器等）出故障，失灵 4. （计划等）打乱，出错 5. （行情等）暴涨暴跌" ],
+  "notes" : [ "自动词，通常表示状态的变化或异常。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8191,
+  "word" : "狙う",
+  "reading" : "ねらう",
+  "romaji" : null,
+  "meaning" : [ "瞄准；以……为目标，伺机；图谋，企图" ],
+  "notes" : [ "他动词，主要表示瞄准具体目标或抽象目标，有时带有伺机行动的含义。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8192,
+  "word" : "独り",
+  "reading" : "ひとり",
+  "romaji" : null,
+  "meaning" : [ "独自一人，一个人；单身，独身" ],
+  "notes" : [ "「独り」是「一人」的书面语或较为正式的表达方式，日常会话中更常用「一人（ひとり）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8193,
+  "word" : "独り言",
+  "reading" : "ひとりごと",
+  "romaji" : null,
+  "meaning" : [ "自言自语，独白，一个人嘟囔的话" ],
+  "notes" : [ "通常指无意识或下意识地自己对自己说话的内容" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8194,
+  "word" : "独り身",
+  "reading" : "ひとりみ",
+  "romaji" : null,
+  "meaning" : [ "单身，独身（指没有配偶、独自生活的状态）" ],
+  "notes" : [ "可用于形容未婚、离婚或丧偶后独自生活的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8195,
+  "word" : "独創",
+  "reading" : "どくそう",
+  "romaji" : null,
+  "meaning" : [ "独创，独特的创造；独创性，原创性" ],
+  "notes" : [ "「独創的（どくそうてき）」是其形容词形式，意为“独创的，有独创性的”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8196,
+  "word" : "独占",
+  "reading" : "どくせん",
+  "romaji" : null,
+  "meaning" : [ "独占，垄断；独自占有，独享" ],
+  "notes" : [ "「独占する」の形で動詞として使用することが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8197,
+  "word" : "独学",
+  "reading" : "どくがく",
+  "romaji" : null,
+  "meaning" : [ "自学，独自学习" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8198,
+  "word" : "独特",
+  "reading" : "どくとく",
+  "romaji" : null,
+  "meaning" : [ "形容动词 独特，特有，与众不同" ],
+  "notes" : [ "「独特」は形容動詞で、名詞の前には「の」を付けて修飾する。例：独特の文化。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8199,
+  "word" : "独立",
+  "reading" : "どくりつ",
+  "romaji" : null,
+  "meaning" : [ "独立，自主，不依赖他人或他物而存在或行动" ],
+  "notes" : [ "可作サ変动词使用，此时活用形为「独立する」「独立した」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8200,
+  "word" : "独自",
+  "reading" : "どくじ",
+  "romaji" : null,
+  "meaning" : [ "形容动词 独自的，独特的，特有的" ],
+  "notes" : [ "「独自」は主に「独自の+名詞」の形で使用される形容動詞です。名詞としても使用されることがありますが、形容動詞としての用法が一般的です。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+} ]

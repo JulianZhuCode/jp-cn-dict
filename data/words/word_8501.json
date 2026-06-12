@@ -1,0 +1,901 @@
+[ {
+  "id" : 8501,
+  "word" : "白髪",
+  "reading" : "しらが",
+  "romaji" : null,
+  "meaning" : [ "白发；白头发" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8502,
+  "word" : "白鳥",
+  "reading" : "はくちょう①",
+  "romaji" : null,
+  "meaning" : [ "名。白鳥科の大型の水鳥。羽毛は主に白色で、長い首と大きな翼を持つ。日本では冬に渡来することが多い。" ],
+  "notes" : [ "「白鳥」は漢字読みで、「ハクチョウ」とも読まれます。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8503,
+  "word" : "白黒",
+  "reading" : "しろくろ",
+  "romaji" : null,
+  "meaning" : [ "1. 白色和黑色。2. 是非，善恶；正确与错误。3. 黑白（电视、照片等）。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8504,
+  "word" : "百",
+  "reading" : "ひゃく",
+  "romaji" : null,
+  "meaning" : [ "数词，用于表示数量一百。" ],
+  "notes" : [ "" ],
+  "pos" : "NUM",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8505,
+  "word" : "百薬の長",
+  "reading" : "ひゃくやくのちょう",
+  "romaji" : null,
+  "meaning" : [ "指的是“百药之王”，通常用来指代甘草。" ],
+  "notes" : [ "甘草在中医药学中被视为非常重要的药材，具有调和诸药等多种功效，在日语中“百薬の長”常用来表示甘草这一概念。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8506,
+  "word" : "百貨店",
+  "reading" : "ひゃっかてん",
+  "romaji" : null,
+  "meaning" : [ "出售各种商品的大型商店，通常位于城市中心，提供服装、食品、家居用品、电子产品等多种商品。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8507,
+  "word" : "的",
+  "reading" : "てき",
+  "romaji" : null,
+  "meaning" : [ "接在名词后，表示具有某种性质、特征或倾向等。如「科学的な考え方」（科学的思维方式）；「目的の」（关于目的的）；「主な」（主要的）等意思。" ],
+  "notes" : [ "作为接尾辞使用较为常见，一般接在名词后构成新的形容词性或名词性词汇。" ],
+  "pos" : "SUFFIX",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8508,
+  "word" : "的確",
+  "reading" : "てきかく",
+  "romaji" : null,
+  "meaning" : [ "正确，准确；恰当，贴切" ],
+  "notes" : [ "形容动词，词干为「的確」，词尾为「だ」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8509,
+  "word" : "皆",
+  "reading" : "みんな（minna）",
+  "romaji" : null,
+  "meaning" : [ "大家，全体，所有的人" ],
+  "notes" : [ "该词较为常用，是表示复数概念的词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8510,
+  "word" : "皆さん",
+  "reading" : "みなさん",
+  "romaji" : null,
+  "meaning" : [ "指代在场的所有的人，大家" ],
+  "notes" : [ "是较为常用的称呼众人的词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8511,
+  "word" : "皆様",
+  "reading" : "みなさま",
+  "romaji" : null,
+  "meaning" : [ "指在场的所有的人，诸位，各位，大家" ],
+  "notes" : [ "是较为常用的敬称，用于正式场合或对多人的称呼。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8512,
+  "word" : "皆無",
+  "reading" : "かいむ",
+  "romaji" : null,
+  "meaning" : [ "完全没有，毫无" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8513,
+  "word" : "皮",
+  "reading" : "かわ",
+  "romaji" : null,
+  "meaning" : [ "皮肤；物体的表面；外皮；果皮；兽皮等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8514,
+  "word" : "皮肉",
+  "reading" : "ひにく",
+  "romaji" : null,
+  "meaning" : [ "讽刺，挖苦；矛盾，不合情理" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8515,
+  "word" : "皮膚",
+  "reading" : "ひふ",
+  "romaji" : null,
+  "meaning" : [ "身体表面を覆っている組織。外界との接触や水分の保持などに役立つ。" ],
+  "notes" : [ "人体の器官の一つで、保護や感知などの機能を持つ。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8516,
+  "word" : "皮膚病",
+  "reading" : "ひふびょう",
+  "romaji" : null,
+  "meaning" : [ "皮肤病。指发生在皮肤及皮肤附属器官疾病的总称。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8517,
+  "word" : "皲",
+  "reading" : "クン",
+  "romaji" : null,
+  "meaning" : [ "皮肤因寒冷干燥而破裂、皲裂。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8518,
+  "word" : "皺",
+  "reading" : "しわ",
+  "romaji" : null,
+  "meaning" : [ "皱纹；褶皱，褶子。物体表面因收缩、折叠等形成的凹凸纹路。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8519,
+  "word" : "皿",
+  "reading" : "さら",
+  "romaji" : null,
+  "meaning" : [ "盘子，碟子，用于盛放物品的浅底器具" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8520,
+  "word" : "皿洗い",
+  "reading" : "さらあらい",
+  "romaji" : null,
+  "meaning" : [ "名词。洗盘子、洗碟子的行为。" ],
+  "notes" : [ "「皿洗い」はサ变动词として使われ、基本形は「皿洗いする」で、「する」を省いて「皿洗い」とも言います。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8521,
+  "word" : "盆地",
+  "reading" : "ぼんち",
+  "romaji" : null,
+  "meaning" : [ "周りが山などで囲まれ、中が低くなった地形。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8522,
+  "word" : "盗み",
+  "reading" : "ぬすみ",
+  "romaji" : null,
+  "meaning" : [ "偷窃；盗窃行为。" ],
+  "notes" : [ "该词为名词，指偷偷拿走他人财物的行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8523,
+  "word" : "盗む",
+  "reading" : "ぬすむ",
+  "romaji" : null,
+  "meaning" : [ "盗取，偷盗；剽窃，抄袭" ],
+  "notes" : [ "该动词的连用形为「盗み」，如「盗み食い」（偷吃）" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8524,
+  "word" : "盗撮り",
+  "reading" : "ぬすみとり",
+  "romaji" : null,
+  "meaning" : [ "偷偷拍摄他人的行为，即偷拍。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8525,
+  "word" : "盗む",
+  "reading" : "ぬすむ",
+  "romaji" : null,
+  "meaning" : [ "偷，盗窃，窃取；剽窃，抄袭" ],
+  "notes" : [ "他动词表示该动作需要有动作的对象，即宾语。五段活用动词是日语动词的一种活用类型，其词尾在う段上变化。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8526,
+  "word" : "盗作",
+  "reading" : "とうさく",
+  "romaji" : null,
+  "meaning" : [ "剽窃，抄袭；盗印；盗制（影片、唱片等）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8527,
+  "word" : "盗聴",
+  "reading" : "とうちょう",
+  "romaji" : null,
+  "meaning" : [ "未经许可，暗中偷听或窃听他人谈话、信息等" ],
+  "notes" : [ "该词常用于描述不正当获取他人信息的行为" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8528,
+  "word" : "盗難",
+  "reading" : "とうなん",
+  "romaji" : null,
+  "meaning" : [ "财物等被盗窃的事件；失窃，被盗" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8529,
+  "word" : "盛り",
+  "reading" : "もり",
+  "romaji" : null,
+  "meaning" : [ "鼎盛时期，最佳状态；壮年，精力充沛；盛，堆，盘；程度，情况等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8530,
+  "word" : "盛り上がる",
+  "reading" : "もりあがる",
+  "romaji" : null,
+  "meaning" : [ "1. 凸起；涌起；隆起。例：地面が盛り上がっている。（地面隆起。）2. 高涨；热烈；活跃起来。例：会場の雰囲気が盛り上がる。（会场的气氛热烈起来。）3. 聚集；汇集。例：人が盛り上がる。（人聚集起来。）" ],
+  "notes" : [ "该词强调从原本的状态向上、活跃的变化。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8531,
+  "word" : "盛り付け",
+  "reading" : "もりつけ",
+  "romaji" : null,
+  "meaning" : [ "将做好的饭菜等摆放在盘子等餐具中，进行装盘、摆饰。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8532,
+  "word" : "盛り合わせ",
+  "reading" : "もりあわせ",
+  "romaji" : null,
+  "meaning" : [ "将多种食物搭配组合在一起的拼盘（菜）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8533,
+  "word" : "盛る",
+  "reading" : "もる",
+  "romaji" : null,
+  "meaning" : [ "1. 盛，装满；把……盛入容器等。2. 堆高，堆起来；堆积。3. 增添，添加；使丰富。4. 盛情款待；热烈欢迎。5. （在比赛等中）发挥出色，积极表现。" ],
+  "notes" : [ "该词为他动词，常用搭配如「～に～を盛る」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8534,
+  "word" : "盛ん",
+  "reading" : "さかん0",
+  "romaji" : null,
+  "meaning" : [ "形容事物处于兴盛、旺盛、热烈的状态。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8535,
+  "word" : "盛大",
+  "reading" : "せいだい",
+  "romaji" : null,
+  "meaning" : [ "规模大且隆重、壮观的样子。常用于描述活动、场面等盛大、宏大。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8536,
+  "word" : "盛況",
+  "reading" : "せいきょう",
+  "romaji" : null,
+  "meaning" : [ "盛大な状況。多くの人が集まって賑やかな様子。" ],
+  "notes" : [ "「盛況」は形容詞「盛ん」に接尾辞「況」が付いてできた名詞で、賑やかな状態を表す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8537,
+  "word" : "監督",
+  "reading" : "かんとく",
+  "romaji" : null,
+  "meaning" : [ "管理人；导演；监督。作为动词时，意为监督，管理。" ],
+  "notes" : [ "该词既可以作名词表示管理人、导演等意思，也可以作动词表示监督、管理的行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8538,
+  "word" : "監視",
+  "reading" : "かんし",
+  "romaji" : null,
+  "meaning" : [ "監視すること。ある対象を見張り、注意深く見ること。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8539,
+  "word" : "目",
+  "reading" : "め",
+  "romaji" : null,
+  "meaning" : [ "眼睛；目光；眼神；眼力；看法；项目；目录等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8540,
+  "word" : "目つき",
+  "reading" : "めつき",
+  "romaji" : null,
+  "meaning" : [ "眼神，目光；样子，神态" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8541,
+  "word" : "目にする",
+  "reading" : "めにする",
+  "romaji" : null,
+  "meaning" : [ "看到，看见；目睹；遇见；经历" ],
+  "notes" : [ "该词是他动词，通常以「目に～する」的形式使用，表示眼睛所及的范围。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8542,
+  "word" : "目の前",
+  "reading" : "めのまえ",
+  "romaji" : null,
+  "meaning" : [ "眼前，面前；即将面临（某种情况或时刻）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8543,
+  "word" : "目まぐるしい",
+  "reading" : "めまぐるしい",
+  "romaji" : null,
+  "meaning" : [ "形容事物变化快速，让人看得眼花缭乱，常用于形容景象、局势等变化极快，目不暇接。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8544,
+  "word" : "目を見張る",
+  "reading" : "めをみはる",
+  "romaji" : null,
+  "meaning" : [ "因惊讶、赞叹等而瞪大眼睛，瞠目结舌" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8545,
+  "word" : "目上",
+  "reading" : "めうえ",
+  "romaji" : null,
+  "meaning" : [ "尊长；上司；地位或辈分高的人" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8546,
+  "word" : "目下",
+  "reading" : "もくげ",
+  "romaji" : null,
+  "meaning" : [ "眼下；目前；晚辈；下属" ],
+  "notes" : [ "表示时间时指当前的一段时间，指人时表示辈分或职位较低的人" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8547,
+  "word" : "目先",
+  "reading" : "めさき",
+  "romaji" : null,
+  "meaning" : [ "眼前；当前；不久的将来；表面现象；只顾眼前" ],
+  "notes" : [ "该词较为常用，在描述眼前的事物或短期的未来情况时可使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8548,
+  "word" : "目前",
+  "reading" : "もくぜん",
+  "romaji" : null,
+  "meaning" : [ "眼前，面前；当前，现在" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8549,
+  "word" : "目印",
+  "reading" : "めじるし",
+  "romaji" : null,
+  "meaning" : [ "标记，记号；线索，头绪" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8550,
+  "word" : "目安",
+  "reading" : "もくやす",
+  "romaji" : null,
+  "meaning" : [ "目标，基准；大致的标准，大致的推测；线索，头绪" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8551,
+  "word" : "目当て",
+  "reading" : "もくあて",
+  "romaji" : null,
+  "meaning" : [ "目标；目的；指望；期望。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8552,
+  "word" : "目指す",
+  "reading" : "めざす",
+  "romaji" : null,
+  "meaning" : [ "以……为目标；瞄准；朝着。想要达到（某个目标或结果）。" ],
+  "notes" : [ "该词常用搭配如「～を目指す」表示以某事物为目标。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8553,
+  "word" : "目撃",
+  "reading" : "もくげき",
+  "romaji" : null,
+  "meaning" : [ "亲眼看到别人的行为或事物的发生，即目击。" ],
+  "notes" : [ "该词为名词，在句子中常作宾语等成分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8554,
+  "word" : "目撃者",
+  "reading" : "もくげきしゃ",
+  "romaji" : null,
+  "meaning" : [ "目睹事件发生的人；目击者" ],
+  "notes" : [ "该词为常用词汇，在描述事件相关场景时经常使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8555,
+  "word" : "目方",
+  "reading" : "もくがた",
+  "romaji" : null,
+  "meaning" : [ "重量，分量；身材" ],
+  "notes" : [ "表示重量时较为常用，在表示身材时多为比喻用法" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8556,
+  "word" : "目標",
+  "reading" : "もくひょう",
+  "romaji" : null,
+  "meaning" : [ "想要达到的境地或标准；目的。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8557,
+  "word" : "目次",
+  "reading" : "もくじ",
+  "romaji" : null,
+  "meaning" : [ "书籍、文件等中各章节或内容的标题按顺序排列而成的部分，即目录。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8558,
+  "word" : "目的",
+  "reading" : "もくてき",
+  "romaji" : null,
+  "meaning" : [ "想要达到的地点、境地或想要实现的结果、目标等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8559,
+  "word" : "目的地",
+  "reading" : "もくてきち",
+  "romaji" : null,
+  "meaning" : [ "旅行、移動などの目的とする場所。目的地。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8560,
+  "word" : "目盛り",
+  "reading" : "めもり",
+  "romaji" : null,
+  "meaning" : [ "刻度；度数；标记；格；（比赛等的）比分" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8561,
+  "word" : "目立つ",
+  "reading" : "めだつ",
+  "romaji" : null,
+  "meaning" : [ "显眼，显著，引人注目" ],
+  "notes" : [ "该词为自动词，表示主体自身呈现出显眼的状态" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8562,
+  "word" : "目薬",
+  "reading" : "めぐすり",
+  "romaji" : null,
+  "meaning" : [ "眼药水；眼药" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8563,
+  "word" : "目覚まし",
+  "reading" : "めざまし",
+  "romaji" : null,
+  "meaning" : [ "叫醒；闹钟；唤醒的事物。如：目覚ましをかける（设置闹钟）；目覚まし時計（闹钟）。" ],
+  "notes" : [ "该词常见的搭配有目覚ましをかける（设置闹钟）、目覚まし時計（闹钟）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8564,
+  "word" : "目覚ましい",
+  "reading" : "めざましい",
+  "romaji" : null,
+  "meaning" : [ "惊人的，异常显著的；醒目的，引人注目的" ],
+  "notes" : [ "「目覚ましい」は物事が普通と比べて非常に際立っていることを表す形容詞です。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8565,
+  "word" : "目覚まし時計",
+  "reading" : "めざましどけい",
+  "romaji" : null,
+  "meaning" : [ "闹钟" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8566,
+  "word" : "目覚める",
+  "reading" : "めざめる",
+  "romaji" : null,
+  "meaning" : [ "睡醒，醒来；觉醒，醒悟；振作起来，清醒过来" ],
+  "notes" : [ "该词为自动词，常表示从睡眠状态转变为清醒状态，也可引申为思想、意识等方面的觉醒。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8567,
+  "word" : "目論見",
+  "reading" : "もくろみ",
+  "romaji" : null,
+  "meaning" : [ "计划，打算，企图" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8568,
+  "word" : "目録",
+  "reading" : "もくろく",
+  "romaji" : null,
+  "meaning" : [ "书籍、文件等内容的目录；物品清单等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8569,
+  "word" : "盲点",
+  "reading" : "めんてん",
+  "romaji" : null,
+  "meaning" : [ "1. 盲点（指眼球视网膜上视神经穿过的部位，没有感光细胞，不能感受光的刺激）。2. （认识、理解等方面的）漏洞，死角。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8570,
+  "word" : "盲目な",
+  "reading" : "もうもくな",
+  "romaji" : null,
+  "meaning" : [ "没有明确目的或判断，只是盲目地行动或思考。" ],
+  "notes" : [ "‘盲目な’是形容动词‘盲目’的连体形，用于修饰名词。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8571,
+  "word" : "直",
+  "reading" : "すぐ",
+  "romaji" : null,
+  "meaning" : [ "直接；（距离）很近；立刻，马上" ],
+  "notes" : [ "该词作为副词使用较为常见，在句中可作状语修饰动词等。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8572,
+  "word" : "直します",
+  "reading" : "なおします",
+  "romaji" : null,
+  "meaning" : [ "修理；改正；纠正；修改；恢复原状等。" ],
+  "notes" : [ "该词较为常用，在日常生活和学习中经常会使用到其修理、改正等含义。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8573,
+  "word" : "直す",
+  "reading" : "なおす",
+  "romaji" : null,
+  "meaning" : [ "改正；修改；修理；纠正；调整；挽回；恢复正常等" ],
+  "notes" : [ "该词为他动词，使用时需注意其对象" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8574,
+  "word" : "直ちに",
+  "reading" : "ただちに",
+  "romaji" : null,
+  "meaning" : [ "立刻，马上；直接。表示在短时间内紧接着发生某个动作或情况，或不经过中间环节直接进行某种行为。" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8575,
+  "word" : "直に",
+  "reading" : "じきに",
+  "romaji" : null,
+  "meaning" : [ "直接，亲自；立刻，马上；坦率地，直率地" ],
+  "notes" : [ "表示不经过其他媒介或环节，直接进行某种行为或处于某种状态" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8576,
+  "word" : "直る",
+  "reading" : "なおる",
+  "romaji" : null,
+  "meaning" : [ "1. 恢复原状，痊愈。2. 改正，纠正，变好。3. 修理好，修复。" ],
+  "notes" : [ "该词为自动词，通常表示事物自身发生变化或恢复正常状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8577,
+  "word" : "直前",
+  "reading" : "ちょくぜん",
+  "romaji" : null,
+  "meaning" : [ "即将……之前；正前面" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8578,
+  "word" : "直径",
+  "reading" : "ちょっけい",
+  "romaji" : null,
+  "meaning" : [ "通过一个圆的中心，连接圆周上两点的线段的长度。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8579,
+  "word" : "直後",
+  "reading" : "ちょくご",
+  "romaji" : null,
+  "meaning" : [ "刚……之后；紧接着；正后面" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8580,
+  "word" : "直感",
+  "reading" : "ちょっかん",
+  "romaji" : null,
+  "meaning" : [ "直觉，直接的感觉" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8581,
+  "word" : "直接",
+  "reading" : "ちょくせつ",
+  "romaji" : null,
+  "meaning" : [ "不经过中间事物，直接与对象发生关系。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8582,
+  "word" : "直線",
+  "reading" : "ちょくせん",
+  "romaji" : null,
+  "meaning" : [ "平面上で、二点を通る最も短い線。また、方向が一定の線。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8583,
+  "word" : "直行します",
+  "reading" : "ちょっこうします",
+  "romaji" : null,
+  "meaning" : [ "直接前往；直行；直达。表示不经过其他地方，直接朝着目的地行进。" ],
+  "notes" : [ "该词在交通、行程安排等场景中常用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8584,
+  "word" : "直角",
+  "reading" : "ちょっかく",
+  "romaji" : null,
+  "meaning" : [ "角度が90度の角。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8585,
+  "word" : "直訴",
+  "reading" : "ちょくそ",
+  "romaji" : null,
+  "meaning" : [ "直接向有关方面申诉、投诉或上诉等" ],
+  "notes" : [ "较为正式的表达，常用于书面语或正式场合" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8586,
+  "word" : "直通列車",
+  "reading" : "ちょくつうれっしゃ",
+  "romaji" : null,
+  "meaning" : [ "直达列车" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8587,
+  "word" : "直面",
+  "reading" : "ちょくめん",
+  "romaji" : null,
+  "meaning" : [ "真摯に向き合って対処する；目の前に現れた状況や問題に直面する。具体的には、困難や苦境などに直面して、それに対処することや、問題や状況を前にして、真摯に向き合う態度を表す。" ],
+  "notes" : [ "「直面」は、サ变动词で、「する型」の活用をする。主に、困難や問題、状況などに対して、真摯に向き合って対処することを表す。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8588,
+  "word" : "相槌",
+  "reading" : "あいづち",
+  "romaji" : null,
+  "meaning" : [ "随声附和；应和" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8589,
+  "word" : "相互",
+  "reading" : "そうご",
+  "romaji" : null,
+  "meaning" : [ "相互，互相。表示两者或多者之间彼此的关系。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8590,
+  "word" : "相場",
+  "reading" : "しょうば",
+  "romaji" : null,
+  "meaning" : [ "市场行情，行市，市价；市面，行情；行情，行市" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8591,
+  "word" : "相変わらず",
+  "reading" : "あいかわらず",
+  "romaji" : null,
+  "meaning" : [ "照旧，仍旧，表示情况没有变化，和以前一样。" ],
+  "notes" : [ "该词常用于描述状态、情况等持续不变。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8592,
+  "word" : "相容れない",
+  "reading" : "あいどおれない",
+  "romaji" : null,
+  "meaning" : [ "相互对立，无法相容，不能并存" ],
+  "notes" : [ "「相容れる」は、「互いに許容され合う、調和する」という意味で、その否定形が「相容れない」です。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8593,
+  "word" : "相対",
+  "reading" : "そうたい",
+  "romaji" : null,
+  "meaning" : [ "事物が他の事物と対比されている関係や状態。また、互いに対向し合っていること。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8594,
+  "word" : "相席する",
+  "reading" : "あいせきする",
+  "romaji" : null,
+  "meaning" : [ "（在餐厅等场所）与他人拼桌用餐；（交通工具等）与他人同坐一处" ],
+  "notes" : [ "该词强调与他人共同使用座位的行为" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8595,
+  "word" : "相当",
+  "reading" : "そうとう",
+  "romaji" : null,
+  "meaning" : [ "程度が高い。かなり。非常に。また、割り当てる、対応するなどの意味もある。" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8596,
+  "word" : "相応",
+  "reading" : "そうおう",
+  "romaji" : null,
+  "meaning" : [ "相称，适宜，适合；相应，相当。" ],
+  "notes" : [ "作为形容动词使用，词干为「相応」，词尾为「だ」，常以「相応な」的形式修饰名词，以「相応に」的形式修饰动词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8597,
+  "word" : "相性",
+  "reading" : "しょうせい",
+  "romaji" : null,
+  "meaning" : [ "（人与人、事物与事物之间的）缘分；性格、兴趣等方面的）相合；相匹配" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8598,
+  "word" : "相手",
+  "reading" : "あいて",
+  "romaji" : null,
+  "meaning" : [ "1. 对方，对手，敌手；2. 伙伴，对象；3. 对待的方式，态度" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8599,
+  "word" : "相手取る",
+  "reading" : "あいてとる",
+  "romaji" : null,
+  "meaning" : [ "把……当作对手；与……对抗" ],
+  "notes" : [ "表示将某人或某物视为对手并与之进行某种行为或竞争等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8600,
+  "word" : "相撲",
+  "reading" : "すもう",
+  "romaji" : null,
+  "meaning" : [ "相扑，日本传统的摔跤运动。" ],
+  "notes" : [ "相扑是日本的国粹之一，有着悠久的历史和独特的文化内涵。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

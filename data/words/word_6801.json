@@ -1,0 +1,901 @@
+[ {
+  "id" : 6801,
+  "word" : "易しい",
+  "reading" : "やさしい",
+  "romaji" : null,
+  "meaning" : [ "简单；容易；轻松；和蔼，温和；不严厉" ],
+  "notes" : [ "该词是い形容词，词尾变化遵循い形容词的规则，如过去式为「易しかった」，否定式为「易しくない」等。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6802,
+  "word" : "昔",
+  "reading" : "むかし",
+  "romaji" : null,
+  "meaning" : [ "过去，从前；很久以前" ],
+  "notes" : [ "“昔”是一个常用的表示时间的名词，在日常对话和书面语中都经常使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6803,
+  "word" : "星",
+  "reading" : "ほし",
+  "romaji" : null,
+  "meaning" : [ "星星；星球；明星" ],
+  "notes" : [ "“星”在日语中主要表示自然天体中的星星或星球，也可用于指演艺界等领域的明星。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6804,
+  "word" : "星座",
+  "reading" : "せいざ",
+  "romaji" : null,
+  "meaning" : [ "星座，天文学上指天上一群在天球上投影的位置相近的恒星的组合；也指占星学中按出生日期划分的十二个星宫。" ],
+  "notes" : [ "该词常用于天文学和占星学相关语境中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6805,
+  "word" : "星野",
+  "reading" : "ほしの",
+  "romaji" : null,
+  "meaning" : [ "星野，常见的姓氏或地名" ],
+  "notes" : [ "「星野」通常作为姓氏使用，在日本较为常见，也可作为地名。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6806,
+  "word" : "映える",
+  "reading" : "ばえる",
+  "romaji" : null,
+  "meaning" : [ "1. 映照，反射；2. 显得好看，显眼，出色；3. 扬名，出名" ],
+  "notes" : [ "主要为自动词用法，强调客观呈现出的某种结果或状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6807,
+  "word" : "映す",
+  "reading" : "うつす",
+  "romaji" : null,
+  "meaning" : [ "（1）照；映，映照；投影。（2）摄影；拍摄。" ],
+  "notes" : [ "该词为他动词，使用时要注意其宾语的搭配。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6808,
+  "word" : "映る",
+  "reading" : "うつる",
+  "romaji" : null,
+  "meaning" : [ "1. 映，照；2. 映入，映入眼帘；3. 反映，表现" ],
+  "notes" : [ "该词为自动词，强调自然的映照、映入等状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6809,
+  "word" : "映像",
+  "reading" : "えいぞう",
+  "romaji" : null,
+  "meaning" : [ "影像；图像；映像，特指电影、电视等呈现出的画面" ],
+  "notes" : [ "常用于描述通过电子设备等呈现的视觉画面。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6810,
+  "word" : "映写",
+  "reading" : "えいしゃ",
+  "romaji" : null,
+  "meaning" : [ "放映；投影；映现" ],
+  "notes" : [ "该词常用于描述影像、画面等的投射展示。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6811,
+  "word" : "映画",
+  "reading" : "えいが",
+  "romaji" : null,
+  "meaning" : [ "电影；影片" ],
+  "notes" : [ "该词为日语中常见的表示‘电影’的词汇，使用广泛。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6812,
+  "word" : "映画監督",
+  "reading" : "えいがかんとく",
+  "romaji" : null,
+  "meaning" : [ "电影导演" ],
+  "notes" : [ "该词为名词，无词形变化，用于表示从事电影制作中导演工作的人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6813,
+  "word" : "映画祭",
+  "reading" : "えいがさい",
+  "romaji" : null,
+  "meaning" : [ "电影节；电影展" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6814,
+  "word" : "映画館",
+  "reading" : "えいがかん",
+  "romaji" : null,
+  "meaning" : [ "电影院" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6815,
+  "word" : "春",
+  "reading" : "はる",
+  "romaji" : null,
+  "meaning" : [ "春季；春天。也可引申为青春、美好的时光等。" ],
+  "notes" : [ "‘春’在日语中一般读音为‘はる’，在一些特殊的词语搭配中可能会有其他读音。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6816,
+  "word" : "春先",
+  "reading" : "はるさき",
+  "romaji" : null,
+  "meaning" : [ "初春，早春" ],
+  "notes" : [ "该词常用于描述春天刚开始的一段时间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6817,
+  "word" : "春巻",
+  "reading" : "はるまき",
+  "romaji" : null,
+  "meaning" : [ "名词，指春卷，一种用薄面皮裹上蔬菜、肉类等食材后油炸或蒸熟的食品。" ],
+  "notes" : [ "该词为和制汉语词汇，在日语中用于表达中国传统美食春卷。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6818,
+  "word" : "春暖",
+  "reading" : "しゅんだん",
+  "romaji" : null,
+  "meaning" : [ "春暖，春天温暖的气息" ],
+  "notes" : [ "该词为名词，通常用于描述春天温暖的氛围或感觉。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6819,
+  "word" : "春節",
+  "reading" : "しゅんせつ",
+  "romaji" : null,
+  "meaning" : [ "名 春节，中国农历新年" ],
+  "notes" : [ "该词源自汉语，在日语中用于指中国的春节。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6820,
+  "word" : "昨今",
+  "reading" : "さっこん",
+  "romaji" : null,
+  "meaning" : [ "近来，最近" ],
+  "notes" : [ "常用于描述近期的社会现象、形势等情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6821,
+  "word" : "昨年",
+  "reading" : "さくねん",
+  "romaji" : null,
+  "meaning" : [ "去年；上一年" ],
+  "notes" : [ "该词在日常对话和书面语中都较为常用，用于表达过去的年份。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6822,
+  "word" : "昨日",
+  "reading" : "きのう",
+  "romaji" : null,
+  "meaning" : [ "昨天" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6823,
+  "word" : "昨晩",
+  "reading" : "ゆうべ",
+  "romaji" : null,
+  "meaning" : [ "昨晚，昨夜" ],
+  "notes" : [ "该词用于表示过去一天的晚上时段。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6824,
+  "word" : "是正",
+  "reading" : "せいせい",
+  "romaji" : null,
+  "meaning" : [ "订正，更正；改正；纠正；校对；修正" ],
+  "notes" : [ "常用于书面语或正式场合，表达对错误、偏差等进行纠正的意思。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6825,
+  "word" : "昼",
+  "reading" : "ひる",
+  "romaji" : null,
+  "meaning" : [ "中午；白天" ],
+  "notes" : [ "该词为名词，无词形变化，用于表示时间概念" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6826,
+  "word" : "昼ごはん",
+  "reading" : "ひるごはん",
+  "romaji" : null,
+  "meaning" : [ "午饭；中餐" ],
+  "notes" : [ "“昼ごはん”是比较口语化的表达，正式场合也可用“昼食（ちゅうしょく）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6827,
+  "word" : "昼ご飯",
+  "reading" : "ひるごはん",
+  "romaji" : null,
+  "meaning" : [ "名词，指午饭" ],
+  "notes" : [ "这是一个日常常用词汇，‘昼’表示白天，‘ご飯’就是饭，组合起来表示午饭。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6828,
+  "word" : "昼休み",
+  "reading" : "ひるやすみ",
+  "romaji" : null,
+  "meaning" : [ "午休，中午休息时间" ],
+  "notes" : [ "这是一个日常常用的名词，用于描述中午休息的时间段。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6829,
+  "word" : "昼夜",
+  "reading" : "ちゅうや",
+  "romaji" : null,
+  "meaning" : [ "白天和黑夜；日日夜夜" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6830,
+  "word" : "昼寝",
+  "reading" : "ひるね",
+  "romaji" : null,
+  "meaning" : [ "名词，指中午进行的休息睡眠，即午休、午睡、午觉。" ],
+  "notes" : [ "该词为日常常用词汇，在描述日常作息时经常使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6831,
+  "word" : "昼間",
+  "reading" : "ひるま",
+  "romaji" : null,
+  "meaning" : [ "白天，白昼" ],
+  "notes" : [ "「昼間」是表示时间的名词，在句子中常作时间状语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6832,
+  "word" : "昼食",
+  "reading" : "ちゅうしょく",
+  "romaji" : null,
+  "meaning" : [ "名词，指午餐、午饭" ],
+  "notes" : [ "「昼食」是较为正式的说法，口语中也常用「昼ご飯」来表达午餐的意思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6833,
+  "word" : "昼飯",
+  "reading" : "ひるご飯（ひるめし）",
+  "romaji" : null,
+  "meaning" : [ "午饭；中餐" ],
+  "notes" : [ "“昼飯”较为口语化，在正式场合也可用“昼食”来表达午饭的意思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6834,
+  "word" : "時",
+  "reading" : "とき",
+  "romaji" : null,
+  "meaning" : [ "时候，时间；时光；时期；场合" ],
+  "notes" : [ "「時」作为名词，常与其他词汇搭配使用，如「～の時」表示“……的时候”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6835,
+  "word" : "時々",
+  "reading" : "ときどき",
+  "romaji" : null,
+  "meaning" : [ "时常，有时；偶尔" ],
+  "notes" : [ "用于描述不经常发生的动作或状态。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6836,
+  "word" : "時には",
+  "reading" : "ときには",
+  "romaji" : null,
+  "meaning" : [ "有时；偶尔" ],
+  "notes" : [ "用于描述不经常发生的情况，强调事情的偶然性。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6837,
+  "word" : "時は金なり",
+  "reading" : "ときはかねなり",
+  "romaji" : null,
+  "meaning" : [ "惯用语，意为一寸光阴一寸金，时间就是金钱。强调时间的宝贵，提醒人们要珍惜时间，充分利用每一刻。" ],
+  "notes" : [ "这是一个常用的日语熟语，在日常生活和商务场合中经常用来提醒人们珍惜时间。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6838,
+  "word" : "時代",
+  "reading" : "じだい",
+  "romaji" : null,
+  "meaning" : [ "时代；时期；年代" ],
+  "notes" : [ "该词为音读词汇，“時”音读为“じ”，“代”音读为“だい”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6839,
+  "word" : "時刻",
+  "reading" : "じこく",
+  "romaji" : null,
+  "meaning" : [ "时刻，时间" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6840,
+  "word" : "時刻表",
+  "reading" : "じこくひょう",
+  "romaji" : null,
+  "meaning" : [ "时刻表，时间表" ],
+  "notes" : [ "该词汇常用于交通、日程安排等场景，用于表示时间的安排计划。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6841,
+  "word" : "時差",
+  "reading" : "じさ",
+  "romaji" : null,
+  "meaning" : [ "时差" ],
+  "notes" : [ "“時差”一般用于表示不同地区时间上的差异" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6842,
+  "word" : "時折",
+  "reading" : "ときおり",
+  "romaji" : null,
+  "meaning" : [ "有时，偶尔" ],
+  "notes" : [ "常用于描述不经常发生的事情。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6843,
+  "word" : "時期",
+  "reading" : "じき",
+  "romaji" : null,
+  "meaning" : [ "时期；季节" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6844,
+  "word" : "時機",
+  "reading" : "じき",
+  "romaji" : null,
+  "meaning" : [ "时机，机会" ],
+  "notes" : [ "该词是中文传入的音读词汇，常用于描述做事的合适时机。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6845,
+  "word" : "時点",
+  "reading" : "じてん",
+  "romaji" : null,
+  "meaning" : [ "时候，时间点；某个特定的时刻" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6846,
+  "word" : "時節",
+  "reading" : "じせつ",
+  "romaji" : null,
+  "meaning" : [ "时节，时令；时机，机会" ],
+  "notes" : [ "该词常用于描述季节、时间点或合适的机会。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6847,
+  "word" : "時給",
+  "reading" : "じきゅう",
+  "romaji" : null,
+  "meaning" : [ "时薪，按小时计算的工资" ],
+  "notes" : [ "常用于描述工作报酬按小时计算的情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6848,
+  "word" : "時計",
+  "reading" : "とけい",
+  "romaji" : null,
+  "meaning" : [ "时钟，钟表；怀表" ],
+  "notes" : [ "在日语中，“時計”既可以指挂钟、座钟等，也可以指怀表等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6849,
+  "word" : "時速",
+  "reading" : "じそく0",
+  "romaji" : null,
+  "meaning" : [ "名词，指每小时行进的速度，时速。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6850,
+  "word" : "時間",
+  "reading" : "じかん",
+  "romaji" : null,
+  "meaning" : [ "时间；工夫；时候；时刻；钟点；期限；期间" ],
+  "notes" : [ "该词为音读词汇，在句子中可作主语、宾语等成分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6851,
+  "word" : "時間に追われる",
+  "reading" : "じかんにおわれる",
+  "romaji" : null,
+  "meaning" : [ "被时间追赶；时间紧迫，感觉时间不够用" ],
+  "notes" : [ "该短语形象地表达出因时间有限而产生的紧迫感。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6852,
+  "word" : "時間割",
+  "reading" : "じかんわり",
+  "romaji" : null,
+  "meaning" : [ "时间表；课程表" ],
+  "notes" : [ "该词常用于学校课程安排或日常时间安排的语境中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6853,
+  "word" : "時間帯",
+  "reading" : "じかんたい 0",
+  "romaji" : null,
+  "meaning" : [ "名 时间段，表示某一特定的时间范围。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6854,
+  "word" : "晒す/曝す",
+  "reading" : "さらす",
+  "romaji" : null,
+  "meaning" : [ "暴晒；暴露；使……遭受；使……置身于；揭露，揭发" ],
+  "notes" : [ "「晒す」和「曝す」在使用上基本同义，但「曝す」更常用于抽象意义的暴露，如暴露问题、揭露罪行等；「晒す」也可用于具体物品的暴晒等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6855,
+  "word" : "晩",
+  "reading" : "ばん",
+  "romaji" : null,
+  "meaning" : [ "表示时间，意为晚上、傍晚" ],
+  "notes" : [ "该词常与其他词组合，如「夕食」搭配成「晩の夕食（晚上的晚餐）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6856,
+  "word" : "晩ごはん",
+  "reading" : "ばんごはん",
+  "romaji" : null,
+  "meaning" : [ "晚餐；晚饭" ],
+  "notes" : [ "「ごはん」前加「晩」表示晚餐，是较为常用的日常词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6857,
+  "word" : "晩ご飯",
+  "reading" : "ばんごはん",
+  "romaji" : null,
+  "meaning" : [ "晚饭；晚餐" ],
+  "notes" : [ "“ご”在“晩ご飯”中起到尊敬、美化的作用，表达对食物的尊重。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6858,
+  "word" : "晩婚",
+  "reading" : "ばんこん",
+  "romaji" : null,
+  "meaning" : [ "名词，指较晚结婚，晚婚" ],
+  "notes" : [ "该词常用于描述结婚时间较晚的情况，在日常生活和书面表达中较为常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6859,
+  "word" : "晩年",
+  "reading" : "ばねん",
+  "romaji" : null,
+  "meaning" : [ "晚年，老年，指人一生中的最后阶段" ],
+  "notes" : [ "该词为音读词汇，在描述人的生命后期阶段时使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6860,
+  "word" : "晩餐会",
+  "reading" : "ばんさんかい",
+  "romaji" : null,
+  "meaning" : [ "晚餐会；晚宴" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6861,
+  "word" : "晩（夜）",
+  "reading" : "ばん（よる）0",
+  "romaji" : null,
+  "meaning" : [ "晚上，夜晚；也可表示一天的后半部分" ],
+  "notes" : [ "「晩」和「夜」在语义上有细微差别，「晩」更强调接近傍晚到就寝前的时间段，「夜」更强调天黑后的时间段。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6862,
+  "word" : "普及",
+  "reading" : "ふきゅう",
+  "romaji" : null,
+  "meaning" : [ "普及；推广；传播" ],
+  "notes" : [ "「普及」作为サ变动词，其连用形是「普及し」，后续「ます」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6863,
+  "word" : "普及します",
+  "reading" : "ふきゅうします",
+  "romaji" : null,
+  "meaning" : [ "普及；推广。表示某种事物或现象在广泛的范围内传播、流行起来。" ],
+  "notes" : [ "“普及する”是サ变动词，“します”是其礼貌体形式。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6864,
+  "word" : "普段",
+  "reading" : "ふだん",
+  "romaji" : null,
+  "meaning" : [ "平时，平常，日常" ],
+  "notes" : [ "常用于描述日常生活中的习惯性动作或状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6865,
+  "word" : "普段着",
+  "reading" : "ふだんぎ",
+  "romaji" : null,
+  "meaning" : [ "日常穿的衣服，便装" ],
+  "notes" : [ "该词为名词，无词形变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6866,
+  "word" : "普通",
+  "reading" : "ふつう",
+  "romaji" : null,
+  "meaning" : [ "一般，普遍；平常，普通；通常" ],
+  "notes" : [ "「普通」作为「な形容词」，修饰名词时用「普通な+名词」，作谓语时用「〜は普通です」的形式。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6867,
+  "word" : "普遍",
+  "reading" : "ふへん",
+  "romaji" : null,
+  "meaning" : [ "广泛存在、具有共性，在多个个体或场合中都适用的状态或性质，普遍" ],
+  "notes" : [ "该词为汉语词汇在日语中的使用，在日语中一般作为名词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6868,
+  "word" : "普遍的",
+  "reading" : "ふへんてき",
+  "romaji" : null,
+  "meaning" : [ "具有普遍性的，广泛适用的" ],
+  "notes" : [ "“普遍的”是形容动词，在句中作谓语时需要在词干后接“です”。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6869,
+  "word" : "景品",
+  "reading" : "けいひん",
+  "romaji" : null,
+  "meaning" : [ "赠品；纪念品，礼品" ],
+  "notes" : [ "常用于商业活动中作为促销手段赠送的物品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6870,
+  "word" : "景気",
+  "reading" : "けいき0",
+  "romaji" : null,
+  "meaning" : [ "1. 市场情况，商业状况，景气；2. 精神，情绪；3. 情形，情况" ],
+  "notes" : [ "该词在不同语境中有不同含义，需根据上下文准确理解。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6871,
+  "word" : "景色",
+  "reading" : "けしき",
+  "romaji" : null,
+  "meaning" : [ "名词，指风景、景色" ],
+  "notes" : [ "常用于描述自然或人文的风景景象。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6872,
+  "word" : "晴らす",
+  "reading" : "はらす",
+  "romaji" : null,
+  "meaning" : [ "1. 解除，消除（心中的不快、烦恼等）；2. 使放晴；3. 使开朗，使舒畅" ],
+  "notes" : [ "该词为他动词，使用时需注意宾语的搭配。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6873,
+  "word" : "晴れ",
+  "reading" : "はれ",
+  "romaji" : null,
+  "meaning" : [ "晴天；天晴；晴朗；（心情等）开朗，舒畅" ],
+  "notes" : [ "该词除了表示天气晴朗，还可用于形容人的心情等状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6874,
+  "word" : "晴れます",
+  "reading" : "はれます",
+  "romaji" : null,
+  "meaning" : [ "天气放晴，天晴；心情开朗；（伤口等）愈合" ],
+  "notes" : [ "该词是自动词，表示自然现象的变化或状态的转变。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6875,
+  "word" : "晴れる",
+  "reading" : "はれる",
+  "romaji" : null,
+  "meaning" : [ "（天气）放晴；（疑惑、愁容等）消散；（心情等）舒畅" ],
+  "notes" : [ "该动词为自动词，使用时需注意其搭配的主语和语境。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6876,
+  "word" : "晴れ上がる",
+  "reading" : "はれあがる",
+  "romaji" : null,
+  "meaning" : [ "1. （天气）放晴，晴朗；2. （心情、气氛等）好转，开朗起来；3. （问题、纠纷等）解决，结束。" ],
+  "notes" : [ "该词“晴れ”部分是名词转用，“上がる”是五段动词，使用时需注意动词的活用规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6877,
+  "word" : "晴れ晴れしい",
+  "reading" : "はれはれしい",
+  "romaji" : null,
+  "meaning" : [ "愉快的；明朗的；晴朗的；舒畅的" ],
+  "notes" : [ "该词为い形容词，在句中可作谓语、定语等。其否定形式是「晴れ晴れしくない」，过去式是「晴れ晴れしかった」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6878,
+  "word" : "晴れ渡る",
+  "reading" : "はれわたる",
+  "romaji" : null,
+  "meaning" : [ "完全放晴；（天气、气氛等）晴朗、开朗；心情舒畅" ],
+  "notes" : [ "该词常用来描述天气放晴，也可用于形容气氛、心情等变得开朗。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6879,
+  "word" : "晴天",
+  "reading" : "せいてん",
+  "romaji" : null,
+  "meaning" : [ "晴朗的天气；晴天" ],
+  "notes" : [ "“晴天”是一个汉语词汇在日语中的沿用，在日语中同样表示晴朗的天气状况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6880,
+  "word" : "晴雨",
+  "reading" : "せいう",
+  "romaji" : null,
+  "meaning" : [ "晴天或雨天；天气情况" ],
+  "notes" : [ "该词常用于描述天气状况，在一些活动安排等场景中使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6881,
+  "word" : "暁",
+  "reading" : "あかつき",
+  "romaji" : null,
+  "meaning" : [ "拂晓；黎明；（某一时期的）开始，⋯⋯之时，⋯⋯之际" ],
+  "notes" : [ "该词一般用于书面语或较为正式的表达中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6882,
+  "word" : "暇",
+  "reading" : "ひま",
+  "romaji" : null,
+  "meaning" : [ "空闲；闲暇；有空" ],
+  "notes" : [ "「暇」是名词，常与「がある」「がない」等搭配使用，表示“有空闲”“没有空闲”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6883,
+  "word" : "暇［な］",
+  "reading" : "ひま［な］0",
+  "romaji" : null,
+  "meaning" : [ "空闲（的）；闲暇，清闲" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾要加「です」；修饰名词时，要在词干后加「な」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6884,
+  "word" : "暑い",
+  "reading" : "あつい",
+  "romaji" : null,
+  "meaning" : [ "形容天气炎热，也可用于形容物体温度高。" ],
+  "notes" : [ "い形容词，词尾い可根据不同语法规则发生变化，如过去式为「暑かった」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6885,
+  "word" : "暑い、熱い",
+  "reading" : "あつい",
+  "romaji" : null,
+  "meaning" : [ "“暑い”主要用于形容天气炎热；“熱い”可用于形容物体温度高、食物热，也可形容热情、激烈等抽象概念。" ],
+  "notes" : [ "“暑い”侧重于天气热，“熱い”使用范围更广，可用于物体温度和抽象概念。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6886,
+  "word" : "暑さ",
+  "reading" : "あつさ",
+  "romaji" : null,
+  "meaning" : [ "暑热，暑气；炎热的程度" ],
+  "notes" : [ "该词由形容词「暑い（あつい）」词尾的「い」变成「さ」构成，表示程度。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6887,
+  "word" : "暖かい",
+  "reading" : "あたたかい",
+  "romaji" : null,
+  "meaning" : [ "形容温度适宜，给人热乎、温暖的感觉；也可形容人的态度亲切、热情。" ],
+  "notes" : [ "「暖かい」是い形容词，词尾变化遵循い形容词的规则。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6888,
+  "word" : "暖かい、温かい",
+  "reading" : "あたたかい",
+  "romaji" : null,
+  "meaning" : [ "表示温度适宜、不冷不热，可形容天气、物体、场所等的温度；也可比喻人的态度、感情等亲切、热情。" ],
+  "notes" : [ "「暖かい」更侧重于形容外界环境、天气、物体等的温度；「温かい」除了表示温度，还常用于形容人的情感、态度等方面。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6889,
+  "word" : "暖かさ",
+  "reading" : "あたたかさ",
+  "romaji" : null,
+  "meaning" : [ "名词，指温暖的程度，也可引申为热情、温情等" ],
+  "notes" : [ "该词由形容词「暖かい」词干加词尾「さ」构成，用于表示程度或性质。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6890,
+  "word" : "暖まる/温まる",
+  "reading" : "あたたまる",
+  "romaji" : null,
+  "meaning" : [ "天气等转暖、变暖和；身体、物体等变暖、变热；感情上变得温暖、受感动" ],
+  "notes" : [ "「暖まる/温まる」一般用于表示自然状态下的暖和、变暖；而人为使物体变热常用「暖める/温める」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6891,
+  "word" : "暖める",
+  "reading" : "あたためる",
+  "romaji" : null,
+  "meaning" : [ "使暖和；加热，加温；使感到温暖；使兴奋，使激动" ],
+  "notes" : [ "该词为他动词，强调使事物达到暖和的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6892,
+  "word" : "暖める/温める",
+  "reading" : "あたためる",
+  "romaji" : null,
+  "meaning" : [ "加热，使变暖；使气氛等融洽、活跃；使关系等缓和" ],
+  "notes" : [ "「暖める」和「温める」在表示加热使变暖的意思时可通用，但「暖める」更强调给人温暖的感觉，「温める」更侧重于恢复到合适的温度。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6893,
+  "word" : "暖房",
+  "reading" : "だんぼう",
+  "romaji" : null,
+  "meaning" : [ "供暖；供暖设备" ],
+  "notes" : [ "该词为音读词汇，由“暖（だん）”和“房（ぼう）”组成。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6894,
+  "word" : "暖簾",
+  "reading" : "のれん",
+  "romaji" : null,
+  "meaning" : [ "门帘，尤指商店挂的布帘；也可指代商店的信誉、招牌" ],
+  "notes" : [ "常用于描述传统日式店铺门口悬挂的标志布帘，也用于比喻店铺的名声" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6895,
+  "word" : "暗い",
+  "reading" : "くらい",
+  "romaji" : null,
+  "meaning" : [ "昏暗；阴暗；模糊；心情忧郁等" ],
+  "notes" : [ "い形容词，词尾变化遵循い形容词的规则，如过去式是「暗かった」等。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6896,
+  "word" : "暗唱",
+  "reading" : "あんしょう",
+  "romaji" : null,
+  "meaning" : [ "记住并背诵，默诵" ],
+  "notes" : [ "作为名词使用时，可直接修饰名词，如「暗唱訓練」（背诵训练）；作为动词使用时，常见形式为「暗唱する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6897,
+  "word" : "暗殺",
+  "reading" : "あんさつ",
+  "romaji" : null,
+  "meaning" : [ "暗杀，行刺" ],
+  "notes" : [ "该词为音读词汇，由汉语词汇演变而来，在句子中常作为名词使用，也可后续「する」构成サ変動詞。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6898,
+  "word" : "暗示",
+  "reading" : "あんじ",
+  "romaji" : null,
+  "meaning" : [ "提示，暗示；通过言语或行为，不直接地表示某种意思。" ],
+  "notes" : [ "该词为音读词汇，在句子中常作宾语等成分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6899,
+  "word" : "暗算",
+  "reading" : "あんざん",
+  "romaji" : null,
+  "meaning" : [ "心算，在头脑中进行计算" ],
+  "notes" : [ "该词为音读词汇，常用于描述不借助工具，直接在脑海中进行计算的行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6900,
+  "word" : "暗記",
+  "reading" : "あんき",
+  "romaji" : null,
+  "meaning" : [ "记住，背诵；默记" ],
+  "notes" : [ "作为名词使用时，可搭配「を」；作为动词使用时，常以「暗記する」的形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

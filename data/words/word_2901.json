@@ -1,0 +1,901 @@
+[ {
+  "id" : 2901,
+  "word" : "仮定",
+  "reading" : "かてい",
+  "romaji" : null,
+  "meaning" : [ "假定，假设；以某种条件为前提进行考虑。" ],
+  "notes" : [ "「仮定」作为名词或サ变动词使用。在语法中，也指表示假定条件的表达方式（如「～ば」、「～たら」、「～なら」）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2902,
+  "word" : "仮想",
+  "reading" : "かそう",
+  "romaji" : null,
+  "meaning" : [ "假想，设想，虚拟" ],
+  "notes" : [ "作为名词使用，常见于“仮想現実（VR）”等复合词中。也可作为サ变动词“仮想する”的词干，此时词性为动词，但更常见的是作为名词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2903,
+  "word" : "仮設",
+  "reading" : "かせつ",
+  "romaji" : null,
+  "meaning" : [ "临时设立；假设" ],
+  "notes" : [ "\"仮設\"作为名词使用，意为\"临时设立\"或\"假设\"。当表示\"假设\"时，常与\"仮説\"（かせつ）同音异义，但\"仮説\"更侧重于科学假设。表示\"临时设立\"时，常以\"仮設の～\"（如仮設住宅、仮設トイレ）的形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2904,
+  "word" : "仰ぐ",
+  "reading" : "あおぐ",
+  "romaji" : null,
+  "meaning" : [ "仰起，抬头看；尊崇，推举；仰仗，依赖；请求" ],
+  "notes" : [ "'仰ぐ'是一个多义词，其具体含义取决于上下文。在表示'请求'时，通常用于请求上级、权威或神的帮助，语气较为正式。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2905,
+  "word" : "仰向け",
+  "reading" : "あおむけ",
+  "romaji" : null,
+  "meaning" : [ "仰面朝天的姿势；脸朝上的状态" ],
+  "notes" : [ "「仰向け」是名词，描述一种身体姿势。其反义词是「うつ伏せ」（俯卧）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2906,
+  "word" : "仰向ける",
+  "reading" : "あおむける",
+  "romaji" : null,
+  "meaning" : [ "顔や体を上に向ける。うつぶせの状態から上を向く。" ],
+  "notes" : [ "「仰向く（あおむく）」は自動詞で、こちらがより一般的です。「仰向ける」は他動詞として使われることが多いですが、使用頻度は「仰向く」に比べて低いです。また、この語の対義語は「うつむける」または「俯ける（うつむける）」です。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2907,
+  "word" : "仰天",
+  "reading" : "ぎょうてん",
+  "romaji" : null,
+  "meaning" : [ "非常に驚くこと。また、非常に驚くこと。" ],
+  "notes" : [ "「仰天」は名詞としても使われるが、実際の使用では「仰天する」というサ変動詞としての用法が圧倒的に多い。非常に驚く様子を強調する表現で、やや書き言葉的または改まった印象を与えることもある。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2908,
+  "word" : "仲",
+  "reading" : "なか",
+  "romaji" : null,
+  "meaning" : [ "关系，交情，人际关系" ],
+  "notes" : [ "「仲」是一个名词，通常用于描述人与人之间的关系或感情状态。常见的搭配有「仲がいい」（关系好）、「仲が悪い」（关系不好）、「仲直りする」（和好）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2909,
+  "word" : "仲人",
+  "reading" : "なこうど",
+  "romaji" : null,
+  "meaning" : [ "媒人；婚姻介绍人" ],
+  "notes" : [ "较为正式的说法，日常会话中「媒酌人（ばいしゃくにん）」或「お世話役」也常用。指为男女双方牵线、促成婚姻的人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2910,
+  "word" : "仲直り",
+  "reading" : "なかなおり",
+  "romaji" : null,
+  "meaning" : [ "和解，和好，恢复友好关系" ],
+  "notes" : [ "「仲直り」是一个名词，但常与「する」结合构成「仲直りする」这个动词短语使用，表示“和解”这一动作。其名词形式本身就指“和解、和好”的状态。该词比N3级别稍难，更接近N2水平。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2911,
+  "word" : "仲良く",
+  "reading" : "なかよく",
+  "romaji" : null,
+  "meaning" : [ "亲密地，友好地，和睦地" ],
+  "notes" : [ "该词是形容词「仲良い（なかよい）」的连用形（即て形）转化而来的副词，表示状态或方式。在口语中常用「仲良くしてね」来表示“要好好相处哦”。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2912,
+  "word" : "仲良くする",
+  "reading" : "なかよくする",
+  "romaji" : null,
+  "meaning" : [ "友好相处；搞好关系；变得亲密" ],
+  "notes" : [ "「仲良く」是形容词「仲良い」的连用形（副词形），与「する」结合构成复合动词。在实际使用中，常用来表示一种持续的状态或行为。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2913,
+  "word" : "仲良し",
+  "reading" : "なかよし",
+  "romaji" : null,
+  "meaning" : [ "好朋友；亲密；关系好" ],
+  "notes" : [ "「仲良し」是名词，由形容词「良い」的连用形「良し」和名词「仲」构成，表示关系好的人或状态。日常会话中也可使用动词形式「仲良くする」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2914,
+  "word" : "仲間",
+  "reading" : "なかま",
+  "romaji" : null,
+  "meaning" : [ "朋友，伙伴；同事；同类；同伙（尤指在某种活动、组织或处境中的人）" ],
+  "notes" : [ "“仲間”强调基于共同活动、工作或兴趣的伙伴关系，有时也可指同伙（如犯罪同伙），但根据上下文，多为中性或正面含义。“友達”更侧重于个人间的亲密友谊。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2915,
+  "word" : "件",
+  "reading" : "けん",
+  "romaji" : null,
+  "meaning" : [ "事情，事件，案件，事项" ],
+  "notes" : [ "这是一个名词，通常用于正式或书面语境，指代具体的事件、案件或事项。在口语中，有时会以「その件」的形式出现，指代之前讨论过的事情。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2916,
+  "word" : "件名",
+  "reading" : "けんめい",
+  "romaji" : null,
+  "meaning" : [ "标题；主题；事件名（尤指电子邮件、文件的标题或事件的名称）" ],
+  "notes" : [ "常用语，尤其在商务邮件和文件管理中。作为名词，无词形变化。通常指电子邮件、文件、事件等的标题或名称。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2917,
+  "word" : "件数",
+  "reading" : "けんすう",
+  "romaji" : null,
+  "meaning" : [ "件数，数量（指事件、案件、事务等的数量）。" ],
+  "notes" : [ "这是一个表示数量的名词，通常用于统计或报告等正式场合。在商务和行政文件中尤为常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2918,
+  "word" : "任す",
+  "reading" : "まかす",
+  "romaji" : null,
+  "meaning" : [ "1. 委托，托付；交给…处理。2. 听任，放任。" ],
+  "notes" : [ "此词与同义词「任せる（まかせる）」相比，更偏向于书面语或古语，在日常口语中「任せる」更为常用。此外，需要注意「任す」是他动词，而「任せる」既是自动词也是他动词，用法上略有区别。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2919,
+  "word" : "任せる",
+  "reading" : "まかせる",
+  "romaji" : null,
+  "meaning" : [ "①（人に物事を）委ねる。預けて処理させる。②（物事の成り行きを）そのままにしておく。放置する。" ],
+  "notes" : [ "「任せる」は、主に他動詞として使われる。対象を表す場合は「に」を伴う（例：彼に任せる）。また、「〜に任せて」の形で副詞的に使われることもある（例：運に任せて）。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2920,
+  "word" : "任務",
+  "reading" : "にんむ",
+  "romaji" : null,
+  "meaning" : [ "任务，职责，使命" ],
+  "notes" : [ "通常指工作或职务上被赋予的、需要完成的重要任务或职责。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2921,
+  "word" : "任命",
+  "reading" : "にんめい",
+  "romaji" : null,
+  "meaning" : [ "特定の役職や任務を人に与えること。" ],
+  "notes" : [ "サ変動詞として使用する場合、活用は「任命しない・任命する・任命する・任命するとき・任命すれば・任命しろ」となる。名詞としても用いられる。難易度はN2レベルが適切。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2922,
+  "word" : "任意",
+  "reading" : "にんい",
+  "romaji" : null,
+  "meaning" : [ "任意，随意，自由决定； 任意，随便（数学）" ],
+  "notes" : [ "作为名词和形容动词（な形容词）使用。在法律、数学等语境中常见，表示非强制、可自由选择或数学上的“任意”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2923,
+  "word" : "企てる",
+  "reading" : "くわだてる",
+  "romaji" : null,
+  "meaning" : [ "計画する、企画する、意図する、試みる" ],
+  "notes" : [ "やや硬い表現で、文章語や改まった場面で用いられることが多い。漢字「企」は訓読みで「くわだてる」と読む。「企てる」は「計画する」よりも意図的な試みや、やや大掛かりな計画を指すニュアンスがある。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2924,
+  "word" : "企み",
+  "reading" : "たくらみ",
+  "romaji" : null,
+  "meaning" : [ "阴谋，企图，计划（多用于贬义）" ],
+  "notes" : [ "「企み」是动词「企む（たくらむ）」的名词形。虽然词源是动词，但在现代日语中作为独立的普通名词使用，词性应标注为名词。其含义通常带有贬义，指不好的企图或阴谋。难度级别根据其使用频率和语境复杂度，从N3调整至N2。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2925,
+  "word" : "企業",
+  "reading" : "きぎょう",
+  "romaji" : null,
+  "meaning" : [ "企业；公司；商业组织" ],
+  "notes" : [ "「企業」是一个常用名词，没有活用变化。在商业和正式语境中广泛使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2926,
+  "word" : "企画",
+  "reading" : "きかく",
+  "romaji" : null,
+  "meaning" : [ "计划，策划，规划；企划案" ],
+  "notes" : [ "「企画」主要作为名词使用，表示“计划、方案”。作为サ变动词使用时，词干「企画」本身不变，通过添加「する」构成动词形式，表示“进行策划、规划”。在JLPT考试中，此词更常出现在N2级别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2927,
+  "word" : "企画書",
+  "reading" : "きかくしょ",
+  "romaji" : null,
+  "meaning" : [ "企划书，计划书。为实施某个项目或活动而制定的详细计划文件。" ],
+  "notes" : [ "在商业和项目策划中常用。词性为名词，无需活用。读音为平板型（0调）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2928,
+  "word" : "企画案",
+  "reading" : "きかくあん",
+  "romaji" : null,
+  "meaning" : [ "策划方案；计划草案；项目提案" ],
+  "notes" : [ "“企画案”是由“企画”（计划、策划）和“案”（草案、方案）组成的复合名词。在商业和创意领域中常用，指代尚未最终确定的计划或提案草案。通常读作“きかくあん”，数字“3”在读音中表示音调，标准东京音调为平板型（头高型），但此处读音字段通常不标注音调数字，因此已修正。根据词汇的常用程度和复杂性，其难度级别调整为N2更为合适。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2929,
+  "word" : "伏せる",
+  "reading" : "ふせる",
+  "romaji" : null,
+  "meaning" : [ "1. 隐藏，保密（如：将某物藏起来不让人看见，或保守秘密）。 2. 趴下，俯卧（身体向下卧倒）。 3. 扣下，倒扣（使物体的开口或表面朝下）。 4. 躺下（用于生病卧床的情况）。" ],
+  "notes" : [ "这是一个他动词（transitive verb），需要宾语。其自动词（intransitive）对应形式是「伏す（ふす）」，意为“俯卧；埋伏”。在表示“隐藏（秘密）”时，常用「胸に秘める」作为更自然的表达。在表示“趴下”以躲避危险时，常用命令形「伏せろ！」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2930,
+  "word" : "休み",
+  "reading" : "やすみ",
+  "romaji" : null,
+  "meaning" : [ "休息；休假；假日；停业；请假" ],
+  "notes" : [ "作为名词使用，是动词「休む」的名词形。在表示“请假”时，通常与「を取る」等动词搭配使用，如「休みを取る」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2931,
+  "word" : "休みます",
+  "reading" : "やすみます",
+  "romaji" : null,
+  "meaning" : [ "1. 休息，歇息。2. 请假，不上班/不上学。3. 停业，放假。" ],
+  "notes" : [ "原型为「休む」。该条目「休みます」是动词「休む」的ます形（连用形+ます），用于礼貌体。例句中的「会社を休みます」表示向公司请假，是常见用法。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2932,
+  "word" : "休む",
+  "reading" : "やすむ",
+  "romaji" : null,
+  "meaning" : [ "休息；请假；缺席；停业" ],
+  "notes" : [ "表示“休息”时，常用自动词用法。表示“请假、缺席”时，通常采用“〜を休む”的形式（如：学校を休む）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2933,
+  "word" : "休める",
+  "reading" : "やすめる",
+  "romaji" : null,
+  "meaning" : [ "①（他動詞）使…休息，让…休息。②（他動詞）使…平静，使…安心。" ],
+  "notes" : [ "「休める」是他動詞，對應的自動詞是「休む」（やすむ）。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2934,
+  "word" : "休息",
+  "reading" : "きゅうそく",
+  "romaji" : null,
+  "meaning" : [ "休息，休憩" ],
+  "notes" : [ "1. \"休息\"是名词，不是动词。表示休息的动词是\"休む\"。\n2. 作为名词，可以后续\"する\"构成サ变动词\"休息する\"，表示“进行休息”的动作。\n3. 在日语中，\"休息\"通常指工作、学习等活动中途的短暂休息，而较长的休息（如休假）常用\"休暇\"或\"休み\"。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2935,
+  "word" : "休憩",
+  "reading" : "きゅうけい",
+  "romaji" : null,
+  "meaning" : [ "休息，歇息。指短时间的休息，如工作、学习或旅途中的小憩。" ],
+  "notes" : [ "通常用作名词。虽然偶尔会以「休憩する」的形式作为サ变动词使用，但更常见的是作为名词与「する」、「取る」等动词搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2936,
+  "word" : "休憩します",
+  "reading" : "きゅうけいします",
+  "romaji" : null,
+  "meaning" : [ "休息，歇息。" ],
+  "notes" : [ "「休憩します」是「休憩する」的ます形，用于礼貌体表达。作为サ变动词，其基本形为「休憩する」。通常用于表示工作、学习等过程中的短暂休息。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2937,
+  "word" : "休憩時間",
+  "reading" : "きゅうけいじかん",
+  "romaji" : null,
+  "meaning" : [ "休息时间；课间休息；工作间歇" ],
+  "notes" : [ "复合名词，由“休憩”和“時間”构成。口语中常简称为“休憩”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2938,
+  "word" : "休日",
+  "reading" : "きゅうじつ",
+  "romaji" : null,
+  "meaning" : [ "休息日，假日（尤指法定或公共假日）。" ],
+  "notes" : [ "「休日」主要指官方规定的休息日，如周末、法定假日。与「休み」（可泛指任何休息时间，如午休、请假）有所区别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2939,
+  "word" : "休日出勤",
+  "reading" : "きゅうじつしゅっきん",
+  "romaji" : null,
+  "meaning" : [ "节假日上班，休息日上班" ],
+  "notes" : [ "常用短语，表示在法定节假日或公司规定的休息日上班。有时也用作サ变动词，如「休日出勤する」。读音通常无高低音标记，但在一些词典中标示为平板型或尾高型。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2940,
+  "word" : "休暇",
+  "reading" : "きゅうか",
+  "romaji" : null,
+  "meaning" : [ "休假，放假" ],
+  "notes" : [ "通常指公司、学校等规定的正式休假，区别于日常的休息（休み）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2941,
+  "word" : "休校措置",
+  "reading" : "きゅうこうそち",
+  "romaji" : null,
+  "meaning" : [ "停课措施。因恶劣天气、传染病流行、灾害等原因，学校停止上课的措施。" ],
+  "notes" : [ "这是一个复合名词，由“休校”（停课）和“措置”（措施）构成。多用于官方或正式公告中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2942,
+  "word" : "休業",
+  "reading" : "きゅうぎょう",
+  "romaji" : null,
+  "meaning" : [ "不营业，歇业，停止营业。指商店、公司等暂时或永久停止营业活动。" ],
+  "notes" : [ "可作为サ变动词使用，如「休業する」。常与「一時」「臨時」「長期」等词搭配，表示休业的期限或性质。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2943,
+  "word" : "休職します",
+  "reading" : "きゅうしょくします",
+  "romaji" : null,
+  "meaning" : [ "暂时停职" ],
+  "notes" : [ "动词原形为「休職する」。在正式语境或敬体中使用「休職します」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2944,
+  "word" : "休講",
+  "reading" : "きゅうこう",
+  "romaji" : null,
+  "meaning" : [ "教師が何らかの理由で授業を行わないこと。授業の休止。" ],
+  "notes" : [ "授業を休むのは教師側であり、学生側が授業を休む場合は「欠席」または「休む」を使う。サ変動詞「休講する」としても用いられるが、名詞としての使用が一般的。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2945,
+  "word" : "休養",
+  "reading" : "きゅうよう",
+  "romaji" : null,
+  "meaning" : [ "休息调养；休养；疗养。指为了恢复体力、精力或健康而进行休息。" ],
+  "notes" : [ "作为名词时，常用搭配有「休養を取る」。作为动词时，是「する」动词（サ変動詞）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2946,
+  "word" : "会います",
+  "reading" : "あいます",
+  "romaji" : null,
+  "meaning" : [ "会う（见面，遇见，会见）的礼貌形（ます形）。" ],
+  "notes" : [ "基本形是「会う」。表示与人相见或会面。当表示“遇见”某种情况或事物时，通常使用「出会う」或「遭遇する」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2947,
+  "word" : "会う",
+  "reading" : "あう",
+  "romaji" : null,
+  "meaning" : [ "见面；遇见；会面；遭遇" ],
+  "notes" : [ "通常用于人与人之间的见面或相遇。写作汉字时，一般使用「会う」，在表示偶然遇见或碰上时，也常用「遭う」或「遇う」，但假名标记均为「あう」。属于日语能力考N5级别的核心动词。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2948,
+  "word" : "会合",
+  "reading" : "かいごう",
+  "romaji" : null,
+  "meaning" : [ "会议，集会，聚会" ],
+  "notes" : [ "「会合」主要用作名词，表示“会议、集会”这一事件或场合本身。虽然有时在中文中可作动词理解，但在现代日语中其动词用法通常以「会合する」或「会合が行われる」等形式出现，故此处将词性定为名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2949,
+  "word" : "会員",
+  "reading" : "かいいん",
+  "romaji" : null,
+  "meaning" : [ "会员，成员（指组织、团体、协会等的正式成员）。" ],
+  "notes" : [ "可作为复合词的一部分，如「会員制（かいいんせい）」、「正会員（せいかいいん）」等。在词性分类中，应明确为名词，而非“other”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2950,
+  "word" : "会場",
+  "reading" : "かいじょう",
+  "romaji" : null,
+  "meaning" : [ "会场，举办活动的场所" ],
+  "notes" : [ "这是一个常用名词，通常不需要特别的活用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2951,
+  "word" : "会得",
+  "reading" : "えとく",
+  "romaji" : null,
+  "meaning" : [ "掌握；领会；理解（多指通过努力学习和实践而掌握知识、技能或领悟道理）" ],
+  "notes" : [ "这是一个稍显书面和正式的词，通常用于描述通过持续努力而获得某种知识、技能或深刻的领悟。在现代日语口语中使用频率较低，更常见于书面语或正式场合。与「覚える」、「習得する」等词相比，更强调“深刻理解并化为己有”的过程和结果。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2952,
+  "word" : "会心",
+  "reading" : "かいしん",
+  "romaji" : null,
+  "meaning" : [ "满意，得意，心满意足；指达到内心期望或感到非常满意" ],
+  "notes" : [ "通常用于描述对自身行为或成果感到非常满意，常与「の」结合作为修饰语使用，如「会心の一撃」、「会心の作」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2953,
+  "word" : "会社",
+  "reading" : "かいしゃ",
+  "romaji" : null,
+  "meaning" : [ "公司，企业，商号" ],
+  "notes" : [ "「会社」是表示商业组织最常用、最基础的词汇，通常指以营利为目的的公司或企业。在商务和日常会话中广泛使用。与「企業」相比，后者涵盖范围更广，包括非营利法人等，语气更正式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2954,
+  "word" : "会社員",
+  "reading" : "かいしゃいん",
+  "romaji" : null,
+  "meaning" : [ "公司职员，公司员工" ],
+  "notes" : [ "「会社員」是一个常用名词，指在公司工作的职员。通常不与「社員」严格区分，但「社員」可能更侧重于特定公司的成员身份，而「会社員」更侧重于职业类别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2955,
+  "word" : "会見",
+  "reading" : "かいけん",
+  "romaji" : null,
+  "meaning" : [ "会见，接见，记者招待会" ],
+  "notes" : [ "「会見」是一个名词，可以后接「する」构成サ变动词（会見する），表示“进行会见/接见”的动作。在新闻中，特指“记者招待会”时常用「記者会見（きしゃかいけん）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2956,
+  "word" : "会計",
+  "reading" : "かいけい",
+  "romaji" : null,
+  "meaning" : [ "1. 结帐，付款。2. 会计（职务、工作或学科）。" ],
+  "notes" : [ "该词有两个主要含义，根据上下文区分。在餐厅等场所说“会計をお願いします”意为“请结账”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2957,
+  "word" : "会話",
+  "reading" : "かいわ",
+  "romaji" : null,
+  "meaning" : [ "会话；交谈；对话。" ],
+  "notes" : [ "作为名词使用更常见，作为サ变动词使用时表示“进行会话”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2958,
+  "word" : "会談",
+  "reading" : "かいだん",
+  "romaji" : null,
+  "meaning" : [ "会谈，面谈；会议" ],
+  "notes" : [ "“会談”是名词，不是动词。动词形式是“会談する”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2959,
+  "word" : "会議",
+  "reading" : "かいぎ",
+  "romaji" : null,
+  "meaning" : [ "会议，讨论会。指为了讨论、决定事项而集合人员进行的活动。" ],
+  "notes" : [ "这是一个非常常用的名词，没有词形变化。在商务和正式场合使用频率极高。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2960,
+  "word" : "会議場",
+  "reading" : "かいぎじょう",
+  "romaji" : null,
+  "meaning" : [ "会議や集会を開くための場所。会場。" ],
+  "notes" : [ "読み方は「かいぎじょう」（アクセントは「かいぎじょう」の「じょう」が高い）。「会場」よりも、会議を目的とした場所であることをより明確に示す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2961,
+  "word" : "会議室",
+  "reading" : "かいぎしつ",
+  "romaji" : null,
+  "meaning" : [ "会议室" ],
+  "notes" : [ "这是一个名词，没有活用变化。在日语能力考试（JLPT）中，通常被认为是N4级别的词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2962,
+  "word" : "会費",
+  "reading" : "かいひ",
+  "romaji" : null,
+  "meaning" : [ "会费；会员费；活动参加费" ],
+  "notes" : [ "「会費」通常指会员向组织或团体定期缴纳的费用，或参加特定活动时一次性支付的费用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2963,
+  "word" : "会釈",
+  "reading" : "えしゃく",
+  "romaji" : null,
+  "meaning" : [ "点头致意；微微颔首打招呼；心领神会" ],
+  "notes" : [ "通常指比正式鞠躬更轻微、更随意的致意方式，也用于表示理解或同意。在词性上，它更常用作名词或サ变动词（如「会釈する」）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2964,
+  "word" : "会長",
+  "reading" : "かいちょう",
+  "romaji" : null,
+  "meaning" : [ "会长，主席（公司、组织等的最高负责人或代表）" ],
+  "notes" : [ "是组织的最高负责人，通常指董事会主席、协会会长等。在商业组织中，地位高于社长（总经理）的情况也很多。这是一个正式的头衔。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2965,
+  "word" : "会館",
+  "reading" : "かいかん",
+  "romaji" : null,
+  "meaning" : [ "会馆，某团体用于住宿、开会、活动等的建筑或设施。" ],
+  "notes" : [ "该词为名词，无需活用。虽然常见于日常生活，但作为具体建筑名称的一部分出现时，有时被视为固定表达，因此在JLPT考试中通常被归为N2级别词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2966,
+  "word" : "伝えます",
+  "reading" : "つたえます",
+  "romaji" : null,
+  "meaning" : [ "（口頭或書面）傳達；轉告；告知；傳授（知識、技術等）" ],
+  "notes" : [ "「伝えます」是「伝える」的ます形（丁寧形）。其基本形（辞書形）是「伝える」。在日語能力考試中，此詞彙通常歸類於N4級別。它是一個他動詞，需要搭配賓語（を）使用。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2967,
+  "word" : "伝える",
+  "reading" : "つたえる",
+  "romaji" : null,
+  "meaning" : [ "传达，转告；传授；传播；传导（如热、电）" ],
+  "notes" : [ "这是一个他动词。除了表示信息的传递，也可用于知识、技能、文化、传统等的传承，以及物理上热、电、声音等的传导。其名词形式是「伝え」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2968,
+  "word" : "伝わる",
+  "reading" : "つたわる",
+  "romaji" : null,
+  "meaning" : [ "1. （消息、情报、感情等）传达，传递；被传达，被传递。2. （文化、技术、疾病等）传播，流传，传开。3. （震动、声音等）传导，传送。" ],
+  "notes" : [ "这是一个自动词（不及物动词），表示某事物自然地、从一方传到另一方。其对应的他动词（及物动词）是「伝える」。读音音调为0型（平板型）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2969,
+  "word" : "伝承",
+  "reading" : "でんしょう",
+  "romaji" : null,
+  "meaning" : [ "传承；代代相传（的文化、知识、技术、故事等）" ],
+  "notes" : [ "「伝承する」是其动词形式，为サ变动词。作为名词时，指代被传承下来的内容本身。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2970,
+  "word" : "伝来",
+  "reading" : "でんらい",
+  "romaji" : null,
+  "meaning" : [ "1. （从国外）传来，传入 2. 祖传，世代相传" ],
+  "notes" : [ "作为名词或サ变动词使用。在表示“祖传”时，通常指代代相传的物品或传统。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2971,
+  "word" : "伝染",
+  "reading" : "でんせん",
+  "romaji" : null,
+  "meaning" : [ "（疾病、感情、習慣などが）人から人へ、または物から人へと広がること。感染。" ],
+  "notes" : [ "「伝染する」の形でサ変動詞としても用いられる。名詞としての用法が基本。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2972,
+  "word" : "伝染する",
+  "reading" : "でんせんする",
+  "romaji" : null,
+  "meaning" : [ "（病気や感情などが）人から人へ、または物から物へ広がること。" ],
+  "notes" : [ "「伝染」は名詞としても使われる。動詞として使う場合は「伝染する」の形が一般的。サ変動詞なので、活用は「しない・します・する・するとき・すれば・しろ」となる。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2973,
+  "word" : "伝票",
+  "reading" : "でんぴょう",
+  "romaji" : null,
+  "meaning" : [ "发票，单据，票据（用于记录交易、费用等内容的书面凭证）" ],
+  "notes" : [ "商务、会计领域的常用词。通常指公司内部或交易中使用的票据，比「領収書」的范围更广。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2974,
+  "word" : "伝統",
+  "reading" : "でんとう",
+  "romaji" : null,
+  "meaning" : [ "传统。由历史传承下来的思想、文化、制度、习惯等的体系。" ],
+  "notes" : [ "该词为名词，无活用变化。在声调标注中，“でんとう”是平板型（0型），即从第一个假名开始音高一致，后续助词时音高下降。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2975,
+  "word" : "伝統的",
+  "reading" : "でんとうてき",
+  "romaji" : null,
+  "meaning" : [ "传统的" ],
+  "notes" : [ "「伝統的」是形容动词（ナ形容词），其连体形为「伝統的な」，连用形为「伝統的に」。在日语中，常以「伝統的な+名词」或「伝統的に+动词」的形式使用。读音为平板型（0调），即所有音节音高相同。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2976,
+  "word" : "伝言",
+  "reading" : "でんごん",
+  "romaji" : null,
+  "meaning" : [ "口信，留言；传话" ],
+  "notes" : [ "作为名词使用。动词形式为「伝言する」，属于サ变动词（三类动词），意为“传话，留言”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2977,
+  "word" : "伝記",
+  "reading" : "でんき",
+  "romaji" : null,
+  "meaning" : [ "传记；生平事迹的记录。" ],
+  "notes" : [ "「伝記」是名词，没有活用变化。通常指记录个人生平事迹的书籍或文章。在日语能力考试中属于N3级别的常见词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2978,
+  "word" : "伝説",
+  "reading" : "でんせつ",
+  "romaji" : null,
+  "meaning" : [ "传说；民间故事；神话；传奇" ],
+  "notes" : [ "通常作为名词使用，表示在民间流传的、关于过去事件或人物的故事，有时也指代传奇般的人物或事迹本身。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2979,
+  "word" : "伝達",
+  "reading" : "でんたつ",
+  "romaji" : null,
+  "meaning" : [ "传达，转达；通知；传递（信息、命令、知识等）" ],
+  "notes" : [ "1. 作为名词和サ变动词使用。\n2. 常见于正式、商务或组织内部沟通场景。\n3. 强调信息、命令等内容从一方到另一方的传递过程。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2980,
+  "word" : "伴う",
+  "reading" : "ともなう",
+  "romaji" : null,
+  "meaning" : [ "1. （随伴、同時発生）随着，伴随，陪同。 2. （付随、必然的結果）伴有，带来，伴随发生。 3. （一致、符合）符合，相称。" ],
+  "notes" : [ "「伴う」表示伴随某种状态、情况或动作的发生，常以「～に伴って」或「～に伴い」的形式使用。其否定形式为「伴わない」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2981,
+  "word" : "伴奏",
+  "reading" : "ばんそう",
+  "romaji" : null,
+  "meaning" : [ "（为歌唱、演奏等）进行伴奏。" ],
+  "notes" : [ "「伴奏する」是サ变动词形式。作为名词时，读作「ばんそう」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2982,
+  "word" : "伸ばす",
+  "reading" : "のばす",
+  "romaji" : null,
+  "meaning" : [ "① 拉长；伸长；展开。② 拖延，推迟。③ 留长（头发、指甲等）。④ 发展，扩大（势力、才能等）。⑤ 稀释，弄稀。" ],
+  "notes" : [ "对应的自动词是「伸びる」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2983,
+  "word" : "伸びる",
+  "reading" : "のびる",
+  "romaji" : null,
+  "meaning" : [ "1. 長さや高さが増す。 2. 時間がかかる。 3. 能力や勢力が向上・拡大する。 4. 疲れて力がなくなる。" ],
+  "notes" : [ "自動詞。他動詞は「伸ばす」。意味4は「くたくたになる」というニュアンスで、疲労を表す慣用的表現。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2984,
+  "word" : "伸縮",
+  "reading" : "しんしゅく",
+  "romaji" : null,
+  "meaning" : [ "① 伸びたり縮んだりすること。また、その度合い。② 規模や数量などが増減すること。" ],
+  "notes" : [ "「伸縮性」や「伸縮自在」などの複合語としてもよく用いられる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2985,
+  "word" : "伺います",
+  "reading" : "うかがいます",
+  "romaji" : null,
+  "meaning" : [ "（自谦语）去；来；访问；拜访；请教；询问" ],
+  "notes" : [ "「伺う」是「行く」、「来る」、「訪ねる」、「尋ねる」、「聞く」的自谦语，用于向对方表示谦逊。本条目为其礼貌形（ます形）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2986,
+  "word" : "伺う",
+  "reading" : "うかがう",
+  "romaji" : null,
+  "meaning" : [ "拜访；请教；听说" ],
+  "notes" : [ "是「聞く」「尋ねる」「訪ねる」的谦让语，用于对他人表示敬意。使用时常搭配「お」或「ご」。在表示“听说”时，常用「～ところによると」的形式。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2987,
+  "word" : "似せる",
+  "reading" : "にせる",
+  "romaji" : null,
+  "meaning" : [ "模仿，仿造，使其相似" ],
+  "notes" : [ "他動詞。漢字也可以寫作「似す」，但「似せる」是現代日語的標準寫法。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2988,
+  "word" : "似たり寄ったり",
+  "reading" : "にたりよったり",
+  "romaji" : null,
+  "meaning" : [ "大同小异，半斤八两；彼此非常相似，没有太大差别。" ],
+  "notes" : [ "这是一个由动词「似る」的连用形「似たり」和动词「寄る」的连用形「寄ったり」组合而成的复合名词。常与「だ」或「である」一起使用，构成「似たり寄ったりだ」的句式，起到形容动词的作用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2989,
+  "word" : "似る",
+  "reading" : "にる",
+  "romaji" : null,
+  "meaning" : [ "相似，像，类似；匹配，相称" ],
+  "notes" : [ "1. 基本形为「似る」。在表示“像...”时，相似的对象用助词「に」表示。\n2. 当表示“与...相配、适合”时，常用「似合う」这个动词，其对象也用助词「に」表示。\n3. 作为一段动词，其活用为：未然形「似（ない）」，连用形「似（ます/て）」，终止形「似る」，连体形「似る」，假定形「似れば」，命令形「似ろ/似よ」。\n4. 原条目中的「似ます」是其「ます形」，不是基本形。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2990,
+  "word" : "似る",
+  "reading" : "にる",
+  "romaji" : null,
+  "meaning" : [ "1. （外形、性质、状态等）相似，像。2. （菜肴）味道合适，合口味。" ],
+  "notes" : [ "常用形式为「似ている」，表示状态。第二义项使用频率较低。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2991,
+  "word" : "似合います",
+  "reading" : "にあいます",
+  "romaji" : null,
+  "meaning" : [ "合适，相称，般配。指颜色、服装、发型等与人的外貌、气质、场合等相协调。" ],
+  "notes" : [ "原条目中读音标注为“にあいます4”，此处的“4”可能表示音调，但标准音调标注应为数字0-4或高低音符号。在通用词汇数据中，音调信息通常不直接附在假名后，故此处修订为不含音调数字的假名“にあいます”。词性原为“other”，修正为准确的“動詞”。该词是“似合う”的ます形（礼貌体）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2992,
+  "word" : "似合う",
+  "reading" : "にあう",
+  "romaji" : null,
+  "meaning" : [ "适合，相称，般配" ],
+  "notes" : [ "常以「～に似合う」的形式使用。与表示\"遇见\"的\"会う\"读音相同，但汉字和意思不同。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2993,
+  "word" : "似通う",
+  "reading" : "にかよう",
+  "romaji" : null,
+  "meaning" : [ "相似，类似；有共同点" ],
+  "notes" : [ "通常用于表示性质、特征、想法等方面相似。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2994,
+  "word" : "但し",
+  "reading" : "ただし",
+  "romaji" : null,
+  "meaning" : [ "但，但是；表示对前文所述事项的附加条件或例外情况。" ],
+  "notes" : [ "「但し」是接续词，用于句首，连接前后两个句子。它比「しかし」更正式，常用于书面语或公告、规则等，强调附加条件或例外。通常不用于日常会话中表示单纯的转折。" ],
+  "pos" : "CONJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2995,
+  "word" : "位",
+  "reading" : "くらい",
+  "romaji" : null,
+  "meaning" : [ "地位，职位，官位；等级，级别；位数" ],
+  "notes" : [ "作为名词，表示地位、等级或数字的位数。在表示“大约”时，通常写作「ぐらい」，但有时也写作「位」，此时读音为「ぐらい」。本条目主要处理其作为“地位、位数”等核心含义的用法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2996,
+  "word" : "位する",
+  "reading" : "いする",
+  "romaji" : null,
+  "meaning" : [ "ある位置・地位・段階に存在する。位置する。" ],
+  "notes" : [ "「位置する」よりも格式ばった、やや硬い表現。漢文調の表現として使われることが多い。サ変動詞なので「位する」「位します」「位しない」「位した」などと活用する。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2997,
+  "word" : "位置",
+  "reading" : "いち",
+  "romaji" : null,
+  "meaning" : [ "位置，场所；地位，立场；排名" ],
+  "notes" : [ "可作为サ变动词使用，如「位置する」（位于…）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2998,
+  "word" : "位置する",
+  "reading" : "いちする",
+  "romaji" : null,
+  "meaning" : [ "位于，处在（某个位置）" ],
+  "notes" : [ "「位置する」是サ变动词，其连用形为「位置し」，过去式为「位置した」。常用于描述地理、抽象概念等的位置关系。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2999,
+  "word" : "低い",
+  "reading" : "ひくい",
+  "romaji" : null,
+  "meaning" : [ "低的；矮的；低微的；低下的；低声的；低音的。形容在高度、位置、程度、地位、价格、声音等方面低于一般水平或基准。" ],
+  "notes" : [ "作为形容词，其否定形式为\"低くない\"，过去式为\"低かった\"，过去否定为\"低くなかった\"。其反义词是\"高い\"。在表示\"低\"这一基本概念上属于最基础的日语词汇之一，因此难度级别应为N5。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3000,
+  "word" : "低下",
+  "reading" : "ていか",
+  "romaji" : null,
+  "meaning" : [ "1. （名词）下降，降低，低下。\n2. （サ变动词）下降，降低，低下。" ],
+  "notes" : [ "作为サ变动词使用时，其形式为「低下する」。请注意，其名词形式「低下」本身也常用。在词性标注中，应明确区分其名词和动词（サ变动词）的用法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

@@ -1,0 +1,901 @@
+[ {
+  "id" : 8201,
+  "word" : "独身",
+  "reading" : "どくしん",
+  "romaji" : null,
+  "meaning" : [ "单身，未婚" ],
+  "notes" : [ "可作名词或形容动词使用，作形容动词时后续「だ/です/な」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8202,
+  "word" : "狭い",
+  "reading" : "せまい",
+  "romaji" : null,
+  "meaning" : [ "狭窄的；狭隘的；范围小的；心胸狭窄的" ],
+  "notes" : [ "イ形容词，基本形为「狭い」，否定形「狭くない」，过去形「狭かった」" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8203,
+  "word" : "猛暑",
+  "reading" : "もうしょ",
+  "romaji" : null,
+  "meaning" : [ "酷暑，炎热（指非常强烈的暑热天气）" ],
+  "notes" : [ "通常指夏季出现的极端高温天气，比普通的「暑さ」程度更强" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8204,
+  "word" : "猛烈",
+  "reading" : "もうれつ",
+  "romaji" : null,
+  "meaning" : [ "猛烈，激烈，强烈，凶猛，势头很猛" ],
+  "notes" : [ "形容动词，后续接「な」修饰名词，接「に」作副词使用。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8205,
+  "word" : "猫",
+  "reading" : "ねこ",
+  "romaji" : null,
+  "meaning" : [ "猫，猫咪" ],
+  "notes" : [ "一般指家猫，也可泛指猫科动物" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8206,
+  "word" : "献立",
+  "reading" : "こんだて",
+  "romaji" : null,
+  "meaning" : [ "（一日或一餐的）菜单，食谱，菜谱；计划，安排" ],
+  "notes" : [ "「献立」不仅指饮食的菜单，也可用于比喻计划、安排等抽象事物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8207,
+  "word" : "献金",
+  "reading" : "けんきん",
+  "romaji" : null,
+  "meaning" : [ "捐款，献金，捐赠款项" ],
+  "notes" : [ "通常指向特定组织、团体或事业捐赠金钱，可作为サ变动词使用（献金する）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8208,
+  "word" : "猶予",
+  "reading" : "ゆうよ",
+  "romaji" : null,
+  "meaning" : [ "1. 犹豫，踌躇；2. 缓期，延期，暂缓" ],
+  "notes" : [ "作为名词时可构成「猶予期間(缓冲期)」「猶予権(暂缓权)」等复合词；作为サ変动词时表示执行“延期”或“犹豫”的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8209,
+  "word" : "猿",
+  "reading" : "さる",
+  "romaji" : null,
+  "meaning" : [ "猴子，猿猴；（骂人话）畜生，混蛋" ],
+  "notes" : [ "常用汉字，可用于比喻愚蠢或行为粗鲁的人，相关惯用句「猿も木から落ちる」表示即使是熟练的人也有失误的时候。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8210,
+  "word" : "獅子舞",
+  "reading" : "ししまい0",
+  "romaji" : null,
+  "meaning" : [ "名 狮子舞，一种传统舞蹈，舞者身披狮子皮道具模仿狮子动作，常于节庆时表演以驱邪纳福" ],
+  "notes" : [ "日本传统艺能之一，常见于新年等庆典活动，不同地区有各具特色的獅子舞形式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8211,
+  "word" : "獲得",
+  "reading" : "かくとく",
+  "romaji" : null,
+  "meaning" : [ "获得，取得，得到（通过努力、手段等得到想要的东西或达成目标）" ],
+  "notes" : [ "「獲得する」是サ变动词，由名词「獲得」后续「する」构成。表示通过一定的努力、行动或过程得到某种事物、权利、资格等。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8212,
+  "word" : "獲物",
+  "reading" : "えもの",
+  "romaji" : null,
+  "meaning" : [ "猎物，捕获物；追求的目标，争夺的对象" ],
+  "notes" : [ "指狩猎捕获的动物，也可比喻为努力争取的目标或对象" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8213,
+  "word" : "玄人",
+  "reading" : "くろうと",
+  "romaji" : null,
+  "meaning" : [ "内行，行家，专家，老手（对某领域有丰富知识和经验的人）" ],
+  "notes" : [ "反义词：素人（しろうと）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8214,
+  "word" : "玄関",
+  "reading" : "げんかん",
+  "romaji" : null,
+  "meaning" : [ "玄关，门口，正门入口处" ],
+  "notes" : [ "住宅的入口处，通常用于脱鞋和迎接客人的地方" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8215,
+  "word" : "率いる",
+  "reading" : "ひきいる",
+  "romaji" : null,
+  "meaning" : [ "率领，统率，带领" ],
+  "notes" : [ "「率」は音読み「そつ」ですが、この動詞では「ひき」と読みます。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8216,
+  "word" : "率先",
+  "reading" : "そっせん",
+  "romaji" : null,
+  "meaning" : [ "率先，带头，首先，主动" ],
+  "notes" : [ "「率先」は名詞としても副詞としても使用され、動詞「する」と組み合わせて「率先する」の形でよく使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8217,
+  "word" : "率直",
+  "reading" : "そっちょく",
+  "romaji" : null,
+  "meaning" : [ "坦率，直率，直爽" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8218,
+  "word" : "玉",
+  "reading" : "たま0",
+  "romaji" : null,
+  "meaning" : [ "名词 球，球状物；玉，宝石；圆形物；弹珠；眼球；围棋子；骰子的点数；（液体的）滴；（接在名词后）表示珍贵、重要" ],
+  "notes" : [ "「玉」は多義語で、具体的な文脈によって意味が異なる。「ぎょく」という読み方も存在するが、主に「宝玉」「玉座」などの複合語や固有名詞で使用される。一般的な単独使用では「たま」が基本読みである。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8219,
+  "word" : "玉ねぎ",
+  "reading" : "たまねぎ",
+  "romaji" : null,
+  "meaning" : [ "洋葱，圆葱" ],
+  "notes" : [ "一般指圆形的洋葱，是常见的蔬菜之一。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8220,
+  "word" : "王子",
+  "reading" : "おうじ",
+  "romaji" : null,
+  "meaning" : [ "王子，皇子" ],
+  "notes" : [ "通常指君主制国家的男性皇族，也可用于童话等虚构作品中的王子形象。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8221,
+  "word" : "王様",
+  "reading" : "おうさま",
+  "romaji" : null,
+  "meaning" : [ "国王，大王，君主；（孩子对父亲的撒娇称呼）爸爸" ],
+  "notes" : [ "用于称呼国王等君主时较为郑重；用于称呼父亲时为儿童用语，带有撒娇的语气。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8222,
+  "word" : "王者",
+  "reading" : "おうじゃ",
+  "romaji" : null,
+  "meaning" : [ "王者；冠军；最有实力的人，领域内的权威" ],
+  "notes" : [ "漢語名詞。主に競技や分野で最も強い地位にある人や団体を指す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8223,
+  "word" : "玩具",
+  "reading" : "おもちゃ",
+  "romaji" : null,
+  "meaning" : [ "玩具，玩物" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8224,
+  "word" : "珊瑚",
+  "reading" : "さんご",
+  "romaji" : null,
+  "meaning" : [ "珊瑚，珊瑚虫分泌的石灰质骨骼堆积形成的海洋生物，也指其制品" ],
+  "notes" : [ "一般指珊瑚虫群体形成的石灰质骨骼，也可用于指珊瑚制成的工艺品" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8225,
+  "word" : "珍しい",
+  "reading" : "めずらしい",
+  "romaji" : null,
+  "meaning" : [ "新奇的，新颖的；罕见的，少见的；珍贵的，稀有的" ],
+  "notes" : [ "イ形容詞（一类形容词），否定形为「珍しくない」，过去式为「珍しかった」" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8226,
+  "word" : "現す",
+  "reading" : "あらわす",
+  "romaji" : null,
+  "meaning" : [ "使出现，使显露，表现出，表达" ],
+  "notes" : [ "他动词，强调通过某种方式使内在的事物（情感、才能等）在外部表现出来。自动词形式为「現れる（あらわれる）」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8227,
+  "word" : "現に",
+  "reading" : "げんに",
+  "romaji" : null,
+  "meaning" : [ "实际上，事实上，的确，真的" ],
+  "notes" : [ "表示强调某事实确实存在或发生，用于肯定句中，加强语气。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8228,
+  "word" : "現れ",
+  "reading" : "あらわれ",
+  "romaji" : null,
+  "meaning" : [ "出现，显现，显露，呈现" ],
+  "notes" : [ "「現れる」的连用形（ます形），可作为名词性使用，表示出现的状态或事物。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8229,
+  "word" : "現れる",
+  "reading" : "あらわれる",
+  "romaji" : null,
+  "meaning" : [ "出现，显现，显露；表现出，呈现出" ],
+  "notes" : [ "自动词，强调从无到有地出现或某种状态、情感等在外部表现出来。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8230,
+  "word" : "現代",
+  "reading" : "げんだい",
+  "romaji" : null,
+  "meaning" : [ "现代，现今，当代（指当前所处的时代，通常相对于过去的时代而言）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8231,
+  "word" : "現代人",
+  "reading" : "げんだいじん",
+  "romaji" : null,
+  "meaning" : [ "現代に生きる人。特に、現代社会の文化や価値観を共有する人々。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8232,
+  "word" : "現代美術",
+  "reading" : "げんだいびじゅつ",
+  "romaji" : null,
+  "meaning" : [ "指19世纪末以后发展起来的美术，包括印象派、立体派、超现实主义等多种艺术流派，反映现代社会的思想和审美意识。" ],
+  "notes" : [ "主要指20世纪以来的美术发展，与传统美术（伝統美術）相对。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8233,
+  "word" : "現住",
+  "reading" : "げんじゅう",
+  "romaji" : null,
+  "meaning" : [ "现在居住；现住址，现居住地" ],
+  "notes" : [ "通常「現住地」「現住所」等の形で使用されることが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8234,
+  "word" : "現在",
+  "reading" : "げんざい",
+  "romaji" : null,
+  "meaning" : [ "名词 现在，目前，当前" ],
+  "notes" : [ "可用于书面语和口语，时间上指说话的此刻或当前时期" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8235,
+  "word" : "現地",
+  "reading" : "げんち",
+  "romaji" : null,
+  "meaning" : [ "现场；当地，本地" ],
+  "notes" : [ "表示事件发生的场所或特定地区本身" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8236,
+  "word" : "現場",
+  "reading" : "げんば",
+  "romaji" : null,
+  "meaning" : [ "现场；工地；出事地点；实地；工作场所" ],
+  "notes" : [ "「現場」は主に実際に物事が起こっている場所や作業が行われている場所を指す。職場の意味でも使用されることがある。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8237,
+  "word" : "現実",
+  "reading" : "げんじつ",
+  "romaji" : null,
+  "meaning" : [ "现实，实际情况，真实存在的事物或状态" ],
+  "notes" : [ "可与「的」结合构成形容动词「現実的」（现实的，实际的）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8238,
+  "word" : "現役",
+  "reading" : "げんえき",
+  "romaji" : null,
+  "meaning" : [ "1. 现役（指正在服役、在职或仍在从事某项活动的状态）；2. 应届毕业生（指即将毕业或刚毕业的学生）" ],
+  "notes" : [ "「現役」在表示“应届毕业生”时，通常用于考试、就职等场景，指尚未有工作经验的新毕业生。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8239,
+  "word" : "現状",
+  "reading" : "げんじょう",
+  "romaji" : null,
+  "meaning" : [ "目前的状态，现状" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8240,
+  "word" : "現行",
+  "reading" : "げんこう",
+  "romaji" : null,
+  "meaning" : [ "现行，正在实行的；当前有效的" ],
+  "notes" : [ "可作連体修飾語，修飾名詞時用「現行の」形式" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8241,
+  "word" : "現象",
+  "reading" : "げんしょう",
+  "romaji" : null,
+  "meaning" : [ "现象，事物在发展、变化中所表现出来的外部形态和联系" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8242,
+  "word" : "現金",
+  "reading" : "げんきん",
+  "romaji" : null,
+  "meaning" : [ "现金，现款" ],
+  "notes" : [ "可用于「現金払い」（现金支付）、「現金化」（兑现）等复合词中" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8243,
+  "word" : "理不尽",
+  "reading" : "りふじん",
+  "romaji" : null,
+  "meaning" : [ "不讲理，毫无道理，蛮横无理" ],
+  "notes" : [ "可作名词使用，也可后续「な」作连体修饰语" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8244,
+  "word" : "理屈",
+  "reading" : "りくつ",
+  "romaji" : null,
+  "meaning" : [ "道理，逻辑；歪理，借口，强词夺理" ],
+  "notes" : [ "常用搭配有「理屈を言う」（讲歪理）、「理屈に合う」（合乎逻辑）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8245,
+  "word" : "理屈っぽい",
+  "reading" : "りくつっぽい",
+  "romaji" : null,
+  "meaning" : [ "好讲理的，爱诡辩的，爱抠死理的，过于强调理论的" ],
+  "notes" : [ "「っぽい」接尾词表示具有某种倾向，此处指过于强调理论或道理而显得不灵活。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8246,
+  "word" : "理念",
+  "reading" : "りねん",
+  "romaji" : null,
+  "meaning" : [ "理念，根本思想，基本方针，指导原则" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8247,
+  "word" : "理性",
+  "reading" : "りせい",
+  "romaji" : null,
+  "meaning" : [ "理性，理智，合理性" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8248,
+  "word" : "理想",
+  "reading" : "りそう0",
+  "romaji" : null,
+  "meaning" : [ "理想，心中追求的目标或完美的状态" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8249,
+  "word" : "理想的",
+  "reading" : "りそうてき",
+  "romaji" : null,
+  "meaning" : [ "理想的，符合理想的" ],
+  "notes" : [ "形容动词，后续接「な」修饰名词，接「に」作副词使用" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8250,
+  "word" : "理由",
+  "reading" : "りゆう",
+  "romaji" : null,
+  "meaning" : [ "事情的道理、原由；做某事的根据或原因" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8251,
+  "word" : "理科",
+  "reading" : "りか",
+  "romaji" : null,
+  "meaning" : [ "理科，自然科学（包括物理、化学、生物等学科）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8252,
+  "word" : "理解",
+  "reading" : "りかい",
+  "romaji" : null,
+  "meaning" : [ "理解，领会，明白（他人的想法、语言、事物的性质等）" ],
+  "notes" : [ "「理解する」是サ变动词，基本形为「理解する」，过去式「理解した」，否定式「理解しない」，可能形「理解できる」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8253,
+  "word" : "理解します",
+  "reading" : "りかいします",
+  "romaji" : null,
+  "meaning" : [ "理解，领会，明白" ],
+  "notes" : [ "「理解する」的敬体形式，基本形为「理解する」，属于サ变动词。表示对事物的含义、内容、道理等的认知和领会。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8254,
+  "word" : "理論",
+  "reading" : "りろん",
+  "romaji" : null,
+  "meaning" : [ "理论，学说；条理，道理" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8255,
+  "word" : "琴",
+  "reading" : "こと",
+  "romaji" : null,
+  "meaning" : [ "古琴（日本传统弦乐器，有十三根弦，用拨子演奏）" ],
+  "notes" : [ "日本传统乐器，与中国的古琴（きん）有所区别，也不同于筝（しょう）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8256,
+  "word" : "琵琶",
+  "reading" : "びわ",
+  "romaji" : null,
+  "meaning" : [ "中国传来的弦乐器，有四根弦，音箱呈梨形，用拨子弹奏。" ],
+  "notes" : [ "源自中国，在日本传统音乐中也有使用，与「琴」「箏」等同为古典弦乐器。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8257,
+  "word" : "瑕疵",
+  "reading" : "かし",
+  "romaji" : null,
+  "meaning" : [ "物品等存在的小缺陷、毛病；或指人或事物的缺点、不足之处" ],
+  "notes" : [ "主に物の欠点や不具合を指すが、抽象的なものの欠点にも使用される。書面語的な表現であり、日常会話ではあまり使われない。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8258,
+  "word" : "瑠璃瓦",
+  "reading" : "るりがわら",
+  "romaji" : null,
+  "meaning" : [ "表面に瑠璃釉薬を施し焼成した瓦。主に屋根の飾りとして用いられ、美しい青色や緑色をしている。" ],
+  "notes" : [ "「瑠璃」は青色や緑色を意味する宝石を指し、瓦の色からこの名がついた。日本の伝統建築でよく見られる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8259,
+  "word" : "環境",
+  "reading" : "かんきょう",
+  "romaji" : null,
+  "meaning" : [ "环境，周围的自然和社会条件" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8260,
+  "word" : "環境保護",
+  "reading" : "かんきょうほご",
+  "romaji" : null,
+  "meaning" : [ "环境保护，环保" ],
+  "notes" : [ "複合名詞。「環境」と「保護」を組み合わせた語。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8261,
+  "word" : "環境問題",
+  "reading" : "かんきょうもんだい",
+  "romaji" : null,
+  "meaning" : [ "環境に関する様々な問題の総称。例えば、大気汚染、水質汚染、ごみ問題、温暖化、生物多様性の減少などが含まれる" ],
+  "notes" : [ "複合名詞。「環境」と「問題」を組み合わせた語。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8262,
+  "word" : "環境破壊",
+  "reading" : "かんきょうはかい",
+  "romaji" : null,
+  "meaning" : [ "环境破坏，指人类活动导致的自然环境的恶化或破坏" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8263,
+  "word" : "瓦",
+  "reading" : "かわら",
+  "romaji" : null,
+  "meaning" : [ "名词 瓦，瓦片（屋顶等使用的片状建筑材料）" ],
+  "notes" : [ "常用汉字，可组成复合词如「瓦屋根（かわらやね）」（瓦屋顶）、「瓦礫（がれき）」（瓦砾，碎石）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8264,
+  "word" : "瓦屋根",
+  "reading" : "かわらやね",
+  "romaji" : null,
+  "meaning" : [ "瓦屋顶，用瓦片铺设的屋顶" ],
+  "notes" : [ "由「瓦（かわら）」（瓦片）和「屋根（やね）」（屋顶）组成的复合名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8265,
+  "word" : "瓶",
+  "reading" : "びん",
+  "romaji" : null,
+  "meaning" : [ "瓶子，容器（通常指玻璃或塑料制的，用于盛装液体等的容器）" ],
+  "notes" : [ "常用汉字，可用于复合词如「花瓶（かびん）」「牛乳瓶（ぎゅうにゅうびん）」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8266,
+  "word" : "瓶詰め",
+  "reading" : "びんづめ",
+  "romaji" : null,
+  "meaning" : [ "瓶装；装入瓶中的物品" ],
+  "notes" : [ "「瓶詰め」は名詞として使用され、「瓶詰めする」の形で動詞としても使われることがあります。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8267,
+  "word" : "甕",
+  "reading" : "かめ",
+  "romaji" : null,
+  "meaning" : [ "缸，瓮，陶罐（口小肚大的陶瓷容器，用于储存水、酒、酱等）" ],
+  "notes" : [ "「甕」は「かめ」と読み、主に水や酒、調味料などを保存するための容器を指す。現代ではあまり日常的に使われないが、伝統的な文化や文書で見られる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8268,
+  "word" : "甘い",
+  "reading" : "あまい",
+  "romaji" : null,
+  "meaning" : [ "（味道）甜的；（想法、判断等）天真的，乐观的，不现实的；（声音、光线等）柔和的，悦耳的，不刺眼的；（酒精度数）低的，淡的" ],
+  "notes" : [ "イ形容词，基本形以「い」结尾，否定形为「甘くない」，过去形为「甘かった」。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8269,
+  "word" : "甘える",
+  "reading" : "あまえる",
+  "romaji" : null,
+  "meaning" : [ "1. 撒娇，依赖；2. 趁……机会，利用（他人的好意等）" ],
+  "notes" : [ "自动词，主要用于表示依赖他人或利用有利条件的行为，对象一般为长辈、上级或关系亲密的人。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8270,
+  "word" : "甘さ",
+  "reading" : "あまさ0",
+  "romaji" : null,
+  "meaning" : [ "名 甜度；甜头，好处" ],
+  "notes" : [ "「甘い」の名词形。甘さの程度を表すことが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8271,
+  "word" : "甘み",
+  "reading" : "あまみ",
+  "romaji" : null,
+  "meaning" : [ "甜味，甜度；甜头，好处" ],
+  "notes" : [ "「甘み」是名词「甘い」（あまい）的名词化形式，表示味道上的甜味或抽象的好处、甜头。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8272,
+  "word" : "甘やかす",
+  "reading" : "あまやかす",
+  "romaji" : null,
+  "meaning" : [ "娇纵，溺爱，纵容；姑息，放任" ],
+  "notes" : [ "「甘やかす」通常用于对人或动物的过度宠爱，也可用于对错误、不良行为的放任不管。其对应的被动态为「甘やかされる」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8273,
+  "word" : "甘んじる",
+  "reading" : "あまんじる",
+  "romaji" : null,
+  "meaning" : [ "甘愿，情愿；满足于，忍受，认命" ],
+  "notes" : [ "自动词，通常用于表达对某种状况或结果的接受态度，后接「～こと」「～結果」「～運命」等表示状况的名词，或直接接「ている」表示持续的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8274,
+  "word" : "甘口",
+  "reading" : "あまぐち",
+  "romaji" : null,
+  "meaning" : [ "甜味；甜口味；喜欢吃甜的人；甜言蜜语" ],
+  "notes" : [ "形容味道时常用「甘口」，对应的反义词是「辛口（からくち）」（辣味；咸口味）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8275,
+  "word" : "甚だ",
+  "reading" : "はなはだ",
+  "romaji" : null,
+  "meaning" : [ "很，甚，极其，非常" ],
+  "notes" : [ "书面语，用于表达程度极高，常与消极评价词搭配使用。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8276,
+  "word" : "甚だしい",
+  "reading" : "はなはだしい",
+  "romaji" : null,
+  "meaning" : [ "严重的，非常的，过分的，太甚的" ],
+  "notes" : [ "属于イ形容词，多用于书面语，表达程度非常高，常带有负面评价的语感。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8277,
+  "word" : "甚大",
+  "reading" : "じんだい",
+  "romaji" : null,
+  "meaning" : [ "形容动词，意为非常大、巨大、重大，通常用于表示程度严重或规模庞大的负面事物" ],
+  "notes" : [ "多用于书面语，特别是新闻报道、正式文书中，描述灾害、损失、影响等较为严重的情况" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8278,
+  "word" : "生",
+  "reading" : "なま",
+  "romaji" : null,
+  "meaning" : [ "生，鲜；未加工的，生的；原状，未处理的" ],
+  "notes" : [ "「生」は名词として使用され、名词や形容词のように机能することがある。例えば「生ビール」「生卵」など、名词の前に置いて状态を表すことが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8279,
+  "word" : "生々しい",
+  "reading" : "なまなましい",
+  "romaji" : null,
+  "meaning" : [ "1. 生动的，栩栩如生的；2. （记忆、印象等）鲜明的，清晰的；3. （肉等）新鲜的，未加工的；4. （感觉、体验等）强烈的，深刻的" ],
+  "notes" : [ "「生々しい」既可用于形容积极事物（如生动的描述），也可用于形容消极事物（如鲜明的痛苦记忆），需根据语境判断具体含义。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8280,
+  "word" : "生える",
+  "reading" : "はえる",
+  "romaji" : null,
+  "meaning" : [ "1. （植物等）生长，发芽；2. （毛发、胡须等）长出，生；3. （水垢、锈等）产生，出现" ],
+  "notes" : [ "自动词，表示自然生长或出现的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8281,
+  "word" : "生かす",
+  "reading" : "いかす",
+  "romaji" : null,
+  "meaning" : [ "发挥，有效利用；使活下去，救活" ],
+  "notes" : [ "「生かす」は他动词で、「生きる」の他动词形にあたる。人や物の価値や可能性を最大限に引き出す意味でよく使われる。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8282,
+  "word" : "生かす/活かす",
+  "reading" : "いかす",
+  "romaji" : null,
+  "meaning" : [ "1. 救活，使复活；2. 有效利用，发挥（能力、特长等）；3. 使生动，使活跃" ],
+  "notes" : [ "「生かす」和「活かす」为同源词，现代日语中「活かす」更常用，尤其表示“有效利用”之意时；「生かす」多用于“救活生命”的场合。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8283,
+  "word" : "生きがい",
+  "reading" : "いきがい",
+  "romaji" : null,
+  "meaning" : [ "生存的意义，生活的价值，人生的乐趣" ],
+  "notes" : [ "常用汉字词，由「生きる」（活）和「がい」（意义、价值）构成，指让人感到生活有意义的事物或状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8284,
+  "word" : "生きます",
+  "reading" : "いきます",
+  "romaji" : null,
+  "meaning" : [ "活，生存，生活" ],
+  "notes" : [ "「生きる」的礼貌形，基本形为「生きる（いきる）」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8285,
+  "word" : "生きる",
+  "reading" : "いきる",
+  "romaji" : null,
+  "meaning" : [ "生存，活着；生活；（以某种方式）生活，过活；有效，起作用" ],
+  "notes" : [ "自动词，基本形「生きる」，过去式「生きた」，否定形「生きない」，可能形「生きられる」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8286,
+  "word" : "生き残る",
+  "reading" : "いきのこる",
+  "romaji" : null,
+  "meaning" : [ "幸存，保住性命，残存，残留" ],
+  "notes" : [ "「生き残る」是由「生きる」（活）和「残る」（留下）复合而成的动词，表示在困难或危险的情况下存活下来。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8287,
+  "word" : "生き物",
+  "reading" : "いきもの",
+  "romaji" : null,
+  "meaning" : [ "生物；有生命的东西；活物" ],
+  "notes" : [ "常用汉字表外汉字「物」在此处读作「もの」，整体为名词，无活用形式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8288,
+  "word" : "生き生き",
+  "reading" : "いきいき",
+  "romaji" : null,
+  "meaning" : [ "生动地，栩栩如生地；活泼地，精神抖擞地" ],
+  "notes" : [ "由「生きる」的连用形重叠构成的副词，常用来形容人或事物充满活力、富有生气的状态。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8289,
+  "word" : "生ける/活ける",
+  "reading" : "いける",
+  "romaji" : null,
+  "meaning" : [ "1. 插（花）；2. 把（植物）栽在（土里、盆里等）；3. 使（鸟、鱼等）保持鲜活状态（用于烹饪前）" ],
+  "notes" : [ "「生ける」和「活ける」为同源异体字，现代日语中「生ける」更为常用。主要用于表示插花、栽种植物或保持生物鲜活状态的动作。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8290,
+  "word" : "生け花",
+  "reading" : "いけばな",
+  "romaji" : null,
+  "meaning" : [ "插花，日本传统花道艺术，通过修剪、排列花枝来表现自然美和季节感" ],
+  "notes" : [ "「生け花」是日本传统艺术之一，与茶道、香道并称为“雅道”。常用流派有池坊、小原流、草月流等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8291,
+  "word" : "生じる",
+  "reading" : "しょうじる",
+  "romaji" : null,
+  "meaning" : [ "发生，产生，出现；引起，造成" ],
+  "notes" : [ "自他两用动词，作为自动词表示“发生、产生”，作为他动词表示“引起、造成”。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8292,
+  "word" : "生まれ",
+  "reading" : "うまれ",
+  "romaji" : null,
+  "meaning" : [ "出生，诞生；出身，出生地" ],
+  "notes" : [ "「生まれる」（动词）的名词形式，常用搭配有「生まれ故郷」（故乡）、「生まれの国」（出生国）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8293,
+  "word" : "生まれつき",
+  "reading" : "うまれつき",
+  "romaji" : null,
+  "meaning" : [ "天生，生来，与生俱来" ],
+  "notes" : [ "由动词「生まれる」的连用形「生まれ」与接尾词「つき」（表示状态、性质）构成的复合副词，用于表示某种性质或状态从出生时就具备。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8294,
+  "word" : "生まれます",
+  "reading" : "うまれます",
+  "romaji" : null,
+  "meaning" : [ "出生，诞生；产生，出现" ],
+  "notes" : [ "「生まれる」的礼貌形，自动词。表示人或事物的出生、产生。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8295,
+  "word" : "生まれる",
+  "reading" : "うまれる",
+  "romaji" : null,
+  "meaning" : [ "出生，诞生；产生，出现，形成" ],
+  "notes" : [ "自动词，「生む」的被动形式，基本形为「生まれる」，过去式「生まれた」，否定式「生まれません」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8296,
+  "word" : "生みの親",
+  "reading" : "うみのおや",
+  "romaji" : null,
+  "meaning" : [ "创造者，创始人；亲生父母" ],
+  "notes" : [ "「生みの親」は人やものの起源・創始者を指す場合と、生物学的な親を指す場合があります。文脈によって意味が異なるので注意が必要です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8297,
+  "word" : "生み出す",
+  "reading" : "うみだす",
+  "romaji" : null,
+  "meaning" : [ "创造出，生产出，产生，生出" ],
+  "notes" : [ "「生む」（うむ）に補助動詞「出す」（だす）が付いた複合動詞で、「生む」よりも積極的に新しいものを作り出す意味が強い。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8298,
+  "word" : "生やす",
+  "reading" : "はやす",
+  "romaji" : null,
+  "meaning" : [ "使……生长；留（胡须、头发等）" ],
+  "notes" : [ "他动词，用于表示使某物生长或有意识地留蓄毛发等。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8299,
+  "word" : "生ゴミ",
+  "reading" : "なまごみ",
+  "romaji" : null,
+  "meaning" : [ "厨余垃圾，食物残渣" ],
+  "notes" : [ "指厨房产生的食物废弃物，如菜叶、果皮、剩饭等，属于垃圾分类中的一种。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8300,
+  "word" : "生命",
+  "reading" : "せいめい",
+  "romaji" : null,
+  "meaning" : [ "生命，性命，生存的能力或状态" ],
+  "notes" : [ "常用汉字词，可用于书面语和口语，与「命（いのち）」意思相近，但「生命」更书面化、抽象化" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

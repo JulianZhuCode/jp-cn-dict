@@ -1,0 +1,901 @@
+[ {
+  "id" : 9401,
+  "word" : "育成",
+  "reading" : "いくせい",
+  "romaji" : null,
+  "meaning" : [ "培育，培养（动植物、人才等）" ],
+  "notes" : [ "该词常用于表示对生物或人的培育成长过程。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9402,
+  "word" : "肺",
+  "reading" : "肺（い）",
+  "romaji" : null,
+  "meaning" : [ "肺，肺脏" ],
+  "notes" : [ "人体の呼吸器官の一つで、酸素と二酸化炭素の交換を行う。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9403,
+  "word" : "胃",
+  "reading" : "い",
+  "romaji" : null,
+  "meaning" : [ "人体消化器官之一，位于膈下，上接食道，下通小肠。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9404,
+  "word" : "背",
+  "reading" : "せ",
+  "romaji" : null,
+  "meaning" : [ "后背；身高。如「背が高い」表示个子高；「背中」表示后背。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9405,
+  "word" : "背が高い",
+  "reading" : "せがたかい",
+  "romaji" : null,
+  "meaning" : [ "身材高；个子高" ],
+  "notes" : [ "用于描述人的身高状况" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9406,
+  "word" : "背く",
+  "reading" : "そむく",
+  "romaji" : null,
+  "meaning" : [ "1. 背向ける。向きを変えて後ろを向く。2. 反対する。逆らう。3. 裏切る。信頼や誓約を破る。" ],
+  "notes" : [ "常用的他动词，注意其不同含义的用法。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9407,
+  "word" : "背中",
+  "reading" : "せなか",
+  "romaji" : null,
+  "meaning" : [ "人体背部的部分；物体的背面部分" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9408,
+  "word" : "背伸び",
+  "reading" : "せのび",
+  "romaji" : null,
+  "meaning" : [ "踮起脚；伸懒腰；逞强，逞能。指为了显得比实际更高、更强或优越而做出的行为。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9409,
+  "word" : "背後",
+  "reading" : "ばいこう",
+  "romaji" : null,
+  "meaning" : [ "背后；背地，幕后。指物体的后面部分，或不公开、在暗中进行的情况等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9410,
+  "word" : "背景",
+  "reading" : "ばいけい",
+  "romaji" : null,
+  "meaning" : [ "1. 物体背后的景色。2. 对人物、事件起作用的环境或关系等背景形势。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9411,
+  "word" : "背負う",
+  "reading" : "せおう",
+  "romaji" : null,
+  "meaning" : [ "背（人或物体）；承担（责任、义务、债务等）；怀有（某种感情、想法等）" ],
+  "notes" : [ "该词常用的意思是背负物体或承担责任等，在使用时要注意语境。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9412,
+  "word" : "胡同",
+  "reading" : "こうどう",
+  "romaji" : null,
+  "meaning" : [ "城镇中狭窄的街道；胡同" ],
+  "notes" : [ "“胡同”是中文词汇，在日语中对应的汉字词读音为「こうどう」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9413,
+  "word" : "胡弓",
+  "reading" : "こきょう",
+  "romaji" : null,
+  "meaning" : [ "胡琴。中国の弦楽器の一つで、二枚の蛇皮を張った共鳴箱に弦を付け、琴弓で撥いて音を出す。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9414,
+  "word" : "胡桃",
+  "reading" : "くるみ",
+  "romaji" : null,
+  "meaning" : [ "核桃；胡桃" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9415,
+  "word" : "胡椒",
+  "reading" : "コショウ",
+  "romaji" : null,
+  "meaning" : [ "胡椒这种植物的果实，可作为调味料。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9416,
+  "word" : "胡麻",
+  "reading" : "ごま",
+  "romaji" : null,
+  "meaning" : [ "芝麻；胡麻科植物的种子，可榨油，常用于烹饪、制作点心等。" ],
+  "notes" : [ "在日语中，“胡麻”一般指芝麻，而在中文里“胡麻”有不同含义，使用时需注意区分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9417,
+  "word" : "能",
+  "reading" : "のう",
+  "romaji" : null,
+  "meaning" : [ "能力；才能；本领；技艺；擅长的领域等。" ],
+  "notes" : [ "在日语中，‘能’还有歌舞伎等传统艺术形式的意思，比如‘能楽（のうがく）’表示能乐。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9418,
+  "word" : "能力",
+  "reading" : "のうりょく",
+  "romaji" : null,
+  "meaning" : [ "能力。指人或事物所具备的能够完成某种任务或达到某种水平的素质。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9419,
+  "word" : "能率",
+  "reading" : "のうりつ",
+  "romaji" : null,
+  "meaning" : [ "效率；功效。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9420,
+  "word" : "脂",
+  "reading" : "あぶら",
+  "romaji" : null,
+  "meaning" : [ "脂肪，油脂；（皮肤上的）油垢；（食物等的）油腻感" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9421,
+  "word" : "脂肪",
+  "reading" : "しぼう",
+  "romaji" : null,
+  "meaning" : [ "生物体の細胞内に含まれる、エネルギー源として機能する有機化合物。" ],
+  "notes" : [ "日常用語で、医学や生物学などの分野でも頻繁に使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9422,
+  "word" : "脅かす",
+  "reading" : "おびやかす",
+  "romaji" : null,
+  "meaning" : [ "威胁，吓唬；以……相逼；危及，对……构成威胁" ],
+  "notes" : [ "该词常用的形式为「～を脅かす」，表示对某人或某事施加威胁。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9423,
+  "word" : "脅す",
+  "reading" : "おびやかす",
+  "romaji" : null,
+  "meaning" : [ "通过言语或行为等方式，以不良后果相逼，使对方产生恐惧从而顺从自己的意愿；威胁，恐吓。" ],
+  "notes" : [ "注意与「威嚇する」区分，「脅す」更侧重于以某种不良后果相逼，带有一定的强迫意味；「威嚇する」则更强调用强大的气势或力量来吓唬对方。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9424,
+  "word" : "脅迫",
+  "reading" : "きょうはく",
+  "romaji" : null,
+  "meaning" : [ "威胁，恐吓，胁迫。以武力、权势等手段逼迫他人，使其产生恐惧或服从自己的意志。" ],
+  "notes" : [ "作为动词时，常用形式为「脅迫する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9425,
+  "word" : "脆い",
+  "reading" : "もろい",
+  "romaji" : null,
+  "meaning" : [ "易碎的；脆弱的；不坚固的；没有持久力的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9426,
+  "word" : "脇",
+  "reading" : "わき",
+  "romaji" : null,
+  "meaning" : [ "腋下；侧面，旁边" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9427,
+  "word" : "脈",
+  "reading" : "みゃく",
+  "romaji" : null,
+  "meaning" : [ "1. 脉搏。例：脈が乱れる（脉搏紊乱）。2. 血管。3. 条理；头绪；线索。例：話の脈をつかむ（抓住话的头绪）。4. 关系；联系。例：人脈（人际关系）。5. 倾向；趋势。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9428,
+  "word" : "脚",
+  "reading" : "あし",
+  "romaji" : null,
+  "meaning" : [ "名。人体下肢，从臀部到踝骨部分的肢体。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9429,
+  "word" : "脚光",
+  "reading" : "きゃくこう",
+  "romaji" : null,
+  "meaning" : [ "舞台上照亮脚部的灯光；（因处于显眼位置而）受人瞩目，成为众人焦点" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9430,
+  "word" : "脚本",
+  "reading" : "きゃくほん",
+  "romaji" : null,
+  "meaning" : [ "用于戏剧、电影、电视剧等创作的文字底本，详细记录了剧情、角色台词、舞台场景等内容，是拍摄或演出的基础。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9431,
+  "word" : "脚立",
+  "reading" : "あしだち",
+  "romaji" : null,
+  "meaning" : [ "人字梯；脚架；支架" ],
+  "notes" : [ "“脚立”在日常生活中常用以指称人字梯，也可指一般的支撑脚部的架子等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9432,
+  "word" : "脚色",
+  "reading" : "かくしょく",
+  "romaji" : null,
+  "meaning" : [ "对小说、剧本、故事等进行改编；也指对事实等进行歪曲、夸张。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9433,
+  "word" : "脱ぎます",
+  "reading" : "ぬぎます",
+  "romaji" : null,
+  "meaning" : [ "脱（衣服、鞋、帽子、手套等身上穿戴的物品）" ],
+  "notes" : [ "该词为他动词，使用时需明确脱的对象" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9434,
+  "word" : "脱ぐ",
+  "reading" : "ぬぐ",
+  "romaji" : null,
+  "meaning" : [ "1. 脱掉（衣物、帽子、鞋子等）；摘掉（眼镜、戒指等）。2. 摆脱；脱离（某种状态、束缚等）。" ],
+  "notes" : [ "该词为他动词，使用时需注意其对象。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9435,
+  "word" : "脱する",
+  "reading" : "だつする",
+  "romaji" : null,
+  "meaning" : [ "摆脱；脱离；去掉，除去。" ],
+  "notes" : [ "较为书面、正式的词汇" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9436,
+  "word" : "脱出",
+  "reading" : "だっしゅつ",
+  "romaji" : null,
+  "meaning" : [ "逃脱，摆脱，脱离；（从困境、束缚等中）逃出，逃出（某个场所等）" ],
+  "notes" : [ "该词强调从某个具体的空间、状态或困境中脱离出来" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9437,
+  "word" : "脱税",
+  "reading" : "だっぜい",
+  "romaji" : null,
+  "meaning" : [ "偷税，漏税；逃税" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9438,
+  "word" : "脱線",
+  "reading" : "だっせん",
+  "romaji" : null,
+  "meaning" : [ "1. 列车等脱轨。2. 话题、思路等偏离正轨，离题。" ],
+  "notes" : [ "“脱線する”作为自动词使用时，表示自发的脱轨或离题的行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9439,
+  "word" : "脱退",
+  "reading" : "だったい",
+  "romaji" : null,
+  "meaning" : [ "（组织、团体などから）脱离して、退出すること。また、（ある状况や状态から）离れること。" ],
+  "notes" : [ "「脱退」は、主に组织や团体からの离脱を表す动词です。「退社」「退学」など、特定の状况における离脱を表す言叶とも似ていますが、「脱退」はより広い意味で使われます。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9440,
+  "word" : "脳",
+  "reading" : "のう",
+  "romaji" : null,
+  "meaning" : [ "脑，大脑；脑筋；智力" ],
+  "notes" : [ "该词较为基础，在日常生活和学习中较为常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9441,
+  "word" : "脳死",
+  "reading" : "のうし",
+  "romaji" : null,
+  "meaning" : [ "指脑组织发生不可逆性坏死，导致脑功能完全丧失，即脑死亡的状态。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9442,
+  "word" : "腐ります",
+  "reading" : "くさります",
+  "romaji" : null,
+  "meaning" : [ "腐烂，腐败；（关系、情况等）变坏，恶化" ],
+  "notes" : [ "该词为五段动词，以「る」结尾，其原形为「腐る」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9443,
+  "word" : "腐る",
+  "reading" : "くさる",
+  "romaji" : null,
+  "meaning" : [ "1. 腐烂，腐坏。例：りんごが腐ってしまった。（苹果腐烂了。）2. 腐朽，衰败。例：道が腐っている。（道路破败不堪。）" ],
+  "notes" : [ "该词强调自然状态下的腐烂或事物逐渐衰败的过程" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9444,
+  "word" : "腐敗",
+  "reading" : "ふはい",
+  "romaji" : null,
+  "meaning" : [ "腐坏，腐烂；腐败，堕落" ],
+  "notes" : [ "该词为名词，一般不做动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9445,
+  "word" : "腕",
+  "reading" : "うで",
+  "romaji" : null,
+  "meaning" : [ "手臂，胳膊；手腕；本领，技能" ],
+  "notes" : [ "“腕”在日语中还可引申为能力、本事等意思" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9446,
+  "word" : "腕前",
+  "reading" : "うでまえ",
+  "romaji" : null,
+  "meaning" : [ "手艺，能力，本事，本领" ],
+  "notes" : [ "该词较为常用，在日常生活中可用于描述某人在某个方面所具备的能力或技艺水平。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9447,
+  "word" : "腕時計",
+  "reading" : "うでどけい",
+  "romaji" : null,
+  "meaning" : [ "名词，手表" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9448,
+  "word" : "腫れる",
+  "reading" : "はれる",
+  "romaji" : null,
+  "meaning" : [ "（身体的某个部位）肿起来，肿胀；（因充血、发炎等）鼓起，隆起" ],
+  "notes" : [ "表示身体局部出现肿胀的状态" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9449,
+  "word" : "腰",
+  "reading" : "こし",
+  "romaji" : null,
+  "meaning" : [ "人体腹部与下肢连接的部位；物体的中部、中间部分" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9450,
+  "word" : "腰掛ける",
+  "reading" : "こしかける",
+  "romaji" : null,
+  "meaning" : [ "使……坐下；坐在……上" ],
+  "notes" : [ "该词强调让某人或自己坐在某个物体上的动作" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9451,
+  "word" : "腰痛",
+  "reading" : "ようつう",
+  "romaji" : null,
+  "meaning" : [ "腰部疼痛" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9452,
+  "word" : "腸",
+  "reading" : "ちょう",
+  "romaji" : null,
+  "meaning" : [ "人和动物体内消化器官的一部分，主管消化和吸收养分。分为大肠、小肠等。" ],
+  "notes" : [ "在医学、生物学等领域经常使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9453,
+  "word" : "腹",
+  "reading" : "はら",
+  "romaji" : null,
+  "meaning" : [ "腹部，肚子；内心，心情；度量，肚量" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9454,
+  "word" : "腹を立てる",
+  "reading" : "はらをたてる",
+  "romaji" : null,
+  "meaning" : [ "生气，发火。惯用语，因某事而愤怒，情绪激动。" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9455,
+  "word" : "腹立たしい",
+  "reading" : "はらたちい",
+  "romaji" : null,
+  "meaning" : [ "令人气愤的，生气的" ],
+  "notes" : [ "该词为形容词，用于描述人的情绪状态，表示愤怒、生气的感觉。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9456,
+  "word" : "膨らむ",
+  "reading" : "ふくらむ",
+  "romaji" : null,
+  "meaning" : [ "膨胀；鼓起；（内心）充满；（数量等）增多，增加" ],
+  "notes" : [ "该词常用作自动词，强调自身的膨胀、鼓起等动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9457,
+  "word" : "膨れる",
+  "reading" : "ふくれる",
+  "romaji" : null,
+  "meaning" : [ "膨胀，鼓起；肿胀；（因骄傲等）得意洋洋；（因生气等）噘嘴" ],
+  "notes" : [ "表示物体体积变大用「膨れる」，表示人的身体某个部位肿胀不舒服用「腫れる」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9458,
+  "word" : "膨大",
+  "reading" : "ぼうだい",
+  "romaji" : null,
+  "meaning" : [ "庞大，巨大；数量、规模等急剧增加而显得庞大" ],
+  "notes" : [ "形容事物在数量、规模、程度等方面超出一般，非常大。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9459,
+  "word" : "膨張",
+  "reading" : "ぼうちょう",
+  "romaji" : null,
+  "meaning" : [ "物体の体積や数、量などが大きくなること。また、規模や範囲が広がること。" ],
+  "notes" : [ "「膨脹」は「膨張」の異体字で、同じ意味を持ちます。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9460,
+  "word" : "膳は急げ",
+  "reading" : "ぜんはいそげ",
+  "romaji" : null,
+  "meaning" : [ "好事不宜迟" ],
+  "notes" : [ "这是一个固定的表达方式，用于提醒人们抓住时机，不要拖延。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9461,
+  "word" : "臆病",
+  "reading" : "おくびょう",
+  "romaji" : null,
+  "meaning" : [ "胆怯，胆小，懦弱。形容人缺乏勇气，容易害怕，不敢面对困难或挑战。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9462,
+  "word" : "臍",
+  "reading" : "へそ",
+  "romaji" : null,
+  "meaning" : [ "人体腹部中央的凹陷部分，即肚脐" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9463,
+  "word" : "臨む",
+  "reading" : "のぞむ",
+  "romaji" : null,
+  "meaning" : [ "面临，面对；接近；临（某种情况）；出席，参加。" ],
+  "notes" : [ "该词为他动词，在使用时需要注意其宾语的搭配。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9464,
+  "word" : "臨時",
+  "reading" : "りんじ",
+  "romaji" : null,
+  "meaning" : [ "臨時，暂时；临时性的。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9465,
+  "word" : "自ずから",
+  "reading" : "おのずから",
+  "romaji" : null,
+  "meaning" : [ "自然而然地；自发地" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9466,
+  "word" : "自ら",
+  "reading" : "みずから",
+  "romaji" : null,
+  "meaning" : [ "自己，自身；亲自，自行" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9467,
+  "word" : "自主",
+  "reading" : "じしゅ",
+  "romaji" : null,
+  "meaning" : [ "自己作主，独立自主。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9468,
+  "word" : "自信",
+  "reading" : "じしん",
+  "romaji" : null,
+  "meaning" : [ "自信，信心；把握，确信。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9469,
+  "word" : "自分",
+  "reading" : "じぶん",
+  "romaji" : null,
+  "meaning" : [ "自己，自身；本人。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9470,
+  "word" : "自分で",
+  "reading" : "じぶんで",
+  "romaji" : null,
+  "meaning" : [ "自己，亲自。表示由自己来做某事，强调自主性。" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9471,
+  "word" : "自動詞と他動詞",
+  "reading" : "じどうしとたどうし",
+  "romaji" : null,
+  "meaning" : [ "自動詞：主語が自発的に行う動作や状態を表す動詞で、目的語が不要である。例えば、「走る」「寝る」など。他動詞：主語が他に対して行う動作を表す動詞で、目的語が必要である。例えば、「食べる」「書く」など。" ],
+  "notes" : [ "動詞には自動詞と他動詞に分けられる。自動詞は主語自身の動作や状態を表し、目的語を必要としない。他動詞は主語が他に対して行う動作を表し、目的語を必要とする。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9472,
+  "word" : "自動",
+  "reading" : "じどう",
+  "romaji" : null,
+  "meaning" : [ "自动；自身运动" ],
+  "notes" : [ "常见搭配如「自動車」表示自动行驶的车辆等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9473,
+  "word" : "自動詞",
+  "reading" : "じどうし",
+  "romaji" : null,
+  "meaning" : [ "表示动词的一种类型，即不需要带宾语，动作由主语自身完成的动词。" ],
+  "notes" : [ "自动词通常与他动词相对，在句子中用法不同。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9474,
+  "word" : "自動車",
+  "reading" : "じどうしゃ",
+  "romaji" : null,
+  "meaning" : [ "依靠自身动力行驶的车辆，一般指汽车" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9475,
+  "word" : "自動車メーカー",
+  "reading" : "じどうしゃメーカー",
+  "romaji" : null,
+  "meaning" : [ "汽车制造商" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9476,
+  "word" : "自動運転",
+  "reading" : "じどううんてん",
+  "romaji" : null,
+  "meaning" : [ "自动驾驶，无人驾驶。指车辆等依靠自身系统自动进行行驶操作，无需人为操控方向盘等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9477,
+  "word" : "自動ドア",
+  "reading" : "じどうどア",
+  "romaji" : null,
+  "meaning" : [ "自动门" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9478,
+  "word" : "自営",
+  "reading" : "じえい",
+  "romaji" : null,
+  "meaning" : [ "个体经营，独立经营。自己经营事业等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9479,
+  "word" : "自営業",
+  "reading" : "じえいぎょう",
+  "romaji" : null,
+  "meaning" : [ "自己经营的事业，个体经营。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9480,
+  "word" : "自在",
+  "reading" : "じざい",
+  "romaji" : null,
+  "meaning" : [ "自由自在，不受拘束；熟练，巧妙。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9481,
+  "word" : "自宅",
+  "reading" : "じたく",
+  "romaji" : null,
+  "meaning" : [ "自己的家，私人住宅" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9482,
+  "word" : "自家用車",
+  "reading" : "じかようしゃ",
+  "romaji" : null,
+  "meaning" : [ "私人拥有并用于自己日常出行等的汽车" ],
+  "notes" : [ "指个人所有、供自己使用的汽车" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9483,
+  "word" : "自尊心",
+  "reading" : "じそんしん",
+  "romaji" : null,
+  "meaning" : [ "自我尊重的情感，对自己的价值和尊严的重视" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9484,
+  "word" : "自己PR",
+  "reading" : "じこピーアール",
+  "romaji" : null,
+  "meaning" : [ "自我宣传，自我推销" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9485,
+  "word" : "自己中心的",
+  "reading" : "じこちゅうしんてき",
+  "romaji" : null,
+  "meaning" : [ "以自我为中心，只考虑自己的利益、感受等，不顾及他人。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9486,
+  "word" : "自律",
+  "reading" : "じりつ",
+  "romaji" : null,
+  "meaning" : [ "自己規律を守ること。自己管理すること。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9487,
+  "word" : "自慢",
+  "reading" : "じまん",
+  "romaji" : null,
+  "meaning" : [ "骄傲，自满；夸耀，炫耀" ],
+  "notes" : [ "作为サ变动词时，其基本形为「自慢する」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9488,
+  "word" : "自我",
+  "reading" : "じが",
+  "romaji" : null,
+  "meaning" : [ "自己，自身，自我意识。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9489,
+  "word" : "自殺",
+  "reading" : "じさつ",
+  "romaji" : null,
+  "meaning" : [ "自己结束生命的行为" ],
+  "notes" : [ "该词为サ变动词的词干，在句子中常作サ变动词使用，如「自殺する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9490,
+  "word" : "自炊",
+  "reading" : "じすい",
+  "romaji" : null,
+  "meaning" : [ "自己做饭" ],
+  "notes" : [ "サ变动词，其词干为‘自炊’，词尾为‘する’，按する型动词活用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9491,
+  "word" : "自然",
+  "reading" : "しぜん",
+  "romaji" : null,
+  "meaning" : [ "大自然；自然，不做作；天然的；理所当然的" ],
+  "notes" : [ "该词既可以表示大自然这一实体概念，也可用于形容人的行为、状态等自然不做作，还能表示天然的、理所当然的意思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9492,
+  "word" : "自然に",
+  "reading" : "しぜんに",
+  "romaji" : null,
+  "meaning" : [ "自然而然地；自然地" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9493,
+  "word" : "自由",
+  "reading" : "じゆう",
+  "romaji" : null,
+  "meaning" : [ "不受拘束、限制，能够按照自己的意愿行动或思考的状态" ],
+  "notes" : [ "该词常与「を」搭配使用，表示动作的对象；与「で」搭配使用，表示方式、手段等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9494,
+  "word" : "自由席",
+  "reading" : "じゆうせき",
+  "romaji" : null,
+  "meaning" : [ "自由座位，即没有指定座位，可以自由选择就坐的座位。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9495,
+  "word" : "自由行動",
+  "reading" : "じゆうこうどう",
+  "romaji" : null,
+  "meaning" : [ "不受拘束地自主进行活动" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9496,
+  "word" : "自白",
+  "reading" : "じはく",
+  "romaji" : null,
+  "meaning" : [ "自己の罪や過ちを明かすこと。また、自分自身の考えや感情を打ち明けること。" ],
+  "notes" : [ "「自白」は、主に犯罪や過ちを明かす場合に用いられますが、日常会話で自分自身の考えや感情を打ち明ける際にも使われます。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9497,
+  "word" : "自立",
+  "reading" : "じりつ",
+  "romaji" : null,
+  "meaning" : [ "自己独立，依靠自己的力量生活、行动等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9498,
+  "word" : "自粛",
+  "reading" : "じしゅく",
+  "romaji" : null,
+  "meaning" : [ "自我约束，自我克制" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9499,
+  "word" : "自給",
+  "reading" : "じきゅう",
+  "romaji" : null,
+  "meaning" : [ "自己供給すること。自分たちで必要なものを調達すること。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9500,
+  "word" : "自習",
+  "reading" : "じしゅう",
+  "romaji" : null,
+  "meaning" : [ "自己学习。通过自己阅读、练习等方式获取知识或技能。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

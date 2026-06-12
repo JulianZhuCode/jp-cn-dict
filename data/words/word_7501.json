@@ -1,0 +1,901 @@
+[ {
+  "id" : 7501,
+  "word" : "気安い",
+  "reading" : "きやすい",
+  "romaji" : null,
+  "meaning" : [ "不拘束的，轻松自在的，毫无顾虑的，不客气的" ],
+  "notes" : [ "「気が安い」の略語的表現で、主に人の性格や雰囲気、相手への態度などに用いられる。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7502,
+  "word" : "気心",
+  "reading" : "きごころ",
+  "romaji" : null,
+  "meaning" : [ "性情，脾气，心地，内心" ],
+  "notes" : [ "通常用于「気心が良い」「気心が合う」等固定搭配中使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7503,
+  "word" : "気持ち",
+  "reading" : "きもち",
+  "romaji" : null,
+  "meaning" : [ "心情，情绪，感受；感觉，手感；心意，体贴" ],
+  "notes" : [ "常用表达有「気持ちがいい」（心情好/感觉舒服）、「気持ち悪い」（不舒服/恶心）、「気持ちを込める」（倾注心意）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7504,
+  "word" : "気持ちがいい",
+  "reading" : "きもちがいい",
+  "romaji" : null,
+  "meaning" : [ "感觉舒服，心情愉快，令人心情舒畅" ],
+  "notes" : [ "由名词「気持ち」和形容词「いい」构成的复合形容词，用于表达身体或心理上的舒适感受。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7505,
+  "word" : "気持ち悪い",
+  "reading" : "きもちわるい",
+  "romaji" : null,
+  "meaning" : [ "不舒服，恶心；令人不快，令人作呕；感觉不对劲" ],
+  "notes" : [ "常用表达，可用于描述身体不适或心理上的厌恶感。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7506,
+  "word" : "気楽",
+  "reading" : "きらく",
+  "romaji" : null,
+  "meaning" : [ "轻松，舒适，无忧无虑，安逸" ],
+  "notes" : [ "既可作为形容动词（ナ形容词）使用，也可作为名词使用，此处主要收录其形容动词用法。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7507,
+  "word" : "気温",
+  "reading" : "きおん",
+  "romaji" : null,
+  "meaning" : [ "气温，空气的温度" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7508,
+  "word" : "気管",
+  "reading" : "きかん",
+  "romaji" : null,
+  "meaning" : [ "气管，连接喉咙和肺部的呼吸器官" ],
+  "notes" : [ "医学用語，解剖学用語" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7509,
+  "word" : "気触れる",
+  "reading" : "きふれる",
+  "romaji" : null,
+  "meaning" : [ "1. 皮肤红肿，发炎，过敏；2. （对事物）着迷，热衷于" ],
+  "notes" : [ "「気触れる」是自动词，前接「で」表示原因。第二义项通常用于表达对某种事物产生强烈兴趣并沉浸其中的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7510,
+  "word" : "気象",
+  "reading" : "きしょう",
+  "romaji" : null,
+  "meaning" : [ "气象，天气状况" ],
+  "notes" : [ "「天性、脾气、秉性」は「気性（きしょう）」の意味であり、「気象」とは異なる単語です。注意して使い分けてください。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7511,
+  "word" : "気象庁",
+  "reading" : "きしょうちょう",
+  "romaji" : null,
+  "meaning" : [ "日本负责气象观测、预报及气象灾害预警等事务的政府机构，相当于中国的气象局。" ],
+  "notes" : [ "日本の気象行政を担当する政府機関です。英語表記は Japan Meteorological Agency (JMA)。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7512,
+  "word" : "気質",
+  "reading" : "きしつ",
+  "romaji" : null,
+  "meaning" : [ "秉性，性格，气质，性情" ],
+  "notes" : [ "指人天生具有的性格倾向或气质特征，也可用于形容事物的风格特点。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7513,
+  "word" : "気軽",
+  "reading" : "きがる",
+  "romaji" : null,
+  "meaning" : [ "形容动词。轻松，随意，不拘束，爽快。指心态或行为上没有负担、不拘谨的状态。" ],
+  "notes" : [ "「気軽」は主に人の気持ちや行動の態度を表す形容動詞です。名詞としても使用されることがありますが、形容動詞としての用法が一般的です。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7514,
+  "word" : "気遣う",
+  "reading" : "きづかう",
+  "romaji" : null,
+  "meaning" : [ "担心，挂念，关怀，操心" ],
+  "notes" : [ "「気遣い」（名词）、「気遣わしい」（形容词）等派生形常用" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7515,
+  "word" : "気配",
+  "reading" : "けはい",
+  "romaji" : null,
+  "meaning" : [ "迹象，苗头；气氛，情形；（行情的）动态" ],
+  "notes" : [ "通常用于表示某种事物或情况存在的细微迹象或氛围，可通过感官感知到的间接信息。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7516,
+  "word" : "気障",
+  "reading" : "きざ",
+  "romaji" : null,
+  "meaning" : [ "装模作样的，做作的，令人不快的；过分讲究的，过于华丽的" ],
+  "notes" : [ "「気障」は主にマイナスの意味で使用され、相手の振る舞いや外見が不自然で不愉快に感じられることを表す。若者の間では「きざい」という形で形容詞的にも使用されることがあるが、標準的には形容動詞として扱われる。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7517,
+  "word" : "気難しい",
+  "reading" : "きむずかしい",
+  "romaji" : null,
+  "meaning" : [ "难以取悦的，不好伺候的，性情乖僻的，难以相处的" ],
+  "notes" : [ "形容人性格难以相处，不易接近。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7518,
+  "word" : "水",
+  "reading" : "みず",
+  "romaji" : null,
+  "meaning" : [ "水；冷水；饮用水" ],
+  "notes" : [ "常用汉字，可用于构成复合词如「水道」「水曜日」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7519,
+  "word" : "水っぽい",
+  "reading" : "みずっぽい",
+  "romaji" : null,
+  "meaning" : [ "水分多的，含水过多的；（味道）淡的，稀薄的；（内容）空洞的，缺乏实质的" ],
+  "notes" : [ "イ形容词，「水」(みず)与接尾词「っぽい」组合而成，表示具有过多水分或类似水的性质。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7520,
+  "word" : "水上",
+  "reading" : "すいじょう",
+  "romaji" : null,
+  "meaning" : [ "水上，水面上；（特定的）水名" ],
+  "notes" : [ "表示“水名”时，通常指特定的地名或河流名称，使用时需结合具体语境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7521,
+  "word" : "水分",
+  "reading" : "すいぶん",
+  "romaji" : null,
+  "meaning" : [ "水分，液体成分" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7522,
+  "word" : "水割り",
+  "reading" : "みずわり",
+  "romaji" : null,
+  "meaning" : [ "掺水酒，用水稀释的酒（特指威士忌等蒸馏酒中加水饮用的方式或成品）" ],
+  "notes" : [ "通常指在威士忌等蒸馏酒中加入适量水饮用的方式，也可指由此制成的饮品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7523,
+  "word" : "水増し",
+  "reading" : "みずまし",
+  "romaji" : null,
+  "meaning" : [ "1. 掺水，兑水；2. （为增加数量、金额等而）弄虚作假，虚报，夸大" ],
+  "notes" : [ "作为名词使用时可构成「水増しをする」的表达，作サ変动词时直接使用「水増しする」的形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7524,
+  "word" : "水害",
+  "reading" : "すいがい",
+  "romaji" : null,
+  "meaning" : [ "洪水，水灾，因水造成的灾害" ],
+  "notes" : [ "指因暴雨、洪水、河水泛滥等导致的灾害" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7525,
+  "word" : "水平",
+  "reading" : "すいへい",
+  "romaji" : null,
+  "meaning" : [ "1. 水平方向；与地面平行的方向 2. （能力、程度等的）水平，水准 3. 平稳，没有倾斜" ],
+  "notes" : [ "形容動詞として使用する場合は「水平だ」「水平で」「水平に」などの形で活用する。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7526,
+  "word" : "水曜日",
+  "reading" : "すいようび",
+  "romaji" : null,
+  "meaning" : [ "星期三" ],
+  "notes" : [ "「曜日」系列词汇之一，指一周中的第三天。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7527,
+  "word" : "水槽",
+  "reading" : "すいそう",
+  "romaji" : null,
+  "meaning" : [ "水槽，水箱，蓄水池，鱼缸" ],
+  "notes" : [ "可指厨房的洗菜池、养鱼的鱼缸、工业用的蓄水池等多种储水容器。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7528,
+  "word" : "水気",
+  "reading" : "すいき",
+  "romaji" : null,
+  "meaning" : [ "水分，湿气" ],
+  "notes" : [ "指物体中含有的水分或空气中的湿气。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7529,
+  "word" : "水没",
+  "reading" : "すいぼつ",
+  "romaji" : null,
+  "meaning" : [ "淹没，没入水中；（因洪水等）被水淹没" ],
+  "notes" : [ "「水没する」の形で動詞として使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7530,
+  "word" : "水泳",
+  "reading" : "すいえい",
+  "romaji" : null,
+  "meaning" : [ "游泳，水泳" ],
+  "notes" : [ "可作名词使用，也可加「する」构成サ変动词「水泳する」（游泳）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7531,
+  "word" : "水泳選手",
+  "reading" : "すいえいせんしゅ",
+  "romaji" : null,
+  "meaning" : [ "游泳选手，从事游泳运动的运动员" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7532,
+  "word" : "水源",
+  "reading" : "すいげん",
+  "romaji" : null,
+  "meaning" : [ "水の出所。川・湖・泉など、水が供給される源。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7533,
+  "word" : "水準",
+  "reading" : "すいじゅん",
+  "romaji" : null,
+  "meaning" : [ "水准；水平，标准；程度，级别" ],
+  "notes" : [ "「水準」は主に物事の程度や基準を表す名詞で、「レベル」とほぼ同義ですが、やや硬い表現です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7534,
+  "word" : "水溜り",
+  "reading" : "みずたまり",
+  "romaji" : null,
+  "meaning" : [ "水洼，水坑，积水处" ],
+  "notes" : [ "由「水」(みず)和「溜り」(たまり)构成的复合名词，表示雨水等积聚形成的小水洼。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7535,
+  "word" : "水滴",
+  "reading" : "すいてき",
+  "romaji" : null,
+  "meaning" : [ "水滴，水珠" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7536,
+  "word" : "水炊き",
+  "reading" : "みずたき",
+  "romaji" : null,
+  "meaning" : [ "名词，鸡肉蔬菜火锅，以鸡肉、蔬菜等食材在清淡的高汤中涮煮的日式火锅" ],
+  "notes" : [ "通常使用鶏肉、白菜、葱、蘑菇等食材，蘸着柑橘醋或芝麻酱食用，是日本冬季常见的火锅料理" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7537,
+  "word" : "水産",
+  "reading" : "すいさん",
+  "romaji" : null,
+  "meaning" : [ "水产，水产物，水产业" ],
+  "notes" : [ "指从海洋、湖泊、河流等水域获取的动植物及其相关产业。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7538,
+  "word" : "水着",
+  "reading" : "みずぎ",
+  "romaji" : null,
+  "meaning" : [ "泳装，泳衣" ],
+  "notes" : [ "通常指女性或男性的游泳衣，包括连体式、分体式等各种款式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7539,
+  "word" : "水筒",
+  "reading" : "すいとう0",
+  "romaji" : null,
+  "meaning" : [ "名 水壶，水瓶（通常指便携式的盛水容器）" ],
+  "notes" : [ "日常会話でよく使用される単語で、主に外出時に水を持ち運ぶための容器を指します。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7540,
+  "word" : "水素",
+  "reading" : "すいそ",
+  "romaji" : null,
+  "meaning" : [ "氢，氢气" ],
+  "notes" : [ "化学元素の一つで、原子番号1の元素。宇宙で最も豊富な元素である。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7541,
+  "word" : "水色",
+  "reading" : "みずいろ",
+  "romaji" : null,
+  "meaning" : [ "淡蓝色，浅蓝色" ],
+  "notes" : [ "由「水」（みず）和「色」（いろ）组合而成的复合名词，指像水一样清澈的淡蓝色。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7542,
+  "word" : "水質",
+  "reading" : "すいしつ",
+  "romaji" : null,
+  "meaning" : [ "水质，指水的物理、化学和生物特性的总和" ],
+  "notes" : [ "常用环境、健康相关词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7543,
+  "word" : "水道",
+  "reading" : "すいどう0",
+  "romaji" : null,
+  "meaning" : [ "自来水；自来水管道；水道，水路" ],
+  "notes" : [ "常用「水道水」表示自来水，「水道管」表示自来水管" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7544,
+  "word" : "水道局",
+  "reading" : "すいどうきょく",
+  "romaji" : null,
+  "meaning" : [ "名词 负责自来水供应、下水道管理等的地方政府机构或公共事业部门" ],
+  "notes" : [ "属于公共事业相关词汇，常见于日常生活场景中" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7545,
+  "word" : "水道水",
+  "reading" : "すいどうすい",
+  "romaji" : null,
+  "meaning" : [ "自来水，通过管道供应的饮用水" ],
+  "notes" : [ "由「水道」（供水系统）和「水」（水）组成的复合词，指通过公共供水系统提供的水" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7546,
+  "word" : "水道管",
+  "reading" : "すいどうかん",
+  "romaji" : null,
+  "meaning" : [ "自来水管道，供水管" ],
+  "notes" : [ "由「水道」（自来水）和「管」（管子）组成的复合名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7547,
+  "word" : "水郷",
+  "reading" : "すいごう",
+  "romaji" : null,
+  "meaning" : [ "水に囲まれた町や地域。水辺の風景が特徴的な場所。" ],
+  "notes" : [ "「水郷」は漢語的表現で、自然や観光の文脈でよく使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7548,
+  "word" : "氷",
+  "reading" : "こおり0",
+  "romaji" : null,
+  "meaning" : [ "名词 冰，冰块" ],
+  "notes" : [ "「氷」是「水」在低温下凝固形成的固体。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7549,
+  "word" : "氷河期",
+  "reading" : "ひょうがき",
+  "romaji" : null,
+  "meaning" : [ "名词 冰河期，冰川期（地球历史上气候寒冷，大陆被大规模冰川覆盖的时期）" ],
+  "notes" : [ "地质学及气候学相关术语，指地球表面大规模被冰川覆盖的寒冷时期" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7550,
+  "word" : "永久",
+  "reading" : "えいきゅう",
+  "romaji" : null,
+  "meaning" : [ "永久，永远，永恒" ],
+  "notes" : [ "可作为名词单独使用，也可后续「の」作连体修饰语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7551,
+  "word" : "永遠",
+  "reading" : "えいえん",
+  "romaji" : null,
+  "meaning" : [ "永远，永恒，永久" ],
+  "notes" : [ "可作为副词使用，如「永遠に続く」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7552,
+  "word" : "氾濫",
+  "reading" : "はんらん",
+  "romaji" : null,
+  "meaning" : [ "泛滥，溢出；（不良现象等）蔓延，泛滥" ],
+  "notes" : [ "「氾濫する」（はんらんする）为动词形式，属于サ行変格活用（サ変活用）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7553,
+  "word" : "汁",
+  "reading" : "しる",
+  "romaji" : null,
+  "meaning" : [ "汤汁，汤；（水果、蔬菜等的）汁液，汁水" ],
+  "notes" : [ "常用汉字词，可构成复合词如「味噌汁」「果汁」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7554,
+  "word" : "求めます",
+  "reading" : "もとめます",
+  "romaji" : null,
+  "meaning" : [ "要求；寻求；追求；请求；征求" ],
+  "notes" : [ "「求める」的敬体形式，基本形为「求める」(もとめる)" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7555,
+  "word" : "求める",
+  "reading" : "もとめる",
+  "romaji" : null,
+  "meaning" : [ "1. 寻求，追求，探求；2. 要求，请求，征求；3. 购买，求购；4. 需要，需求" ],
+  "notes" : [ "他动词。「求める」比「求う（もとう）」更书面化，使用范围更广。可用于抽象事物（如梦想、真理）和具体事物（如物品、意见）。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7556,
+  "word" : "求人難",
+  "reading" : "きゅうじんなん",
+  "romaji" : null,
+  "meaning" : [ "招聘困难，招工难" ],
+  "notes" : [ "由「求人」（招聘）和「難」（困难）构成的复合名词，指企业等难以招聘到合适人才的状况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7557,
+  "word" : "求婚",
+  "reading" : "きゅうこん",
+  "romaji" : null,
+  "meaning" : [ "求婚，请求结婚" ],
+  "notes" : [ "「求婚する」の形で动词として使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7558,
+  "word" : "求職",
+  "reading" : "きゅうしょく",
+  "romaji" : null,
+  "meaning" : [ "求职，找工作" ],
+  "notes" : [ "「求職」は名詞で、動詞として使用する場合は「求職する」の形を取ります。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7559,
+  "word" : "汗",
+  "reading" : "あせ",
+  "romaji" : null,
+  "meaning" : [ "汗水，汗珠" ],
+  "notes" : [ "「汗をかく」是固定搭配，表示“出汗”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7560,
+  "word" : "汗臭い",
+  "reading" : "あせがるい",
+  "romaji" : null,
+  "meaning" : [ "有汗臭味的，汗馊的" ],
+  "notes" : [ "イ形容词，由「汗（あせ）」和「臭い（がるい）」复合而成。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7561,
+  "word" : "汚い",
+  "reading" : "きたない",
+  "romaji" : null,
+  "meaning" : [ "脏的，不干净的；卑鄙的，卑劣的；不道德的，不正当的" ],
+  "notes" : [ "イ形容詞。否定形「汚くない」、過去形「汚かった」。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7562,
+  "word" : "汚します",
+  "reading" : "よごします",
+  "romaji" : null,
+  "meaning" : [ "弄脏，玷污；使不纯洁，败坏" ],
+  "notes" : [ "「汚す」の尊敬形または丁寧形。基本形は「汚す（よごす）」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7563,
+  "word" : "汚す",
+  "reading" : "よごす",
+  "romaji" : null,
+  "meaning" : [ "弄脏，玷污，污染" ],
+  "notes" : [ "他动词，对应的自动词为「汚れる（よごれる）」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7564,
+  "word" : "汚らわしい",
+  "reading" : "けがらわしい",
+  "romaji" : null,
+  "meaning" : [ "污秽的，肮脏的；卑鄙的，卑劣的，令人不齿的" ],
+  "notes" : [ "形容词「汚い」（きたない）的强调形，语气更强，带有厌恶感。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7565,
+  "word" : "汚れ",
+  "reading" : "よごれ",
+  "romaji" : null,
+  "meaning" : [ "污渍，污垢，肮脏之处；污点，瑕疵，不光彩" ],
+  "notes" : [ "「汚れる」（自動詞）の名詞形。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7566,
+  "word" : "汚れます",
+  "reading" : "よごれます",
+  "romaji" : null,
+  "meaning" : [ "变脏，被弄脏" ],
+  "notes" : [ "「汚れる」的礼貌形，自动词，表示状态的变化。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7567,
+  "word" : "汚れる",
+  "reading" : "よごれる",
+  "romaji" : null,
+  "meaning" : [ "变脏，被污染，玷污，（名誉等）受损" ],
+  "notes" : [ "自动词，表示状态变化，对应的他动词为「汚す（よごす）」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7568,
+  "word" : "汚染",
+  "reading" : "おせん",
+  "romaji" : null,
+  "meaning" : [ "污染，弄脏，指有害物质或因素进入环境，使环境质量下降的现象" ],
+  "notes" : [ "可与动词「する」结合构成サ变动词「汚染する」（おせんする），表示“污染”的动作" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7569,
+  "word" : "汚職",
+  "reading" : "おしょく",
+  "romaji" : null,
+  "meaning" : [ "贪污，渎职，腐败行为" ],
+  "notes" : [ "指公职人员利用职务之便进行的贪污受贿等违法行为" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7570,
+  "word" : "汚職事件",
+  "reading" : "おしょくじけん",
+  "romaji" : null,
+  "meaning" : [ "名 贪污事件，腐败事件" ],
+  "notes" : [ "「汚職」（おしょく）は公務員などが職権を利用して不正な利益を得る行為を指し、「事件」（じけん）と組み合わせてそのような行為に関する事件を表す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7571,
+  "word" : "江戸前",
+  "reading" : "えどまえ",
+  "romaji" : null,
+  "meaning" : [ "指江户时代以来在东京湾（江户湾）捕获的新鲜鱼类，特别是适合制作寿司的优质鱼类；也指以此类鱼为原料制作的江户风格寿司等料理" ],
+  "notes" : [ "「江戸前」一词源于江户时代，当时江户（现东京）的寿司师傅使用东京湾当天捕获的新鲜鱼类制作寿司，形成了独特的江户风格。现在泛指东京地区的传统寿司风格，强调食材的新鲜度和原味。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7572,
+  "word" : "池",
+  "reading" : "いけ",
+  "romaji" : null,
+  "meaning" : [ "池塘，水池，池子" ],
+  "notes" : [ "常用汉字，可用于表示自然或人工的小型水域" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7573,
+  "word" : "汲む",
+  "reading" : "くむ",
+  "romaji" : null,
+  "meaning" : [ "1. 打水，汲水；2. 斟，倒（茶、酒等）；3. 吸取，吸收（知识、经验等）" ],
+  "notes" : [ "「汲む」は基本的に液体を取り出す动作を表すが、抽象的なもの（知識や教訓など）を「吸収する」意味でも使用される。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7574,
+  "word" : "決して",
+  "reading" : "けっして",
+  "romaji" : null,
+  "meaning" : [ "副词 绝对（不），决（不），断然（不）。用于强调否定，通常与否定形式呼应使用。" ],
+  "notes" : [ "常与「ない」「ません」「ず」等否定表达连用，加强否定语气。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7575,
+  "word" : "決まって",
+  "reading" : "きまって",
+  "romaji" : null,
+  "meaning" : [ "一定，必定，总是" ],
+  "notes" : [ "由动词「決まる」的连用形「決まっ」后续「て」构成的副词性表达，表示某种行为或状态习惯性地、规律性地发生。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7576,
+  "word" : "決まり",
+  "reading" : "きまり0",
+  "romaji" : null,
+  "meaning" : [ "规定，规则，规章；决定，结果；习惯，惯例" ],
+  "notes" : [ "「決まり事（きまりごと）」是其常见复合词形式，意为“规定事项，规章制度”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7577,
+  "word" : "決まります",
+  "reading" : "きまります",
+  "romaji" : null,
+  "meaning" : [ "决定，规定，固定，确定" ],
+  "notes" : [ "「決まります」是「決まる」的礼貌形，自动词，表示事物自然地确定下来或被规定。其对应的他动词为「決める」（决定，决心）。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7578,
+  "word" : "決まり悪い",
+  "reading" : "きまりわるい",
+  "romaji" : null,
+  "meaning" : [ "不好意思的，难为情的，尴尬的，不自然的" ],
+  "notes" : [ "イ形容词，由「決まり」（决定，规定）和「悪い」（坏的，不好的）构成，用于形容因事情未按预期发展或处于尴尬状况而感到不自在的心情。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7579,
+  "word" : "決まり文句",
+  "reading" : "きまりもんく",
+  "romaji" : null,
+  "meaning" : [ "口头禅，老一套的话，固定说法，惯用句" ],
+  "notes" : [ "指经常使用的、固定不变的语句或表达方式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7580,
+  "word" : "決まる",
+  "reading" : "きまる",
+  "romaji" : null,
+  "meaning" : [ "决定，规定；确定，固定；解决，了结；（命运等）注定" ],
+  "notes" : [ "自动词，强调结果而非动作主体，对应的他动词为「決める」（きめる）" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7581,
+  "word" : "決めます",
+  "reading" : "きめます",
+  "romaji" : null,
+  "meaning" : [ "决定，规定，选定，下决心" ],
+  "notes" : [ "「決める」的礼貌形，基本形为「決める」（きめる）" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7582,
+  "word" : "決める",
+  "reading" : "きめる",
+  "romaji" : null,
+  "meaning" : [ "决定，规定，选定，判断，断定" ],
+  "notes" : [ "他动词，基本形为「決める」，过去式「決めた」，否定形「決めない」，可能形「決められる」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7583,
+  "word" : "決め付ける",
+  "reading" : "きめつける",
+  "romaji" : null,
+  "meaning" : [ "（不容分说地）断定，认定；（强行）决定；指责，申斥" ],
+  "notes" : [ "他动词。表示在没有充分听取对方意见或没有确凿证据的情况下，单方面做出判断或决定。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7584,
+  "word" : "決勝",
+  "reading" : "けっしょう",
+  "romaji" : null,
+  "meaning" : [ "决赛，决定胜负的比赛" ],
+  "notes" : [ "「決勝戦」（けっしょうせん）としてよく使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7585,
+  "word" : "決定",
+  "reading" : "けってい",
+  "romaji" : null,
+  "meaning" : [ "名词：决定，决断；サ変动词：决定，确定" ],
+  "notes" : [ "「決定」は名詞としても使用でき、サ変動詞としても使用できる。サ変動詞として使う場合は「決定する」「決定される」などの形で活用する。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7586,
+  "word" : "決心",
+  "reading" : "けっしん",
+  "romaji" : null,
+  "meaning" : [ "名词：决心，决意；サ変动词：下决心，决意" ],
+  "notes" : [ "「決心」は名词としても使用され、「～する」をつけてサ変动词としても使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7587,
+  "word" : "決意",
+  "reading" : "けつい",
+  "romaji" : null,
+  "meaning" : [ "决心，决意，坚定的意志" ],
+  "notes" : [ "可作名词使用，也可构成动词性短语「決意する」（する动词）表示下决心的动作" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7588,
+  "word" : "決断",
+  "reading" : "けつだん",
+  "romaji" : null,
+  "meaning" : [ "决断，果断做出决定" ],
+  "notes" : [ "可与动词「下す」「する」搭配使用，构成「決断を下す」「決断する」等表达" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7589,
+  "word" : "決済",
+  "reading" : "けっさい",
+  "romaji" : null,
+  "meaning" : [ "结算，支付，结账；（金融）清算" ],
+  "notes" : [ "可作サ変動詞使用（決済する）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7590,
+  "word" : "決着",
+  "reading" : "けっちゃく",
+  "romaji" : null,
+  "meaning" : [ "了结，解决，决断，最终结果" ],
+  "notes" : [ "通常使用「決着がつく」（自动词）或「決着をつける」（他动词）的形式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7591,
+  "word" : "決算",
+  "reading" : "けっさん",
+  "romaji" : null,
+  "meaning" : [ "结算，决算，(财务)结账" ],
+  "notes" : [ "可作サ変動詞使用，如「決算する」（进行结算）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7592,
+  "word" : "決行",
+  "reading" : "けっこう",
+  "romaji" : null,
+  "meaning" : [ "决定并实行；断然执行，坚决实施" ],
+  "notes" : [ "「決行する」の形で动词として使用されることが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7593,
+  "word" : "決裁",
+  "reading" : "けっさい",
+  "romaji" : null,
+  "meaning" : [ "裁决，审批，批准（指对重要事项进行正式的审查和决定）" ],
+  "notes" : [ "可作サ変動詞使用，构成「決裁する」的形式，意为“进行裁决/审批”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7594,
+  "word" : "決議",
+  "reading" : "けつぎ",
+  "romaji" : null,
+  "meaning" : [ "决议，正式决定" ],
+  "notes" : [ "可作サ変動詞使用，构成「決議する」（决议，做出决定）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7595,
+  "word" : "汽車",
+  "reading" : "きしゃ",
+  "romaji" : null,
+  "meaning" : [ "火车，蒸汽机车" ],
+  "notes" : [ "主要指蒸汽机车，现代电车、动车等通常用「電車」「列車」表示" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7596,
+  "word" : "沈む",
+  "reading" : "しずむ",
+  "romaji" : null,
+  "meaning" : [ "1. （太阳、月亮等）落下，沉落；2. （船等）沉没；3. （情绪、声音等）低沉，消沉；4. （颜色等）变深，暗淡" ],
+  "notes" : [ "自动词，常用「~に沈む」的形式表示沉没或落下的方向/地点" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7597,
+  "word" : "沈める",
+  "reading" : "しずめる",
+  "romaji" : null,
+  "meaning" : [ "1. 使下沉，使沉没；2. 使降落，使落下；3. 使消沉，使沮丧；4. （把目光等）向下看，垂下" ],
+  "notes" : [ "「沈める」是他动词，对应的自动词为「沈む（しずむ）」。表示人为地使物体下沉或使抽象事物（如心情）变得低落。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7598,
+  "word" : "沈殿",
+  "reading" : "ちんでん",
+  "romaji" : null,
+  "meaning" : [ "沉淀；沉积" ],
+  "notes" : [ "可作为サ变动词使用，构成「沈殿する」的形式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7599,
+  "word" : "沈黙",
+  "reading" : "ちんもく",
+  "romaji" : null,
+  "meaning" : [ "名词 沉默，默不作声" ],
+  "notes" : [ "「沈黙する」の形で動詞としても使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7600,
+  "word" : "沖",
+  "reading" : "おき",
+  "romaji" : null,
+  "meaning" : [ "海上，洋面；湖心，湖心处；离岸较远的地方" ],
+  "notes" : [ "通常指距离岸边有一定距离的水域，可用于海洋、湖泊等场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

@@ -1,0 +1,901 @@
+[ {
+  "id" : 6701,
+  "word" : "方",
+  "reading" : "ほう",
+  "romaji" : null,
+  "meaning" : [ "1. 方向，方面；2. 表示人的敬称；3. 方法，办法" ],
+  "notes" : [ "“方”作人的敬称时，比“人（ひと）”更礼貌、尊敬。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6702,
+  "word" : "方々",
+  "reading" : "かたがた",
+  "romaji" : null,
+  "meaning" : [ "名词。1. 各位，诸位；2. 各处，到处。" ],
+  "notes" : [ "「方々」在表示“各位，诸位”时，常用于正式、礼貌的场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6703,
+  "word" : "方位",
+  "reading" : "ほうい",
+  "romaji" : null,
+  "meaning" : [ "方位，方向" ],
+  "notes" : [ "常用于描述空间中的方向位置等场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6704,
+  "word" : "方向",
+  "reading" : "ほうこう",
+  "romaji" : null,
+  "meaning" : [ "方向；方位；方面" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6705,
+  "word" : "方式",
+  "reading" : "ほうしき",
+  "romaji" : null,
+  "meaning" : [ "方式，形式；方法" ],
+  "notes" : [ "该词为音读词汇，在日常和商务场景中常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6706,
+  "word" : "方法",
+  "reading" : "ほうほう",
+  "romaji" : null,
+  "meaning" : [ "方法；办法" ],
+  "notes" : [ "常用于描述解决问题、完成事情的途径或方式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6707,
+  "word" : "方程式",
+  "reading" : "ほうていしき",
+  "romaji" : null,
+  "meaning" : [ "（数学）方程式，等式；（化学）反应式" ],
+  "notes" : [ "常用于数学和化学领域，在数学中表示含有未知数的等式，在化学中表示化学反应的式子。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6708,
+  "word" : "方策",
+  "reading" : "ほうさく",
+  "romaji" : null,
+  "meaning" : [ "方法，策略；对策" ],
+  "notes" : [ "常用于较为正式的场合，讨论解决问题的办法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6709,
+  "word" : "方角",
+  "reading" : "ほうかく",
+  "romaji" : null,
+  "meaning" : [ "方向；方位" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6710,
+  "word" : "方言",
+  "reading" : "ほうげん",
+  "romaji" : null,
+  "meaning" : [ "名词，指某个地区特有的语言，即方言、地方话" ],
+  "notes" : [ "该词为音读词汇，在使用时注意与标准语进行区分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6711,
+  "word" : "方針",
+  "reading" : "ほうしん",
+  "romaji" : null,
+  "meaning" : [ "方针，方向；政策，计划" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6712,
+  "word" : "方面",
+  "reading" : "ほうめん",
+  "romaji" : null,
+  "meaning" : [ "方向；方面；领域" ],
+  "notes" : [ "该词常用于描述某个特定的方向、领域或范围。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6713,
+  "word" : "施す",
+  "reading" : "ほどこす",
+  "romaji" : null,
+  "meaning" : [ "1. 施加；给予。例：恩恵を施す（给予恩惠）。2. 实施；施行。例：治療を施す（进行治疗）。3. 散布；涂抹。例：肥料を施す（施肥）。" ],
+  "notes" : [ "该词为五段动词，词尾变化遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6714,
+  "word" : "施策",
+  "reading" : "しさく",
+  "romaji" : null,
+  "meaning" : [ "对策，措施；指为了达到某种目的而采取的具体方法或行动" ],
+  "notes" : [ "常用于正式场合，描述政策、计划等方面的具体措施。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6715,
+  "word" : "施行",
+  "reading" : "しこう",
+  "romaji" : null,
+  "meaning" : [ "实施，实行；执行；推行；施行。通常用于指按照规定、计划等进行某项行动或措施。" ],
+  "notes" : [ "「施行」一般用于较为正式的场合，如法律、政策、制度等的实施。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6716,
+  "word" : "施設",
+  "reading" : "しせつ",
+  "romaji" : null,
+  "meaning" : [ "设施；设备" ],
+  "notes" : [ "该词为音读词，日常使用中常用于描述各种公共或私人场所的设施、装备等相关内容。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6717,
+  "word" : "旅",
+  "reading" : "たび",
+  "romaji" : null,
+  "meaning" : [ "旅行，旅途；旅程；外出；远游" ],
+  "notes" : [ "常见搭配有「旅をする」（去旅行）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6718,
+  "word" : "旅券",
+  "reading" : "りょけん",
+  "romaji" : null,
+  "meaning" : [ "护照；旅行证件" ],
+  "notes" : [ "常用于出国旅行等场景，是重要的身份证明文件。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6719,
+  "word" : "旅立つ",
+  "reading" : "たびだつ",
+  "romaji" : null,
+  "meaning" : [ "启程，出发；踏上旅途" ],
+  "notes" : [ "该词为自动词，描述人开始踏上旅程的动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6720,
+  "word" : "旅行",
+  "reading" : "りょこう",
+  "romaji" : null,
+  "meaning" : [ "旅行；旅游；游历" ],
+  "notes" : [ "该词为音读词，在日语中常与相关动词搭配使用，如「する」构成「旅行する」表达旅行的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6721,
+  "word" : "旅行予定",
+  "reading" : "りょこうよてい",
+  "romaji" : null,
+  "meaning" : [ "旅行计划" ],
+  "notes" : [ "该词为名词，无词形变化，“予定”常用来表示计划、安排等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6722,
+  "word" : "旅行代理店",
+  "reading" : "りょこうだいりてん",
+  "romaji" : null,
+  "meaning" : [ "名词，指专门从事旅行相关业务的代理机构，即旅行社、旅游代理公司。" ],
+  "notes" : [ "该词在日常旅游相关场景中较为常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6723,
+  "word" : "旅行会社",
+  "reading" : "りょこうがいしゃ",
+  "romaji" : null,
+  "meaning" : [ "旅行社；旅游公司" ],
+  "notes" : [ "该词汇使用较为常见，在日常生活中涉及旅游相关事宜时会经常用到。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6724,
+  "word" : "旅行社",
+  "reading" : "りょこうしゃ",
+  "romaji" : null,
+  "meaning" : [ "旅行社；旅游公司" ],
+  "notes" : [ "该词为音读词汇，在日常旅游相关场景中常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6725,
+  "word" : "旅行者",
+  "reading" : "りょこうしゃ",
+  "romaji" : null,
+  "meaning" : [ "旅行者；旅客" ],
+  "notes" : [ "该词为音读词汇，由“旅行（りょこう）”和“者（しゃ）”组成。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6726,
+  "word" : "旅行ガイド",
+  "reading" : "りょこうガイド",
+  "romaji" : null,
+  "meaning" : [ "旅行导游；旅游向导" ],
+  "notes" : [ "该词由“旅行”和“ガイド（guide）”组成，是外来语和日语固有词汇结合的表达方式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6727,
+  "word" : "旅館",
+  "reading" : "りょかん",
+  "romaji" : null,
+  "meaning" : [ "（日式）旅馆" ],
+  "notes" : [ "主要指具有日本传统风格的住宿场所" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6728,
+  "word" : "旗",
+  "reading" : "はた",
+  "romaji" : null,
+  "meaning" : [ "旗帜；旗子" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6729,
+  "word" : "既成",
+  "reading" : "きせい",
+  "romaji" : null,
+  "meaning" : [ "既成，现有，原有；已经形成的（事物、状态等）" ],
+  "notes" : [ "常用于描述已经存在、形成的事物或局面，通常作为名词使用，无词形变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6730,
+  "word" : "日",
+  "reading" : "にち；ひ",
+  "romaji" : null,
+  "meaning" : [ "1. 太阳；2. 日子，日期；3. 白天，白昼；4. 一天，一昼夜" ],
+  "notes" : [ "「日」有两种常见读音，「にち」常用于表示日期、天数等，「ひ」常用于表示太阳、日子等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6731,
+  "word" : "日々",
+  "reading" : "ひび",
+  "romaji" : null,
+  "meaning" : [ "名词，意为天天、每天；也可指过日子的时光、日子。" ],
+  "notes" : [ "该词较为常用，强调时间上的连续性，用于描述日常的生活状态等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6732,
+  "word" : "日の出",
+  "reading" : "ひので",
+  "romaji" : null,
+  "meaning" : [ "名词，日出；太阳升起的时刻" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6733,
+  "word" : "日中",
+  "reading" : "にっちゅう",
+  "romaji" : null,
+  "meaning" : [ "名词，指日本和中国；也可表示白天、白昼" ],
+  "notes" : [ "「日中」有两种常见含义，在不同语境中需注意区分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6734,
+  "word" : "日付",
+  "reading" : "ひづけ",
+  "romaji" : null,
+  "meaning" : [ "日期；年月日；填写日期" ],
+  "notes" : [ "常用于日常交流和书面文件中，表达与时间相关的日期概念。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6735,
+  "word" : "日光",
+  "reading" : "にっこう",
+  "romaji" : null,
+  "meaning" : [ "日光，阳光；日本栃木县的地名，以日光东照宫等著名的历史古迹和美丽的自然风光闻名" ],
+  "notes" : [ "作地名时，一般首字母大写，如“Nikko”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6736,
+  "word" : "日取り",
+  "reading" : "ひどり",
+  "romaji" : null,
+  "meaning" : [ "日期，日子；日程" ],
+  "notes" : [ "常用于确定或谈论具体的日期、日程安排等场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6737,
+  "word" : "日向",
+  "reading" : "ひなた",
+  "romaji" : null,
+  "meaning" : [ "向阳处，太阳地儿；姓氏。" ],
+  "notes" : [ "“日向”除了表示向阳的地方外，还是一个常见的日本姓氏。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6738,
+  "word" : "日増しに",
+  "reading" : "ひましに",
+  "romaji" : null,
+  "meaning" : [ "日益，一天天地" ],
+  "notes" : [ "用于描述某种情况随着时间逐渐变化，通常是朝着某个方向不断发展。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6739,
+  "word" : "日夜",
+  "reading" : "にちや",
+  "romaji" : null,
+  "meaning" : [ "日夜；经常不断地，总是" ],
+  "notes" : [ "该词在句中可作状语修饰动词，表示持续的时间状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6740,
+  "word" : "日差し",
+  "reading" : "ひざし",
+  "romaji" : null,
+  "meaning" : [ "照射的阳光；阳光照射的程度" ],
+  "notes" : [ "该词为名词，无词形变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6741,
+  "word" : "日帰り",
+  "reading" : "ひがえり",
+  "romaji" : null,
+  "meaning" : [ "当天往返；当日返回。通常用于描述旅行、外出等活动在一天内完成，不进行过夜停留。" ],
+  "notes" : [ "该词汇为固定名词表达，无特殊语法变化，在日常生活中使用较为频繁，用于安排短期的外出活动。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6742,
+  "word" : "日常",
+  "reading" : "にちじょう",
+  "romaji" : null,
+  "meaning" : [ "名词，指平常、日常的生活、事务等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6743,
+  "word" : "日常会話",
+  "reading" : "にちじょうかいわ",
+  "romaji" : null,
+  "meaning" : [ "日常会话" ],
+  "notes" : [ "「日常会話」是一个常用的名词短语，用于描述日常生活中的交流会话。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6744,
+  "word" : "日当たり",
+  "reading" : "ひあたり",
+  "romaji" : null,
+  "meaning" : [ "名词，指阳光照射；向阳处，采光情况" ],
+  "notes" : [ "该词常用于描述房屋、场所等的采光状况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6745,
+  "word" : "日数",
+  "reading" : "にちすう",
+  "romaji" : null,
+  "meaning" : [ "天数；日数" ],
+  "notes" : [ "该词为音读词汇，在表示天数概念时常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6746,
+  "word" : "日曜日",
+  "reading" : "にちようび",
+  "romaji" : null,
+  "meaning" : [ "星期天" ],
+  "notes" : [ "在日语中，一周七天的名称分别为月曜日（星期一）、火曜日（星期二）、水曜日（星期三）、木曜日（星期四）、金曜日（星期五）、土曜日（星期六）、日曜日（星期天）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6747,
+  "word" : "日本",
+  "reading" : "にほん、にっぽん",
+  "romaji" : null,
+  "meaning" : [ "日本，指位于东亚的一个岛国" ],
+  "notes" : [ "‘日本’有两种读音，‘にほん’较为常用，‘にっぽん’多用于正式场合或强调时。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6748,
+  "word" : "日本人",
+  "reading" : "にほんじん",
+  "romaji" : null,
+  "meaning" : [ "指具有日本国籍的人，或在日本出生长大、认同日本文化及生活方式的人。" ],
+  "notes" : [ "该词是日语基础词汇，关于国籍表达常用名词，后续可能会衍生出“日本語（にほんご）”（日语）、“日本料理（にほんりょうり）”（日本料理）等相关表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6749,
+  "word" : "日本列島",
+  "reading" : "にほんれっとう",
+  "romaji" : null,
+  "meaning" : [ "名词，指日本列岛，是位于太平洋西岸的弧形列岛，包括北海道、本州、四国、九州四个大岛和其他众多小岛。" ],
+  "notes" : [ "该词汇是地理名称，在描述日本地理相关内容时常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6750,
+  "word" : "日本文化",
+  "reading" : "にほんぶんか",
+  "romaji" : null,
+  "meaning" : [ "指日本这个国家的文化，涵盖了日本的艺术、宗教、习俗、传统、文学、音乐、饮食等各个方面。" ],
+  "notes" : [ "该词为普通名词，无特殊语法规则，在日常交流和书面表达中较为常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6751,
+  "word" : "日本料理",
+  "reading" : "にほんりょうり",
+  "romaji" : null,
+  "meaning" : [ "日式饭菜；日本料理" ],
+  "notes" : [ "“日本料理”指具有日本特色的餐饮，涵盖多种菜品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6752,
+  "word" : "日本語",
+  "reading" : "にほんご",
+  "romaji" : null,
+  "meaning" : [ "日语；日本的语言" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6753,
+  "word" : "日本酒",
+  "reading" : "にほんしゅ",
+  "romaji" : null,
+  "meaning" : [ "日本酿造的传统米酒，即清酒" ],
+  "notes" : [ "“日本酒”主要指用大米和水酿造的传统日本酒类，在日本饮食文化中占据重要地位。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6754,
+  "word" : "日本食",
+  "reading" : "にほんしょく",
+  "romaji" : null,
+  "meaning" : [ "日本料理；日本食品" ],
+  "notes" : [ "该词用于表示具有日本特色的各类食品或料理。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6755,
+  "word" : "日焼け",
+  "reading" : "ひやけ",
+  "romaji" : null,
+  "meaning" : [ "（皮肤）晒黑；（土地）晒干；日光浴；晒斑" ],
+  "notes" : [ "该词作为名词使用，常见搭配有「日焼けをする」表示进行日光浴或皮肤晒黑等行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6756,
+  "word" : "日照り",
+  "reading" : "ひでり",
+  "romaji" : null,
+  "meaning" : [ "干旱；连日晴天" ],
+  "notes" : [ "「日照り」主要用于描述天气方面的干旱、连日晴天的状况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6757,
+  "word" : "日程",
+  "reading" : "にってい",
+  "romaji" : null,
+  "meaning" : [ "日程；日期安排" ],
+  "notes" : [ "该词为音读词汇，在日常表达日程安排相关内容时常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6758,
+  "word" : "日系",
+  "reading" : "にっけい",
+  "romaji" : null,
+  "meaning" : [ "指与日本相关的系列，如日资企业、日系产品等；在人员方面，指具有日本血统或与日本有渊源的人" ],
+  "notes" : [ "该词在经济、文化等领域常用，用于描述与日本相关的事物或人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6759,
+  "word" : "日記",
+  "reading" : "にっき",
+  "romaji" : null,
+  "meaning" : [ "日记，指对每天所发生的事情的记录。" ],
+  "notes" : [ "该词为音读词汇，“日”音读为“にち”，“記”音读为“き”，组合时“にち”音变为“にっ”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6760,
+  "word" : "日課",
+  "reading" : "にっか",
+  "romaji" : null,
+  "meaning" : [ "每天的习惯活动；日常的功课；每日的例行事务" ],
+  "notes" : [ "该词常用于描述规律性的日常行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6761,
+  "word" : "日陰",
+  "reading" : "ひかげ",
+  "romaji" : null,
+  "meaning" : [ "1. 阴凉处，背阴处；2. 比喻不显眼、不被关注的地方；3. 比喻见不得人的事情、阴暗面" ],
+  "notes" : [ "该词为名词，无词形变化。在使用时，“日陰”的第二个含义常带有一种相对的、不突出的意味；第三个含义带有一定的贬义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6762,
+  "word" : "日頃",
+  "reading" : "ひごろ",
+  "romaji" : null,
+  "meaning" : [ "平常，平时；日常" ],
+  "notes" : [ "该词常用于描述日常的状态、行为等，强调平时的积累或习惯。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6763,
+  "word" : "旧暦",
+  "reading" : "きゅうれき",
+  "romaji" : null,
+  "meaning" : [ "农历，阴历。一种根据月亮的运行规律制定的历法，与公历相对。" ],
+  "notes" : [ "“旧暦”与“新暦（しんれき，公历）”相对。在日本传统节日和一些民俗活动的日期计算中常使用旧暦。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6764,
+  "word" : "早い",
+  "reading" : "はやい",
+  "romaji" : null,
+  "meaning" : [ "早的；快的；时间尚早；提前" ],
+  "notes" : [ "い形容词，词尾い可根据不同语法要求发生变化，如过去式是「早かった」，否定式是「早くない」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6765,
+  "word" : "早いこと",
+  "reading" : "はやいこと",
+  "romaji" : null,
+  "meaning" : [ "赶快，迅速；尽早，尽快" ],
+  "notes" : [ "该词常用于口语和书面语中，表达希望对方快速完成某事的意思。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6766,
+  "word" : "早く",
+  "reading" : "はやく",
+  "romaji" : null,
+  "meaning" : [ "（时间）早；（速度）快；尽早、赶快" ],
+  "notes" : [ "该词常用于表示时间上的提前或动作的快速进行。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6767,
+  "word" : "早く、速く",
+  "reading" : "はやく",
+  "romaji" : null,
+  "meaning" : [ "早些；快些；迅速地；不久；很快" ],
+  "notes" : [ "「早く」侧重于时间上的早，「速く」侧重于速度上的快，但在很多情况下可通用。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6768,
+  "word" : "早くとも",
+  "reading" : "はやくとも",
+  "romaji" : null,
+  "meaning" : [ "最快也要；至少" ],
+  "notes" : [ "用于表示时间、数量等方面的最低限度。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6769,
+  "word" : "早め",
+  "reading" : "はやめ",
+  "romaji" : null,
+  "meaning" : [ "提前；早些时候；快一些。" ],
+  "notes" : [ "作为名词使用时，常表示“提前的时间”“早些时候”；作为副词使用时，修饰动词，表示行动提前或加快速度。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6770,
+  "word" : "早めに",
+  "reading" : "はやめに",
+  "romaji" : null,
+  "meaning" : [ "提前，早些；尽早，尽快" ],
+  "notes" : [ "用于表示在时间上提前做某事，起到强调时间要早的作用。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6771,
+  "word" : "早める",
+  "reading" : "はやめる",
+  "romaji" : null,
+  "meaning" : [ "提前；加快，提早；使……早点儿。" ],
+  "notes" : [ "该词为他动词，使用时需要注意宾语的搭配。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6772,
+  "word" : "早寝",
+  "reading" : "はやね",
+  "romaji" : null,
+  "meaning" : [ "早睡，提前睡觉" ],
+  "notes" : [ "「早寝」在日语中常以「早寝早起き」（早睡早起）的形式出现，是一种健康的生活方式表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6773,
+  "word" : "早寝早起き",
+  "reading" : "はやねはやおき",
+  "romaji" : null,
+  "meaning" : [ "早睡早起" ],
+  "notes" : [ "该词汇为名词，常与「をする」搭配使用，表示进行早睡早起的行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6774,
+  "word" : "早急",
+  "reading" : "そうきゅう",
+  "romaji" : null,
+  "meaning" : [ "紧急，火速；立刻，马上" ],
+  "notes" : [ "形容动词，在句中可作谓语、定语、状语等。作状语时，常以「早急に」的形式出现。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6775,
+  "word" : "早起き",
+  "reading" : "はやおき",
+  "romaji" : null,
+  "meaning" : [ "名词，意为早起这一行为" ],
+  "notes" : [ "“早起き”是由动词“起きる”和名词词尾“き”构成的名词形式，表示早起的动作或习惯。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6776,
+  "word" : "早退",
+  "reading" : "そうたい",
+  "romaji" : null,
+  "meaning" : [ "提前离开，提早下班或放学等" ],
+  "notes" : [ "“早退”在日语中作为名词使用，表达提前结束工作或学习时间的行为。常见搭配如“早退する”，表示进行早退这个动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6777,
+  "word" : "早退します",
+  "reading" : "そうたいします",
+  "romaji" : null,
+  "meaning" : [ "提前下班；提前离开；早退" ],
+  "notes" : [ "「早退する」是三类动词，其ます形为「早退します」，用于较为正式的场合表达提前离开的行为。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6778,
+  "word" : "早速",
+  "reading" : "さっそく",
+  "romaji" : null,
+  "meaning" : [ "立刻，马上；迅速，赶快" ],
+  "notes" : [ "该词常用于口语和书面语，表达行动的及时性。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6779,
+  "word" : "旺盛",
+  "reading" : "おうせい",
+  "romaji" : null,
+  "meaning" : [ "旺盛，充沛；强烈，高涨" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾要变成「だ」，如「精力旺盛だ」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6780,
+  "word" : "昆劇",
+  "reading" : "こんげき",
+  "romaji" : null,
+  "meaning" : [ "昆曲，昆剧，中国传统戏曲剧种之一，起源于元末明初的昆山一带，有“百戏之祖”的美称。" ],
+  "notes" : [ "昆劇是外来文化相关词汇，在日语中作为专有名词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6781,
+  "word" : "昇る",
+  "reading" : "のぼる",
+  "romaji" : null,
+  "meaning" : [ "升；上升；升级，高升；（价格、气温等）上涨；（太阳、月亮等）升起" ],
+  "notes" : [ "该词为自动词，强调自然的上升、升高的动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6782,
+  "word" : "昇進",
+  "reading" : "しょうしん",
+  "romaji" : null,
+  "meaning" : [ "晋级，升级，高升；晋升，升迁" ],
+  "notes" : [ "常用于描述职位、地位等的提升。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6783,
+  "word" : "明かす",
+  "reading" : "あかす",
+  "romaji" : null,
+  "meaning" : [ "说出；揭露，揭晓；（在某处）过夜；使明亮，照亮" ],
+  "notes" : [ "该动词的ます形是「明かします」，否定形是「明かさない」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6784,
+  "word" : "明かり",
+  "reading" : "あかり",
+  "romaji" : null,
+  "meaning" : [ "灯；光线；光亮" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6785,
+  "word" : "明くる",
+  "reading" : "あかる",
+  "romaji" : null,
+  "meaning" : [ "下一个；次，翌，第二。通常用于表示时间的顺序，如某天、某季节之后紧接着到来的时间。" ],
+  "notes" : [ "经常与表示时间的名词连用，使用时不能单独作谓语，后面要接名词。" ],
+  "pos" : "PRENOM",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6786,
+  "word" : "明ける",
+  "reading" : "あける",
+  "romaji" : null,
+  "meaning" : [ "1. （时间、季节等）结束，过去；2. 黎明，天亮；3. （隔扇、门等）开着" ],
+  "notes" : [ "「明ける」是自动词，强调自然的变化或状态的转变。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6787,
+  "word" : "明け方",
+  "reading" : "あけがた",
+  "romaji" : null,
+  "meaning" : [ "名词，黎明，拂晓；天快亮的时候" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6788,
+  "word" : "明け暮れる",
+  "reading" : "あけくれる",
+  "romaji" : null,
+  "meaning" : [ "从早到晚；整天；时光流逝；日复一日地致力于，埋头于" ],
+  "notes" : [ "该词常用来表示持续不断地做某事，强调时间上的连续性。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6789,
+  "word" : "明け渡す",
+  "reading" : "あけわたす",
+  "romaji" : null,
+  "meaning" : [ "让出，交出，移交；透露，说出" ],
+  "notes" : [ "该词用于表示将某物的所有权、使用权等让给他人，或把信息等透露给别人。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6790,
+  "word" : "明らか",
+  "reading" : "あきらか",
+  "romaji" : null,
+  "meaning" : [ "明显的；清楚的；显然的" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾要接「だ」，如「この事実は明らかだ。」；作定语时直接修饰名词，如「明らかな事実」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6791,
+  "word" : "明るい",
+  "reading" : "あかるい",
+  "romaji" : null,
+  "meaning" : [ "明亮的；开朗的；响亮的；顺利的；光明的" ],
+  "notes" : [ "い形容词，词尾为「い」，在词形变化时遵循い形容词的规则。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6792,
+  "word" : "明るさ",
+  "reading" : "あかるさ",
+  "romaji" : null,
+  "meaning" : [ "明亮；开朗，快活；清晰，鲜明" ],
+  "notes" : [ "该词是由形容词「明るい」派生而来的名词，用于描述明亮的程度或人的性格特点等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6793,
+  "word" : "明後日",
+  "reading" : "あさって",
+  "romaji" : null,
+  "meaning" : [ "名词，后天" ],
+  "notes" : [ "“明後日”常见读音为“あさって”，“みょうごにち”较为文语，日常较少使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6794,
+  "word" : "明日",
+  "reading" : "あした",
+  "romaji" : null,
+  "meaning" : [ "明天；将来" ],
+  "notes" : [ "该词在口语中也可读作「あす」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6795,
+  "word" : "明朗",
+  "reading" : "めいろう",
+  "romaji" : null,
+  "meaning" : [ "开朗；明亮；乐观；公正无私" ],
+  "notes" : [ "「明朗」是形容动词，在句中作谓语时要使用「です」结句，作定语时词尾要变成「な」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6796,
+  "word" : "明白",
+  "reading" : "めいはく",
+  "romaji" : null,
+  "meaning" : [ "明白，明显；清楚，明确" ],
+  "notes" : [ "「明白」是ナ形容词，在句中作谓语时，需使用「明白です」的形式，修饰名词时用「明白な」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6797,
+  "word" : "明瞭",
+  "reading" : "めいりょう",
+  "romaji" : null,
+  "meaning" : [ "明了，清楚；清晰，明确" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾要加「だ」；作定语时，直接修饰名词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6798,
+  "word" : "明確",
+  "reading" : "めいかく",
+  "romaji" : null,
+  "meaning" : [ "明确；清晰；确切" ],
+  "notes" : [ "形容动词，词尾可以接「な」修饰名词，如「明確な目標」（明确的目标）；也可以直接作谓语，如「彼の態度は明確だ。」（他的态度很明确。）" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6799,
+  "word" : "明細",
+  "reading" : "めいさい",
+  "romaji" : null,
+  "meaning" : [ "明细；清单；账目详情" ],
+  "notes" : [ "常用于财务、商务等领域，用于表示详细的账目或事项记录。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6800,
+  "word" : "易い",
+  "reading" : "やさしい",
+  "romaji" : null,
+  "meaning" : [ "容易的；简单的；轻松的；和蔼的；温柔的" ],
+  "notes" : [ "「易い」除了表示事情容易、简单之外，还可以用来形容人的性格和蔼、温柔。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+} ]

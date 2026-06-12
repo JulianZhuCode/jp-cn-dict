@@ -1,0 +1,901 @@
+[ {
+  "id" : 8601,
+  "word" : "相方",
+  "reading" : "あいかた",
+  "romaji" : null,
+  "meaning" : [ "伙伴；搭档；对方" ],
+  "notes" : [ "在某些语境中可表示工作、生活等方面的搭档" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8602,
+  "word" : "相槌",
+  "reading" : "あいづち",
+  "romaji" : null,
+  "meaning" : [ "随声附和，帮腔。在对话中对对方的话做出简单回应，表示一种附和的态度。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8603,
+  "word" : "相次ぐ",
+  "reading" : "あいつぐ",
+  "romaji" : null,
+  "meaning" : [ "动1 接连不断地发生或出现；一个接一个地；相继；陆续。" ],
+  "notes" : [ "该词为自动词，常用来描述多个事件或事物连续不断地出现的情况。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8604,
+  "word" : "相殺",
+  "reading" : "そうさつ",
+  "romaji" : null,
+  "meaning" : [ "（债权和债务）相抵；（功和过）相抵，抵销；相互抵消（两种相反的事物或力量）" ],
+  "notes" : [ "相殺する是他动词，常见用法是将两个事物相互抵消。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8605,
+  "word" : "相続",
+  "reading" : "そうぞく",
+  "romaji" : null,
+  "meaning" : [ "继承（财产、地位等）；继任（职位等）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8606,
+  "word" : "相談",
+  "reading" : "そうだん",
+  "romaji" : null,
+  "meaning" : [ "就某事与他人交换意见、商量、商议。" ],
+  "notes" : [ "常见用法如「相談する」表示进行商量的动作；「相談に乗る」表示参与商量；「相談に応じる」表示回应商量等。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8607,
+  "word" : "相談します",
+  "reading" : "そうだんします",
+  "romaji" : null,
+  "meaning" : [ "商量，协商，洽谈。" ],
+  "notes" : [ "该词常用于就某事与他人交换意见、寻求建议或共同商讨解决方案等场景。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8608,
+  "word" : "相談に乗る",
+  "reading" : "そうだんにのる",
+  "romaji" : null,
+  "meaning" : [ "接受商量；参与商量；帮着出主意" ],
+  "notes" : [ "该词为自动词，常用搭配如「相談に乗る」表示积极参与商量，而「相談を乗る」这种表达较少使用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8609,
+  "word" : "相通",
+  "reading" : "つながる",
+  "romaji" : null,
+  "meaning" : [ "事物之间相互关联、彼此沟通，在意义、性质、道理等方面有共同之处。" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8610,
+  "word" : "相通じる",
+  "reading" : "あいつうじる",
+  "romaji" : null,
+  "meaning" : [ "（不同的事物之间）相互关联、彼此相通；意思、情感等相通" ],
+  "notes" : [ "该词强调不同事物之间内在的联系或共通之处" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8611,
+  "word" : "相違",
+  "reading" : "そうい",
+  "romaji" : null,
+  "meaning" : [ "不同，差异，分歧" ],
+  "notes" : [ "该词强调事物之间的不同之处" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8612,
+  "word" : "相違ない",
+  "reading" : "そういがいない",
+  "romaji" : null,
+  "meaning" : [ "一定，肯定，毫无疑问。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8613,
+  "word" : "盾",
+  "reading" : "たて",
+  "romaji" : null,
+  "meaning" : [ "盾牌；挡箭牌；借口" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8614,
+  "word" : "省く",
+  "reading" : "へます",
+  "romaji" : null,
+  "meaning" : [ "节省，节约；省略；遗漏；免去；不做（本该做之事）等" ],
+  "notes" : [ "该词在不同语境下含义有所不同，需根据上下文准确理解。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8615,
+  "word" : "省みる",
+  "reading" : "かえりみる",
+  "romaji" : null,
+  "meaning" : [ "反省，反思；回顾，回想；重新审视，仔细考虑" ],
+  "notes" : [ "表示对自己的行为、过去等进行深入思考和反思。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8616,
+  "word" : "省エネ",
+  "reading" : "しょうエネ（shou ene）",
+  "romaji" : null,
+  "meaning" : [ "省エネルギーの略。エネルギーを節約すること。" ],
+  "notes" : [ "日常生活でエネルギーを節約する行為や方法に関する用語。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8617,
+  "word" : "省略",
+  "reading" : "しょうりゃく",
+  "romaji" : null,
+  "meaning" : [ "不必要な部分を省くこと。文章や表現を簡略化すること。" ],
+  "notes" : [ "「省略する」という動詞形もあります。また、名詞としても使われます。例文：この省略は分かりにくくなっています。（这个省略变得难以理解了。）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8618,
+  "word" : "省エネ",
+  "reading" : "しょうエネ",
+  "romaji" : null,
+  "meaning" : [ "节省能源。‘省エネ’は‘省エネルギー’の略語で、エネルギーを節約することを意味する。" ],
+  "notes" : [ "‘省エネ’は日常でよく使われる略語である。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8619,
+  "word" : "眉",
+  "reading" : "まゆ",
+  "romaji" : null,
+  "meaning" : [ "眉毛" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8620,
+  "word" : "眉毛",
+  "reading" : "まゆげ",
+  "romaji" : null,
+  "meaning" : [ "眼睛上方生长的毛发" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8621,
+  "word" : "看板",
+  "reading" : "かんばん",
+  "romaji" : null,
+  "meaning" : [ "招牌；牌子；看板（用于展示店铺、商品、活动等信息的牌子）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8622,
+  "word" : "看病",
+  "reading" : "かんびょう",
+  "romaji" : null,
+  "meaning" : [ "（对病人）护理，看护；照料（病人）。" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8623,
+  "word" : "看病します",
+  "reading" : "かんびょうします",
+  "romaji" : null,
+  "meaning" : [ "护理、照料（病人）；照顾、照看（病人）。指对生病或受伤的人进行护理照顾，提供必要的关怀和帮助。" ],
+  "notes" : [ "该词常用于描述对病人的护理行为。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8624,
+  "word" : "看護",
+  "reading" : "かんご",
+  "romaji" : null,
+  "meaning" : [ "对伤病者、老人等进行护理照顾。" ],
+  "notes" : [ "「看護」是一个サ变动词，其词干是「看護」，词尾是「する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8625,
+  "word" : "看護婦",
+  "reading" : "かんごふ",
+  "romaji" : null,
+  "meaning" : [ "护士，护理人员" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8626,
+  "word" : "看護師",
+  "reading" : "かんごし",
+  "romaji" : null,
+  "meaning" : [ "护士" ],
+  "notes" : [ "「看護師」は医療現場で患者のケアを行う職種を指す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8627,
+  "word" : "県",
+  "reading" : "けん",
+  "romaji" : null,
+  "meaning" : [ "（日本行政区划）县。日本的地方行政区划之一，直属中央政府，与都、道、府同属一级行政区。" ],
+  "notes" : [ "在日本，县是比市、町、村等更上一级的行政区域单位。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8628,
+  "word" : "県庁",
+  "reading" : "けんちょう",
+  "romaji" : null,
+  "meaning" : [ "县政府办公的地方，即县政府机关" ],
+  "notes" : [ "该词指县政府这一机构所在的场所等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8629,
+  "word" : "真っ二つ",
+  "reading" : "まった二つ",
+  "romaji" : null,
+  "meaning" : [ "刚好分成两半；完全对立的两派" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8630,
+  "word" : "真っ先",
+  "reading" : "まっさき",
+  "romaji" : null,
+  "meaning" : [ "最先，首先；最前面" ],
+  "notes" : [ "表示顺序上的最先" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8631,
+  "word" : "真っ暗",
+  "reading" : "まっくら",
+  "romaji" : null,
+  "meaning" : [ "漆黑，黑暗；暗淡；（比喻）毫无希望，一片死寂" ],
+  "notes" : [ "「真っ暗」是形容黑暗程度很深的状态。常用来描述空间、环境等的黑暗状况，也可用于比喻某种情况毫无生机或希望。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8632,
+  "word" : "真っ白",
+  "reading" : "まっしろ",
+  "romaji" : null,
+  "meaning" : [ "完全白色；洁白无瑕；毫无痕迹；一片空白" ],
+  "notes" : [ "表示颜色时指雪白，也可引申为其他事物毫无痕迹或处于空白状态" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8633,
+  "word" : "真っ白い",
+  "reading" : "まっしろい",
+  "romaji" : null,
+  "meaning" : [ "完全白色的，雪白的，洁白无瑕的" ],
+  "notes" : [ "该词是形容物体呈现出纯粹白色的状态" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8634,
+  "word" : "真っ赤",
+  "reading" : "まっか",
+  "romaji" : null,
+  "meaning" : [ "通红，鲜红；纯粹，完全" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8635,
+  "word" : "真っ青",
+  "reading" : "まっさお",
+  "romaji" : null,
+  "meaning" : [ "完全蓝色；（脸色）苍白" ],
+  "notes" : [ "表示颜色时强调纯粹、完全的蓝色状态" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8636,
+  "word" : "真っ黒",
+  "reading" : "まっくろ",
+  "romaji" : null,
+  "meaning" : [ "形容颜色乌黑、漆黑的状态。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8637,
+  "word" : "真ん中",
+  "reading" : "まんなか",
+  "romaji" : null,
+  "meaning" : [ "正中间，正中央" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8638,
+  "word" : "真ん丸い",
+  "reading" : "まんまるい",
+  "romaji" : null,
+  "meaning" : [ "状态圆润，呈完全圆形的样子，强调非常圆的状态。" ],
+  "notes" : [ "用于描述物体的形状是完美的圆形。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8639,
+  "word" : "真上",
+  "reading" : "まえうえ",
+  "romaji" : null,
+  "meaning" : [ "正上方，头顶上" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8640,
+  "word" : "真似",
+  "reading" : "まね",
+  "romaji" : null,
+  "meaning" : [ "举止，动作；模仿，效仿；榜样，模范" ],
+  "notes" : [ "作为他动词时，常见用法为“AをBの真似をする”，表示A模仿B" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8641,
+  "word" : "真似る",
+  "reading" : "まねる",
+  "romaji" : null,
+  "meaning" : [ "模仿，效仿；装作，假装" ],
+  "notes" : [ "表示“模仿”时，常与を搭配；表示“装作”时，常与～を真似る的形式搭配。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8642,
+  "word" : "真冬",
+  "reading" : "まふゆ",
+  "romaji" : null,
+  "meaning" : [ "隆冬，深冬。指冬季中最寒冷的时期。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8643,
+  "word" : "真剣",
+  "reading" : "しんけん",
+  "romaji" : null,
+  "meaning" : [ "认真，严肃，正经。表示对待事物的态度严肃、不敷衍，全身心投入。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8644,
+  "word" : "真実",
+  "reading" : "しんじつ",
+  "romaji" : null,
+  "meaning" : [ "真实，事实" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8645,
+  "word" : "真心",
+  "reading" : "まごころ",
+  "romaji" : null,
+  "meaning" : [ "诚心，真心，诚意" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8646,
+  "word" : "真理",
+  "reading" : "しんり",
+  "romaji" : null,
+  "meaning" : [ "真实的道理，真相。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8647,
+  "word" : "真相",
+  "reading" : "しんそう",
+  "romaji" : null,
+  "meaning" : [ "真相，事情的真实情况" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8648,
+  "word" : "真空",
+  "reading" : "しんくう",
+  "romaji" : null,
+  "meaning" : [ "没有空气或气体的空间；可引申为空白、空缺等意思" ],
+  "notes" : [ "物理学概念，常出现在与科学、环境等相关的语境中" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8649,
+  "word" : "真面目",
+  "reading" : "まじめ",
+  "romaji" : null,
+  "meaning" : [ "认真，严肃；诚实；正经，规规矩矩" ],
+  "notes" : [ "形容动词，词干为「真面目」，词尾为「な」，在句中修饰名词，作谓语时词尾变为「です」" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8650,
+  "word" : "眠い",
+  "reading" : "ねむい",
+  "romaji" : null,
+  "meaning" : [ "困倦，发困；想睡觉的" ],
+  "notes" : [ "该词是一类形容词，词尾为い，在句中可作谓语、定语等。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8651,
+  "word" : "眠たい",
+  "reading" : "ねむたい",
+  "romaji" : null,
+  "meaning" : [ "困倦的，昏昏欲睡的；想睡觉的" ],
+  "notes" : [ "「眠たい」は、眠りたいという意味でも使われます。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8652,
+  "word" : "眠ります",
+  "reading" : "ねむります",
+  "romaji" : null,
+  "meaning" : [ "睡觉；入睡" ],
+  "notes" : [ "该词为自动词，表示自然入睡的动作" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8653,
+  "word" : "眠る",
+  "reading" : "ねむる",
+  "romaji" : null,
+  "meaning" : [ "睡觉；入睡；长眠；安息。" ],
+  "notes" : [ "该词为自动词，强调主体自身进入睡眠状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8654,
+  "word" : "眠れる",
+  "reading" : "ねむれる",
+  "romaji" : null,
+  "meaning" : [ "能够入睡；可以睡着。" ],
+  "notes" : [ "该词由动词「眠る（ねむる）」的可能态形式构成，表示具有入睡的能力或可能性。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8655,
+  "word" : "眠気",
+  "reading" : "ねむき",
+  "romaji" : null,
+  "meaning" : [ "睡意，困倦" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8656,
+  "word" : "眩しい",
+  "reading" : "まぶしい",
+  "romaji" : null,
+  "meaning" : [ "晃眼的，耀眼的；光彩夺目的。用于形容光线强烈、事物外观华丽等让人眼睛感到不适或印象深刻的状态。" ],
+  "notes" : [ "该词为形容词，词尾会随着不同语法要求发生变化，如连用形为「まぶしく」等。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8657,
+  "word" : "眩暈",
+  "reading" : "げんえん",
+  "romaji" : null,
+  "meaning" : [ "头晕，目眩。因身体不适、疲劳、晕车、晕船等原因而产生的头部昏沉、视物旋转的感觉。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8658,
+  "word" : "眺め",
+  "reading" : "ながめ",
+  "romaji" : null,
+  "meaning" : [ "景色，景致；眺望；视野范围" ],
+  "notes" : [ "需注意‘眺め’作为他动词时，意为‘眺望，遥望’；作为自动词用时，意为‘呈现出某种景色’。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8659,
+  "word" : "眺める",
+  "reading" : "ながめる",
+  "romaji" : null,
+  "meaning" : [ "看；眺望；注视；展望。" ],
+  "notes" : [ "该词常用于表达长时间地看某个景色或事物。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8660,
+  "word" : "眼差し",
+  "reading" : "まなざし",
+  "romaji" : null,
+  "meaning" : [ "目光，眼神；眼色" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8661,
+  "word" : "眼鏡",
+  "reading" : "めがね",
+  "romaji" : null,
+  "meaning" : [ "眼镜；眼镜状的东西" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8662,
+  "word" : "着々",
+  "reading" : "ちゃくちゃく",
+  "romaji" : null,
+  "meaning" : [ "进展顺利；一步一个脚印地，稳步地" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8663,
+  "word" : "着きます",
+  "reading" : "つきます",
+  "romaji" : null,
+  "meaning" : [ "到达，抵达。常表示到达某个地点，如车站、学校、家等。例：駅に着きます（到达车站）、学校に着きます（到达学校）、家に着きます（到家）。" ],
+  "notes" : [ "该词为自动词，强调主语自身的到达动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8664,
+  "word" : "着く",
+  "reading" : "つく",
+  "romaji" : null,
+  "meaning" : [ "到达，抵达；够到；考上（学校）；找到（答案等）；（时间、年龄等）到；（事情）成功、实现；（颜色等）附着、染上；（火等）燃烧起来；（病等）发作；来到（某一状态）" ],
+  "notes" : [ "表示到达某地点时，常用「～に着く」；表示到达某一时刻时，常用「～までに着く」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8665,
+  "word" : "着ける",
+  "reading" : "つける",
+  "romaji" : null,
+  "meaning" : [ "1. 穿（衣物等），戴（帽子、首饰等）；2. 使附着，涂抹；3. 点（灯、火等）；4. 加（注释等）；5. 举行（仪式等）；6. （船）靠拢；7. 入席" ],
+  "notes" : [ "该词为他动词，其使役态为「着かせる」，被动态为「着けられる」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8666,
+  "word" : "着せる",
+  "reading" : "きせる",
+  "romaji" : null,
+  "meaning" : [ "给……穿上（衣服等）；给……披上（外套等）；给……化妆；佯装；假装；把主观判断强加给别人" ],
+  "notes" : [ "在表示‘给……化妆’时，常用‘メイクを着せる’这种表达形式" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8667,
+  "word" : "着る",
+  "reading" : "着る（きる）",
+  "romaji" : null,
+  "meaning" : [ "穿（衣服等）。例：シャツを着る（穿衬衫）、コートを着る（穿外套）等。" ],
+  "notes" : [ "表示穿着某种衣物的常用动词" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8668,
+  "word" : "着る",
+  "reading" : "着（き）る（kiru）",
+  "romaji" : null,
+  "meaning" : [ "穿（衣服等）；戴（帽子、眼镜等）；套（袜子等）" ],
+  "notes" : [ "该词为他动词，动作的对象用を表示" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8669,
+  "word" : "着実",
+  "reading" : "ちゃくじつ",
+  "romaji" : null,
+  "meaning" : [ "稳步地，扎实地，切实地；可靠，稳健" ],
+  "notes" : [ "形容動詞，词干「着実」，词尾「に」用于连接用言等。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8670,
+  "word" : "着工",
+  "reading" : "ちゃくこう",
+  "romaji" : null,
+  "meaning" : [ "建筑物や工事などが始まること。また、その際の行為を指す。" ],
+  "notes" : [ "「着工する」は、「着」が動作の対象に対する接触を表し、「工」が工事や建造物を表す。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8671,
+  "word" : "着席",
+  "reading" : "ちゃくせき",
+  "romaji" : null,
+  "meaning" : [ "就座，入座，就席" ],
+  "notes" : [ "サ变动词，其连用形为「着席し」，过去式为「着席した」等" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8672,
+  "word" : "着手",
+  "reading" : "ちゃくしゅ",
+  "romaji" : null,
+  "meaning" : [ "开始做某事，着手进行。强调从某个时间点或阶段开始正式开展某项工作、行动等。" ],
+  "notes" : [ "该词常用于正式场合描述开始进行某项任务或活动。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8673,
+  "word" : "着替え",
+  "reading" : "きがえる",
+  "romaji" : null,
+  "meaning" : [ "名词：更衣；更换的衣服。动词：换衣服，更换。" ],
+  "notes" : [ "作为动词使用时，常见用法如「着替える」，表示动作；作为名词时表示具体的行为或物品。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8674,
+  "word" : "着替える",
+  "reading" : "きかえる",
+  "romaji" : null,
+  "meaning" : [ "更换衣服；换穿（不同场合等的）服装" ],
+  "notes" : [ "该词强调更换衣服的动作，常用于日常描述换衣服的行为场景" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8675,
+  "word" : "着物",
+  "reading" : "きもの",
+  "romaji" : null,
+  "meaning" : [ "传统的日本和服，一般为丝绸质地，有多种款式和颜色，常用于正式场合或传统仪式。" ],
+  "notes" : [ "着物在现代日语中主要用于正式场合或传统仪式，日常生活中较少使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8676,
+  "word" : "着目",
+  "reading" : "ちゃくもく",
+  "romaji" : null,
+  "meaning" : [ "将视线、注意力等集中于某事物；着眼于。" ],
+  "notes" : [ "该词常用表达方式为「～に着目する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8677,
+  "word" : "着色",
+  "reading" : "ちゃくしょく",
+  "romaji" : null,
+  "meaning" : [ "物体に色を付けること。また、絵や文章などに色彩や色合いを与えること。" ],
+  "notes" : [ "「サ变动词」は、語幹が「サ行」の仮名で終わる動詞で、活用の基本形が「する」です。この動詞は、「する」型の活用をします。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8678,
+  "word" : "着色料",
+  "reading" : "ちゃくしょくりょ",
+  "romaji" : null,
+  "meaning" : [ "用于使物体染上颜色的物质，即着色剂、染色剂。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8679,
+  "word" : "着陸",
+  "reading" : "ちゃくりく",
+  "romaji" : null,
+  "meaning" : [ "（飞机、航天器等）着陆；登陆" ],
+  "notes" : [ "该词常用于描述飞行器从空中降落到地面或其他星球等场景，也可用于比喻人或事物到达某个地方。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8680,
+  "word" : "着飾る",
+  "reading" : "きかざる",
+  "romaji" : null,
+  "meaning" : [ "穿上华丽的衣服；精心打扮；装饰，装扮" ],
+  "notes" : [ "强调通过穿着华丽服饰或进行装饰来使自己显得出众" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8681,
+  "word" : "睡眠",
+  "reading" : "すいみん",
+  "romaji" : null,
+  "meaning" : [ "睡眠，睡觉；休眠。（人が眠ること。また、生物や物体が活動を休止し、状態が安定したまま存在すること。）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8682,
+  "word" : "睡眠をとる",
+  "reading" : "すいみんをとる",
+  "romaji" : null,
+  "meaning" : [ "睡觉。该词强调进入睡眠状态这一行为动作。" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8683,
+  "word" : "睨む",
+  "reading" : "睨（にら）む",
+  "romaji" : null,
+  "meaning" : [ "瞪眼；注视；盯着看；关注（局势等）" ],
+  "notes" : [ "表示带有一定敌意或专注地看" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8684,
+  "word" : "瞑る",
+  "reading" : "つむる",
+  "romaji" : null,
+  "meaning" : [ "闭上眼睛；闭眼装睡；假装不知道；不理会" ],
+  "notes" : [ "该词常用作他动词，强调使眼睛闭上的动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8685,
+  "word" : "瞬き",
+  "reading" : "まばたき",
+  "romaji" : null,
+  "meaning" : [ "眨眼；一瞬间" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8686,
+  "word" : "瞬く",
+  "reading" : "またたく",
+  "romaji" : null,
+  "meaning" : [ "眨眼；闪烁；一瞬间" ],
+  "notes" : [ "表示眨眼时，常用「目を瞬く」的形式" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8687,
+  "word" : "瞬間",
+  "reading" : "しゅんかん",
+  "romaji" : null,
+  "meaning" : [ "极短的时间，瞬间，刹那，转眼" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8688,
+  "word" : "瞳",
+  "reading" : "ひとみ",
+  "romaji" : null,
+  "meaning" : [ "瞳孔；眼睛。指眼睛的中心部分，能通过光线进入眼睛的圆形开口，也可指代整个眼睛。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8689,
+  "word" : "瞼",
+  "reading" : "まぶた",
+  "romaji" : null,
+  "meaning" : [ "上下眼瞼の総称。目を覆う皮膚の部分。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8690,
+  "word" : "矛盾",
+  "reading" : "むじゅん",
+  "romaji" : null,
+  "meaning" : [ "事物之间相互对立、相互冲突的关系或状态" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8691,
+  "word" : "矢",
+  "reading" : "や",
+  "romaji" : null,
+  "meaning" : [ "箭；矢状物；（比赛等的）目标，目的" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8692,
+  "word" : "矢印",
+  "reading" : "やじるし",
+  "romaji" : null,
+  "meaning" : [ "箭头；箭形符号；标记" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8693,
+  "word" : "知っています",
+  "reading" : "しっています",
+  "romaji" : null,
+  "meaning" : [ "知道，了解。表示对某事或某人有一定的认知。" ],
+  "notes" : [ "该词是动词「知る」的连用形后续补助动词「ている」构成的形式，强调对某事物的持续知晓状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8694,
+  "word" : "知らず知らず",
+  "reading" : "しらずしらず",
+  "romaji" : null,
+  "meaning" : [ "不知不觉中，无意中；自然而然地" ],
+  "notes" : [ "该词常用来描述没有刻意去做某事，却自然而然地发生了某种情况。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8695,
+  "word" : "知らず知らずのうちに",
+  "reading" : "しらずしらずのうちに",
+  "romaji" : null,
+  "meaning" : [ "不知不觉地，没意识到；无意中" ],
+  "notes" : [ "该词常用来描述在没有刻意注意的情况下发生了某种情况或变化。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8696,
+  "word" : "知らせ",
+  "reading" : "しらせ",
+  "romaji" : null,
+  "meaning" : [ "消息，通知；告知，传达" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8697,
+  "word" : "知らせます",
+  "reading" : "しらせます",
+  "romaji" : null,
+  "meaning" : [ "通知；告知；传达。" ],
+  "notes" : [ "其原形为「知らせる」，「知らせます」是其ます形。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8698,
+  "word" : "知らせる",
+  "reading" : "しらせる",
+  "romaji" : null,
+  "meaning" : [ "通知，告知；使知道，让明白" ],
+  "notes" : [ "该词常用的语法结构有：知らせる＋人＋事 ，表示“通知某人某事”" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8699,
+  "word" : "知ります",
+  "reading" : "しります（罗马音：shirimasu）",
+  "romaji" : null,
+  "meaning" : [ "知道；了解；认识。（表示对事物的知晓、熟悉或认识的状态）" ],
+  "notes" : [ "该词是“知る（しる）”的ます型，属于一类动词（五段动词）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8700,
+  "word" : "知り合い",
+  "reading" : "しりあい",
+  "romaji" : null,
+  "meaning" : [ "认识的人，朋友。例：彼は私の知り合いです。（他是我的熟人。）" ],
+  "notes" : [ "「知り合う」の名词形で、「知り合う」は自动词で、意味は「知るようになる、知りつける」です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

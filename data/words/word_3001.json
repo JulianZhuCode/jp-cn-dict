@@ -1,0 +1,901 @@
+[ {
+  "id" : 3001,
+  "word" : "低価格",
+  "reading" : "ていかかく",
+  "romaji" : null,
+  "meaning" : [ "低价，低廉的价格" ],
+  "notes" : [ "「低価格」是一个复合名词，由「低い」（低的）和「価格」（价格）组合而成。请注意，虽然口语中可能有时会听到「ていかかく」的发音，但标准读音应为「ていかかく」，无需标注音调数字。该词常在经济、商业语境中使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3002,
+  "word" : "低気圧",
+  "reading" : "ていきあつ",
+  "romaji" : null,
+  "meaning" : [ "低気圧。気象用語として、また、比喩的に「気分が重くて沈んだ雰囲気」を指すこともある。" ],
+  "notes" : [ "「低気圧」は、気象用語としては「low atmospheric pressure」を意味する。比喩的な用法（「気が重い」「雰囲気が暗い」という意味）は、日本語の慣用表現として広く使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3003,
+  "word" : "低迷",
+  "reading" : "ていめい",
+  "romaji" : null,
+  "meaning" : [ "低迷，不景气，停滞不前，处于低谷。形容状况不佳、没有起色、陷入困境的状态。" ],
+  "notes" : [ "这是一个由名词和サ变动词构成的复合词。作为サ变动词使用时，词干「低迷」不变，后接「する」进行活用。通常用于描述经济、市场、成绩、状态等长期处于不佳或停滞的情况。不用于描述短期的、暂时性的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3004,
+  "word" : "住みます",
+  "reading" : "すみます",
+  "romaji" : null,
+  "meaning" : [ "居住，住" ],
+  "notes" : [ "「住みます」是动词「住む」的ます形（丁寧形），表示礼貌、正式的说话方式。原型「住む」是五段动词（グループ1），ます形变化规则为「む」→「み」+「ます」。用于表示居住在某地。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3005,
+  "word" : "住み着く",
+  "reading" : "すみつく",
+  "romaji" : null,
+  "meaning" : [ "住み慣れる。定住する。ある場所に住み始めて、そこに落ち着いて生活する。" ],
+  "notes" : [ "「住みつく」と表記することも一般的です。漢字表記は稀で、平仮名表記が標準的です。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3006,
+  "word" : "住み込む",
+  "reading" : "すみこむ",
+  "romaji" : null,
+  "meaning" : [ "在雇主家或工作单位住宿；住进" ],
+  "notes" : [ "通常用于描述雇员、学徒等在工作场所或雇主家中居住并工作的状态。在現代用法中，也可能泛指「搬入某處居住」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3007,
+  "word" : "住む",
+  "reading" : "すむ",
+  "romaji" : null,
+  "meaning" : [ "住む、居住する、ある場所を生活の本拠として定める。" ],
+  "notes" : [ "五段活用動詞。連用形は「住み」、過去形は「住んだ」。自動詞であり、「住まう」とは異なり、意志的な定住を表す基本的な表現。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3008,
+  "word" : "住んでいます",
+  "reading" : "すんでいます",
+  "romaji" : null,
+  "meaning" : [ "住んでいる。居住している。" ],
+  "notes" : [ "\"住んでいます\"是动词\"住む\"的\"ている形\"，表示持续的状态或习惯。在口语和书面语中均常用。\"住む\"本身为N5级别词汇。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3009,
+  "word" : "住宅",
+  "reading" : "じゅうたく",
+  "romaji" : null,
+  "meaning" : [ "住宅。供人居住的建筑物。" ],
+  "notes" : [ "这是一个常用名词，没有特殊的活用变化。在表示“住宅区”时，常使用「住宅街（じゅうたくがい）」这一复合词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3010,
+  "word" : "住宅問題",
+  "reading" : "じゅうたくもんだい",
+  "romaji" : null,
+  "meaning" : [ "住房问题，住宅问题" ],
+  "notes" : [ "这是一个复合名词，由‘住宅’（住宅）和‘問題’（问题）组成，常用于讨论城市规划、社会政策等语境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3011,
+  "word" : "住居",
+  "reading" : "じゅうきょ",
+  "romaji" : null,
+  "meaning" : [ "住宅，住处，居住地，住址" ],
+  "notes" : [ "「住居」是较为正式的书面语，日常口语中常用「家（いえ）」或「住所（じゅうしょ）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3012,
+  "word" : "住所",
+  "reading" : "じゅうしょ",
+  "romaji" : null,
+  "meaning" : [ "地址；住址" ],
+  "notes" : [ "指居住的具体地点。与「アドレス」相比，后者更常用于电子邮件地址或网站地址等非物理地址，而「住所」特指物理的居住或所在地地址。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3013,
+  "word" : "住民",
+  "reading" : "じゅうみん",
+  "romaji" : null,
+  "meaning" : [ "居民，住户（在某特定地区居住的人）" ],
+  "notes" : [ "常用词，常用于行政、法律或统计语境中，指特定行政区域内的居住者。与「居住者」基本同义，但「住民」更侧重于作为区域共同体的一员。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3014,
+  "word" : "体",
+  "reading" : "からだ",
+  "romaji" : null,
+  "meaning" : [ "身体；体格，身材" ],
+  "notes" : [ "作为名词使用，表示物理上的身体或体格。注意与汉字“体（たい）”在复合词中的读音区别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3015,
+  "word" : "体にいい",
+  "reading" : "からだにいい",
+  "romaji" : null,
+  "meaning" : [ "对身体有益，有益健康。" ],
+  "notes" : [ "这是一个常见的惯用短语，口语中也常说「体に良い（からだによい）」。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3016,
+  "word" : "体付き",
+  "reading" : "からだつき",
+  "romaji" : null,
+  "meaning" : [ "体格，体形，身材" ],
+  "notes" : [ "「体付き」是名词，用于描述人的体型或体格特征。虽然有时可能与中文的“体形”对应，但在日语中更侧重于身体整体的形态和给人的印象。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3017,
+  "word" : "体内",
+  "reading" : "たいない",
+  "romaji" : null,
+  "meaning" : [ "体内，身体内部。" ],
+  "notes" : [ "与“体外”相对。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3018,
+  "word" : "体制",
+  "reading" : "たいせい",
+  "romaji" : null,
+  "meaning" : [ "体制；系统；制度；组织架构" ],
+  "notes" : [ "主要指一个组织、社会或国家的系统、制度或结构框架。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3019,
+  "word" : "体力",
+  "reading" : "たいりょく",
+  "romaji" : null,
+  "meaning" : [ "身体进行活动或工作的能力；身体的能量、精力。" ],
+  "notes" : [ "与「気力」（精神力量）相对。常用搭配有「体力がある/ない」、「体力をつける」、「体力が続く/続かない」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3020,
+  "word" : "体力作り",
+  "reading" : "たいりょくづくり",
+  "romaji" : null,
+  "meaning" : [ "体力を増強するための活動や訓練。体を鍛えること。" ],
+  "notes" : [ "「体力作り」は、主に名詞として用いられる。日常会話では「体力をつける」という動詞表現も頻繁に使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3021,
+  "word" : "体当たり",
+  "reading" : "たいあたり",
+  "romaji" : null,
+  "meaning" : [ "1. （相扑、橄榄球等运动中）用身体冲撞。2. 比喻全力以赴，拼命干。" ],
+  "notes" : [ "「体当たり」本身是名词，但经常以「体当たりする」的形式作为サ变动词使用，表示“用身体冲撞”或“全力以赴地做某事”。在修订中，其基本词性标注为名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3022,
+  "word" : "体操",
+  "reading" : "たいそう",
+  "romaji" : null,
+  "meaning" : [ "体操。身体の機能を高め、健康を増進するための一連の体系的な運動。" ],
+  "notes" : [ "「体操」は単独で使われるほか、「ラジオ体操」「美容体操」「器械体操」などの複合語としても頻繁に用いられる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3023,
+  "word" : "体格",
+  "reading" : "たいかく",
+  "romaji" : null,
+  "meaning" : [ "体格，身体，身材" ],
+  "notes" : [ "通常指身体的构造、大小和强壮程度。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3024,
+  "word" : "体温",
+  "reading" : "たいおん",
+  "romaji" : null,
+  "meaning" : [ "体温。身体的温度。" ],
+  "notes" : [ "常用词汇，指人体的温度。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3025,
+  "word" : "体積",
+  "reading" : "たいせき",
+  "romaji" : null,
+  "meaning" : [ "体积，容积，立体的大小" ],
+  "notes" : [ "数学和物理学中的基本概念，表示物体所占据的三维空间的大小。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3026,
+  "word" : "体育",
+  "reading" : "たいいく",
+  "romaji" : null,
+  "meaning" : [ "体育；体育运动；体育课。" ],
+  "notes" : [ "常用词汇，与「スポーツ」含义相近，但「体育」更侧重于教育体系内的体育活动或课程。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3027,
+  "word" : "体育館",
+  "reading" : "たいいくかん",
+  "romaji" : null,
+  "meaning" : [ "体育馆，进行体育活动的室内场馆。" ],
+  "notes" : [ "写作『体育館』，读作『たいいくかん』。口语中有时会省略促音，读作『たいくかん』，但正式读音为『たいいくかん』。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3028,
+  "word" : "体裁",
+  "reading" : "ていさい",
+  "romaji" : null,
+  "meaning" : [ "外表，外观；体面，面子；形式，体裁；奉承话" ],
+  "notes" : [ "“体裁”一词有多种含义，具体需根据上下文判断。其中“奉承话”的含义相对次要且使用频率较低。在JLPT考试中，该词作为N2级别的词汇出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3029,
+  "word" : "体調",
+  "reading" : "たいちょう",
+  "romaji" : null,
+  "meaning" : [ "身体状况，健康状态。" ],
+  "notes" : [ "通常用于描述当前的身体感受或健康状态，如“体調が良い/悪い”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3030,
+  "word" : "体質",
+  "reading" : "たいしつ",
+  "romaji" : null,
+  "meaning" : [ "体质；（组织、机构等的）素质，本质" ],
+  "notes" : [ "1. 作为名词，没有活用变化。2. 第一义项多指个人身体特质，第二义项常用于形容组织、机构等的内在特性。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3031,
+  "word" : "体重",
+  "reading" : "たいじゅう",
+  "romaji" : null,
+  "meaning" : [ "体重" ],
+  "notes" : [ "表示身体的重量。通常使用千克（kg）作为单位。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3032,
+  "word" : "体長",
+  "reading" : "たいちょう",
+  "romaji" : null,
+  "meaning" : [ "体长，身长。指动物身体从头部到尾部末端的长度。" ],
+  "notes" : [ "通常用于描述动物，描述人类时更常用「身長」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3033,
+  "word" : "体験",
+  "reading" : "たいけん",
+  "romaji" : null,
+  "meaning" : [ "体験，经验，亲身经历" ],
+  "notes" : [ "通常指通过亲身实践获得的经验或感受。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3034,
+  "word" : "何",
+  "reading" : "なに",
+  "romaji" : null,
+  "meaning" : [ "什么；何事；何物。用于询问事物、内容或原因。" ],
+  "notes" : [ "作为疑问代词，是日语中最基础的疑问词之一。在后续助词为‘が’、‘を’、‘で’时，有时会音便为‘なん’，例如：‘何が（なにが）’、‘何を（なにを/なんを）’、‘何で（なんで）’。在询问数字时，如‘何歳（なんさい）’、‘何時（なんじ）’，也读作‘なん’。该词没有活用变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3035,
+  "word" : "何か",
+  "reading" : "なにか",
+  "romaji" : null,
+  "meaning" : [ "某事物；某种东西；什么（用于不确定的事物）" ],
+  "notes" : [ "作为代词使用，用于指代不确定的事物或情况。在疑问句中也可表示“什么吗？”。其读音通常标记为平板型（0型），无特殊音调变化。不属于动词，因此没有活用类型。" ],
+  "pos" : "PRON",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3036,
+  "word" : "何しろ",
+  "reading" : "なにしろ",
+  "romaji" : null,
+  "meaning" : [ "副词 因为，由于；无论怎样，总之；不管怎么说，毕竟" ],
+  "notes" : [ "「何しろ」是「何をしろ」的缩略形式，用于强调理由或作为话题的开场白，表示「毕竟，不管怎么说」的意思，带有主观强调的语气。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3037,
+  "word" : "何でもない",
+  "reading" : "なんでもない",
+  "romaji" : null,
+  "meaning" : [ "没什么特别的；算不了什么；不值一提；没什么大不了的" ],
+  "notes" : [ "该表达用于轻描淡写地描述事情、状态或感受，表示其不重要、不严重或无需担心。在口语中常用。注意其否定形式为「何でもない」，而非「何でもなくない」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3038,
+  "word" : "何とか",
+  "reading" : "なんとか",
+  "romaji" : null,
+  "meaning" : [ "1. 表示尽管困难，但总算设法做到了某事。可译为“总算”、“好歹”、“设法”。2. 表示不确定或不明确的内容，可译为“什么什么”、“这个那个”。" ],
+  "notes" : [ "「何とか」作为副词使用时，常与「する」连用构成「何とかする」，表示“想办法解决”。作为连语使用时，后续助词「か」构成「何とかか」，表示不明确的内容。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3039,
+  "word" : "何となく",
+  "reading" : "なんとなく",
+  "romaji" : null,
+  "meaning" : [ "总觉得，不知为何，不由得" ],
+  "notes" : [ "用于表示没有明确理由或根据的模糊感觉或状态。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3040,
+  "word" : "何と言っても",
+  "reading" : "なんといっても",
+  "romaji" : null,
+  "meaning" : [ "无论如何，不管怎么说，毕竟，终究（用于强调某事物在比较中是最重要的、最突出的、最根本的）" ],
+  "notes" : [ "这是一个固定搭配的副词短语，常用于句首，起到强调和总结的作用。也常与「～が」或「～は」等主题标记一起使用，强调其后的内容。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3041,
+  "word" : "何にも",
+  "reading" : "なにも",
+  "romaji" : null,
+  "meaning" : [ "（后接否定表达）什么也（不）；一点也（不）" ],
+  "notes" : [ "通常与否定形式（如ない、ません、なかった等）连用，构成「何にも…ない」的形式。在口语中，有时会省略「に」，说成「何も」。该词条是「何も」的强调形式，语气更强。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3042,
+  "word" : "何のお構いもしませんで",
+  "reading" : "なんのおかまいもしませんで",
+  "romaji" : null,
+  "meaning" : [ "招待の不手際をお詫びする挨拶の言葉。おもてなしが十分でないことを詫びるときに用いる。" ],
+  "notes" : [ "「何のお構いもできませんで」や「何のお構いもいたしませんで」も同様の意味で用いられる。非常に丁寧な表現で、主に来客を迎える際の挨拶として使用される。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3043,
+  "word" : "何のお構いもできませんで",
+  "reading" : "なんのおかまいもできませんで",
+  "romaji" : null,
+  "meaning" : [ "惯用语，用于待客时的寒暄语，表示“招待不周”、“没什么可招待的”，是一种谦虚、客气的说法。" ],
+  "notes" : [ "这是「何のお構いもできません」更为礼貌、委婉的说法，句末的「で」是「て」的礼貌形，表示中顿或轻微的因果关系，使语气更柔和。常用于正式或客气的场合。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3044,
+  "word" : "何もかも",
+  "reading" : "なにもかも",
+  "romaji" : null,
+  "meaning" : [ "【慣用句】全部，所有一切，什么都…。表示所有的事物、情况、状态等。" ],
+  "notes" : [ "通常用于口语和书面语，强调“全部、无一例外”的意思。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3045,
+  "word" : "何より",
+  "reading" : "なにより",
+  "romaji" : null,
+  "meaning" : [ "比什么都好，最好，最；首要的是" ],
+  "notes" : [ "常用表达“何よりです”表示“比什么都好，再好不过了”，用于表达听到对方好消息时的安心或喜悦之情。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3046,
+  "word" : "何事",
+  "reading" : "なにごと",
+  "romaji" : null,
+  "meaning" : [ "什么事情；什么事；怎么回事（表示疑问或惊讶）" ],
+  "notes" : [ "作为疑问词使用时，常以「何事か」、「何事だ」等形式出现，带有强烈的质问或惊讶语气。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3047,
+  "word" : "何分",
+  "reading" : "なにぶん",
+  "romaji" : null,
+  "meaning" : [ "多少，一些；因为，毕竟；请，务请（用于请求时）" ],
+  "notes" : [ "“何分”在表示“多少、一些”时是名词；在表示“因为、毕竟”或用于请求时是副词。读音为“なにぶん”，不是“なんぷん”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3048,
+  "word" : "何日",
+  "reading" : "なんにち",
+  "romaji" : null,
+  "meaning" : [ "1. 几日，多少天（表示天数）。2. 几号，几月几日（表示日期）。" ],
+  "notes" : [ "该词有两个主要含义：一是询问天数（何日かかる），二是询问日期（何日ですか）。作为疑问词，属于基础词汇。" ],
+  "pos" : "PRON",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3049,
+  "word" : "何時",
+  "reading" : "なんじ",
+  "romaji" : null,
+  "meaning" : [ "几点，什么时候。用于询问时间。" ],
+  "notes" : [ "汉字读音是训读。表示具体时间点（如“几点”）时读作“なんじ”；表示不确定的时间点（如“什么时候”）时读作“いつ”。作为疑问词，通常与表示时间的助词“に”连用。" ],
+  "pos" : "PRON",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3050,
+  "word" : "何曜日",
+  "reading" : "なんようび",
+  "romaji" : null,
+  "meaning" : [ "星期几。用于询问星期名称。" ],
+  "notes" : [ "这是由疑问词“何”与“曜日”组成的复合词。虽然读作「なんようび」，但一般不标记声调为3型，其声调取决于后续的助词，通常以平板型（0型）处理。属于日语初级疑问词，难度较低。词性为代词或疑问词，而不是“other”。" ],
+  "pos" : "PRON",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3051,
+  "word" : "何月",
+  "reading" : "なんがつ",
+  "romaji" : null,
+  "meaning" : [ "几月，几月份（表示疑问，询问月份）" ],
+  "notes" : [ "音调为平板型（ヘボン式罗马字标为nan-gatsu）。是询问月份的疑问词，通常作为时间状语使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3052,
+  "word" : "何歳",
+  "reading" : "なんさい",
+  "romaji" : null,
+  "meaning" : [ "几岁。用于询问年龄。其礼貌形式为「おいくつ」。" ],
+  "notes" : [ "在非常正式的场合或对尊长询问时，应使用礼貌形式「おいくつ」。" ],
+  "pos" : "PRON",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3053,
+  "word" : "何気ない",
+  "reading" : "なにげない",
+  "romaji" : null,
+  "meaning" : [ "若无其事的，不经意的；无意识的，漫不经心的" ],
+  "notes" : [ "连体形为「何気ない」，但连用形为「何気なく」。作为副词使用时，也常使用「何気なく」的形式。该词侧重于描述行为或态度看似随意，实则可能带有意图，或是在无意识中做出的。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3054,
+  "word" : "何番",
+  "reading" : "なんばん",
+  "romaji" : null,
+  "meaning" : [ "几号；第几；第几位；第几个" ],
+  "notes" : [ "用于询问顺序、编号或号码。是“何番目（なんばんめ）”的省略形式，但“何番”本身也常用。在表示“第几个”时，“何番目”更精确。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3055,
+  "word" : "何階",
+  "reading" : "なんがい",
+  "romaji" : null,
+  "meaning" : [ "几楼，几层（用于询问楼层）" ],
+  "notes" : [ "「何階」的「階」字在数字后常读作「かい」，但在「何階」这一固定疑问词中读作「がい」。这是一个表示疑问的代词，用于询问建筑物的楼层数。" ],
+  "pos" : "PRON",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3056,
+  "word" : "余り",
+  "reading" : "あまり",
+  "romaji" : null,
+  "meaning" : [ "1. 剩余，剩下；2. （与否定词连用）不太…，不怎么…；3. （接在数量词后）…多，…余" ],
+  "notes" : [ "作为名词时，表示“剩余部分”。作为副词时，常与否定形式呼应，表示“不太…”。也可作为接尾词，接在数量词后，表示“多，余”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3057,
+  "word" : "余る",
+  "reading" : "あまる",
+  "romaji" : null,
+  "meaning" : [ "1. （数量上）剩余，剩下；2. （程度、能力上）过分，超出；3. （用于否定）无法…，难以…" ],
+  "notes" : [ "自动词。常用搭配有「目に余る」（看不下去）、「手に余る」（力不能及）、「想像に余る」（超出想象）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3058,
+  "word" : "余分",
+  "reading" : "よぶん",
+  "romaji" : null,
+  "meaning" : [ "多余，剩余；超额，额外" ],
+  "notes" : [ "作为名词或ナ形容词使用。作ナ形容词时，词干为‘余分な’，表示‘多余的’。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3059,
+  "word" : "余地",
+  "reading" : "よち",
+  "romaji" : null,
+  "meaning" : [ "余地，空间；可能性，机会" ],
+  "notes" : [ "常用搭配：余地がある（有…余地）、余地がない（没有…余地）。多用于抽象意义的可能性或空间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3060,
+  "word" : "余所",
+  "reading" : "よそ",
+  "romaji" : null,
+  "meaning" : [ "别处；其他地方；别人家；漠不关心，不相关，不顾" ],
+  "notes" : [ "汉字也写作「他所」。除了表示物理上的「别处」，也常用于表示心理上的「漠不关心、不相关」等抽象含义。常以「余所に見る」等形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3061,
+  "word" : "余所見",
+  "reading" : "よそみ",
+  "romaji" : null,
+  "meaning" : [ "1. 往旁边看，东张西望。2. 别人看着，被他人注视。" ],
+  "notes" : [ "「余所見」是一个名词，虽然词源与「見る」相关，但作为独立词汇使用时，其词性是名词。常见的误用是将其当作动词使用。在语法上，常以「余所見をする」的形式表示“往旁边看”的动作。其难度级别略高于N3，通常归为N2词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3062,
+  "word" : "余暇",
+  "reading" : "よか",
+  "romaji" : null,
+  "meaning" : [ "闲暇时间，业余时间" ],
+  "notes" : [ "表示工作或学习之外的自由时间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3063,
+  "word" : "余生",
+  "reading" : "よせい",
+  "romaji" : null,
+  "meaning" : [ "余生；残生；剩余的岁月，通常指退休后或从某种责任中解脱出来后的生活。" ],
+  "notes" : [ "这是一个书面语词汇，在日常口语中更常使用“残りの人生”等表达。该词不表示“劫后余生”，后者通常用“生き残り”等词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3064,
+  "word" : "余興",
+  "reading" : "よきょう",
+  "romaji" : null,
+  "meaning" : [ "余兴节目，助兴的表演或游戏（通常在宴会、聚会等场合进行）" ],
+  "notes" : [ "通常读作「よきょう」，有时也读作「よきょう（御興）」，但后者不常见。该词在日语能力考试中多出现在N2级别的阅读或听力中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3065,
+  "word" : "余裕",
+  "reading" : "よゆう",
+  "romaji" : null,
+  "meaning" : [ "1. 时间、金钱、空间等方面的富余、充裕。 2. 精神上的从容、宽裕。" ],
+  "notes" : [ "常用短语包括「余裕がある」（有富余/从容）、「余裕を持つ」（留有富余）。与中文的“余裕”含义基本相同。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3066,
+  "word" : "余計",
+  "reading" : "よけい",
+  "romaji" : null,
+  "meaning" : [ "① 不必要であるさま。無駄であるさま。② 普通より多いさま。より一層。" ],
+  "notes" : [ "「余計なこと」や「余計なお世話」などの慣用的な表現でよく用いられる。また、副詞的用法（例：余計に気になる）も頻出する。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3067,
+  "word" : "作ります",
+  "reading" : "つくります",
+  "romaji" : null,
+  "meaning" : [ "做，制造，创作，建立，制定" ],
+  "notes" : [ "「作ります」是「作る」的ます形，表示现在或未来的肯定动作。在口语和正式场合中广泛使用。其基本形「作る」是五段动词，但ます形为「作ります」。含义根据上下文可扩展为制作物品、创作作品、建立组织或制定规则等。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3068,
+  "word" : "作ります、造ります",
+  "reading" : "つくります",
+  "romaji" : null,
+  "meaning" : [ "制作する；製造する；建造する。" ],
+  "notes" : [ "「作ります」は料理、計画、作品など幅広いものを対象とする。\n「造ります」は船、ビル、酒など比較的大規模なものや工業製品を対象とする。\n辞書形（基本形）は「作る」、「造る」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3069,
+  "word" : "作り上げる",
+  "reading" : "つくりあげる",
+  "romaji" : null,
+  "meaning" : [ "1. 制作完成，做完（某个物品或作品）。 2. 捏造，虚构（虚假的事情）。" ],
+  "notes" : [ "这是一个复合动词，由「作る（つくる）」和「上げる（あげる）」构成。表示“完成制作”或引申为“凭空捏造”。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3070,
+  "word" : "作り出す",
+  "reading" : "つくりだす",
+  "romaji" : null,
+  "meaning" : [ "1. 製造する、生産する。 2. 新たに生み出す、創作する。 3. （何かを）始める、着手する。" ],
+  "notes" : [ "「作り出す」は、物理的な物を製造する意味と、抽象的な概念や状況を新たに生み出す意味の両方で使われる。また、時間や機会を「捻出する」という意味でも用いられる。漢字表記は「作り出す」が一般的だが、「造り出す」と書くこともある。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3071,
+  "word" : "作り直す",
+  "reading" : "つくりなおす",
+  "romaji" : null,
+  "meaning" : [ "重新制作；重新做；重做；改造。" ],
+  "notes" : [ "「作り直す」是由动词「作る」的连用形「作り」加上动词「直す」构成的复合动词，表示重新进行制作或改造的行为。这是一个常用的表达，多用于手工、料理、文件、计划等需要修改或重新开始的情况。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3072,
+  "word" : "作る",
+  "reading" : "つくる",
+  "romaji" : null,
+  "meaning" : [ "1. 物を組み立てたり材料を加工したりして、新たなものを作り出す。\n2. 作物を栽培する。\n3. 文章や音楽、芸術作品などを創作する。\n4. 人との関係や組織などを新たに形成する。\n5. 食事を調理する。" ],
+  "notes" : [ "・「造る」は、船や建物など大きなものを建造する場合に使い分けることがある。\n・「創る」は、芸術作品など創造性の高いものを創作する場合に使い分けることがある。\n・日常会話で非常に頻繁に使用される基本動詞。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3073,
+  "word" : "作動",
+  "reading" : "さどう",
+  "romaji" : null,
+  "meaning" : [ "(機械や装置が)動き始めること、機能し始めること。" ],
+  "notes" : [ "「作動する」という形で自動詞として用いられることが多い。機械やシステムの起動・稼働を表す。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3074,
+  "word" : "作品",
+  "reading" : "さくひん",
+  "romaji" : null,
+  "meaning" : [ "作品，创作物（指文学、艺术、音乐、电影等创作成果）" ],
+  "notes" : [ "通常指有形的、具体的创作成果，如小说、绘画、电影等。与表示抽象“工作”的「仕事（しごと）」不同。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3075,
+  "word" : "作家",
+  "reading" : "さっか",
+  "romaji" : null,
+  "meaning" : [ "作家；作者；从事文学、艺术创作的人。" ],
+  "notes" : [ "「作家」通常指小说家、剧作家等文学创作者，广义上也包括画家、雕刻家等艺术家。与「作者（さくしゃ）」相比，「作家」更强调以此为职业。数字0表示平板型声调（第一拍低，后续拍子高）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3076,
+  "word" : "作成",
+  "reading" : "さくせい",
+  "romaji" : null,
+  "meaning" : [ "制作，拟定，作成（多用于制作文件、计划等书面材料）" ],
+  "notes" : [ "「作成」是一个「サ変動詞」，词干是「作成」，后接「する」构成动词。常与「書類」「計画」「文書」等词搭配使用，强调有目的地制作、拟定出某种书面材料。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3077,
+  "word" : "作文",
+  "reading" : "さくぶん",
+  "romaji" : null,
+  "meaning" : [ "作文；文章；写作" ],
+  "notes" : [ "表示写成的文章，也指写作这一行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3078,
+  "word" : "作曲",
+  "reading" : "さっきょく",
+  "romaji" : null,
+  "meaning" : [ "作曲，谱曲（音乐作品的创作）。亦可作为サ变动词使用，意为“作曲”。" ],
+  "notes" : [ "作为动词使用时，是「作曲する」，属于サ行变格活用动词（サ変動詞）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3079,
+  "word" : "作曲家",
+  "reading" : "さっきょくか",
+  "romaji" : null,
+  "meaning" : [ "作曲家。创作音乐作品的人。" ],
+  "notes" : [ "「か」是表示职业或身份的后缀。请注意「作」的促音变化，读作「さっ」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3080,
+  "word" : "作業",
+  "reading" : "さぎょう",
+  "romaji" : null,
+  "meaning" : [ "工作；作业；操作（指具体的手工或体力劳动，或指为完成特定任务而进行的活动）" ],
+  "notes" : [ "该词常指具体的、需要动手操作或按步骤进行的工作，与更抽象的「仕事」有所区别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3081,
+  "word" : "作法",
+  "reading" : "さほう",
+  "romaji" : null,
+  "meaning" : [ "1. 礼仪，礼节，规矩。2. 方法，做法。" ],
+  "notes" : [ "在表示“礼仪、规矩”的含义时，是更常见的用法。与表示“制作方法”的「作り方（つくりかた）」在含义和用法上有所区别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3082,
+  "word" : "作物",
+  "reading" : "さくもつ",
+  "romaji" : null,
+  "meaning" : [ "农作物，庄稼。" ],
+  "notes" : [ "这是一个名词，没有活用变化。通常指为收获而栽培的植物，如谷物、蔬菜、水果等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3083,
+  "word" : "作用",
+  "reading" : "さよう",
+  "romaji" : null,
+  "meaning" : [ "作用，影响；效果" ],
+  "notes" : [ "作为名词使用表示“作用、效果”。也可用作サ变动词，如“作用する”，表示“起作用、产生影响”，此时活用类型为“サ行変格活用”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3084,
+  "word" : "作製",
+  "reading" : "さくせい",
+  "romaji" : null,
+  "meaning" : [ "制作、製造（特に図面、模型、地図、書類などを制作すること）" ],
+  "notes" : [ "「製作」と混同されやすいが、「作製」は図面や書類など比較的小規模なものの制作に用い、「製作」は機械や映画など大規模なものの製造・制作に用いる傾向がある。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3085,
+  "word" : "使いこなす",
+  "reading" : "つかいこなす",
+  "romaji" : null,
+  "meaning" : [ "熟練して自由に使いこなすこと。道具や技術、言語などを完全に自分のものとして扱えるようになること。" ],
+  "notes" : [ "「使う」と「こなす（消化する、処理する）」の複合動詞。物事を単に使うだけでなく、その機能や可能性を十分に引き出して活用するというニュアンスが含まれる。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3086,
+  "word" : "使います",
+  "reading" : "つかいます",
+  "romaji" : null,
+  "meaning" : [ "使用；利用；雇用；花费（金钱、时间等）" ],
+  "notes" : [ "「使います」是动词「使う」的ます形（礼貌体）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3087,
+  "word" : "使い分け",
+  "reading" : "つかいわけ",
+  "romaji" : null,
+  "meaning" : [ "根据情况区分使用；灵活运用" ],
+  "notes" : [ "「使い分け」是动词「使い分ける」的名词形。在表示“根据场合或目的区分使用不同事物”的含义时，通常用这个名词形式。它也可以作为サ变动词「使い分けする」的词干使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3088,
+  "word" : "使い切る",
+  "reading" : "つかいきる",
+  "romaji" : null,
+  "meaning" : [ "用完，花光；用尽，耗尽" ],
+  "notes" : [ "由动词「使う」的连用形「使い」和动词「切る」复合而成，表示彻底使用或消耗完毕。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3089,
+  "word" : "使い捨て",
+  "reading" : "つかいすて",
+  "romaji" : null,
+  "meaning" : [ "一次性使用；用完即弃。" ],
+  "notes" : [ "作为名词使用，通常直接修饰其他名词，构成复合词，如「使い捨てカメラ」、「使い捨て容器」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3090,
+  "word" : "使い方",
+  "reading" : "つかいかた",
+  "romaji" : null,
+  "meaning" : [ "用法，使用方法，使用方式" ],
+  "notes" : [ "由动词「使う」的连用形「使い」加上形式名词「方」构成，表示“方法”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3091,
+  "word" : "使う",
+  "reading" : "つかう",
+  "romaji" : null,
+  "meaning" : [ "使用，利用；雇佣；花费（时间、金钱等）" ],
+  "notes" : [ "这是一个非常基础且常用的动词。在表示“花费（金钱）”时，与“かかる”不同，“使う”强调主体的主动行为。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3092,
+  "word" : "使命",
+  "reading" : "しめい",
+  "romaji" : null,
+  "meaning" : [ "使命，任务，指被赋予的重要职责或命令。" ],
+  "notes" : [ "常用汉字词汇，常用于正式或书面语中，表示被赋予的重大责任或任务。与「任務」相比，更侧重于使命感和重大意义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3093,
+  "word" : "使役形",
+  "reading" : "しえきけい",
+  "romaji" : null,
+  "meaning" : [ "表示使役的动词形态，即表示让他人做某事或使某物发生某种变化的语法形式。例如，动词「する」的使役形是「させる」。" ],
+  "notes" : [ "使役助动词「せる」接在五段动词未然形后，「させる」接在一段动词、カ变动词和サ变动词的未然形后。サ变动词「する」的使役形是「させる」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3094,
+  "word" : "使役受身形",
+  "reading" : "しえきうけみけい",
+  "romaji" : null,
+  "meaning" : [ "使役助動詞「せる/させる」と受身助動詞「られる」が結合した文法形式。動作主が他者から強制や依頼を受けて、ある動作をせざるを得ない状況を表す。" ],
+  "notes" : [ "1. 五段動詞：未然形 + せられる → 通常「される」に短縮される（例：行かせられる → 行かされる）。\n2. 一段動詞/カ変動詞/サ変動詞：未然形 + させられる（例：食べさせられる、来させられる、勉強させられる）。\n3. この形式は、話者にとって好ましくない、または負担に感じる出来事を表すことが多い。\n4. より一般的な呼称は「使役受身形」であり、「使役被动形式」は直訳的な表現。" ],
+  "pos" : "GRAMMAR",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3095,
+  "word" : "使用",
+  "reading" : "しよう",
+  "romaji" : null,
+  "meaning" : [ "使うこと。用いること。" ],
+  "notes" : [ "「使用する」はサ変動詞としても使われるが、単独で「使用」の形で名詞としても頻繁に用いられる。動詞としての基本形は「使用する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3096,
+  "word" : "使用料",
+  "reading" : "しようりょう",
+  "romaji" : null,
+  "meaning" : [ "使用费；使用租金；使用代价（为使用某物或服务而支付的费用）" ],
+  "notes" : [ "\"使用料\" 是一个复合名词，由 \"使用\"（使用）和 \"料\"（费用）构成。它与 \"使用費\"（しようひ）意思基本相同，可以互换使用，但 \"使用料\" 在某些固定搭配（如公共设施、服务）中更常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3097,
+  "word" : "例",
+  "reading" : "れい",
+  "romaji" : null,
+  "meaning" : [ "例子，实例；惯例，常例；前例，先例；榜样，范例" ],
+  "notes" : [ "作为名词使用，没有动词活用。在N4-N3级别中属于基础且重要的词汇，常与「挙げる」、「示す」等动词搭配使用。在商务或正式场合，也常表示“惯例”或“前例”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3098,
+  "word" : "例えば",
+  "reading" : "たとえば",
+  "romaji" : null,
+  "meaning" : [ "例えば；用于举例说明。" ],
+  "notes" : [ "接続詞としての用法もあるが、主に副詞として使われる。話し言葉でも書き言葉でもよく使われる。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3099,
+  "word" : "例える",
+  "reading" : "たとえる",
+  "romaji" : null,
+  "meaning" : [ "1. 比喻，比方，打比方。2. 举例说明。" ],
+  "notes" : [ "「例える」通常写作假名，但也可写作汉字「譬える」。其对应的名词形式是「例え」。它属于一段动词（下一段），其活用变化为：たとえ（ない・ます・よう）、たとえ（て・た）、たとえる、たとえれ（ば）、たとえろ/たとえよ（命令形）。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3100,
+  "word" : "例年",
+  "reading" : "れいねん",
+  "romaji" : null,
+  "meaning" : [ "往年，历年，常年" ],
+  "notes" : [ "表示“每年都这样”或“按照往年的惯例”的意思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

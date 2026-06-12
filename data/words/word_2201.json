@@ -1,0 +1,901 @@
+[ {
+  "id" : 2201,
+  "word" : "ヨーロッパ",
+  "reading" : "よーろっぱ",
+  "romaji" : null,
+  "meaning" : [ "欧洲（欧罗巴洲）" ],
+  "notes" : [ "源自外来语Europe，是对欧洲的标准日语称呼" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2202,
+  "word" : "ライオン",
+  "reading" : "らいおん",
+  "romaji" : null,
+  "meaning" : [ "狮子（源于英语lion的外来语，指猫科豹属的大型食肉动物）" ],
+  "notes" : [ "常用外来语，来自英语\"lion\"的音译" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2203,
+  "word" : "ライセンス",
+  "reading" : "らいせんす",
+  "romaji" : null,
+  "meaning" : [ "许可；执照，许可证；（软件等的）授权" ],
+  "notes" : [ "源自英语单词\"license\"，是日语外来语词汇，日常商务、IT领域使用频率较高。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2204,
+  "word" : "ライター",
+  "reading" : "らいたー",
+  "romaji" : null,
+  "meaning" : [ "1. 打火机；2. （作家、记者等的）撰稿人，作者；3. （电子设备的）写入器" ],
+  "notes" : [ "源自英语单词\"lighter\"和\"writer\"，是日语外来语，根据语境有不同含义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2205,
+  "word" : "ライト",
+  "reading" : "らいと",
+  "romaji" : null,
+  "meaning" : [ "1. 灯光，灯；2. 轻的，轻便的；3. 浅色的，淡色的；4. 轻量的，轻松的" ],
+  "notes" : [ "该词是英语「light」的外来语，涵盖原词多个义项，日常使用频率较高。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2206,
+  "word" : "ライバル",
+  "reading" : "らいばる",
+  "romaji" : null,
+  "meaning" : [ "竞争对手，竞争者；情敌" ],
+  "notes" : [ "来源于英语单词\"rival\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2207,
+  "word" : "ライフ",
+  "reading" : "raifu",
+  "romaji" : null,
+  "meaning" : [ "生活；生命；人生；（高尔夫等运动中的）击球次数" ],
+  "notes" : [ "源自英语单词\"life\"的外来语，是日语中常用的日常词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2208,
+  "word" : "ライフサイエンス",
+  "reading" : "らいふさいえんす",
+  "romaji" : null,
+  "meaning" : [ "生命科学，是研究生命现象、探索生命起源和进化规律、开发与生命相关的新技术，以改善人类健康、解决生态环境等问题的综合学科领域" ],
+  "notes" : [ "日语外来语，源自英语\"life science\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2209,
+  "word" : "ライフスタイル",
+  "reading" : "らいふすたいる",
+  "romaji" : null,
+  "meaning" : [ "生活方式，指个人或群体在日常生活中养成的行为、习惯、价值观等的整体生活模式" ],
+  "notes" : [ "源自英语“lifestyle”的外来语，属于日语常用外来语词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2210,
+  "word" : "ライブ",
+  "reading" : "ライブ",
+  "romaji" : null,
+  "meaning" : [ "1. 现场演出，演唱会（指歌手、音乐人面向观众的现场音乐演出）；2. 现场直播；3. （计算机术语）活的，在线的，实时的" ],
+  "notes" : [ "来自英语单词\"live\"的外来语，日语中常用指代音乐现场演唱会，是日语中使用频率很高的外来语词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2211,
+  "word" : "ライン",
+  "reading" : "rain",
+  "romaji" : null,
+  "meaning" : [ "线；线条；路线；航线；排，列；（社交）好友列表；（企业内部的）一线部门，现场部门；边界线；短信应用Line（谐音常用义）" ],
+  "notes" : [ "该词是英语\"line\"的外来语，在日本常用作知名社交聊天软件\"Line\"的代称，也是日语能力考N3级要求掌握的常用外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2212,
+  "word" : "ラグビー",
+  "reading" : "らぐびー",
+  "romaji" : null,
+  "meaning" : [ "橄榄球（源自英语Rugby，指橄榄球运动，也可指橄榄球）" ],
+  "notes" : [ "外来语，来自英语\"Rugby\"，日语中一般指英式橄榄球，区别于アメリカンフットボール（美式橄榄球）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2213,
+  "word" : "ラグビーボール",
+  "reading" : "ラグビーボール",
+  "romaji" : null,
+  "meaning" : [ "橄榄球" ],
+  "notes" : [ "来自英语\"rugby ball\"的外来语，指橄榄球运动使用的球，也可指代橄榄球运动本身。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2214,
+  "word" : "ラケット",
+  "reading" : "らけっと",
+  "romaji" : null,
+  "meaning" : [ "（网球、羽毛球等运动使用的）球拍" ],
+  "notes" : [ "来自英语单词\"racket\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2215,
+  "word" : "ラジオ",
+  "reading" : "らじお",
+  "romaji" : null,
+  "meaning" : [ "收音机；无线电广播" ],
+  "notes" : [ "该词源自英语\"radio\"，是日语外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2216,
+  "word" : "ラジオ体操",
+  "reading" : "ラジオたいそう",
+  "romaji" : null,
+  "meaning" : [ "广播体操，是日本通过广播放送伴奏音乐、引导口令来进行的集体体操运动，在学校、职场、社区广泛开展" ],
+  "notes" : [ "原标注的数字4为音调标注，读音无需标注音调；该词本质为名词，不属于其他词性；是日语基础生活词汇，难度对应N5级别" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2217,
+  "word" : "ラスト",
+  "reading" : "らすと",
+  "romaji" : null,
+  "meaning" : [ "1. 来自英语\"last\"，表示最后、末尾、最终；2. 作为接头词表示「最后的…」「上一个…」" ],
+  "notes" : [ "日语外来语，源自英语last，在日语中多用于日常场景和各类固定搭配中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2218,
+  "word" : "ラッキー",
+  "reading" : "rakkii",
+  "romaji" : null,
+  "meaning" : [ "幸运的，走运的，侥幸的" ],
+  "notes" : [ "来自英语借词\"lucky\"，日常口语中也可单独作为感叹词使用，表示\"好运气！真幸运！\"" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2219,
+  "word" : "ラッシュ",
+  "reading" : "らっしゅ",
+  "romaji" : null,
+  "meaning" : [ "1. （交通）高峰，拥挤；2. 热潮，风潮；3. 冲，突进；4. （化妆）闪粉" ],
+  "notes" : [ "来自英语\"rush\"，常用搭配「ラッシュアワー」指交通高峰时段" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2220,
+  "word" : "ラッシュアワー",
+  "reading" : "ラッシュアワー",
+  "romaji" : null,
+  "meaning" : [ "源自英语rush hour，指通勤高峰时段，即上下班交通最拥挤的时间段" ],
+  "notes" : [ "外来语，也可略称ラッシュ" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2221,
+  "word" : "ラップ",
+  "reading" : "らっぷ",
+  "romaji" : null,
+  "meaning" : [ "1. 保鲜膜；2. 绕圈，包扎，包裹；3. 说唱音乐（rap）；4. （赛马）圈" ],
+  "notes" : [ "该词是英语「wrap」和「rap」的外来语，最常用义为食品保鲜膜" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2222,
+  "word" : "ラフ",
+  "reading" : "ra fu",
+  "romaji" : null,
+  "meaning" : [ "1.（质地、表面）粗糙的，不光滑的；2.（计划、方案等）粗略的，大致的，笼统的；3.（风格、态度等）粗疏的，不加修饰的，不拘小节的；4.服装中休闲宽松的；5.高尔夫球场的粗草区" ],
+  "notes" : [ "该词是来自英语\"rough\"的外来语，作为形容动词使用时后续だ修饰名词用な，修饰动词用に。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2223,
+  "word" : "ラベル",
+  "reading" : "ラベル",
+  "romaji" : null,
+  "meaning" : [ "1. （商品等的）标签，签条；2. （计算机领域的）标签；3. 商标，品牌" ],
+  "notes" : [ "源自英语单词\"label\"，是日语外来语词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2224,
+  "word" : "ランク",
+  "reading" : "らんく",
+  "romaji" : null,
+  "meaning" : [ "1. 等级，级别；2. 顺序，名次；3.（也可作サ変動詞使用）排序，分等级" ],
+  "notes" : [ "来自英语单词\"rank\"的外来语，可作为名词使用，也可作サ変活用动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2225,
+  "word" : "ランクづけ",
+  "reading" : "らんくづけ",
+  "romaji" : null,
+  "meaning" : [ "排名次，划分等级，给…评定等级" ],
+  "notes" : [ "也可写作「ランク付け」，是由外来语「ランク（rank，等级、排名）」与「付け」复合而成的名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2226,
+  "word" : "ランチ",
+  "reading" : "ランチ",
+  "romaji" : null,
+  "meaning" : [ "源自英语lunch，指午餐，也可指餐厅提供的午餐套餐、便餐" ],
+  "notes" : [ "外来语，在日本日常使用中常特指午餐套餐" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2227,
+  "word" : "ランニング",
+  "reading" : "ランニング①",
+  "romaji" : null,
+  "meaning" : [ "1.名词义：跑步，赛跑；（衣物等的）针脚滚边；2.动词义：跑步，奔跑" ],
+  "notes" : [ "来源于英语单词\"running\"，是日语外来词，既可以单独作名词使用，也可以后续「する」构成サ变动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2228,
+  "word" : "ラーメン",
+  "reading" : "らーめん",
+  "romaji" : null,
+  "meaning" : [ "拉面，日式拉面，源自中文“拉面”的日式外来语，指日式碱水拉面及对应的料理" ],
+  "notes" : [ "来自中文的外来语，是日本最具代表性的大众料理之一，根据汤底可分为醤油ラーメン、味噌ラーメン、とんこつラーメン等多种分类" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2229,
+  "word" : "リクエスト",
+  "reading" : "りくえすと",
+  "romaji" : null,
+  "meaning" : [ "要求，请求；（广播、演出等的）点播，点歌；（向创作者、商家提出的）约稿，定制需求" ],
+  "notes" : [ "来自英语\"request\"的外来语，可作为名词使用，也可以后续「する」构成サ変活用动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2230,
+  "word" : "リクルートスーツ",
+  "reading" : "りくるーとすーつ",
+  "romaji" : null,
+  "meaning" : [ "求职西装，求职套装，指日本学生求职活动中穿着的正式西装" ],
+  "notes" : [ "源自英语\"recruit suit\"，是日本求职文化中特有的说法，要求款式简约保守，多用于求职说明会、面试等求职场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2231,
+  "word" : "リコール",
+  "reading" : "りこーる",
+  "romaji" : null,
+  "meaning" : [ "1.（政治）罢免（由公民投票解除公职人员职务）；2.（工商业）召回（厂家召回缺陷产品）；3.（心理学）回忆、再现" ],
+  "notes" : [ "该词是源自英语\"recall\"的外来语，可作为サ変動詞使用，核心义为召回、撤回、罢免。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2232,
+  "word" : "リサイクル",
+  "reading" : "リサイクル",
+  "romaji" : null,
+  "meaning" : [ "1. 名词：回收再利用，循环利用；2. 动词：回收，循环使用，再利用" ],
+  "notes" : [ "源自英语\"recycle\"，是日语外来词，可作名词使用，也可后接「する」构成サ变动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2233,
+  "word" : "リスク",
+  "reading" : "りすく",
+  "romaji" : null,
+  "meaning" : [ "来自英语“risk”，指可能发生的危险、风险，也可指保险业中的风险" ],
+  "notes" : [ "是日语外来语，片假名形式，词性为名词，通常在日语商业、金融领域高频使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2234,
+  "word" : "リスト",
+  "reading" : "りすと",
+  "romaji" : null,
+  "meaning" : [ "目录；名单；一览表；（计算机中的）列表" ],
+  "notes" : [ "来自英语单词\"list\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2235,
+  "word" : "リストラ",
+  "reading" : "リストラ①",
+  "romaji" : null,
+  "meaning" : [ "是日语「リストラクチャリング（restructuring）」的缩略语，指企业为了改善经营状况进行的机构重组、人员精简，常译为裁员、企业重组" ],
+  "notes" : [ "源自英语restructuring，是日语中对企业经营重构裁员的常用略称，在商务语境中高频使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2236,
+  "word" : "リズム",
+  "reading" : "リズム",
+  "romaji" : null,
+  "meaning" : [ "来自英语「rhythm」，指音乐、舞蹈等的节奏，韵律；也可指生活、动作等有规律的节拍、律动" ],
+  "notes" : [ "外来语，对应中文的「节奏、韵律」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2237,
+  "word" : "リゾート",
+  "reading" : "りぞーと",
+  "romaji" : null,
+  "meaning" : [ "源自英语resort，指休养地、度假地，也可指度假休闲设施" ],
+  "notes" : [ "外来语，来自英语单词\"resort\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2238,
+  "word" : "リニューアル",
+  "reading" : "ri'nyu-aru",
+  "romaji" : null,
+  "meaning" : [ "更新；翻新；重建；改建（指对设施、建筑、内容等改造升级，使其更新更好）" ],
+  "notes" : [ "来源于英语单词\"renewal\"，通常以「～する」的形式作动词使用，属于外来语サ変名詞，多用于商业、建筑、内容改造等场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2239,
+  "word" : "リハビリ",
+  "reading" : "リハビリ",
+  "romaji" : null,
+  "meaning" : [ "康复，康复训练，康复治疗。源自英语“rehabilitation”的简称，指通过训练和治疗使患者恢复身体机能或社会功能的过程。" ],
+  "notes" : [ "常以“リハビリ（テーション）”的形式出现，日常会话中多简称为“リハビリ”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2240,
+  "word" : "リビングルーム",
+  "reading" : "リビングルーム",
+  "romaji" : null,
+  "meaning" : [ "起居室，客厅（源自英语“living room”的外来语）" ],
+  "notes" : [ "常简称为「リビング」。在口语和书面语中均常用。属于日常生活中的基础词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2241,
+  "word" : "リフォーム",
+  "reading" : "リフォーム",
+  "romaji" : null,
+  "meaning" : [ "翻新，改造（尤指对住宅、室内装修的改造）" ],
+  "notes" : [ "这是一个外来语，源自英语的“reform”。在日语中，其含义通常特指对住宅、建筑或室内装修的改造和翻新，与表示社会、制度“改革”的「改革（かいかく）」含义不同。作为名词，常与「する」连用构成サ变动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2242,
+  "word" : "リフレッシュ",
+  "reading" : "リフレッシュ",
+  "romaji" : null,
+  "meaning" : [ "1. 刷新；更新（尤指电脑、系统或网页）。2. （精神、身体的）恢复，振作。" ],
+  "notes" : [ "作为サ变动词使用时，其活用形式为「リフレッシュする・します・した・しない」等，属于不规则活用（三类动词）。原条目中词性标记为动词不准确，更精确的分类应为名词或サ变动词。该词通常用于描述从疲劳或压力中恢复的状态，或指电脑、网页的刷新操作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2243,
+  "word" : "リボン",
+  "reading" : "ribon",
+  "romaji" : null,
+  "meaning" : [ "缎带，丝带（多指装饰用的带状物）" ],
+  "notes" : [ "外来语，源自英语 \"ribbon\"。在日语中作为名词使用，无活用变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2244,
+  "word" : "リモコン",
+  "reading" : "りもこん",
+  "romaji" : null,
+  "meaning" : [ "遥控器（remote control的简称）" ],
+  "notes" : [ "外来语，是\"リモート コントロール (remote control)\"的缩写，常用于指代电视、空调等家用电器的遥控器。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2245,
+  "word" : "リューマチ",
+  "reading" : "リューマチ",
+  "romaji" : null,
+  "meaning" : [ "风湿病，一种以关节疼痛和炎症为主要症状的慢性疾病。" ],
+  "notes" : [ "外来语，源自英语 \"rheumatism\"。也常写作片假名 \"リウマチ\"，两种写法均常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2246,
+  "word" : "リラックス",
+  "reading" : "リラックス",
+  "romaji" : null,
+  "meaning" : [ "放松，松弛，使身心得到休息" ],
+  "notes" : [ "这是一个外来语动词，源自英语的“relax”。在日语中通常以「リラックスする」的形式使用，属于サ变动词。其名词形式为「リラクゼーション」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2247,
+  "word" : "リラックスする",
+  "reading" : "リラックスする",
+  "romaji" : null,
+  "meaning" : [ "放松，松弛；使心情或身体轻松" ],
+  "notes" : [ "外来语动词，由英语 'relax' 演变而来。通常用于表示使身心放松的状态。在口语和书面语中都很常见。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2248,
+  "word" : "リレー",
+  "reading" : "リレー",
+  "romaji" : null,
+  "meaning" : [ "接力；传递；中继；继电器" ],
+  "notes" : [ "外来語，源自英語 \"relay\"。作为名词使用，表示接力赛或传递的行为，也用于电气工程领域表示继电器。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2249,
+  "word" : "リンゴ",
+  "reading" : "りんご",
+  "romaji" : null,
+  "meaning" : [ "苹果，蔷薇科苹果属的落叶乔木及其果实。" ],
+  "notes" : [ "外来语标记，源自葡萄牙语 \"línco\" 或荷兰语 \"appel\"。也写作「林檎」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2250,
+  "word" : "リーダー",
+  "reading" : "リーダー",
+  "romaji" : null,
+  "meaning" : [ "1. 指導者。指揮者。集団の先頭に立って導く人。\n2. （出版物などの）編集長。\n3. コンピュータープログラムで、データの読み出しや制御を行う装置やプログラム。\n4. （テープなどの）巻き取り部分。" ],
+  "notes" : [ "英語の \"leader\" からの外来語。文脈によって具体的な意味が異なる。一般的には「指導者」の意味で使われることが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2251,
+  "word" : "リーダーシップ",
+  "reading" : "リーダーシップ",
+  "romaji" : null,
+  "meaning" : [ "领导能力，统率力" ],
+  "notes" : [ "英语 'leadership' 的外来语。多用于商业、组织、团队管理等语境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2252,
+  "word" : "リード",
+  "reading" : "リード",
+  "romaji" : null,
+  "meaning" : [ "领导，带领；领先，优势" ],
+  "notes" : [ "作为外来语名词使用，表示“领导、领先（的状态或地位）”。虽然有时在口语中会作为动词使用（如“リードする”），但其词性本质是名词，动词形式是“サ变动词”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2253,
+  "word" : "ルーズ",
+  "reading" : "ルーズ",
+  "romaji" : null,
+  "meaning" : [ "① （時間・規律などに）だらしがない、締まりがない、緩い。② （衣服などが）だぶだぶでゆるい。" ],
+  "notes" : [ "英語の \"loose\" に由来する外来語。口語では形容詞的に使われることもあるが、文法的にはナ形容詞（形容動詞）として扱われる。連体形は「ルーズな」、連用形は「ルーズに」となる。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2254,
+  "word" : "ルーツ",
+  "reading" : "ルーツ",
+  "romaji" : null,
+  "meaning" : [ "根源，起源，祖先。指事物的根本起源或家族、文化的源头。" ],
+  "notes" : [ "英语\"roots\"的外来语，在日常会话和书面语中均广泛使用。通常指抽象的、历史性的起源或家族、文化的根源。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2255,
+  "word" : "ルール",
+  "reading" : "ルール",
+  "romaji" : null,
+  "meaning" : [ "规则，章程，规定，常规，惯例" ],
+  "notes" : [ "外来语，源自英语 'rule'。在日语中作为名词使用，没有活用变化。通常指需要遵守的既定规则、游戏规则、社会规范或惯例。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2256,
+  "word" : "レインコート",
+  "reading" : "れいんこーと",
+  "romaji" : null,
+  "meaning" : [ "雨衣，雨披。一种防水的长外套，通常在下雨时穿着以保持身体干燥。" ],
+  "notes" : [ "这是一个外来语词汇，源自英语 \"raincoat\"。在日语中广泛使用，其含义和用法与中文的“雨衣”基本一致。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2257,
+  "word" : "レギュラー",
+  "reading" : "れぎゅらー",
+  "romaji" : null,
+  "meaning" : [ "正式なメンバー、常連、正規のもの、標準のもの、定番、通常のサイズや種類" ],
+  "notes" : [ "外来語（英語 regular）。スポーツチームの「正選手」、飲食店の「常連客」、商品の「標準サイズ/種類」など、文脈によって意味が異なる。カタカナ表記が一般的。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2258,
+  "word" : "レシピ",
+  "reading" : "れしぴ",
+  "romaji" : null,
+  "meaning" : [ "食谱，烹饪法，制作方法" ],
+  "notes" : [ "外来语，源自英语 \"recipe\"。常用于指代烹饪食谱，也可引申用于其他领域的制作方法或配方。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2259,
+  "word" : "レシート",
+  "reading" : "れしーと",
+  "romaji" : null,
+  "meaning" : [ "收据，小票" ],
+  "notes" : [ "外来语，来自英语\"receipt\"。在口语中有时会省略促音，读作\"レシト\"，但标准读法如修订所示。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2260,
+  "word" : "レジ",
+  "reading" : "れじ",
+  "romaji" : null,
+  "meaning" : [ "1. 收银台，收银处（レジスター的简称） 2. 收银员（用于指代收银员的工作，或非正式地指代收银员本人）" ],
+  "notes" : [ "「レジ」是外来语「レジスター（register）」的简称，在日常口语中广泛使用。虽然偶尔用于指代收银员本人，但更常用「レジ係」或「キャッシャー」来明确指人。其含义需根据上下文判断是指地点还是指人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2261,
+  "word" : "レジ/レジスター",
+  "reading" : "れじ/れじすたー",
+  "romaji" : null,
+  "meaning" : [ "1. 收银台，收款处；2. 收银机；3. 收银员" ],
+  "notes" : [ "「レジ」是「レジスター」的缩略形式，在日常会话中更为常用。通常指代收银台、收银机或收银员，具体含义根据上下文判断。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2262,
+  "word" : "レジャー",
+  "reading" : "レジャー",
+  "romaji" : null,
+  "meaning" : [ "余暇、または余暇に行う娯楽・遊び。" ],
+  "notes" : [ "英語 \"leisure\" からの外来語。通常、カタカナ表記で使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2263,
+  "word" : "レジュメ",
+  "reading" : "れじゅめ",
+  "romaji" : null,
+  "meaning" : [ "摘要，梗概，总结（通常指会议、演讲或论文的概要，源自法语résumé）" ],
+  "notes" : [ "这是一个外来语，通常用于学术或商务场合，指简短的书面概要。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2264,
+  "word" : "レジ袋",
+  "reading" : "レジぶくろ",
+  "romaji" : null,
+  "meaning" : [ "购物袋，塑料袋（特指在超市、便利店等收银台提供的塑料袋，多为有偿使用）" ],
+  "notes" : [ "该词是\"レジ（收银台）\"和\"袋\"组成的复合词，反映了日本为减少塑料垃圾而推广有偿使用的社会背景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2265,
+  "word" : "レストラン",
+  "reading" : "resutoran",
+  "romaji" : null,
+  "meaning" : [ "餐厅，西餐馆（尤指提供西式餐饮服务的场所）" ],
+  "notes" : [ "外来语，源自英语“restaurant”。通常指西式餐厅，与日式料理店（「和食屋」）或大众食堂（「食堂」）有所区别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2266,
+  "word" : "レセプション",
+  "reading" : "れせぷしょん",
+  "romaji" : null,
+  "meaning" : [ "招待会，欢迎会，宴会，接待处" ],
+  "notes" : [ "外来語（英語 reception より）。日本語では主に公式な歓迎会や披露宴などの意味で使用される。ホテルのフロントを意味する「フロント」や「受付」とは区別されるが、稀に「受付」の意味で使われることもある。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2267,
+  "word" : "レタス",
+  "reading" : "retasu",
+  "romaji" : null,
+  "meaning" : [ "生菜，叶用莴苣。一种常用于制作沙拉等生食的蔬菜。" ],
+  "notes" : [ "外来语，源自英语“lettuce”。通常作为可数名词使用，但有时也泛指这种蔬菜的整体。在日语中，它特指用于生食的生菜，与需要加热烹饪的“キャベツ”（卷心菜/高丽菜）不同。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2268,
+  "word" : "レッテル",
+  "reading" : "レッテル",
+  "romaji" : null,
+  "meaning" : [ "标签，商标；[引申义]（给人或事物轻易贴上的）固定标签，刻板印象" ],
+  "notes" : [ "源自荷兰语 \"letter\"。在日常使用中，其引申义（刻板印象、固定标签）更为常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2269,
+  "word" : "レバー",
+  "reading" : "レバー",
+  "romaji" : null,
+  "meaning" : [ "① 杠杆；手柄，操纵杆。② (动物的) 肝脏。③ (转义) 关键，核心部分。" ],
+  "notes" : [ "源自英语 'lever'。在机械、游戏等领域指操作杆；在食品领域通常指动物肝脏；也可用于比喻。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2270,
+  "word" : "レベル",
+  "reading" : "レベル",
+  "romaji" : null,
+  "meaning" : [ "水平，水准；标准，等级；（在游戏、学习等领域中表示能力的）级别" ],
+  "notes" : [ "外来语，源自英语 \"level\"。常用汉字表记为「レベル」，有时也写作「レヴェル」。在口语和书面语中都广泛使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2271,
+  "word" : "レポーター",
+  "reading" : "レポーター",
+  "romaji" : null,
+  "meaning" : [ "报告人；记者；（尤指电视或广播的）现场报道记者" ],
+  "notes" : [ "源自英语“reporter”的外来语。通常指在电视、广播等媒体进行现场报道的记者，与更广泛意义上的「記者」相比，语境上可能更侧重现场或外景工作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2272,
+  "word" : "レポート",
+  "reading" : "れぽーと",
+  "romaji" : null,
+  "meaning" : [ "报告；报告书；小论文" ],
+  "notes" : [ "这是一个外来语（来自英语 \"report\"），通常用作名词。作为动词使用 \"報告する\" 或 \"レポートを提出する\" 等表达方式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2273,
+  "word" : "レモン",
+  "reading" : "れもん",
+  "romaji" : null,
+  "meaning" : [ "柠檬（一种柑橘类水果，果实呈椭圆形，果皮黄色，味道酸，常用于调味或制作饮料）" ],
+  "notes" : [ "外来语，源自英语 'lemon'。在日语中作为普通名词使用，没有复杂的活用变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2274,
+  "word" : "レンズ",
+  "reading" : "レンズ",
+  "romaji" : null,
+  "meaning" : [ "1. (光学) 透镜。2. (相机、眼镜等的) 镜片。" ],
+  "notes" : [ "外来語，源自英语 \"lens\"。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2275,
+  "word" : "レンタカー",
+  "reading" : "レンタカー",
+  "romaji" : null,
+  "meaning" : [ "租赁汽车，租用汽车" ],
+  "notes" : [ "外来语，源自英语 \"rent-a-car\"。指提供短期或长期租车服务的车辆或公司。口语中有时简称为 \"レンタ\"。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2276,
+  "word" : "レントゲン",
+  "reading" : "れんとげん",
+  "romaji" : null,
+  "meaning" : [ "X線。また、X線写真。X線撮影。" ],
+  "notes" : [ "ドイツ語（Röntgen）に由来する外来語。人名（ヴィルヘルム・レントゲン）に基づく。医療現場では「X線」よりも「レントゲン」の呼称が一般的に使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2277,
+  "word" : "レーザー",
+  "reading" : "れーざー",
+  "romaji" : null,
+  "meaning" : [ "激光，镭射。通过受激发射光放大产生的、方向性和单色性极好的高强度光束。" ],
+  "notes" : [ "源自英语 \"laser\" (Light Amplification by Stimulated Emission of Radiation)。\"レーザー\" 是日语中的外来语片假名表记，属于名词，没有活用变化。在科技和日常生活中广泛使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2278,
+  "word" : "レール",
+  "reading" : "レール",
+  "romaji" : null,
+  "meaning" : [ "铁轨，钢轨，轨道；导轨，滑轨；（比喻）既定的路线或计划" ],
+  "notes" : [ "来自英语“rail”。作为名词，没有活用变化。在例句中，第二句是比喻用法，意为“事情步入正轨”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2279,
+  "word" : "ロケット",
+  "reading" : "ロケット",
+  "romaji" : null,
+  "meaning" : [ "火箭；人造卫星或宇宙飞船的发射装置；也指用于推进的装置。" ],
+  "notes" : [ "来自英语 \"rocket\"。在日语中通常指航天器或推进装置，也用于比喻快速上升或发展的事物（如「ロケットスタート」）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2280,
+  "word" : "ロス",
+  "reading" : "ろす",
+  "romaji" : null,
+  "meaning" : [ "损失，损耗；浪费" ],
+  "notes" : [ "「ロス」是英语外来词 \"loss\" 的音译，主要用作名词，表示损失或浪费。在特定上下文中，如「ロスする」的动词形式（サ变动词）也偶尔使用，但更常见的是名词用法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2281,
+  "word" : "ロッカー",
+  "reading" : "ロッカー",
+  "romaji" : null,
+  "meaning" : [ "储物柜，寄物柜；摇滚乐歌手" ],
+  "notes" : [ "该词有两个主要含义：1. 源自英语“locker”，指带锁的储物柜。2. 源自英语“rocker”，指摇滚乐手或摇滚乐爱好者。在日语中，两种含义都常用，需根据上下文判断。作为“储物柜”解时，更常见于日常生活场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2282,
+  "word" : "ロック",
+  "reading" : "ロックする",
+  "romaji" : null,
+  "meaning" : [ "锁上；锁定" ],
+  "notes" : [ "作为动词时，通常以「ロックする」的形式使用，是サ变动词。原词来自英语 \"lock\"，在日语中作为名词（锁）和动词（上锁）使用都很常见。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2283,
+  "word" : "ロビー",
+  "reading" : "ロビー",
+  "romaji" : null,
+  "meaning" : [ "（酒店、剧场、办公大楼等的）大厅，前厅，休息室" ],
+  "notes" : [ "外来语，源自英语 'lobby'。在日语中主要指建筑物入口处的公共空间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2284,
+  "word" : "ロボット",
+  "reading" : "ロボット",
+  "romaji" : null,
+  "meaning" : [ "机器人；自动机械；傀儡，没有自主思想、完全听从他人的人。" ],
+  "notes" : [ "外来语，源自英语 \"robot\"。在口语中有时会省略长音，简称为「ロボット」或「ロボ」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2285,
+  "word" : "ロマンチック",
+  "reading" : "ロマンチック",
+  "romaji" : null,
+  "meaning" : [ "浪漫的，富有浪漫色彩的，充满幻想的" ],
+  "notes" : [ "外来语，源自英语“romantic”。日语中常作な形容词（形容动词）使用。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2286,
+  "word" : "ロープ",
+  "reading" : "ロープ",
+  "romaji" : null,
+  "meaning" : [ "绳；绳索；缆绳。由纤维、金属丝等材料拧成或编成的长条状物，用于捆绑、牵引、悬挂等。" ],
+  "notes" : [ "源自英语“rope”。在日语中通常指较粗的、用于特定用途（如登山、航海、作业）的绳索，与日常的“ひも”（细绳、带子）或“なわ”（和式绳子）有所区别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2287,
+  "word" : "ロープウエー",
+  "reading" : "ロープウェー",
+  "romaji" : null,
+  "meaning" : [ "索道，缆车（一种利用钢索在空中运输乘客或货物的交通工具）" ],
+  "notes" : [ "也写作“ロープウェイ”。在日语中，“ウェー”或“ウェイ”都是对英语“way”的音译，两者都常用。该词为外来语，通常作为名词使用，没有活用变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2288,
+  "word" : "ローマ字",
+  "reading" : "ローマじ",
+  "romaji" : null,
+  "meaning" : [ "罗马字（用拉丁字母表记日语的方法，如平文式罗马字、训令式罗马字等）" ],
+  "notes" : [ "「ローマ字」是日语中固定的外来语词汇，特指用于拼写日语的拉丁字母系统。其读音为「ローマじ」，其中「字」读作「じ」，而非音读的「じ」或训读的「あざ」。在日语能力考试中，该词通常出现在N4级别。作为名词，没有活用变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2289,
+  "word" : "ローン",
+  "reading" : "ローン",
+  "romaji" : null,
+  "meaning" : [ "1. 贷款。2. （也指长期的）分期付款。" ],
+  "notes" : [ "1. 来自英语 \"loan\"。2. 在日语中，\"ローン\" 通常指消费信贷、住房贷款等，与更正式的 \"貸付（かしつけ）\" 相比更为口语化。3. 常与动词 \"組む（くむ）\" 搭配，构成 \"ローンを組む\" 的短语，意为 \"办理贷款\"。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2290,
+  "word" : "ワイシャツ",
+  "reading" : "わいしゃつ",
+  "romaji" : null,
+  "meaning" : [ "男用の襟付きの長袖または半袖のシャツ。ワイシャツ。" ],
+  "notes" : [ "和製英語。語源は英語の\"white shirt\"だが、白に限らず色柄物も含む。日本語では「ワイシャツ」または略して「シャツ」と呼ばれる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2291,
+  "word" : "ワイン",
+  "reading" : "わいん",
+  "romaji" : null,
+  "meaning" : [ "葡萄酒，用葡萄发酵制成的酒精饮料。" ],
+  "notes" : [ "外来語，源自英語 \"wine\"。通常指葡萄酒，也可泛指果酒，但通常需要加前缀，如 \"リンゴワイン\"（苹果酒）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2292,
+  "word" : "ワンパターン",
+  "reading" : "わんぱたーん",
+  "romaji" : null,
+  "meaning" : [ "千篇一律，一个模子，模式单一" ],
+  "notes" : [ "虽然有时作为名词使用时有类似形容动词的用法（如‘ワンパターンな展開’），但基本词性是名词。在能力考中，作为固定词汇理解即可，其难度通常被归为N2级别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2293,
+  "word" : "ワンピース",
+  "reading" : "ワンピース",
+  "romaji" : null,
+  "meaning" : [ "连衣裙，连身裙" ],
+  "notes" : [ "外来语，源自英语“one-piece”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2294,
+  "word" : "ワープロ",
+  "reading" : "ワープロ",
+  "romaji" : null,
+  "meaning" : [ "文字处理机，文字处理软件。是“ワードプロセッサー”的简称。" ],
+  "notes" : [ "这个词是“ワードプロセッサー”的缩略语，在口语和书面语中都非常常用。虽然现在多使用电脑的文字处理软件，但“ワープロ”一词依然广泛使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2295,
+  "word" : "ワールドカップ",
+  "reading" : "ワールドカップ",
+  "romaji" : null,
+  "meaning" : [ "世界杯（国际足联世界杯足球赛等国际性体育大赛的简称）" ],
+  "notes" : [ "外来语，源自英语“World Cup”。通常指足球世界杯，但也可用于其他运动项目（如橄榄球、板球等）的世界性大赛，需根据上下文判断。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2296,
+  "word" : "一",
+  "reading" : "いち",
+  "romaji" : null,
+  "meaning" : [ "一，数字1；最初，第一；一个；最好，第一；相同；稍微，一点；全，整个。" ],
+  "notes" : [ "作为汉字数字，有多种读法（如‘ひと’、‘ひとつ’），‘いち’是其最常用的音读形式。在复合词或特定语境中读音可能发生变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2297,
+  "word" : "一か八か",
+  "reading" : "いちかばちか",
+  "romaji" : null,
+  "meaning" : [ "成败在此一举；碰运气，听天由命。" ],
+  "notes" : [ "惯用句。源于赌博术语，表示掷骰子时出现的点数要么是“一”（いち），要么是“八”（はち），引申为赌一把、孤注一掷的意思。注意“八”在这里读作「ばち」。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2298,
+  "word" : "一つ",
+  "reading" : "ひとつ",
+  "romaji" : null,
+  "meaning" : [ "一个；一岁；一件事；一个方法" ],
+  "notes" : [ "「一つ」是日语中表示“一个”的基本数量词，属于“训读数词”。它不仅可以用于计数物体，还可以表示年龄（仅限于一岁），以及在抽象意义上表示“一件事”或“一个方法”。其对应的“音读数词”是「いち」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2299,
+  "word" : "一人",
+  "reading" : "ひとり",
+  "romaji" : null,
+  "meaning" : [ "一个人；独自；单身" ],
+  "notes" : [ "也可写作「独り」。在表示人数时，常与「二人」、「三人」等对比使用。作为副词使用时，表示“独自地”，如「一人で勉強する」。与「独り」相比，「一人」更常用于表示客观的“一个人”或人数，而「独り」有时带有主观的“孤单”或“独自”的语感。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2300,
+  "word" : "一人っ子",
+  "reading" : "ひとりっこ",
+  "romaji" : null,
+  "meaning" : [ "独生子女，独子，独女" ],
+  "notes" : [ "这是一个口语化较强的词，常用于日常会话。在正式文件中，更常用「一人子（ひとりご）」或直接描述「兄弟がいない子」。促音「っ」的发音要清晰。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

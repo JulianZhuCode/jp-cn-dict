@@ -1,0 +1,901 @@
+[ {
+  "id" : 5301,
+  "word" : "岬",
+  "reading" : "みさき",
+  "romaji" : null,
+  "meaning" : [ "海角，岬（突向海洋的陆地尖端）" ],
+  "notes" : [ "常用于地理名称，如「台風岬」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5302,
+  "word" : "岸",
+  "reading" : "きし",
+  "romaji" : null,
+  "meaning" : [ "岸，岸边，河岸，海岸" ],
+  "notes" : [ "指水的边缘，通常指河岸或海岸。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5303,
+  "word" : "峠",
+  "reading" : "とうげ",
+  "romaji" : null,
+  "meaning" : [ "山顶，山口；顶点，极点；关键时期，转折点" ],
+  "notes" : [ "常用汉字表外汉字（表外字），但在日常会话和文章中经常出现。通常指登山途中的最高点或山口，也用来比喻事物的最高潮或转折点。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5304,
+  "word" : "峰",
+  "reading" : "みね",
+  "romaji" : null,
+  "meaning" : [ "山顶，山峰；（刀剑的）脊，背；（物体的）凸起部分，尖端" ],
+  "notes" : [ "也可读作「ほう (hō)」，如「切っ先と峰（刀尖和刀背）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5305,
+  "word" : "島",
+  "reading" : "しま",
+  "romaji" : null,
+  "meaning" : [ "岛，岛屿" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5306,
+  "word" : "島国",
+  "reading" : "しまぐに",
+  "romaji" : null,
+  "meaning" : [ "岛国；四面环海的国家" ],
+  "notes" : [ "指四面环海的国家，常用来指代日本。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5307,
+  "word" : "島民",
+  "reading" : "とうみん",
+  "romaji" : null,
+  "meaning" : [ "岛上的居民；住在岛上的人" ],
+  "notes" : [ "由“島”（岛屿）和“民”（人民）组成的复合词，指居住在特定岛屿上的居民。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5308,
+  "word" : "崖",
+  "reading" : "がけ",
+  "romaji" : null,
+  "meaning" : [ "山崖，悬崖；绝壁" ],
+  "notes" : [ "也可写作“懸け”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5309,
+  "word" : "崖崩れ",
+  "reading" : "がけくずれ",
+  "romaji" : null,
+  "meaning" : [ "塌方，滑坡，崖崩" ],
+  "notes" : [ "指因雨水或地震等原因，悬崖或斜坡的土砂崩塌的现象。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5310,
+  "word" : "崩す",
+  "reading" : "くずす",
+  "romaji" : null,
+  "meaning" : [ "1. 拆毁，拆散（建筑物等）；2. 弄乱，打乱（秩序、队形等）；3. 换成零钱；4. 使（表情、态度等）缓和，打破僵局" ],
+  "notes" : [ "在表示“换成零钱”时，也可以说“お釣りを崩す”。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5311,
+  "word" : "崩れる",
+  "reading" : "くずれる",
+  "romaji" : null,
+  "meaning" : [ "1. 崩溃，倒塌；（秩序等）混乱；（整齐的状态）变得凌乱。2. （天气）变坏，转阴。3. （形状、模样等）走样，变形。4. （汇率、价格等）暴跌。" ],
+  "notes" : [ "自动词。对应的他动词是「崩す（くずす）」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5312,
+  "word" : "崩壊",
+  "reading" : "ほうかい",
+  "romaji" : null,
+  "meaning" : [ "崩溃，垮台，瓦解，倒塌；（建筑物等）塌毁；（组织、制度等）解体" ],
+  "notes" : [ "既可以作为名词使用，也可以作为サ变动词（する）使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5313,
+  "word" : "嵌める",
+  "reading" : "はめる",
+  "romaji" : null,
+  "meaning" : [ "1. 镶嵌；嵌入；安上。\n2. 戴上；套入；放入。\n3. 使……陷入；使……中计；欺骗。" ],
+  "notes" : [ "常用汉字写作“嵌める”，有时也可写作“填める”。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5314,
+  "word" : "嵌る",
+  "reading" : "はまる",
+  "romaji" : null,
+  "meaning" : [ "1. 吻合；正好合适；嵌入。2. 陷入；掉进。3. 中圈套；上当。4. 迷恋；沉溺于。" ],
+  "notes" : [ "通常写作汉字“嵌る”或平假名“はまる”。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5315,
+  "word" : "嵐",
+  "reading" : "あらし",
+  "romaji" : null,
+  "meaning" : [ "暴风雨；风暴；（比喻）风波，骚动" ],
+  "notes" : [ "常用于比喻社会或家庭中的风波、骚动。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5316,
+  "word" : "嵩む",
+  "reading" : "かさむ",
+  "romaji" : null,
+  "meaning" : [ "1.（数量、体积）增大，增多；（费用）增加。2.（液体）体积变大；膨胀。" ],
+  "notes" : [ "常用于表示费用增加或物品体积变大。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5317,
+  "word" : "嵩張る",
+  "reading" : "かさばる",
+  "romaji" : null,
+  "meaning" : [ "（物体）体积大、占地方；（分量、数量）增多、增大；累赘" ],
+  "notes" : [ "常用于描述行李、衣物、文件等物体占据空间较大，或因数量增加而变得庞大。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5318,
+  "word" : "川",
+  "reading" : "かわ",
+  "romaji" : null,
+  "meaning" : [ "河流" ],
+  "notes" : [ "表示自然水流，是日常生活中非常基础的词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5319,
+  "word" : "川流れ",
+  "reading" : "かわながれ",
+  "romaji" : null,
+  "meaning" : [ "（1）被河水冲走；（2）顺流而下；（3）漂泊，流浪；（4）溺死，淹死" ],
+  "notes" : [ "也可写作「流れ」。作动词使用时为「川流れになる」，意为被水冲走或溺死。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5320,
+  "word" : "巡らす",
+  "reading" : "めぐらす",
+  "romaji" : null,
+  "meaning" : [ "1. 围上，绕上（如围栏、栅栏等）；2. 费尽心机，想方设法，筹划，思考；3. 旋转，转动；4. 巡游，遍历" ],
+  "notes" : [ "通常写作汉字，但在强调动作或口语中也可写作假名。作为五段动词，其活用形式遵循标准五段活用规则（如：巡らさない、巡らします、巡らせば等）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5321,
+  "word" : "巡り合う",
+  "reading" : "めぐりあう",
+  "romaji" : null,
+  "meaning" : [ "邂逅，巧遇；（命运般）相遇" ],
+  "notes" : [ "常带有偶然性或命中注定的语感。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5322,
+  "word" : "巡る",
+  "reading" : "めぐる",
+  "romaji" : null,
+  "meaning" : [ "1. 旋转；循环；绕行。 2. 巡游；周游。 3. （经过一段时间后）再次到来；重临。 4. 追溯；围绕。" ],
+  "notes" : [ "前接助词「を」表示巡回的场所或范围；前接助词「に」表示围绕的对象或话题。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5323,
+  "word" : "巡査",
+  "reading" : "じゅんさ",
+  "romaji" : null,
+  "meaning" : [ "警察；巡警（旧警察职级之一，位于巡查长之下，现职级名称已变更，但在日常用语中仍常指代基层警察）" ],
+  "notes" : [ "指日本警察的最低职级。在2002年警察法修改后，职级名称虽变更为「巡查」，但该词作为对基层警察的通称仍被广泛使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5324,
+  "word" : "巣",
+  "reading" : "す",
+  "romaji" : null,
+  "meaning" : [ "巢，窝，巢穴；（坏人等的）老窝，据点" ],
+  "notes" : [ "常用汉字。除读作“す”外，也可作为动词后缀表示“筑巢”或“归巢”，如“巣立つ（すだつ）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5325,
+  "word" : "巣立ち",
+  "reading" : "すだち",
+  "romaji" : null,
+  "meaning" : [ "（雏鸟等）离巢；（子女）长大成人，独立生活" ],
+  "notes" : [ "动词“巣立つ（すだつ）”的名词形式（连用形）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5326,
+  "word" : "工事",
+  "reading" : "こうじ",
+  "romaji" : null,
+  "meaning" : [ "土木工程、建筑工程；施工、作业" ],
+  "notes" : [ "常指具体的施工过程或作业。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5327,
+  "word" : "工作",
+  "reading" : "こうさく",
+  "romaji" : null,
+  "meaning" : [ "1. （手工）制作，造；2. 修理；3. （为达到某种目的而进行的）活动，工作，谋划" ],
+  "notes" : [ "作为“工作、职业”讲时，通常读作「しごと」（N5）。作为名词使用时，多指手工制作或精密的谋划。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5328,
+  "word" : "工場",
+  "reading" : "こうじょう",
+  "romaji" : null,
+  "meaning" : [ "工厂，工场" ],
+  "notes" : [ "常用汉字。注意读音是“こうじょう”，不是“こうば”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5329,
+  "word" : "工夫",
+  "reading" : "くふう",
+  "romaji" : null,
+  "meaning" : [ "下功夫，想办法；开动脑筋；办法，窍门" ],
+  "notes" : [ "也可以写作「工夫」，但在表示动脑筋想办法时，常作为サ变动词使用（工夫する）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5330,
+  "word" : "工業",
+  "reading" : "こうぎょう",
+  "romaji" : null,
+  "meaning" : [ "工业；产业" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5331,
+  "word" : "工芸",
+  "reading" : "こうげい",
+  "romaji" : null,
+  "meaning" : [ "工艺，手工艺；工艺制作" ],
+  "notes" : [ "指利用手工技巧制作实用物品或装饰品的艺术。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5332,
+  "word" : "工芸品",
+  "reading" : "こうげいひん",
+  "romaji" : null,
+  "meaning" : [ "工艺品；手工艺术品" ],
+  "notes" : [ "指通过手工技艺制作的艺术品或实用品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5333,
+  "word" : "工面",
+  "reading" : "くめん",
+  "romaji" : null,
+  "meaning" : [ "筹措，筹划；筹款；设法，想办法" ],
+  "notes" : [ "作为动词使用时，通常以「工面する」的形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5334,
+  "word" : "左",
+  "reading" : "ひだり",
+  "romaji" : null,
+  "meaning" : [ "左边，左侧" ],
+  "notes" : [ "反义词是「右（みぎ）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5335,
+  "word" : "左側",
+  "reading" : "ひだりがわ",
+  "romaji" : null,
+  "meaning" : [ "左边，左方，左侧" ],
+  "notes" : [ "反义词是「右側（みぎがわ）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5336,
+  "word" : "左利き",
+  "reading" : "ひだりきき",
+  "romaji" : null,
+  "meaning" : [ "左撇子，惯用左手的人" ],
+  "notes" : [ "反义词是“右利き（みぎきき）”。在日语中，有时也写作“左き”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5337,
+  "word" : "左右",
+  "reading" : "さゆう",
+  "romaji" : null,
+  "meaning" : [ "左边和右边；身边；大约，左右（表示数量范围）；控制，操纵，影响" ],
+  "notes" : [ "作为名词时意为“左右两边”或“身边”；作为サ变动词时意为“控制、操纵”或“影响”；接在数量词后表示概数，意为“大约”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5338,
+  "word" : "左官",
+  "reading" : "さかん",
+  "romaji" : null,
+  "meaning" : [ "泥瓦匠；从事抹墙、粉刷等建筑内壁或外壁装修工作的工匠" ],
+  "notes" : [ "属于建筑行业专业术语，在日常生活中不常使用，通常归类为N1级别词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5339,
+  "word" : "左手",
+  "reading" : "ひだりて",
+  "romaji" : null,
+  "meaning" : [ "左手" ],
+  "notes" : [ "反义词是“右手（みぎて）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5340,
+  "word" : "左折",
+  "reading" : "させつ",
+  "romaji" : null,
+  "meaning" : [ "（车辆等）左转，向左拐弯" ],
+  "notes" : [ "主要用于车辆或行人的行进方向改变，属于书面语或正式用语。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5341,
+  "word" : "巧み",
+  "reading" : "たくみ",
+  "romaji" : null,
+  "meaning" : [ "巧妙的，精巧的；熟练的，老练的" ],
+  "notes" : [ "常以「巧みな（に）」的形式作连体修饰或连用修饰。也可以作为名词使用，表示技巧或技术。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5342,
+  "word" : "巧妙",
+  "reading" : "こうみょう",
+  "romaji" : null,
+  "meaning" : [ "巧妙；精明；高明" ],
+  "notes" : [ "通常用于形容手段、方法、技术等非常高明或狡猾。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5343,
+  "word" : "巨匠",
+  "reading" : "きょしょう",
+  "romaji" : null,
+  "meaning" : [ "巨匠，泰斗，大师，大家（指在艺术、技艺等领域造诣极深的人）" ],
+  "notes" : [ "通常用于指在特定领域（如艺术、建筑、文学等）具有极高地位和成就的人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5344,
+  "word" : "巨大",
+  "reading" : "きょだい",
+  "romaji" : null,
+  "meaning" : [ "形容动词。巨大的、庞大的。" ],
+  "notes" : [ "ナ形容词（形容动词）。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5345,
+  "word" : "差",
+  "reading" : "さ",
+  "romaji" : null,
+  "meaning" : [ "1. 差，差别，不同。\n2. 差额，差数。\n3. 差，差劲（质量等）。" ],
+  "notes" : [ "也可读作「さし」(sashi)，如：差し支え（无妨）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5346,
+  "word" : "差し上げます",
+  "reading" : "さしあげます",
+  "romaji" : null,
+  "meaning" : [ "（自谦语）给，赠予；做（为对方服务）" ],
+  "notes" : [ "「あげる」的谦逊语，用于动作对象比自己地位高或需要表示尊敬的人。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5347,
+  "word" : "差し伸べる",
+  "reading" : "さしのべる",
+  "romaji" : null,
+  "meaning" : [ "伸出；伸出（手）；提供（帮助、援助等）" ],
+  "notes" : [ "常以「手を差し伸べる」（伸出援手）或「援助を差し伸べる」（提供援助）的形式使用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5348,
+  "word" : "差し入れ",
+  "reading" : "しいれ",
+  "romaji" : null,
+  "meaning" : [ "①（在工作或休息时）送给别人的慰问品、点心、饮料等；②插入，投入。" ],
+  "notes" : [ "虽然词源来自动词“差し入れる”，但在现代日语中主要作为名词使用，指代慰问品或插入的行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5349,
+  "word" : "差し出す",
+  "reading" : "さしだす",
+  "romaji" : null,
+  "meaning" : [ "1. 伸出；探出（手、头等）\n2. 提交；呈递；寄出（文件、申请等）\n3. 拿出；提供（金钱、帮助等）" ],
+  "notes" : [ "前缀「差し（さし）」通常表示动作的方向性或强调动作的开始。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5350,
+  "word" : "差し引き",
+  "reading" : "さしひき",
+  "romaji" : null,
+  "meaning" : [ "扣除，减去；相抵，收支相抵后的余额" ],
+  "notes" : [ "通常作为名词使用，也可作为サ变动词（差し引きする）使用。来源于动词‘差し引く’的连用形。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5351,
+  "word" : "差し引く",
+  "reading" : "さしひく",
+  "romaji" : null,
+  "meaning" : [ "扣除，减去；相抵；扣除（期间）" ],
+  "notes" : [ "常用于计算金额、数量或评价事物时减去一部分。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5352,
+  "word" : "差し掛かる",
+  "reading" : "さしかかる",
+  "romaji" : null,
+  "meaning" : [ "1.（时间、季节等）临近，逼近；2.（地点）路过，经过；3.（树枝、云等）垂悬，笼罩在头上；4.着手，开始做" ],
+  "notes" : [ "常用作自动词。前缀「差し」在此处加强语气，表示动作的深入或逼近。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5353,
+  "word" : "差し支え",
+  "reading" : "さしつかえ",
+  "romaji" : null,
+  "meaning" : [ "妨碍，障碍，不方便；不妥当" ],
+  "notes" : [ "常以「差し支えない」（没关系，无妨）的形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5354,
+  "word" : "差し支える",
+  "reading" : "さしつかえる",
+  "romaji" : null,
+  "meaning" : [ "妨碍，有影响；不方便，不行" ],
+  "notes" : [ "常用否定形式「差し支えない」，表示“没关系”、“无妨”。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5355,
+  "word" : "差し替える",
+  "reading" : "さしかえる",
+  "romaji" : null,
+  "meaning" : [ "更换，调换，替换（将旧的换成新的，或将位置互换）" ],
+  "notes" : [ "通常指将某物取出，放入其他物品以代替，或者改变顺序、位置。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5356,
+  "word" : "差し迫る",
+  "reading" : "さしせまる",
+  "romaji" : null,
+  "meaning" : [ "（时间、期限等）迫近，逼近；临近" ],
+  "notes" : [ "通常用于表示时间、期限等临近，带有紧迫感。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5357,
+  "word" : "差す",
+  "reading" : "さす",
+  "romaji" : null,
+  "meaning" : [ "1. （光线）照射；（影子）投射。2. 撑（伞）；打（伞）。3. 涂；抹；染。4. 出现（某种颜色、神色等）；泛起。5. 插；佩带。" ],
+  "notes" : [ "作为五段动词，其活用形式包括：ささない（否定）、さします（连用形）、さす（原形）、さすとき（条件形）、させば（假定形）、さそう（劝诱形）、させ（使役形）等。注意在不同语境下含义变化较大。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5358,
+  "word" : "差出人",
+  "reading" : "さしだしにん",
+  "romaji" : null,
+  "meaning" : [ "（邮件、信件等的）寄件人，发件人" ],
+  "notes" : [ "主要用于书信、邮件等发送人的称呼。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5359,
+  "word" : "差別",
+  "reading" : "さべつ",
+  "romaji" : null,
+  "meaning" : [ "区别，差异；歧视，区别对待" ],
+  "notes" : [ "作为名词时意为“区别、差异”；作为サ变动词（差別する）时多用于表示“歧视、不公平对待”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5360,
+  "word" : "差異",
+  "reading" : "さい",
+  "romaji" : null,
+  "meaning" : [ "差异，差别" ],
+  "notes" : [ "主要用于书面语，表示事物之间不同的地方。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5361,
+  "word" : "差配",
+  "reading" : "さはい",
+  "romaji" : null,
+  "meaning" : [ "（江户时代的）差配人；（在江户时代，受官府指派负责管理町内行政、税务、消防等的）町役人；分派，安排" ],
+  "notes" : [ "主要指江户时代负责管理町内行政、税务、消防等事务的职务（差配人），也指对事务的分配和管理。属于古语或历史相关词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5362,
+  "word" : "差額",
+  "reading" : "さがく",
+  "romaji" : null,
+  "meaning" : [ "差额；差价；余额" ],
+  "notes" : [ "指两个数量或金额之间的差值。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5363,
+  "word" : "巻き寿司",
+  "reading" : "まきずし",
+  "romaji" : null,
+  "meaning" : [ "寿司卷；卷寿司。将醋饭铺在海苔、玉子烧或其他材料上，卷成圆柱状后切小段制成的寿司。" ],
+  "notes" : [ "常见的种类包括太卷、细卷、手卷、惠方卷等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5364,
+  "word" : "巻き込みます",
+  "reading" : "まきこみます",
+  "romaji" : null,
+  "meaning" : [ "卷入，卷进；牵连" ],
+  "notes" : [ "常用形式为「巻き込む」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5365,
+  "word" : "巻き込む",
+  "reading" : "まきこむ",
+  "romaji" : null,
+  "meaning" : [ "卷进；卷入；牵连；裹挟" ],
+  "notes" : [ "通常以「～を巻き込む」或「～に巻き込まれる」的形式使用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5366,
+  "word" : "巻く",
+  "reading" : "まく",
+  "romaji" : null,
+  "meaning" : [ "1. 卷，缠绕；2. 裹，围；3. 拧（发条）；4. 畵（墨）；5. （云、烟等）笼罩" ],
+  "notes" : [ "【他动词】" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5367,
+  "word" : "市",
+  "reading" : "し",
+  "romaji" : null,
+  "meaning" : [ "市（行政区划单位）；城市，都市" ],
+  "notes" : [ "指日本的行政区划单位之一，位于都道府县之下。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5368,
+  "word" : "市内",
+  "reading" : "いない",
+  "romaji" : null,
+  "meaning" : [ "市内，城市内部" ],
+  "notes" : [ "指城市内部区域，通常指行政区域内的市区。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5369,
+  "word" : "市場",
+  "reading" : "いちば",
+  "romaji" : null,
+  "meaning" : [ "市场；集市；交易所" ],
+  "notes" : [ "读作「しじょう」时，通常指抽象的市场（如金融市场、商品市场等）；读作「いちば」时，通常指具体的集市或菜市场。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5370,
+  "word" : "市場調査",
+  "reading" : "しじょうちょうさ",
+  "romaji" : null,
+  "meaning" : [ "市场调查；市场调研" ],
+  "notes" : [ "也写作「マーケティング・リサーチ」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5371,
+  "word" : "市役所",
+  "reading" : "しやくしょ",
+  "romaji" : null,
+  "meaning" : [ "市政府；市公所" ],
+  "notes" : [ "重音为头高型（平板型），即第一个音节高，后续低。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5372,
+  "word" : "市民",
+  "reading" : "しみん",
+  "romaji" : null,
+  "meaning" : [ "城市的居民；公民" ],
+  "notes" : [ "指居住在城市的居民，或作为国家成员的公民。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5373,
+  "word" : "市町村",
+  "reading" : "しちょうそん",
+  "romaji" : null,
+  "meaning" : [ "市、町、村（日本都道府县之下的基础地方自治体，是地方公共团体的统称）" ],
+  "notes" : [ "由“市”、“町”、“村”组成的复合词，指日本地方公共团体中的基础自治体。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5374,
+  "word" : "市街",
+  "reading" : "しがい",
+  "romaji" : null,
+  "meaning" : [ "市街地；市内；繁华的街道" ],
+  "notes" : [ "指城镇中建筑物密集、繁华的区域。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5375,
+  "word" : "市販",
+  "reading" : "しはん",
+  "romaji" : null,
+  "meaning" : [ "市面上出售，市售" ],
+  "notes" : [ "「市販（しはん）」是名词，常作为「市販されている」「市販の」等形式使用，表示在市场上广泛销售。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5376,
+  "word" : "市長",
+  "reading" : "しちょう",
+  "romaji" : null,
+  "meaning" : [ "市长" ],
+  "notes" : [ "指日本市这一行政区的行政长官。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5377,
+  "word" : "布",
+  "reading" : "ぬの",
+  "romaji" : null,
+  "meaning" : [ "布；布料；织物" ],
+  "notes" : [ "常用词，指用于制作衣物或其他物品的织物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5378,
+  "word" : "布告",
+  "reading" : "ふこく",
+  "romaji" : null,
+  "meaning" : [ "公告，布告，宣布" ],
+  "notes" : [ "通常作为サ变动词（する）使用，指官方正式向大众发布通告或法令。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5379,
+  "word" : "布団",
+  "reading" : "ふとん",
+  "romaji" : null,
+  "meaning" : [ "被褥，铺盖。日本传统寝具，通常由棉被构成，包括铺在下面的‘敷き布団’和盖在身上的‘掛け布団’。" ],
+  "notes" : [ "日常生活中常简称为“布団”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5380,
+  "word" : "布巾",
+  "reading" : "ふきん",
+  "romaji" : null,
+  "meaning" : [ "抹布，擦布" ],
+  "notes" : [ "通常指用于擦拭桌子、餐具等的棉质布料。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5381,
+  "word" : "希望",
+  "reading" : "きぼう",
+  "romaji" : null,
+  "meaning" : [ "愿望，希望；期望" ],
+  "notes" : [ "サ変動詞「希望する」の形でもよく使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5382,
+  "word" : "希薄",
+  "reading" : "きはく",
+  "romaji" : null,
+  "meaning" : [ "（浓度、密度等）稀薄；淡薄；（兴趣、关心等）缺乏" ],
+  "notes" : [ "常用于形容空气密度稀薄或人的情感、兴趣等淡薄。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5383,
+  "word" : "席",
+  "reading" : "せき",
+  "romaji" : null,
+  "meaning" : [ "座位；席位；聚会；酒席" ],
+  "notes" : [ "计数座位时使用助词“席”，例如：三席。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5384,
+  "word" : "席を外す",
+  "reading" : "せきをはずす",
+  "romaji" : null,
+  "meaning" : [ "惯用语。暂时离开座位（如去洗手间、打电话等），不在场。" ],
+  "notes" : [ "通常用于暂时离开座位的情况，如果是永久离开座位或辞职，一般不使用此表达。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5385,
+  "word" : "帯",
+  "reading" : "おび",
+  "romaji" : null,
+  "meaning" : [ "带子，腰带；（系在和服外面的）宽腰带" ],
+  "notes" : [ "指日本和服中使用的宽腰带。也可写作「おび」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5386,
+  "word" : "帯びる",
+  "reading" : "おびる",
+  "romaji" : null,
+  "meaning" : [ "1. 佩带；携带（如佩刀、带印章等）。\n2. 带有，含有，呈现（某种颜色、性质、倾向等）。\n3. 担负，承担（责任、任务等）；受（某种影响）。" ],
+  "notes" : [ "多用于书面语。前接名词时，也可用“帯びた”的形式作定语修饰名词，如「神秘的な雰囲気を帯びた場所」（带有神秘氛围的场所）。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5387,
+  "word" : "帰す",
+  "reading" : "かえす",
+  "romaji" : null,
+  "meaning" : [ "让……回去；送回；打发回去" ],
+  "notes" : [ "该词为动词「帰る（かえる）」的使役形态，属于五段活用动词。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5388,
+  "word" : "帰り",
+  "reading" : "かえり",
+  "romaji" : null,
+  "meaning" : [ "回来，回去；归途，回家的时候" ],
+  "notes" : [ "由动词「帰る（かえる）」的连用形名词化而来，常表示“回来的路途”或“回家的时候”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5389,
+  "word" : "帰ります",
+  "reading" : "かえります",
+  "romaji" : null,
+  "meaning" : [ "回家，回去" ],
+  "notes" : [ "表示回到某处，通常指回家或回国家。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5390,
+  "word" : "帰る",
+  "reading" : "かえる",
+  "romaji" : null,
+  "meaning" : [ "回去，回来" ],
+  "notes" : [ "表示人回到自己家、国家等原本所在的地方。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5391,
+  "word" : "帰京",
+  "reading" : "ききょう",
+  "romaji" : null,
+  "meaning" : [ "上京していた地方から、再び東京（首都）へ帰ること。" ],
+  "notes" : [ "「上京（じょうきょう）」の対義語。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5392,
+  "word" : "帰化",
+  "reading" : "きか",
+  "romaji" : null,
+  "meaning" : [ "1.（外国人がその国の国籍を取得し、その国の国民になること）入籍，归化。\n2.（生物が他の土地や環境で生育すること）驯化，（动植物）适应水土。" ],
+  "notes" : [ "サ変動詞「帰化する」の形でも用いられる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5393,
+  "word" : "帰国",
+  "reading" : "きこく",
+  "romaji" : null,
+  "meaning" : [ "回国，归国" ],
+  "notes" : [ "作为サ变动词使用时，词尾变化遵循‘する’的规则。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5394,
+  "word" : "帰国",
+  "reading" : "きこく",
+  "romaji" : null,
+  "meaning" : [ "回国" ],
+  "notes" : [ "属于第三类动词（サ变动词），词尾为「する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5395,
+  "word" : "帰宅",
+  "reading" : "きたく",
+  "romaji" : null,
+  "meaning" : [ "回家，归家" ],
+  "notes" : [ "「帰宅（きたく）」是名词，通常以「帰宅する」的形式作为サ变动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5396,
+  "word" : "帰省",
+  "reading" : "きせい",
+  "romaji" : null,
+  "meaning" : [ "回乡探亲，省亲" ],
+  "notes" : [ "通常指回到父母或故乡探望。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5397,
+  "word" : "帰社",
+  "reading" : "きしゃ",
+  "romaji" : null,
+  "meaning" : [ "回到公司，回公司（指出差或外出后回到公司）" ],
+  "notes" : [ "「帰社（きしゃ）」は、出張や外出などで会社を離れた後、再び会社に戻ることを意味するビジネス用語です。注意点として、同じ読み方の「汽車（きしゃ）」とは意味が全く異なります。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5398,
+  "word" : "帳簿",
+  "reading" : "ちょうぼ",
+  "romaji" : null,
+  "meaning" : [ "账本，账簿；记账册" ],
+  "notes" : [ "指用于记录金钱、物品出入的账册。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5399,
+  "word" : "常",
+  "reading" : "つね",
+  "romaji" : null,
+  "meaning" : [ "平常，普通；常事，常情；恒久，不变" ],
+  "notes" : [ "常作为接头词或接尾词使用时，读法可能发生变化（如：常識 - じきしき）。单独作为名词使用时读作“つね”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5400,
+  "word" : "常々",
+  "reading" : "つねづね",
+  "romaji" : null,
+  "meaning" : [ "时常，经常，总是；平素，平时" ],
+  "notes" : [ "常与「心がける」「注意する」等动词搭配使用，表示持续的习惯或状态。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+} ]

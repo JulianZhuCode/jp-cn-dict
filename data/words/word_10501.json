@@ -1,0 +1,901 @@
+[ {
+  "id" : 10501,
+  "word" : "軽蔑",
+  "reading" : "けいべつ",
+  "romaji" : null,
+  "meaning" : [ "轻蔑，蔑视，看不起" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10502,
+  "word" : "軽視",
+  "reading" : "けいし",
+  "romaji" : null,
+  "meaning" : [ "轻视，小看，蔑视" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10503,
+  "word" : "軽量",
+  "reading" : "けいりょう",
+  "romaji" : null,
+  "meaning" : [ "重量が軽いこと。また、その物。分量轻；重量轻的东西。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10504,
+  "word" : "載せる",
+  "reading" : "のせる",
+  "romaji" : null,
+  "meaning" : [ "1. 把（人、物等）放置到交通工具、容器等上面；载，搭载 2. 把文章、照片等登载在报纸、杂志、网页等上面；刊登 3. 把（某种感情、想法等）寄托在（某物）上" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10505,
+  "word" : "載る",
+  "reading" : "のる",
+  "romaji" : null,
+  "meaning" : [ "1. 乘坐（交通工具等）；2. 载运，装载；3. 登载，记载；4. （疾病等）侵袭，感染" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10506,
+  "word" : "輝かしい",
+  "reading" : "かがやかしい",
+  "romaji" : null,
+  "meaning" : [ "耀眼的；辉煌的，光辉的；杰出的，卓越的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10507,
+  "word" : "輝く",
+  "reading" : "かがやく",
+  "romaji" : null,
+  "meaning" : [ "1. 闪亮，放光，辉耀；2. 出色，卓越；3. 面露喜色" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10508,
+  "word" : "輪",
+  "reading" : "わ",
+  "romaji" : null,
+  "meaning" : [ "环，圆圈；圈子，团体；轮流，轮班；（体操等的）圈；（电话等的）通话连接" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10509,
+  "word" : "輪郭",
+  "reading" : "りんかく",
+  "romaji" : null,
+  "meaning" : [ "1. 物体或图形的外周线，轮廓。2. 事物的大致框架、概要、梗概。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10510,
+  "word" : "輸入する",
+  "reading" : "ゆにゅうする",
+  "romaji" : null,
+  "meaning" : [ "1. 进口，输入（物品等）；2. 录入，输入（数据等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10511,
+  "word" : "輸入食品",
+  "reading" : "ゆにゅう しょくひん",
+  "romaji" : null,
+  "meaning" : [ "进口食品" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10512,
+  "word" : "輸出",
+  "reading" : "ゆしゅつ",
+  "romaji" : null,
+  "meaning" : [ "将本国或本地区的货物、技术等运往外国或外地区；输出（信息、能量等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10513,
+  "word" : "輸血",
+  "reading" : "ゆけつ",
+  "romaji" : null,
+  "meaning" : [ "把健康人的血液或其他血液制品输给病人，以治疗或预防疾病。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10514,
+  "word" : "輸送",
+  "reading" : "ゆそう",
+  "romaji" : null,
+  "meaning" : [ "输送，运输；（电力等的）传输" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10515,
+  "word" : "轍",
+  "reading" : "てつ",
+  "romaji" : null,
+  "meaning" : [ "车辙；轨迹；先例，前例" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10516,
+  "word" : "轢く",
+  "reading" : "ひく",
+  "romaji" : null,
+  "meaning" : [ "（汽车等）轧；擦过，蹭过；压迫，欺压" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10517,
+  "word" : "辛い",
+  "reading" : "つらい0",
+  "romaji" : null,
+  "meaning" : [ "难受，痛苦，难过；艰苦；为难；（味道）辣" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10518,
+  "word" : "辛うじて",
+  "reading" : "かろうじて",
+  "romaji" : null,
+  "meaning" : [ "好不容易才；勉强；仅仅；几乎不" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10519,
+  "word" : "辛み",
+  "reading" : "からみ",
+  "romaji" : null,
+  "meaning" : [ "辣味；辣的味道" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10520,
+  "word" : "辛抱",
+  "reading" : "しんぼう",
+  "romaji" : null,
+  "meaning" : [ "忍耐，忍受；耐心，耐性" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10521,
+  "word" : "辛抱強い",
+  "reading" : "しんぼうづよい",
+  "romaji" : null,
+  "meaning" : [ "有耐心的，忍耐力强的；坚韧不拔的" ],
+  "notes" : [ "「辛抱」表示忍耐、忍受，「強い」表示强，结合起来表示忍耐力强、有耐心" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10522,
+  "word" : "辞めます",
+  "reading" : "やめます",
+  "romaji" : null,
+  "meaning" : [ "辞去；停止；放弃" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10523,
+  "word" : "辞典",
+  "reading" : "じてん",
+  "romaji" : null,
+  "meaning" : [ "词典，辞典" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10524,
+  "word" : "辞書",
+  "reading" : "じしょ",
+  "romaji" : null,
+  "meaning" : [ "辞典，字典" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10525,
+  "word" : "辞職します",
+  "reading" : "じしょくします",
+  "romaji" : null,
+  "meaning" : [ "辞职；辞去职务" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10526,
+  "word" : "辞表",
+  "reading" : "じひょう",
+  "romaji" : null,
+  "meaning" : [ "辞呈，辞职报告" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10527,
+  "word" : "辞退",
+  "reading" : "じたい",
+  "romaji" : null,
+  "meaning" : [ "辞谢，谢绝；辞职，辞去" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10528,
+  "word" : "辟易",
+  "reading" : "へきえき",
+  "romaji" : null,
+  "meaning" : [ "因畏惧或受惊吓而退缩、躲开；避开" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10529,
+  "word" : "農作物",
+  "reading" : "のうさくもつ",
+  "romaji" : null,
+  "meaning" : [ "农业上栽培的各种植物，如粮食作物、经济作物等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10530,
+  "word" : "農場",
+  "reading" : "のうじょう",
+  "romaji" : null,
+  "meaning" : [ "农场，农牧业经营的场所" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10531,
+  "word" : "農家",
+  "reading" : "のうか",
+  "romaji" : null,
+  "meaning" : [ "1. 从事农业生产的人家；农家。2. 农民" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10532,
+  "word" : "農村",
+  "reading" : "のうそん",
+  "romaji" : null,
+  "meaning" : [ "农村，乡村" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10533,
+  "word" : "農業",
+  "reading" : "のうぎょう",
+  "romaji" : null,
+  "meaning" : [ "农业；农耕" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10534,
+  "word" : "農民",
+  "reading" : "のうみん",
+  "romaji" : null,
+  "meaning" : [ "从事农业生产的人，农民" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10535,
+  "word" : "農産物",
+  "reading" : "のうさんぶつ",
+  "romaji" : null,
+  "meaning" : [ "农产品；农作物" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10536,
+  "word" : "農耕",
+  "reading" : "のうこう",
+  "romaji" : null,
+  "meaning" : [ "农耕，耕种土地等农事活动" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10537,
+  "word" : "農薬",
+  "reading" : "のうやく",
+  "romaji" : null,
+  "meaning" : [ "农药" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10538,
+  "word" : "辺",
+  "reading" : "へん",
+  "romaji" : null,
+  "meaning" : [ "1. 一带，附近；2. 方面，范围；3. 大约，左右（用于数量词后）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10539,
+  "word" : "辺り",
+  "reading" : "あたり",
+  "romaji" : null,
+  "meaning" : [ "1. 周围，附近；2. 大约，左右；3. 某一范围，一带" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10540,
+  "word" : "辻",
+  "reading" : "つじ",
+  "romaji" : null,
+  "meaning" : [ "十字路口；街头，路旁；（日本姓氏）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10541,
+  "word" : "込みます",
+  "reading" : "こみます",
+  "romaji" : null,
+  "meaning" : [ "拥挤，混杂；包含，包括；加入，掺入；进入，陷入 (不同语境含义有所不同)" ],
+  "notes" : [ "原形为「込む」，「～ます」是敬体形式，常用于口语和书面正式场合" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10542,
+  "word" : "込み上げる",
+  "reading" : "こみあげる",
+  "romaji" : null,
+  "meaning" : [ "往上涌；涌上心头；作呕；（情感等）油然而生" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10543,
+  "word" : "込む/混む",
+  "reading" : "こむ",
+  "romaji" : null,
+  "meaning" : [ "（人或物）混杂，拥挤；进入，进入到里面；包含，包括" ],
+  "notes" : [ "「込む」和「混む」在表示“混杂、拥挤”时意思相近，「込む」更强调空间上的充满、挤满，「混む」更强调不同事物混合在一起" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10544,
+  "word" : "込める",
+  "reading" : "こめる",
+  "romaji" : null,
+  "meaning" : [ "1. 把……包含在内；把……加进；2. 集中（精神、力量等）；3. 把……装入，放进；4. 怀有（某种情感等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10545,
+  "word" : "辿り着く",
+  "reading" : "たどりつく",
+  "romaji" : null,
+  "meaning" : [ "好不容易走到；好不容易到达；终于到达；好不容易坚持到" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10546,
+  "word" : "辿る",
+  "reading" : "たどる",
+  "romaji" : null,
+  "meaning" : [ "1. 沿路前进；2. 追寻，追溯；3. 探索，摸索" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10547,
+  "word" : "迂回",
+  "reading" : "うかい",
+  "romaji" : null,
+  "meaning" : [ "迂回，绕道；曲折，间接。（道をぐるぐると回って進むこと。また、遠回りすること。物事の進捗などが、遠回りして行くこと。）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10548,
+  "word" : "迂闊",
+  "reading" : "うかつ",
+  "romaji" : null,
+  "meaning" : [ "粗心大意，疏忽；考虑不周到、草率；糊涂、愚蠢" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10549,
+  "word" : "迅速",
+  "reading" : "じんそく",
+  "romaji" : null,
+  "meaning" : [ "快速，迅速，敏捷" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10550,
+  "word" : "迎え",
+  "reading" : "むかえ",
+  "romaji" : null,
+  "meaning" : [ "迎接；迎接的人；迎接的仪式" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10551,
+  "word" : "迎えます",
+  "reading" : "むかえます",
+  "romaji" : null,
+  "meaning" : [ "迎接；欢迎；迎来（某个时期、事件等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10552,
+  "word" : "迎える",
+  "reading" : "むかえる",
+  "romaji" : null,
+  "meaning" : [ "迎接；迎来；面对，面临（困难等）；接受（意见等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10553,
+  "word" : "近々",
+  "reading" : "ちか々",
+  "romaji" : null,
+  "meaning" : [ "不久，过几天；近期，最近" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10554,
+  "word" : "近い",
+  "reading" : "ちかい",
+  "romaji" : null,
+  "meaning" : [ "（距离、时间等）近的；关系亲近的；（程度、状态等）接近的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10555,
+  "word" : "近く",
+  "reading" : "ちかく",
+  "romaji" : null,
+  "meaning" : [ "附近；近处；旁边；距离近；时间近" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10556,
+  "word" : "近づく",
+  "reading" : "ちかづく",
+  "romaji" : null,
+  "meaning" : [ "临近；接近；靠近；凑到近处；关系变得亲密；变得相似" ],
+  "notes" : [ "「近づく」是自动词，强调自然地、自发地接近或靠近的状态变化等" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10557,
+  "word" : "近づける",
+  "reading" : "ちかづける",
+  "romaji" : null,
+  "meaning" : [ "使……靠近；使……接近；使亲近；使关系拉近" ],
+  "notes" : [ "他動詞，和自動詞「近づく」相对。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10558,
+  "word" : "近世",
+  "reading" : "きんせい",
+  "romaji" : null,
+  "meaning" : [ "历史上指从中世到近代之间的时期，在日本一般指江户时代（1603 - 1867 年）。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10559,
+  "word" : "近代",
+  "reading" : "きんだい",
+  "romaji" : null,
+  "meaning" : [ "名词，指历史上资本主义产生和发展的时期，与古代、中世等相对；也可指近现代这一时间段。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10560,
+  "word" : "近代化",
+  "reading" : "きんだいか",
+  "romaji" : null,
+  "meaning" : [ "名詞。现代化，使社会、经济、文化等方面具有现代特征的过程。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10561,
+  "word" : "近寄る",
+  "reading" : "ちかよる",
+  "romaji" : null,
+  "meaning" : [ "挨近，靠近；接近（某一状态、情况等）；与……亲近，与……套近乎" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10562,
+  "word" : "近年",
+  "reading" : "きんねん",
+  "romaji" : null,
+  "meaning" : [ "最近の数年間、ここ数年。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10563,
+  "word" : "近所",
+  "reading" : "きんじょ",
+  "romaji" : null,
+  "meaning" : [ "附近；街坊，邻居；四邻，周围一带" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10564,
+  "word" : "近所迷惑",
+  "reading" : "きんじょめいわく",
+  "romaji" : null,
+  "meaning" : [ "给邻居带来的麻烦、打扰邻里的行为或事情" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10565,
+  "word" : "近眼",
+  "reading" : "きんがん",
+  "romaji" : null,
+  "meaning" : [ "近视眼；近视" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10566,
+  "word" : "近道",
+  "reading" : "ちかみち",
+  "romaji" : null,
+  "meaning" : [ "近路，近道；捷径" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10567,
+  "word" : "近頃",
+  "reading" : "ちかごろ",
+  "romaji" : null,
+  "meaning" : [ "最近，近来" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10568,
+  "word" : "返します",
+  "reading" : "かえします",
+  "romaji" : null,
+  "meaning" : [ "归还，还；送回；返回；报答；反射；反复说" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10569,
+  "word" : "返す",
+  "reading" : "かえす",
+  "romaji" : null,
+  "meaning" : [ "归还；送回；返回；恢复原状；回报；回击" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10570,
+  "word" : "返る",
+  "reading" : "かえる",
+  "romaji" : null,
+  "meaning" : [ "1. 归还；返回（他の場所に戻る。帰る。）；2. 恢复，还原（元の状態に戻る。）；3. 翻转，翻过来（ひっくり返す。）；4. 反射，反响（音や光が反射する。）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10571,
+  "word" : "返上",
+  "reading" : "へんじょう",
+  "romaji" : null,
+  "meaning" : [ "归还，奉还；（向上级等）呈递，上缴" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10572,
+  "word" : "返事",
+  "reading" : "へんじ",
+  "romaji" : null,
+  "meaning" : [ "回答，答复，回复；回信；回电" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10573,
+  "word" : "返信",
+  "reading" : "へんしん",
+  "romaji" : null,
+  "meaning" : [ "回信，回复（邮件、信息等）；回电" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10574,
+  "word" : "返却",
+  "reading" : "へんきゃく",
+  "romaji" : null,
+  "meaning" : [ "归还，退还；退回（所借或所收之物等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10575,
+  "word" : "返品",
+  "reading" : "へんぴん",
+  "romaji" : null,
+  "meaning" : [ "退货；退回的货物" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10576,
+  "word" : "返答",
+  "reading" : "へんとう",
+  "romaji" : null,
+  "meaning" : [ "回答，回复；答辩，应答" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10577,
+  "word" : "返還",
+  "reading" : "へんかん",
+  "romaji" : null,
+  "meaning" : [ "返还，归还" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10578,
+  "word" : "返金",
+  "reading" : "へんきん",
+  "romaji" : null,
+  "meaning" : [ "退还钱款，退款" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10579,
+  "word" : "迫る",
+  "reading" : "せまる",
+  "romaji" : null,
+  "meaning" : [ "1. 接近，迫近，临近；2. 逼迫，强迫；3. 使紧迫，使窘迫" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10580,
+  "word" : "迫力",
+  "reading" : "はくりょく",
+  "romaji" : null,
+  "meaning" : [ "名词。1. 压倒性的力量、气势；2. 扣人心弦、动人的力量" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10581,
+  "word" : "迫害",
+  "reading" : "はくがい",
+  "romaji" : null,
+  "meaning" : [ "迫害，压迫；虐待" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10582,
+  "word" : "述べる",
+  "reading" : "のべる",
+  "romaji" : null,
+  "meaning" : [ "陈述，叙述，说明；讲述，表达" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10583,
+  "word" : "述語",
+  "reading" : "じゅつご",
+  "romaji" : null,
+  "meaning" : [ "谓语，在句子中表示动作、状态等，对主语进行叙述、说明等的部分。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10584,
+  "word" : "迷います",
+  "reading" : "まよいます",
+  "romaji" : null,
+  "meaning" : [ "犹豫，难以决定；迷路，迷失方向" ],
+  "notes" : [ "原形为「迷う」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10585,
+  "word" : "迷う",
+  "reading" : "まよう",
+  "romaji" : null,
+  "meaning" : [ "迷路，迷失；犹豫；困惑；不知所措" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10586,
+  "word" : "迷信",
+  "reading" : "めいしん",
+  "romaji" : null,
+  "meaning" : [ "盲目地相信一些缺乏科学依据的事物或观念" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10587,
+  "word" : "迷子",
+  "reading" : "まいご",
+  "romaji" : null,
+  "meaning" : [ "迷路的孩子；走丢的人" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10588,
+  "word" : "迷惑",
+  "reading" : "めいわく",
+  "romaji" : null,
+  "meaning" : [ "麻烦，困扰；添麻烦，给人带来不便" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10589,
+  "word" : "迷惑する",
+  "reading" : "めいわくする",
+  "romaji" : null,
+  "meaning" : [ "给人添麻烦；感到麻烦，遭受烦扰" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10590,
+  "word" : "追いかける",
+  "reading" : "おいかける",
+  "romaji" : null,
+  "meaning" : [ "1. 追赶，追逐；2. 紧接着，随后；3. 追求，追寻；4. 赶制（工作等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10591,
+  "word" : "追いつく",
+  "reading" : "おいつく",
+  "romaji" : null,
+  "meaning" : [ "1. 赶上，追上；2. 来得及；3. 比得上，赶得上（他人的能力、水平等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10592,
+  "word" : "追い付く",
+  "reading" : "おいつく",
+  "romaji" : null,
+  "meaning" : [ "1. 赶上，追上（他人、车辆等）；2. 来得及（做某事）；3. 达到（与他人相同的水平、状态等）" ],
+  "notes" : [ "「追いつく」的否定形式是「追いつかない」；其可能态是「追いつける」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10593,
+  "word" : "追い出す",
+  "reading" : "おいだす",
+  "romaji" : null,
+  "meaning" : [ "把……赶出去；驱逐；辞退；开除；使离开" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10594,
+  "word" : "追い抜く",
+  "reading" : "おいぬく",
+  "romaji" : null,
+  "meaning" : [ "1. 赶过，超过（他の人や物を後ろに置いて先に進む）；2. 胜出，胜过（他の者より優れている、勝る）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10595,
+  "word" : "追い越す",
+  "reading" : "おいこす",
+  "romaji" : null,
+  "meaning" : [ "赶过，超过；（数量等方面）超过，多于" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10596,
+  "word" : "追い込む",
+  "reading" : "おいこむ",
+  "romaji" : null,
+  "meaning" : [ "1. 赶进，撵进去；2. 逼入，使陷入；3. 集中（精力等）；4. （在比赛等中）使（对方）陷入不利境地" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10597,
+  "word" : "追う",
+  "reading" : "おう",
+  "romaji" : null,
+  "meaning" : [ "1. 追赶，追逐；2. 追求，谋求；3. 催逼，逼迫；4. 驱赶，驱逐" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10598,
+  "word" : "追加",
+  "reading" : "ついか",
+  "romaji" : null,
+  "meaning" : [ "添加；追加；补充" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10599,
+  "word" : "追及",
+  "reading" : "ついきゅう",
+  "romaji" : null,
+  "meaning" : [ "追究，追问；追赶；（数学等中）追及（指在一定时间内赶上前面的对象等情况）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10600,
+  "word" : "追放",
+  "reading" : "ついほう",
+  "romaji" : null,
+  "meaning" : [ "将人或事物驱逐、驱赶出去；把人从组织、团体等中开除；也指将某人或某物从某个地方或状态中排除。" ],
+  "notes" : [ "「追放」は主に人を対象とする場合が多いが、場合によっては物にも使える。また、政治的な文脈でもよく用いられる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

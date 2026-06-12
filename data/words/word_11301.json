@@ -1,0 +1,901 @@
+[ {
+  "id" : 11301,
+  "word" : "面前",
+  "reading" : "めんぜん",
+  "romaji" : null,
+  "meaning" : [ "面前，眼前；（直接）面对，当着…的面" ],
+  "notes" : [ "可用于表示空间上的“面前、眼前”，也可用于表示行为发生的“当面、当着…的面”的语境中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11302,
+  "word" : "面子",
+  "reading" : "めんし",
+  "romaji" : null,
+  "meaning" : [ "名词，指面子、颜面、脸面，也可表示体面、名誉、声望，还可指情面、情分" ],
+  "notes" : [ "「面子」在日语中使用场景较为正式，和中文里的“面子”语义相近，在社交、礼仪等场合常被使用，注意读音容易误读为「めんつ」，正确读音是「めんし」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11303,
+  "word" : "面影",
+  "reading" : "おもかげ",
+  "romaji" : null,
+  "meaning" : [ "1. （人的）相貌，模样，面容；2. （事物的）迹象，风貌，痕迹" ],
+  "notes" : [ "常与「偲ぶ」「残る」等动词搭配使用，用于回忆人或事物过去的样子、风貌等情境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11304,
+  "word" : "面接",
+  "reading" : "めんせつ",
+  "romaji" : null,
+  "meaning" : [ "面试；面谈，会面" ],
+  "notes" : [ "也可作サ变动词使用，如「面接する」（进行面试、参加面试）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11305,
+  "word" : "面接試験",
+  "reading" : "めんせつしけん",
+  "romaji" : null,
+  "meaning" : [ "面试，求职面试、入学面试等各类面试考核" ],
+  "notes" : [ "「面接」本身也可单独表示“面试”，「試験」为“考试、考核”，二者组合强调带有考核性质的面试环节" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11306,
+  "word" : "面白い",
+  "reading" : "おもしろい",
+  "romaji" : null,
+  "meaning" : [ "1. 有趣的，有意思的；2. 滑稽的，好笑的；3. 愉快的，开心的；4. （事物）有价值的，值得重视的" ],
+  "notes" : [ "其否定形式为「面白くない」，过去式为「面白かった」，过去否定式为「面白くなかった」。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11307,
+  "word" : "面積",
+  "reading" : "めんせき",
+  "romaji" : null,
+  "meaning" : [ "（平面或立体图形等的）面积，也可用于表示某个区域的范围大小（如土地面积、房间面积等）" ],
+  "notes" : [ "常与「～の」「～は」等结构搭配使用来描述事物的面积，其对应的动词形式可使用「計る（はかる）」来表示“测量面积”，如「土地の面積を計る」（测量土地的面积）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11308,
+  "word" : "面談",
+  "reading" : "めんだん",
+  "romaji" : null,
+  "meaning" : [ "面谈，会面，会见" ],
+  "notes" : [ "可作サ変動詞使用，如「面談する」（进行面谈）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11309,
+  "word" : "革",
+  "reading" : "かわ",
+  "romaji" : null,
+  "meaning" : [ "皮革；皮肤；（某些物体的）表皮、外皮" ],
+  "notes" : [ "“革”在日语中除了常见的“皮革”含义外，还可用于表示生物的皮肤以及一些物体的外皮、表皮等，使用时需根据语境判断具体含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11310,
+  "word" : "革新",
+  "reading" : "かくしん",
+  "romaji" : null,
+  "meaning" : [ "革新，改革，创新" ],
+  "notes" : [ "可作サ変動詞使用，如「革新する」（进行革新）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11311,
+  "word" : "革靴",
+  "reading" : "かわぐつ",
+  "romaji" : null,
+  "meaning" : [ "皮鞋，用皮革制作的鞋子，通常用于正式场合、工作场合或搭配正装穿着，也有一些休闲风格的皮鞋可供日常穿着。" ],
+  "notes" : [ "“革”在这里表示皮革，“靴”表示鞋子，组合起来就是皮鞋的意思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11312,
+  "word" : "靴",
+  "reading" : "くつ",
+  "romaji" : null,
+  "meaning" : [ "鞋子，靴" ],
+  "notes" : [ "通常指穿在脚上的 footwear，一般为覆盖脚部的鞋类，常见的有皮鞋、运动鞋、靴子等多种类型" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11313,
+  "word" : "鞠",
+  "reading" : "まり",
+  "romaji" : null,
+  "meaning" : [ "球；（传统体育项目）踢毽子" ],
+  "notes" : [ "除了表示球的意思外，还常用于表示传统的踢毽子这项活动。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11314,
+  "word" : "鞭",
+  "reading" : "むち",
+  "romaji" : null,
+  "meaning" : [ "1. 鞭子，教鞭；2. 鞭策，督促" ],
+  "notes" : [ "也可作为动词使用，读音为「むちうつ」，意为“鞭打；鞭策，督促”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11315,
+  "word" : "韓国",
+  "reading" : "かんこく",
+  "romaji" : null,
+  "meaning" : [ "大韩民国，位于东亚朝鲜半岛南部的国家" ],
+  "notes" : [ "正式国名为大韩民国，韩语名称为“대한민국”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11316,
+  "word" : "韓国人",
+  "reading" : "かんこくじん",
+  "romaji" : null,
+  "meaning" : [ "名词，指韩国人，也可用于称呼具有韩国国籍或民族身份的人" ],
+  "notes" : [ "在日语中，用于表示韩国人的身份，其复数形式可在词后加「たち」变为「韓国人たち」表示“韩国人们”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11317,
+  "word" : "韓国語",
+  "reading" : "かんこくご",
+  "romaji" : null,
+  "meaning" : [ "名词，韩语（朝鲜半岛南部的韩国所使用的语言，属于阿尔泰语系，在词汇、语法等方面有自身的特点，也受到汉语、日语等语言的一定影响）" ],
+  "notes" : [ "“韓国語”对应的汉字也可写作“韩国語”，在日本，对于朝鲜半岛相关语言的称呼，根据立场和习惯不同，也有使用“朝鮮語（ちょうせんご）”的情况，不过“韓国語”更侧重于指韩国所使用的语言版本。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11318,
+  "word" : "韓国ドラマ",
+  "reading" : "かんこくドラマ",
+  "romaji" : null,
+  "meaning" : [ "韩国电视剧" ],
+  "notes" : [ "ドラマ是「drama」的外来语，意为电视剧。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11319,
+  "word" : "音",
+  "reading" : "おと",
+  "romaji" : null,
+  "meaning" : [ "声音，响声；发音，读音；（音乐的）音，音调；音讯，消息" ],
+  "notes" : [ "「音（おん）」的读音也可用于音读，如「音楽（おんがく）」，但单独的「音」作为单词时，训读为「おと」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11320,
+  "word" : "音声",
+  "reading" : "おんせい",
+  "romaji" : null,
+  "meaning" : [ "声音；语音（包括人类发出的声音、机器输出的语音等，也可用于表示语音相关的技术、数据等，例如音声認識（语音识别））" ],
+  "notes" : [ "在计算机、通信等领域常被用于表示语音相关的概念，与「音（おと）」相比，「音声」更侧重于人类语音或有意义的声音信息，「音」的范围更宽泛，可指各种声响。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11321,
+  "word" : "音楽",
+  "reading" : "おんがく",
+  "romaji" : null,
+  "meaning" : [ "音乐，乐曲" ],
+  "notes" : [ "可构成复合词，如「古典音楽（こてんおんがく）」（古典音乐）、「流行音楽（りゅうこうおんがく）」（流行音乐）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11322,
+  "word" : "音楽会",
+  "reading" : "おんがくかい",
+  "romaji" : null,
+  "meaning" : [ "名词，音乐会，演奏会（音乐演奏等的集会）" ],
+  "notes" : [ "“音楽会”也可写作“演奏会”，但“音楽会”更侧重于以音乐演奏为主要内容的集会，而“演奏会”有时也可包含其他乐器等的演奏展示，但二者在表示音乐会时可通用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11323,
+  "word" : "音楽家",
+  "reading" : "おんがくか",
+  "romaji" : null,
+  "meaning" : [ "音乐家，从事音乐创作、演奏、教学等相关工作的专业人士" ],
+  "notes" : [ "由「音楽（おんがく）」（音乐）和「家（か）」（从事某种职业或具有某种专长的人）组合而成，属于和制汉语词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11324,
+  "word" : "音痴",
+  "reading" : "おんち",
+  "romaji" : null,
+  "meaning" : [ "五音不全（的人）；对音乐感觉迟钝的人" ],
+  "notes" : [ "常用来形容人在音乐方面（尤其是唱歌）对音准把握能力差，也可用于形容对其他声音相关的感觉迟钝，如对语音语调的辨别等，但主要还是针对音乐方面的五音不全。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11325,
+  "word" : "音色",
+  "reading" : "ねいろ",
+  "romaji" : null,
+  "meaning" : [ "指声音的特色、音质，也可用于形容乐器、人的嗓音等发出声音的独特韵味。" ],
+  "notes" : [ "常与「美しい」「柔らかい」「独特」等形容词搭配使用，来描述音色的特点。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11326,
+  "word" : "音読み",
+  "reading" : "おんよみ",
+  "romaji" : null,
+  "meaning" : [ "名词，指日语汉字按照汉语的发音方式来读的音，与「訓読み（くんよみ）」相对" ],
+  "notes" : [ "在日语中，很多汉字都有音读和训读两种读法，音读多来自于古代汉语的发音，不同的方言（如吴音、汉音、唐音等）传入日本后形成了不同的音读形式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11327,
+  "word" : "音量",
+  "reading" : "おんりょう",
+  "romaji" : null,
+  "meaning" : [ "声音的大小程度，通常用于描述音频设备、乐器等发出声音的强弱程度" ],
+  "notes" : [ "由「音（おん）」（声音）和「量（りょう）」（量、程度）组合而成的复合名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11328,
+  "word" : "響く",
+  "reading" : "ひびく",
+  "romaji" : null,
+  "meaning" : [ "1. 发出声音，响。例：鐘が響く（钟声响起）。2. 回响，回荡。例：山間に声が響く（声音在山间回响）。3. （名声、评价等）流传，为人所知；（影响等）波及，产生影响。例：彼の名前は全国に響く（他的名字传遍全国）；その政策が経済に大きく響く（那个政策对经济产生很大影响）。" ],
+  "notes" : [ "「響く」为自动词，其使役形为「響かせる」（ひびかせる），可表示“使……响”“使……产生影响”等意思，例：音楽を大きく響かせる（把音乐放大声）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11329,
+  "word" : "頂",
+  "reading" : "いただき",
+  "romaji" : null,
+  "meaning" : [ "顶，上部；山顶；（敬语）吃饭，用餐；赢定了" ],
+  "notes" : [ "「頂」作为名词时，常见的义项有表示物体的顶部、山顶，也可作为「食べる」「もらう」的敬语形式使用，还可用于表示有把握获胜的语境中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11330,
+  "word" : "頂上",
+  "reading" : "ちょうじょう",
+  "romaji" : null,
+  "meaning" : [ "1. 山顶，顶峰（山の一番高い所）；2. 顶点，极点（物事が最も発展して高い位置に達した点）" ],
+  "notes" : [ "常见的搭配有「~に達する」（达到~的顶点）、「~を登る」（登上~的山顶）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11331,
+  "word" : "頂戴",
+  "reading" : "ちょうだい",
+  "romaji" : null,
+  "meaning" : [ "（自谦语）领受，接受；吃，喝（通常用于请求对方给自己某物或自己吃、喝某物的场合，也可用于表示自己领受了某物）" ],
+  "notes" : [ "「頂戴」作为自谦语，比「もらう」「食べる」「飲む」等表达更加礼貌、谦逊，多用于正式场合或对长辈、上级等表示尊敬的语境中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11332,
+  "word" : "頂戴",
+  "reading" : "ちょうだい",
+  "romaji" : null,
+  "meaning" : [ "1. 领受，收到（他人から物を受け取るときの丁寧な言い方）；2. 吃，喝（食べる・飲むことの丁寧な言い方）" ],
+  "notes" : [ "「頂戴」は尊敬語や丁寧語として使われ、主に自分が相手から物を受け取ったり、食べたりする場合に使う。「～を頂戴する」「～を頂戴いたします」などの形で用いる。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11333,
+  "word" : "頂点",
+  "reading" : "ちょうてん",
+  "romaji" : null,
+  "meaning" : [ "顶点；最高点；顶峰；巅峰（可用于形容事物发展、位置、状态等达到的最高程度或最高位置，例如人生的頂点、山の頂点）" ],
+  "notes" : [ "常与「に達する」「に立つ」「を目指す」等搭配使用，表示达到、处于、以……为目标等含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11334,
+  "word" : "頃",
+  "reading" : "ころ",
+  "romaji" : null,
+  "meaning" : [ "时候，时期；（与表示时间的词一起使用）左右，前后" ],
+  "notes" : [ "也可读作「ごろ」，通常在接在时间词后表示“左右”时读「ごろ」，如「三時ごろ」（三点左右）；单独使用或表示“时期、时候”时多读作「ころ」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11335,
+  "word" : "項目",
+  "reading" : "こうもく",
+  "romaji" : null,
+  "meaning" : [ "项目；条目；条款；（书籍、文件等的）项，目；（比赛、活动等的）项目" ],
+  "notes" : [ "可用于表示各种分类、罗列的条目，也可用于体育赛事、工程等的项目。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11336,
+  "word" : "順",
+  "reading" : "じゅん",
+  "romaji" : null,
+  "meaning" : [ "顺序，次序；条理，规律；合适的时机，火候；[用于列举]……之类，等等" ],
+  "notes" : [ "常见的复合词有「順序（じゅんじょ）」（顺序）、「順番（じゅんばん）」（次序）、「順不同（じゅんふどう）」（无顺序，杂乱）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11337,
+  "word" : "順々に",
+  "reading" : "じゅんじゅんに",
+  "romaji" : null,
+  "meaning" : [ "按顺序，依次；逐渐，渐渐" ],
+  "notes" : [ "常与动词连用，修饰动作的进行方式" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11338,
+  "word" : "順序",
+  "reading" : "じゅんじょ",
+  "romaji" : null,
+  "meaning" : [ "事物进行或排列的先后次序。例如：做事的顺序、文件的排列顺序等。" ],
+  "notes" : [ "常见的搭配有「順序を守る（遵守顺序）」「順序を立てる（理出顺序）」「順序が乱れる（顺序混乱）」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11339,
+  "word" : "順序よく",
+  "reading" : "じゅんじょうよく",
+  "romaji" : null,
+  "meaning" : [ "副词性短语，用于修饰动词等，表示做事、安排等方面按照一定的顺序，有条理、不混乱，即秩序井然、井井有条地" ],
+  "notes" : [ "由名词「順序」（顺序）和副词性后缀「よく」（…地，此处表示状态）构成，常用来描述行为动作进行时的状态符合顺序、有条理的特点" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11340,
+  "word" : "順延",
+  "reading" : "じゅんえん",
+  "romaji" : null,
+  "meaning" : [ "顺延，依次延期（将日期、时间、顺序等往后推迟，按次序依次延期）" ],
+  "notes" : [ "常与「する」构成サ变动词使用，如「順延する」（顺延，延期）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11341,
+  "word" : "順応",
+  "reading" : "じゅんおう",
+  "romaji" : null,
+  "meaning" : [ "顺应，适应（指根据外部环境、情况等的变化，调整自身的状态、行为、想法等以与之相符合、相协调）" ],
+  "notes" : [ "也可作サ変動詞使用，如「順応する」（じゅんおうする），此时词性为サ変動詞，活用类型遵循サ変動詞的活用规则" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11342,
+  "word" : "順番",
+  "reading" : "じゅんばん",
+  "romaji" : null,
+  "meaning" : [ "顺序，次序；轮流，依次" ],
+  "notes" : [ "可构成复合词，如「順番待ち」（排队等候）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11343,
+  "word" : "順調",
+  "reading" : "じゅんちょう",
+  "romaji" : null,
+  "meaning" : [ "顺利，良好（形容事物的发展、进行等没有阻碍，进展得很顺畅）" ],
+  "notes" : [ "可后续「に」「なる」「だ」等，如「順調に進む」（顺利进展）、「順調な計画」（顺利的计划）、「結果は順調だ」（结果良好）" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11344,
+  "word" : "預かります",
+  "reading" : "あずかります",
+  "romaji" : null,
+  "meaning" : [ "保管，收存；照看，照顾（人、物等）" ],
+  "notes" : [ "其基本形为「預かる（あずかる）」，属于五段动词，「預かります」是其礼貌体的ます形，用于较为正式、礼貌的场合表达“保管、照看”等意思。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11345,
+  "word" : "預かる",
+  "reading" : "あずかる",
+  "romaji" : null,
+  "meaning" : [ "（代为）保管；（临时）照看；承担，负责" ],
+  "notes" : [ "「預かる」是他动词，其对应的自动词是「預かり」（但更常用的对应自动词表达保管状态的是「預かってある」等形式），注意和「預ける」（他动词，意为“寄存，托付”）的区别，「預ける」是将物品等托付给别人，而「預かる」是接受托付进行保管等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11346,
+  "word" : "預けます",
+  "reading" : "あずけます",
+  "romaji" : null,
+  "meaning" : [ "寄存，托付；委托，托付（工作、任务等）；托养，寄养（孩子、宠物等）" ],
+  "notes" : [ "其基本形为「預ける（あずける）」，属于一类动词（五段动词）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11347,
+  "word" : "預ける",
+  "reading" : "あずける",
+  "romaji" : null,
+  "meaning" : [ "1. 寄存，存放；2. 委托，托付；3. 垫（钱），代付" ],
+  "notes" : [ "其对应的他动词是「預かる（あずかる）」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11348,
+  "word" : "預金",
+  "reading" : "よきん",
+  "romaji" : null,
+  "meaning" : [ "存款；储蓄" ],
+  "notes" : [ "也可作サ変動詞，如「預金する」（存款）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11349,
+  "word" : "頑な",
+  "reading" : "がんな",
+  "romaji" : null,
+  "meaning" : [ "顽固的，固执的，倔强的，顽强的（常含贬义，用于形容人在想法、态度、行为等方面坚持己见，不愿改变，不易被说服或打动）" ],
+  "notes" : [ "其连用形为「頑なに」，例如「頑なに反対する（顽固地反对）」；连体形为「頑なな」，如上述示例中的用法。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11350,
+  "word" : "頑丈",
+  "reading" : "がんじょう",
+  "romaji" : null,
+  "meaning" : [ "1. （物体等）结实的，坚固的；2. （人、动物等）健壮的，强壮的" ],
+  "notes" : [ "也可写作「強丈」，但「頑丈」更为常用。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11351,
+  "word" : "頑固",
+  "reading" : "がんこく",
+  "romaji" : null,
+  "meaning" : [ "1. （性格、态度等）犟，固执，顽固，执拗；2. （疾病等）顽固，难治，痼疾" ],
+  "notes" : [ "作为形容动词，在句子中修饰名词时需后续「な」，如「頑固な人」（固执的人）；作谓语时后续「だ」，如「彼は頑固だ」（他很固执）。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11352,
+  "word" : "頑張ります",
+  "reading" : "がんばります",
+  "romaji" : null,
+  "meaning" : [ "努力，加油，拼命努力" ],
+  "notes" : [ "「頑張ります」是「頑張る」的ます形（尊敬形），用于较为正式、礼貌的场合，表达鼓励、自身的努力等意思。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11353,
+  "word" : "頑張る",
+  "reading" : "がんばる",
+  "romaji" : null,
+  "meaning" : [ "加油，努力；坚持，振作；尽力，拼命" ],
+  "notes" : [ "其否定形式为「頑張らない」，过去式为「頑張った」，命令形为「頑張れ」，用于鼓励他人或表达自身努力的决心，在口语和书面语中都较为常用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11354,
+  "word" : "頗る",
+  "reading" : "はなはだ",
+  "romaji" : null,
+  "meaning" : [ "颇，非常，极其（程度高，常修饰形容词、动词等，体现事物达到的程度较深）" ],
+  "notes" : [ "属于书面语，在正式的文章、文学作品等中使用较多，口语中较少使用" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11355,
+  "word" : "領事",
+  "reading" : "りょうじ",
+  "romaji" : null,
+  "meaning" : [ "领事（一国政府派驻在他国某城市，维护本国及其公民和法人的权益，办理外交事务的官员）" ],
+  "notes" : [ "“領事”一般指领事职务或担任领事的人，相关机构为“領事館（りょうじかん）”（领事馆）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11356,
+  "word" : "領事館",
+  "reading" : "りょうじかん",
+  "romaji" : null,
+  "meaning" : [ "领事馆，是一国驻在他国某个城市的领事代表机关的总称，负责管理当地本国侨民和其它领事事务。" ],
+  "notes" : [ "「領事館」是外来事物相关的日语词汇，在涉及国际事务、出国手续办理等场景中经常使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11357,
+  "word" : "領収",
+  "reading" : "りょうしゅう",
+  "romaji" : null,
+  "meaning" : [ "收款，收据，收条" ],
+  "notes" : [ "通常与「書（しょ）」搭配构成「領収書」表示收据" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11358,
+  "word" : "領収書",
+  "reading" : "りょうしゅうしょ",
+  "romaji" : null,
+  "meaning" : [ "收据，收条（商品やサービスの代金を支払ったことを証明する書類）" ],
+  "notes" : [ "「領収」は「受け取ったことを証明する」という意味で、「書」は「書類」を表す。主に代金の支払いの証明として使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11359,
+  "word" : "領土",
+  "reading" : "りょうど",
+  "romaji" : null,
+  "meaning" : [ "国家行使主权的地域范围，包括陆地、水域及其上空和底土，是国家构成的要素之一" ],
+  "notes" : [ "在国际法中，领土的取得和变更有先占、时效、割让、征服、添附等方式，但现代国际法更强调领土主权的平等和不侵犯原则" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11360,
+  "word" : "領域",
+  "reading" : "りょういき",
+  "romaji" : null,
+  "meaning" : [ "领域；范围；区域（指具有特定性质、功能、归属等的空间或范围，可用于学术、地理、专业等方面）" ],
+  "notes" : [ "常见的搭配有「～の領域」（……的领域）、「領域を拡大する」（扩大领域）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11361,
+  "word" : "頬",
+  "reading" : "ほほ",
+  "romaji" : null,
+  "meaning" : [ "脸颊，面颊，脸的两侧从眼到下颌的部分" ],
+  "notes" : [ "可构成复合词，如「頬杖（ほほづえ）」（手托脸颊）、「頬紅（ほほべに）」（胭脂）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11362,
+  "word" : "頭",
+  "reading" : "あたま",
+  "romaji" : null,
+  "meaning" : [ "1. 头（人或动物的头部）；2. 头脑，脑筋（思考、记忆等的器官及能力）；3. 首领，头目（团体、组织等的领导者）；4. 顶端，开头（物体的顶端部分或事物的起始部分）；5. 方面，点（从某个角度、立场来看）" ],
+  "notes" : [ "「頭」还有音读「とう」，如「頭脳（とうのう）」（头脑、智力）、「首長（しゅちょう）」（首领，此处「首」对应「頭」的音读用法拓展）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11363,
+  "word" : "頭がいい",
+  "reading" : "あたまがいい",
+  "romaji" : null,
+  "meaning" : [ "头脑聪明，脑子好用" ],
+  "notes" : [ "「頭がいい」是一个常用的日语短语，用于形容人智力高、头脑灵活，在日常交流和书面表达中都较为常见。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11364,
+  "word" : "頭痛",
+  "reading" : "ずつう",
+  "romaji" : null,
+  "meaning" : [ "头痛；烦恼，苦恼" ],
+  "notes" : [ "可作为サ変动词使用，如「頭痛する」（头痛；烦恼）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11365,
+  "word" : "頭脳",
+  "reading" : "ずのう",
+  "romaji" : null,
+  "meaning" : [ "1. 头脑，智力；2. 首脑，领导人" ],
+  "notes" : [ "可用于形容人的智力水平，也可指某一群体或组织的领导核心。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11366,
+  "word" : "頷く",
+  "reading" : "うなずく",
+  "romaji" : null,
+  "meaning" : [ "（上下）点头，首肯；（事物）符合，顺应，与…一致" ],
+  "notes" : [ "“頷く”的汉字也可写作“渦く”，但“頷く”更为常用。其过去式为“頷いた（うなずいた）”，否定形为“頷かない（うなずかない）”等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11367,
+  "word" : "頻りに",
+  "reading" : "しきりに",
+  "romaji" : null,
+  "meaning" : [ "频繁地，屡次地；（也可用于形容情感等）强烈地" ],
+  "notes" : [ "「頻りに」也可写作「屡りに」，在句中多用来修饰动词或形容词，描述动作、状态发生的频率高或情感的强烈程度" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11368,
+  "word" : "頻繁",
+  "reading" : "ひんぱん",
+  "romaji" : null,
+  "meaning" : [ "频繁，屡次，经常（表示在一定时间内多次发生，频率较高）" ],
+  "notes" : [ "作为形容动词，后续用言时需加「に」（修饰动词）或「な」（修饰名词），例如「頻繁に訪れる」（频繁来访）、「頻繁なトラブル」（频繁的麻烦）" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11369,
+  "word" : "頼み",
+  "reading" : "たのみ",
+  "romaji" : null,
+  "meaning" : [ "1. 请求，恳求，拜托；2. 指望，期望，依靠；3. 信赖，信任" ],
+  "notes" : [ "「頼み」是「頼む」的名词形式，也可作为サ変动词「頼みする」的词干使用，比如「頼みをする」（进行请求）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11370,
+  "word" : "頼みます",
+  "reading" : "たのみます",
+  "romaji" : null,
+  "meaning" : [ "1. 点（菜），如在餐厅点菜；2. 请求，恳请他人做某事；3. 托付，将事情或物品托付给他人" ],
+  "notes" : [ "其基本形为「頼む（たのむ）」，属于五段动词，在使用时需注意语境以准确表达不同含义。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11371,
+  "word" : "頼む",
+  "reading" : "たのむ",
+  "romaji" : null,
+  "meaning" : [ "1. 请求，拜托（他人做某事或给予某物）；2. 委托（将事务等托付给他人）；3. 指望，依靠（把希望、期待寄托于某人或某事）" ],
+  "notes" : [ "「頼む」的尊敬语形式为「お願いする」，自谦语形式为「申し込む」（在请求的语境下）或「お願いいたす」（更正式的自谦表达）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11372,
+  "word" : "頼もしい",
+  "reading" : "たのもしい",
+  "romaji" : null,
+  "meaning" : [ "靠得住的，可靠的；有出息的，有望的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11373,
+  "word" : "頼り",
+  "reading" : "たより",
+  "romaji" : null,
+  "meaning" : [ "1. 依靠，依赖，依仗；2. 可依靠的人（或事物），帮手，依靠的对象，依据，凭借的事物" ],
+  "notes" : [ "常与「になる」「にする」等搭配使用，如「頼りになる」（可靠的，可依靠的）、「頼りにする」（以……为依靠）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11374,
+  "word" : "頼りない",
+  "reading" : "たよりない",
+  "romaji" : null,
+  "meaning" : [ "无依无靠的；不可靠的，没把握的（常用来形容人、事物或情况给人一种难以信赖、缺乏稳定性或保障性的感觉）" ],
+  "notes" : [ "由动词「頼る（たよる）」（依靠、依赖）的连用形「頼り（たより）」加上否定形容词词尾「ない」构成，属于イ形容词（一类形容词）的否定形式演变而来的形容动词性形容词？不，实际上「頼りない」是イ形容词（一类形容词），其活用遵循イ形容词的活用规则，比如连用形可以是「頼りなく」「頼りなかった」等" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11375,
+  "word" : "頼る",
+  "reading" : "たよる",
+  "romaji" : null,
+  "meaning" : [ "1. 依靠，依赖；2. 指望，寄希望于；3. 委托，托付" ],
+  "notes" : [ "「頼る」是他动词，其对应的自动词是「頼りになる」（值得依靠）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11376,
+  "word" : "題する",
+  "reading" : "だいする",
+  "romaji" : null,
+  "meaning" : [ "以……为主题，围绕……；题有（标题、词句等）" ],
+  "notes" : [ "「題する」通常用于较为正式的书面语境，如学术论文、文学作品等中，表示围绕某一主题展开或在某物上题写内容。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11377,
+  "word" : "額",
+  "reading" : "ぬか",
+  "romaji" : null,
+  "meaning" : [ "1. 额头，脑门；2. 匾额，招牌；3. 金额，数量" ],
+  "notes" : [ "该词为多义词，需根据上下文判断具体含义，读音还有“がく”，如“掛け額（がけがく）”（挂轴，字画）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11378,
+  "word" : "顎",
+  "reading" : "あご",
+  "romaji" : null,
+  "meaning" : [ "下巴，下颚；（器物的）承口，凹部" ],
+  "notes" : [ "常见的汉字写法为“顎”，也可写作“頷”（在表示“下巴”含义时通用，但“頷”还有“点头”的动词含义）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11379,
+  "word" : "顔",
+  "reading" : "かお",
+  "romaji" : null,
+  "meaning" : [ "脸；面孔；表情；神色；面子；脸面；容貌" ],
+  "notes" : [ "可构成复合词，如「顔立ち（かおだち）」（容貌、长相）、「顔色（かおいろ）」（脸色、神色）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11380,
+  "word" : "顔つき",
+  "reading" : "かおつき",
+  "romaji" : null,
+  "meaning" : [ "相貌；表情，神色" ],
+  "notes" : [ "通常用于描述人的面部神情、相貌特征，也可用于描述事物给人的直观神情感（拟人化表达时）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11381,
+  "word" : "顔立ち",
+  "reading" : "かおだち",
+  "romaji" : null,
+  "meaning" : [ "容貌，长相（侧重于五官的搭配、整体的面部轮廓等给人的视觉印象）" ],
+  "notes" : [ "一般用于描述人的面部外观，是比较书面或正式的表达，口语中也可使用，但相对少一些。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11382,
+  "word" : "顔色",
+  "reading" : "がんしょく0",
+  "romaji" : null,
+  "meaning" : [ "脸色，神色，神情；气色，面色；[敬语]（对方的）意向，心情" ],
+  "notes" : [ "在表示“脸色”“神色”等义时，也可读作「かおいろ」，但「がんしょく」的用法更偏向书面语、正式场合或敬语表达中询问对方意向等情况" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11383,
+  "word" : "顔負け",
+  "reading" : "かおおうけ",
+  "romaji" : null,
+  "meaning" : [ "（因对方出色而）甘拜下风，相形见绌；（在某方面）比不上，逊色" ],
+  "notes" : [ "常以「～に顔負けする」「～と顔負けだ」等形式使用，其中「顔負けする」可作为サ変動詞（サ动词）使用，例如「彼の才能にはみんな顔負けしている。（大家都对他的才能甘拜下风。）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11384,
+  "word" : "顕在",
+  "reading" : "けんざい",
+  "romaji" : null,
+  "meaning" : [ "显在，实际存在（的事物、状态等）" ],
+  "notes" : [ "也可作サ変動詞使用，如「顕在する」（けんざいする），此时词性为动词，活用类型为サ変動詞" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11385,
+  "word" : "顕微鏡",
+  "reading" : "けんびきょう",
+  "romaji" : null,
+  "meaning" : [ "显微镜，用于观察微小物体的光学仪器" ],
+  "notes" : [ "通常由物镜、目镜等光学部件组成，广泛应用于生物学、医学等领域" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11386,
+  "word" : "顕著",
+  "reading" : "けんちょ",
+  "romaji" : null,
+  "meaning" : [ "显著的，明显的，突出的" ],
+  "notes" : [ "常与「である」「だ」等助动词连用，如「顕著である」「顕著だ」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11387,
+  "word" : "願い",
+  "reading" : "ねがい",
+  "romaji" : null,
+  "meaning" : [ "愿望，心愿；请求，祈求" ],
+  "notes" : [ "「願い」是「願う（ねがう）」的名词形式，可表示内心的愿望、心愿，也可表示向他人或神灵等提出的请求、祈求" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11388,
+  "word" : "願う",
+  "reading" : "ねがう",
+  "romaji" : null,
+  "meaning" : [ "1. 请求，要求，拜托；2. 期望，希望，祈愿" ],
+  "notes" : [ "其对应的汉字为「願う」，也可写作「望う」（读音相同，含义相近但使用场景略有差异，「望う」更侧重于内心的期望、渴望，「願う」除了期望还有请求、拜托他人的意味）" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11389,
+  "word" : "願書",
+  "reading" : "がんしょ",
+  "romaji" : null,
+  "meaning" : [ "申请书，志愿书（用于申请入学、入职、参加活动等，记载个人意愿、相关信息等的书面文件）" ],
+  "notes" : [ "一般为正式的书面文件，在升学、求职、申请资格等场景中使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11390,
+  "word" : "願望",
+  "reading" : "がんぼう",
+  "romaji" : null,
+  "meaning" : [ "愿望，心愿，期望（对某种事物或状态的向往、盼望，通常是内心比较强烈的诉求）" ],
+  "notes" : [ "可构成「願望を叶える（实现愿望）」「願望を抱く（抱有愿望）」等常用搭配。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11391,
+  "word" : "類",
+  "reading" : "るい",
+  "romaji" : null,
+  "meaning" : [ "1. 同类，类别；2. 匹敌，类似" ],
+  "notes" : [ "常见的复合词有「分類（ぶんるい）」（分类）、「同類（どうるい）」（同类）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11392,
+  "word" : "類する",
+  "reading" : "るいする",
+  "romaji" : null,
+  "meaning" : [ "（与……）相似，类似；把……比作，将……归类为" ],
+  "notes" : [ "「類する」是サ变动词，其否定形式为「類さない」，过去式为「類した」，て形为「類して」等。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11393,
+  "word" : "類似",
+  "reading" : "るいじ",
+  "romaji" : null,
+  "meaning" : [ "类似，相像，相似" ],
+  "notes" : [ "常与「する」「している」等搭配使用，构成动词性短语，如「類似する」（类似，相似）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11394,
+  "word" : "類型",
+  "reading" : "るいけい",
+  "romaji" : null,
+  "meaning" : [ "类型，种类，样式" ],
+  "notes" : [ "常与「の」「として」「に分ける」等搭配使用，如「異なる類型のデータ」（不同类型的数据）、「これを新しい類型とする」（把这个作为新的类型）、「商品を用途別の類型に分ける」（把商品按用途分成不同类型）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11395,
+  "word" : "類推",
+  "reading" : "るいすい",
+  "romaji" : null,
+  "meaning" : [ "类推，类比，根据某一事物的道理来推断其他类似事物的道理" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11396,
+  "word" : "顧みる",
+  "reading" : "かえみる",
+  "romaji" : null,
+  "meaning" : [ "1. 往后看，回头看；2. 回顾，回想；3. 顾及，考虑，留意；4. 照管，照顾" ],
+  "notes" : [ "其对应的汉字还有「返る」「還る」等，但在表示“回顾、顾及”等义时通常用「顧みる」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11397,
+  "word" : "顧問",
+  "reading" : "こもん",
+  "romaji" : null,
+  "meaning" : [ "顾问，参谋（就特定的领域或问题，提供专业意见、建议或指导的人，常受聘于企业、团体、个人等，在法律、经济、技术、艺术等不同领域发挥作用）" ],
+  "notes" : [ "常见的搭配有「～の顧問を務める（担任……的顾问）」「顧問を依頼する（委托顾问）」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11398,
+  "word" : "風が強い",
+  "reading" : "かぜがつよい",
+  "romaji" : null,
+  "meaning" : [ "风大，风力强" ],
+  "notes" : [ "由名词「風（かぜ）」、格助词「が」和形容词「強い（つよい）」构成的连语，用于描述风的强度较大的状态。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11399,
+  "word" : "風俗",
+  "reading" : "ふうぞく",
+  "romaji" : null,
+  "meaning" : [ "风俗，习俗；（日本特有的）色情服务业" ],
+  "notes" : [ "“風俗”在不同语境下含义不同，需根据上下文判断。作为“色情服务业”含义时，使用场景需注意场合和对象的适当性。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11400,
+  "word" : "風力",
+  "reading" : "ふうりょく",
+  "romaji" : null,
+  "meaning" : [ "风力，风的力量，利用风的力量（如风力发电等）" ],
+  "notes" : [ "常与“発電（はつでん）”等词搭配使用，用于描述与风的能量相关的事物或技术。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

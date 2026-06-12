@@ -1,0 +1,901 @@
+[ {
+  "id" : 2001,
+  "word" : "ビビオ",
+  "reading" : "bideo",
+  "romaji" : null,
+  "meaning" : [ "视频；录像，录影；录像机；录像带" ],
+  "notes" : [ "来源于英语单词\"video\"，是日语外来语，日常生活中可表示视频、录像内容、录像带、录像机等多种相关含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2002,
+  "word" : "ビデオカメラ",
+  "reading" : "ビデオカメラ",
+  "romaji" : null,
+  "meaning" : [ "摄像机，视频照相机，指用于拍摄动态影像的摄影装置" ],
+  "notes" : [ "外来语，由英语「video camera」音译而来" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2003,
+  "word" : "ビニール",
+  "reading" : "ビニール",
+  "romaji" : null,
+  "meaning" : [ "乙烯，乙烯基；塑料，塑料薄膜" ],
+  "notes" : [ "该词源自英语单词\"vinyl\"，是日语外来词，日常生活中常用以指代塑料材质制品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2004,
+  "word" : "ビリヤード",
+  "reading" : "びりやーど",
+  "romaji" : null,
+  "meaning" : [ "台球，撞球，源自英语billiards，是一项在台球桌上用球杆击球入袋的室内体育运动" ],
+  "notes" : [ "外来语，通常指美式台球或英式撞球运动，区别于九球、斯诺克等细分项目时可泛指各类台球运动" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2005,
+  "word" : "ビル",
+  "reading" : "びる",
+  "romaji" : null,
+  "meaning" : [ "本义为大楼、建筑物；也可作为「ビルディング（building）」的省略语，泛指高层建筑，另外还可指代比尔（人名）" ],
+  "notes" : [ "这是英语「building」传入日语后形成的外来语，是日语日常生活中常用的词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2006,
+  "word" : "ビーナッツ",
+  "reading" : "ビーナッツ",
+  "romaji" : null,
+  "meaning" : [ "花生，花生米" ],
+  "notes" : [ "也可写作「ピーナッツ」，是英语peanut的外来语借词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2007,
+  "word" : "ビール",
+  "reading" : "びーる",
+  "romaji" : null,
+  "meaning" : [ "啤酒，英文beer对应的外来语，指以大麦、酒花、水为主要原料发酵制成的含二氧化碳的低酒精度酿造酒" ],
+  "notes" : [ "外来语，源自英语beer，属于サ変活用名词以外的普通名词，是日语基础饮食类词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2008,
+  "word" : "ピアニスト",
+  "reading" : "ピアニスト",
+  "romaji" : null,
+  "meaning" : [ "钢琴家，钢琴演奏者" ],
+  "notes" : [ "源自英语单词\"pianist\"，是日语中的外来语名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2009,
+  "word" : "ピアノ",
+  "reading" : "ぴあの",
+  "romaji" : null,
+  "meaning" : [ "钢琴（西洋键盘乐器）" ],
+  "notes" : [ "源自英语单词\"piano\"的外来语，正式全称为「ピアノフォルテ」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2010,
+  "word" : "ピクニック",
+  "reading" : "ぴくにっく",
+  "romaji" : null,
+  "meaning" : [ "郊游，野餐" ],
+  "notes" : [ "源自英语单词\"picnic\"，是日语外来语名词，也可作为サ変活用动词使用（ピクニックする）。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2011,
+  "word" : "ピザ",
+  "reading" : "ぴざ",
+  "romaji" : null,
+  "meaning" : [ "比萨饼，披萨" ],
+  "notes" : [ "外来语，源自英语\"pizza\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2012,
+  "word" : "ピラミッド",
+  "reading" : "ピラミッド",
+  "romaji" : null,
+  "meaning" : [ "1. （埃及等的）金字塔；2. 锥形体，棱锥体；3. 金字塔形的组织、结构或堆叠" ],
+  "notes" : [ "该词是英语「pyramid」的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2013,
+  "word" : "ピン",
+  "reading" : "ピン",
+  "romaji" : null,
+  "meaning" : [ "别针；大头针；（球类运动的）球瓶；（烫发的）卷发杠；销，销钉，栓；<俚>（电压的）插脚，管脚" ],
+  "notes" : [ "外来语，源自英语pin" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2014,
+  "word" : "ピンからキリまで",
+  "reading" : "ぴんからきりまで",
+  "romaji" : null,
+  "meaning" : [ "指从最低限度、最差的情况到最高限度、最好的情况都包含在内，也就是「从一端到另一端，范围涵盖一切，从头到尾」，原本起源于骰子术语，ピン是点数1（ピン是伊吕波顺第一位「い」转音而来，也有说法来自「一」的汉语发音），キリ是点数最后一位。" ],
+  "notes" : [ "是日语常用的固定惯用语，不是普通的副词或名词词组，核心语义是表示范围涵盖从最差/最低到最好/最高的全部情况。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2015,
+  "word" : "ピンク",
+  "reading" : "ピンク",
+  "romaji" : null,
+  "meaning" : [ "1. 名词：粉红色，桃红色；2. （引申义）粉色色情内容，桃色" ],
+  "notes" : [ "来自英语单词\"pink\"的外来语，除表示颜色外，也可指代低俗色情的内容。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2016,
+  "word" : "ピンチ",
+  "reading" : "ぴんち",
+  "romaji" : null,
+  "meaning" : [ "紧急关头，危机，困境；（棒球等的）危急局面" ],
+  "notes" : [ "源自英语单词\"pinch\"，日语外来语，常表示陷入危险、困难的危急处境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2017,
+  "word" : "ピンポン",
+  "reading" : "ぴんぽん",
+  "romaji" : null,
+  "meaning" : [ "乒乓球（table tennis），也可指乒乓球运动" ],
+  "notes" : [ "外来语，源自英语\"ping pong\"，正式场合一般用「卓球（たっきゅう）」指乒乓球。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2018,
+  "word" : "ピーアール",
+  "reading" : "ピーアール",
+  "romaji" : null,
+  "meaning" : [ "源自英语PR（Public Relations），指公关，公关活动，也引申指宣传、广告" ],
+  "notes" : [ "外来语，是Public Relations的缩略音译" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2019,
+  "word" : "ピーク",
+  "reading" : "ぴーく",
+  "romaji" : null,
+  "meaning" : [ "1.（山的）最高峰，顶点；2.（事物的）顶峰，最高点，峰值；巅峰状态" ],
+  "notes" : [ "外来语，源自英语单词\"peak\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2020,
+  "word" : "ピーナッツ",
+  "reading" : "ぴーなっつ",
+  "romaji" : null,
+  "meaning" : [ "花生，花生米；源自英语peanut" ],
+  "notes" : [ "外来语，也可指花生酱等花生制品的原料，日常饮食场景常用词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2021,
+  "word" : "ピーマン",
+  "reading" : "ぴーまん",
+  "romaji" : null,
+  "meaning" : [ "青椒，甜椒，灯笼椒" ],
+  "notes" : [ "源自英语\"pimiento\"，是日语外来词，指常见的食用甜椒" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2022,
+  "word" : "ファイト",
+  "reading" : "ふぁいと",
+  "romaji" : null,
+  "meaning" : [ "1. 戰鬥，鬥爭（源於英語fight）；2. 鬥志，戰意；3. （體育等比賽中的）助威鼓勵用語，相當於「加油」" ],
+  "notes" : [ "該詞是來源於英語「fight」的日語外來詞，除名詞用法外，常用於口語作為鼓勵他人的感動詞使用，表示「加油」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2023,
+  "word" : "ファイナンス",
+  "reading" : "ふぁいなんす",
+  "romaji" : null,
+  "meaning" : [ "金融，财政；融资，资金筹措" ],
+  "notes" : [ "源自英语单词\"finance\"的外来语，是日语中常用的财经领域词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2024,
+  "word" : "ファイル",
+  "reading" : "ファイル",
+  "romaji" : null,
+  "meaning" : [ "1. 文件，档案，卷宗；2.（计算机）文件；3. 文件夹，文件盒；4. 锉刀" ],
+  "notes" : [ "来源于英语单词\"file\"的外来语，是日语中常用词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2025,
+  "word" : "ファクス",
+  "reading" : "ふぁくす",
+  "romaji" : null,
+  "meaning" : [ "传真，是「ファクシミリ（facsimile）」的略语，指传真机、传真通信以及传真文件" ],
+  "notes" : [ "和製外来語，全称是ファクシミリ，日常口语和商务场景中常用省略形ファクス" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2026,
+  "word" : "ファスナー",
+  "reading" : "ふぁすなー",
+  "romaji" : null,
+  "meaning" : [ "拉链，拉锁；也指紧固件、拉链式扣件" ],
+  "notes" : [ "源自英语「fastener」，日语中也可写作「ファスナ」，部分语境也可称ジッパー" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2027,
+  "word" : "ファックス",
+  "reading" : "ふぁっくす",
+  "romaji" : null,
+  "meaning" : [ "传真（对应英文单词fax，指传真机，也可指传真通信、传真文件）" ],
+  "notes" : [ "外来语，也可写作「FAX」，词性为サ変活用名词时也可作动词使用，如「ファックスする」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2028,
+  "word" : "ファッション",
+  "reading" : "ふぁっしょん",
+  "romaji" : null,
+  "meaning" : [ "时装，时尚，流行；流行款式" ],
+  "notes" : [ "该词是英语「fashion」的外来语，是日语中常用的日常词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2029,
+  "word" : "ファン",
+  "reading" : "ふぁん",
+  "romaji" : null,
+  "meaning" : [ "1. （文艺、体育等的）爱好者，迷，崇拜者，支持者；2. 风扇，排气扇，鼓风机；3. （高尔夫、棒球等的）粉丝扇形击球区" ],
+  "notes" : [ "该词是英语「fan」的外来语，上述第二个义项对应英语「fan」的风扇含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2030,
+  "word" : "ファーストフード",
+  "reading" : "ふぁーすとふーど",
+  "romaji" : null,
+  "meaning" : [ "西式快餐，速食" ],
+  "notes" : [ "源自英语外来词\"fast food\"，也可表「ファストフード」，两种表记均常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2031,
+  "word" : "フィクション",
+  "reading" : "ふぃくしょん",
+  "romaji" : null,
+  "meaning" : [ "虚构；虚构作品，尤指小说；杜撰" ],
+  "notes" : [ "该词是源自英语\"fiction\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2032,
+  "word" : "フィルター",
+  "reading" : "ふぃるたー",
+  "romaji" : null,
+  "meaning" : [ "过滤器；滤嘴；滤波器；（摄影）滤镜" ],
+  "notes" : [ "源自英语单词\"filter\"，是日语外来语词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2033,
+  "word" : "フィルム",
+  "reading" : "ふぃるむ",
+  "romaji" : null,
+  "meaning" : [ "（相机）胶卷；电影，影片；薄膜，膜片；（摄影用的）胶片" ],
+  "notes" : [ "该词是英语\"film\"的日语外来语，词性为名词，属于日语能力考N3级要求掌握的词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2034,
+  "word" : "フィードバック",
+  "reading" : "ふぃーどばっく",
+  "romaji" : null,
+  "meaning" : [ "反馈，回授；（将结果等）返还，回馈" ],
+  "notes" : [ "源自英语单词\"feedback\"的外来语，可作为名词使用，也可以接「する」构成サ変活用动词，表示对信息、结果的反馈回馈。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2035,
+  "word" : "フェア",
+  "reading" : "フェア",
+  "romaji" : null,
+  "meaning" : [ "公平的，公正的；合理的；（商品）展销会，博览会" ],
+  "notes" : [ "来源于英语\"fair\"，作为形容动词使用时后续だ修饰名词，作名词使用时可表示会展类活动" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2036,
+  "word" : "フェスティバル",
+  "reading" : "ふぇすてぃばる",
+  "romaji" : null,
+  "meaning" : [ "源自英语festival，指节日、庆典、节庆活动" ],
+  "notes" : [ "外来语，口语中常简称为「フェス」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2037,
+  "word" : "フェリー",
+  "reading" : "ふぇりー",
+  "romaji" : null,
+  "meaning" : [ "渡船；轮渡，渡轮" ],
+  "notes" : [ "来源于英语单词\"ferry\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2038,
+  "word" : "フォロー",
+  "reading" : "ふぉろー",
+  "romaji" : null,
+  "meaning" : [ "1.（社交网络）关注；2.跟随，跟踪；3.（棒球）跟投，补位；4.跟进，后续支持，补充处理" ],
+  "notes" : [ "源自英语\"follow\"，可作为名词或サ変活用动词使用，在SNS语境中表示\"关注\"是最常用的含义之一" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2039,
+  "word" : "フォーク",
+  "reading" : "フォーク",
+  "romaji" : null,
+  "meaning" : [ "1. 餐叉，叉子（西餐餐具）；2. （道路、河流等的）分叉，岔口；3. 民谣歌手，民谣吉他手（源自folk的音译）" ],
+  "notes" : [ "英语「fork」的外来语，作为西餐餐具是日语能力考N5级核心词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2040,
+  "word" : "フォーマル",
+  "reading" : "ふぉーまる",
+  "romaji" : null,
+  "meaning" : [ "正式的；礼仪的；适合正式场合的" ],
+  "notes" : [ "该词是英语「formal」的外来语，作修饰名词时需要接「な」，属于ナ形容词用法，也可直接作名词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2041,
+  "word" : "フォーム",
+  "reading" : "ふぉーむ",
+  "romaji" : null,
+  "meaning" : [ "1. 姿势，动作形态（体育运动等中的动作姿势）；2. 形式，样式；3. 表单，表格（网页、办公场景中的填写表单）；4. 泡沫（=フォーム，是foam的音译）" ],
+  "notes" : [ "来源于英语单词\"form\"和\"foam\"，不同含义对应不同原词，是日语外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2042,
+  "word" : "フライ",
+  "reading" : "フライ",
+  "romaji" : null,
+  "meaning" : [ "1. 油炸食品，特指将鱼、肉、蔬菜等蘸上面包糠后油炸的西式料理；2. （高尔夫、棒球等的）飞球，高飞球；3. （服装的）卷边，荷叶边；4. <航空>飞行，飞翔（源自英文fly）" ],
+  "notes" : [ "和语的「天ぷら（天妇罗）」不同，フライ一般指蘸面包糠油炸的西式油炸料理" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2043,
+  "word" : "フライパン",
+  "reading" : "ふらいぱん",
+  "romaji" : null,
+  "meaning" : [ "平底锅，煎锅，源自英语frying pan，是烹饪中用来煎炒食物的带柄平底锅具" ],
+  "notes" : [ "外来语，来自英语frying pan，是日常生活常用的厨房用具词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2044,
+  "word" : "フラストレーション",
+  "reading" : "ふらすとれーしょん",
+  "romaji" : null,
+  "meaning" : [ "不满，懊丧，失意，受挫，挫折，沮丧；（心理学）欲求不满" ],
+  "notes" : [ "来源于英语单词\"frustration\"的日语外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2045,
+  "word" : "フランス",
+  "reading" : "ふらんす",
+  "romaji" : null,
+  "meaning" : [ "法国，欧洲西部的主权国家，对应英文的France" ],
+  "notes" : [ "来源于英语France的日语外来语，是日本对法国的常用称呼。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2046,
+  "word" : "フリー",
+  "reading" : "ふりー",
+  "romaji" : null,
+  "meaning" : [ "1. 自由的；空闲的 2. 免费的；无偿的 3. （体育）自由式的 4. 无所属的，未签约的" ],
+  "notes" : [ "来源于英语单词\"free\"的外来语，作形容词修饰名词时需后接「な」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2047,
+  "word" : "フリーズ",
+  "reading" : "ふりーず",
+  "romaji" : null,
+  "meaning" : [ "冷冻，冻结；（机器、电子设备等）死机，冻结" ],
+  "notes" : [ "源自英语单词\"freeze\"，是日语中的外来语，可作为サ変活用动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2048,
+  "word" : "フリーター",
+  "reading" : "ふりーたー",
+  "romaji" : null,
+  "meaning" : [ "指不从事正式全职雇佣工作，以打零工、兼职为生的人群，区别于一般意义上主动选择的自由职业者" ],
+  "notes" : [ "该词来自英文\"freeter\"，是freeとarbeiter（德语，劳动者）的合成词，和中文语境的「自由职业者」有区别，多数指非自愿脱离正式全职雇佣的灵活就业群体" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2049,
+  "word" : "フリーター",
+  "reading" : "ふりーたー",
+  "romaji" : null,
+  "meaning" : [ "指不从事正式正式社员工作，以打零工、兼职为生的人群，和广义的「自由职业者」含义有区别，国内也常译为飞特族" ],
+  "notes" : [ "该词源自英文\"free arder\"的缩写，和中文广义的「自由职业者」（包含独立设计师、自由撰稿人等专业性自雇职业）含义不同，特指不进入企业正式编制，依靠零散兼职工作维持生计的群体" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2050,
+  "word" : "フリーマーケット",
+  "reading" : "ふりーまーけっと",
+  "romaji" : null,
+  "meaning" : [ "跳蚤市场，自由市场，露天集市；指参与者自由出售闲置物品、商品的开放集市" ],
+  "notes" : [ "源自英语外来词「free market」，在日语中多指闲置物品交易的跳蚤市场，区别于经济学概念中的自由市场" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2051,
+  "word" : "フル",
+  "reading" : "ふる",
+  "romaji" : null,
+  "meaning" : [ "满；装满；充分；全部；（服饰）全长的，长款" ],
+  "notes" : [ "源自英语单词\"full\"，多作为外来语使用，可构成复合词如「フルマラソン（全程马拉松）」「フルタイム（全职）」「フルーツ（水果）」为不同词汇，请注意区分" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2052,
+  "word" : "フルーツ",
+  "reading" : "ふるーつ",
+  "romaji" : null,
+  "meaning" : [ "水果，是英语「fruit」的外来语" ],
+  "notes" : [ "来自英语的外来语，日语中也可使用「果物（くだもの）」表示水果，フルーツ更常用于指生鲜水果、加工水果制品或西式语境中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2053,
+  "word" : "フレックスタイム制度",
+  "reading" : "ふれっくすたいむせいど",
+  "romaji" : null,
+  "meaning" : [ "弹性工作时间制度，是一种不强制统一上下班时间，允许劳动者在一定范围内自由选择工作时间的劳动用工制度" ],
+  "notes" : [ "也可略称「フレックス制度」，英文为flexible working time system，源自英语借词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2054,
+  "word" : "ブティック",
+  "reading" : "ぶてぃっく",
+  "romaji" : null,
+  "meaning" : [ "指主营时装、饰品等特色商品的小型精品店，尤其指高级时装小店" ],
+  "notes" : [ "该词源自英语单词\"boutique\"，属于外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2055,
+  "word" : "ブドウ",
+  "reading" : "ぶどう①",
+  "romaji" : null,
+  "meaning" : [ "葡萄" ],
+  "notes" : [ "也写作「葡萄」，是从葡萄牙语传入的外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2056,
+  "word" : "ブラウス",
+  "reading" : "ブラウス",
+  "romaji" : null,
+  "meaning" : [ "女式衬衫，罩衫" ],
+  "notes" : [ "来源于英语单词\"blouse\"，是日语外来语，特指女士日常穿的轻薄短款上衣" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2057,
+  "word" : "ブラシ",
+  "reading" : "ぶらし",
+  "romaji" : null,
+  "meaning" : [ "刷子，毛刷；画笔" ],
+  "notes" : [ "外来语，源自英语\"brush\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2058,
+  "word" : "ブラジル",
+  "reading" : "ぶらじる",
+  "romaji" : null,
+  "meaning" : [ "南美洲国家巴西（Brazil），对应葡萄牙语Brasil" ],
+  "notes" : [ "外来语，是巴西联邦共和国的日语称呼" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2059,
+  "word" : "ブラック",
+  "reading" : "ブラック",
+  "romaji" : null,
+  "meaning" : [ "1. 黑色，黑；2. 黑暗的，黑心的，非法违规的，<引申义>（劳动条件恶劣的）黑心企业/黑心职场" ],
+  "notes" : [ "来自英语词汇\"black\"的外来语，除表示颜色黑色外，在现代日语中常用来形容劳动环境恶劣、违法压榨劳动者的企业或职场。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2060,
+  "word" : "ブランド",
+  "reading" : "ブランド",
+  "romaji" : null,
+  "meaning" : [ "1. （来自英语brand）名牌，品牌，牌子；2. 烙印，火印" ],
+  "notes" : [ "源自英语单词\"brand\"，日常使用中多表示商品品牌、名牌的含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2061,
+  "word" : "ブルー",
+  "reading" : "ぶるー",
+  "romaji" : null,
+  "meaning" : [ "1. 蓝色，青色；2.（英国的）牛津大学蓝色运动队队员，牛津大学蓝色运动衣；3. 忧郁，烦闷；4. 〈物〉蓝色光，蓝色颜料" ],
+  "notes" : [ "来源于英语“blue”的外来语，日语中也常用该词表达蓝色，是常用外来语词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2062,
+  "word" : "ブレーキ",
+  "reading" : "ぶれーき",
+  "romaji" : null,
+  "meaning" : [ "1. 刹车，制动器（交通工具等的制动装置）；2. 阻碍，阻挠，抑制" ],
+  "notes" : [ "该词是英语brake的外来语，词性为日语的名词，原分类标注的\"other\"不准确" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2063,
+  "word" : "ブレーク",
+  "reading" : "ブレーク",
+  "romaji" : null,
+  "meaning" : [ "1.（競技・仕事などの）休憩、休息；2.テニスにおけるブレーク（相手のサービスゲームを奪うこと）；3.「人気が出る」「ブレイクする」の略で、注目されて人気が出ること" ],
+  "notes" : [ "元々は英語の「break」に由来する外来語で、「休憩」「ブレイク」とほぼ同義で使われる。動詞として使う場合は「ブレークする」の形で用いられる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2064,
+  "word" : "ブローチ",
+  "reading" : "ぶろーち",
+  "romaji" : null,
+  "meaning" : [ "胸针，源自英语brooch，是装饰衣物的饰品" ],
+  "notes" : [ "外来语，对应英语单词brooch，不要和表示别针的「ピン」混淆，ブローチ以装饰性为主" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2065,
+  "word" : "ブーツ",
+  "reading" : "ぶーつ",
+  "romaji" : null,
+  "meaning" : [ "靴子（源自英语boot，通常指长筒或短筒的靴类鞋履）" ],
+  "notes" : [ "外来语，源自英语\"boot\"，可泛指各类靴型鞋履，日常使用中也不限于长筒靴" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2066,
+  "word" : "ブーム",
+  "reading" : "ブーム",
+  "romaji" : null,
+  "meaning" : [ "1.（经济、文化等领域的）热潮，风潮，高潮；2.（帆船上的） boom，帆桁；3.（起重机等的）悬臂，吊杆" ],
+  "notes" : [ "该词是来自英语「boom」的外来语，作为名词在日语中使用，描述某段时间内广泛流行的趋势或活动" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2067,
+  "word" : "プライド",
+  "reading" : "プライド",
+  "romaji" : null,
+  "meaning" : [ "自尊心，自豪感；（源自英语pride，也可表示骄傲、自负）" ],
+  "notes" : [ "来源于英语单词\"pride\"，是日语外来语名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2068,
+  "word" : "プライバシー",
+  "reading" : "puraibashī",
+  "romaji" : null,
+  "meaning" : [ "隐私，私生活，个人私密信息" ],
+  "notes" : [ "源自英语单词“privacy”，是日语外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2069,
+  "word" : "プラス",
+  "reading" : "ぷらす",
+  "romaji" : null,
+  "meaning" : [ "1. 加号，正号；正数 2. 正面，有利，好处 3. 加上，外加；添加 4.（電気の）プラス極，阳极" ],
+  "notes" : [ "外来語，源自英语\"plus\"，可作为名词使用，也可作サ変活用动词使用，是日语能力考N3级别要求掌握的词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2070,
+  "word" : "プラスチック",
+  "reading" : "ぷらすちっく",
+  "romaji" : null,
+  "meaning" : [ "塑料，塑胶" ],
+  "notes" : [ "源自英语\"plastic\"的外来语，是日常生活中常用的日语外来语词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2071,
+  "word" : "プラットホーム",
+  "reading" : "ぷらっとほーむ",
+  "romaji" : null,
+  "meaning" : [ "火车站站台，月台；（计算机领域）平台" ],
+  "notes" : [ "也可略写为「ホーム」，是来源于英语「platform」的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2072,
+  "word" : "プラン",
+  "reading" : "ぷらん",
+  "romaji" : null,
+  "meaning" : [ "1. 计划，方案；2.（英语plan衍生，也可指）设计图，平面图；3.（旅行、住宿等的）套餐，规划方案" ],
+  "notes" : [ "源自英语单词\"plan\"，是日语中常用的外来语词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2073,
+  "word" : "プレイガイド",
+  "reading" : "ぷれいがいど",
+  "romaji" : null,
+  "meaning" : [ "（剧场、音乐会、体育赛事等文娱活动的）售票代办处，票务代理；也可指代代理预售的门票业务" ],
+  "notes" : [ "该词是和制英语，源自play+guide；原指演出信息导引服务，后演变为指代票务代理机构及票务预售业务。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2074,
+  "word" : "プレゼン",
+  "reading" : "ぷれぜん",
+  "romaji" : null,
+  "meaning" : [ "是日语「プレゼンテーション（presentation）」的缩略语，含义为：公开演示、展示、发表、陈述，也可指赠送的礼物" ],
+  "notes" : [ "该词为外来语缩略形式，两种常见含义分别为商务场合的演示发表和礼物，「プレゼント」是更常用的表示礼物的正式说法" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2075,
+  "word" : "プレゼント",
+  "reading" : "ぷれぜんと",
+  "romaji" : null,
+  "meaning" : [ "1. 礼物，赠品；2.（演讲、展示等场合的）呈现，提交，赠送" ],
+  "notes" : [ "来源于英语单词\"present\"，是日语常用外来词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2076,
+  "word" : "プログラム",
+  "reading" : "ぷろぐらむ",
+  "romaji" : null,
+  "meaning" : [ "1. （计算机）程序；2. （活动、演出的）节目，节目单；3. 计划，规划，方案" ],
+  "notes" : [ "源自英语\"program\"，是日语中的外来语名词，也可作为サ変動詞使用，如「プログラムする」，表示「编排节目；编写程序」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2077,
+  "word" : "プロジェクト",
+  "reading" : "ぷろじぇくと",
+  "romaji" : null,
+  "meaning" : [ "源自英语project，含义为项目、计划、企划，指为达成特定目标开展的系统性业务或工作" ],
+  "notes" : [ "外来语，是日语中常用的商务及日常词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2078,
+  "word" : "プロセス",
+  "reading" : "ぷろせす",
+  "romaji" : null,
+  "meaning" : [ "过程；进程；程序，流程；（生物）突起" ],
+  "notes" : [ "来自英语单词\"process\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2079,
+  "word" : "プロフィール",
+  "reading" : "ぷろふぃーる",
+  "romaji" : null,
+  "meaning" : [ "侧面，侧面像；人物简介，个人资料" ],
+  "notes" : [ "来源于英语单词\"profile\"，也可表轮廓、简介，日常多用来指代个人简介、个人资料" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2080,
+  "word" : "プロポーズする",
+  "reading" : "ぷろぽーずする",
+  "romaji" : null,
+  "meaning" : [ "1. （结婚）求婚；2. 提议，提案，提出（计划、方案等）" ],
+  "notes" : [ "来源于英语单词\"propose\"，是日语的外来语サ变动词。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2081,
+  "word" : "プロローグ",
+  "reading" : "ぷろろーぐ",
+  "romaji" : null,
+  "meaning" : [ "（戏剧、小说等文学作品的）序言，序章，开场白；（事件的）开端，序幕" ],
+  "notes" : [ "源自英语单词“prologue”，对应反义词是エピローグ（epilogue，尾声，后记）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2082,
+  "word" : "プール",
+  "reading" : "ぷーる",
+  "romaji" : null,
+  "meaning" : [ "1. 游泳池；2. （资源等的）共用，共享，集合；3. 普尔（股票交易中的联营，联合经营者）" ],
+  "notes" : [ "该词是英语\"pool\"的外来语，最常用义为游泳池。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2083,
+  "word" : "ヘリコプター",
+  "reading" : "へりこぷたー",
+  "romaji" : null,
+  "meaning" : [ "直升机，直升飞机，是英语\"helicopter\"的日语音译外来词" ],
+  "notes" : [ "来源于英语外来语，口语中常缩略为「ヘリ」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2084,
+  "word" : "ヘルシー",
+  "reading" : "ヘルシー",
+  "romaji" : null,
+  "meaning" : [ "健康的；有益健康的" ],
+  "notes" : [ "来自英语单词\"healthy\"的外来语，作ナ形容词使用，多用于描述饮食、生活方式等对健康有益。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2085,
+  "word" : "ベスト",
+  "reading" : "べすと",
+  "romaji" : null,
+  "meaning" : [ "1. 最好，最上等，最优秀；2. 全力，最大限度；3. 背心，马甲；4. （比赛等的）最佳成绩，最好记录" ],
+  "notes" : [ "源自英语单词\"best\"，除了表「最好、全力」的语义外，还可指代服饰类的背心、马甲，也可表示体育领域的个人最佳成绩" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2086,
+  "word" : "ベストセラー",
+  "reading" : "ベストセラー",
+  "romaji" : null,
+  "meaning" : [ "畅销书，指销量极高的出版物，也可引申指畅销的商品" ],
+  "notes" : [ "源自英语\"bestseller\"，是外来语名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2087,
+  "word" : "ベッド",
+  "reading" : "ベッド",
+  "romaji" : null,
+  "meaning" : [ "床，床铺（源自英文bed，指西式床具）" ],
+  "notes" : [ "外来语，来自英语“bed”，通常指西式床铺，和日式传统的「畳（たたみ）」「布団（ふとん）」对应区分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2088,
+  "word" : "ベテラン",
+  "reading" : "べてらん",
+  "romaji" : null,
+  "meaning" : [ "老手，经验丰富的人，资深人士" ],
+  "notes" : [ "该词来源于英语单词\"veteran\"，是日语外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2089,
+  "word" : "ベビー",
+  "reading" : "べびー",
+  "romaji" : null,
+  "meaning" : [ "婴儿；宝贝，宝宝（对爱人、幼儿的爱称）；幼兽" ],
+  "notes" : [ "源自英语\"baby\"的外来语，日常使用频率较高。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2090,
+  "word" : "ベビーカー",
+  "reading" : "べびーかー",
+  "romaji" : null,
+  "meaning" : [ "婴儿车，轻便婴儿推车" ],
+  "notes" : [ "来源于英语\"baby car\"，是日语外来词，日本对婴儿手推车的常用称呼，区别于对欧美大型婴儿车的称呼ベビーカーとベビーバギーの使い分けがある場合もある。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2091,
+  "word" : "ベランダ",
+  "reading" : "べらんだ",
+  "romaji" : null,
+  "meaning" : [ "（房屋外延伸出的带顶）阳台，露台" ],
+  "notes" : [ "源自葡萄牙语「varanda」，常指建筑外带有顶的开放式阳台，区别于室内延伸出的无顶露天的「バルコニー」，实际使用中两者也常有混用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2092,
+  "word" : "ベル",
+  "reading" : "ベル",
+  "romaji" : null,
+  "meaning" : [ "铃，电铃；门铃；（篮球等运动的）计时钟；贝尔（音量单位）" ],
+  "notes" : [ "源自英语单词\"bell\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2093,
+  "word" : "ベルト",
+  "reading" : "べると",
+  "romaji" : null,
+  "meaning" : [ "皮带，腰带；（机械）传送带，传动带" ],
+  "notes" : [ "源于英语单词\"belt\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2094,
+  "word" : "ベーカリー",
+  "reading" : "べーかりー",
+  "romaji" : null,
+  "meaning" : [ "面包店，面包烘焙坊，面包烘焙业" ],
+  "notes" : [ "该词是源自英语\"bakery\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2095,
+  "word" : "ベース",
+  "reading" : "ベース",
+  "romaji" : null,
+  "meaning" : [ "1.基础，基底，基准；2.基地，根据地；3.（低音）贝斯，低音部；4.（棒球）垒；5.（化妆）底妆" ],
+  "notes" : [ "该词是源自英语\"base\"和\"bass\"的外来语，不同来源对应不同含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2096,
+  "word" : "ペアルック",
+  "reading" : "ぺあるっく",
+  "romaji" : null,
+  "meaning" : [ "指两个人搭配穿着的同款或同风格服装，最常指情侣款配对服装，也可用于亲友、同性同伴间的配对着装" ],
+  "notes" : [ "由日语外来语「ペア（pair）」和「ルック（look）」组合而成的和制外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2097,
+  "word" : "ペット",
+  "reading" : "ペット",
+  "romaji" : null,
+  "meaning" : [ "宠物，尤指受饲养陪伴人类的伴侣动物" ],
+  "notes" : [ "来自英语\"pet\"的外来语，是日语中对宠物的通用说法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2098,
+  "word" : "ペットフード",
+  "reading" : "ぺっとふーど",
+  "romaji" : null,
+  "meaning" : [ "宠物食品，宠物粮食" ],
+  "notes" : [ "源自英语「pet food」的外来语，指专门为宠物制作的食品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2099,
+  "word" : "ペン",
+  "reading" : "ペン",
+  "romaji" : null,
+  "meaning" : [ "笔，钢笔，自来水笔；（源自英语pen）泛指书写工具" ],
+  "notes" : [ "外来语，源自英语单词\"pen\"，是日语中对笔类书写工具的常用统称。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2100,
+  "word" : "ページ",
+  "reading" : "ページ",
+  "romaji" : null,
+  "meaning" : [ "1. （书籍、报纸等印刷品的）页，页码；2. （网页等电子文档的）页面" ],
+  "notes" : [ "来源于英语单词\"page\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

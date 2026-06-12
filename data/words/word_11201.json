@@ -1,0 +1,901 @@
+[ {
+  "id" : 11201,
+  "word" : "雛祭り",
+  "reading" : "ひなまつり",
+  "romaji" : null,
+  "meaning" : [ "日本的传统节日，在每年的3月3日举行，也叫女儿节，人们会摆放人偶、吃菱饼、喝桃花酒等来庆祝，祈求女孩健康成长、幸福平安。" ],
+  "notes" : [ "“雛祭り”也写作“ひな祭り”，人偶一般会摆放一周左右，然后收起来，有“过了节，人偶就会带走孩子的福气”的说法，所以不能摆放太久。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11202,
+  "word" : "離す",
+  "reading" : "はなす",
+  "romaji" : null,
+  "meaning" : [ "1. 松开，放开（手、脚等）；2. 使……离开，使……分离；3. 放下，撂下（工作等）；4. 隔开，间隔（时间、距离等）" ],
+  "notes" : [ "其对应的自动词为「離れる（はなれる）」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11203,
+  "word" : "離れる",
+  "reading" : "はなれる",
+  "romaji" : null,
+  "meaning" : [ "1. 相隔，距离；2. 分离，离开；3. 脱离，偏离（常规、标准等）；4. （建筑物等）独立，分开建造" ],
+  "notes" : [ "「離れる」是自动词，其对应的他动词是「離す」（はなす）" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11204,
+  "word" : "離れ離れ",
+  "reading" : "はなればなれ",
+  "romaji" : null,
+  "meaning" : [ "离散，分散，各奔东西；（关系）疏远，不融洽" ],
+  "notes" : [ "常以「離れ離れに」「離れ離れになる」等形式使用，表示事物或人处于分散、疏远的状态" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11205,
+  "word" : "離婚",
+  "reading" : "りこん",
+  "romaji" : null,
+  "meaning" : [ "离婚（指夫妻双方解除婚姻关系的行为或状态）" ],
+  "notes" : [ "「離婚する」为其动词用法，表示“离婚”的行为动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11206,
+  "word" : "難しい",
+  "reading" : "むずかしい",
+  "romaji" : null,
+  "meaning" : [ "难的，困难的；（程度、性质等）难，不容易；（心情等）难受，痛苦；（关系等）难相处，难对付" ],
+  "notes" : [ "其对应的名词形式为「難しさ（むずかしさ）」，表示“难度”“难处”等含义。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11207,
+  "word" : "難しさ",
+  "reading" : "むずかしさ",
+  "romaji" : null,
+  "meaning" : [ "名词，困难，难度，指事情进行起来不容易的程度，或者做某件事时遇到的阻碍、麻烦的程度" ],
+  "notes" : [ "由形容词「難しい（むずかしい）」的连用形「難しく」加上表示抽象程度的后缀「さ」构成，属于名词化的形式，用于描述事物具有困难、有难度的这种性质或状态的程度" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11208,
+  "word" : "難問",
+  "reading" : "なんもん",
+  "romaji" : null,
+  "meaning" : [ "难题，难以解答的问题（多用于学术、考试、工作等方面需要深入思考、耗费精力才能解决的问题）" ],
+  "notes" : [ "可用于形容各种领域中具有较高难度、不易解决的问题，常与「解く（とく）」「抱える（かかえる）」等动词搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11209,
+  "word" : "難局",
+  "reading" : "なんきょく",
+  "romaji" : null,
+  "meaning" : [ "困难的局面，困境，僵局" ],
+  "notes" : [ "常用来描述在政治、经济、外交、个人生活等方面遇到的难以解决的困难处境" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11210,
+  "word" : "難航",
+  "reading" : "なんこう",
+  "romaji" : null,
+  "meaning" : [ "1. （船只等）难以航行，航行困难；2. （工作、计划等）难以进展，进展不顺利" ],
+  "notes" : [ "作为名词时，可表示航行困难的状态或进展不顺利的情况；作为サ変動詞（する动词）时，可用于描述行为动作，如「難航する」（变得难以航行/进展不顺利）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11211,
+  "word" : "難色",
+  "reading" : "なんしょく",
+  "romaji" : null,
+  "meaning" : [ "为难的神色，面露难色" ],
+  "notes" : [ "通常与「示す」「呈する」「顔に出す」等动词搭配使用，表达呈现出为难的神情这一意思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11212,
+  "word" : "難解",
+  "reading" : "なんかい",
+  "romaji" : null,
+  "meaning" : [ "难解的，晦涩的，费解的（多用于形容文章、话语、理论等内容深奥，难以理解）" ],
+  "notes" : [ "「難解」是形容动词，作谓语时需后续「だ」「です」等，作定语修饰名词时，需用「難解な」的形式，例如「難解な問題」（难解的问题）。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11213,
+  "word" : "難題",
+  "reading" : "なんだい",
+  "romaji" : null,
+  "meaning" : [ "难题，难以解决的问题；难以解答的题目" ],
+  "notes" : [ "常与「解く（とく）」「直面する（ちょくめんする）」等动词搭配使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11214,
+  "word" : "雨",
+  "reading" : "あめ",
+  "romaji" : null,
+  "meaning" : [ "雨；下雨（作为名词时表示“雨”，其对应的动词“下雨”为「降る（ふる）」）" ],
+  "notes" : [ "「雨」作名词，常用搭配如「雨の日（下雨天）」「大雨（おおあめ，大雨）」等；其对应的动词“下雨”是「降る（ふる）」，属于五段动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11215,
+  "word" : "雨具",
+  "reading" : "うぐ",
+  "romaji" : null,
+  "meaning" : [ "雨具（雨伞、雨衣、雨靴等用于防雨的器具和装备）" ],
+  "notes" : [ "常见的雨具包括傘（かさ）、レインコート（雨衣）、雨靴（あまぐつ）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11216,
+  "word" : "雨垂れ",
+  "reading" : "あまだれ",
+  "romaji" : null,
+  "meaning" : [ "（从房檐、树叶等上面滴落下来的）雨滴，雨水；房檐的冰柱" ],
+  "notes" : [ "可用于描述自然中水滴落下的状态，也可指冬季形成的冰柱" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11217,
+  "word" : "雨天",
+  "reading" : "うてん",
+  "romaji" : null,
+  "meaning" : [ "下雨的天气，雨天" ],
+  "notes" : [ "一般用于描述天气状况为下雨的日子，也可用于相关的气象、出行等场景的表达中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11218,
+  "word" : "雨宿りします",
+  "reading" : "あまやどりします",
+  "romaji" : null,
+  "meaning" : [ "（进行）避雨" ],
+  "notes" : [ "「雨宿り」为名词或サ变动词词干，加上「します」构成ます形，用于表示进行避雨这一行为。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11219,
+  "word" : "雨戸",
+  "reading" : "あまど",
+  "romaji" : null,
+  "meaning" : [ "防雨门，护窗板（一般为木质，安装在窗户外侧，下雨或防风、防盗时关闭）" ],
+  "notes" : [ "主要用于传统日式建筑中，现在一些日式风格的房屋或老建筑仍在使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11220,
+  "word" : "雨足",
+  "reading" : "あまあし",
+  "romaji" : null,
+  "meaning" : [ "雨下落的势头、雨势（比如雨足が強い/雨势大；雨足が弱まる/雨势减弱）" ],
+  "notes" : [ "一般用于描述雨下落时的状态、势头，常和表示强弱、变化的动词搭配使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11221,
+  "word" : "雨風",
+  "reading" : "あめかぜ",
+  "romaji" : null,
+  "meaning" : [ "风雨，指风和雨同时出现的天气状况，也可用于比喻艰难困苦的处境等。" ],
+  "notes" : [ "常见的搭配有「雨風にさらされる」「雨風を浴びる」等，表示经受风雨的意思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11222,
+  "word" : "雪",
+  "reading" : "ゆき",
+  "romaji" : null,
+  "meaning" : [ "雪；雪花；积雪" ],
+  "notes" : [ "可作名词使用，也可构成一些复合词，如「雪だるま（雪人）」「雪崩（なだれ）（雪崩）」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11223,
+  "word" : "雪崩",
+  "reading" : "なだれ",
+  "romaji" : null,
+  "meaning" : [ "大量的雪从山上滑落的自然现象，也可比喻事物大量地、突然地出现或消失" ],
+  "notes" : [ "作为自然现象时，常与「起こる」「遭う」等动词搭配；作为比喻义时，常用来形容事物大量出现或消失的状态" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11224,
+  "word" : "雰囲気",
+  "reading" : "ふんいき",
+  "romaji" : null,
+  "meaning" : [ "气氛，氛围；（艺术作品等的）意境，情调" ],
+  "notes" : [ "「雰囲気」为和语词汇，常用来描述场所、环境、艺术作品等所营造出的氛围或情调，在日常交流和文学艺术领域使用广泛。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11225,
+  "word" : "雲",
+  "reading" : "くも",
+  "romaji" : null,
+  "meaning" : [ "云，云彩；（像云一样的）众多事物，大量" ],
+  "notes" : [ "也可写作「雲」，其音读为「うん」，如「雲南（うんなん）」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11226,
+  "word" : "零す",
+  "reading" : "こぼす",
+  "romaji" : null,
+  "meaning" : [ "洒（液体），使（液体、颗粒状物体等）散落、洒出" ],
+  "notes" : [ "也可写作「こぼす」，其对应的汉字「零す」使用频率相对「こぼす」的假名形式稍低" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11227,
+  "word" : "零れる",
+  "reading" : "こぼれる",
+  "romaji" : null,
+  "meaning" : [ "1.（液体、粉末等）洒落，溢出，溅出；2.（笑容、泪水等）露出，流出；3.（果实、花等）掉落，凋谢；4.（钱、时间等）花费，耗费" ],
+  "notes" : [ "「零れる」是自动词，其对应的他动词为「零す（こぼす）」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11228,
+  "word" : "零下",
+  "reading" : "れいか",
+  "romaji" : null,
+  "meaning" : [ "名词，指温度在零度以下，例如“零下十度（れいかじゅうど）”表示温度为零下10摄氏度。" ],
+  "notes" : [ "通常用于描述气温等温度相关的数值在零度以下的情况，常与具体的温度数值搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11229,
+  "word" : "雷",
+  "reading" : "かみなり",
+  "romaji" : null,
+  "meaning" : [ "雷；雷电；霹雳" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11230,
+  "word" : "雷鳥",
+  "reading" : "らいちょう",
+  "romaji" : null,
+  "meaning" : [ "雷鸟（一种生活在寒冷地区、羽毛会随季节变化的鸟类）" ],
+  "notes" : [ "其羽毛颜色会随季节变化，夏季多为褐色等，冬季多为白色，以适应环境躲避天敌。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11231,
+  "word" : "電力",
+  "reading" : "でんりょく",
+  "romaji" : null,
+  "meaning" : [ "电力，电能（用于驱动机器、照明、加热等的电能）" ],
+  "notes" : [ "通常用于描述电能的相关概念，如电力公司（電力会社）、电力系统（電力システム）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11232,
+  "word" : "電圧",
+  "reading" : "でんあつ",
+  "romaji" : null,
+  "meaning" : [ "电压，电位差（指电路中两点之间的电位差，单位通常为伏特（V））" ],
+  "notes" : [ "常见的相关术语有「電圧計（でんあつけい）」（电压表）、「電圧降下（でんあつこうか）」（电压降）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11233,
+  "word" : "電報",
+  "reading" : "でんぽう",
+  "romaji" : null,
+  "meaning" : [ "电报，用电信号传递的文字信息，可用于传递重要消息、祝福等。" ],
+  "notes" : [ "在现代社会，电报的使用频率逐渐降低，但在一些特殊场景（如外交、纪念性通讯等）仍有应用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11234,
+  "word" : "電子",
+  "reading" : "でんし",
+  "romaji" : null,
+  "meaning" : [ "电子，构成原子的基本粒子之一，质量极小，带有负电荷，围绕原子核运动。" ],
+  "notes" : [ "常见的相关词汇有「電子機器（でんしきき）」（电子设备）、「電子メール」（电子邮件）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11235,
+  "word" : "電子レンジ",
+  "reading" : "でんしレンジ",
+  "romaji" : null,
+  "meaning" : [ "微波炉" ],
+  "notes" : [ "由「電子（でんし）」（电子）和「レンジ」（炉灶、烤箱，此处指利用电磁波加热的炉灶）组成，是一种利用微波加热食物的厨房电器。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11236,
+  "word" : "電子辞書",
+  "reading" : "でんしじしょ",
+  "romaji" : null,
+  "meaning" : [ "电子辞典，一种将词典等的内容数字化后，以电子数据形式存储并可进行检索、查询等操作的设备，通常还具备发音、翻译、学习辅助等多种功能。" ],
+  "notes" : [ "在日语中，“電子辞書”也常被简称为“辞書”（じしょ），但为了明确与传统纸质词典区分，一般会使用“電子辞書”的说法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11237,
+  "word" : "電柱",
+  "reading" : "でんちゅう",
+  "romaji" : null,
+  "meaning" : [ "电线杆，指用于架设电线等的柱子，通常由木材、金属或混凝土等材料制成，在城市、乡村的街道、田野等地都较为常见，主要起到支撑电线、电缆等，保障电力、通信等线路传输的作用。" ],
+  "notes" : [ "“電柱”是一个日常生活和工程领域中都经常会用到的词汇，其对应的英文可以翻译为“telephone pole”“electric pole”等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11238,
+  "word" : "電気",
+  "reading" : "でんき",
+  "romaji" : null,
+  "meaning" : [ "1. 电流，电，电力，电气；2. 电灯；3. （俗）电视" ],
+  "notes" : [ "常见的复合词有「電気代（でんきだい）」（电费）、「電気車（でんきしゃ）」（电车）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11239,
+  "word" : "電気屋",
+  "reading" : "でんきや",
+  "romaji" : null,
+  "meaning" : [ "电器店，销售和维修电器的店铺" ],
+  "notes" : [ "「屋（や）」作为接尾词，常用来表示从事某种行业或经营某种店铺的人或场所，如「本屋（ほんや）」（书店）、「八百屋（やおや）」（蔬菜店、杂货店）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11240,
+  "word" : "電気製品",
+  "reading" : "でんきせいひん",
+  "romaji" : null,
+  "meaning" : [ "电器（指利用电能工作的产品，如电视、冰箱、洗衣机等）" ],
+  "notes" : [ "由「電気（でんき）」（电）和「製品（せいひん）」（产品）组成，属于复合名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11241,
+  "word" : "電気釜",
+  "reading" : "でんきがま",
+  "romaji" : null,
+  "meaning" : [ "电饭锅，电锅（利用电能来煮饭、煮粥等的厨房电器）" ],
+  "notes" : [ "通常主要用于煮饭，也可用于煮粥、煮汤等，和电饭煲（炊飯器）功能类似但在外形、结构等方面可能存在一定差异，不同地区的称呼使用习惯也可能略有不同" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11242,
+  "word" : "電池",
+  "reading" : "でんち",
+  "romaji" : null,
+  "meaning" : [ "电池，将化学能、光能、热能、核能等转换为电能的装置，如干电池、蓄电池、太阳能电池等。" ],
+  "notes" : [ "常见的复合词有「充電池（ちゅうでんち）」（充电电池）、「蓄電池（ちくでんち）」（蓄电池）、「太陽電池（たいようでんち）」（太阳能电池）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11243,
+  "word" : "電波",
+  "reading" : "でんぱ",
+  "romaji" : null,
+  "meaning" : [ "电波，电磁波（电子学中，指在空间传播的交变电磁场，可传递声音、图像、数据等信息，如无线电波、电视电波等）" ],
+  "notes" : [ "在日语中，“電波”除了表示物理上的电波外，在网络用语或特定语境中，有时也会用来形容人的思维、言行比较奇特、脱离常规（类似“脑子有点奇怪”的委婉说法，属于引申用法）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11244,
+  "word" : "電流",
+  "reading" : "でんりゅう",
+  "romaji" : null,
+  "meaning" : [ "电流，指电荷的定向移动形成的物理现象，单位通常为安培（A）等" ],
+  "notes" : [ "在物理学领域以及电气相关的技术、日常应用（如电路、电器设备等）中广泛使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11245,
+  "word" : "電源",
+  "reading" : "でんげん",
+  "romaji" : null,
+  "meaning" : [ "电源，指供电的来源，如电池、发电机、电网等提供电能的装置或系统。" ],
+  "notes" : [ "常见的相关搭配有「電源を入れる（打开电源）」「電源を切る（关闭电源）」「予備電源（备用电源）」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11246,
+  "word" : "電灯",
+  "reading" : "でんとう",
+  "romaji" : null,
+  "meaning" : [ "电灯，用电能发光的照明器具" ],
+  "notes" : [ "常见的电灯类型有白炽电灯、荧光电灯、LED电灯等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11247,
+  "word" : "電燈",
+  "reading" : "でんとう",
+  "romaji" : null,
+  "meaning" : [ "电灯，用电能发光的照明器具。" ],
+  "notes" : [ "也可写作「電灯」，读音相同。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11248,
+  "word" : "電球",
+  "reading" : "でんきゅう",
+  "romaji" : null,
+  "meaning" : [ "电灯泡，灯泡（将电能转化为光能，用于照明的器具，通常安装在灯具等装置中使用）" ],
+  "notes" : [ "一般指白炽灯泡，不过现在也常用来泛指各类照明用的灯泡，如LED灯泡等在日常表达中有时也会用这个词来称呼（根据语境有所不同）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11249,
+  "word" : "電線",
+  "reading" : "でんせん",
+  "romaji" : null,
+  "meaning" : [ "电线，电缆，用于传输电能、电信号等的导线，通常由导体（如铜、铝等）和绝缘层等组成，广泛应用于电力系统、通信系统等领域。" ],
+  "notes" : [ "“電線”一般指比较粗的、用于传输电力或较大功率电信号的导线，相对细的、用于电子设备内部或小型电器连接的导线有时也会用“配線（はいせん）”来称呼，但“電線”的使用范围更偏向于户外、电力传输等场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11250,
+  "word" : "電話",
+  "reading" : "でんわ",
+  "romaji" : null,
+  "meaning" : [ "电话；电话机；打电话，通话" ],
+  "notes" : [ "作名词时表示电话、电话机；作サ変动词时表示打电话、通话。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11251,
+  "word" : "電話が遠い",
+  "reading" : "でんわがとおい",
+  "romaji" : null,
+  "meaning" : [ "电话信号不好，听不清楚（对方的声音）" ],
+  "notes" : [ "「遠い」在这里不是表示距离远，而是形容电话通信质量差，声音模糊不清，属于惯用语的特殊用法。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11252,
+  "word" : "電話します",
+  "reading" : "でんわします",
+  "romaji" : null,
+  "meaning" : [ "打电话；通话" ],
+  "notes" : [ "「電話」是名词，加上「します」构成动词的ます形，其基本形为「電話する」，属于サ変動詞（サ变动词）" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11253,
+  "word" : "電話代",
+  "reading" : "でんわだい",
+  "romaji" : null,
+  "meaning" : [ "电话费，打电话的费用" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11254,
+  "word" : "電話番号",
+  "reading" : "でんわばんごう",
+  "romaji" : null,
+  "meaning" : [ "电话号码，指用于拨打或接听电话时识别特定电话线路或用户的数字组合" ],
+  "notes" : [ "由「電話（でんわ）」（电话）和「番号（ばんごう）」（号码）复合而成的名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11255,
+  "word" : "電車",
+  "reading" : "でんしゃ",
+  "romaji" : null,
+  "meaning" : [ "电车，电气列车" ],
+  "notes" : [ "常见的交通工具类词汇，可用于日常出行场景的表达" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11256,
+  "word" : "電車代",
+  "reading" : "でんしゃだい",
+  "romaji" : null,
+  "meaning" : [ "电车的车费，乘坐电车所需支付的费用" ],
+  "notes" : [ "「代（だい）」在这里表示费用、代价，类似的用法还有「食事代（しょくじだい）」（餐费）、「部屋代（へやだい）」（房租）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11257,
+  "word" : "需要",
+  "reading" : "じゅよう",
+  "romaji" : null,
+  "meaning" : [ "需要，需求；要求，必要" ],
+  "notes" : [ "作为名词时，表示对事物的需求、必要；作为サ変动词时，意为“需要，要求”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11258,
+  "word" : "震える",
+  "reading" : "ふるえる",
+  "romaji" : null,
+  "meaning" : [ "1. 震动，颤动，摇晃（物体因外力或自身原因产生的振动、晃动）；2. 发抖，哆嗦，打颤（因寒冷、恐惧、激动等身体不由自主地颤抖）" ],
+  "notes" : [ "其过去式为「震えた」，过去否定式为「震えなかった」，可能形为「震えられる」，命令形为「震えろ」，意志形为「震えよう」等。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11259,
+  "word" : "震わせる",
+  "reading" : "ふるわせる",
+  "romaji" : null,
+  "meaning" : [ "使……发抖；使……震动；使……颤动" ],
+  "notes" : [ "他动词，由自动词「震う（ふるう）」加使役助动词「せる」构成，用于表示使某物产生震动、发抖等动作的意思。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11260,
+  "word" : "震度",
+  "reading" : "しんど",
+  "romaji" : null,
+  "meaning" : [ "地震烈度，指地震发生时，地面及建筑物等受到地震影响和破坏的程度。" ],
+  "notes" : [ "通常用数字和‘弱’‘強’等组合来表示具体的地震烈度等级，例如震度3、震度4強等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11261,
+  "word" : "震源",
+  "reading" : "しんげん",
+  "romaji" : null,
+  "meaning" : [ "地震的发源地，也可用于比喻事物的根源、起因（如社会问题的震源）" ],
+  "notes" : [ "外来语相关：无；特殊用法：除地震学专业术语外，可用于抽象事物根源的比喻" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11262,
+  "word" : "震災",
+  "reading" : "しんさい",
+  "romaji" : null,
+  "meaning" : [ "地震灾害，因地震引发的灾害（如房屋倒塌、火灾、海啸等次生灾害）" ],
+  "notes" : [ "由「地震（じしん）」和「災害（さいがい）」缩略组合而成，常用来指代地震相关的灾害事件，在新闻报道等场景中高频使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11263,
+  "word" : "霜",
+  "reading" : "しも",
+  "romaji" : null,
+  "meaning" : [ "霜，白霜" ],
+  "notes" : [ "无" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11264,
+  "word" : "霞む",
+  "reading" : "かすむ",
+  "romaji" : null,
+  "meaning" : [ "1. （景物）被云雾等笼罩而朦胧，模糊不清；2. （眼睛）模糊，看东西不清楚；3. （色彩、光线等）变得暗淡，不醒目，不鲜明" ],
+  "notes" : [ "其否定形、过去形等活用遵循五段动词的变化规则，如否定形为「霞まない（かすまない）」，过去形为「霞んだ（かすんだ）」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11265,
+  "word" : "霧",
+  "reading" : "きり",
+  "romaji" : null,
+  "meaning" : [ "雾；迷茫，困惑" ],
+  "notes" : [ "作“迷茫、困惑”讲时，常用于抽象的心理状态描述" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11266,
+  "word" : "露",
+  "reading" : "つゆ、ろ",
+  "romaji" : null,
+  "meaning" : [ "1. 露水（つゆ）；2. 短暂，微小（ろ）；3. 一点也（ろ，常用于否定表达，如「露とも」表示「一点也（不）」）" ],
+  "notes" : [ "「露」有多个读音和含义，读「つゆ」时主要表示露水；读「ろ」时多表示短暂、微小或用于否定表达中表示程度" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11267,
+  "word" : "露天風呂",
+  "reading" : "ろてんふろ",
+  "romaji" : null,
+  "meaning" : [ "露天温泉，露天浴池" ],
+  "notes" : [ "通常在日式旅馆（旅館）、温泉设施等场所设置，能让人在享受温泉的同时欣赏自然景色。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11268,
+  "word" : "露骨",
+  "reading" : "ろこつ",
+  "romaji" : null,
+  "meaning" : [ "（言行、态度等）露骨，毫不掩饰，毫不顾忌，坦率直爽" ],
+  "notes" : [ "常用来形容人的言行、态度、表达方式等过于直接、坦率，有时带有负面色彩，指过于直白而缺乏委婉。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11269,
+  "word" : "靄",
+  "reading" : "あい",
+  "romaji" : null,
+  "meaning" : [ "云气，轻雾，薄雾；（精神、氛围等的）朦胧感，神秘感" ],
+  "notes" : [ "「靄」较为书面化，日常口语中使用相对较少，多在文学作品、诗歌、描写自然景色等的语境中出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11270,
+  "word" : "青",
+  "reading" : "あお",
+  "romaji" : null,
+  "meaning" : [ "【名】蓝色；【形】蓝色的；青涩的（果实等未成熟的状态）；年轻的，不成熟的" ],
+  "notes" : [ "作为名词时，指颜色蓝色；作为形容词时，除了表示颜色，还可形容事物未成熟或人年轻、缺乏经验。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11271,
+  "word" : "青い",
+  "reading" : "あおい",
+  "romaji" : null,
+  "meaning" : [ "1. 蓝色的；2. 绿色的（如形容未成熟的果实等）；3. 青涩的，稚嫩的（形容人或事物的状态）" ],
+  "notes" : [ "在日语中，“青い”除了表示常见的蓝色、绿色外，还可用于形容人或事物的不成熟、稚嫩的状态，使用场景较为丰富。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11272,
+  "word" : "青二才",
+  "reading" : "あおにさい",
+  "romaji" : null,
+  "meaning" : [ "小毛孩，毛头小子（常用来比喻经验不足、举止幼稚、还不成熟的年轻人）" ],
+  "notes" : [ "「青二才」是一个比较口语化且略带贬义的词汇，使用时要注意场合和对象。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11273,
+  "word" : "青写真",
+  "reading" : "あおしゃしん",
+  "romaji" : null,
+  "meaning" : [ "1. 蓝图（工程、建筑等领域中用于展示设计方案的图纸，通常为蓝色线条绘制在白色底图上）；2. 初步计划、草案（比喻性用法，指某个项目、活动等还处于规划阶段的方案）" ],
+  "notes" : [ "该词既可以用于实际的图纸类语境，也常用于比喻性地表示计划、方案等处于拟定、规划的阶段。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11274,
+  "word" : "青天",
+  "reading" : "せいてん",
+  "romaji" : null,
+  "meaning" : [ "青天，晴空；也可比喻为政治清明的时代或环境" ],
+  "notes" : [ "“青天”在日语中除了表示自然现象的晴空外，还有用于比喻政治清明的用法，如“青天の代（せいてんのしろ）”表示太平盛世" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11275,
+  "word" : "青年",
+  "reading" : "せいねん",
+  "romaji" : null,
+  "meaning" : [ "青年，年轻人（通常指十几岁到二十几岁、三十岁左右的人）" ],
+  "notes" : [ "「青年」在日语中常用来指代处于人生青年阶段的人群，和汉语中的“青年”含义相近，但在使用场景和搭配上会有一些日语特有的习惯，比如常和「対象」「層」等词搭配使用来表示相关群体。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11276,
+  "word" : "青春",
+  "reading" : "せいしゅん",
+  "romaji" : null,
+  "meaning" : [ "青春；青春期；青春时代" ],
+  "notes" : [ "常用于形容人生中充满活力、朝气蓬勃的时期，也可用于描述与青春相关的事物或情感。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11277,
+  "word" : "青白い",
+  "reading" : "あおじろい",
+  "romaji" : null,
+  "meaning" : [ "青白色的；（脸色等）苍白的" ],
+  "notes" : [ "通常用于形容颜色或人的脸色状态，其反义词可以是「赤面する（あかつらする）」（脸红）对应的形容脸色红润的情况，或者「濃い（こい）」等形容颜色浓郁的情况（针对颜色描述时）。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11278,
+  "word" : "青空",
+  "reading" : "あおぞら",
+  "romaji" : null,
+  "meaning" : [ "蓝天，晴空，晴朗的天空" ],
+  "notes" : [ "可用于描述天气晴朗时的天空景象，也常出现在文学作品、诗歌等中营造美好氛围" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11279,
+  "word" : "青葉",
+  "reading" : "あおば",
+  "romaji" : null,
+  "meaning" : [ "绿叶；（也可作为人名、地名等使用，例如“青葉台”“青葉真央”等）" ],
+  "notes" : [ "除了表示绿叶的意思外，在日本常被用作人名、地名等，具有一定的文化使用场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11280,
+  "word" : "静か",
+  "reading" : "しずか",
+  "romaji" : null,
+  "meaning" : [ "1. 安静的，寂静的；2. 文静的，沉稳的；3. （性格、举止等）沉静的，稳重的" ],
+  "notes" : [ "形容动词，词尾变化为「静かだ」「静かで」「静かに」「静かな」等，用于修饰名词时需加「な」，修饰动词或形容词时需加「に」" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11281,
+  "word" : "静か［な］",
+  "reading" : "しずか［な］",
+  "romaji" : null,
+  "meaning" : [ "安静的；寂静的；平静的；沉稳的；（性格、举止等）文静的，温顺的；（心情）平静的，沉静的" ],
+  "notes" : [ "「静か」作为な形容词，其连用形有「静かに」（安静地）、「静かで」（用于中顿、并列等）等形式，连体形为「静かな」（修饰名词）。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11282,
+  "word" : "静まり返る",
+  "reading" : "しずまりかえる",
+  "romaji" : null,
+  "meaning" : [ "（声音、动静等完全消失，变得）鸦雀无声，万籁俱寂，一片寂静" ],
+  "notes" : [ "其ます形为「静まり返ります」，过去式为「静まり返った」，否定形为「静まり返らない」等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11283,
+  "word" : "静まる",
+  "reading" : "しずまる",
+  "romaji" : null,
+  "meaning" : [ "1. （声音、动作等）平静下来，平息；2. （心情等）平静，沉静；3. （风、雨等）停止，平息" ],
+  "notes" : [ "自动词，其使役形为「静まらせる」，表示使……平静、使……平息" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11284,
+  "word" : "非力",
+  "reading" : "ひりょく",
+  "romaji" : null,
+  "meaning" : [ "1. （名词）无力，没劲儿，软弱；2. （形容动词）无力的，没劲儿的，软弱的" ],
+  "notes" : [ "作为形容动词使用时，后续需接「だ」「で」「に」等相应形式，如「非力だ」「非力で」「非力に」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11285,
+  "word" : "非婚",
+  "reading" : "ひこん",
+  "romaji" : null,
+  "meaning" : [ "不结婚的状态；非婚姻关系（如非婚生子女中的“非婚”，指不是在婚姻关系存续期间生育的情况；也可用于描述个人选择不结婚的生活方式等）" ],
+  "notes" : [ "常用于社会学、法律等领域，描述与婚姻无关的状态或关系" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11286,
+  "word" : "非常",
+  "reading" : "ひじょう",
+  "romaji" : null,
+  "meaning" : [ "1. （作为名词、副词）非常，特别，极其；2. （作为名词、形容词）紧急，危急" ],
+  "notes" : [ "作为副词时，常用来修饰形容词、动词等，表示程度之深；作为名词、形容词时，多和“時（じ）”“事態（じたい）”等词搭配使用，用于描述紧急的状况、事态等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11287,
+  "word" : "非常に",
+  "reading" : "ひじょうに",
+  "romaji" : null,
+  "meaning" : [ "非常，十分，极其，特别" ],
+  "notes" : [ "「非常に」是副词，通常用来修饰形容词、形容动词或动词，表示程度很高。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11288,
+  "word" : "非常勤",
+  "reading" : "ひじょうきん",
+  "romaji" : null,
+  "meaning" : [ "兼职，兼任（指不是正式员工，按一定时间或任务来工作的形式，常用于教师、职员等职业的兼职情况）" ],
+  "notes" : [ "常与「講師」「教員」「スタッフ」等表示职业或身份的词汇搭配使用，对应的正式职员可称为「常勤（じょうきん）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11289,
+  "word" : "非常識",
+  "reading" : "ひじょうしき",
+  "romaji" : null,
+  "meaning" : [ "名词、形容动词。不合常理，违背常识，缺乏常识" ],
+  "notes" : [ "常以「非常識だ」「非常識な～」的形式使用，用于形容人或行为、想法等不符合一般的认知和常理" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11290,
+  "word" : "非常電話",
+  "reading" : "ひじょうでんわ",
+  "romaji" : null,
+  "meaning" : [ "紧急电话（用于在发生火灾、地震等紧急情况时，向相关部门或人员报告情况、请求救援等的专用电话）" ],
+  "notes" : [ "通常设置在建筑物内的显眼且便于快速使用的位置，如走廊、楼梯间等，部分公共设施外也有设置。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11291,
+  "word" : "非常食",
+  "reading" : "ひじょうしょく",
+  "romaji" : null,
+  "meaning" : [ "防灾等紧急情况发生时食用的储备食品、应急食品" ],
+  "notes" : [ "主要用于地震、火灾等灾害发生时，保障受灾人员的基本饮食需求" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11292,
+  "word" : "非生産的",
+  "reading" : "ひせいさんてき",
+  "romaji" : null,
+  "meaning" : [ "非生产性的，非建设性的（通常用于形容意见、行为、方法等缺乏实际效果或不能带来积极成果）" ],
+  "notes" : [ "在日语中，形容动词的词性特点是词尾可以变化，如「非生産的だ」「非生産的な」等形式，用于修饰名词或作谓语等。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11293,
+  "word" : "非行",
+  "reading" : "ひこう",
+  "romaji" : null,
+  "meaning" : [ "不正当的行为，不良行为（多指违反道德规范、法律规定等的行为，如青少年的不良行为、犯罪行为等）" ],
+  "notes" : [ "常与「繰り返す」「働く」「矯正する」等动词搭配使用，用于描述不符合社会规范和法律规定的行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11294,
+  "word" : "非難",
+  "reading" : "ひなん",
+  "romaji" : null,
+  "meaning" : [ "指责，非难，谴责，批评" ],
+  "notes" : [ "作为名词时，可后续「を受ける」「があがる」等表达；作为动词（サ変动词）时，常见用法如「～する」「～される」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11295,
+  "word" : "面",
+  "reading" : "めん",
+  "romaji" : null,
+  "meaning" : [ "1. 脸，面孔；2. 表面，外面；3. 方面，层面；4. 面条（「麺」的异体字，常用于口语或部分方言中）" ],
+  "notes" : [ "作为「麺」的异体字表示“面条”时，在正式书面语中多使用「麺」，但在口语及部分地区的书写习惯中常用「面」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11296,
+  "word" : "面する",
+  "reading" : "めんする",
+  "romaji" : null,
+  "meaning" : [ "面向，面对；面临，面对（问题、状况等）" ],
+  "notes" : [ "「面する」是サ变动词，其连用形为「面し」，例如「面している」；终止形为「面する」，例如「この川は海に面する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11297,
+  "word" : "面会",
+  "reading" : "めんかい",
+  "romaji" : null,
+  "meaning" : [ "会面，见面，访问，探望" ],
+  "notes" : [ "也可作为サ变动词使用，如「面会する」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11298,
+  "word" : "面倒",
+  "reading" : "めんどう",
+  "romaji" : null,
+  "meaning" : [ "1. 名词：照料，照顾；麻烦，费事 2. 形容动词：麻烦的，费事的；令人心烦的" ],
+  "notes" : [ "「面倒」作形容动词时，活用形式为「面倒だ」「面倒で」「面倒な」等，例如「この問題は面倒で解きにくい（这个问题很麻烦，很难解）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11299,
+  "word" : "面倒くさい",
+  "reading" : "めんどうくさい",
+  "romaji" : null,
+  "meaning" : [ "形容词，形容事物或事情繁杂、麻烦，处理起来需要花费较多精力和时间，让人觉得厌烦、麻烦。" ],
+  "notes" : [ "「面倒（めんどう）」本身也有“麻烦、费事”的意思，「くさい」在这里作为接尾词，增强了“麻烦”这种负面感受的程度，可理解为“很……、非常……（带有厌烦的情绪）”。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11300,
+  "word" : "面倒を見る",
+  "reading" : "めんどうをみる",
+  "romaji" : null,
+  "meaning" : [ "照顾，照料；照管，料理；关心，关照" ],
+  "notes" : [ "「面倒を見る」是一个常用的动词短语，其中「面倒」表示麻烦、费事，「を見る」在这里引申为照顾、照料的意思。该短语在日常生活和书面语中都较为常用，用于表达对人或事物的关心、照料行为。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+} ]

@@ -1,0 +1,901 @@
+[ {
+  "id" : 2701,
+  "word" : "予測",
+  "reading" : "よそく",
+  "romaji" : null,
+  "meaning" : [ "预测，预料，预报" ],
+  "notes" : [ "既可指基于数据、理论的科学预测，也可指一般性的预料。常用搭配有「予測する」（动词）、「予測がつく/つかない」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2702,
+  "word" : "予知",
+  "reading" : "よち",
+  "romaji" : null,
+  "meaning" : [ "预知，预测，预先知晓" ],
+  "notes" : [ "「予知」是名词，通常不单独使用，而是作为サ变动词「予知する」的词干，表示“预知”的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2703,
+  "word" : "予算",
+  "reading" : "よさん",
+  "romaji" : null,
+  "meaning" : [ "① 在事前对一定时期内（通常为一年）的收入和支出所做的估算计划。② 为特定事业或活动所准备的资金额度。" ],
+  "notes" : [ "① 读音中无需标注音调数字（如“よさん1”），统一为平假名。② “予算”一词通常不标注音调，在标准日语中，其音调通常为平板型（头高型或中高型根据方言和语境有所不同）。③ 作为名词，无活用变化。④ 含义中需明确区分“预算计划”和“预算金额”两个主要方面。⑤ N3级别符合其作为常用社会、经济词汇的定位。⑥ 例句展示了其作为“计划案”和“资金额度”的两种典型用法。⑦ 无需特殊注释。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2704,
+  "word" : "予算案",
+  "reading" : "よさんあん",
+  "romaji" : null,
+  "meaning" : [ "预算案，预算草案" ],
+  "notes" : [ "指提交给立法机构（如国会）审查和批准的国家或地方政府的财政预算草案。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2705,
+  "word" : "予約",
+  "reading" : "よやく",
+  "romaji" : null,
+  "meaning" : [ "预约，预订" ],
+  "notes" : [ "作为名词和サ变动词使用。在表示“进行预约”这个动作时，通常使用「予約する」的形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2706,
+  "word" : "予約します",
+  "reading" : "よやくします",
+  "romaji" : null,
+  "meaning" : [ "预约，预订" ],
+  "notes" : [ "这是动词「予約する」的ます形，用于礼貌场合。原形为「予約する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2707,
+  "word" : "予約する",
+  "reading" : "よやくする",
+  "romaji" : null,
+  "meaning" : [ "预约，预订" ],
+  "notes" : [ "「予約」本身是名词，作为动词使用时需加「する」构成サ变动词。该词汇条目以动词形式（予約する）为准。难度级别通常为N4。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2708,
+  "word" : "予習",
+  "reading" : "よしゅう",
+  "romaji" : null,
+  "meaning" : [ "预习，事先学习（课程内容等）" ],
+  "notes" : [ "作为名词或サ变动词使用，常与「する」搭配构成动词形式。通常指学生为上课做的预习准备。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2709,
+  "word" : "予言",
+  "reading" : "よげん",
+  "romaji" : null,
+  "meaning" : [ "预言；预言的事情" ],
+  "notes" : [ "「予言」作为名词使用。虽然有时会看到「予言する」这种サ变动词用法，但条目本身是名词。作为サ变动词时，其活用类型为「サ行変格活用」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2710,
+  "word" : "予選",
+  "reading" : "よせん",
+  "romaji" : null,
+  "meaning" : [ "预选；预赛；选拔赛" ],
+  "notes" : [ "「予選」是一个名词。虽然可以后续「する」构成サ变动词「予選する」，表示“进行预选/预赛”，但词汇本身是名词。在N2级别词汇中，作为名词的用法更为基础和常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2711,
+  "word" : "予防",
+  "reading" : "よぼう",
+  "romaji" : null,
+  "meaning" : [ "预防，防止，防备" ],
+  "notes" : [ "可构成复合词，如「予防接種」（疫苗接种）。也有サ变动词用法「予防する」，但条目以名词形式为主。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2712,
+  "word" : "争い",
+  "reading" : "あらそい",
+  "romaji" : null,
+  "meaning" : [ "争论，纠纷；竞争，竞赛；争执" ],
+  "notes" : [ "作为名词使用，是动词「争う（あらそう）」的连用形（ます形去掉「ます」）名词化后的形式。在表示“竞争、竞赛”的含义时，多用于书面语或正式场合，口语中更常用「競争（きょうそう）」。当表示“争论、纠纷”时，常与「～をめぐる（围绕…的）」、「～との（与…的）」等搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2713,
+  "word" : "争う",
+  "reading" : "あらそう",
+  "romaji" : null,
+  "meaning" : [ "争う。为某物而竞争或对抗；在意见或权利上发生冲突；进行争论或争斗。" ],
+  "notes" : [ "这是一个他动词，但经常以自动词的方式使用，表示双方或多方之间的竞争或冲突。常见搭配有「…を争う」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2714,
+  "word" : "争って",
+  "reading" : "あらそって",
+  "romaji" : null,
+  "meaning" : [ "争先恐后地，竞相地" ],
+  "notes" : [ "「争って」是动词「争う」的て形，表示方式、状态，常以「争って～する」的形式使用，描述为了抢先或竞争而做某事。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2715,
+  "word" : "事",
+  "reading" : "こと",
+  "romaji" : null,
+  "meaning" : [ "事情，事件；事实；情况；内容；事情（相对于物体）" ],
+  "notes" : [ "汉字“事”的训读。在表示具体事件或抽象概念时使用，是日语中的高频基础词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2716,
+  "word" : "事件",
+  "reading" : "じけん",
+  "romaji" : null,
+  "meaning" : [ "事件。案件。事故。" ],
+  "notes" : [ "「事件」は、主に社会や法律に関わる出来事を指す。日常的な出来事を指す場合は「出来事」を用いることが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2717,
+  "word" : "事前",
+  "reading" : "じぜん",
+  "romaji" : null,
+  "meaning" : [ "事が起こる前。何かを行う前。" ],
+  "notes" : [ "副詞的にも用いられる（例：事前に準備する）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2718,
+  "word" : "事務",
+  "reading" : "じむ",
+  "romaji" : null,
+  "meaning" : [ "事务，办公，办公室工作" ],
+  "notes" : [ "常用搭配：事務所（办公室）、事務員（办事员）、事務仕事（办公室工作）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2719,
+  "word" : "事務所",
+  "reading" : "じむしょ",
+  "romaji" : null,
+  "meaning" : [ "办公室；事务所（如律师事务所、会计师事务所等）" ],
+  "notes" : [ "此词为名词，无活用变化。常见的复合词有「弁護士事務所（律师事务所）」、「税理士事務所（会计师事务所）」等。在日语能力考试中，通常属于N4级别词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2720,
+  "word" : "事務所探し",
+  "reading" : "じむしょさがし",
+  "romaji" : null,
+  "meaning" : [ "寻找事务所，物色事务所。" ],
+  "notes" : [ "「～探し」是一个常见的构词法，表示“寻找…”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2721,
+  "word" : "事実",
+  "reading" : "じじつ",
+  "romaji" : null,
+  "meaning" : [ "事实；真实存在或发生的事情；与虚构或推测相对的真实情况。" ],
+  "notes" : [ "音调核在第一个假名（0型）。作为名词，没有词形变化。有时也用作副词，表示“实际上”、“事实上”，例如：「事実、その通りです。」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2722,
+  "word" : "事情",
+  "reading" : "じじょう",
+  "romaji" : null,
+  "meaning" : [ "1. 情况，情形，状况。2. （事情的）缘由，原因，内情。" ],
+  "notes" : [ "「事情」在表示“原因、缘由”时，常指背后的、未公开的或非表面的具体原因或情况。与「事態」相比，「事情」更侧重于具体的内情和原因，而「事態」更侧重于事态的发展和状况本身。常用搭配有「事情を説明する」、「事情が許せば」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2723,
+  "word" : "事態",
+  "reading" : "じたい",
+  "romaji" : null,
+  "meaning" : [ "事情，事态，情况（多指复杂、困难或紧急的局势）" ],
+  "notes" : [ "通常用于描述较为严重或复杂的局面，而非日常小事。在日语能力考试（JLPT）中，通常被归类为N2级别词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2724,
+  "word" : "事故",
+  "reading" : "じこ",
+  "romaji" : null,
+  "meaning" : [ "事故；意外事件；故障" ],
+  "notes" : [ "「事故」主要指意外的不幸事件，如交通事故、工伤事故等。也可以指机械故障。通常与动词「起こす」、「起きる」、「防ぐ」等搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2725,
+  "word" : "事柄",
+  "reading" : "ことがら",
+  "romaji" : null,
+  "meaning" : [ "事情，事态，事项" ],
+  "notes" : [ "这是一个表示抽象事物、情况或事件的名词，常用于正式或书面语中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2726,
+  "word" : "事業",
+  "reading" : "じぎょう",
+  "romaji" : null,
+  "meaning" : [ "事业；企业；项目；工作" ],
+  "notes" : [ "主要指具有一定规模和计划的经营性或社会性活动，如商业项目、慈善事业等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2727,
+  "word" : "事項",
+  "reading" : "じこう",
+  "romaji" : null,
+  "meaning" : [ "事情，項目，條目。特指法律、規章、合同等文件中的具體條款或事項。" ],
+  "notes" : [ "通常用於正式或書面語境。常與「重要」、「留意」、「確認」等詞搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2728,
+  "word" : "二",
+  "reading" : "に",
+  "romaji" : null,
+  "meaning" : [ "数字2；第二；两个" ],
+  "notes" : [ "作为数字使用时，也可读作「ふたつ」。在表示数量或顺序时，读音和用法有所不同。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2729,
+  "word" : "二つ",
+  "reading" : "ふたつ",
+  "romaji" : null,
+  "meaning" : [ "两个；两岁；二者" ],
+  "notes" : [ "作为基数词使用时，通常不用于直接修饰名词（如「二つのりんご」不自然，应使用「りんごを二つ」或「りんごが二つ」等表达）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2730,
+  "word" : "二人",
+  "reading" : "ふたり",
+  "romaji" : null,
+  "meaning" : [ "两个人，一对（人）。" ],
+  "notes" : [ "这是一个数量词（数詞），用于计数人数。在表示“两个人一起”时，常使用「二人で」的形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2731,
+  "word" : "二十歳",
+  "reading" : "はたち",
+  "romaji" : null,
+  "meaning" : [ "二十岁（日本法定成年年龄）" ],
+  "notes" : [ "常用汉字读音为「はたち」，有时也写作「廿歳」。在日本，二十岁是法定成年年龄。虽然汉字写作「二十歳」，但训读「はたち」是常用读法，音读「にじゅっさい」反而较少使用。在表示年龄时，20岁通常读作「はたち」，而20岁以上（如21岁、22岁）则读作「にじゅういっさい」、「にじゅうにさい」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2732,
+  "word" : "二度と",
+  "reading" : "にどと",
+  "romaji" : null,
+  "meaning" : [ "再次，第二次（后接否定表达，表示‘再也不…’）" ],
+  "notes" : [ "这是一个副词，几乎总是与否定形式搭配使用，表示‘再也不…’、‘绝不再…’的意思。‘再び’（ふたたび）是同义副词，但‘再び’可以用于肯定句。在本条目中，‘再び’是作为同义词或补充说明存在，但核心词汇是‘二度と’。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2733,
+  "word" : "二日",
+  "reading" : "ふつか",
+  "romaji" : null,
+  "meaning" : [ "（每个月的）二号；两天" ],
+  "notes" : [ "作为时间名词使用。当表示“两天”时，常与助词「間」连用，如「二日間」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2734,
+  "word" : "二枚目",
+  "reading" : "にまいめ",
+  "romaji" : null,
+  "meaning" : [ "美男子、帅哥（歌舞伎中表示美男子角色的演员或角色类型）" ],
+  "notes" : [ "源自歌舞伎术语。原指歌舞伎海报或节目单上第二块板（通常描绘美男子角色），后引申为美男子。通常不用于女性。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2735,
+  "word" : "二类形容词+名词",
+  "reading" : "にるいけいようし+めいし",
+  "romaji" : null,
+  "meaning" : [ "表示二类形容词（形容动词）与名词连接时，需要借助连体形“な”来修饰名词，构成定语结构。" ],
+  "notes" : [ "二类形容词（形容动词）的词干后接“な”是其连体形，用于直接修饰名词。这是日语语法中的基础且核心的规则。与一类形容词（い形容词）直接修饰名词（如「赤い花」）不同，二类形容词必须通过“な”连接。" ],
+  "pos" : "GRAMMAR",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2736,
+  "word" : "形容動詞（ナ形容詞）の終止形（簡体）",
+  "reading" : "",
+  "romaji" : null,
+  "meaning" : [ "形容動詞（ナ形容詞）の終止形（簡体）の活用形。肯定現在形は「だ」、否定現在形は「ではない」、肯定過去形は「だった」、否定過去形は「ではなかった」。" ],
+  "notes" : [ "学校文法では「形容動詞」、日本語教育では「ナ形容詞」と呼ばれる。丁寧体は「です／ではありません／でした／ではありませんでした」。口語では「じゃない／じゃなかった」もよく使われる。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2737,
+  "word" : "二足歩行ロボット",
+  "reading" : "にそくほこうロボット",
+  "romaji" : null,
+  "meaning" : [ "双足行走机器人，两足步行机器人。" ],
+  "notes" : [ "通常简称为「二足歩行ロボット」，有时也可简写或略称为「二足ロボット」。核心概念是模仿人类或动物用两条腿行走的机器人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2738,
+  "word" : "二酸化炭素",
+  "reading" : "にさんかたんそ",
+  "romaji" : null,
+  "meaning" : [ "二氧化碳" ],
+  "notes" : [ "化学用語。温室効果ガスの一種としてよく言及される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2739,
+  "word" : "云々",
+  "reading" : "うんぬん",
+  "romaji" : null,
+  "meaning" : [ "云云，等等（用于省略列举的事项或避免重复具体内容）；说三道四，说长道短（指对他人或事物进行不必要的议论）" ],
+  "notes" : [ "「云々」是一个汉字词，通常作为名词使用，也可后续「する」构成サ变动词。在正式文体中常见，用于指代前文提及的内容或表示列举未尽。注意其与「など」等口语化表达的区别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2740,
+  "word" : "互いに",
+  "reading" : "たがいに",
+  "romaji" : null,
+  "meaning" : [ "互相，彼此。表示两个或两个以上的人或事物之间的相互关系。" ],
+  "notes" : [ "常与「助け合う」、「理解し合う」、「尊重し合う」等表示相互行为的动词搭配使用。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2741,
+  "word" : "五",
+  "reading" : "ご",
+  "romaji" : null,
+  "meaning" : [ "五，数字5。" ],
+  "notes" : [ "这是一个基本数字。在计数特定物品时，有时会使用不同的计数后缀，如「五つ（いつつ）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2742,
+  "word" : "五つ",
+  "reading" : "いつつ",
+  "romaji" : null,
+  "meaning" : [ "五个；五岁（用于计数物品、年龄，尤其指1到10的日式传统数法）" ],
+  "notes" : [ "「五つ」是日式传统数法（訓読み）之一，用于计数没有特定量词的一般物品，以及儿童的年龄。在正式场合或计数现代物品时，也常用「五個（ごこ）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2743,
+  "word" : "五つ葉",
+  "reading" : "いつつば",
+  "romaji" : null,
+  "meaning" : [ "五片叶子；也指特定的植物，如五叶地锦（五葉蔦）或五叶松（五葉松）。" ],
+  "notes" : [ "作为普通名词使用时意为“五片叶子”，但在特定植物名称中作为专有名词的一部分。该词在常用词汇中不常见，因此难度级别定为N2。汉字“葉”的训读为“は”，但在复合词中常发生连浊，变为“ば”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2744,
+  "word" : "五分五分",
+  "reading" : "ごぶごぶ",
+  "romaji" : null,
+  "meaning" : [ "五五分，各半；可能性或概率各占一半，势均力敌" ],
+  "notes" : [ "通常写作假名「ごぶごぶ」，汉字表记「五分五分」较少使用。作为形容动词使用时，词尾活用为「な」或「に」，例如「五分五分な状況」、「五分五分に分ける」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2745,
+  "word" : "井戸",
+  "reading" : "いど",
+  "romaji" : null,
+  "meaning" : [ "井，水井" ],
+  "notes" : [ "主要指用于取水的地下水井。在日语能力考试中，该词汇通常被归类为N4级别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2746,
+  "word" : "亡くす",
+  "reading" : "なくす",
+  "romaji" : null,
+  "meaning" : [ "（他動詞）人（特に家族や親しい人）を失う、死なせる。喪失する。" ],
+  "notes" : [ "他動詞です。自動詞の「亡くなる」（死ぬの丁寧な表現）と混同しないよう注意してください。「物をなくす」は「無くす」と書きます。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2747,
+  "word" : "亡くなる",
+  "reading" : "なくなる",
+  "romaji" : null,
+  "meaning" : [ "去世，逝世，过世（对“死ぬ”的委婉说法）" ],
+  "notes" : [ "“亡くなる”是“死ぬ”的礼貌、委婉的表达方式，用于描述人的死亡，在日常对话和正式场合中更为常用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2748,
+  "word" : "交える",
+  "reading" : "まじえる",
+  "romaji" : null,
+  "meaning" : [ "1. 混ぜ合わせる、混合する。\n2. 互いに組み合わせる、交叉させる。\n3. （議論・戦いなどを）行う、交わす。" ],
+  "notes" : [ "「交える」は書き言葉的で、硬い表現です。口語では「混ぜる」「交わす」などがより一般的に使われる場合があります。また、「意見を交える」は議論する意味でよく使われる慣用表現です。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2749,
+  "word" : "交わす",
+  "reading" : "かわす",
+  "romaji" : null,
+  "meaning" : [ "1. 交換する。やりとりする。 2. 互い違いに組み合わせる。交差させる。" ],
+  "notes" : [ "「交わす」は他動詞であり、通常、名詞を伴って「～を交わす」の形で用いられる。自動詞は「交わる」。語義1（交換）の用法では、挨拶、言葉、約束、契約などを目的語とすることが多い。語義2（交差）は物理的なものに加え、比喩的な意味でも用いられることがある。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2750,
+  "word" : "交わる",
+  "reading" : "まじわる",
+  "romaji" : null,
+  "meaning" : [ "1. （線や道などが）一点で出会い、互いに横切る。交差する。\n2. 人と付き合う。交際する。" ],
+  "notes" : [ "「交わる」は、自動詞です。他動詞の「交える」と混同しないよう注意してください。「交わる」は「友達と交わる」のように、対等な関係での付き合いを表すのが一般的です。数学用語としてもよく使われます。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2751,
+  "word" : "交互に",
+  "reading" : "こうごに",
+  "romaji" : null,
+  "meaning" : [ "互相，交替，轮流" ],
+  "notes" : [ "「交互に」是副词，由名词「交互」加助词「に」构成，用于描述两个或两个以上的事物或动作交替进行的状态。在JLPT考试中，通常作为N2级别的词汇出现。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2752,
+  "word" : "交付",
+  "reading" : "こうふ",
+  "romaji" : null,
+  "meaning" : [ "交付。将公文、证书、物品等正式交给对方。" ],
+  "notes" : [ "这是一个比较正式的书面语词汇，常用于公文、法律或行政语境中，表示官方或正式的交付行为。在日常会话中，更常用「渡す」、「手渡す」或「届ける」等词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2753,
+  "word" : "交代する",
+  "reading" : "こうたいする",
+  "romaji" : null,
+  "meaning" : [ "交替する、引き継ぐ、代わる代わる務める。" ],
+  "notes" : [ "名詞形は「交代」。サ行変格活用動詞であり、連用形は「交代し」、過去形は「交代した」となる。職場やスポーツなど、定期的または状況に応じて役割や担当者を替える場面で用いられる。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2754,
+  "word" : "交差",
+  "reading" : "こうさ",
+  "romaji" : null,
+  "meaning" : [ "交叉；交错；相交" ],
+  "notes" : [ "作为名词使用时，可表示交叉点，如「交差点」。作为动词使用时，通常以「交差する」的形式出现，属于サ变动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2755,
+  "word" : "交差点",
+  "reading" : "こうさてん",
+  "romaji" : null,
+  "meaning" : [ "十字路口；道路的交叉点" ],
+  "notes" : [ "也常简写为「交差点」，但正式写法为「交差点」。在口语中有时也直接用「交差点」。表示道路的交叉点，不一定是十字形，也可以是三岔路口等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2756,
+  "word" : "交換",
+  "reading" : "こうかん",
+  "romaji" : null,
+  "meaning" : [ "1. 交换，互换；2. 交易，兑换" ],
+  "notes" : [ "「交換」是一个名词，但可以后续「する」构成サ变动词「交換する」。其对应的动词形式在日语学习中常被标记为动词，但词汇条目本身是名词。因此，将类型从\"verb\"修正为\"noun\"，并添加此说明。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2757,
+  "word" : "交換します",
+  "reading" : "こうかんします",
+  "romaji" : null,
+  "meaning" : [ "交換する。互いに物や情報などを取り替える。" ],
+  "notes" : [ "「交換します」は「交換する」の丁寧形（ます形）です。名詞としての「交換（こうかん）」も存在します。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2758,
+  "word" : "交易",
+  "reading" : "こうえき",
+  "romaji" : null,
+  "meaning" : [ "交易，贸易，买卖" ],
+  "notes" : [ "「交易」是名词，不是动词。作为动词使用时，通常使用「交易する」的形式，属于サ变动词。在日语中，它更常指国家或地区之间的大规模贸易活动，而非个人之间的简单买卖。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2759,
+  "word" : "交替/交代",
+  "reading" : "こうたい",
+  "romaji" : null,
+  "meaning" : [ "交替，轮流，替换。表示人或事物依次接替进行工作或任务。" ],
+  "notes" : [ "「交替」和「交代」在多数情况下可以互换使用，表示轮换、接替。但严格来说，「交替」侧重于周期性、规律性的轮换（如交替で働く），而「交代」则更侧重于人员的替换和交接（如交代要員）。在表示棒球等运动中的换人时，通常使用「交代」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2760,
+  "word" : "交流",
+  "reading" : "こうりゅう",
+  "romaji" : null,
+  "meaning" : [ "1. 互いに交わること。 2. 特に、人や文化、情報などが互いにやりとりされること。 3. 電気回路において、電流の方向が周期的に変化すること。" ],
+  "notes" : [ "文脈によって、人と人との交わり、文化のやりとり、または電気の「交流」など複数の意味を持つ。一般的な会話では「人との交流」の意味で用いられることが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2761,
+  "word" : "交渉",
+  "reading" : "こうしょう",
+  "romaji" : null,
+  "meaning" : [ "谈判，交涉，协商。" ],
+  "notes" : [ "也可作为サ变动词使用，如「交渉する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2762,
+  "word" : "交番",
+  "reading" : "こうばん",
+  "romaji" : null,
+  "meaning" : [ "①（警察の）派出所。②交替。" ],
+  "notes" : [ "①の意味で一般的。漢字表記は「交番」だが、カタカナで「コウバン」と書かれることもある。②の意味は古い用法で、現代ではあまり使われない。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2763,
+  "word" : "交通",
+  "reading" : "こうつう",
+  "romaji" : null,
+  "meaning" : [ "交通；运输；往来；交通状况" ],
+  "notes" : [ "常用汉字词，作为名词使用，没有活用变化。通常指人或物的移动，也指交通系统或状况。在日语能力考试中，通常属于N4级别词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2764,
+  "word" : "交通事情",
+  "reading" : "こうつうじじょう",
+  "romaji" : null,
+  "meaning" : [ "交通状況，交通状况。" ],
+  "notes" : [ "「交通事情」是一个复合名词，指道路的通行状况、交通流量、拥堵情况等。与「交通状況」意思基本相同，可以互换使用，但「交通事情」在口语和新闻报道中更为常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2765,
+  "word" : "交通事故",
+  "reading" : "こうつうじこ",
+  "romaji" : null,
+  "meaning" : [ "交通事故。" ],
+  "notes" : [ "書き言葉、話し言葉の両方で広く使われる一般的な単語です。日常会話やニュースで頻繁に使用されます。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2766,
+  "word" : "交通機関",
+  "reading" : "こうつうきかん",
+  "romaji" : null,
+  "meaning" : [ "交通工具，运输系统。指火车、巴士、地铁、飞机等用于运送人员和货物的公共或私人系统。" ],
+  "notes" : [ "「交通機関」是一个复合名词，由「交通」（交通）和「機関」（机构、机关）组成。其重音（アクセント）为平板型（平板型），即所有音节音高相同或从第二音节开始下降。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2767,
+  "word" : "交通網",
+  "reading" : "こうつうもう",
+  "romaji" : null,
+  "meaning" : [ "交通网络，交通系统" ],
+  "notes" : [ "通常指由道路、铁路、航线等构成的综合性交通系统。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2768,
+  "word" : "交通規則",
+  "reading" : "こうつうきそく",
+  "romaji" : null,
+  "meaning" : [ "交通规则，交通法规" ],
+  "notes" : [ "常与「守る」（遵守）、「違反する」（违反）等动词搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2769,
+  "word" : "交通量",
+  "reading" : "こうつうりょう",
+  "romaji" : null,
+  "meaning" : [ "交通流量，通行量。" ],
+  "notes" : [ "该词为名词，无活用变化。在日语中，数字通常不直接标注在读音后，而是用独立的假名标注音调。此处“りょう”为平板型（ヘボン式罗马音标为0型），但标准读音标注中通常省略数字。例句展示了该词在句子中的常见用法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2770,
+  "word" : "交際",
+  "reading" : "こうさい",
+  "romaji" : null,
+  "meaning" : [ "交往，交际；男女之间的约会（常带有发展为恋爱关系的意图）" ],
+  "notes" : [ "「交際」本身是名词，常以「交際する」的形式作为サ变动词使用。例句1展示了其作为名词的用法，例句2展示了其作为动词（交際している）的用法。在口语中，尤其常指男女约会。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2771,
+  "word" : "享受",
+  "reading" : "きょうじゅ",
+  "romaji" : null,
+  "meaning" : [ "享受；享乐；乐趣" ],
+  "notes" : [ "作为名词使用，表示“享受”这一行为或状态。当需要表达“享受”这个动作时，通常使用动词短语“享受する”，这是サ变动词，活用规则与“する”相同。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2772,
+  "word" : "京劇",
+  "reading" : "きょうげき",
+  "romaji" : null,
+  "meaning" : [ "京剧。中国的传统戏剧艺术形式。" ],
+  "notes" : [ "通常写作片假名「キョウゲキ」。在日语中常作为外来语或专有名词处理。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2773,
+  "word" : "人",
+  "reading" : "ひと",
+  "romaji" : null,
+  "meaning" : [ "人；人类；他人；别人；人手；人员" ],
+  "notes" : [ "「人（ひと）」是一个常用名词，没有词形变化。在特定复合词或短语中可能有其他读音（如「人気（にんき）」、「一人（ひとり）」等），但作为独立单词时通常读作「ひと」。作为「N5」级别的基础词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2774,
+  "word" : "人々",
+  "reading" : "ひとびと",
+  "romaji" : null,
+  "meaning" : [ "人们；许多人；每个人" ],
+  "notes" : [ "「ひとびと」的读音没有音调数字标记，通常读作平板型（第0型）或头高型（第1型），具体取决于方言和语境。这是一个复数形式的名词，用于泛指多数人，比单数形式「人（ひと）」更强调群体性。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2775,
+  "word" : "人一倍",
+  "reading" : "ひといちばい",
+  "romaji" : null,
+  "meaning" : [ "比常人加倍，比一般人更甚。通常用于形容某种感觉或情感比普通人更强烈。" ],
+  "notes" : [ "这是一个固定短语，不能拆开使用。通常后接表示情感、努力、注意等词语，表示程度远超过普通水平。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2776,
+  "word" : "人並み",
+  "reading" : "ひとなみ",
+  "romaji" : null,
+  "meaning" : [ "普通，一般，与常人一样" ],
+  "notes" : [ "作为形容动词（ナ形容词）使用时，需要后续助动词「だ」或「な」等，例如「人並みな生活」。作为名词使用时可直接使用，例如「人並みを外れる」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2777,
+  "word" : "人事",
+  "reading" : "じんじ",
+  "romaji" : null,
+  "meaning" : [ "1. 人事，人力资源（企业、组织内部关于人员的录用、配置、评价等事务）。2. 世事，人世间的事。" ],
+  "notes" : [ "“人事”作为“人力资源”含义时，是常见的商业用语。第二个含义（世事）稍显书面，多用于固定表达中，如“人事を尽くして天命を待つ（尽人事，听天命）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2778,
+  "word" : "人事異動",
+  "reading" : "じんじいどう",
+  "romaji" : null,
+  "meaning" : [ "人事变动，人员调动。指公司或组织内部对员工职位、所属部门或工作地点的正式调动。" ],
+  "notes" : [ "这是一个复合名词，由“人事”（じんじ）和“異動”（いどう）组成。在商务日语中非常常见，通常与“発表する”（公布）、“行う”（进行）等动词搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2779,
+  "word" : "人件費",
+  "reading" : "じんけんひ",
+  "romaji" : null,
+  "meaning" : [ "人工費、人事費。企業や組織が従業員に支払う給与、賞与、社会保険料などの総称。" ],
+  "notes" : [ "「人件費」はビジネスや会計でよく使われる用語です。類似の言葉に「労務費」がありますが、「人件費」の方がより一般的です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2780,
+  "word" : "人任せ",
+  "reading" : "ひとまかせ",
+  "romaji" : null,
+  "meaning" : [ "把事情委托给别人，让别人做决定；听天由命，听其自然。" ],
+  "notes" : [ "表示一种依赖他人、不自己负责任的态度。通常带有负面含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2781,
+  "word" : "人体",
+  "reading" : "じんたい",
+  "romaji" : null,
+  "meaning" : [ "人体。人的身体。" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2782,
+  "word" : "人出",
+  "reading" : "ひとで",
+  "romaji" : null,
+  "meaning" : [ "外出的人群；公共场所聚集的人群" ],
+  "notes" : [ "用于描述特定时间或地点聚集的人群数量，多指节假日、活动等场合。非敬语，为中性表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2783,
+  "word" : "人前結婚式",
+  "reading" : "ひとまえけっこんしき",
+  "romaji" : null,
+  "meaning" : [ "在亲朋好友面前举行仪式的婚礼形式，相对于在宗教场所或市政厅举行的婚礼。" ],
+  "notes" : [ "「人前（ひとまえ）」是常用词，意为“众人面前”，因此读音并非音读的「じんぜん」。这是一种比较常见的日本婚礼形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2784,
+  "word" : "人力",
+  "reading" : "じんりき",
+  "romaji" : null,
+  "meaning" : [ "人力；人的力量；由人提供的动力或劳动力。区别于机械力或自然力。" ],
+  "notes" : [ "読み方は「じんりき」です。「じんりょく」は誤り。通常、漢字の「力」は「りき」と読むが、複合語によっては「りょく」とも読むので注意が必要です（例：電力「でんりょく」）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2785,
+  "word" : "人参",
+  "reading" : "にんじん",
+  "romaji" : null,
+  "meaning" : [ "胡萝卜" ],
+  "notes" : [ "在日语中，\"人参\"通常指胡萝卜，而中文的\"人参\"在日语中则写作\"朝鮮人参\"或\"高麗人参\"。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2786,
+  "word" : "人口",
+  "reading" : "じんこう",
+  "romaji" : null,
+  "meaning" : [ "人口" ],
+  "notes" : [ "「人口」是一个名词，表示一个地区或国家的人数。通常与「多い」、「少ない」、「増える」、「減る」等词语搭配使用，描述人口数量或变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2787,
+  "word" : "人工",
+  "reading" : "じんこう",
+  "romaji" : null,
+  "meaning" : [ "人工的；人造的；非自然的。" ],
+  "notes" : [ "常用汉字表外读音。与「自然（しぜん）」相对。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2788,
+  "word" : "人工衛星",
+  "reading" : "じんこうえいせい",
+  "romaji" : null,
+  "meaning" : [ "人造卫星" ],
+  "notes" : [ "「人工衛星」は通常、自然の衛星（例えば月）と区別するために使われる。略して「衛星」とも呼ばれることがあるが、文脈によっては自然の衛星を指す場合もあるので注意。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2789,
+  "word" : "人差し指",
+  "reading" : "ひとさしゆび",
+  "romaji" : null,
+  "meaning" : [ "食指，即手的第二个手指，通常用于指物。" ],
+  "notes" : [ "也常写作「人指し指」。在解剖学上称为「示指（しし）」。这是一个复合名词，由「人（ひと）」和「指す（さす）」以及「指（ゆび）」构成。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2790,
+  "word" : "人形",
+  "reading" : "にんぎょう",
+  "romaji" : null,
+  "meaning" : [ "1. 玩偶，人偶 2. 傀儡，受人操纵的人" ],
+  "notes" : [ "「形」的读音为「ぎょう」，是连浊现象。第二个含义（傀儡）常用于贬义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2791,
+  "word" : "人影",
+  "reading" : "ひとかげ",
+  "romaji" : null,
+  "meaning" : [ "人影，人的身影或轮廓" ],
+  "notes" : [ "这个词通常用于描述远处或光线不足时看到的人的身影，给人一种模糊、不确定或略带寂寥的印象。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2792,
+  "word" : "人情",
+  "reading" : "にんじょう",
+  "romaji" : null,
+  "meaning" : [ "人情，人的感情；情义，人与人之间的情谊" ],
+  "notes" : [ "常指人与人之间的温情、情义或恻隐之心，是日本社会文化中的一个重要概念。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2793,
+  "word" : "人手",
+  "reading" : "ひとで",
+  "romaji" : null,
+  "meaning" : [ "1. 人力，人手，工作人员。指工作或作业所需的人力。\n2. （做某事所需的）人。" ],
+  "notes" : [ "音调为平板型（0型）。在表示“人的手”时，通常写作「人の手」。作为词汇条目，「人手」主要指人力或所需人员。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2794,
+  "word" : "人数",
+  "reading" : "にんずう",
+  "romaji" : null,
+  "meaning" : [ "人の数。人の人数。" ],
+  "notes" : [ "音読みの熟語。数字の後には「人」を付けて数える。例：三人（さんにん）、五人（ごにん）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2795,
+  "word" : "人材",
+  "reading" : "じんざい",
+  "romaji" : null,
+  "meaning" : [ "有才能的人；人才；适合某种工作的人材。" ],
+  "notes" : [ "该词在商业和组织语境中尤为常用，通常指具有特定技能或潜力，能为组织带来价值的人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2796,
+  "word" : "人柄",
+  "reading" : "ひとがら",
+  "romaji" : null,
+  "meaning" : [ "人品；品格；为人；性格" ],
+  "notes" : [ "通常用于描述人的品格、性格等内在品质，带有褒义色彩。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2797,
+  "word" : "人格",
+  "reading" : "じんかく",
+  "romaji" : null,
+  "meaning" : [ "人格；人的品格、品性；在法律上，指具有权利和义务的主体资格。" ],
+  "notes" : [ "「人格」作为专业术语，也可对应心理学中的“personality”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2798,
+  "word" : "人権",
+  "reading" : "じんけん",
+  "romaji" : null,
+  "meaning" : [ "人权，人的基本权利" ],
+  "notes" : [ "这是一个复合名词，由“人”和“権”组成。在日语中，它通常指代由宪法或法律保障的基本人权，如生存权、自由权、平等权等。这是一个重要的社会和法律概念。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2799,
+  "word" : "人民元",
+  "reading" : "じんみんげん",
+  "romaji" : null,
+  "meaning" : [ "人民币（中国法定货币）" ],
+  "notes" : [ "通常简称为「元（げん）」或「人民幣（じんみんぺい）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2800,
+  "word" : "人気",
+  "reading" : "にんき",
+  "romaji" : null,
+  "meaning" : [ "人气；受欢迎；声望" ],
+  "notes" : [ "通常与「がある」、「が高い」、「が集まる」等表达搭配使用，表示受欢迎的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

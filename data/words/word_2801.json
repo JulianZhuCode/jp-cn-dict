@@ -1,0 +1,901 @@
+[ {
+  "id" : 2801,
+  "word" : "人気があります",
+  "reading" : "にんきがあります",
+  "romaji" : null,
+  "meaning" : [ "受欢迎，有人气。" ],
+  "notes" : [ "「人気」是名词，意为「声望、人缘、人气」。与「があります」结合构成常用短语，表示具有人气、受欢迎的状态。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2802,
+  "word" : "人生",
+  "reading" : "じんせい",
+  "romaji" : null,
+  "meaning" : [ "人生。从出生到死亡，人所度过的一生。" ],
+  "notes" : [ "读音“じんせい”通常不标注音调数字（如1等），因此已移除。作为名词，没有活用类型。其难度级别N3准确。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2803,
+  "word" : "人目",
+  "reading" : "ひとめ",
+  "romaji" : null,
+  "meaning" : [ "他人的眼光，世人的目光；他人的注意。" ],
+  "notes" : [ "这是一个常用的名词，常以「人目につく」（引人注目）、「人目を避ける」（避开他人目光/注意）等形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2804,
+  "word" : "人種",
+  "reading" : "じんしゅ",
+  "romaji" : null,
+  "meaning" : [ "人种；种族（人类按体质特征进行的分类）。" ],
+  "notes" : [ "属于名词，无活用变化。注意与「民族」（みんぞく，强调文化、语言共同体）的区别。在日语能力考试中，常见于N2级别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2805,
+  "word" : "人質",
+  "reading" : "ひとじち",
+  "romaji" : null,
+  "meaning" : [ "人质；作为抵押或要挟对象的人。" ],
+  "notes" : [ "该词为名词，无活用变化。在日语中，其读音为「ひとじち」，而非常见的「ひとしち」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2806,
+  "word" : "人込み",
+  "reading" : "ひとごみ",
+  "romaji" : null,
+  "meaning" : [ "人群，拥挤的人群" ],
+  "notes" : [ "由「人」和「込み」（拥挤）复合而成。常用搭配有「人込みがすごい」、「人込みにまぎれる」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2807,
+  "word" : "人通り",
+  "reading" : "ひとどおり",
+  "romaji" : null,
+  "meaning" : [ "人来人往，行人流量，通行的人" ],
+  "notes" : [ "这是一个复合名词，由「人（ひと）」和「通り（とおり）」组成。注意与副词「一通り（ひととおり）」的读音和含义区分开。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2808,
+  "word" : "人造",
+  "reading" : "じんぞう",
+  "romaji" : null,
+  "meaning" : [ "人造，人工制造" ],
+  "notes" : [ "通常作为名词使用，常以「人造の～」的形式修饰名词，表示该物品是人工制造的。在部分复合词中，也写作「人造～」。例如：人造人間、人造繊維。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2809,
+  "word" : "人間",
+  "reading" : "にんげん",
+  "romaji" : null,
+  "meaning" : [ "人，人类；人性；人品，为人" ],
+  "notes" : [ "作为「人」的含义时，与「人」相比，更强调作为社会性、理性存在的人类，或指特定的人品、性格。在表示个体时，有时使用「人」更为自然。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2810,
+  "word" : "人間ドック",
+  "reading" : "にんげんドック",
+  "romaji" : null,
+  "meaning" : [ "短期住院综合体检（通常指为期一天或几天的全面健康检查）" ],
+  "notes" : [ "该词是「人間」和英语\"dock\"（船渠，引申为检修、保养场所）结合而成的和制英语。请注意，这个词指的是一个整体的体检项目，而不是具体的检查设备或场所。常用于公司福利或自费进行的详细体检。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2811,
+  "word" : "人類",
+  "reading" : "じんるい",
+  "romaji" : null,
+  "meaning" : [ "人类，全人类的总称。" ],
+  "notes" : [ "通常指作为一个整体概念的人类，与「人間」（更侧重个体或作为生物的人）在语感上略有区别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2812,
+  "word" : "仄か",
+  "reading" : "ほのか",
+  "romaji" : null,
+  "meaning" : [ "隐约的，模糊的；微弱的；略微的" ],
+  "notes" : [ "通常用于描述光线、声音、记忆、气味、感觉等，表示程度很轻、不清晰。在口语和书面语中均常用。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2813,
+  "word" : "仇",
+  "reading" : "あだ",
+  "romaji" : null,
+  "meaning" : [ "1. 仇敌，敌人；2. 仇恨，怨恨；3. （转）危害，祸害" ],
+  "notes" : [ "1. 作为名词使用，没有动词活用。\n2. 当读音为「あだ」时，主要表示“仇敌、仇恨、祸害”。另有读音「かたき」，但含义和用法略有不同，通常特指复仇对象或仇敌。\n3. 在例句3中，「仇となる」是固定表达，意为“成为祸害/反受其害”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2814,
+  "word" : "今",
+  "reading" : "いま",
+  "romaji" : null,
+  "meaning" : [ "现在，当前，此刻；现今，现代；刚刚，刚才" ],
+  "notes" : [ "作为名词使用，表示时间概念。在口语中常作为副词使用，表示“现在”或“马上”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2815,
+  "word" : "今から",
+  "reading" : "いまから",
+  "romaji" : null,
+  "meaning" : [ "从现在开始，从现在起。" ],
+  "notes" : [ "\"今から\"是一个常用的时间表达，用于表示以当前时间为起点开始某个动作或状态。它由名词\"今\"和格助词\"から\"构成，作为一个整体习语使用。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2816,
+  "word" : "今さら",
+  "reading" : "いまさら",
+  "romaji" : null,
+  "meaning" : [ "现在才；事到如今；事已至此。表示到了现在这个阶段再做某事已经太迟、无用或徒劳。" ],
+  "notes" : [ "常与否定、消极或表示无意义的表达一起使用，强调为时已晚或徒劳无益。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2817,
+  "word" : "今しも",
+  "reading" : "いましも",
+  "romaji" : null,
+  "meaning" : [ "（古语）正好现在，此刻正要" ],
+  "notes" : [ "「今しも」是「今」的强调形式，在现代日语中多用于书面语或较为正式的场合，带有古典语感。通常与「～ようとしている」「～するところだ」等表达即将发生的句型搭配使用。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2818,
+  "word" : "今でも",
+  "reading" : "いまでも",
+  "romaji" : null,
+  "meaning" : [ "至今，现在也，即便是现在" ],
+  "notes" : [ "「でも」在这里表示强调，含有“即便…也…”的语气。常与「今」结合，表示过去的状态或情况持续到现在。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2819,
+  "word" : "今に",
+  "reading" : "いまに",
+  "romaji" : null,
+  "meaning" : [ "至今，直到现在；不久，早晚，总有一天" ],
+  "notes" : [ "表示两种相反的时间概念：1. 从过去持续到现在（至今）；2. 对未来的一种预测或必然性（不久、早晚）。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2820,
+  "word" : "今にして",
+  "reading" : "いまにして",
+  "romaji" : null,
+  "meaning" : [ "直到现在（才…），时至今日（才…），表示经过一段时间后，到了现在这个时间点才发生或意识到某事。常与「思う」、「分かる」、「気づく」等动词搭配，带有感慨、后悔、惊讶等语气。" ],
+  "notes" : [ "「今にして」是一个固定词组，并非单纯的“现在，如今”之意。它强调从过去某个时间点到“现在”这一时间点的推移，并带有“现在才…”的语感。不能与表示单纯“现在”的「今」或「現在」等同使用。在日常对话中不常见，多用于书面语或较为正式的感慨表达。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2821,
+  "word" : "今のうち",
+  "reading" : "いまのうち",
+  "romaji" : null,
+  "meaning" : [ "趁现在，趁着现在（还有机会或时间）" ],
+  "notes" : [ "表示在某个时间点或状态结束之前（去做某事）。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2822,
+  "word" : "今のところ",
+  "reading" : "いまのところ",
+  "romaji" : null,
+  "meaning" : [ "当前，目前，眼下，现阶段" ],
+  "notes" : [ "「今のところ」是常用表达，表示截至现在的状态或情况。在口语中有时会简化为「今のとこ」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2823,
+  "word" : "今まで",
+  "reading" : "いままで",
+  "romaji" : null,
+  "meaning" : [ "至今为止，以前，此前" ],
+  "notes" : [ "作为副词使用，通常与「に」结合构成「今までに」，表示“至今为止”的时间范围。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2824,
+  "word" : "今や",
+  "reading" : "いまや",
+  "romaji" : null,
+  "meaning" : [ "如今，现在已经；现在正是……的时候；眼看就要" ],
+  "notes" : [ "「今や」是由「今」和强调助词「や」构成的副词，用于强调现在这一时间点，带有感叹或断定的语气。通常不用于日常会话，多用于书面语或较正式的场合。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2825,
+  "word" : "今一",
+  "reading" : "いまいち",
+  "romaji" : null,
+  "meaning" : [ "差一点儿，还差一点，不够充分，不太满意" ],
+  "notes" : [ "“今一”是“今一つ”的省略说法，口语中常用。表示某事物或状态离理想或预期还差一点，带有轻微的不满或不够完美的语感。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2826,
+  "word" : "今回",
+  "reading" : "こんかい",
+  "romaji" : null,
+  "meaning" : [ "这次，这回，此次" ],
+  "notes" : [ "表示当前正在谈论的、或刚刚发生/即将发生的事件。与“今度”有相似之处，但“今度”可指“这次”或“下次”，而“今回”仅指“这次”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2827,
+  "word" : "今夜",
+  "reading" : "こんや",
+  "romaji" : null,
+  "meaning" : [ "今晚，今夜" ],
+  "notes" : [ "表示“今天晚上的意思，是一个常用时间名词。也可以作为副词使用，例如‘今夜行きます’（今晚去）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2828,
+  "word" : "今学期",
+  "reading" : "こんがっき",
+  "romaji" : null,
+  "meaning" : [ "本学期，这学期" ],
+  "notes" : [ "「今学期」是一个表示“当前这个学期”的常用名词，通常用于学校或课程相关的语境中。与它相对的词是「前期」（前期/上学期）和「後期」（后期/下学期）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2829,
+  "word" : "今年",
+  "reading" : "ことし",
+  "romaji" : null,
+  "meaning" : [ "今年" ],
+  "notes" : [ "在特定语境或惯用表达中，有时也读作「こんねん」，但「ことし」是最常见且通用的读音。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2830,
+  "word" : "今度",
+  "reading" : "こんど",
+  "romaji" : null,
+  "meaning" : [ "1. 这次，这回（指刚刚发生或即将发生的事） 2. 下次，下回（指未来的某个时间）" ],
+  "notes" : [ "根据上下文，既可指过去或现在的“这次”，也可指未来的“下次”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2831,
+  "word" : "今後",
+  "reading" : "こんご",
+  "romaji" : null,
+  "meaning" : [ "今后，未来，将来" ],
+  "notes" : [ "表示从现在开始往后的时间。多用于正式场合或书面语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2832,
+  "word" : "今日",
+  "reading" : "きょう",
+  "romaji" : null,
+  "meaning" : [ "今天；当代，现代（用于某些固定表达中）" ],
+  "notes" : [ "这是一个常用名词，没有汉字音读（如「こんにち」）的发音形式。在「今日は」作为问候语时，发音是「こんにちは」，这通常被视为一个独立的表达。作为时间名词，它没有形态变化，不能用作动词。在表示“现代、当代”的含义时，多用于复合词或固定表达，如「今日的（きょうてき）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2833,
+  "word" : "今時",
+  "reading" : "いまどき",
+  "romaji" : null,
+  "meaning" : [ "当今，现代；这年头，如今（带有时评或讽刺语气）" ],
+  "notes" : [ "该词常用于表达说话人对当前时代状况的看法或评价，有时带有轻微的惊讶、批判或讽刺语气。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2834,
+  "word" : "今晩",
+  "reading" : "こんばん",
+  "romaji" : null,
+  "meaning" : [ "今天晚上，今晚。指从日落到深夜的这段时间。" ],
+  "notes" : [ "这是一个时间名词，常与助词「は」、「に」等连用，用于表示具体的时间。在礼貌问候语中，也常用「今晩は」作为傍晚或晚上的问候语，相当于中文的“晚上好”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2835,
+  "word" : "今更",
+  "reading" : "いまさら",
+  "romaji" : null,
+  "meaning" : [ "事到如今，事已至此；现在才（做某事）" ],
+  "notes" : [ "通常用于表达事情为时已晚或已无济于事，带有强烈的遗憾、责备或无奈的语气。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2836,
+  "word" : "今月",
+  "reading" : "こんげつ",
+  "romaji" : null,
+  "meaning" : [ "本月，这个月" ],
+  "notes" : [ "表示说话时所在的月份。与「来月（らいげつ）」、「先月（せんげつ）」相对。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2837,
+  "word" : "今朝",
+  "reading" : "けさ",
+  "romaji" : null,
+  "meaning" : [ "今天早晨" ],
+  "notes" : [ "表示“今天早晨”的意思，是时间名词。与表示“今天”的「今日（きょう）」和表示“早晨”的「朝（あさ）」不同，它是一个独立的单词。在口语和书面语中都常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2838,
+  "word" : "今週",
+  "reading" : "こんしゅう",
+  "romaji" : null,
+  "meaning" : [ "这周，本周" ],
+  "notes" : [ "表示从当前时间点算起的一周。与「来週」、「先週」等词构成时间序列。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2839,
+  "word" : "今頃",
+  "reading" : "いまごろ",
+  "romaji" : null,
+  "meaning" : [ "1. 现在，如今，这时候。2. 大概这个时候，左右。" ],
+  "notes" : [ "既可以表示对当前时间点的描述，也可以表示对某个大致时间点的推测。根据语境，有时带有轻微的感叹或惊讶语气。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2840,
+  "word" : "介入",
+  "reading" : "かいにゅう",
+  "romaji" : null,
+  "meaning" : [ "介入，插手，干涉，干预" ],
+  "notes" : [ "通常、外部から割り込んで手を加えることを意味する。名詞としても、サ変動詞としても使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2841,
+  "word" : "介護",
+  "reading" : "かいご",
+  "romaji" : null,
+  "meaning" : [ "护理，看护（特指对老人、病人或残疾人的长期照顾）" ],
+  "notes" : [ "常用组合词：介護保険（かいごほけん）、介護施設（かいごしせつ）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2842,
+  "word" : "仏",
+  "reading" : "ほとけ",
+  "romaji" : null,
+  "meaning" : [ "佛，佛像；死者，亡魂" ],
+  "notes" : [ "1. 作为“佛”或“佛像”之意时，读作「ほとけ」。2. 作为“死者”的委婉说法时，也读作「ほとけ」，但有时会用假名「ほとけ」书写以区分。3. 汉字“仏”是“佛”的日本新字体，在中文中有时也使用。4. 该词不读作「ぶつ」，后者是音读，用于其他复合词（如「仏教（ぶっきょう）」）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2843,
+  "word" : "仏像",
+  "reading" : "ぶつぞう",
+  "romaji" : null,
+  "meaning" : [ "佛像，佛陀的雕像或塑像。通常指作为佛教礼拜对象的佛像。" ],
+  "notes" : [ "“仏”是“仏陀”的简称，因此“仏像”即“佛像”。是日语中非常常用的词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2844,
+  "word" : "仏教",
+  "reading" : "ぶっきょう",
+  "romaji" : null,
+  "meaning" : [ "佛教。由释迦牟尼（佛陀）创立的宗教。" ],
+  "notes" : [ "常用汉字写作「仏教」。「仏」是「佛」的日本新字体。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2845,
+  "word" : "仕える",
+  "reading" : "つかえる",
+  "romaji" : null,
+  "meaning" : [ "（目上の人や神仏などに）仕える。奉仕する。公務に就く。" ],
+  "notes" : [ "「仕える」は主に「目上の人や神仏、国家、公務などに従事し奉仕する」という意味で用いられる。単なる「働く」よりも、奉公や忠誠のニュアンスが強い。漢字表記は「仕える」が一般的だが、文脈によっては「事える」と表記されることもある。自動詞として用いられ、「～に仕える」の形をとる。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2846,
+  "word" : "仕上がり",
+  "reading" : "しあがり",
+  "romaji" : null,
+  "meaning" : [ "1. (工作、料理等的) 完成情况，完成度，最终状态。2. (表面等的) 加工处理后的样子，光洁度。" ],
+  "notes" : [ "该词是动词「仕上がる」的名词形。常用于评价作品、产品、料理等的完成质量或最终呈现的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2847,
+  "word" : "仕上がる",
+  "reading" : "しあがる",
+  "romaji" : null,
+  "meaning" : [ "完成，做完，做好，完工" ],
+  "notes" : [ "自动词。常指经过加工、制作或准备后，某物达到了理想或预期的完成状态。与‘完成する’相比，更侧重于过程的最终结果和呈现出的状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2848,
+  "word" : "仕上げる",
+  "reading" : "しあげる",
+  "romaji" : null,
+  "meaning" : [ "完成，做完，加工到最后阶段" ],
+  "notes" : [ "他动词。表示将工作、物品等完成到最终状态，强调最后阶段的加工或处理。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2849,
+  "word" : "仕事",
+  "reading" : "しごと",
+  "romaji" : null,
+  "meaning" : [ "工作，职业；任务；物理上的功" ],
+  "notes" : [ "1. 作为名词，没有活用变化。2. 在物理学语境中，表示力所做的“功”。3. 是日语中最基础、最常用的表示“工作”的词汇之一。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2850,
+  "word" : "仕入れ",
+  "reading" : "しいれ",
+  "romaji" : null,
+  "meaning" : [ "采购，买进，购买（指为销售或生产而购入商品、原材料等）" ],
+  "notes" : [ "可作为サ变动词「仕入れる」的名词形使用。在商业和日常语境中都很常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2851,
+  "word" : "仕切る",
+  "reading" : "しきる",
+  "romaji" : null,
+  "meaning" : [ "1. 隔开，间隔，区分。2. 掌管，全权处理（某项工作）。" ],
+  "notes" : [ "作为他动词使用。在表示“掌管”含义时，常以「～を仕切る」的形式出现。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2852,
+  "word" : "仕掛け",
+  "reading" : "しかけ",
+  "romaji" : null,
+  "meaning" : [ "【名词】1. 结构，装置，机关。2. 手法，招数，策略。3. 做到一半的状态，未完成品。4. （作为动词「仕掛ける」的连用形）开始做，着手。" ],
+  "notes" : [ "1. 作为独立名词使用时，主要含义为1-3。2. 含义4是动词「仕掛ける」的连用形（ます形去掉「ます」），在句子中通常作为动词的一部分使用，表示“开始做”的动作。3. 该词在N2词汇中较为常见，涵盖了具体和抽象的双重含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2853,
+  "word" : "仕掛ける",
+  "reading" : "しかける",
+  "romaji" : null,
+  "meaning" : [ "1. ～を仕掛ける: 始める、着手する。2. ～を仕掛ける: 挑発する、けんかを売る。3. ～を仕掛ける: 仕組みを設置する、罠などを設ける。4. ～に仕掛ける: ～に対して何らかの行動を始める、働きかける。" ],
+  "notes" : [ "他動詞。語源は「仕（し）＝する」と「掛ける」の複合。類義語には「始める」、「挑発する」、「設置する」などがある。自動詞形は「仕掛かる」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2854,
+  "word" : "仕方",
+  "reading" : "しかた",
+  "romaji" : null,
+  "meaning" : [ "做法，方法，手段；也常用于表达“没有办法”之意，如“仕方がない”。" ],
+  "notes" : [ "“仕方”作为独立的“方法”意思使用时，有时会与“方法（ほうほう）”互换，但语感稍显陈旧或正式。更常见的用法是“仕方がない”，表示“没办法、不得已”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2855,
+  "word" : "仕方がない",
+  "reading" : "しかたがない",
+  "romaji" : null,
+  "meaning" : [ "1. 没办法，无可奈何；2. (以「…て仕方がない」的形式) ……得不得了，……得要命" ],
+  "notes" : [ "「仕方がない」是一个固定表达，表示“没有办法”或“不得已”。当它接在动词て形或形容词て形后（如「～て仕方がない」）时，表示程度非常深，相当于中文的“……得不得了”。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2856,
+  "word" : "仕方ない",
+  "reading" : "しかたない",
+  "romaji" : null,
+  "meaning" : [ "1. 仕方がない。どうしようもない。手の施しようがない。\n2. (諦めの気持ちを表して) 仕方がない。やむを得ない。" ],
+  "notes" : [ "「仕方ない」は「仕方がない」のくだけた言い方です。話し言葉でよく使われます。また、「仕方なく」という副詞形も頻繁に用いられます。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2857,
+  "word" : "仕様",
+  "reading" : "しよう",
+  "romaji" : null,
+  "meaning" : [ "规格，规范；方法，做法" ],
+  "notes" : [ "在商业和技术领域通常指“规格”或“规范”，在一般语境下也可表示“方法”或“做法”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2858,
+  "word" : "仕立てる",
+  "reading" : "したてる",
+  "romaji" : null,
+  "meaning" : [ "1. 縫製，製作（衣服等）。2. 培養，訓練。3. 準備，安排（車輛、船等）。4. 喬裝，假扮。" ],
+  "notes" : [ "常用搭配：服を仕立てる（做衣服）、車を仕立てる（安排车辆）、人を～に仕立てる（把某人乔装成…）。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2859,
+  "word" : "仕組み",
+  "reading" : "しくみ",
+  "romaji" : null,
+  "meaning" : [ "结构，构造；机制，原理；计划，安排" ],
+  "notes" : [ "既可以指物理上的结构、构造，也可以指抽象的系统、机制或计划安排。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2860,
+  "word" : "仕組む",
+  "reading" : "しくむ",
+  "romaji" : null,
+  "meaning" : [ "策划，谋划；构思（故事、计划等）；暗中设置，布置" ],
+  "notes" : [ "既可以用于中性或积极的计划构思，也可以用于消极的阴谋策划。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2861,
+  "word" : "仕返し",
+  "reading" : "しかえし",
+  "romaji" : null,
+  "meaning" : [ "报复，报仇；重新做" ],
+  "notes" : [ "作为名词使用，表示“报复”或“重做”的行为。在表示“重做”时，也常写作“仕返し”或“仕直し”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2862,
+  "word" : "仕送り",
+  "reading" : "しおくり",
+  "romaji" : null,
+  "meaning" : [ "寄钱；寄生活费（给家人或在外地的亲人）" ],
+  "notes" : [ "通常指家庭成员（如父母给孩子或孩子给父母）之间寄送生活费的行为。作为动词使用时，通常以「仕送りをする」的形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2863,
+  "word" : "他",
+  "reading" : "た",
+  "romaji" : null,
+  "meaning" : [ "其他；别人；别的事物" ],
+  "notes" : [ "常用汉字，通常不单独以「外」的形态表示“其他”的含义，此含义时多写作「他」。在表示“其他”时，常与「の」连用，构成「他の」的形式来修饰名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2864,
+  "word" : "他人",
+  "reading" : "たにん",
+  "romaji" : null,
+  "meaning" : [ "1. 他人，别人。与自己没有直接关系或血缘关系的人。2. 外人，局外人。" ],
+  "notes" : [ "在表示“外人”或“关系疏远的人”时，常带有“非自己人”的语感。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2865,
+  "word" : "他人丼",
+  "reading" : "たにんどん",
+  "romaji" : null,
+  "meaning" : [ "(牛)肉と卵を別々に炒めてご飯の上にのせた丼物。名称は「親子丼」をもじったもの。" ],
+  "notes" : [ "「他人丼」の「丼」の読みは「どん」であり、「どんぶり」の略。また、この料理は「親子丼」の鶏肉と卵を「他人」関係の牛（または豚）肉と卵に置き換えた洒落から生まれた料理名である。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2866,
+  "word" : "付きます",
+  "reading" : "つきます",
+  "romaji" : null,
+  "meaning" : [ "附带，附加；附着，粘上；有（某种功能或设备）；点亮（灯等）；决定，谈妥" ],
+  "notes" : [ "「付きます」是动词「付く」的ます形。作为自动词使用，表示某物自然地附着、附带或产生。其对应的他动词是「付ける」。在JLPT考试中，通常作为N4级别词汇出现。读音为平板型（⓪型），即「つきます」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2867,
+  "word" : "付き合い",
+  "reading" : "つきあい",
+  "romaji" : null,
+  "meaning" : [ "1. 交往，交际，来往；2. 陪伴，作陪" ],
+  "notes" : [ "「付き合い」作为名词，是动词「付き合う」的连用形（ます形去掉「ます」）转化而来。在表示“陪伴”的意思时，有时也使用「お付き合い」的形式以表示礼貌。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2868,
+  "word" : "付き合う",
+  "reading" : "つきあう",
+  "romaji" : null,
+  "meaning" : [ "1. 交往，来往，交际\n2. 陪伴，陪同，奉陪" ],
+  "notes" : [ "「付き合う」是五段动词（一类动词），连用形为「付き合い」。它有两个主要含义：一是指人际关系上的交往（如朋友、恋人），二是指具体的陪伴行为。在表示“陪伴”时，有时带有为了对方而抽出时间、甚至有点勉强的语感。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2869,
+  "word" : "付き添う",
+  "reading" : "つきそう",
+  "romaji" : null,
+  "meaning" : [ "陪伴，照料（某人），跟随在（某人）身旁以提供帮助或照看。" ],
+  "notes" : [ "\"付き添う\"是一个及物动词，通常用于表示为了照顾或陪伴某人而跟随其左右。其连用形（て形）为\"付き添って\"，过去式为\"付き添った\"。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2870,
+  "word" : "付き纏う",
+  "reading" : "つきまとう",
+  "romaji" : null,
+  "meaning" : [ "纠缠，缠住；一直跟在身边" ],
+  "notes" : [ "该词多用于描述令人困扰或难以摆脱的纠缠。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2871,
+  "word" : "付く",
+  "reading" : "つく",
+  "romaji" : null,
+  "meaning" : [ "1. 附着，粘上；2. 跟随，伴随；3. 点着，燃起；4. 决定，有结果；5. 生就，带有；6. 就座；7. 偏袒，向着" ],
+  "notes" : [ "这是一个多义动词，含义和用法非常广泛。根据上下文，其具体含义会发生变化。对应的他动词是「付ける」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2872,
+  "word" : "付け",
+  "reading" : "つけ",
+  "romaji" : null,
+  "meaning" : [ "1.（在餐厅、商店等）记账，赊账。2. 账单，赊账单。" ],
+  "notes" : [ "常以「つけで」或「つけにする」的形式使用，表示记账消费。有时也写作「ツケ」。在作为「账单」含义时，与「勘定書（かんじょうしょ）」或「請求書（せいきゅうしょ）」等正式说法相比，是更口语化的表达。作为「账单」含义时，有时也写作「附け」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2873,
+  "word" : "付けます",
+  "reading" : "つけます",
+  "romaji" : null,
+  "meaning" : [ "附加；安装；打开（电器）；涂抹；添加；记下；定价" ],
+  "notes" : [ "「付けます」是动词「付ける」的ます形（礼貌体）。在N5-N4级别中，主要掌握其基本含义和用法。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2874,
+  "word" : "付け加える",
+  "reading" : "つけくわえる",
+  "romaji" : null,
+  "meaning" : [ "补充，添加，附加（在原有事物上再增加新的内容）" ],
+  "notes" : [ "「付加える」とも書く。一段动词，连用形为「付け加え」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2875,
+  "word" : "付属",
+  "reading" : "ふぞく",
+  "romaji" : null,
+  "meaning" : [ "附属，附带，属于" ],
+  "notes" : [ "「付属」与「附属」意思相同，可互换使用，但「付属」在现代日语中更常见。作为名词和サ变动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2876,
+  "word" : "付近",
+  "reading" : "ふきん",
+  "romaji" : null,
+  "meaning" : [ "附近，一带，周边。表示离某处不远的地方。" ],
+  "notes" : [ "通常不用于表示非常近的、紧挨着的位置，那种情况更常用「そば」或「近く」。是书面和口语中都比较常用的词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2877,
+  "word" : "代える",
+  "reading" : "かえる",
+  "romaji" : null,
+  "meaning" : [ "代替，替换，取代" ],
+  "notes" : [ "\"代える\"是及物动词，通常写作假名。其对应的名词形式是\"代わり\"（かわり）。在表示\"代替某人做某事\"时，常用\"～に代わって\"或\"～の代わりに\"的句型。与同音词\"換える\"（交换）、\"変える\"（改变）含义不同，需根据语境区分。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2878,
+  "word" : "代わり",
+  "reading" : "かわり",
+  "romaji" : null,
+  "meaning" : [ "代替，替代；补偿；作为交换" ],
+  "notes" : [ "常用搭配：〜の代わりに (代替…，作为…的交换)。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2879,
+  "word" : "代わりに",
+  "reading" : "かわりに",
+  "romaji" : null,
+  "meaning" : [ "代替，取代；作为交换，作为补偿" ],
+  "notes" : [ "「代わりに」是名词「代わり」与助词「に」结合而成的固定表达，在句中作副词使用，表示替代关系或交换条件。其后项通常是前项导致的结果或补偿。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2880,
+  "word" : "代わる",
+  "reading" : "かわる",
+  "romaji" : null,
+  "meaning" : [ "代替，替换；交替，轮换" ],
+  "notes" : [ "自动词。写作汉字时，表示“代替”之意常用「代わる」，表示“交替、更迭”之意也常用「替わる」或「換わる」。其对应的他动词形式是「代える」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2881,
+  "word" : "代わる/替わる",
+  "reading" : "かわる",
+  "romaji" : null,
+  "meaning" : [ "替换，更换；代替，代理；交替，轮替" ],
+  "notes" : [ "「代わる」和「替わる」在多数情况下可以互换，但侧重点略有不同。「代わる」更强调“代替、代理”（人或角色），而「替わる」更强调“更换、替换”（事物或状态）。在表示“时代更迭”时两者皆可用。自动词，其对应的他动词是「代える/替える」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2882,
+  "word" : "代わる代わる",
+  "reading" : "かわるがわる",
+  "romaji" : null,
+  "meaning" : [ "轮流，依次，交替；一个接一个地" ],
+  "notes" : [ "这是一个副词，由动词「代わる」重复构成，表示动作或状态交替进行。注意其发音会发生浊化（かわるがわる）。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2883,
+  "word" : "代名詞",
+  "reading" : "だいめいし",
+  "romaji" : null,
+  "meaning" : [ "代名词；代词。在语法中，用于代替名词或名词短语的词语。" ],
+  "notes" : [ "词性应修正为「名詞」。该词无活用。在日语语法中，属于独立词中的体言。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2884,
+  "word" : "代弁",
+  "reading" : "だいべん",
+  "romaji" : null,
+  "meaning" : [ "替人偿还；代办；代为辩解，陈述（他人的意见、想法等）" ],
+  "notes" : [ "「代弁する」的形式是サ变动词。作为名词时，主要指“代为陈述（他人的意见、想法等）”这一行为本身。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2885,
+  "word" : "代理",
+  "reading" : "だいり",
+  "romaji" : null,
+  "meaning" : [ "1. 代理，代理人。 2. 代理，代办（的行为）。" ],
+  "notes" : [ "常用搭配：代理で（作为代理）、～の代理をする（代理...）、代理人（代理人）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2886,
+  "word" : "代理人",
+  "reading" : "だいりにん",
+  "romaji" : null,
+  "meaning" : [ "代理人，代理者。指被授权代表他人或组织处理事务的人。" ],
+  "notes" : [ "「代理人」是法律、商业等正式场合常用的词汇。注意与「代行者」的区别，后者更侧重于执行具体任务。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2887,
+  "word" : "代用",
+  "reading" : "だいよう",
+  "romaji" : null,
+  "meaning" : [ "用其他东西代替使用；替代使用" ],
+  "notes" : [ "「代用」本身是名词，但经常与「する」结合构成サ变动词使用。在JLPT考试中，其作为サ变动词的用法更为常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2888,
+  "word" : "代行",
+  "reading" : "だいこう",
+  "romaji" : null,
+  "meaning" : [ "代理执行；代理；代办" ],
+  "notes" : [ "作为サ变动词使用时，其词干为‘代行’，后续‘する’构成动词‘代行する’。通常指代理某人执行其职务、工作或职责。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2889,
+  "word" : "代表",
+  "reading" : "だいひょう",
+  "romaji" : null,
+  "meaning" : [ "代表；代表团；代表性人物或事物。" ],
+  "notes" : [ "可作为サ变动词使用，如「代表する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2890,
+  "word" : "代表的",
+  "reading" : "だいひょうてき",
+  "romaji" : null,
+  "meaning" : [ "有代表性的，典型的。" ],
+  "notes" : [ "作为形容动词使用时，词尾变化遵循「な」或「だ」的活用规则。例如：代表的な（连体形）、代表的だ（终止形）。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2891,
+  "word" : "代金",
+  "reading" : "だいきん",
+  "romaji" : null,
+  "meaning" : [ "货款，价款，费用（指购买商品或服务应支付的金额）" ],
+  "notes" : [ "与\"代価\"、\"料金\"含义相近。\"代金\"通常指购买商品本身的费用；\"料金\"多指服务、使用设施的费用；\"代価\"则更书面化，有时也指为某事付出的代价。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2892,
+  "word" : "以上",
+  "reading" : "いじょう",
+  "romaji" : null,
+  "meaning" : [ "1. 名词：以上，超出。表示在数量、程度、等级等方面超过某个基准。2. 接续词：以上（…），既然…。表示前项是后项的前提或原因，后项多为判断、决心或义务。" ],
+  "notes" : [ "作为名词时，常与助词「の」连用（例：10名以上の参加者）。作为接续词使用时，接在动词、形容词的简体形或“名词+である”之后，表示“既然…就…”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2893,
+  "word" : "以下",
+  "reading" : "いか",
+  "romaji" : null,
+  "meaning" : [ "以下；下述；比…少（低）" ],
+  "notes" : [ "用于表示数量、程度、等级等低于某个基准点，或指接下来要叙述的内容。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2894,
+  "word" : "以前",
+  "reading" : "いぜん",
+  "romaji" : null,
+  "meaning" : [ "以前，之前（表示过去的某个时间点或时间段）" ],
+  "notes" : [ "既可以独立使用，也可以作为接尾词使用，如「三年前以前」。在表示“以前”时，与「前に」相比，常用于表示比当前时间更早的、相对模糊或较长的时间段，而非紧接在某个动作之前。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2895,
+  "word" : "以外",
+  "reading" : "いがい",
+  "romaji" : null,
+  "meaning" : [ "除了…之外，…以外" ],
+  "notes" : [ "通常以「～以外」的形式使用，表示排除或超出某个范围。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2896,
+  "word" : "以後",
+  "reading" : "いご",
+  "romaji" : null,
+  "meaning" : [ "以后，之后；今后；往后" ],
+  "notes" : [ "表示从某个时间点开始往后的时间。常与「～てから」或「～から」搭配使用，表示“…以后”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2897,
+  "word" : "以来",
+  "reading" : "いらい",
+  "romaji" : null,
+  "meaning" : [ "以来，以后。表示从过去的某个时间点开始，持续到现在的状态。" ],
+  "notes" : [ "通常用于表示从过去的某个时间点持续到现在（或说话时）的状态。常以「～以来」的形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2898,
+  "word" : "以降",
+  "reading" : "いこう",
+  "romaji" : null,
+  "meaning" : [ "以后，之后，往后" ],
+  "notes" : [ "表示从某个时间点开始往后。通常用于正式场合或书面语，口语中更多使用「～から」或「～以後（いご）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2899,
+  "word" : "仮",
+  "reading" : "かり",
+  "romaji" : null,
+  "meaning" : [ "临时，暂时；假；假设" ],
+  "notes" : [ "「仮」作为独立单词使用的情况较少，通常作为接头词（如：仮眠、仮定）或复合词的一部分（如：仮名）使用。其独立含义多为书面或固定表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2900,
+  "word" : "仮名遣い",
+  "reading" : "かなづかい",
+  "romaji" : null,
+  "meaning" : [ "假名用法，假名拼写法，假名书写规则。指日语中假名的使用方法，特别是关于历史假名遣与现代假名遣的规则。" ],
+  "notes" : [ "也常写作“かなづかい”。作为术语使用时，有时会与“仮名遣（かなづかひ）”等历史写法混用，但现代标准日语中写作“かなづかい”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

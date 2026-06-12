@@ -1,0 +1,901 @@
+[ {
+  "id" : 10701,
+  "word" : "連帯",
+  "reading" : "れんたい",
+  "romaji" : null,
+  "meaning" : [ "联合，合作；（法律上）连带，共同负责；连带关系，一体感" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10702,
+  "word" : "連想",
+  "reading" : "れんそう",
+  "romaji" : null,
+  "meaning" : [ "由一事物而想起与之有关事物的思想活动；联想。" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10703,
+  "word" : "連想する",
+  "reading" : "れんそうする",
+  "romaji" : null,
+  "meaning" : [ "联想；想象；想起" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10704,
+  "word" : "連日",
+  "reading" : "れんじつ",
+  "romaji" : null,
+  "meaning" : [ "接连几天，连日，天天" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10705,
+  "word" : "連盟",
+  "reading" : "れんめい",
+  "romaji" : null,
+  "meaning" : [ "联盟，联合会" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10706,
+  "word" : "連絡",
+  "reading" : "れんらく",
+  "romaji" : null,
+  "meaning" : [ "联络，联系；通知，通报" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10707,
+  "word" : "連続",
+  "reading" : "れんぞく",
+  "romaji" : null,
+  "meaning" : [ "连续，接连不断；连贯，相连" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10708,
+  "word" : "逮捕",
+  "reading" : "たいほ",
+  "romaji" : null,
+  "meaning" : [ "司法機関が、犯罪の疑いのある人を拘束すること。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10709,
+  "word" : "週休二日制",
+  "reading" : "しゅうきゅうふつかせい",
+  "romaji" : null,
+  "meaning" : [ "每周休息两天的制度，即双休日制度" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10710,
+  "word" : "週刊誌",
+  "reading" : "しゅうかんし",
+  "romaji" : null,
+  "meaning" : [ "周刊杂志" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10711,
+  "word" : "週明け",
+  "reading" : "しゅうあけ",
+  "romaji" : null,
+  "meaning" : [ "一周结束后的次日，通常指周一" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10712,
+  "word" : "週末",
+  "reading" : "しゅうまつ",
+  "romaji" : null,
+  "meaning" : [ "一周的最后两天，即星期六和星期日。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10713,
+  "word" : "週間",
+  "reading" : "しゅうかん",
+  "romaji" : null,
+  "meaning" : [ "一周，一星期；周（时间单位）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10714,
+  "word" : "進み",
+  "reading" : "すすみ",
+  "romaji" : null,
+  "meaning" : [ "1. 前进；进展  2. 进步；进度  3. （时间、年龄等的）推移，流逝" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10715,
+  "word" : "進みます",
+  "reading" : "すすみます",
+  "romaji" : null,
+  "meaning" : [ "前进，进展；进步，提高；（时间等）流逝；推进，推动；涨价等" ],
+  "notes" : [ "原形为“進む”。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10716,
+  "word" : "進む",
+  "reading" : "すすむ",
+  "romaji" : null,
+  "meaning" : [ "前进；行进；进展；进步；发展；前往；推进；晋升；上涨；（时间等）流逝" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10717,
+  "word" : "進めます",
+  "reading" : "すすめます",
+  "romaji" : null,
+  "meaning" : [ "推进，使前进；使发展；进行；使（时间等）流逝；催促，促使" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10718,
+  "word" : "進める",
+  "reading" : "すすめる",
+  "romaji" : null,
+  "meaning" : [ "使⋯⋯前进；推进，促进；使（工作等）进展；推动；推荐，推举；使（某人）晋升；演奏（乐曲等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10719,
+  "word" : "進んで",
+  "reading" : "すすんで",
+  "romaji" : null,
+  "meaning" : [ "主动地，积极地，自愿地" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10720,
+  "word" : "進出",
+  "reading" : "しんしゅつ",
+  "romaji" : null,
+  "meaning" : [ "进入，打入；（企业等）向新领域、新市场等拓展，进军" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10721,
+  "word" : "進化",
+  "reading" : "しんか",
+  "romaji" : null,
+  "meaning" : [ "（生物の種や個体が、環境の変化に対応しながら、時間の経過とともに徐々に形態や機能などを変えていくこと。また、その結果生じた状態。）进化；（事物がだんだんと発展して、より高度な状態になること。）发展，演变" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10722,
+  "word" : "進呈",
+  "reading" : "しんてい",
+  "romaji" : null,
+  "meaning" : [ "恭敬地赠送、奉献（给上位者等）；进献" ],
+  "notes" : [ "一般用于向地位高的人或长辈等赠送物品、献上报告等较为正式恭敬的场合" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10723,
+  "word" : "進学",
+  "reading" : "しんがく",
+  "romaji" : null,
+  "meaning" : [ "升入更高一级的学校继续学习，通常指从中学升入大学等情况" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10724,
+  "word" : "進学する",
+  "reading" : "しんがくする",
+  "romaji" : null,
+  "meaning" : [ "升学；进学校读书" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10725,
+  "word" : "進捗",
+  "reading" : "しんぽ",
+  "romaji" : null,
+  "meaning" : [ "（工作、学习等的）进展，进度" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10726,
+  "word" : "進歩",
+  "reading" : "しんぽ",
+  "romaji" : null,
+  "meaning" : [ "进步；长进；提高" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10727,
+  "word" : "進行",
+  "reading" : "しんこう",
+  "romaji" : null,
+  "meaning" : [ "1. 向前行进，前进；2. （事情等）发展，进展，进行；3. （病情等）恶化，加剧" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10728,
+  "word" : "進路",
+  "reading" : "しんろ",
+  "romaji" : null,
+  "meaning" : [ "1. 前进的道路；2. 去向，发展方向；3. （升学、就业等的）出路，途径" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10729,
+  "word" : "逸らす",
+  "reading" : "そらす",
+  "romaji" : null,
+  "meaning" : [ "1. 转移（视线、目光等）；2. 岔开（话题）；3. 错过（机会等）；4. 使偏离，使偏斜" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10730,
+  "word" : "逸れる",
+  "reading" : "それる",
+  "romaji" : null,
+  "meaning" : [ "偏离，错开；脱离，离开（既定的路线、方向、范围等）；走样，变形；出众，超群" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10731,
+  "word" : "逸材",
+  "reading" : "いつざい",
+  "romaji" : null,
+  "meaning" : [ "卓越的人才；出众的才能。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10732,
+  "word" : "遂げる",
+  "reading" : "とげる",
+  "romaji" : null,
+  "meaning" : [ "完成，做完（工作、任务等）；实现（愿望、目标等）；达到（某种状态、程度等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10733,
+  "word" : "遂行",
+  "reading" : "すいこう",
+  "romaji" : null,
+  "meaning" : [ "执行，实行，贯彻；完成" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10734,
+  "word" : "遅い",
+  "reading" : "おそい",
+  "romaji" : null,
+  "meaning" : [ "（速度）慢的；（时间）晚的；迟缓的；晚于规定时间的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10735,
+  "word" : "遅くとも",
+  "reading" : "おそくとも",
+  "romaji" : null,
+  "meaning" : [ "最晚，最迟；至少" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10736,
+  "word" : "遅らす",
+  "reading" : "おくらす",
+  "romaji" : null,
+  "meaning" : [ "使……延迟；推迟，拖延" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10737,
+  "word" : "遅らせる",
+  "reading" : "おくらせる",
+  "romaji" : null,
+  "meaning" : [ "使延迟；使推迟；使拖后" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10738,
+  "word" : "遅れ",
+  "reading" : "おくれ",
+  "romaji" : null,
+  "meaning" : [ "1. 迟缓，延迟；2. 迟到；3. 落后，差距" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10739,
+  "word" : "遅れます",
+  "reading" : "おくれます",
+  "romaji" : null,
+  "meaning" : [ "迟到；延迟；晚，慢" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10740,
+  "word" : "遅れる",
+  "reading" : "おくれる",
+  "romaji" : null,
+  "meaning" : [ "迟到；晚；慢；落后；延误；进展慢" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10741,
+  "word" : "遅刻",
+  "reading" : "ちこく",
+  "romaji" : null,
+  "meaning" : [ "迟到；晚点" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10742,
+  "word" : "遅延",
+  "reading" : "ちえん",
+  "romaji" : null,
+  "meaning" : [ "延迟，拖延；误点" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10743,
+  "word" : "遅番",
+  "reading" : "おそばん",
+  "romaji" : null,
+  "meaning" : [ "晚班；晚班的人" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10744,
+  "word" : "遊びます",
+  "reading" : "あそびます",
+  "romaji" : null,
+  "meaning" : [ "玩，玩耍；游乐；消遣" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10745,
+  "word" : "遊ぶ",
+  "reading" : "あそぶ",
+  "romaji" : null,
+  "meaning" : [ "玩耍；游玩；嬉戏；消遣；游乐；摆弄" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10746,
+  "word" : "遊園地",
+  "reading" : "ゆうえんち",
+  "romaji" : null,
+  "meaning" : [ "游乐园，游乐场" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10747,
+  "word" : "遊戯",
+  "reading" : "ゆうぎ",
+  "romaji" : null,
+  "meaning" : [ "玩耍，游戏；消遣，娱乐" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10748,
+  "word" : "遊牧",
+  "reading" : "ゆうぼく",
+  "romaji" : null,
+  "meaning" : [ "游牧；逐水草而居的放牧生活" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10749,
+  "word" : "遊興",
+  "reading" : "ゆうこう",
+  "romaji" : null,
+  "meaning" : [ "游玩，作乐；娱乐活动" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10750,
+  "word" : "運び",
+  "reading" : "はこび",
+  "romaji" : null,
+  "meaning" : [ "搬运；搬运的东西；进展情况，进度；阶段" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10751,
+  "word" : "運びます",
+  "reading" : "はこびます",
+  "romaji" : null,
+  "meaning" : [ "搬运，运送；携带，搬运（物品等）" ],
+  "notes" : [ "原形为「運ぶ」，「運びます」是其ます形" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10752,
+  "word" : "運ぶ",
+  "reading" : "はこぶ",
+  "romaji" : null,
+  "meaning" : [ "搬运；运送；携带；传播；推进；（棒球等）使跑垒员进垒" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10753,
+  "word" : "運休",
+  "reading" : "うんきゅう",
+  "romaji" : null,
+  "meaning" : [ "（交通工具等因各种原因）停止运行、停运" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10754,
+  "word" : "運動",
+  "reading" : "うんどう",
+  "romaji" : null,
+  "meaning" : [ "体育运动；活动，运转" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10755,
+  "word" : "運動会",
+  "reading" : "うんどうかい",
+  "romaji" : null,
+  "meaning" : [ "运动会" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10756,
+  "word" : "運動能力",
+  "reading" : "うんどうのうりょく",
+  "romaji" : null,
+  "meaning" : [ "运动能力，体能" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10757,
+  "word" : "運動する",
+  "reading" : "うんどうする",
+  "romaji" : null,
+  "meaning" : [ "进行运动；做运动" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10758,
+  "word" : "運命",
+  "reading" : "うんめい",
+  "romaji" : null,
+  "meaning" : [ "命运；宿命；天数" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10759,
+  "word" : "運営",
+  "reading" : "うんえい",
+  "romaji" : null,
+  "meaning" : [ "运营；经营；管理；运作" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10760,
+  "word" : "運搬",
+  "reading" : "うんぱん",
+  "romaji" : null,
+  "meaning" : [ "搬运，运输" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10761,
+  "word" : "運河",
+  "reading" : "うんが",
+  "romaji" : null,
+  "meaning" : [ "人工的に掘られた、水を通す河川。运河。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10762,
+  "word" : "運用",
+  "reading" : "うんよう",
+  "romaji" : null,
+  "meaning" : [ "运用，应用；操作，使用" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10763,
+  "word" : "運行",
+  "reading" : "うんこう",
+  "romaji" : null,
+  "meaning" : [ "（列车、汽车等的）运行；（机械等的）运转、操作；（事业等的）运营、实施" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10764,
+  "word" : "運賃",
+  "reading" : "うんちん",
+  "romaji" : null,
+  "meaning" : [ "运费；车费" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10765,
+  "word" : "運転",
+  "reading" : "うんてん",
+  "romaji" : null,
+  "meaning" : [ "驾驶；操纵，操控；运营，经营" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10766,
+  "word" : "運転します",
+  "reading" : "うんてんします",
+  "romaji" : null,
+  "meaning" : [ "驾驶；开车；操纵" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10767,
+  "word" : "運転免許",
+  "reading" : "うんてんめんきょ",
+  "romaji" : null,
+  "meaning" : [ "驾驶证，驾驶执照" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10768,
+  "word" : "運転手",
+  "reading" : "うんてんしゅ",
+  "romaji" : null,
+  "meaning" : [ "驾驶员，司机" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10769,
+  "word" : "運送",
+  "reading" : "うんそう",
+  "romaji" : null,
+  "meaning" : [ "运送，运输" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10770,
+  "word" : "遍在",
+  "reading" : "へんざい",
+  "romaji" : null,
+  "meaning" : [ "普遍存在，遍及" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10771,
+  "word" : "過ぎます",
+  "reading" : "すぎます",
+  "romaji" : null,
+  "meaning" : [ "①（时间、季节等）经过，过去；②（程度、数量等）超过，超出；③走过，越过" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10772,
+  "word" : "過ぎる",
+  "reading" : "すぎる",
+  "romaji" : null,
+  "meaning" : [ "1. （时间）流逝；2. 经过，走过；3. 超过，超出；4. 过度，过分" ],
+  "notes" : [ "「過ぎる」还可作为补助动词使用，如「歩き過ぎる」（走得过多）" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10773,
+  "word" : "過ごします",
+  "reading" : "すごします",
+  "romaji" : null,
+  "meaning" : [ "度过；生活；打发（时间）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10774,
+  "word" : "過ごす",
+  "reading" : "すごす",
+  "romaji" : null,
+  "meaning" : [ "度过；生活；打发（时间）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10775,
+  "word" : "過ち",
+  "reading" : "あやまち",
+  "romaji" : null,
+  "meaning" : [ "错误，过失；罪行，罪孽" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10776,
+  "word" : "過保護",
+  "reading" : "かほご",
+  "romaji" : null,
+  "meaning" : [ "过度保护；对孩子等过于娇惯呵护" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10777,
+  "word" : "過信",
+  "reading" : "かしん",
+  "romaji" : null,
+  "meaning" : [ "过度相信，过分信赖" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10778,
+  "word" : "過剰",
+  "reading" : "かじょう",
+  "romaji" : null,
+  "meaning" : [ "过剩，过多；过度" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10779,
+  "word" : "過剰生産",
+  "reading" : "かじょうせいさん",
+  "romaji" : null,
+  "meaning" : [ "生产过剩，指生产的产品数量超过了市场的需求数量" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10780,
+  "word" : "過労",
+  "reading" : "かろう",
+  "romaji" : null,
+  "meaning" : [ "过度劳累，疲劳过度" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10781,
+  "word" : "過半数",
+  "reading" : "かはんすう",
+  "romaji" : null,
+  "meaning" : [ "超过半数，过半" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10782,
+  "word" : "過去",
+  "reading" : "かこ",
+  "romaji" : null,
+  "meaning" : [ "过去；（佛教）前世" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10783,
+  "word" : "過大",
+  "reading" : "かだい",
+  "romaji" : null,
+  "meaning" : [ "过大，过大的，过大程度的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10784,
+  "word" : "過失",
+  "reading" : "かしつ",
+  "romaji" : null,
+  "meaning" : [ "过失，过错；失误" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10785,
+  "word" : "過敏",
+  "reading" : "かびん",
+  "romaji" : null,
+  "meaning" : [ "1. 过敏；2. 过于敏感，神经质" ],
+  "notes" : [ "形容動詞的词尾变化遵循形容動詞的规则，如：過敏だ（原形）、過敏です（敬体）、過敏で（中顿）、過敏な（修饰名词）等" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10786,
+  "word" : "過激",
+  "reading" : "かげき",
+  "romaji" : null,
+  "meaning" : [ "过激；极端；过分" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10787,
+  "word" : "過疎",
+  "reading" : "かそ",
+  "romaji" : null,
+  "meaning" : [ "人口稀少，人口过疏（地区人口数量过少，导致社会、经济等方面发展受到影响的现象）" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10788,
+  "word" : "過程",
+  "reading" : "かてい",
+  "romaji" : null,
+  "meaning" : [ "事物发展所经过的程序、阶段；事情进行或事物发展所经过的程序" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10789,
+  "word" : "過言",
+  "reading" : "かごん",
+  "romaji" : null,
+  "meaning" : [ "夸大的话，夸张，言过其实" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10790,
+  "word" : "道",
+  "reading" : "みち",
+  "romaji" : null,
+  "meaning" : [ "道路；路程，行程；方法，手段；道理，事理；（思想、宗教等的）教义，主张；（事物发展的）趋向，动向；（某一专业、技艺的）领域，门类" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10791,
+  "word" : "道具",
+  "reading" : "どうぐ",
+  "romaji" : null,
+  "meaning" : [ "1. 工具，用具，器具。2. （戏剧、电影等的）道具。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10792,
+  "word" : "道幅",
+  "reading" : "みちはば",
+  "romaji" : null,
+  "meaning" : [ "道路的宽度" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10793,
+  "word" : "道徳",
+  "reading" : "どうとく",
+  "romaji" : null,
+  "meaning" : [ "社会やグループが定める行動規範や倫理的な基準。善と悪の区別や、正しい行いを指す概念。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10794,
+  "word" : "道理",
+  "reading" : "どうり",
+  "romaji" : null,
+  "meaning" : [ "1. 道理；事理；情理。2. 规矩；道理；说法。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10795,
+  "word" : "道理で",
+  "reading" : "どうりで",
+  "romaji" : null,
+  "meaning" : [ "怪不得，难怪；理所当然，自然" ],
+  "notes" : [ "" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10796,
+  "word" : "道程",
+  "reading" : "どうてい",
+  "romaji" : null,
+  "meaning" : [ "路程，路途，行程；途程，过程" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10797,
+  "word" : "道端",
+  "reading" : "みちばた",
+  "romaji" : null,
+  "meaning" : [ "道路的旁边；路边，路旁" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10798,
+  "word" : "道路",
+  "reading" : "どうろ",
+  "romaji" : null,
+  "meaning" : [ "供人马车辆通行的路；公路。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10799,
+  "word" : "道路工事",
+  "reading" : "どうろこうじ",
+  "romaji" : null,
+  "meaning" : [ "道路施工；道路工程" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10800,
+  "word" : "道連れ",
+  "reading" : "みちづれ",
+  "romaji" : null,
+  "meaning" : [ "旅伴，同行者" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

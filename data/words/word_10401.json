@@ -1,0 +1,901 @@
+[ {
+  "id" : 10401,
+  "word" : "越す",
+  "reading" : "こす",
+  "romaji" : null,
+  "meaning" : [ "1. 越过，跨过；2. 超过，胜过；3. 度过，熬过" ],
+  "notes" : [ "五段动词，词尾「す」在变形时需按五段动词规则变化" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10402,
+  "word" : "越劇",
+  "reading" : "えつげき",
+  "romaji" : null,
+  "meaning" : [ "中国の地方劇の一つ。浙江省の紹興地方を中心に行われる。女性が男役を演じることが特徴の一つ。" ],
+  "notes" : [ "中国の伝統芸能の一つで、主に女性役者が主演することが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10403,
+  "word" : "趙",
+  "reading" : "ちょう",
+  "romaji" : null,
+  "meaning" : [ "名词，姓氏，中文姓氏“赵”的日语写法" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10404,
+  "word" : "趣",
+  "reading" : "しゅ",
+  "romaji" : null,
+  "meaning" : [ "一、要点，主要内容；二、情趣，风趣；三、韵味；四、（事物的）情况、样子" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10405,
+  "word" : "趣味",
+  "reading" : "しゅみ",
+  "romaji" : null,
+  "meaning" : [ "爱好，喜好；乐趣，情趣" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10406,
+  "word" : "趣旨",
+  "reading" : "しゅし",
+  "romaji" : null,
+  "meaning" : [ "宗旨；主旨；意图；大意" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10407,
+  "word" : "足",
+  "reading" : "あし",
+  "romaji" : null,
+  "meaning" : [ "脚；腿；脚步；器物的腿儿；（衣物的）边儿，口儿；（长度单位）尺" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10408,
+  "word" : "足し算",
+  "reading" : "たしざん",
+  "romaji" : null,
+  "meaning" : [ "（数学）加法" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10409,
+  "word" : "足す",
+  "reading" : "たす",
+  "romaji" : null,
+  "meaning" : [ "1. 添加；增添。2. （数学运算）加；加上。" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10410,
+  "word" : "足りない",
+  "reading" : "たりない",
+  "romaji" : null,
+  "meaning" : [ "不足，不够；短缺" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10411,
+  "word" : "足ります",
+  "reading" : "たります",
+  "romaji" : null,
+  "meaning" : [ "足够；够；有（一定数量、程度等）" ],
+  "notes" : [ "「足りる」是五段动词，但活用比较特殊，比如ます形是「足ります」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10412,
+  "word" : "足りる",
+  "reading" : "たりる",
+  "romaji" : null,
+  "meaning" : [ "足够；够；值得；有价值" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10413,
+  "word" : "足る",
+  "reading" : "たる",
+  "romaji" : null,
+  "meaning" : [ "1. 足够，够；2. 值得，有价值；3. 可以，行得通；4. 满足，知足" ],
+  "notes" : [ "「足る」在现代日语中，活用形式有时会出现口语化的变形，如「足った」是「足った」的口语形式。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10414,
+  "word" : "足を伸ばす",
+  "reading" : "あしをのばす",
+  "romaji" : null,
+  "meaning" : [ "1. 伸展腿，伸直腿；2. 去，到，前往；3. 扩大（活动范围等），拓展" ],
+  "notes" : [ "" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10415,
+  "word" : "足を運ぶ",
+  "reading" : "あしをはこぶ",
+  "romaji" : null,
+  "meaning" : [ "前往，前去；特意去，特意前往" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10416,
+  "word" : "足元",
+  "reading" : "あしもと",
+  "romaji" : null,
+  "meaning" : [ "1. 脚边，脚下；2. 脚底" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10417,
+  "word" : "足元/足下",
+  "reading" : "あしもと",
+  "romaji" : null,
+  "meaning" : [ "脚下，脚边；身边；脚步；（物体的）底部、下端" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10418,
+  "word" : "足取り",
+  "reading" : "あしどり",
+  "romaji" : null,
+  "meaning" : [ "脚步，步伐；走路的样子；踪迹" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10419,
+  "word" : "足固め",
+  "reading" : "あしがため",
+  "romaji" : null,
+  "meaning" : [ "① （建筑等的）基础加固；② 打好基础，做好准备" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10420,
+  "word" : "足場",
+  "reading" : "あしば",
+  "romaji" : null,
+  "meaning" : [ "1. 脚手架；2. 立脚点，立足点；3. 基础；4. （交通等的）方便条件" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10421,
+  "word" : "足掛かり",
+  "reading" : "あしがかり",
+  "romaji" : null,
+  "meaning" : [ "1. 立足点，支点；2. 依靠，凭借；3. 线索，头绪。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10422,
+  "word" : "足腰",
+  "reading" : "あしこし",
+  "romaji" : null,
+  "meaning" : [ "腰腿；腿脚" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10423,
+  "word" : "足袋",
+  "reading" : "たび",
+  "romaji" : null,
+  "meaning" : [ "日式分趾短布袜（一种日本传统的足部穿着物，多与和服、草履等搭配，脚趾处分开）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10424,
+  "word" : "足跡",
+  "reading" : "あしあと",
+  "romaji" : null,
+  "meaning" : [ "1. 足迹，脚印；2. 业绩，成就；3. （人生等的）经历，历程" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10425,
+  "word" : "足踏み",
+  "reading" : "あしぶみ",
+  "romaji" : null,
+  "meaning" : [ "1. 踏步；原地踏步。2. 停顿，停滞不前；没有进展。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10426,
+  "word" : "足音",
+  "reading" : "あしおと",
+  "romaji" : null,
+  "meaning" : [ "脚步声；走路的声音" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10427,
+  "word" : "距離",
+  "reading" : "きょり",
+  "romaji" : null,
+  "meaning" : [ "两点或两个物体之间在空间或时间上的间隔长度；差距" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10428,
+  "word" : "跡",
+  "reading" : "あと",
+  "romaji" : null,
+  "meaning" : [ "1. 痕迹；2. 迹象；3. 行踪；4. 遗迹；5. 旧址；6. （某事物留下的）印记" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10429,
+  "word" : "跡継ぎ",
+  "reading" : "あとつぎ",
+  "romaji" : null,
+  "meaning" : [ "接班人，继承者；后嗣" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10430,
+  "word" : "跨ぐ",
+  "reading" : "またぐ",
+  "romaji" : null,
+  "meaning" : [ "1. 跨过，跨越。（両足を広げて、物の上や間にかかるようにする。）2. 横跨，跨越（时间、领域等）。（広い範囲をまたがる。）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10431,
+  "word" : "跨る",
+  "reading" : "またがる",
+  "romaji" : null,
+  "meaning" : [ "1. 骑（在……上）；乘。2. 横跨，跨越（空间、时间等）。3. （两腿分开）跨立，跨坐。4. 拖延，持续（一段时间）。" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10432,
+  "word" : "路地",
+  "reading" : "ろじ",
+  "romaji" : null,
+  "meaning" : [ "小巷，胡同；（围棋等棋盘上的）空白处" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10433,
+  "word" : "路線",
+  "reading" : "ろせん0",
+  "romaji" : null,
+  "meaning" : [ "1. （交通等的）路线，线路。2. （政治、思想等的）方针，路线。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10434,
+  "word" : "跳ねる",
+  "reading" : "はねる",
+  "romaji" : null,
+  "meaning" : [ "1. 跳，跳起；2.（液体等）飞溅；3. 反弹，弹回；4. （价格等）暴涨，猛涨；5. （情绪等）激动，冲动" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10435,
+  "word" : "跳ぶ",
+  "reading" : "とぶ",
+  "romaji" : null,
+  "meaning" : [ "跳；蹦；飞跃；飞跑；越过，跳过；（物价等）飞涨；（工作等）调动" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10436,
+  "word" : "踊ります",
+  "reading" : "おどります",
+  "romaji" : null,
+  "meaning" : [ "跳舞；舞蹈；（物体等）晃动、跳动" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10437,
+  "word" : "踊る",
+  "reading" : "おどる",
+  "romaji" : null,
+  "meaning" : [ "跳舞；活跃，活跃地动" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10438,
+  "word" : "踏まえる",
+  "reading" : "ふまえる",
+  "romaji" : null,
+  "meaning" : [ "1. 踩，踏；2. 根据，以…为基础，立足于；3. 事先考虑，预先估计" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10439,
+  "word" : "踏みます",
+  "reading" : "ふみます",
+  "romaji" : null,
+  "meaning" : [ "踩，踏；走在（某表面上）；涉足，参与" ],
+  "notes" : [ "原形为「踏む」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10440,
+  "word" : "踏み切り",
+  "reading" : "ふみきり",
+  "romaji" : null,
+  "meaning" : [ "（铁路、公路等的）道口；（需要）跨越的地方，（需要）闯过的地方" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10441,
+  "word" : "踏み切る",
+  "reading" : "ふみきる",
+  "romaji" : null,
+  "meaning" : [ "1. 下定决心，毅然决然地做；2. （跑步等时）起跳；3. （火车等）通过平交道口；4. 踩破，踏穿" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10442,
+  "word" : "踏み込む",
+  "reading" : "ふみこむ",
+  "romaji" : null,
+  "meaning" : [ "1. 踩进去，踏入；2. 深入，深入研究、探讨等；3. 闯进，擅自进入；4. 用力踩；5. 投入（金钱、时间等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10443,
+  "word" : "踏む",
+  "reading" : "ふむ",
+  "romaji" : null,
+  "meaning" : [ "踏，踩；踏上，登上；（钟表等）走动；履行，实行；（电车等）通过；涉及，触及" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10444,
+  "word" : "踵",
+  "reading" : "かかと",
+  "romaji" : null,
+  "meaning" : [ "脚后跟；鞋后跟" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10445,
+  "word" : "蹴る",
+  "reading" : "ける",
+  "romaji" : null,
+  "meaning" : [ "踢；踩；踏；拒绝，驳回" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10446,
+  "word" : "蹴飛ばす",
+  "reading" : "けとばす",
+  "romaji" : null,
+  "meaning" : [ "1. 踢开，踢飞；2. 拒绝，否决" ],
+  "notes" : [ "「蹴る」と「飛ばす」が結合した語です。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10447,
+  "word" : "躊躇う",
+  "reading" : "ためらう",
+  "romaji" : null,
+  "meaning" : [ "踌躇；犹豫；迟疑；顾虑" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10448,
+  "word" : "身",
+  "reading" : "み",
+  "romaji" : null,
+  "meaning" : [ "身体；自身，自己；身份；身孕；身材；切身的事情；立场，处境" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10449,
+  "word" : "身ごなし",
+  "reading" : "みごなし",
+  "romaji" : null,
+  "meaning" : [ "举止，动作，姿态" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10450,
+  "word" : "身なり",
+  "reading" : "みなり",
+  "romaji" : null,
+  "meaning" : [ "服饰，装束，打扮；外表形象，仪态" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10451,
+  "word" : "身の上",
+  "reading" : "みのうえ",
+  "romaji" : null,
+  "meaning" : [ "境遇，身世；个人的情况、处境；命运" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10452,
+  "word" : "身の回り",
+  "reading" : "みのまわり",
+  "romaji" : null,
+  "meaning" : [ "身边的事物；日常生活用品，随身物品；日常生活" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10453,
+  "word" : "身体",
+  "reading" : "からだ",
+  "romaji" : null,
+  "meaning" : [ "人的肉体；身躯。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10454,
+  "word" : "身元",
+  "reading" : "みもと",
+  "romaji" : null,
+  "meaning" : [ "出身，来历；身世；本人身份（用于保证或证明身份等情况）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10455,
+  "word" : "身内",
+  "reading" : "みうち",
+  "romaji" : null,
+  "meaning" : [ "1. 全身，浑身；2. 亲属；3. 自家人" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10456,
+  "word" : "身振り",
+  "reading" : "みぶり",
+  "romaji" : null,
+  "meaning" : [ "身体的动作、姿势；手势" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10457,
+  "word" : "身柄",
+  "reading" : "みがら",
+  "romaji" : null,
+  "meaning" : [ "1. 身体，身躯。2. 自身，本人。3. 人身自由（常与“拘束”“解放”等词搭配）。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10458,
+  "word" : "身近",
+  "reading" : "みぢか",
+  "romaji" : null,
+  "meaning" : [ "身边；切身；贴近生活的，常见的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10459,
+  "word" : "身長",
+  "reading" : "しんちょう",
+  "romaji" : null,
+  "meaning" : [ "身高，身长" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10460,
+  "word" : "躾",
+  "reading" : "しつけ",
+  "romaji" : null,
+  "meaning" : [ "1. 教养，教育；2. 管教；3. 规矩，礼貌；4. 训练，驯育" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10461,
+  "word" : "車",
+  "reading" : "くるま",
+  "romaji" : null,
+  "meaning" : [ "车，汽车；（各种带轮子的）车辆；自行车；（象棋中的）飞车" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10462,
+  "word" : "車庫",
+  "reading" : "しゃこ",
+  "romaji" : null,
+  "meaning" : [ "车库；飞机库" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10463,
+  "word" : "車掌",
+  "reading" : "しゃしょう",
+  "romaji" : null,
+  "meaning" : [ "乘务员，列车员；（公共汽车、电车等的）售票员" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10464,
+  "word" : "車輪",
+  "reading" : "くるまわ",
+  "romaji" : null,
+  "meaning" : [ "车轮；轱辘" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10465,
+  "word" : "車道",
+  "reading" : "しゃどう",
+  "romaji" : null,
+  "meaning" : [ "车道，车行道；马路，公路" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10466,
+  "word" : "軋む",
+  "reading" : "きしむ",
+  "romaji" : null,
+  "meaning" : [ "嘎吱嘎吱作响；互相摩擦发出刺耳的声音；（关系等）不融洽，有矛盾" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10467,
+  "word" : "軌道",
+  "reading" : "きどう",
+  "romaji" : null,
+  "meaning" : [ "1. 天体、人造衛星等が空中を通る道。 2. 車や列車が走る道。 3. 物事が進む方向や道筋。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10468,
+  "word" : "軍事",
+  "reading" : "ぐんじ",
+  "romaji" : null,
+  "meaning" : [ "与战争、军队等有关的事务、活动等，包括战争准备、作战指挥、军事训练等方面" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10469,
+  "word" : "軍備",
+  "reading" : "ぐんび",
+  "romaji" : null,
+  "meaning" : [ "军备，军事装备" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10470,
+  "word" : "軒",
+  "reading" : "のき",
+  "romaji" : null,
+  "meaning" : [ "1. 房檐；2. 房屋；3. 店铺；4. （店铺等的）家数，户数" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10471,
+  "word" : "軒並み",
+  "reading" : "のきなみ",
+  "romaji" : null,
+  "meaning" : [ "1. 屋檐鳞次栉比的样子；2. 家家户户；3. 全体，一律，无例外地" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10472,
+  "word" : "転々",
+  "reading" : "てんてん",
+  "romaji" : null,
+  "meaning" : [ "辗转；翻来覆去，辗转反侧；到处转移，漂泊不定" ],
+  "notes" : [ "「転々と」的形式较为常见，用于修饰动词等。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10473,
+  "word" : "転がす",
+  "reading" : "ころがす",
+  "romaji" : null,
+  "meaning" : [ "1. 使滚动，使转动；2. 弄倒，推倒；3. 推进（事物），使进展；4. 四处乱扔，乱放" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10474,
+  "word" : "転がる",
+  "reading" : "ころがる",
+  "romaji" : null,
+  "meaning" : [ "1. 滚动，滚来滚去；2. （人等）跌倒，倒下；3. （东西）被弄倒，被碰倒；4. （事情等）进展，进行；5. （谣言等）传播，流传" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10475,
+  "word" : "転じる",
+  "reading" : "てんじる",
+  "romaji" : null,
+  "meaning" : [ "改变，转换；迁居；转移；转任；转行；翻；翻译；转变；转嫁；传开" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10476,
+  "word" : "転びます",
+  "reading" : "ころびます",
+  "romaji" : null,
+  "meaning" : [ "摔，摔倒，跌倒；（物体）倒下，翻倒；（事情等）失败，受挫；转，转移；（话题等）转变" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10477,
+  "word" : "転ぶ",
+  "reading" : "ころぶ",
+  "romaji" : null,
+  "meaning" : [ "滚动；摔倒；翻滚；倒下" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10478,
+  "word" : "転勤",
+  "reading" : "てんきん",
+  "romaji" : null,
+  "meaning" : [ "工作调动；调职" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10479,
+  "word" : "転勤になる",
+  "reading" : "てんきんになる",
+  "romaji" : null,
+  "meaning" : [ "惯用语，指工作调动，调换工作地点" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10480,
+  "word" : "転嫁",
+  "reading" : "てんか",
+  "romaji" : null,
+  "meaning" : [ "1. 转嫁，推卸（责任等）；2. 改嫁" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10481,
+  "word" : "転寝",
+  "reading" : "てんしん",
+  "romaji" : null,
+  "meaning" : [ "假寐，打盹儿" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10482,
+  "word" : "転居",
+  "reading" : "てんきょ",
+  "romaji" : null,
+  "meaning" : [ "迁居，搬家" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10483,
+  "word" : "転換",
+  "reading" : "てんかん",
+  "romaji" : null,
+  "meaning" : [ "转换；转变" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10484,
+  "word" : "転校",
+  "reading" : "てんこう",
+  "romaji" : null,
+  "meaning" : [ "转校，转学" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10485,
+  "word" : "転機",
+  "reading" : "てんき",
+  "romaji" : null,
+  "meaning" : [ "转机，转折点；情况发生变化的时机" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10486,
+  "word" : "転職",
+  "reading" : "てんしょく",
+  "romaji" : null,
+  "meaning" : [ "换工作，跳槽" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10487,
+  "word" : "転職します",
+  "reading" : "てんしょくします",
+  "romaji" : null,
+  "meaning" : [ "换工作；转职" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10488,
+  "word" : "転落",
+  "reading" : "てんらく",
+  "romaji" : null,
+  "meaning" : [ "1. 从高处落下，跌落，滚落；2. （地位、经济状况等）下降，沦落，落魄" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10489,
+  "word" : "転送",
+  "reading" : "てんそう",
+  "romaji" : null,
+  "meaning" : [ "转送，转寄；（交通工具等）转运，转乘；（病人等）转院" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10490,
+  "word" : "軸",
+  "reading" : "じく",
+  "romaji" : null,
+  "meaning" : [ "1. 机械或物体中起支撑或转动作用的圆柱形零件，轴；2. 事物的核心、中心" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10491,
+  "word" : "軽々と",
+  "reading" : "かるがると",
+  "romaji" : null,
+  "meaning" : [ "轻轻地；轻易地；毫不费力地" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10492,
+  "word" : "軽い",
+  "reading" : "かるい",
+  "romaji" : null,
+  "meaning" : [ "轻；轻松，轻快；轻微，程度低；不重（视），随便；轻松愉快；淡（口味）" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10493,
+  "word" : "軽い物",
+  "reading" : "かるいもの",
+  "romaji" : null,
+  "meaning" : [ "1. 重量轻的东西；2. 清淡或少量的食物" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10494,
+  "word" : "軽んじる",
+  "reading" : "かるんじる",
+  "romaji" : null,
+  "meaning" : [ "轻视；小看；不重视；忽视" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10495,
+  "word" : "軽傷",
+  "reading" : "けいしょう",
+  "romaji" : null,
+  "meaning" : [ "轻微的伤势；轻伤" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10496,
+  "word" : "軽度",
+  "reading" : "けいど",
+  "romaji" : null,
+  "meaning" : [ "轻度，轻微" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10497,
+  "word" : "軽快",
+  "reading" : "けいかい",
+  "romaji" : null,
+  "meaning" : [ "（动作等）轻快；（心情等）舒畅、愉快" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10498,
+  "word" : "軽減",
+  "reading" : "けいげん",
+  "romaji" : null,
+  "meaning" : [ "减轻；减少" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10499,
+  "word" : "軽率",
+  "reading" : "けいそつ",
+  "romaji" : null,
+  "meaning" : [ "轻率，草率；冒失" ],
+  "notes" : [ "形容动词作定语时词尾常变为「な」，作谓语时词尾常变为「だ」或「です」" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10500,
+  "word" : "軽自動車",
+  "reading" : "けいじどうしゃ",
+  "romaji" : null,
+  "meaning" : [ "小型汽车，轻型汽车" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

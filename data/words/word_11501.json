@@ -1,0 +1,901 @@
+[ {
+  "id" : 11501,
+  "word" : "首脳",
+  "reading" : "しゅのう",
+  "romaji" : null,
+  "meaning" : [ "首脑，首领，领导人物（指国家、组织等的最高领导者，也可用于比喻在某一领域具有主导地位的核心人物）" ],
+  "notes" : [ "一般用于正式场合，指代具有较高地位和影响力的领导群体或个人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11502,
+  "word" : "首輪",
+  "reading" : "くびわ",
+  "romaji" : null,
+  "meaning" : [ "项圈（给动物戴的，用于系牵引绳等）；项链（佩戴在颈部的装饰品）" ],
+  "notes" : [ "作“项圈”讲时，主要用于动物；作“项链”讲时，属于比较日常的说法，也可用「ネックレス」来表示项链，不过「首輪」的说法更具日式风格" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11503,
+  "word" : "首都",
+  "reading" : "しゅと",
+  "romaji" : null,
+  "meaning" : [ "国家的政治中心城市，是国家最高政权机关所在地，通常也是经济、文化等方面的重要中心。" ],
+  "notes" : [ "常见的搭配有「首都圏（しゅとけん）」（首都圈）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11504,
+  "word" : "首都圏",
+  "reading" : "しゅとけん",
+  "romaji" : null,
+  "meaning" : [ "首都圈，以首都为中心的周边地区（通常指经济、文化、交通等方面联系紧密的区域）" ],
+  "notes" : [ "一般用于指以某国首都为核心的周边区域，在日本通常指以东京为中心的周边地区，包括东京都、神奈川县、千叶县、埼玉县等区域。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11505,
+  "word" : "首飾り",
+  "reading" : "くびかざり",
+  "romaji" : null,
+  "meaning" : [ "项链；颈饰" ],
+  "notes" : [ "通常指佩戴在颈部的装饰品，除了常见的项链外，也可泛指其他颈间饰品" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11506,
+  "word" : "香ばしい",
+  "reading" : "こうばしい",
+  "romaji" : null,
+  "meaning" : [ "（食物等）香气扑鼻的，芳香的；（味道）鲜美的，可口的" ],
+  "notes" : [ "通常用于形容食物散发的香气或者味道的鲜美，也可用于形容一些带有香气的物品等。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11507,
+  "word" : "香り",
+  "reading" : "かおり",
+  "romaji" : null,
+  "meaning" : [ "名词，香味，芳香；气息，韵味" ],
+  "notes" : [ "可用于形容自然、物品等散发的气味或具有的独特韵味" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11508,
+  "word" : "香水",
+  "reading" : "こうすい",
+  "romaji" : null,
+  "meaning" : [ "香水，用香料等制成的液体，涂抹或喷洒后可散发香气，用于增添个人魅力、掩盖异味等，也可用于室内等空间的香氛营造。" ],
+  "notes" : [ "「香水」在日语中也可写作「香粧水」，但「香水」更为常用。在使用场景上，除了个人使用，也会用于一些商品、空间的香氛设计等领域。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11509,
+  "word" : "馬",
+  "reading" : "うま",
+  "romaji" : null,
+  "meaning" : [ "马；（象棋等的）棋子“马”；（日本将棋的）棋子“马”" ],
+  "notes" : [ "在日语中，“馬”除了表示现实中的马，在棋类游戏中也有特定的指代。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11510,
+  "word" : "馬鹿",
+  "reading" : "ばか",
+  "romaji" : null,
+  "meaning" : [ "傻瓜；笨蛋；愚蠢的人；愚蠢的事" ],
+  "notes" : [ "也可写作「笨蛋」「阿呆」等，常用的衍生词有「馬鹿馬鹿しい（ばかばかしい）」（愚蠢的、荒唐的）、「馬鹿みたい（ばかみたい）」（像傻瓜一样）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11511,
+  "word" : "馬鹿らしい",
+  "reading" : "ばからしい",
+  "romaji" : null,
+  "meaning" : [ "1. 愚蠢的；傻里傻气的 2. 无聊的；没意思的 3. 不值当的；没必要的" ],
+  "notes" : [ "「馬鹿らしい」是由「馬鹿（ばか）」加上样态助动词「らしい」构成的形容词，用来描述事物或行为给人一种愚蠢、无聊、不值当的感觉。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11512,
+  "word" : "馴らす",
+  "reading" : "ならす",
+  "romaji" : null,
+  "meaning" : [ "1. 驯服，驯养（動物を人間に慣れさせ、手入れや使役に耐えさせる）；2. 使习惯，使适应（人や動物を、ある場所や状況に慣れさせる）；3. 调试，使磨合（機械などを、使いこなせるように慣らす）" ],
+  "notes" : [ "他动词，其对应的自动词是「馴れる（なれる）」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11513,
+  "word" : "馴れる",
+  "reading" : "なれる",
+  "romaji" : null,
+  "meaning" : [ "1. （动物）驯熟，习惯；2. （人）亲近，混熟，熟识" ],
+  "notes" : [ "其对应的他动词是「馴れさせる」（なれさせる），意为“使……驯熟；使……亲近”" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11514,
+  "word" : "馴れ初め",
+  "reading" : "なれはじめ",
+  "romaji" : null,
+  "meaning" : [ "（男女之间）开始交往、恋爱关系的开端；（动物等）开始亲近、初次亲昵" ],
+  "notes" : [ "「馴れ初め」也可写作「馴初め」，其动词形式为「馴れ初める（なれはじめる）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11515,
+  "word" : "馴れ馴れしい",
+  "reading" : "なれなれしい",
+  "romaji" : null,
+  "meaning" : [ "过分亲昵的，熟不拘礼的，（态度、行为等）过于随便、不庄重，给人一种自来熟、缺乏分寸感的感觉" ],
+  "notes" : [ "其词干为「馴れ馴れ」，属于ク型形容词（イ形容词的一种），其否定形式为「馴れ馴れしくない」，过去式为「馴れ馴れしかった」等，遵循イ形容词的活用规则。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11516,
+  "word" : "馴染む",
+  "reading" : "なじむ",
+  "romaji" : null,
+  "meaning" : [ "1. 熟悉，适应（新的环境、事物、人等，变得习惯、自然）；2. 融合，调和（与周围的事物、氛围等和谐地成为一体）；3. 协调，相称（在风格、感觉等方面搭配得当）" ],
+  "notes" : [ "其对应的他动词为「馴染める（なじめる）」和「馴染ませる（なじませる）」，使用时需注意自动词与他动词的区别。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11517,
+  "word" : "駄作",
+  "reading" : "ださく",
+  "romaji" : null,
+  "meaning" : [ "指艺术、文学、音乐等领域中水平低劣、缺乏价值、质量不佳的作品。" ],
+  "notes" : [ "“駄”在日语中常表示“劣质、不好、无用”等负面含义，“駄作”多带有贬义色彩，用于评价作品质量差。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11518,
+  "word" : "駄目",
+  "reading" : "だめ",
+  "romaji" : null,
+  "meaning" : [ "1. 没用的，徒劳的，无效的；2. 不行，不可以，不允许；3. 糟糕的，坏的" ],
+  "notes" : [ "常写作「だめ」，口语中使用频率高，其对应的汉字「駄目」在正式书面语中也会出现。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11519,
+  "word" : "駅",
+  "reading" : "えき",
+  "romaji" : null,
+  "meaning" : [ "车站，火车站，电车站，汽车站等各类交通站点" ],
+  "notes" : [ "「駅」是「駅舎（えきしゃ）」（车站站舍）、「駅前（えきまえ）」（车站前）等词的词干，在日语中是常用的表示交通站点的名词，源自汉字「驛」（繁体字），后简化为「駅」，和中文的“站”在交通站点的表达上有相似用法，但也可用于一些特殊的站点，比如「案内所駅」（咨询处站点，比较特殊的用法，一般还是以交通站点为主）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11520,
+  "word" : "駅前",
+  "reading" : "えきまえ",
+  "romaji" : null,
+  "meaning" : [ "车站前面，车站附近（通常指以车站为中心的周边区域，包括车站正前方以及周边一定范围内的街道、商业设施等所在的区域）" ],
+  "notes" : [ "常作为复合词的一部分使用，如「駅前商店街（えきまえしょうてんがい）」（车站前商业街）、「駅前広場（えきまえひろば）」（车站前广场）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11521,
+  "word" : "駅員",
+  "reading" : "えきいん",
+  "romaji" : null,
+  "meaning" : [ "车站工作人员，站务员（在铁路车站等场所负责票务、引导乘客、维护车站秩序等工作的人员）" ],
+  "notes" : [ "「駅員」是「駅」（车站）和「員」（人员）组成的复合名词，属于职业类名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11522,
+  "word" : "駅弁",
+  "reading" : "えきべん",
+  "romaji" : null,
+  "meaning" : [ "车站售卖的盒饭，通常在铁路车站或列车内出售，多为便当形式，有各种口味和种类，方便旅客在旅途中食用。" ],
+  "notes" : [ "「駅弁」一般是在铁路车站的商店、摊位或者列车上的餐车等处销售，不同地区的駅弁会结合当地的特色食材和风味制作，具有一定的地域特色。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11523,
+  "word" : "駆ける",
+  "reading" : "かける",
+  "romaji" : null,
+  "meaning" : [ "1. 奔跑，跑；2. （使）奔驰，策马奔腾；3. （时间）流逝，过去；4. （为某事）奔走，奔波；5. 驱，赶（动物等）" ],
+  "notes" : [ "「駆ける」是一段动词，其未然形为「駆け」，连用形为「駆け」，终止形为「駆ける」，连体形为「駆ける」，假定形为「駆けれ」，命令形为「駆けろ」（口语中也常用「駆けよ」）。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11524,
+  "word" : "駆け付ける",
+  "reading" : "かけつける",
+  "romaji" : null,
+  "meaning" : [ "急忙赶到，奔赴（一般用于赶到出事现场、有人求助的地方等紧急情况）" ],
+  "notes" : [ "「駆け付ける」是自动词，其对应的他动词是「駆け付けさせる」（使……急忙赶到），不过日常使用中多以自动词形式出现，强调主体自身的奔赴动作。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11525,
+  "word" : "駆け足",
+  "reading" : "かけあし",
+  "romaji" : null,
+  "meaning" : [ "1. 快跑，急走；2. 走马观花地，急急忙忙地（做某事）" ],
+  "notes" : [ "可构成复合词，如「駆け足で」（副词性用法，意为“急急忙忙地”）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11526,
+  "word" : "駆け込む",
+  "reading" : "かけこむ",
+  "romaji" : null,
+  "meaning" : [ "1. 跑进去，冲进；2. （为躲避灾难、危险等）逃进，躲进；3. （为寻求帮助、保护等）投奔，投靠" ],
+  "notes" : [ "「駆け込む」是自动词，其对应的他动词形式为「駆け込ませる」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11527,
+  "word" : "駆られる",
+  "reading" : "かられる",
+  "romaji" : null,
+  "meaning" : [ "被驱使；受……驱使；被迫（做某事）" ],
+  "notes" : [ "「駆る」的被动形，也可表示被某种力量、情感、状况等推动、驱使而做出某种行为" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11528,
+  "word" : "駆除",
+  "reading" : "くじょ",
+  "romaji" : null,
+  "meaning" : [ "（用药物、器械等）驱除，消灭（害虫、病菌、妖怪等）" ],
+  "notes" : [ "可用于驱除生物类（如害虫、妖怪等）或非生物类（如病菌等）的对象，通常需要借助工具、药剂等手段来实现。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11529,
+  "word" : "駐在",
+  "reading" : "ちゅうざい",
+  "romaji" : null,
+  "meaning" : [ "（在外地、外国）常驻，驻留，驻扎（多指因工作等原因在外地或国外长期停留）" ],
+  "notes" : [ "也可作サ変動詞使用，如「駐在する」（ちゅうざいする）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11530,
+  "word" : "駐車",
+  "reading" : "ちゅうしゃ",
+  "romaji" : null,
+  "meaning" : [ "停车，停放车辆" ],
+  "notes" : [ "常与「場（ば）」「禁止（きんし）」等词搭配使用，如「駐車場」（停车场）、「駐車禁止」（禁止停车）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11531,
+  "word" : "駐車場",
+  "reading" : "ちゅうしゃじょう",
+  "romaji" : null,
+  "meaning" : [ "停车场，停车区域" ],
+  "notes" : [ "由「駐車（ちゅうしゃ）」（停车）和「場（じょう）」（场所）组成的复合名词，指供车辆停放的场所。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11532,
+  "word" : "駐車禁止",
+  "reading" : "ちゅうしゃきんし",
+  "romaji" : null,
+  "meaning" : [ "禁止停车（指在特定区域不允许停放车辆的规定或标识）" ],
+  "notes" : [ "由「駐車（ちゅうしゃ）」（停车）和「禁止（きんし）」（禁止）组成的复合名词，常以标识、规定等形式出现，用于告知人们该区域不允许停车。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11533,
+  "word" : "騒々しい",
+  "reading" : "さわさわしい",
+  "romaji" : null,
+  "meaning" : [ "吵闹的；喧闹的；（社会等）不安宁的、动荡的" ],
+  "notes" : [ "「騒々しい」也可写作「騒騒しい」，其词干为「騒々（さわさわ）」，属于イ形容词（一类形容词），在句中可作定语、谓语等成分来描述事物或场景的状态。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11534,
+  "word" : "騒がしい",
+  "reading" : "さわがしい",
+  "romaji" : null,
+  "meaning" : [ "吵闹的；喧嚣的；（人心）不安的，动荡的；议论纷纷的；麻烦的，繁琐的" ],
+  "notes" : [ "其否定形式为「騒がしくない」，过去式为「騒がしかった」，过去否定式为「騒がしくなかった」等，遵循形容词的活用规则。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11535,
+  "word" : "騒ぎ",
+  "reading" : "さわぎ",
+  "romaji" : null,
+  "meaning" : [ "吵闹；骚乱；骚动；喧嚣；吵闹声；骚动；纷扰" ],
+  "notes" : [ "「騒ぎ」是「騒ぐ」的名词形式，也可作サ变动词使用，如「騒ぎを起こす」（引起骚乱）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11536,
+  "word" : "騒ぎます",
+  "reading" : "さわぎます",
+  "romaji" : null,
+  "meaning" : [ "吵嚷，吵闹；骚动，喧嚣；慌张，慌乱" ],
+  "notes" : [ "「騒ぐ」是五段动词（一类动词），其ます形为「騒ぎます」，否定形为「騒ぎません」，过去形为「騒ぎました」，过去否定形为「騒ぎませんでした」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11537,
+  "word" : "騒ぐ",
+  "reading" : "さわぐ",
+  "romaji" : null,
+  "meaning" : [ "1. 吵闹，喧哗；2. 骚动，骚乱；3. （内心）烦躁，不安" ],
+  "notes" : [ "其过去式为「騒いだ（さわいだ）」，现在分词为「騒いで（さわいで）」，假定形为「騒げば（さわげば）」等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11538,
+  "word" : "騒動",
+  "reading" : "そうどう",
+  "romaji" : null,
+  "meaning" : [ "骚动；风波；闹事；纠纷" ],
+  "notes" : [ "可用于形容社会、职场、校园等场所发生的较大规模的混乱、纠纷事件。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11539,
+  "word" : "騒音",
+  "reading" : "そうおん",
+  "romaji" : null,
+  "meaning" : [ "噪音，杂音（通常指会对人们的生活、工作、学习等造成干扰、令人感到烦躁不适的声音）" ],
+  "notes" : [ "可用于描述各种产生噪音的场景，如交通騒音（交通噪音）、機械の騒音（机器的噪音）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11540,
+  "word" : "騙す",
+  "reading" : "だます",
+  "romaji" : null,
+  "meaning" : [ "欺骗，哄骗；使…上当，使…中计" ],
+  "notes" : [ "“騙す”为他动词，其对应的自动词为“騙される（だまされる）”" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11541,
+  "word" : "驕る",
+  "reading" : "おごる",
+  "romaji" : null,
+  "meaning" : [ "骄傲，傲慢；自满，自负；（自然界等）逞威，肆虐" ],
+  "notes" : [ "其否定形式常用「驕らない」，表示“不骄傲”“不自满”等意思" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11542,
+  "word" : "驚かす",
+  "reading" : "おどろかす",
+  "romaji" : null,
+  "meaning" : [ "使……惊讶；吓唬，使……害怕" ],
+  "notes" : [ "他动词，其对应的自动词为「驚く（おどろく）」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11543,
+  "word" : "驚き",
+  "reading" : "おどろき",
+  "romaji" : null,
+  "meaning" : [ "名词，意为‘吃惊，惊讶，震惊’，也可表示‘意外，意想不到的事’" ],
+  "notes" : [ "其对应的动词形式为「驚く（おどろく）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11544,
+  "word" : "驚きます",
+  "reading" : "おどろきます",
+  "romaji" : null,
+  "meaning" : [ "（因意外、新奇等而）感到惊讶，吃惊，惊愕" ],
+  "notes" : [ "其基本形为「驚く（おどろく）」，属于一段动词，「驚きます」是其礼貌体（ます形）的表达，用于比较正式、礼貌的场合，向他人表述自己或他人感到惊讶的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11545,
+  "word" : "驚く",
+  "reading" : "おどろく",
+  "romaji" : null,
+  "meaning" : [ "1. 惊讶，吃惊；2. 惊恐，害怕；3. （对事物的发展等）感到意外，觉得奇怪" ],
+  "notes" : [ "其否定形式为「驚かない（おどろかない）」，过去式为「驚いた（おどろいた）」，命令形为「驚け（おどろけ）」等" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11546,
+  "word" : "驚異",
+  "reading" : "きょうい",
+  "romaji" : null,
+  "meaning" : [ "惊异，惊奇；奇事，不可思议的事" ],
+  "notes" : [ "常与「的（てき）」连用构成形容动词「驚異的（きょういてき）」，表示“惊人的，奇异的”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11547,
+  "word" : "骨",
+  "reading" : "ほね",
+  "romaji" : null,
+  "meaning" : [ "骨头，骨骼；骨状物；核心，要点；骨气，气概；遗骨，骨灰" ],
+  "notes" : [ "可构成复合词，如「骨格（こっかく）」（骨架）、「骨董（こくとう）」（古董）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11548,
+  "word" : "骨折",
+  "reading" : "こっせつ",
+  "romaji" : null,
+  "meaning" : [ "骨折（指骨头因外力等原因发生断裂的伤病情况）" ],
+  "notes" : [ "也可作为サ変动词使用，如「骨折する（こっせつする）」，表示“骨折”这一动作或状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11549,
+  "word" : "高々",
+  "reading" : "たかだか",
+  "romaji" : null,
+  "meaning" : [ "1. 高高地，高高隆起的样子；2. 大声地，高声地；3. 顶多，充其量（表示数量、程度等的上限）" ],
+  "notes" : [ "「高々」作为副词，在表示“顶多、充其量”的含义时，常用来限定数量、程度等的上限，后面多接数量词或表示程度的内容；表示“高高地”“大声地”时，多用来修饰动作的状态。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11550,
+  "word" : "高い",
+  "reading" : "たかい",
+  "romaji" : null,
+  "meaning" : [ "1.（高度、位置、地位等）高的；2.（价格、费用等）贵的；3.（声音、程度等）高的、大的；4.（评价、声誉等）高的" ],
+  "notes" : [ "其否定形式为「高くない」，过去式为「高かった」，过去否定式为「高くなかった」，比较级为「高く」，最高级为「高くて」" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11551,
+  "word" : "高が",
+  "reading" : "たかが",
+  "romaji" : null,
+  "meaning" : [ "充其量，最多（用于表示程度、数量等有限，带有轻视、不以为然的语气）" ],
+  "notes" : [ "常与「～に過ぎない」「～ぐらい」等搭配使用，加强语气，表达对事物程度、数量的低估。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11552,
+  "word" : "高さ",
+  "reading" : "たかさ",
+  "romaji" : null,
+  "meaning" : [ "1. 高度，高矮；2. 海拔；3. 程度，水平" ],
+  "notes" : [ "「高さ」是「高い」的名词形式，由形容词「高い」（たかい）词干「高」加上名词性后缀「さ」构成，属于名词中的形式名词（由形容词、形容动词词干加后缀构成的名词），主要用于表示事物的高度、水平、程度等抽象或具体的“高”的相关概念。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11553,
+  "word" : "高まる",
+  "reading" : "たかまる",
+  "romaji" : null,
+  "meaning" : [ "（水位、物价、声音、情绪、程度等）高涨，提高，增大" ],
+  "notes" : [ "自动词，其对应的他动词为「高める」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11554,
+  "word" : "高める",
+  "reading" : "たかめる",
+  "romaji" : null,
+  "meaning" : [ "他动词，提高，抬高；增强，加强；（使）高涨，（使）旺盛" ],
+  "notes" : [ "其对应的自动词为「高まる（たかまる）」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11555,
+  "word" : "高価",
+  "reading" : "こうか",
+  "romaji" : null,
+  "meaning" : [ "高价的，昂贵的，价格高的" ],
+  "notes" : [ "常与「な」「に」等助词搭配使用，如「高価な商品（高价的商品）」「高価に売る（高价出售）」" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11556,
+  "word" : "高卒",
+  "reading" : "こうそつ",
+  "romaji" : null,
+  "meaning" : [ "高中毕业；高中毕业生（「高等学校卒業」的略称）" ],
+  "notes" : [ "「高卒」是「高等学校卒業」的口语化略称，在口语和书面语中都较为常用，常用来指代高中毕业的学历或者高中毕业生这一群体。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11557,
+  "word" : "高名",
+  "reading" : "こうめい",
+  "romaji" : null,
+  "meaning" : [ "著名，有名（多用来形容人、事物的名声、声誉较高，被很多人知晓、认可）" ],
+  "notes" : [ "“高名”作为形容动词，在使用时后续“だ”“です”等，修饰名词时用“高名な”的形式。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11558,
+  "word" : "高層",
+  "reading" : "こうそう",
+  "romaji" : null,
+  "meaning" : [ "高层，指建筑物等具有较多楼层、高度较高的（部分或整体），也可用于比喻组织、机构等中地位较高、层级较高的部分或人员等" ],
+  "notes" : [ "常与「ビル」「マンション」「住宅」等表示建筑物的词搭配，也可用于「高層部（こうそうぶ）」表示组织、机构的高层（人员或部分）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11559,
+  "word" : "高層ビル",
+  "reading" : "こうそうビル",
+  "romaji" : null,
+  "meaning" : [ "高楼，大厦，高层建筑" ],
+  "notes" : [ "「高層ビル」是外来语“building”（建筑物）与日语“高層”（こうそう，高层）结合而成的复合词，常用来指多层的、较高的现代化建筑物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11560,
+  "word" : "高度",
+  "reading" : "こうど",
+  "romaji" : null,
+  "meaning" : [ "1. 高度，海拔；2. （程度、水平等）高" ],
+  "notes" : [ "可作名词使用，用于描述物体的高度或事物的程度、水平等方面的高" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11561,
+  "word" : "高所",
+  "reading" : "こうしょ",
+  "romaji" : null,
+  "meaning" : [ "高处，高地；（对事物的）远见，高见" ],
+  "notes" : [ "常见的搭配有「高所恐怖症（こうしょきょうふしょう）」（恐高症）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11562,
+  "word" : "高校",
+  "reading" : "こうこう",
+  "romaji" : null,
+  "meaning" : [ "高中（高等学校的略称，指进行中等教育后期阶段教育的学校，通常学制为三年，学生毕业后可升入大学、专门学校等继续深造，或直接进入社会就业）" ],
+  "notes" : [ "「高校」是「高等学校（こうとうがっこう）」的常用缩略形式，在日本的教育体系中，高中阶段的教育注重为学生提供学术知识、职业技能基础以及综合素质的培养，以帮助学生为未来的发展做好准备。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11563,
+  "word" : "高校生",
+  "reading" : "こうこうせい",
+  "romaji" : null,
+  "meaning" : [ "高中生（指正在高中就读的学生）" ],
+  "notes" : [ "「高校」是「高等学校（こうとうがっこう）」的略称，「高校生」对应的英语是“high school student”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11564,
+  "word" : "高気圧",
+  "reading" : "こうきあつ",
+  "romaji" : null,
+  "meaning" : [ "高气压，指气压比周围高的区域，在高气压控制的地区，通常天气晴朗、稳定。" ],
+  "notes" : [ "气象学专业术语，常出现在天气预报相关的语境中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11565,
+  "word" : "高温",
+  "reading" : "こうおん",
+  "romaji" : null,
+  "meaning" : [ "较高的温度，一般指高于常温（或特定基准温度）的温度状态，常用于气象、工业生产、环境等领域描述温度情况，如高温天气、高温作业等。" ],
+  "notes" : [ "可与「多湿」「多発」等词搭配使用，如「高温多湿」（高温高湿）、「高温多発」（高温多发），用于更细致地描述环境或现象特点。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11566,
+  "word" : "高等",
+  "reading" : "こうとう",
+  "romaji" : null,
+  "meaning" : [ "高等的，高级的；地位、程度、水平等较高的" ],
+  "notes" : [ "常用来修饰事物，如学校、技术、教育等领域的相关事物，也可用于形容人的身份地位等方面的较高层次" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11567,
+  "word" : "高等学校",
+  "reading" : "こうとうがっこう",
+  "romaji" : null,
+  "meaning" : [ "高中，高级中学，实施中等教育的学校，通常为三年制，是小学、初中（中等教育前期）之后的教育阶段，对应中国的高中，毕业后可进入大学、专门学校等继续深造或就业。" ],
+  "notes" : [ "也可缩写为「高校（こうこう）」，在日本，高中教育注重学术、职业等多方面的培养，学校类型包括普通高中、职业高中（専門高校）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11568,
+  "word" : "高精度",
+  "reading" : "こうせいど",
+  "romaji" : null,
+  "meaning" : [ "名词，指高度的精确程度，常用于形容测量、制造、计算等方面达到的精准度很高。" ],
+  "notes" : [ "「高精度」通常在科技、工程、工业等领域使用，其反义词可以是「低精度（ていせいど）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11569,
+  "word" : "高級",
+  "reading" : "こうきゅう",
+  "romaji" : null,
+  "meaning" : [ "等级高；高级，上等；质量好、价格贵、档次高的（物品、服务、场所等）" ],
+  "notes" : [ "作为形容动词使用时，后续「な」修饰名词，后续「に」修饰动词或形容词，如「高級なマンション」「高級に装飾する」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11570,
+  "word" : "高血圧",
+  "reading" : "こうけつあつ",
+  "romaji" : null,
+  "meaning" : [ "高血压（指动脉血压持续升高的一种疾病状态，也可用于指血压升高的生理状况）" ],
+  "notes" : [ "「高血圧」也可写作「高血壓」（较为传统的汉字写法，现在常用前者），其英文对应词为“hypertension”或“high blood pressure”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11571,
+  "word" : "高速バス",
+  "reading" : "こうそくバス",
+  "romaji" : null,
+  "meaning" : [ "高速巴士，长途巴士（通常用于城市之间或较远地区的长距离客运，行驶在高速公路等路况较好的道路上，相比普通巴士速度更快、行程效率相对较高）" ],
+  "notes" : [ "“バス”是外来语，源自英语“bus”，“高速”对应日语“こうそく”，表示速度快的、高速的。高速バス一般配备相对舒适的座椅，部分还会提供一些基础的服务设施，以提升乘客长途乘坐的体验。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11572,
+  "word" : "高速道路",
+  "reading" : "こうそくどうろ",
+  "romaji" : null,
+  "meaning" : [ "高速公路，连接城市、地区等，供汽车高速行驶的道路，一般设有出入口、服务区等设施。" ],
+  "notes" : [ "“高速道路”是日本常用的表示“高速公路”的说法，在日本的交通相关语境中广泛使用，与中文的“高速公路”概念对应，其英语对应表达为“expressway”或“highway”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11573,
+  "word" : "高配",
+  "reading" : "たかそう",
+  "romaji" : null,
+  "meaning" : [ "（汽车、电脑等）高配置" ],
+  "notes" : [ "「高配」一般用于形容产品（如电子设备、汽车等）的配置较高，与“关怀，照顾”的含义无关，原含义错误。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11574,
+  "word" : "高飛車",
+  "reading" : "たかびしゃ",
+  "romaji" : null,
+  "meaning" : [ "1. （态度、言行等）盛气凌人，傲慢，高傲，高压 2. （围棋、象棋等）把棋子高高地架在对方棋子上，采取攻势" ],
+  "notes" : [ "「高飛車」作为名词时，可表示一种行事风格或棋类布局；作为形容动词时，用于形容人的态度、言行等傲慢无礼、盛气凌人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11575,
+  "word" : "高騰",
+  "reading" : "こうとう",
+  "romaji" : null,
+  "meaning" : [ "（价格、物价、费用等）高涨，急剧上涨" ],
+  "notes" : [ "通常用于描述价格、物价、费用、股价等经济相关事物的上涨，是比较正式的书面用语。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11576,
+  "word" : "高齢",
+  "reading" : "こうれい",
+  "romaji" : null,
+  "meaning" : [ "名词 高龄，老龄（指人年龄较大，通常用于描述老年人的年龄阶段或相关的社会现象、政策等，如“高齢化社会”表示老龄化社会）" ],
+  "notes" : [ "也可写作「高齢」，其对应的形容词形式为「高齢の」，例如「高齢の女性」（高龄女性）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11577,
+  "word" : "高齢化",
+  "reading" : "こうれいか",
+  "romaji" : null,
+  "meaning" : [ "老龄化，高龄化（指人口中老年人口比例逐渐增加的社会现象）" ],
+  "notes" : [ "常与「社会」「人口」等词搭配，如「高齢化社会」（老龄化社会）、「高齢化人口」（老龄化人口）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11578,
+  "word" : "高齢者",
+  "reading" : "こうれいしゃ",
+  "romaji" : null,
+  "meaning" : [ "名词，高龄者，老年人" ],
+  "notes" : [ "「高齢」意为“高龄、老年”，「者」表示“人”，组合起来指老年人。在日本，通常将65岁及以上的人群称为高齢者，相关的社会问题如高齢化（こうれいか）、高齢者福祉（こうれいしゃふくし）等也是社会关注的重点。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11579,
+  "word" : "髪",
+  "reading" : "かみ",
+  "romaji" : null,
+  "meaning" : [ "头发；毛发" ],
+  "notes" : [ "常见的相关词汇有「髪型（かみがた）」（发型）、「髪飾り（かみかざり）」（发饰）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11580,
+  "word" : "髪の毛",
+  "reading" : "かみのけ",
+  "romaji" : null,
+  "meaning" : [ "头发（通常带有一定的口语化色彩，相较于「髪（かみ）」，更强调毛发的个体或具体的头发丝等）" ],
+  "notes" : [ "「髪（かみ）」也表示头发，相对更正式、概括；「髪の毛」更偏向口语中对头发的具体称呼" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11581,
+  "word" : "髪型",
+  "reading" : "かみがた",
+  "romaji" : null,
+  "meaning" : [ "头发的形状、样式，即发型" ],
+  "notes" : [ "通常用于描述人的头发的外观造型，是日常生活中常用的词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11582,
+  "word" : "髭",
+  "reading" : "ひげ",
+  "romaji" : null,
+  "meaning" : [ "胡子，胡须" ],
+  "notes" : [ "也可用于比喻某些事物形似胡子的部分，如植物的须状部分等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11583,
+  "word" : "鬼",
+  "reading" : "おに",
+  "romaji" : null,
+  "meaning" : [ "1. 鬼怪，魔鬼，妖精；2. 残暴的人，恶人；3. （在某方面）出众的人，能手，高手；4. （纸牌等的）王牌；5. （儿童游戏中的）鬼" ],
+  "notes" : [ "在日语中，“鬼”的含义较为丰富，除了常见的鬼怪、恶人之意，还可用于形容在某领域非常厉害的人，如「料理の鬼」（料理高手）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11584,
+  "word" : "魂",
+  "reading" : "たましい",
+  "romaji" : null,
+  "meaning" : [ "灵魂；精神；心灵；气魄；精髓" ],
+  "notes" : [ "常用汉字，在表示“灵魂”“精神”等抽象概念时使用频率较高，也可用于形容事物的核心、精髓部分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11585,
+  "word" : "魅了",
+  "reading" : "みりょう",
+  "romaji" : null,
+  "meaning" : [ "使人深深地着迷、陶醉，使对方被自己的魅力、才华、表演等所吸引而沉浸其中" ],
+  "notes" : [ "「魅了」是サ变动词，通常以「～を魅了する」的形式使用，强调通过自身的特质、行为、事物的特点等对他人产生强烈的吸引力，使其着迷。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11586,
+  "word" : "魅力",
+  "reading" : "みりょく",
+  "romaji" : null,
+  "meaning" : [ "魅力，吸引力，诱惑力" ],
+  "notes" : [ "常用来形容人、事物、地方等所具有的吸引人的特质" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11587,
+  "word" : "魚",
+  "reading" : "さかな",
+  "romaji" : null,
+  "meaning" : [ "鱼；鱼肉；笨蛋，蠢货（俚语）" ],
+  "notes" : [ "常见的汉字写法为「魚」，对应的假名读音还有「うお」（更偏向于指鱼类的总称、鱼这种生物的类别等，如「魚類（ぎょるい）」；「さかな」更常用在指可食用的鱼、鱼肉或者口语中骂人的用法）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11588,
+  "word" : "魚介類",
+  "reading" : "ぎょかいるい",
+  "romaji" : null,
+  "meaning" : [ "鱼贝类，鳞介类（指鱼类和贝类等水产动物的总称）" ],
+  "notes" : [ "一般用于指可食用的水产动物，在料理、食材相关的语境中常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11589,
+  "word" : "魚香肉絲",
+  "reading" : "ユーシャンロウスー",
+  "romaji" : null,
+  "meaning" : [ "中国四川省の代表的な料理の一つ。豚肉や木耳、ニンニク、生姜、青唐辛子、赤唐辛子などを材料にし、魚醤や豆板醤などを使って香辛味と酸味、甘味が特徴の炒め物。" ],
+  "notes" : [ "「魚香」は料理の味付けスタイルで、魚のような風味を出すために魚醤などを使うことから名付けられている。「肉絲」は肉を細切りにしたものを指す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11590,
+  "word" : "鮮やか",
+  "reading" : "あざやか",
+  "romaji" : null,
+  "meaning" : [ "1. 色彩、模样等鲜明、鲜艳、亮丽。例：鮮やかな花（鲜艳的花）；2. 动作、技艺等巧妙、熟练、优美。例：鮮やかな演技（精彩的演技）；3. 印象、记忆等清晰、明朗。例：鮮やかな記憶（清晰的记忆）" ],
+  "notes" : [ "「鮮やか」是サ変形容詞（形容动词），其连用形有「鮮やかに」「鮮やかで」等形式，终止形为「鮮やかだ」，连体形为「鮮やかな」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11591,
+  "word" : "鯨",
+  "reading" : "くじら",
+  "romaji" : null,
+  "meaning" : [ "鲸，鲸鱼，大型海洋哺乳动物，多生活在海洋中，部分种类也会在靠近海岸的海域活动，以小型海洋生物等为食。" ],
+  "notes" : [ "在日语中，“鯨”除了表示鲸鱼这种动物外，在一些文学作品或特定语境中也可能被赋予象征意义，比如象征巨大、神秘等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11592,
+  "word" : "鰻",
+  "reading" : "うなぎ",
+  "romaji" : null,
+  "meaning" : [ "鳗鱼，鳗鲡。一种身体细长、呈蛇形的鱼类，多生活在温带和热带海域，部分种类会洄游到淡水中产卵。" ],
+  "notes" : [ "「鰻」的汉字也可写作「鳗」，在料理相关的语境中较为常见，其肉质鲜嫩，常被用于制作各种美食。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11593,
+  "word" : "鱗",
+  "reading" : "うろこ",
+  "romaji" : null,
+  "meaning" : [ "1. （鱼、蛇等体表的）鳞，鳞片；2. （像鳞一样的）片状物，鳞状物" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11594,
+  "word" : "鳥",
+  "reading" : "とり",
+  "romaji" : null,
+  "meaning" : [ "鸟，鸟类；（转）飞机，飞船；（麻将）幺鸡" ],
+  "notes" : [ "常用汉字，其对应的平假名是「とり」，片假名是「トリ」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11595,
+  "word" : "鳩",
+  "reading" : "はと",
+  "romaji" : null,
+  "meaning" : [ "鸽子；斑鸠" ],
+  "notes" : [ "在日语中，“鳩”一般可指代鸽子、斑鸠等鸠鸽科鸟类，其相关的惯用语有“鳩の時計”（布谷鸟钟）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11596,
+  "word" : "鳴きます",
+  "reading" : "なきます",
+  "romaji" : null,
+  "meaning" : [ "（动物、鸟、虫等）叫，鸣，啼；（器物、自然界等）发出声响，鸣响" ],
+  "notes" : [ "其基本形为「鳴く（なく）」，属于五段动词，「鳴きます」是其ます形的变化形式。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11597,
+  "word" : "鳴らす",
+  "reading" : "ならす",
+  "romaji" : null,
+  "meaning" : [ "1. 使（某物）发出声音，敲响，打响，吹（乐器）等；2. 使闻名，使出名，使驰名" ],
+  "notes" : [ "他动词，其对应的自动词为「鳴る（なる）」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11598,
+  "word" : "鳴ります",
+  "reading" : "なります",
+  "romaji" : null,
+  "meaning" : [ "（声音、乐器、机器等）鸣响，响起；（鸟、虫等）鸣叫；（肚子等）咕噜咕噜叫" ],
+  "notes" : [ "其基本形为「鳴る」（なる），属于五段动词（一类动词），「鳴ります」是其ます形，用于礼貌表达。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11599,
+  "word" : "鳴り物入り",
+  "reading" : "なりものいり",
+  "romaji" : null,
+  "meaning" : [ "（做事）敲锣打鼓；大张旗鼓；（场面）有锣鼓伴奏（常用于形容举行活动、仪式等时伴有锣鼓等乐器演奏，或做事时大肆宣扬、动静很大）" ],
+  "notes" : [ "常与「で」「に」等助词搭配使用，例如「鳴り物入りで行う（大张旗鼓地进行）」「鳴り物入りの行事（有锣鼓伴奏的活动）」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11600,
+  "word" : "鳴る",
+  "reading" : "なる",
+  "romaji" : null,
+  "meaning" : [ "1. 响，发出声音；2. 驰名，闻名；3. （肚子）饿，咕噜咕噜叫；4. （钟表等）走，运转" ],
+  "notes" : [ "自动词，常见的用法包括表示物体发出声音、人或事物的名声传播、肚子饿时的状态以及钟表等的运转状态等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+} ]

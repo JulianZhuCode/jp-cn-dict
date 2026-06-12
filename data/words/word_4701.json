@@ -1,0 +1,901 @@
+[ {
+  "id" : 4701,
+  "word" : "外見",
+  "reading" : "がいけん",
+  "romaji" : null,
+  "meaning" : [ "外观，外表；外貌，仪表" ],
+  "notes" : [ "侧重于从外部看到的样貌或外观，常与“中身（なかみ）”相对。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4702,
+  "word" : "外観",
+  "reading" : "がいかん",
+  "romaji" : null,
+  "meaning" : [ "外观，外表；外形" ],
+  "notes" : [ "通常指建筑物、物品等的外观，也可指人的仪表。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4703,
+  "word" : "外貨",
+  "reading" : "がいか",
+  "romaji" : null,
+  "meaning" : [ "外国的货币；外汇；进口货" ],
+  "notes" : [ "通常指外国的通货（外汇），有时也指进口商品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4704,
+  "word" : "外部",
+  "reading" : "がいぶ",
+  "romaji" : null,
+  "meaning" : [ "外部；外面" ],
+  "notes" : [ "反义词是「内部（ないぶ）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4705,
+  "word" : "外食",
+  "reading" : "がいしょく",
+  "romaji" : null,
+  "meaning" : [ "在外就餐，在外面吃饭（指不在家里吃，而是在餐厅、食堂等地方吃饭）" ],
+  "notes" : [ "通常作为サ变动词使用，也可以作为名词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4706,
+  "word" : "多い",
+  "reading" : "おおい",
+  "romaji" : null,
+  "meaning" : [ "多的，许多的" ],
+  "notes" : [ "属于イ形容词，连体形修饰名词时，有时会使用“多くの”的形式（如：多くの人）。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4707,
+  "word" : "多く",
+  "reading" : "おおく",
+  "romaji" : null,
+  "meaning" : [ "（副）许多，很多，多半；（名）多数，多的人" ],
+  "notes" : [ "通常以“多くの…”的形式修饰名词；作为名词使用时，意为“多数人”。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4708,
+  "word" : "多くとも",
+  "reading" : "おおくとも",
+  "romaji" : null,
+  "meaning" : [ "顶多，最多；充其量" ],
+  "notes" : [ "常用于表示对数量或程度的最大估计，常接续在数量词之后。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4709,
+  "word" : "多め",
+  "reading" : "おおめ",
+  "romaji" : null,
+  "meaning" : [ "稍多些，略多些；数量比平时多" ],
+  "notes" : [ "接尾词用法，表示数量、程度等比一般多或稍多。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4710,
+  "word" : "多少",
+  "reading" : "たしょう",
+  "romaji" : null,
+  "meaning" : [ "多少；一些；稍微" ],
+  "notes" : [ "通常以「多少の～」的形式使用，表示数量或程度不大。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4711,
+  "word" : "多岐",
+  "reading" : "たき",
+  "romaji" : null,
+  "meaning" : [ "多方面；复杂；涉及多方面（常与「に」连用，表示涉及面广）" ],
+  "notes" : [ "通常以「多岐にわたる」的形式使用，形容事物涉及范围广泛且复杂。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4712,
+  "word" : "多忙",
+  "reading" : "たぼう",
+  "romaji" : null,
+  "meaning" : [ "繁忙，忙碌" ],
+  "notes" : [ "多忙（たぼう）是形容动词（ナ形容词），多用于书面语或正式场合，表示事情多、非常忙碌的状态。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4713,
+  "word" : "多数",
+  "reading" : "たすう",
+  "romaji" : null,
+  "meaning" : [ "多数，许多；过半数" ],
+  "notes" : [ "常以「多数の～」的形式使用。反义词是「少数」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4714,
+  "word" : "多数決",
+  "reading" : "たすうけつ",
+  "romaji" : null,
+  "meaning" : [ "少数服从多数的原则；按多数人的意见作出的决定；多数表决制" ],
+  "notes" : [ "通常指「多数決原理（たすうけつげんり）」，即少数服从多数的原则。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4715,
+  "word" : "多様",
+  "reading" : "たよう",
+  "romaji" : null,
+  "meaning" : [ "多种多样，各式各样；形形色色" ],
+  "notes" : [ "「多様（たよう）」の形で使われることが多い。「多様化（たようか）」の形でも使われる。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4716,
+  "word" : "多民族国家",
+  "reading" : "たみんぞくこっか",
+  "romaji" : null,
+  "meaning" : [ "由多个民族构成的国家。" ],
+  "notes" : [ "政治や社会学の文脈でよく使われる語。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4717,
+  "word" : "多種多様",
+  "reading" : "たしゅたよう",
+  "romaji" : null,
+  "meaning" : [ "种类和样式非常繁多；各式各样；形形色色" ],
+  "notes" : [ "由“多種”和“多様”组成的复合词，强调种类丰富且形态各异。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4718,
+  "word" : "多量",
+  "reading" : "たりょう",
+  "romaji" : null,
+  "meaning" : [ "数量が多いこと。大量。" ],
+  "notes" : [ "「少量（しょうりょう）」の対義語。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4719,
+  "word" : "多額",
+  "reading" : "たがく",
+  "romaji" : null,
+  "meaning" : [ "（金额）巨款，大笔，巨额" ],
+  "notes" : [ "通常指金额巨大的金钱或费用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4720,
+  "word" : "夜",
+  "reading" : "よる",
+  "romaji" : null,
+  "meaning" : [ "晚上，夜里，夜晚" ],
+  "notes" : [ "通常指日落到日出之间的时间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4721,
+  "word" : "夜中",
+  "reading" : "よなか",
+  "romaji" : null,
+  "meaning" : [ "半夜，深夜（特指晚上10点到凌晨2点，或泛指深夜）" ],
+  "notes" : [ "常与助词「に」或「まで」搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4722,
+  "word" : "夜具",
+  "reading" : "やぐ",
+  "romaji" : null,
+  "meaning" : [ "寝具。寝る時に使う、布団や枕などの総称。" ],
+  "notes" : [ "「寝具（しんぐ）」とほぼ同じ意味で使われるが、「夜具」はやや古い言い方。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4723,
+  "word" : "夜明け",
+  "reading" : "よあけ",
+  "romaji" : null,
+  "meaning" : [ "拂晓，黎明；天亮；（转）新时代的开端，转机" ],
+  "notes" : [ "可写作“夜明”，意为黎明、破晓。比喻用法常指新时代的开始或事物的转机。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4724,
+  "word" : "夜景",
+  "reading" : "やけい",
+  "romaji" : null,
+  "meaning" : [ "城市的夜间灯光或自然景观；夜景。" ],
+  "notes" : [ "指夜间眺望的景色，通常指城市的灯光。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4725,
+  "word" : "夜更かし",
+  "reading" : "よふかし",
+  "romaji" : null,
+  "meaning" : [ "熬夜；深睡不眠" ],
+  "notes" : [ "通常作为サ変动词「夜更かし（を）する」使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4726,
+  "word" : "夜更け",
+  "reading" : "よふけ",
+  "romaji" : null,
+  "meaning" : [ "深夜；夜深" ],
+  "notes" : [ "指深夜，通常指过了半夜的时间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4727,
+  "word" : "夜空",
+  "reading" : "よぞら",
+  "romaji" : null,
+  "meaning" : [ "夜里的天空；夜空" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4728,
+  "word" : "夜道",
+  "reading" : "よみち",
+  "romaji" : null,
+  "meaning" : [ "夜路，夜间行走的道路；黑路" ],
+  "notes" : [ "通常指天黑后行走的道路，带有黑暗、可能伴随危险的语感。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4729,
+  "word" : "夜間",
+  "reading" : "やかん",
+  "romaji" : null,
+  "meaning" : [ "夜间，夜晚。指从日落到日出的一段时间。" ],
+  "notes" : [ "反义词是「昼間（ちゅうかん）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4730,
+  "word" : "夜間学校",
+  "reading" : "やかんがっこう",
+  "romaji" : null,
+  "meaning" : [ "夜间上课的学校；夜校" ],
+  "notes" : [ "指在夜间上课的学校，通常是为了方便白天工作的人学习。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4731,
+  "word" : "夜食",
+  "reading" : "やしょく",
+  "romaji" : null,
+  "meaning" : [ "夜間に食べる食事。寝る前の軽い食事。" ],
+  "notes" : [ "「夜食（やしょく）」は、晩御飯（ばんごはん）とは異なり、夜寝る前などにとる食事を指す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4732,
+  "word" : "夢",
+  "reading" : "ゆめ",
+  "romaji" : null,
+  "meaning" : [ "梦；梦想；理想；愿望" ],
+  "notes" : [ "可作名词使用，也可作为动词“夢見る（ゆめみる）”的词干。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4733,
+  "word" : "夢を見る",
+  "reading" : "ゆめをみる",
+  "romaji" : null,
+  "meaning" : [ "【惯用语】做梦；梦见；梦想；幻想" ],
+  "notes" : [ "由名词「夢」和动词「見る」组成的惯用语，指在睡眠中做梦，或比喻怀有某种愿望或理想。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4734,
+  "word" : "夢中",
+  "reading" : "むちゅう",
+  "romaji" : null,
+  "meaning" : [ "（名词・形容动词）着迷，入迷，热衷于某事；忘我，不顾一切" ],
+  "notes" : [ "常以「～に夢中だ」的形式使用，表示对某事非常投入，甚至忘记周围事物的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4735,
+  "word" : "夢中になる",
+  "reading" : "むちゅうになる",
+  "romaji" : null,
+  "meaning" : [ "热衷，入迷，沉醉；忘我；专心致志" ],
+  "notes" : [ "常以“～に夢中になる”的形式出现，表示对某事物非常着迷，以至于忘记了周围的一切。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4736,
+  "word" : "夢見る",
+  "reading" : "ゆめみる",
+  "romaji" : null,
+  "meaning" : [ "做梦；梦想，幻想；空想" ],
+  "notes" : [ "也可写作「夢をみる」。作为「梦想」之意时，常使用「夢見る」；作为生理上的「做梦」时，常用「夢を見る」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4737,
+  "word" : "夥しい",
+  "reading" : "おびただしい",
+  "romaji" : null,
+  "meaning" : [ "（数量）大量的，极多的；（程度）非常厉害的，惊人的" ],
+  "notes" : [ "书面语，多用于描述数量极其巨大或程度非常严重的情况。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4738,
+  "word" : "大いに",
+  "reading" : "おおいに",
+  "romaji" : null,
+  "meaning" : [ "大大地，很，甚，非常。表示程度深。" ],
+  "notes" : [ "多用于书面语或郑重的口语中，表示程度之深。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4739,
+  "word" : "大きい",
+  "reading" : "おおきい",
+  "romaji" : null,
+  "meaning" : [ "（体积、数量、规模、年龄等）大的；巨大的" ],
+  "notes" : [ "反义词是「小さい（ちいさい）」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4740,
+  "word" : "大きさ",
+  "reading" : "おおきさ",
+  "romaji" : null,
+  "meaning" : [ "大小，尺寸；规模，幅度" ],
+  "notes" : [ "由形容词「大きい」的词干接接尾词「さ」构成，表示该性质的状态或程度。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4741,
+  "word" : "大きな",
+  "reading" : "おおきな",
+  "romaji" : null,
+  "meaning" : [ "大的（修饰名词，表示体积、规模、程度等大）" ],
+  "notes" : [ "属于连体词，只能直接修饰名词，不能单独作谓语，不能像形容词那样活用（如不能说「大きくない」）。活用形受限。" ],
+  "pos" : "PRENOM",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4742,
+  "word" : "大げさ",
+  "reading" : "おおげさ",
+  "romaji" : null,
+  "meaning" : [ "夸大，夸张；小题大做，大肆渲染" ],
+  "notes" : [ "属于形容动词（Na形容词），表示程度或规模超出实际，带有言过其实或小题大做的语感。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4743,
+  "word" : "大丈夫",
+  "reading" : "だいじょうぶ",
+  "romaji" : null,
+  "meaning" : [ "1. 没关系，不要紧；2. 安全，放心；3. 坚固，结实；4. 确信，一定" ],
+  "notes" : [ "常用口语，既可以表示对他人的安慰，也可以表示对情况的确认。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4744,
+  "word" : "大丈夫［な］",
+  "reading" : "だいじょうぶ［な］",
+  "romaji" : null,
+  "meaning" : [ "没关系的，放心的；坚固的，可靠的；没问题，一定" ],
+  "notes" : [ "既可以形容事物或情况没有问题，也可以表示对他人的安慰或承诺。活用同「な形容词」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4745,
+  "word" : "大事",
+  "reading" : "だいじ",
+  "romaji" : null,
+  "meaning" : [ "重要；宝贵；保重；大事，重大事件" ],
+  "notes" : [ "作为问候语使用时（如：お大事に），意为“请保重”。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4746,
+  "word" : "大人",
+  "reading" : "おとな",
+  "romaji" : null,
+  "meaning" : [ "成年人，大人；（举止）成熟，稳重" ],
+  "notes" : [ "通常指法律或社会意义上的成年人；也可形容人的举止成熟、稳重。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4747,
+  "word" : "大人しい",
+  "reading" : "おとなしい",
+  "romaji" : null,
+  "meaning" : [ "老实的，温顺的，安静的；（颜色、服装等）素雅的，雅致的" ],
+  "notes" : [ "形容人的性格温和、老实；形容事物（如颜色、服装）时不花哨、朴素雅致。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4748,
+  "word" : "大会",
+  "reading" : "たいかい",
+  "romaji" : null,
+  "meaning" : [ "大会，大型会议，集会，运动会" ],
+  "notes" : [ "指规模较大的会议、集会或比赛。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4749,
+  "word" : "大体",
+  "reading" : "だいたい",
+  "romaji" : null,
+  "meaning" : [ "大致，大体，基本上；绝大部分" ],
+  "notes" : [ "也可以作为名词使用，表示“概略”、“梗概”。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4750,
+  "word" : "大使",
+  "reading" : "たいし",
+  "romaji" : null,
+  "meaning" : [ "大使" ],
+  "notes" : [ "指一国派驻他国的最高级外交代表。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4751,
+  "word" : "大使館",
+  "reading" : "たいしかん",
+  "romaji" : null,
+  "meaning" : [ "大使馆；一国驻在外国代表本国行使全权的外交代表机关" ],
+  "notes" : [ "由“大使”（Ambassador）和“館”（Building/Office）组成的复合词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4752,
+  "word" : "大切",
+  "reading" : "たいせつ",
+  "romaji" : null,
+  "meaning" : [ "重要的，贵重的；珍贵的，宝贵的；爱护，爱惜" ],
+  "notes" : [ "常作「大切にする」使用，表示“珍惜”、“爱护”。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4753,
+  "word" : "大切［な］",
+  "reading" : "たいせつ［な］",
+  "romaji" : null,
+  "meaning" : [ "重要的；贵重的；宝贵的；珍惜的" ],
+  "notes" : [ "表示具有重大价值或意义，常用于形容抽象事物或人。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4754,
+  "word" : "大勢",
+  "reading" : "おおぜい",
+  "romaji" : null,
+  "meaning" : [ "众多（人），许多人，大批人" ],
+  "notes" : [ "通常指人数众多，读作おおぜい。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4755,
+  "word" : "大卒",
+  "reading" : "だいそつ",
+  "romaji" : null,
+  "meaning" : [ "大学毕业；大学毕业生" ],
+  "notes" : [ "「大学卒業」の略語。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4756,
+  "word" : "大口",
+  "reading" : "おおぐち",
+  "romaji" : null,
+  "meaning" : [ "1. （张开）大口；2. 大话，吹牛；3. 巨额的款项，大笔开支" ],
+  "notes" : [ "惯用语：大口を叩く（おおぐちをたたく）——吹牛，说大话。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4757,
+  "word" : "大台",
+  "reading" : "おおだい",
+  "romaji" : null,
+  "meaning" : [ "（金额、数值等的）大关，整数关口；大舞台，大剧团" ],
+  "notes" : [ "多用于指股票价格、销售额、收视率等突破某个重要的整数位。也写作“大舞台”，指大型剧团或演出场所。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4758,
+  "word" : "大国",
+  "reading" : "たいこく",
+  "romaji" : null,
+  "meaning" : [ "大国；强国。指在领土、人口、经济、军事等方面拥有强大实力的国家。" ],
+  "notes" : [ "反义词是「小国（しょうこく）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4759,
+  "word" : "大地",
+  "reading" : "だいち",
+  "romaji" : null,
+  "meaning" : [ "大地；广阔的土地" ],
+  "notes" : [ "指广阔的地面或土地，常用于文学或表达宏大的场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4760,
+  "word" : "大型",
+  "reading" : "おおがた",
+  "romaji" : null,
+  "meaning" : [ "大型；大号；规模大" ],
+  "notes" : [ "多用于修饰名词，表示规模、型号等较大。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4761,
+  "word" : "大型スーパー",
+  "reading" : "おおがたスーパー",
+  "romaji" : null,
+  "meaning" : [ "大型超市；大型综合超市" ],
+  "notes" : [ "「スーパー」是「スーパーマーケット」的省略形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4762,
+  "word" : "大声",
+  "reading" : "おおごえ",
+  "romaji" : null,
+  "meaning" : [ "大声；高声" ],
+  "notes" : [ "常用汉字，通常读作おおごえ。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4763,
+  "word" : "大売出し",
+  "reading" : "おおうりだし",
+  "romaji" : null,
+  "meaning" : [ "大减价，大甩卖，大酬宾" ],
+  "notes" : [ "也写作「大安売り」。指商店为了促销而进行的特别大幅度降价销售活动。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4764,
+  "word" : "大変",
+  "reading" : "たいへん",
+  "romaji" : null,
+  "meaning" : [ "1. 重大，严重；2. 麻烦，不容易；3. 非常，很" ],
+  "notes" : [ "作副词使用时表示程度很高（非常、很）；作名词或形容动词使用时表示情况严重或费力。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4765,
+  "word" : "大変ですね",
+  "reading" : "たいへんですね",
+  "romaji" : null,
+  "meaning" : [ "真是辛苦了；真不容易；够受的；不得了。用于表示同情、感叹或对严重事态的描述。" ],
+  "notes" : [ "由形容词，常用于口语中表示对他人的同情或对状况的感叹。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4766,
+  "word" : "大変ですね",
+  "reading" : "たいへんですね",
+  "romaji" : null,
+  "meaning" : [ "真是不容易啊；够呛；太严重了。（用于对对方的辛苦表示同情、慰问，或对情况的严重性表示感叹）" ],
+  "notes" : [ "由形容词“大変（たいへん）”与助动词“ですね”构成，常用于口语中表示同情或感叹。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4767,
+  "word" : "大変［な］",
+  "reading" : "たいへん［な］",
+  "romaji" : null,
+  "meaning" : [ "重大，严重；非常，很；麻烦，费事" ],
+  "notes" : [ "作为形容动词（ナ形容词）使用，既可以表示程度深（非常），也可以表示情况严重或困难。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4768,
+  "word" : "大好き",
+  "reading" : "だいすき",
+  "romaji" : null,
+  "meaning" : [ "（名・ナ形容）非常喜欢；最爱" ],
+  "notes" : [ "表示程度比“好き（喜欢）”更强烈。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4769,
+  "word" : "大学",
+  "reading" : "だいがく",
+  "romaji" : null,
+  "meaning" : [ "大学；综合性大学" ],
+  "notes" : [ "「大」的音读为「だい」，「学」的音读为「がく」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4770,
+  "word" : "大学生",
+  "reading" : "だいがくせい",
+  "romaji" : null,
+  "meaning" : [ "大学生；大学学生" ],
+  "notes" : [ "指在大学（通常是4年制学部）就读的学生。包含学部生和大学院生。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4771,
+  "word" : "大学院",
+  "reading" : "だいがくいん",
+  "romaji" : null,
+  "meaning" : [ "研究生院，大学的院部，进行学术研究和深造的教育机构。" ],
+  "notes" : [ "指大学本科毕业后进行深造的教育机构，分为硕士课程和博士课程。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4772,
+  "word" : "大小",
+  "reading" : "だいしょう",
+  "romaji" : null,
+  "meaning" : [ "大小；尺寸；大和小" ],
+  "notes" : [ "指物体的尺寸或规模，也指大和小两个概念。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4773,
+  "word" : "大層",
+  "reading" : "たいそう",
+  "romaji" : null,
+  "meaning" : [ "很，非常；夸张，过分；（名词）大排场，隆重" ],
+  "notes" : [ "作为副词（形容动词）使用时，表示程度非常之深；作为名词使用时，表示规模宏大或隆重。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4774,
+  "word" : "大工",
+  "reading" : "だいく",
+  "romaji" : null,
+  "meaning" : [ "木匠，木工。指从事建造房屋、制作木器等工作的工匠。" ],
+  "notes" : [ "该词为名词，指代职业。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4775,
+  "word" : "大差",
+  "reading" : "たいさ",
+  "romaji" : null,
+  "meaning" : [ "很大的差别；巨大的差距；（成绩、比赛等）悬殊" ],
+  "notes" : [ "常用作「大差がある」「大差ない」的形式。反义词为「大差（たいしゃ）」，意为“大错”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4776,
+  "word" : "大幅",
+  "reading" : "おおはば",
+  "romaji" : null,
+  "meaning" : [ "大幅度，大规模，大幅度的（变化、增加等）" ],
+  "notes" : [ "通常作副词使用，修饰动词，表示程度很大。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4777,
+  "word" : "大御所",
+  "reading" : "おおごしょ",
+  "romaji" : null,
+  "meaning" : [ "（1）权威，泰斗；（2）指德川家康；（）指隐居的实权者" ],
+  "notes" : [ "指在某个领域具有权威地位的人，也特指日本江户幕府初代将军德川家康。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4778,
+  "word" : "大所",
+  "reading" : "おおどこ",
+  "romaji" : null,
+  "meaning" : [ "大户人家；有钱人家" ],
+  "notes" : [ "通常指富有的家族或地位显赫的世家。注意与表示“权威、泰斗”的“大家（たいか）”区分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4779,
+  "word" : "大手",
+  "reading" : "おおて",
+  "romaji" : null,
+  "meaning" : [ "（某行业的）大企业，大公司；大户" ],
+  "notes" : [ "反义词为“小手（こて）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4780,
+  "word" : "大抵",
+  "reading" : "たいてい",
+  "romaji" : null,
+  "meaning" : [ "大部分，大都；大概，多半；通常，一般" ],
+  "notes" : [ "常用于表示推测或一般情况，语气比“全部”稍弱。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4781,
+  "word" : "大方",
+  "reading" : "おおかた",
+  "romaji" : null,
+  "meaning" : [ "大部分；多半；大致；一般；大众" ],
+  "notes" : [ "也可读作「たいほう」，此时意为“大方”、“慷慨”或“专家”。作为副词时读作「おおかた」。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4782,
+  "word" : "大晦日",
+  "reading" : "おおみそか",
+  "romaji" : null,
+  "meaning" : [ "除夕；大年三十（一年的最后一天）" ],
+  "notes" : [ "指一年的最后一天，即12月31日。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4783,
+  "word" : "大木",
+  "reading" : "たいぼく",
+  "romaji" : null,
+  "meaning" : [ "大树；巨木" ],
+  "notes" : [ "也可以读作「おおき」，但在表示大树、巨木的意思时通常读作「たいぼく」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4784,
+  "word" : "大柄",
+  "reading" : "おおがら",
+  "romaji" : null,
+  "meaning" : [ "1. （指人的体格、骨架）大，魁梧；2. （指图案、花纹）大，大型；3. （指物品）大，大型" ],
+  "notes" : [ "既可以形容人的体格高大魁梧，也可以形容图案花纹较大，还可以形容物品尺寸较大。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4785,
+  "word" : "大根",
+  "reading" : "だいこん",
+  "romaji" : null,
+  "meaning" : [ "萝卜，白萝卜。日本料理中常见的根茎类蔬菜。" ],
+  "notes" : [ "常写作“大根”，汉字写法即“萝卜”之意。在日语中是日常生活中非常基础的词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4786,
+  "word" : "大概",
+  "reading" : "たいがい",
+  "romaji" : null,
+  "meaning" : [ "大概，大致；大部分；多半" ],
+  "notes" : [ "也可作为副词使用，表示“多半”、“大致”的意思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4787,
+  "word" : "大気",
+  "reading" : "たいき",
+  "romaji" : null,
+  "meaning" : [ "大气，空气；气氛" ],
+  "notes" : [ "常用汉字。物理学术语中指包围地球的气体层；日常生活中也指氛围、空气。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4788,
+  "word" : "大水",
+  "reading" : "おおみず",
+  "romaji" : null,
+  "meaning" : [ "大水，洪水；因暴雨等造成的大规模涨水" ],
+  "notes" : [ "通常指因大雨引起的洪水。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4789,
+  "word" : "大物",
+  "reading" : "おおもの",
+  "romaji" : null,
+  "meaning" : [ "1. 大人物，巨头，重量级人物；（某领域的）权威，泰斗。\n2. 大件物品；巨大的东西。" ],
+  "notes" : [ "常用于指在政治、商业、演艺等领域具有重要地位和影响力的人物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4790,
+  "word" : "大病",
+  "reading" : "たいびょう",
+  "romaji" : null,
+  "meaning" : [ "重病，大病。指严重的疾病。" ],
+  "notes" : [ "常用于表达严重的身体疾病，强调程度之重。惯用语有「大病を得る」（患大病）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4791,
+  "word" : "大皿",
+  "reading" : "おおざら",
+  "romaji" : null,
+  "meaning" : [ "大盘子。盛装菜肴的大盘子，通常用于在餐桌上摆放食物供多人取用。" ],
+  "notes" : [ "声调为平板型[0]。与“小皿（こざら）”相对。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4792,
+  "word" : "大空",
+  "reading" : "お空",
+  "romaji" : null,
+  "meaning" : [ "广阔的天空，苍穹；高空" ],
+  "notes" : [ "常带有文学色彩或表达天空广阔、辽远的语感。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4793,
+  "word" : "大筋",
+  "reading" : "おおすじ",
+  "romaji" : null,
+  "meaning" : [ "梗概，概要；主要经过；大致轮廓" ],
+  "notes" : [ "常用于表示事情的梗概、概要或主要经过。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4794,
+  "word" : "大統領",
+  "reading" : "だいとうりょう",
+  "romaji" : null,
+  "meaning" : [ "总统" ],
+  "notes" : [ "指共和制国家的国家元首。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4795,
+  "word" : "大胆",
+  "reading" : "だいたん",
+  "romaji" : null,
+  "meaning" : [ "大胆；勇敢；无畏；厚颜无耻" ],
+  "notes" : [ "既可以形容褒义的勇敢，也可以形容贬义的厚颜无耻或冒失。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4796,
+  "word" : "大臣",
+  "reading" : "だいじん",
+  "romaji" : null,
+  "meaning" : [ "（内阁）大臣，部长；公卿" ],
+  "notes" : [ "指内阁成员，即中央政府各部的首长。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4797,
+  "word" : "大至急",
+  "reading" : "だいしきゅう",
+  "romaji" : null,
+  "meaning" : [ "非常紧急，十万火急" ],
+  "notes" : [ "「大至急」は書き言葉として使われることが多く、非常に緊急性が高い様子を表す。「至急」を強めた表現。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4798,
+  "word" : "大衆",
+  "reading" : "たいしゅう",
+  "romaji" : null,
+  "meaning" : [ "大众，群众，一般公众" ],
+  "notes" : [ "指一般的、广泛的社会民众。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4799,
+  "word" : "大通り",
+  "reading" : "おおどおり",
+  "romaji" : null,
+  "meaning" : [ "大街，主要街道，大马路" ],
+  "notes" : [ "通常指城市中宽阔的主要道路。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4800,
+  "word" : "大部",
+  "reading" : "たいぶ",
+  "romaji" : null,
+  "meaning" : [ "大部分；多半；大体上" ],
+  "notes" : [ "通常写作「大部分」或「大半」。汉字「大部」多用于专有名词或特定术语，如“大部头书”（大部の本）。作为副词表示“大部分”时，读作「たいぶ」。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+} ]

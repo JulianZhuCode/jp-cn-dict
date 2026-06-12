@@ -1,0 +1,901 @@
+[ {
+  "id" : 5801,
+  "word" : "快い",
+  "reading" : "こころよい",
+  "romaji" : null,
+  "meaning" : [ "舒服的，愉快的，爽快的；令人心情舒畅的" ],
+  "notes" : [ "多用于形容感官上的舒适感（如微风、声音）或心理上的爽快感。属于书面语或较正式的口语。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5802,
+  "word" : "快感",
+  "reading" : "かいかん",
+  "romaji" : null,
+  "meaning" : [ "快感，愉快的感觉" ],
+  "notes" : [ "通常指心理上或生理上的愉悦感觉，常用于描述某种强烈的满足感。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5803,
+  "word" : "快晴",
+  "reading" : "かいせい",
+  "romaji" : null,
+  "meaning" : [ "（天气）万里无云，大晴天，晴朗" ],
+  "notes" : [ "主要用于天气预报或描述天气状况，指云量极少、阳光明媚的天气。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5804,
+  "word" : "快諾",
+  "reading" : "かいだく",
+  "romaji" : null,
+  "meaning" : [ "欣然允诺；痛快地答应" ],
+  "notes" : [ "通常以「快諾する」的形式作为サ变动词使用。表示毫不勉强地、高兴地答应请求。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5805,
+  "word" : "快適",
+  "reading" : "かいてき",
+  "romaji" : null,
+  "meaning" : [ "舒服，舒适，惬意。指环境、条件等令人身心舒畅。" ],
+  "notes" : [ "通常用于形容环境、设备、生活状态等客观条件。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5806,
+  "word" : "念",
+  "reading" : "ねん",
+  "romaji" : null,
+  "meaning" : [ "念头，心思；信念，夙愿；注意，用心" ],
+  "notes" : [ "常用于复合词，如「信念（しんねん）」「執念（しゅうねん）」「念願（ねんがん）」「一念発起（いちねんほっき）」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5807,
+  "word" : "念のため",
+  "reading" : "ねんのため",
+  "romaji" : null,
+  "meaning" : [ "为了慎重起见；为了保险起见；以防万一" ],
+  "notes" : [ "通常作为副词使用，表示为了防止意外或失败而预先采取某种措施。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5808,
+  "word" : "念仏",
+  "reading" : "ねんぶつ",
+  "romaji" : null,
+  "meaning" : [ "（佛教）念佛，念经；念诵佛号（如“南无阿弥陀佛”）" ],
+  "notes" : [ "虽然通常作为名词使用，但在“念仏する（ねんぶつする）”的形式中也可作为サ变动词使用。原意指心中思念佛，后多指口中念诵佛名。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5809,
+  "word" : "念入り",
+  "reading" : "ねんいり",
+  "romaji" : null,
+  "meaning" : [ "周密、仔细、细心、精心" ],
+  "notes" : [ "通常写作「念入り」，也可写作「念入」。表示做事非常细心、周全，不遗漏任何细节。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5810,
+  "word" : "念頭",
+  "reading" : "ねんとう",
+  "romaji" : null,
+  "meaning" : [ "心头，心上，心上挂着的事；念头" ],
+  "notes" : [ "常以「～を念頭に置く」的形式表示“把……放在心上”、“考虑到……”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5811,
+  "word" : "念願",
+  "reading" : "ねんがん",
+  "romaji" : null,
+  "meaning" : [ "愿望，心愿；宿愿" ],
+  "notes" : [ "常以“念願の”的形式修饰名词，表示“渴望已久的”、“愿望中的”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5812,
+  "word" : "怒り",
+  "reading" : "いかり",
+  "romaji" : null,
+  "meaning" : [ "生气，愤怒，气愤" ],
+  "notes" : [ "表示强烈生气的情绪，也可以写作“憤り（いかり）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5813,
+  "word" : "怒ります",
+  "reading" : "おこります",
+  "romaji" : null,
+  "meaning" : [ "生气，发怒，愤怒" ],
+  "notes" : [ "通常指因某种原因而产生愤怒的情绪。书面语中有时也可读作「いかります」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5814,
+  "word" : "怒る",
+  "reading" : "おこる",
+  "romaji" : null,
+  "meaning" : [ "生气，发怒，发火；训斥，责备" ],
+  "notes" : [ "通常读作“おこる”。表示生气、发火时，对象通常用助词“に”；表示训斥、责备时，对象通常用助词“を”。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5815,
+  "word" : "怒鳴りつける",
+  "reading" : "どなりつける",
+  "romaji" : null,
+  "meaning" : [ "大声训斥；大声叱责；怒吼" ],
+  "notes" : [ "由动词「怒鳴る」（大声喊叫、怒吼）的连用形「怒鳴り」接「つける」而成，表示动作的强烈或动作的附着。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5816,
+  "word" : "怒鳴る",
+  "reading" : "どなる",
+  "romaji" : null,
+  "meaning" : [ "大声喊叫；大声训斥；吼叫" ],
+  "notes" : [ "常用于因生气而大声斥责他人的情况，也可指单纯的大声喊叫。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5817,
+  "word" : "怖い",
+  "reading" : "こわい",
+  "romaji" : null,
+  "meaning" : [ "可怕的，令人害怕的；恐怖的" ],
+  "notes" : [ "属于イ形容词。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5818,
+  "word" : "怖がる",
+  "reading" : "こわがる",
+  "romaji" : null,
+  "meaning" : [ "感到害怕，恐惧，发憷（表示第三人称或对他人状态的描述）" ],
+  "notes" : [ "通常用于描述第三人称的感情或状态，接续助词「を」表示害怕的对象。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5819,
+  "word" : "思い",
+  "reading" : "おもい",
+  "romaji" : null,
+  "meaning" : [ "1. 思考，想法，念头；2. 心思，心意，愿望；3. 思念，挂念，爱慕之情；4. 回忆，记忆" ],
+  "notes" : [ "可由动词「思う」的连用形转化而来的名词。常用于表达抽象的思维活动或情感。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5820,
+  "word" : "思いがけない",
+  "reading" : "おもいがけない",
+  "romaji" : null,
+  "meaning" : [ "意想不到的，意外的，出乎预料的" ],
+  "notes" : [ "也可以写作「意外な」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5821,
+  "word" : "思いつく",
+  "reading" : "おもいつく",
+  "romaji" : null,
+  "meaning" : [ "（忽然）想出，想起，想到" ],
+  "notes" : [ "通常表示忽然想到某个主意或想起某事。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5822,
+  "word" : "思います",
+  "reading" : "おもいます",
+  "romaji" : null,
+  "meaning" : [ "想，认为，觉得；打算" ],
+  "notes" : [ "原形为「思う（おもう）」。表示主观的判断、推测或意愿。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5823,
+  "word" : "思いもよらない",
+  "reading" : "おもいもよらない",
+  "romaji" : null,
+  "meaning" : [ "出乎意料，万万没想到；意想不到的" ],
+  "notes" : [ "由动词「思う（思考）」的连用形「思い」+「も（也）」+「よらない（不招致、不来临）」构成。表示连想都没有想到，完全出乎意料。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5824,
+  "word" : "思いやり",
+  "reading" : "おもいやり",
+  "romaji" : null,
+  "meaning" : [ "体贴，关心，同情心；为他人着想的心意" ],
+  "notes" : [ "由动词「思う（おもう）」的连用形「思い」与名词/动词「やり（遣り）」组合而成，表示设身处地为他人着想的态度。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5825,
+  "word" : "思い付き",
+  "reading" : "おもいつき",
+  "romaji" : null,
+  "meaning" : [ "突然想到的想法；一时的念头；心血来潮；即兴的想法" ],
+  "notes" : [ "通常指没有经过深思熟虑，突然产生的想法或主意。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5826,
+  "word" : "思い出",
+  "reading" : "おもいで",
+  "romaji" : null,
+  "meaning" : [ "回忆；往事" ],
+  "notes" : [ "指过去经历的事情在记忆中的重现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5827,
+  "word" : "思い出します",
+  "reading" : "おもいだします",
+  "romaji" : null,
+  "meaning" : [ "想起，想出，记起" ],
+  "notes" : [ "由动词「思う」和助动词「出す」复合而成，表示回忆起某事。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5828,
+  "word" : "思い出す",
+  "reading" : "おもいだす",
+  "romaji" : null,
+  "meaning" : [ "想起来，回忆起，想起" ],
+  "notes" : [ "由动词「思う」的连用形「思い」接复合后缀「出す」构成，表示某种想法或记忆浮现出来。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5829,
+  "word" : "思い切り",
+  "reading" : "おもいきり",
+  "romaji" : null,
+  "meaning" : [ "1. 痛快地，尽情地，彻底地；2. 死心，断念；3. 决心，决意" ],
+  "notes" : [ "作为副词使用时表示程度深；也可作为名词「思い切り（おもいきり）」表示下定决心或死心。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5830,
+  "word" : "思い切る",
+  "reading" : "おもいきる",
+  "romaji" : null,
+  "meaning" : [ "1. 下狠心，断然做某事，豁出去；2. 放弃，死心，断念" ],
+  "notes" : [ "通常以「思い切って」的形式作为副词使用，表示下决心做某事。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5831,
+  "word" : "思い浮かぶ",
+  "reading" : "おもいうかぶ",
+  "romaji" : null,
+  "meaning" : [ "（在脑海中）浮现，想起，联想" ],
+  "notes" : [ "通常以“～が思い浮かぶ”的形式出现。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5832,
+  "word" : "思い込む",
+  "reading" : "おもいこむ",
+  "romaji" : null,
+  "meaning" : [ "深信，确信；下定决心，一心打算；以为，误以为" ],
+  "notes" : [ "由动词「思う」的连用形「思い」接「込む」构成。表示思考程度深或沉浸于某种想法中。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5833,
+  "word" : "思い返す",
+  "reading" : "おもいかえす",
+  "romaji" : null,
+  "meaning" : [ "回想，重新考虑；反省" ],
+  "notes" : [ "由“思い”和“返す”组成的复合动词。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5834,
+  "word" : "思い通り",
+  "reading" : "おもいどおり",
+  "romaji" : null,
+  "meaning" : [ "按照自己的想法；如愿以偿；顺心" ],
+  "notes" : [ "常以「思い通りに（いかない／なる）」的形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5835,
+  "word" : "思う",
+  "reading" : "おもう",
+  "romaji" : null,
+  "meaning" : [ "想，思考；认为，觉得；预感，推测；思念，爱慕" ],
+  "notes" : [ "常以「～と思う」「～と思っている」的形式表示说话人的判断或想法。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5836,
+  "word" : "思う存分",
+  "reading" : "おもうぞんぶん",
+  "romaji" : null,
+  "meaning" : [ "尽情地，痛快地，心满意足地" ],
+  "notes" : [ "惯用语，由动词“思う”和形容动词“存分”组合而成，表示毫无保留地做某事。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5837,
+  "word" : "思える",
+  "reading" : "おもえる",
+  "romaji" : null,
+  "meaning" : [ "觉得，感到，看来（是）；能想，可以想（思える的可能态形式）" ],
+  "notes" : [ "「思う」的可能态，表示主观的判断或感觉。常以「～に思える」（觉得...看来是...）的形式使用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5838,
+  "word" : "思わしい",
+  "reading" : "おもわしい",
+  "romaji" : null,
+  "meaning" : [ "令人满意的，理想的，中意的（通常用于否定句，表示“不令人满意”、“不妥当”）" ],
+  "notes" : [ "该词多用于否定形式「思わしくない」，表示状况、结果等不符合期望或不理想。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5839,
+  "word" : "思惑",
+  "reading" : "おもわく",
+  "romaji" : null,
+  "meaning" : [ "想法，念头；预期，打算；看法，评价" ],
+  "notes" : [ "常用于表达对他人的意图推测或对未来的预期。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5840,
+  "word" : "思想",
+  "reading" : "しそう",
+  "romaji" : null,
+  "meaning" : [ "思想；想法；观念；意识" ],
+  "notes" : [ "指对事物、社会等的根本看法和思维方式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5841,
+  "word" : "思春期",
+  "reading" : "ししゅんき",
+  "romaji" : null,
+  "meaning" : [ "青春期；发育期；身体和心理发生显著变化的时期。" ],
+  "notes" : [ "通常指12岁到18岁左右的时期。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5842,
+  "word" : "思潮",
+  "reading" : "しちょう",
+  "romaji" : null,
+  "meaning" : [ "社会上的思想潮流；某种思想或主张的流行趋势" ],
+  "notes" : [ "多用于文学、哲学或社会评论领域，指代某种思想或意见的潮流。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5843,
+  "word" : "怠ける",
+  "reading" : "なまける",
+  "romaji" : null,
+  "meaning" : [ "懒惰、懈怠、疏忽" ],
+  "notes" : [ "通常用于指责或描述某人未尽其责的行为。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5844,
+  "word" : "怠け者",
+  "reading" : "なまけもの",
+  "romaji" : null,
+  "meaning" : [ "懒人，懒惰的人" ],
+  "notes" : [ "由动词「怠ける（なまける）」的连用形与名词「者（もの）」组合而成。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5845,
+  "word" : "怠る",
+  "reading" : "おこたる",
+  "romaji" : null,
+  "meaning" : [ "懈怠，偷懒；疏忽，大意；玩忽（职守）" ],
+  "notes" : [ "常用于书面语或正式场合。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5846,
+  "word" : "怠慢",
+  "reading" : "たいまん",
+  "romaji" : null,
+  "meaning" : [ "懈怠，怠慢，玩忽（职守）；疏忽" ],
+  "notes" : [ "也可作为名词使用，表示疏忽或懈怠的行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5847,
+  "word" : "急",
+  "reading" : "きゅう",
+  "romaji" : null,
+  "meaning" : [ "突然；紧急；急迫" ],
+  "notes" : [ "作为接尾词使用时，表示“急……”、“陡……”，如：急坂（きゅうざな）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5848,
+  "word" : "急いで",
+  "reading" : "いそいで",
+  "romaji" : null,
+  "meaning" : [ "急忙地，赶紧地；快速地" ],
+  "notes" : [ "动词「急ぐ（いそぐ）」的て形，用作副词表示动作的状态。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5849,
+  "word" : "急かす",
+  "reading" : "せかす",
+  "romaji" : null,
+  "meaning" : [ "催促，催，使……加快" ],
+  "notes" : [ "通常指催促别人加快动作或速度。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5850,
+  "word" : "急ぎます",
+  "reading" : "いそぎます",
+  "romaji" : null,
+  "meaning" : [ "（礼貌体）赶快，抓紧，急急忙忙地做" ],
+  "notes" : [ "动词「急ぐ（いそぐ）」的ます形（敬体）。基本形为「急ぐ」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5851,
+  "word" : "急ぐ",
+  "reading" : "いそぐ",
+  "romaji" : null,
+  "meaning" : [ "（1）加快，加速；（2）急赶，急忙；（3）着急，焦急" ],
+  "notes" : [ "常用搭配：急ぐ（赶路/抓紧时间）；注意活用：急ぎます（ます形）、急いで（て形）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5852,
+  "word" : "急に",
+  "reading" : "きゅうに",
+  "romaji" : null,
+  "meaning" : [ "突然，忽然；猛然" ],
+  "notes" : [ "表示状态或动作在短时间内发生急剧变化，通常用于没有预兆的情况。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5853,
+  "word" : "急停車",
+  "reading" : "きゅうていしゃ",
+  "romaji" : null,
+  "meaning" : [ "急刹车；紧急停车" ],
+  "notes" : [ "作为サ変动词使用时，读音为“きゅうていしゃする”，词性为“動詞”，活用类型为“サ変”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5854,
+  "word" : "急激",
+  "reading" : "きゅうげき",
+  "romaji" : null,
+  "meaning" : [ "（形势、变化等）急剧，骤然，剧烈" ],
+  "notes" : [ "通常以「急激に」的形式修饰动词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5855,
+  "word" : "急用",
+  "reading" : "きゅうよう",
+  "romaji" : null,
+  "meaning" : [ "急事；急事；必须立刻办理的事情" ],
+  "notes" : [ "通常指突然发生且必须立即处理的事情或事务。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5856,
+  "word" : "急病",
+  "reading" : "きゅうびょう",
+  "romaji" : null,
+  "meaning" : [ "突然发生的疾病；急病。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5857,
+  "word" : "急落",
+  "reading" : "きゅうらく",
+  "romaji" : null,
+  "meaning" : [ "（物价、股票、气温等）急剧下跌，暴跌，快速降落" ],
+  "notes" : [ "通常用于描述股价、物价、气温、数值等在短时间内大幅下降。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5858,
+  "word" : "急行",
+  "reading" : "きゅうこう",
+  "romaji" : null,
+  "meaning" : [ "1. 快车（指比普通列车停站少、速度快的列车）。2. 急往，奔赴（急速前往某地）。" ],
+  "notes" : [ "作为名词时通常指交通工具中的“快车”；作为サ变动词时表示“急速前往”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5859,
+  "word" : "急速",
+  "reading" : "きゅうそく",
+  "romaji" : null,
+  "meaning" : [ "急速，迅速；快速" ],
+  "notes" : [ "常以「急速に」的形式修饰动词，表示动作或状态变化的速度非常快。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5860,
+  "word" : "急騰",
+  "reading" : "きゅうとう",
+  "romaji" : null,
+  "meaning" : [ "（物价、股价等）暴涨，急剧上涨" ],
+  "notes" : [ "主要用于形容物价、股价、汇率等数值的急剧上升。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5861,
+  "word" : "性別",
+  "reading" : "せいべつ",
+  "romaji" : null,
+  "meaning" : [ "名词，指人的生理性别，即男性或女性" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5862,
+  "word" : "性格",
+  "reading" : "せいかく",
+  "romaji" : null,
+  "meaning" : [ "性格；性情；个性" ],
+  "notes" : [ "常用于描述人的个性特点等方面。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5863,
+  "word" : "性能",
+  "reading" : "せいのう",
+  "romaji" : null,
+  "meaning" : [ "性能；机能。指物品所具备的性质和功能。" ],
+  "notes" : [ "该词为音读词汇，一般在科技、机械等领域常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5864,
+  "word" : "性質",
+  "reading" : "せいしつ",
+  "romaji" : null,
+  "meaning" : [ "名词，指事物所具有的本质特点、品质，也可表示人的性格、脾气等。" ],
+  "notes" : [ "该词一般用于描述事物的内在特性或人的性格特征。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5865,
+  "word" : "怪しい",
+  "reading" : "あやしい",
+  "romaji" : null,
+  "meaning" : [ "可疑的，奇怪的；靠不住的；令人怀疑的；没准头的" ],
+  "notes" : [ "い形容词，词尾变化遵循い形容词的规则，如过去式为「怪しかった」，否定式为「怪しくない」等。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5866,
+  "word" : "怪しむ",
+  "reading" : "あやしむ",
+  "romaji" : null,
+  "meaning" : [ "怀疑，觉得奇怪；觉得靠不住，觉得可疑" ],
+  "notes" : [ "该词为五段动词，词尾是「む」，在进行词形变化时遵循五段动词的变化规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5867,
+  "word" : "怪我",
+  "reading" : "けが",
+  "romaji" : null,
+  "meaning" : [ "（身体）伤；受伤，负伤；过错，失误" ],
+  "notes" : [ "“怪我”既可以表示具体的身体上的伤，也可以表示受伤这个行为，还能用于表示过错、失误等抽象意义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5868,
+  "word" : "怪獣",
+  "reading" : "かいじゅう",
+  "romaji" : null,
+  "meaning" : [ "怪兽；怪物" ],
+  "notes" : [ "常用于描述虚构或想象中的巨大、凶猛的生物，在特摄作品中很常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5869,
+  "word" : "怯える",
+  "reading" : "おびえる",
+  "romaji" : null,
+  "meaning" : [ "害怕，胆怯；畏惧；惊恐" ],
+  "notes" : [ "常用于描述人在面对特定情况时产生的恐惧心理。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5870,
+  "word" : "恋しい",
+  "reading" : "こいしい",
+  "romaji" : null,
+  "meaning" : [ "爱慕的；怀念的，眷恋的；令人思念的" ],
+  "notes" : [ "い形容词，词尾可根据不同语法规则进行变化，如过去式为「恋しかった」，否定式为「恋しくない」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5871,
+  "word" : "恋人",
+  "reading" : "こいびと",
+  "romaji" : null,
+  "meaning" : [ "恋人；情人" ],
+  "notes" : [ "该词为名词，无词形变化，用于表达恋爱关系中的一方。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5872,
+  "word" : "恋愛",
+  "reading" : "れんあい",
+  "romaji" : null,
+  "meaning" : [ "恋爱；爱情" ],
+  "notes" : [ "该词为名词，不能像动词一样进行活用变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5873,
+  "word" : "恐らく",
+  "reading" : "おそらく",
+  "romaji" : null,
+  "meaning" : [ "恐怕，或许，大概" ],
+  "notes" : [ "用于表达不确定的推测。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5874,
+  "word" : "恐れ",
+  "reading" : "おそれ",
+  "romaji" : null,
+  "meaning" : [ "名词，恐惧，害怕；担心，担忧；恐怕，也许" ],
+  "notes" : [ "该词常与「を感じる」「がある」等搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5875,
+  "word" : "恐れる",
+  "reading" : "おそれる",
+  "romaji" : null,
+  "meaning" : [ "害怕；畏惧；担心；担忧；恐怕；也许" ],
+  "notes" : [ "该词为一段动词，在日语中用于表达人对事物的恐惧、担忧等情绪。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5876,
+  "word" : "恐れ入る",
+  "reading" : "おそれいる",
+  "romaji" : null,
+  "meaning" : [ "不好意思；非常感激；深感歉意；佩服" ],
+  "notes" : [ "この動詞は丁寧な場面や相手に対する敬意を表す際によく使われます。（这个动词常用于正式场合或表达对对方的敬意。）" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5877,
+  "word" : "恐ろしい",
+  "reading" : "おそろしい",
+  "romaji" : null,
+  "meaning" : [ "可怕的；惊人的，厉害的；令人恐惧的；令人毛骨悚然的" ],
+  "notes" : [ "い形容词，词尾可根据不同语法规则进行变化，如否定形式为「恐ろしくない」，过去式为「恐ろしかった」等。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5878,
+  "word" : "恐怖",
+  "reading" : "きょうふ",
+  "romaji" : null,
+  "meaning" : [ "恐怖，恐惧；令人恐怖的事物" ],
+  "notes" : [ "该词为音读词汇，在日语中常用来描述人的心理状态或某种令人害怕的事物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5879,
+  "word" : "恐縮",
+  "reading" : "きょうしゅく",
+  "romaji" : null,
+  "meaning" : [ "表示歉意，意为抱歉、对不起、过意不去；也有惶恐、不敢当的意思。" ],
+  "notes" : [ "作为形容动词使用时，词尾可变化，如恐縮な、恐縮です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5880,
+  "word" : "恒例",
+  "reading" : "こうれい",
+  "romaji" : null,
+  "meaning" : [ "惯例，常例，常规" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5881,
+  "word" : "恥じる",
+  "reading" : "はじる",
+  "romaji" : null,
+  "meaning" : [ "羞愧，惭愧；感到羞耻；败坏名誉" ],
+  "notes" : [ "「恥じる」是表示内心感受的动词，常用于描述人因自身行为、言语等产生的羞愧情绪。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5882,
+  "word" : "恥ずかしい",
+  "reading" : "はずかしい",
+  "romaji" : null,
+  "meaning" : [ "惭愧的；害羞的；不好意思的" ],
+  "notes" : [ "该词为い形容词，词尾可进行相应的词形变化，如过去式为「恥ずかしかった」等。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5883,
+  "word" : "恥らう",
+  "reading" : "はじらう",
+  "romaji" : null,
+  "meaning" : [ "害羞，羞涩；不好意思；感到羞耻" ],
+  "notes" : [ "该词是五段动词，词尾う段假名是「う」，在进行词形变化时遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5884,
+  "word" : "恨み",
+  "reading" : "うらみ",
+  "romaji" : null,
+  "meaning" : [ "恨，怨恨，仇恨；遗憾，惋惜" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5885,
+  "word" : "恨む",
+  "reading" : "うらむ",
+  "romaji" : null,
+  "meaning" : [ "恨，怨恨，抱怨；遗憾，懊悔" ],
+  "notes" : [ "该词为五段动词，词尾为「む」，在日语中表达对人或事的不满、埋怨等情感。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5886,
+  "word" : "恩",
+  "reading" : "おん",
+  "romaji" : null,
+  "meaning" : [ "恩情；恩惠；好处" ],
+  "notes" : [ "该词为音读词汇，一般用于书面语或正式场合表达恩情、恩惠等含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5887,
+  "word" : "恩師",
+  "reading" : "おんし",
+  "romaji" : null,
+  "meaning" : [ "名词，指对自己有恩情的老师，恩师" ],
+  "notes" : [ "该词常用于表达对老师的敬重和感恩之情。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5888,
+  "word" : "恩恵",
+  "reading" : "おんけい",
+  "romaji" : null,
+  "meaning" : [ "恩惠，恩情；优惠，好处" ],
+  "notes" : [ "常用于描述他人给予的好处或优惠，一般为书面语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5889,
+  "word" : "恭しい",
+  "reading" : "おとなしい",
+  "romaji" : null,
+  "meaning" : [ "恭敬的，有礼貌的；温顺的，老实的" ],
+  "notes" : [ "该词属于い形容词，词尾变化遵循い形容词的规则，如否定形式是「恭しくない」，过去式是「恭しかった」等。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5890,
+  "word" : "息",
+  "reading" : "いき",
+  "romaji" : null,
+  "meaning" : [ "呼吸，喘气；气息；消息；利息" ],
+  "notes" : [ "该词为音读和训读结合的词汇，“息”在不同语境有不同含义，需根据上下文理解。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5891,
+  "word" : "息子",
+  "reading" : "むすこ",
+  "romaji" : null,
+  "meaning" : [ "儿子；男孩子" ],
+  "notes" : [ "该词为普通名词，用于称呼自己或他人的儿子。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5892,
+  "word" : "息抜き",
+  "reading" : "いきぬき",
+  "romaji" : null,
+  "meaning" : [ "歇口气，休息一会儿；放松一下" ],
+  "notes" : [ "该词为名词，常与「をする」搭配使用，表示进行休息的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5893,
+  "word" : "恵まれる",
+  "reading" : "めぐまれる",
+  "romaji" : null,
+  "meaning" : [ "受到恩惠；富有；得天独厚；有幸得到。" ],
+  "notes" : [ "该词为被动形式，表达主语受到某种有利条件的眷顾。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5894,
+  "word" : "恵み",
+  "reading" : "めぐみ",
+  "romaji" : null,
+  "meaning" : [ "恩赐，恩惠；幸运；福泽" ],
+  "notes" : [ "该词为名词，使用时通常不需要变形，常与表示获得、接受等含义的动词搭配。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5895,
+  "word" : "恵む",
+  "reading" : "めぐむ",
+  "romaji" : null,
+  "meaning" : [ "怜恤，施恩惠，救济；赐予，赋予；惠顾，光临" ],
+  "notes" : [ "「恵む」是一个较为正式的词汇，常用于书面语或较为正式的场合。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5896,
+  "word" : "悉く",
+  "reading" : "ことごとく",
+  "romaji" : null,
+  "meaning" : [ "全部，所有；一概，统统" ],
+  "notes" : [ "该词较为书面化，常用于正式场合或书面表达中。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5897,
+  "word" : "悔いる",
+  "reading" : "くやいる",
+  "romaji" : null,
+  "meaning" : [ "懊悔，后悔；遗憾；不甘心" ],
+  "notes" : [ "该动词为他动词，表示对过去发生的事情感到懊悔、自责等情绪。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5898,
+  "word" : "悔しい",
+  "reading" : "くやしい",
+  "romaji" : null,
+  "meaning" : [ "遗憾的，懊悔的；不甘心的，窝火的" ],
+  "notes" : [ "い形容词，词尾为「い」，有词形变化，可作谓语、定语等。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5899,
+  "word" : "悔しがる",
+  "reading" : "くやしがる",
+  "romaji" : null,
+  "meaning" : [ "感到遗憾，懊悔；不甘心" ],
+  "notes" : [ "该词是五段动词，词尾为「る」，但属于五段动词的特殊变化。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5900,
+  "word" : "悔やむ",
+  "reading" : "くやむ",
+  "romaji" : null,
+  "meaning" : [ "后悔；懊悔；遗憾；不甘心" ],
+  "notes" : [ "该词常用于表达对过去事情的惋惜、懊恼等情绪。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+} ]

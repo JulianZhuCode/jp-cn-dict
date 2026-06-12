@@ -1,0 +1,901 @@
+[ {
+  "id" : 1301,
+  "word" : "アップする",
+  "reading" : "あっぷする",
+  "romaji" : null,
+  "meaning" : [ "1. （水平、数值、地位等）提高，增高，提升；2. 上传（文件、数据等）；3. （摄影）向上移动镜头，放大拍摄；4. 更新（社交网络内容等）" ],
+  "notes" : [ "这是英语\"up\"转化而来的日语和制外来语动词，属于サ变动词，也可单独以名词\"アップ\"使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1302,
+  "word" : "アドバイス",
+  "reading" : "あどばいす",
+  "romaji" : null,
+  "meaning" : [ "建议，忠告，劝告，建言" ],
+  "notes" : [ "源自英语单词\"advice\"的外来语，可作为名词使用，后续接「する」构成サ変活用动词，属于日语能力考N3级别要求词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1303,
+  "word" : "アドレス",
+  "reading" : "あどれす",
+  "romaji" : null,
+  "meaning" : [ "1.（通讯、居住的）地址，住址；2.（互联网的）网址，邮箱地址；3.（高尔夫等运动的）准备击球姿势" ],
+  "notes" : [ "来源于英语单词\"address\"的外来语，在日常日语中除实体住址外，也广泛用于指网络电子邮箱地址、网址等虚拟地址。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1304,
+  "word" : "アナウンサー",
+  "reading" : "アナウンサー",
+  "romaji" : null,
+  "meaning" : [ "播音员，广播员，播报员" ],
+  "notes" : [ "源自英语词\"announcer\"，属于外来语名词，指负责广播、电视节目播报的从业人员。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1305,
+  "word" : "アナウンス",
+  "reading" : "アナウンス",
+  "romaji" : null,
+  "meaning" : [ "1.（电台、电视台等的）广播，播报；2.（官方、公开场合的）通知，公告，通告；3.（活动等的）预告，宣布" ],
+  "notes" : [ "源自英语单词\"announce\"，日语中既可以作为名词使用，也可以作为サ变活用动词（后续する构成动词）使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1306,
+  "word" : "アニメ",
+  "reading" : "アニメ",
+  "romaji" : null,
+  "meaning" : [ "动画片，动漫，是「アニメーション」的缩略说法" ],
+  "notes" : [ "源自英语animation，是日语外来语，口语中常用缩略形式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1307,
+  "word" : "アニメ",
+  "reading" : "あにめ",
+  "romaji" : null,
+  "meaning" : [ "动画，动画片，动漫（是「アニメーション」的缩略说法）" ],
+  "notes" : [ "该词是英语「animation」传入日语后形成的和制外来语缩略词，日常语境中除了指动画作品、动画制作领域，也常指代日本出产的动漫作品" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1308,
+  "word" : "アパート",
+  "reading" : "あぱーと",
+  "romaji" : null,
+  "meaning" : [ "日本式的公共公寓，通常为木结构或简易钢筋混凝土结构的低楼层集合住宅，租金相对便宜，区别于 newer 更高档的「マンション」，中文含义为公寓" ],
+  "notes" : [ "词源是英语「apartment」的音译，在日本和中高档的「マンション」有明确区别" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1309,
+  "word" : "アピール",
+  "reading" : "アピール",
+  "romaji" : null,
+  "meaning" : [ "呼吁，诉求，要求；宣传，打动人心；有魅力，有吸引力" ],
+  "notes" : [ "源自英语单词\"appeal\"，可作为名词或サ变动词使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1310,
+  "word" : "アフターケア",
+  "reading" : "あふたーけあ",
+  "romaji" : null,
+  "meaning" : [ "病后疗养、术后护理；（商品出售后的）售后服务、售后保养护理" ],
+  "notes" : [ "源自英语after care，是日语外来语，也可写为「アフターケアー」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1311,
+  "word" : "アフターサービス",
+  "reading" : "あふたーさーびす",
+  "romaji" : null,
+  "meaning" : [ "商品販売後に、販売者側が購入者に対して行う修理・点検・保守などの各種サービス、中文含义为售后服务，也可指保修服务" ],
+  "notes" : [ "英语\"after service\"的音译外来词，也可略称为アフター" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1312,
+  "word" : "アプローチ",
+  "reading" : "あぷろーち",
+  "romaji" : null,
+  "meaning" : [ "1.（空间上的）接近，靠近；2.（对问题、课题的）探讨，研究，处理；3.（为达目的的）接近，打交道，搭讪；4.（高尔夫）近击球，切球；5.（滑雪）滑降出发坡道" ],
+  "notes" : [ "源自英语单词\"approach\"，作为动词使用时为サ変活用，常后续「する」构成动词短语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1313,
+  "word" : "アボカド",
+  "reading" : "アボカド",
+  "romaji" : null,
+  "meaning" : [ "鳄梨，油梨，牛油果；鳄梨树" ],
+  "notes" : [ "源自英语单词\"avocado\"，也可写作「鳄梨」，日常多使用片假名形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1314,
+  "word" : "アポ",
+  "reading" : "あぽ",
+  "romaji" : null,
+  "meaning" : [ "是アポイントメント（appointment）的缩略语，指（事先预约的）会面、约会、约定" ],
+  "notes" : [ "日本职场和日常生活中常用的略语，原词为英语appointment的日语音译变形" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1315,
+  "word" : "アマチュア",
+  "reading" : "あまちゅあ",
+  "romaji" : null,
+  "meaning" : [ "业余爱好者，业余人士；非职业选手" ],
+  "notes" : [ "源自英语单词\"amateur\"，也可作为形容动词使用修饰名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1316,
+  "word" : "アメリカ",
+  "reading" : "あめりか",
+  "romaji" : null,
+  "meaning" : [ "美利坚合众国（美国），也可指美洲" ],
+  "notes" : [ "源自英语\"America\"，可指代美国也可指代美洲大陆，日常使用中多偏指美国" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1317,
+  "word" : "アラーム",
+  "reading" : "あらーむ",
+  "romaji" : null,
+  "meaning" : [ "闹钟；警报，警报器；告警" ],
+  "notes" : [ "源自英语单词\"alarm\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1318,
+  "word" : "アルカリ",
+  "reading" : "あるかり",
+  "romaji" : null,
+  "meaning" : [ "（化学用语）碱，碱性；也指强碱" ],
+  "notes" : [ "源自英语「alkali」，是日语外来语名词，对应化学概念中与酸相对的碱类物质。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1319,
+  "word" : "アルコール",
+  "reading" : "アルコール",
+  "romaji" : null,
+  "meaning" : [ "1. 酒精，乙醇；2. 含酒精的饮品，酒" ],
+  "notes" : [ "源自英语单词「alcohol」，是日语外来词，也可指含酒精的饮品统称。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1320,
+  "word" : "アルバイト",
+  "reading" : "あるばいと",
+  "romaji" : null,
+  "meaning" : [ "源自德语「Arbeit」，指学生等群体为赚取收入在本职学业或工作之外从事的临时劳动，即打工、兼职；也可指兼职工作本身" ],
+  "notes" : [ "日语中常用简称「バイト」，日本正式打工入职前通常需要办理「アルバイト許可」，该词可作为名词使用，也可构成サ変動詞「アルバイトする」使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1321,
+  "word" : "アルバム",
+  "reading" : "あるばむ",
+  "romaji" : null,
+  "meaning" : [ "相册，影集，纪念册；（音乐）专辑" ],
+  "notes" : [ "源自英语单词\"album\"的外来语，除了纪念相册、影集的含义外，也常用作表示音乐专辑。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1322,
+  "word" : "アルファベット",
+  "reading" : "あるふぁべっと",
+  "romaji" : null,
+  "meaning" : [ "1. 拉丁字母表，拉丁字母序列；2. （某一语言的）字母表；3. （某领域的）基本知识，入门" ],
+  "notes" : [ "源自英语\"alphabet\"，在日语中通常特指拉丁字母体系，也可泛指所有语言的字母表。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1323,
+  "word" : "アルミ",
+  "reading" : "あるみ",
+  "romaji" : null,
+  "meaning" : [ "铝（アルミニウム的略称），也可指镀铝、铝制品" ],
+  "notes" : [ "是「アルミニウム」的口语常用略称，正式场合多用全称アルミニウム" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1324,
+  "word" : "アレルギー",
+  "reading" : "アレルギー",
+  "romaji" : null,
+  "meaning" : [ "医学用语，意为过敏、过敏反应；也可引申指对特定人或事物的反感、厌恶" ],
+  "notes" : [ "该词是源自德语「Allergie」的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1325,
+  "word" : "アレンジ",
+  "reading" : "アレンジ",
+  "romaji" : null,
+  "meaning" : [ "1.（音乐、作品等的）改编；2.（服装、搭配等的）设计、整理；3.（计划、活动等的）安排、筹划" ],
+  "notes" : [ "来源于英语单词\"arrange\"，是日语中常用的外来语，可作名词使用，也可后续「する」构成サ変活用动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1326,
+  "word" : "アレンジする",
+  "reading" : "アレンジする",
+  "romaji" : null,
+  "meaning" : [ "改编，改写（音乐、作品等）；整理，布置，排列；安排，筹备；（为适应需求）调整，改制" ],
+  "notes" : [ "源自英语单词\"arrange\"，是日语外来语サ变动词，在音乐领域常译为「编曲」" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1327,
+  "word" : "アンケート",
+  "reading" : "アンケート",
+  "romaji" : null,
+  "meaning" : [ "问卷调查，民意调查，征询意见，是源自法语「enquête」的外来语" ],
+  "notes" : [ "源自法语外来词，日常用于统计调查、意见收集等场景，是日语中常用的外来名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1328,
+  "word" : "アンコール",
+  "reading" : "あんこーる",
+  "romaji" : null,
+  "meaning" : [ "1.（演唱会等演出结束后观众）要求重演、再来一个、返场；2.（广播等用语）重播" ],
+  "notes" : [ "该词是源自法语「encore」的外来语，常用作名词，也可作サ変動詞使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1329,
+  "word" : "アンテナ",
+  "reading" : "アンテナ",
+  "romaji" : null,
+  "meaning" : [ "1. 天线；2.（对信息的）感知能力，直觉" ],
+  "notes" : [ "该词是源自英语「antenna」的外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1330,
+  "word" : "アンニョンハシムニカ",
+  "reading" : "アンニョンハシムニカ",
+  "romaji" : null,
+  "meaning" : [ "您好，是源自朝鲜语（韩国语）안녕하십니까的日语借入感叹词，用于正式场合的见面问候" ],
+  "notes" : [ "本词是朝鲜语标准语正式问候语안녕하십니까的片假名转写借入词，不属于日语原生词汇，不在日语能力考N1-N5出题范围内，所以未标注JLPT级别" ],
+  "pos" : "INTERJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1331,
+  "word" : "イベント",
+  "reading" : "いべんと",
+  "romaji" : null,
+  "meaning" : [ "源自英文event，指有组织的活动、公开活动、事件" ],
+  "notes" : [ "原拼写中「べ」小写书写错误，正确应为片假名「ベ」，是日语常用外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1332,
+  "word" : "イエス",
+  "reading" : "いえす",
+  "romaji" : null,
+  "meaning" : [ "1. （对疑问、提议的肯定回答）是，对，同意；2. 耶穌（Jesus的音译，=イエス・キリスト）" ],
+  "notes" : [ "外来语，源自英语\"yes\"和\"Jesus\"，作肯定回答时使用场景更偏向非正式，正式场合常用「はい」" ],
+  "pos" : "INTERJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1333,
+  "word" : "イカ",
+  "reading" : "イカ",
+  "romaji" : null,
+  "meaning" : [ "1. 鱿鱼，枪乌贼；2. （引申义）因醉酒或毒品导致的意识不清、状态异常" ],
+  "notes" : [ "原条目错误地将词性标注为other，实际为名词；原标注的读音「イカ5」是音调标注错误，这里修正为标准读音；难度级别修正为N5，是日语基础词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1334,
+  "word" : "イコール",
+  "reading" : "いこーる",
+  "romaji" : null,
+  "meaning" : [ "1. （数学）等于；等号；2. 相等，同等，等价" ],
+  "notes" : [ "外来语，源自英语equal" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1335,
+  "word" : "イニシャル",
+  "reading" : "いにしゃる",
+  "romaji" : null,
+  "meaning" : [ "1. 单词、人名、名称等的首字母，词首大写字母；2. 初始的，最初的（也可作形容动词使用）" ],
+  "notes" : [ "来源于英语单词\"initial\"，日语中为外来语名词，日常多用于表示姓名等的首字母标识。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1336,
+  "word" : "イノベーション",
+  "reading" : "いのべーしょん",
+  "romaji" : null,
+  "meaning" : [ "（源自英语innovation）创新，改革，革新，变革" ],
+  "notes" : [ "日语中该词多指代商业、科技领域的创新活动，是日语中常用的外来语词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1337,
+  "word" : "イベント",
+  "reading" : "いべんと",
+  "romaji" : null,
+  "meaning" : [ "事件；集会，活动；（演艺、体育等的）公开活动、赛事" ],
+  "notes" : [ "来自英语词汇\"event\"的外来语，在日语中更常用于指代各类公开举办的活动，较少用于表示突发的事件义，后者更常用「事件（じけん）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1338,
+  "word" : "イベントホール",
+  "reading" : "いべんとほーる",
+  "romaji" : null,
+  "meaning" : [ "源自英语event hall，指用于举办各类活动、集会、比赛等的大型大厅场馆" ],
+  "notes" : [ "外来语复合词，是日语中常用的外来词汇，多用于公共场馆相关场景" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1339,
+  "word" : "イメージ",
+  "reading" : "イメージ",
+  "romaji" : null,
+  "meaning" : [ "印象，形象；映像，图像；意象，概念" ],
+  "notes" : [ "来源于英语单词\"image\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1340,
+  "word" : "イメージキャラクター",
+  "reading" : "イメージキャラクター",
+  "romaji" : null,
+  "meaning" : [ "企业、商品等的形象角色、形象代言人，指为宣传品牌、商品而选用的代表性人物或虚构角色，用于塑造品牌形象、提升知名度" ],
+  "notes" : [ "由英语「image character」音译而来的外来语，也可略称为イメキャラ" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1341,
+  "word" : "イヤホン",
+  "reading" : "いやほん",
+  "romaji" : null,
+  "meaning" : [ "入耳式耳机，也可泛指耳机" ],
+  "notes" : [ "源自英语「earphone」，日常使用中常和「ヘッドホン（头戴式耳机）」区分使用，广义也可指代所有耳机类产品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1342,
+  "word" : "イヤリング",
+  "reading" : "いやりんぐ",
+  "romaji" : null,
+  "meaning" : [ "（夹式）耳环，耳饰" ],
+  "notes" : [ "日语中「ピアス」一般指穿刺式耳钉，「イヤリング」通常指夹式耳环，二者都属于耳饰类。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1343,
+  "word" : "イラスト",
+  "reading" : "いらすと",
+  "romaji" : null,
+  "meaning" : [ "插图，插画，图解" ],
+  "notes" : [ "该词是英语「illustration」的外来语缩略说法，日常多用来指代插画作品，是日语中常用的外来语名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1344,
+  "word" : "インク",
+  "reading" : "いんく",
+  "romaji" : null,
+  "meaning" : [ "墨水；油墨" ],
+  "notes" : [ "来自英语单词\"ink\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1345,
+  "word" : "インスタントラーメン",
+  "reading" : "インスタントラーメン",
+  "romaji" : null,
+  "meaning" : [ "方便面，速食拉面" ],
+  "notes" : [ "来自英语「instant ramen」的外来语，也可简称「インスタント麺」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1346,
+  "word" : "インストール",
+  "reading" : "いんすとーる",
+  "romaji" : null,
+  "meaning" : [ "1.（计算机领域）安装软件、程序；2.（机械、设备等）安装、设置" ],
+  "notes" : [ "来源于英语单词\"install\"，是日语中的外来语，通常以「～をインストールする」的形式作动词使用，也可单独作名词使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1347,
+  "word" : "インスピレーション",
+  "reading" : "いんすぴれーしょん",
+  "romaji" : null,
+  "meaning" : [ "灵感；启发；（艺术创作的）灵感" ],
+  "notes" : [ "源自英语单词\"inspiration\"，日语中也可简称「インスピ」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1348,
+  "word" : "インタビュー",
+  "reading" : "いんたびゅー",
+  "romaji" : null,
+  "meaning" : [ "1. （采访，访谈）指针对特定对象提问获取信息的活动；2. （访问，晤谈）指正式的会见、面谈" ],
+  "notes" : [ "来自英语单词\"interview\"的外来语，可作名词使用，也可作为サ变动词，后续接「する」构成动词用法。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1349,
+  "word" : "インターチェンジ",
+  "reading" : "いんたーちぇんじ",
+  "romaji" : null,
+  "meaning" : [ "高速公路出入口， interchange；也可表示交换、互换" ],
+  "notes" : [ "源自英语interchange，日语中常省略简称「インター」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1350,
+  "word" : "インターナショナル",
+  "reading" : "いんたーなしょなる",
+  "romaji" : null,
+  "meaning" : [ "国际的；国际通用的" ],
+  "notes" : [ "源自英语单词\"international\"，也可作名词使用指国际歌" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1351,
+  "word" : "インターネット",
+  "reading" : "いんたーねっと",
+  "romaji" : null,
+  "meaning" : [ "互联网，因特网" ],
+  "notes" : [ "外来语，源自英语\"internet\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1352,
+  "word" : "インターフォン",
+  "reading" : "いんたーふぉん",
+  "romaji" : null,
+  "meaning" : [ "内线电话，对讲机，门铃对讲装置" ],
+  "notes" : [ "源自英语「intercom」，也可写作「インターホン」，两种写法通用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1353,
+  "word" : "インターホン",
+  "reading" : "インターホン",
+  "romaji" : null,
+  "meaning" : [ "源自英语intercom，指楼宇、住宅、办公场所使用的内部对讲通话设备，也可指门铃对讲机，涵盖有线对讲机、内线对讲机、门禁对讲机" ],
+  "notes" : [ "和製外来語，正式分类为名词，日常使用中也常被俗略称为インターホン，是生活日语中常用词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1354,
+  "word" : "インターンシップ",
+  "reading" : "いんたーんしっぷ",
+  "romaji" : null,
+  "meaning" : [ "源自英语internship，指企业等机构为在校学生提供的实践实习制度、实习工作" ],
+  "notes" : [ "日语中常简称作「インターン」，是日语外来词，属于日本语能力测试N2级别词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1355,
+  "word" : "インテリ",
+  "reading" : "いんてり",
+  "romaji" : null,
+  "meaning" : [ "知识分子，知识阶层，来源于俄语интеллигенция的缩略外来词，指接受过高等教育、具备知识素养的群体" ],
+  "notes" : [ "该词是「インテリゲンチャ」的略称，为外来语名词，偏向略带古典或略带贬义的用法，指脱离实际的知识阶层" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1356,
+  "word" : "インフォメーション",
+  "reading" : "いんふぉめーしょん",
+  "romaji" : null,
+  "meaning" : [ "信息，资讯，消息；问讯处，服务台" ],
+  "notes" : [ "源自英语单词\"information\"，是日语外来语，常用于正式场合及公共服务场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1357,
+  "word" : "インフルエンザ",
+  "reading" : "インフルエンザ",
+  "romaji" : null,
+  "meaning" : [ "流行性感冒，流感" ],
+  "notes" : [ "源自英语influenza，常简称インフル，是流感病毒引起的急性呼吸道感染疾病。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1358,
+  "word" : "インフレ",
+  "reading" : "いんふれ",
+  "romaji" : null,
+  "meaning" : [ "通货膨胀，是「インフレーション（inflation）」的略称，指物价持续上涨、货币购买力持续下降的经济现象" ],
+  "notes" : [ "该词是英语inflation的音译略词，对应的反义词是デフレ（デフレーション，通货紧缩）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1359,
+  "word" : "ウィンドー",
+  "reading" : "ウィンドー",
+  "romaji" : null,
+  "meaning" : [ "窗户；（计算机操作系统的）窗口，视窗" ],
+  "notes" : [ "英语\"window\"的外来语，也可写作ウインドウ，词义和「窓（まど）」重叠时多用于西式建筑语境，计算机窗口义是常用义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1360,
+  "word" : "ウイスキー",
+  "reading" : "ウイスキー",
+  "romaji" : null,
+  "meaning" : [ "威士忌（源自英文whisky，一种蒸馏酒类饮品）" ],
+  "notes" : [ "外来语，来源于英语单词\"whisky\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1361,
+  "word" : "ウイット",
+  "reading" : "ウィット",
+  "romaji" : null,
+  "meaning" : [ "机智，才智；机智的言辞，妙语，打趣话" ],
+  "notes" : [ "源自英语单词\"wit\"，也可表记为「ウィット」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1362,
+  "word" : "ウイルス",
+  "reading" : "ウイルス",
+  "romaji" : null,
+  "meaning" : [ "病毒；计算机病毒，病毒（生物学中比细菌还小的病原体）" ],
+  "notes" : [ "外来语，源自英语\"virus\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1363,
+  "word" : "ウイークデー",
+  "reading" : "ういーくでー",
+  "romaji" : null,
+  "meaning" : [ "工作日，平日（指周六日、节假日之外的工作日）" ],
+  "notes" : [ "也可写作「ウィークデイ」，对应英文单词weekday" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1364,
+  "word" : "ウェットティッシュ",
+  "reading" : "ウェットティッシュ",
+  "romaji" : null,
+  "meaning" : [ "湿纸巾，湿纸巾（由wet tissue音译而来，指预先浸润了清洁液等的一次性擦拭纸巾）" ],
+  "notes" : [ "这是源自英语\"wet tissue\"的外来语，也可缩写为「ウェッティ」，对应干纸巾是「ドライティッシュ」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1365,
+  "word" : "ウェーター",
+  "reading" : "うぇーたー",
+  "romaji" : null,
+  "meaning" : [ "源自英语waiter，指餐厅等场所的男服务员" ],
+  "notes" : [ "对应女性服务员为「ウェイトレス」，也可写作「ウエイター」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1366,
+  "word" : "ウェートレス",
+  "reading" : "ウェートレス",
+  "romaji" : null,
+  "meaning" : [ "女服务员，西餐厅等场所的女性服务生，对应英文单词waitress" ],
+  "notes" : [ "源自英语单词\"waitress\"，属于外来语，男性服务生称作ウェイター（waiter）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1367,
+  "word" : "ウエット",
+  "reading" : "ウェット",
+  "romaji" : null,
+  "meaning" : [ "湿的，潮湿的；（性格）情绪化的，多愁善感的；含酒精少的（饮料）" ],
+  "notes" : [ "也可作名词使用，对应英文wet，常表示湿润、含水的状态，也可形容人的性格特质" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1368,
+  "word" : "ウエディングドレス",
+  "reading" : "ウエディングドレス",
+  "romaji" : null,
+  "meaning" : [ "婚纱，女式结婚礼服" ],
+  "notes" : [ "也可写作ウェディングドレス，源自英语wedding dress，是外来语名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1369,
+  "word" : "ウサギ",
+  "reading" : "うさぎ",
+  "romaji" : null,
+  "meaning" : [ "兔，兔子；（麻将中的）白兔牌，白板" ],
+  "notes" : [ "也可写作汉字「兎」，是日语中对兔科动物的通用称呼，属于日语能力考N5核心词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1370,
+  "word" : "ウーマン",
+  "reading" : "うーまん",
+  "romaji" : null,
+  "meaning" : [ "（源自英语woman）妇女，女性，女人" ],
+  "notes" : [ "外来语，偏口语化使用，常与其他词汇组成复合词，正式场合一般用「女性」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1371,
+  "word" : "ウール",
+  "reading" : "ウール",
+  "romaji" : null,
+  "meaning" : [ "羊毛；毛织品，毛料" ],
+  "notes" : [ "该词是来源于英语\"wool\"的外来词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1372,
+  "word" : "エアコン",
+  "reading" : "エアコン",
+  "romaji" : null,
+  "meaning" : [ "空调，是「エアー・コンディショナー（air conditioner）」的省略形，指空气调节设备，在日语中通常特指室内空调" ],
+  "notes" : [ "外来语，英语air conditioner的和制省略词，是日语日常生活中的常用词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1373,
+  "word" : "エアポート",
+  "reading" : "えあぽーと",
+  "romaji" : null,
+  "meaning" : [ "机场，英文airport的外来语，指航空港、飞机场" ],
+  "notes" : [ "属于外来语，日常日语中更常用「空港（くうこう）」，エアポート多用于名称、广告等正式或外来风格的表达中" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1374,
+  "word" : "エアメール",
+  "reading" : "えあめーる",
+  "romaji" : null,
+  "meaning" : [ "航空邮件，航空信件" ],
+  "notes" : [ "外来语，源自英语\"air mail\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1375,
+  "word" : "エキス",
+  "reading" : "えきす",
+  "romaji" : null,
+  "meaning" : [ "（药物、食品的）提取物；萃取液；精华，精髓" ],
+  "notes" : [ "源自英语单词\"extract\"，是日语外来词，日常多用于指代提取物、精华类物质。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1376,
+  "word" : "エキストラ",
+  "reading" : "エキストラ",
+  "romaji" : null,
+  "meaning" : [ "1. （影视拍摄的）临时演员，群众演员；2. 额外，附加，临时；3. （报纸的）增刊，号外；4. （商品的）额外赠品，附加商品" ],
+  "notes" : [ "源自英语单词\"extra\"，是日语外来语词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1377,
+  "word" : "エキゾチック",
+  "reading" : "エキゾチック",
+  "romaji" : null,
+  "meaning" : [ "异国情调的，异国风味的；奇特的，奇异的" ],
+  "notes" : [ "源自英语单词\"exotic\"的日语外来语，词性为形容动词（ナ形容词）" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1378,
+  "word" : "エコ",
+  "reading" : "えこ",
+  "romaji" : null,
+  "meaning" : [ "生态学；环保（生态保护相关理念、行动的统称）" ],
+  "notes" : [ "「エコ」是外来语，源自英语「ecology」和「ecology movement」的缩写，常作为构词成分构成复合词，如「エコバッグ（环保袋）」「エコカー（环保汽车）」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1379,
+  "word" : "エコロジー",
+  "reading" : "エコロジー",
+  "romaji" : null,
+  "meaning" : [ "生态学；也可泛指生态保护、环保，对应英文ecology" ],
+  "notes" : [ "该词是源自英语ecology的外来词，日常语境中也常缩略为「エコ」使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1380,
+  "word" : "エスカレーター",
+  "reading" : "えすかれーたー",
+  "romaji" : null,
+  "meaning" : [ "自动扶梯，自动行人电梯" ],
+  "notes" : [ "源自英语单词\"escalator\"，是外来语名词，使用时注意和「エレベーター（电梯）」区分" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1381,
+  "word" : "エスカレート",
+  "reading" : "えすかれーと",
+  "romaji" : null,
+  "meaning" : [ "原指 escalator 的升降动作，引申为（规模、程度、纷争、矛盾等）逐步升级，不断扩大" ],
+  "notes" : [ "来自英语单词\"escalate\"的外来语，通常用于描述冲突、矛盾、对抗等负面事物程度不断加深的过程" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1382,
+  "word" : "エステ",
+  "reading" : "エステ",
+  "romaji" : null,
+  "meaning" : [ "源自法语「esthetique」，指美容沙龙、美容护理，特指全身美容保养" ],
+  "notes" : [ "全称是「エステティック」，日常使用中多省略为「エステ」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1383,
+  "word" : "エチケット",
+  "reading" : "えちけっと",
+  "romaji" : null,
+  "meaning" : [ "礼节，礼仪，礼仪规范" ],
+  "notes" : [ "源自法语词\"étiquette\"，是日语外来词，指社会生活中约定俗成的礼仪规范" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1384,
+  "word" : "エッセイ",
+  "reading" : "えっせい",
+  "romaji" : null,
+  "meaning" : [ "随笔，散文，小品文，短文（日本語では随筆・散文に加え、大学入試などで課される課題作文も指す）" ],
+  "notes" : [ "源自英语单词\"essay\"，是日语外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1385,
+  "word" : "エネルギー",
+  "reading" : "エネルギー",
+  "romaji" : null,
+  "meaning" : [ "1. 物理、生物学领域的能量；2. 可供利用的能源（如电力、化石燃料等）；3. 人的精力、活力、气力" ],
+  "notes" : [ "源自英语单词\"energy\"，是日语外来语，也可表「エネルギ」的略写，现代通用表记为「エネルギー」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1386,
+  "word" : "エビ",
+  "reading" : "エビ",
+  "romaji" : null,
+  "meaning" : [ "虾，虾仁；对虾科甲壳类动物的统称" ],
+  "notes" : [ "也可写作汉字「海老」，是日语中的外来词借音写法，日常使用频率很高" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1387,
+  "word" : "エピソード",
+  "reading" : "えぴそーど",
+  "romaji" : null,
+  "meaning" : [ "（小说、影视等的）插曲，片段，章节；小故事，轶事，趣闻" ],
+  "notes" : [ "源自英语单词\"episode\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1388,
+  "word" : "エプロン",
+  "reading" : "エプロン",
+  "romaji" : null,
+  "meaning" : [ "围裙；（舞台等的）台口，前凸部分" ],
+  "notes" : [ "外来语，源自英语apron" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1389,
+  "word" : "エリート",
+  "reading" : "えりーと",
+  "romaji" : null,
+  "meaning" : [ "源自英语「elite」，指在社会、团体中处于优势地位的优秀阶层，精英，尖子，杰出人物" ],
+  "notes" : [ "外来语（片假名词）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1390,
+  "word" : "エルニーニョ",
+  "reading" : "エルニーニョ",
+  "romaji" : null,
+  "meaning" : [ "气象学专有名词，源自西班牙语El Niño，指厄尔尼诺现象，即太平洋东部和中部的热带海洋海水温度异常持续变暖，使全球气候模式发生变化的异常现象" ],
+  "notes" : [ "是西班牙语“El Niño（小男孩，圣婴）”的音译，对应的反义现象为「ラニーニャ（拉尼娜）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1391,
+  "word" : "エレガント",
+  "reading" : "えれがんと",
+  "romaji" : null,
+  "meaning" : [ "优雅的，高雅的，雅致的" ],
+  "notes" : [ "源自英语单词\"elegant\"的外来语，属于ナ形容词，修饰名词时需要后续「な」，修饰动词时需要后续「に」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1392,
+  "word" : "エレベーター",
+  "reading" : "えれべーたー",
+  "romaji" : null,
+  "meaning" : [ "升降电梯，直梯，是英语elevator的外来语，对应英式英语的lift" ],
+  "notes" : [ "日语中エスカレーター指自动扶梯，注意和エレベーター区分" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1393,
+  "word" : "エンジニア",
+  "reading" : "えんじにあ",
+  "romaji" : null,
+  "meaning" : [ "工程师，技师，源自英文engineer，指从事工程设计、开发、维护等技术工作的专业人员" ],
+  "notes" : [ "外来语，来自英语\"engineer\"，属于日语中常用的舶来词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1394,
+  "word" : "エンジン",
+  "reading" : "えんじん",
+  "romaji" : null,
+  "meaning" : [ "引擎，发动机；（比喻事物的）动力源" ],
+  "notes" : [ "源自英语单词\"engine\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1395,
+  "word" : "エンスト",
+  "reading" : "えんすと",
+  "romaji" : null,
+  "meaning" : [ "指内燃机车、机动车等发动机意外熄火停车，是日语「エンジン・ストップ」的缩略语，本义是发动机停止运转，通常指非手动操作的意外熄火" ],
+  "notes" : [ "源自英语engine stop的和制缩略语，是日语口语及汽车相关领域常用词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1396,
+  "word" : "エントリー",
+  "reading" : "えんとりー",
+  "romaji" : null,
+  "meaning" : [ "1. 报名参加（比赛、活动、招募等）；2. 条目，词条（计算机、数据领域术语）；3. 参赛选手，参赛者" ],
+  "notes" : [ "来自英语单词\"entry\"的外来语，可作为名词，也可以后续「する」构成サ変活用动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1397,
+  "word" : "オイル",
+  "reading" : "おいる",
+  "romaji" : null,
+  "meaning" : [ "油；石油；润滑油；精油" ],
+  "notes" : [ "来源于英语单词\"oil\"的外来语，可指代各类动植物油、矿物油以及精油等油脂类物质" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1398,
+  "word" : "オゾン",
+  "reading" : "おぞん",
+  "romaji" : null,
+  "meaning" : [ "化学名词，臭氧（O₃），是氧气的同素异形体，常温下为有特殊臭味的淡蓝色气体" ],
+  "notes" : [ "外来语，源自英语\"ozone\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1399,
+  "word" : "オノマトペ",
+  "reading" : "おのまとぺ",
+  "romaji" : null,
+  "meaning" : [ "onomatopoeia，拟声词、拟态词的统称，包含拟声（模拟声音）和拟态（描摹状态、样态）两类词汇，中文也可称摹声词" ],
+  "notes" : [ "该词是源自法语「onomatopée」的外来语，日语中不仅包含拟声词，还涵盖大量描摹状态、体感的拟态词，范围大于中文狭义的「拟声词/象声词」。日语能力考中该词一般出现在N1级别的考察范围内。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1400,
+  "word" : "オフ",
+  "reading" : "おふ",
+  "romaji" : null,
+  "meaning" : [ "1.（机器、电器等）关掉，断开，关闭；2.停止，中止（工作、活动）；3.休假，休息日；4.（体育）不比赛，不在比赛期；5.（状态）异常，失常；6.（服饰）不正式，休闲" ],
+  "notes" : [ "来源于英语单词\"off\"的外来语，对应的反义詞是「オン（on）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

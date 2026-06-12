@@ -1,0 +1,901 @@
+[ {
+  "id" : 7101,
+  "word" : "来ます",
+  "reading" : "きます",
+  "romaji" : null,
+  "meaning" : [ "来；到来；来临；将来" ],
+  "notes" : [ "“来ます”是“来る”的礼貌体形式，“来る”是特殊的カ行変格动词。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7102,
+  "word" : "来る",
+  "reading" : "くる",
+  "romaji" : null,
+  "meaning" : [ "来，到来；表示时间、季节等的来临；用于比较或选择；表示数量、程度达到某一标准等" ],
+  "notes" : [ "「来る」是特殊的カ变动词，其活用形式与一般动词不同。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7103,
+  "word" : "来場",
+  "reading" : "らいじょう",
+  "romaji" : null,
+  "meaning" : [ "到场，出席；来到现场" ],
+  "notes" : [ "“来場”是サ变动词词干，后续“する”可构成动词“来場する”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7104,
+  "word" : "来場者",
+  "reading" : "らいじょうしゃ",
+  "romaji" : null,
+  "meaning" : [ "到场者；参加者；来访者" ],
+  "notes" : [ "常用于描述参加活动、会议、展览等场合到达现场的人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7105,
+  "word" : "来年",
+  "reading" : "らいねん",
+  "romaji" : null,
+  "meaning" : [ "明年；下一年" ],
+  "notes" : [ "用于表示当前年份的下一年。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7106,
+  "word" : "来春",
+  "reading" : "らいしゅん",
+  "romaji" : null,
+  "meaning" : [ "名词，指明年春天" ],
+  "notes" : [ "「来春」是较为正式、书面的表达，口语中也可使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7107,
+  "word" : "来月",
+  "reading" : "らいげつ",
+  "romaji" : null,
+  "meaning" : [ "下个月" ],
+  "notes" : [ "用于表示时间，指当前月份之后的那个月。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7108,
+  "word" : "来社",
+  "reading" : "らいしゃ",
+  "romaji" : null,
+  "meaning" : [ "来到（我方）公司；来公司上班" ],
+  "notes" : [ "“来社”是一个较为商务、正式的表达，常用于工作场景中描述到公司的行为。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7109,
+  "word" : "来訪",
+  "reading" : "らいほう",
+  "romaji" : null,
+  "meaning" : [ "来访；前来访问" ],
+  "notes" : [ "「来訪」是名词，在使用时通常需要搭配适当的动词，如「する」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7110,
+  "word" : "来週",
+  "reading" : "らいしゅう",
+  "romaji" : null,
+  "meaning" : [ "下周；下星期" ],
+  "notes" : [ "常用时间名词，用于表示未来的一周时间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7111,
+  "word" : "杭",
+  "reading" : "くい",
+  "romaji" : null,
+  "meaning" : [ "桩子；柱子；标桩" ],
+  "notes" : [ "该词为普通名词，无特殊语法和使用注意点。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7112,
+  "word" : "杯",
+  "reading" : "はい",
+  "romaji" : null,
+  "meaning" : [ "杯子；酒杯；量词，用于计量杯状容器装的东西，如一杯酒、一杯茶等" ],
+  "notes" : [ "作为量词使用时，数字和读音会有音变，如“二杯（にはい）”“三杯（さんばい）”等。" ],
+  "pos" : "COUNTER",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7113,
+  "word" : "東",
+  "reading" : "ひがし",
+  "romaji" : null,
+  "meaning" : [ "东，东方；特指日本东京" ],
+  "notes" : [ "该词作为名词使用，无词形变化。在一些语境中“東”可指代日本东京。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7114,
+  "word" : "東南",
+  "reading" : "とうなん",
+  "romaji" : null,
+  "meaning" : [ "东南方向；东南部" ],
+  "notes" : [ "该词用于表示地理方位中的东南方向或某个区域的东南部。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7115,
+  "word" : "東南アジア",
+  "reading" : "とうなんアジア",
+  "romaji" : null,
+  "meaning" : [ "东南亚，指亚洲东南部地区，包括中南半岛和马来群岛两大区域" ],
+  "notes" : [ "该词为外来概念，采用了汉字和片假名结合的书写方式。在日语日常交流和书面表达中较为常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7116,
+  "word" : "東口",
+  "reading" : "ひがしぐち",
+  "romaji" : null,
+  "meaning" : [ "东侧的出入口，通常用于车站、建筑物等，指其东侧的大门或通道口。" ],
+  "notes" : [ "该词汇在日常使用中较为常见，用于表示具体地点的东侧出入口。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7117,
+  "word" : "東洋",
+  "reading" : "とうよう",
+  "romaji" : null,
+  "meaning" : [ "东洋，东方，指亚洲东部地区；也常与西洋相对，表示具有东方特色的事物" ],
+  "notes" : [ "该词常用于描述与东方相关的文化、事物等概念，在历史、文化等语境中较为常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7118,
+  "word" : "東西",
+  "reading" : "とうざい",
+  "romaji" : null,
+  "meaning" : [ "（方向上的）东西；方向；事理；物品、货物" ],
+  "notes" : [ "该词在不同语境中有不同含义，需根据上下文理解。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7119,
+  "word" : "東西南北",
+  "reading" : "とうざいなんぼく",
+  "romaji" : null,
+  "meaning" : [ "东南西北；四面八方" ],
+  "notes" : [ "该词用于表示方向或范围，强调各个方向。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7120,
+  "word" : "松林",
+  "reading" : "まつばやし",
+  "romaji" : null,
+  "meaning" : [ "松树林" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7121,
+  "word" : "松茸",
+  "reading" : "まつたけ",
+  "romaji" : null,
+  "meaning" : [ "松蘑，松茸。一种珍贵的野生食用菌，味道鲜美，营养丰富。" ],
+  "notes" : [ "松茸是一种生长在松树等树木根部的菌类，在日本被视为高级食材，常出现在高级料理中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7122,
+  "word" : "板",
+  "reading" : "いた",
+  "romaji" : null,
+  "meaning" : [ "板，木板；板状物；牌子；黑板等" ],
+  "notes" : [ "「板」有多种使用场景，可用于描述不同材质、用途的板状物品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7123,
+  "word" : "板挟み",
+  "reading" : "いたはさみ",
+  "romaji" : null,
+  "meaning" : [ "受夹板气，左右为难" ],
+  "notes" : [ "该词汇形象地表达了处于两者之间，两边都有压力，难以抉择的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7124,
+  "word" : "构造",
+  "reading" : "こうぞう",
+  "romaji" : null,
+  "meaning" : [ "结构；构造；组织" ],
+  "notes" : [ "该词主要用于描述物体或系统的结构组成情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7125,
+  "word" : "枕",
+  "reading" : "まくら",
+  "romaji" : null,
+  "meaning" : [ "枕头；（书信等）枕边语；（赌博等）赌注" ],
+  "notes" : [ "该词为音读和训读结合的词汇，音读为「ちん」，训读为「まくら」，常见使用训读发音。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7126,
+  "word" : "林",
+  "reading" : "はやし0",
+  "romaji" : null,
+  "meaning" : [ "名词，意为树林、森林；姓氏林" ],
+  "notes" : [ "作为姓氏使用时也读はやし。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7127,
+  "word" : "果たして",
+  "reading" : "はたして",
+  "romaji" : null,
+  "meaning" : [ "究竟，到底；真的，果然" ],
+  "notes" : [ "用于表达疑问、不确定的语气，常出现在疑问句中。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7128,
+  "word" : "果たす",
+  "reading" : "はたす",
+  "romaji" : null,
+  "meaning" : [ "完成；实现；履行；遵守（诺言、义务等）；达到（目的等）" ],
+  "notes" : [ "该动词强调达成某种结果或履行某种责任、义务等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7129,
+  "word" : "果て",
+  "reading" : "はて",
+  "romaji" : null,
+  "meaning" : [ "边际，尽头；限度；最终，结果；因果，缘由" ],
+  "notes" : [ "该词为名词，无词形变化。常用于描述空间上的尽头、时间或事物的限度、事情发展的结果等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7130,
+  "word" : "果てる",
+  "reading" : "はてる",
+  "romaji" : null,
+  "meaning" : [ "完毕，结束；尽头；限度；死亡" ],
+  "notes" : [ "「果てる」作为动词，常表示某一过程、状态等达到尽头或结束，也可委婉表达死亡的意思。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7131,
+  "word" : "果実",
+  "reading" : "かじつ",
+  "romaji" : null,
+  "meaning" : [ "果实；成果，结果，收益" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7132,
+  "word" : "果実酒",
+  "reading" : "かじつしゅ",
+  "romaji" : null,
+  "meaning" : [ "用水果发酵制成的酒；果酒" ],
+  "notes" : [ "由「果実」（水果）和「酒」（酒）复合而成的名词，指以水果为原料发酵酿造的酒类，如葡萄酒、梅子酒等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7133,
+  "word" : "果敢",
+  "reading" : "かかん",
+  "romaji" : null,
+  "meaning" : [ "果断的，果敢的，勇敢而有决断力的" ],
+  "notes" : [ "「果敢」は主に書き言葉で使用され、話し言葉ではあまり使われません。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7134,
+  "word" : "果物",
+  "reading" : "くだもの",
+  "romaji" : null,
+  "meaning" : [ "水果，果实" ],
+  "notes" : [ "通常指可食用的水果，不包括坚果类。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7135,
+  "word" : "枝",
+  "reading" : "えだ",
+  "romaji" : null,
+  "meaning" : [ "树枝，分枝；分支，支流；家族的分支" ],
+  "notes" : [ "常用汉字，可用于比喻家族、组织等的分支" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7136,
+  "word" : "枝豆",
+  "reading" : "えだまめ",
+  "romaji" : null,
+  "meaning" : [ "毛豆，带枝的大豆，嫩豆荚" ],
+  "notes" : [ "日本夏季常见的小吃，通常带荚水煮后撒盐食用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7137,
+  "word" : "枠",
+  "reading" : "わく",
+  "romaji" : null,
+  "meaning" : [ "1. 边框，框子；2. 范围，界限；3. 名额，限额" ],
+  "notes" : [ "常用汉字，「枠組み」（わくぐみ）等复合词中也常用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7138,
+  "word" : "枯らす",
+  "reading" : "からす",
+  "romaji" : null,
+  "meaning" : [ "使……枯萎，使……干涸，耗尽（资源、精力等）" ],
+  "notes" : [ "他动词。对应自动词为「枯れる（かれる）」。除表示使植物枯萎外，还可用于抽象意义，如耗尽精力、资源等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7139,
+  "word" : "枯れます",
+  "reading" : "かれます",
+  "romaji" : null,
+  "meaning" : [ "枯萎；凋谢；干涸；(皮肤等)干燥" ],
+  "notes" : [ "自动词，表示植物失去水分而枯萎，或液体干涸，也可用于皮肤等干燥的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7140,
+  "word" : "枯れる",
+  "reading" : "かれる",
+  "romaji" : null,
+  "meaning" : [ "1. （植物等）枯萎，凋谢，干枯；2. （水分等）干涸，枯竭；3. （技艺、能力等）成熟，老练，精湛；4. （热情、感情等）冷却，消失，淡化" ],
+  "notes" : [ "自动词，表示自然枯萎或状态变化。其对应的他动词为「枯らす」（からす）。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7141,
+  "word" : "架かる",
+  "reading" : "かかる",
+  "romaji" : null,
+  "meaning" : [ "1. 架设，搭起；2. 横跨，跨越；3. 花费（时间、金钱等）；4. （责任、负担等）落在...头上" ],
+  "notes" : [ "自动词，对应的他动词为「架ける（かける）」。表示“花费时间/金钱”时与「掛かる」通用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7142,
+  "word" : "架ける",
+  "reading" : "かける",
+  "romaji" : null,
+  "meaning" : [ "1. 架，架设，搭；2. 挂，佩戴；3. 盖上，蒙上；4. 花费（时间、金钱）；5. 赌，押注；6. 提出（问题等）" ],
+  "notes" : [ "他动词，「架ける」可表示多种具体和抽象的“放置”“施加”行为，需根据上下文理解具体含义。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7143,
+  "word" : "架け橋",
+  "reading" : "かけはし",
+  "romaji" : null,
+  "meaning" : [ "1. 桥梁；2. （比喻）桥梁，纽带，中间人；3. （相扑）架在土俵上的桥形装饰物；4. （围棋）连接两块棋的棋子" ],
+  "notes" : [ "「架け橋」除了表示实际的桥梁外，常用其比喻义，表示连接不同事物或人群的纽带、桥梁。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7144,
+  "word" : "架空",
+  "reading" : "かくう",
+  "romaji" : null,
+  "meaning" : [ "架空的，虚构的，空想的；架空，悬在空中" ],
+  "notes" : [ "可作名词使用，指虚构的事物或架空状态。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7145,
+  "word" : "柄",
+  "reading" : "え",
+  "romaji" : null,
+  "meaning" : [ "1. 花纹，图案；2. 人品，品格；3. 身材，体格；4. 柄，把儿" ],
+  "notes" : [ "「柄」は多義語で、文脈によって意味が異なります。「柄（がら）」としても読まれ、「身分、資格」の意味もありますが、基本的な意味は上記の通りです。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7146,
+  "word" : "染まる",
+  "reading" : "そまる",
+  "romaji" : null,
+  "meaning" : [ "染上；沾染，受影响（可好可坏）；（颜色等）渗入，渗透" ],
+  "notes" : [ "自动词，强调自然地染上或受到影响的结果。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7147,
+  "word" : "染み",
+  "reading" : "しみ",
+  "romaji" : null,
+  "meaning" : [ "1. 污垢，污痕；2. 污点，瑕疵；3. 色斑，色素沉着；4. （情感等）深刻的印象，烙印" ],
+  "notes" : [ "「染み込む（しみこむ）」是相关动词，表示渗透、深刻领会；「染み出す（しみだす）」表示渗出、显现" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7148,
+  "word" : "染みる",
+  "reading" : "しみる",
+  "romaji" : null,
+  "meaning" : [ "1. 染上，沾染（颜色、污渍等附着并渗透）；2. 刺痛，疼痛（身体局部感到刺痛或隐痛）；3. 深切感受，铭刻在心（印象、感情等深刻地留在心中）" ],
+  "notes" : [ "自动词，「染む（しぶむ）」是其古语形式，现代日语中「染みる」更为常用。表示“刺痛”时，常与「少し」「少々」等副词搭配使用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7149,
+  "word" : "染み込む",
+  "reading" : "しみこむ",
+  "romaji" : null,
+  "meaning" : [ "渗进，渗透，浸入；深刻领会，铭记在心" ],
+  "notes" : [ "自动词，强调液体或抽象事物逐渐渗透、深入的过程" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7150,
+  "word" : "染める",
+  "reading" : "そめる",
+  "romaji" : null,
+  "meaning" : [ "1. 染色，着色；2. 使…沾染，使…带上（某种色彩、性质等）；3. （因害羞、愤怒等）使脸红，使涨红" ],
+  "notes" : [ "他动词，基本形为「染める」，可能形为「染められる」，被动态为「染められる」，使役态为「染めさせる」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7151,
+  "word" : "染色",
+  "reading" : "せんしょく",
+  "romaji" : null,
+  "meaning" : [ "对纤维、织物等进行染色处理；染上颜色" ],
+  "notes" : [ "「染色」作为名词时表示染色的行为或结果，作为サ变动词时需使用「染色する」的形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7152,
+  "word" : "柔らか/軟らか",
+  "reading" : "やわらか",
+  "romaji" : null,
+  "meaning" : [ "柔软的，柔和的，温和的，不严厉的" ],
+  "notes" : [ "「柔らか」与「軟らか」为同源同义词，现代日语中「柔らか」更为常用。作为形容动词使用时，词尾可加「だ/です」，修饰名词时用「な」，修饰动词时用「に」。其形容词形式为「柔らかい/軟らかい」（やわらかい）。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7153,
+  "word" : "柔らかい",
+  "reading" : "やわらかい",
+  "romaji" : null,
+  "meaning" : [ "柔和的，柔软的，温和的，宽松的" ],
+  "notes" : [ "イ形容词，可用于形容触感、光线、性格等" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7154,
+  "word" : "柔軟",
+  "reading" : "じゅうなん",
+  "romaji" : null,
+  "meaning" : [ "柔软的；灵活的，随机应变的" ],
+  "notes" : [ "作形容词使用时需与「だ」或「な」连用，如「柔軟な考え方」（灵活的想法）" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7155,
+  "word" : "柔道",
+  "reading" : "じゅうどう",
+  "romaji" : null,
+  "meaning" : [ "日本の伝統的な格闘技の一つで、投げ技や寝技、関節技などを用い、相手を制する武術。現代ではオリンピック種目としても認定されている。" ],
+  "notes" : [ "「柔」は柔軟さ、「道」は修行の道を意味する。国際的に普及している日本の武道の一つ。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7156,
+  "word" : "柱",
+  "reading" : "はしら",
+  "romaji" : null,
+  "meaning" : [ "柱子，支柱；核心人物，顶梁柱" ],
+  "notes" : [ "常用汉字，可用于比喻重要人物或事物的核心" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7157,
+  "word" : "柳",
+  "reading" : "やなぎ",
+  "romaji" : null,
+  "meaning" : [ "柳树，柳属植物" ],
+  "notes" : [ "「やなぎ」は木の一種で、柔らかい枝と細長い葉が特徴的です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7158,
+  "word" : "査定",
+  "reading" : "さてい",
+  "romaji" : null,
+  "meaning" : [ "核定，审定，评定；评估（价格、价值等）" ],
+  "notes" : [ "「査定」作为名词时表示评估的结果或行为，作为サ変动词时表示进行评估的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7159,
+  "word" : "査証",
+  "reading" : "さしょう",
+  "romaji" : null,
+  "meaning" : [ "签证；调查证明" ],
+  "notes" : [ "「査証」は主に外国での入国許可を示す証印や文書を指すことが多い。動詞形としては「査証を取る」「査証を申請する」などの形で使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7160,
+  "word" : "栄える",
+  "reading" : "さかえる",
+  "romaji" : null,
+  "meaning" : [ "繁荣，兴盛，兴旺；光荣，荣耀" ],
+  "notes" : [ "自动词，表示事物发展兴盛或人/家族等获得荣誉" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7161,
+  "word" : "栄光",
+  "reading" : "えいこう",
+  "romaji" : null,
+  "meaning" : [ "光荣，荣誉，荣耀" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7162,
+  "word" : "栄転",
+  "reading" : "えいてん",
+  "romaji" : null,
+  "meaning" : [ "高升，晋升，荣升（指职位或地位的荣耀提升）" ],
+  "notes" : [ "通常用于正式场合，包含积极、荣耀的语感" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7163,
+  "word" : "栄養",
+  "reading" : "えいよう0",
+  "romaji" : null,
+  "meaning" : [ "营养，滋养" ],
+  "notes" : [ "常用汉字词，可构成复合词如「栄養価（えいようか）」（营养价值）、「栄養学（えいようがく）」（营养学）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7164,
+  "word" : "栄養分",
+  "reading" : "えいようぶん",
+  "romaji" : null,
+  "meaning" : [ "营养成分，养分" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7165,
+  "word" : "校庭",
+  "reading" : "こうてい",
+  "romaji" : null,
+  "meaning" : [ "学校的院子；操场" ],
+  "notes" : [ "指学校内的室外空地，通常用于学生的体育活动、集会等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7166,
+  "word" : "校舎",
+  "reading" : "こうしゃ",
+  "romaji" : null,
+  "meaning" : [ "学校的建筑物，校舍" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7167,
+  "word" : "校長",
+  "reading" : "こうちょう",
+  "romaji" : null,
+  "meaning" : [ "（学校的）校长，大学校长，学院院长" ],
+  "notes" : [ "通常指中小学校长，大学校长常用「学長」，学院院长常用「院長」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7168,
+  "word" : "校長先生",
+  "reading" : "こうちょうせんせい",
+  "romaji" : null,
+  "meaning" : [ "校长先生，对校长的尊称" ],
+  "notes" : [ "「校長」（こうちょう）是“校长”，加上「先生」（せんせい）表示尊敬，常用于学校场景中对校长的称呼。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7169,
+  "word" : "株",
+  "reading" : "かぶ",
+  "romaji" : null,
+  "meaning" : [ "股票；股份；树桩；株，棵（植物的单位）" ],
+  "notes" : [ "「株」は多義語で、金融用語としての「股票、股份」のほか、植物の根株や数量単位としても使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7170,
+  "word" : "株価",
+  "reading" : "かぶか",
+  "romaji" : null,
+  "meaning" : [ "股票价格，股价" ],
+  "notes" : [ "「株」(かぶ)は「股票、股份」を意味し、「価」(か)は「价格」を表す。株式市場において企業の株式1株当たりの価格を指す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7171,
+  "word" : "株式",
+  "reading" : "かぶしき",
+  "romaji" : null,
+  "meaning" : [ "股票，股份；股权" ],
+  "notes" : [ "「株式会社」（かぶしきがいしゃ）是“股份公司”的意思，为常用复合词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7172,
+  "word" : "株式会社",
+  "reading" : "かぶしきがいしゃ",
+  "romaji" : null,
+  "meaning" : [ "股份有限公司，株式会社（日本常见的公司组织形式，相当于股份有限公司）" ],
+  "notes" : [ "日本企业的常见组织形式，常缩写为「株式会社」或「株」，英语对应为「Co., Ltd.」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7173,
+  "word" : "核兵器",
+  "reading" : "かくへいき",
+  "romaji" : null,
+  "meaning" : [ "核武器，利用核裂变或核聚变反应产生巨大能量的武器" ],
+  "notes" : [ "複合名詞。「核」(かく)と「兵器」(へいき)の合成語。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7174,
+  "word" : "根",
+  "reading" : "ね",
+  "romaji" : null,
+  "meaning" : [ "根；根部；根源，根本；本性，天性；根据，依据" ],
+  "notes" : [ "「根」は多義語で、具体的な植物の根や抽象的な根源・本性など、さまざまな意味で使用される。熟語や慣用句にもよく用いられる（例：根気、根拠、根回し）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7175,
+  "word" : "根回し",
+  "reading" : "ねまわし",
+  "romaji" : null,
+  "meaning" : [ "事先疏通，为达成目标而进行的事前准备、铺垫工作，尤其指通过私下沟通获得理解或支持" ],
+  "notes" : [ "「根回し」原为园艺术语，指植物扎根前整理根部的工作，后引申为比喻义。通常用作名词，可构成「根回しをする」等动词性表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7176,
+  "word" : "根底",
+  "reading" : "こんてい",
+  "romaji" : null,
+  "meaning" : [ "根本，基础，根源" ],
+  "notes" : [ "通常用于抽象事物的根本或基础，如思想、问题、理论等的根源" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7177,
+  "word" : "根強い",
+  "reading" : "ねづよい",
+  "romaji" : null,
+  "meaning" : [ "根深蒂固的；顽固的；顽强的，持久的" ],
+  "notes" : [ "「根強い」は主に否定的な意味合いで使用されることが多いが、「根強い支持」のように中性的な文脈でも使用可能。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7178,
+  "word" : "根性",
+  "reading" : "こんじょう",
+  "romaji" : null,
+  "meaning" : [ "1. 性情，秉性，本性；2. 毅力，耐力，骨气，坚韧不拔的精神" ],
+  "notes" : [ "常用汉字词，可用于形容人的性格坚韧或本性特质，在表示毅力时带有积极含义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7179,
+  "word" : "根拠",
+  "reading" : "こんきょ",
+  "romaji" : null,
+  "meaning" : [ "根据，依据，理由，证据" ],
+  "notes" : [ "常用搭配：根拠がある（有根据）、根拠に基づく（基于根据）、根拠を示す（出示证据）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7180,
+  "word" : "根本",
+  "reading" : "こんぽん",
+  "romaji" : null,
+  "meaning" : [ "根本，根源，基础，本质" ],
+  "notes" : [ "常用汉字词，可用于抽象概念或具体事物的基础部分" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7181,
+  "word" : "根気",
+  "reading" : "ねき",
+  "romaji" : null,
+  "meaning" : [ "耐心，毅力，持久力，韧性" ],
+  "notes" : [ "常用搭配有「根気がある」（有耐心）、「根気を尽くす」（竭尽全力，坚持不懈）、「根気よく」（耐心地）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7182,
+  "word" : "格上げ",
+  "reading" : "かくあげ",
+  "romaji" : null,
+  "meaning" : [ "升级，升格，提高等级或地位" ],
+  "notes" : [ "「格上げ」作为名词时可单独使用，作为サ変动词时通常以「格上げする」的形式出现。其反义词为「格下げ（かくさげ）」（降级）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7183,
+  "word" : "格別",
+  "reading" : "かくべつ",
+  "romaji" : null,
+  "meaning" : [ "特别，格外；与众不同；姑且不论，另当别论" ],
+  "notes" : [ "「格別」作为形容动词使用时表示程度高或与众不同；作为副词使用时表示“姑且不论”之意，此时常以「格別として」的形式出现。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7184,
+  "word" : "格好",
+  "reading" : "かっこう",
+  "romaji" : null,
+  "meaning" : [ "名词 装束，打扮；样子，姿态，外形；合适，恰当" ],
+  "notes" : [ "「格好がいい」是常用表达，意为“样子好看，帅气，漂亮”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7185,
+  "word" : "格安",
+  "reading" : "かくやす",
+  "romaji" : null,
+  "meaning" : [ "价格非常低的，特别便宜的，特价的" ],
+  "notes" : [ "由「格（等级、程度）」和「安（便宜）」构成的复合词，主要用于形容价格显著低于通常水平的商品或服务。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7186,
+  "word" : "格差",
+  "reading" : "かくさ",
+  "romaji" : null,
+  "meaning" : [ "差距，差别，社会阶层或地位、收入等方面的差距" ],
+  "notes" : [ "常用搭配有「所得格差」（收入差距）、「格差社会」（差距社会）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7187,
+  "word" : "格段",
+  "reading" : "かくだん",
+  "romaji" : null,
+  "meaning" : [ "格外，特别，显著地" ],
+  "notes" : [ "「格段」は形容動詞として使用され、主に「格段に」の形で名詞や動詞を修飾する。程度が非常に高いことを表す。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7188,
+  "word" : "栽培",
+  "reading" : "さいばい",
+  "romaji" : null,
+  "meaning" : [ "栽培，种植；培养，培育" ],
+  "notes" : [ "「栽培」は名詞としても動詞（サ変動詞）としても使用される。植物の育成だけでなく、人材の育成にも用いられる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7189,
+  "word" : "栽培する",
+  "reading" : "さいばいする",
+  "romaji" : null,
+  "meaning" : [ "栽培，种植" ],
+  "notes" : [ "「栽培」は名詞で、「する」を付けてサ変動詞として使用する。農作物や植物を育てることを指す。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7190,
+  "word" : "桁",
+  "reading" : "けた",
+  "romaji" : null,
+  "meaning" : [ "1. （建筑物的）横梁；2. （数字的）位数；3. （计算、数值的）量级" ],
+  "notes" : [ "「桁違い」是常用短语，表示“天壤之别，相差悬殊”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7191,
+  "word" : "桃",
+  "reading" : "もも",
+  "romaji" : null,
+  "meaning" : [ "桃树；桃子" ],
+  "notes" : [ "「桃」は果物の名前としても、木の名前としても使われます。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7192,
+  "word" : "案",
+  "reading" : "あん",
+  "romaji" : null,
+  "meaning" : [ "1. 方案，计划，办法；2. 设想，预想，构思；3. 提案，建议；4. （对事物的）判断，意见" ],
+  "notes" : [ "常用搭配：案を出す（提出方案）、案に乗る（采纳建议）、案の定（果然，不出所料）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7193,
+  "word" : "案ずる",
+  "reading" : "あんずる",
+  "romaji" : null,
+  "meaning" : [ "担心，挂念，忧虑；预想，预料" ],
+  "notes" : [ "「案ずる」是书面语，口语中更常用「心配する」。其活用形特殊，「ます形」为「案ずります」，「た形」为「案ずった」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7194,
+  "word" : "案の定",
+  "reading" : "あんのじょう",
+  "romaji" : null,
+  "meaning" : [ "果然，果如所料，不出所料" ],
+  "notes" : [ "表示事情的结果与事先预想或预料的完全一致，通常用于确认预期结果的场合。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7195,
+  "word" : "案内",
+  "reading" : "あんない",
+  "romaji" : null,
+  "meaning" : [ "1. 指南，指引，引导；2. 陪同游览，向导；3. 通知，告知" ],
+  "notes" : [ "作为サ変动词使用时，常用「案内する」的形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7196,
+  "word" : "案内します",
+  "reading" : "あんないします",
+  "romaji" : null,
+  "meaning" : [ "带路，引路；引导，向导；介绍，推荐" ],
+  "notes" : [ "「案内する」的礼貌体（ます形），用于表示为他人引导方向、介绍事物等场景。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7197,
+  "word" : "案内役",
+  "reading" : "あんないやく",
+  "romaji" : null,
+  "meaning" : [ "向导，导游；向导的工作，引导的任务" ],
+  "notes" : [ "由「案内」（引导）和「役」（角色、任务）构成的复合词，指负责引导他人的人或其职责。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7198,
+  "word" : "案内状",
+  "reading" : "あんないじょう",
+  "romaji" : null,
+  "meaning" : [ "名 通知，请帖，邀请函（用于告知会议、聚会、活动等的时间、地点等信息的书面材料）" ],
+  "notes" : [ "「案内」（引导、通知）と「状」（书信、文件）が組み合わさった複合名詞。主に正式な場面で使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7199,
+  "word" : "案外",
+  "reading" : "あんがい",
+  "romaji" : null,
+  "meaning" : [ "形容动词 没想到，出乎意料，意外地；副词 没想到，出乎意料，意外地" ],
+  "notes" : [ "作为形容动词时后续「だ・です・な・に」等；作为副词时直接修饰动词或形容词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7200,
+  "word" : "桜",
+  "reading" : "さくら",
+  "romaji" : null,
+  "meaning" : [ "樱花，樱树" ],
+  "notes" : [ "日本的国花，春季观赏樱花是日本的传统活动，称为「花見（はなみ）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

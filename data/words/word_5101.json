@@ -1,0 +1,901 @@
+[ {
+  "id" : 5101,
+  "word" : "家賃",
+  "reading" : "やちん",
+  "romaji" : null,
+  "meaning" : [ "房租，房费" ],
+  "notes" : [ "指每月支付给房东的居住费用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5102,
+  "word" : "家路",
+  "reading" : "いえじ",
+  "romaji" : null,
+  "meaning" : [ "回家的路；归途" ],
+  "notes" : [ "常以“家路を急ぐ”（急着回家）或“家路につく”（踏上归途）的形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5103,
+  "word" : "家電製品",
+  "reading" : "かでんせいひん",
+  "romaji" : null,
+  "meaning" : [ "家用电器，家电产品" ],
+  "notes" : [ "“家電（かでん）”是“家庭用電気製品（かていようでんきせいひん）”的缩略。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5104,
+  "word" : "家風",
+  "reading" : "かふう",
+  "romaji" : null,
+  "meaning" : [ "家风，门风（家庭世代相传的习惯、风气或规矩）" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5105,
+  "word" : "容器",
+  "reading" : "ようき",
+  "romaji" : null,
+  "meaning" : [ "容器；盛东西的器具" ],
+  "notes" : [ "指用于容纳、存放物品的器具，如碗、杯、盒、箱等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5106,
+  "word" : "容易",
+  "reading" : "ようい",
+  "romaji" : null,
+  "meaning" : [ "容易的，简单的" ],
+  "notes" : [ "常用于书面语或正式场合。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5107,
+  "word" : "容易い",
+  "reading" : "たやすい",
+  "romaji" : null,
+  "meaning" : [ "容易的，不难的，轻而易举的" ],
+  "notes" : [ "多用于书面语，表示事情简单、容易做到。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5108,
+  "word" : "容疑者",
+  "reading" : "ようぎしゃ",
+  "romaji" : null,
+  "meaning" : [ "犯罪嫌疑人，嫌疑犯。指被警方怀疑实施了犯罪行为的人。" ],
+  "notes" : [ "常用于新闻报道和法律语境中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5109,
+  "word" : "容積",
+  "reading" : "ようせき",
+  "romaji" : null,
+  "meaning" : [ "容积，体积；容量" ],
+  "notes" : [ "物理学术语，指物体所占空间的大小，常用于工程、建筑等领域。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5110,
+  "word" : "容赦",
+  "reading" : "ようしゃ",
+  "romaji" : null,
+  "meaning" : [ "1. 宽恕，原谅。2. （多用否定形式）毫不留情，不放过。" ],
+  "notes" : [ "通常以「容赦する」（动词用法）或「容赦ない」（形容词用法）的形式出现。作为名词时指宽恕或情面。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5111,
+  "word" : "宿",
+  "reading" : "やど",
+  "romaji" : null,
+  "meaning" : [ "1. 旅馆，旅店，投宿处；2. 家，住所；3. （技能、习惯等的）基础，底子；4. 宿命，因缘" ],
+  "notes" : [ "读作「やど」时通常指旅馆或住所；读作「しゅく」时多用于复合词，如「宿題（しゅくだい）」、「下宿（げしゅく）」、「宿泊（しゅくはく）」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5112,
+  "word" : "宿る",
+  "reading" : "やどる",
+  "romaji" : null,
+  "meaning" : [ "1. （灵魂、精神、思念等）附着，寄宿；2. （月光、影子等）照，映；3. （鸟、虫等）栖息，筑巢；4. （细菌、病毒等）侵入，寄生；5. 孕有，包含（神秘力量或诗意等）；6. 投宿，住宿（古语）" ],
+  "notes" : [ "该词多用于抽象事物的附着或寄宿，如精神、回忆、月光等。现代日语中表示“住宿”时通常使用「泊まる」或「宿泊する」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5113,
+  "word" : "宿泊",
+  "reading" : "しゅくはく",
+  "romaji" : null,
+  "meaning" : [ "（动3/自サ）住宿，投宿，过夜" ],
+  "notes" : [ "通常以「宿泊する」的形式使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5114,
+  "word" : "宿泊施設",
+  "reading" : "しゅくはくしせつ",
+  "romaji" : null,
+  "meaning" : [ "提供住宿的设施的总称，包括旅馆、酒店、民宿等。" ],
+  "notes" : [ "通常指旅馆、酒店、招待所、民宿等供人过夜的地方。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5115,
+  "word" : "宿舎",
+  "reading" : "しゅくしゃ",
+  "romaji" : null,
+  "meaning" : [ "宿舍；公司、学校等的职员或学生宿舍" ],
+  "notes" : [ "通常指企业、学校、政府机构等为员工或学生提供的住宿设施。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5116,
+  "word" : "宿題",
+  "reading" : "しゅくだい",
+  "romaji" : null,
+  "meaning" : [ "作业，课外习题" ],
+  "notes" : [ "通常指学校布置的课外作业。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5117,
+  "word" : "寂しい",
+  "reading" : "さびしい",
+  "romaji" : null,
+  "meaning" : [ "寂寞的，孤单的；荒凉的，萧条的；冷清的" ],
+  "notes" : [ "在口语中有时也可读作「さみしい」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5118,
+  "word" : "寄せる",
+  "reading" : "よせる",
+  "romaji" : null,
+  "meaning" : [ "1. 使……靠近；移动；挪动（如把椅子靠近桌子）。\n2. 集中；聚集；收集（如把视线、声音等集中到一点）。\n3. 寄送；投递（如寄信、汇款）。\n4. 寄托；寄予（感情、关心等）。\n5. 涌上（波浪等）。" ],
+  "notes" : [ "该词为下一段动词（他动词）。反义词为「離（はな）す」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5119,
+  "word" : "寄ります",
+  "reading" : "よります",
+  "romaji" : null,
+  "meaning" : [ "1. 顺便去、顺路到；2. 靠近、挨近；3. 偏向、偏重" ],
+  "notes" : [ "【五段动词】行く类动词，活用时发生促音便（如：寄って）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5120,
+  "word" : "寄り掛かる",
+  "reading" : "よりかかる",
+  "romaji" : null,
+  "meaning" : [ "靠，倚靠；依赖，依靠" ],
+  "notes" : [ "也可以写作“よりかかる”。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5121,
+  "word" : "寄り添う",
+  "reading" : "よりそう",
+  "romaji" : null,
+  "meaning" : [ "紧挨着，贴近；依偎" ],
+  "notes" : [ "表示身体或物体紧贴在一起，常用于形容亲密关系或物理上的紧密接触。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5122,
+  "word" : "寄る",
+  "reading" : "よる",
+  "romaji" : null,
+  "meaning" : [ "1. 靠近，挨近；2. 偏于，倾向于；3. 集中，聚集；4. 顺路去，顺便到；5. 年老，上年纪" ],
+  "notes" : [ "作为五段动词，活用形为寄らない（未然形）、寄ります（连用形）、寄る（连体形/终止形）、寄れ（假定形）、寄ろう（推量形）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5123,
+  "word" : "寄与",
+  "reading" : "きよ",
+  "romaji" : null,
+  "meaning" : [ "贡献，有助于；对...产生影响" ],
+  "notes" : [ "通常以“寄与する”的形式出现。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5124,
+  "word" : "寄付",
+  "reading" : "きふ",
+  "romaji" : null,
+  "meaning" : [ "捐助，捐赠。指无偿地将金钱或物品给予国家、团体或个人。" ],
+  "notes" : [ "サ変動詞「寄付（きふ）する」の形でも用いられる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5125,
+  "word" : "寄木細工",
+  "reading" : "よせぎざいく",
+  "romaji" : null,
+  "meaning" : [ "木片儿拼花工艺品。一种将不同颜色或纹理的木材拼接成几何图案，再用车床旋制成型的传统日本工艺品。" ],
+  "notes" : [ "日本传统的工艺品之一，以神奈川县箱根地区的制品最为著名。通常用于制作盒子、托盘等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5126,
+  "word" : "寄贈",
+  "reading" : "きぞう",
+  "romaji" : null,
+  "meaning" : [ "捐赠，赠送（通常指将书籍、艺术品等捐赠给博物馆、图书馆等公共机构）" ],
+  "notes" : [ "侧重于向公共机构（如图书馆、博物馆、学校）进行捐赠。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5127,
+  "word" : "寄贈",
+  "reading" : "きぞう",
+  "romaji" : null,
+  "meaning" : [ "（向博物馆、学校等）捐赠，赠送（物品）" ],
+  "notes" : [ "通常写作「寄贈する」，属于サ变动词。多指向公共机构捐赠物品。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5128,
+  "word" : "寄越す",
+  "reading" : "よこす",
+  "romaji" : null,
+  "meaning" : [ "寄来，送来；递给，交给" ],
+  "notes" : [ "通常用于请求对方将某物寄给自己或送至某处。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5129,
+  "word" : "密",
+  "reading" : "みつ",
+  "romaji" : null,
+  "meaning" : [ "秘密；紧密；亲密；稠密；周密" ],
+  "notes" : [ "常作为名词使用，也可作为形容动词（Na形容词）使用，如‘密な関係’。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5130,
+  "word" : "密か",
+  "reading" : "ひそか",
+  "romaji" : null,
+  "meaning" : [ "秘密的，暗中的，偷偷的，悄悄的" ],
+  "notes" : [ "形容动词（Na形容词）" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5131,
+  "word" : "密度",
+  "reading" : "みつど",
+  "romaji" : null,
+  "meaning" : [ "密度；（文章、讲话等的）充实程度；稠密程度" ],
+  "notes" : [ "物理学术语，也常用于形容信息的充实程度。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5132,
+  "word" : "密接",
+  "reading" : "みっせつ",
+  "romaji" : null,
+  "meaning" : [ "紧挨着；密切接触；紧贴" ],
+  "notes" : [ "常用作「密接する」（サ变动词）或形容动词「密接だ」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5133,
+  "word" : "密着",
+  "reading" : "みっちゃく",
+  "romaji" : null,
+  "meaning" : [ "1. 紧贴，紧挨，密切接触。2. （像电视节目等）紧贴现场，紧密跟随（进行报道）。" ],
+  "notes" : [ "作为サ行変格動詞（サ变动词）使用时，词尾活用为「する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5134,
+  "word" : "密着",
+  "reading" : "みっちゃく",
+  "romaji" : null,
+  "meaning" : [ "紧贴，粘在一起；密切接触，紧跟（形势、事件等）" ],
+  "notes" : [ "作为サ变动词使用时，通常写作“密着する”。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5135,
+  "word" : "密輸",
+  "reading" : "みつゆ",
+  "romaji" : null,
+  "meaning" : [ "（进出口）走私；秘密输入货物" ],
+  "notes" : [ "サ変動詞「密輸する」の形でも使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5136,
+  "word" : "密集",
+  "reading" : "みっしゅう",
+  "romaji" : null,
+  "meaning" : [ "密集，稠密，聚在一起" ],
+  "notes" : [ "作为名词使用，常以「密集する」的形式作为サ变动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5137,
+  "word" : "富む",
+  "reading" : "とむ",
+  "romaji" : null,
+  "meaning" : [ "富有，有钱；（在某种性质、数量等方面）丰富，充足，富有" ],
+  "notes" : [ "通常以「～に富む」的形式表示在某方面丰富或充足。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5138,
+  "word" : "富裕",
+  "reading" : "ふゆう",
+  "romaji" : null,
+  "meaning" : [ "富裕，富有；充裕，充足" ],
+  "notes" : [ "常用作「裕福（ゆうふく）」的同义词，表示物质或精神上的富足。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5139,
+  "word" : "富豪",
+  "reading" : "ふごう",
+  "romaji" : null,
+  "meaning" : [ "富豪，大富翁，百万富翁；拥有巨额财产的人。" ],
+  "notes" : [ "常用于指代拥有巨额财富的人，属于较为正式的词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5140,
+  "word" : "寒い",
+  "reading" : "さむい",
+  "romaji" : null,
+  "meaning" : [ "寒冷的；凉的；寒酸的；简陋的" ],
+  "notes" : [ "属于イ形容词（i形容词）。除了表示气温低之外，还可以用来形容人感到寒冷、事物温度低，或者比喻生活贫困、穿着破旧等。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5141,
+  "word" : "寒さ",
+  "reading" : "さむさ",
+  "romaji" : null,
+  "meaning" : [ "寒冷；冷的程度（名词形式，由形容词‘寒い’派生）" ],
+  "notes" : [ "由形容词‘寒い（さむい）’去掉词尾‘い’，接上接尾词‘さ’构成，表示性质或状态的程度。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5142,
+  "word" : "寒暖",
+  "reading" : "かんだん",
+  "romaji" : null,
+  "meaning" : [ "冷热；寒暖；气温的变化" ],
+  "notes" : [ "也可写作「寒暖（かんだん）計」，意为寒暑表、温度计。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5143,
+  "word" : "寒気",
+  "reading" : "さむけ",
+  "romaji" : null,
+  "meaning" : [ "发冷，寒战（多指发烧前的身体发冷）；寒冷" ],
+  "notes" : [ "当读作「かんき」时，意为‘寒冷的空气’或‘寒气’。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5144,
+  "word" : "寒波",
+  "reading" : "かんぱ",
+  "romaji" : null,
+  "meaning" : [ "寒流，寒潮；（气象学上的）冷空气团" ],
+  "notes" : [ "气象术语，指高纬度地区的寒冷空气大规模向低纬度地区侵袭的现象。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5145,
+  "word" : "寛ぐ",
+  "reading" : "くつろぐ",
+  "romaji" : null,
+  "meaning" : [ "放松；舒畅；悠闲；不拘礼节" ],
+  "notes" : [ "常用于表示身心放松、消除疲劳的状态，或在非正式场合中表现得随意。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5146,
+  "word" : "寛容",
+  "reading" : "かんよう",
+  "romaji" : null,
+  "meaning" : [ "宽容；宽大；包容" ],
+  "notes" : [ "形容动词（Na形容词），指对他人的错误或不同的意见抱有宽容的态度。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5147,
+  "word" : "寝かす",
+  "reading" : "ねかす",
+  "romaji" : null,
+  "meaning" : [ "使睡觉；哄睡；放平，放倒；使（面团等）发酵" ],
+  "notes" : [ "除了指让人或动物睡觉外，在烹饪中常指让面团静置发酵。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5148,
+  "word" : "寝ます",
+  "reading" : "ねます",
+  "romaji" : null,
+  "meaning" : [ "睡觉，就寝，躺下" ],
+  "notes" : [ "原型为「寝る（ねる）」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5149,
+  "word" : "寝入る",
+  "reading" : "ねいる",
+  "romaji" : null,
+  "meaning" : [ "睡着；入睡" ],
+  "notes" : [ "表示进入睡眠状态的过程，侧重于从清醒到睡着的那一瞬间。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5150,
+  "word" : "寝坊",
+  "reading" : "ねぼう",
+  "romaji" : null,
+  "meaning" : [ "睡懒觉；爱睡懒觉的人" ],
+  "notes" : [ "通常作为「する动词」使用（如：寝坊する）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5151,
+  "word" : "寝坊する",
+  "reading" : "ねぼうする",
+  "romaji" : null,
+  "meaning" : [ "睡懒觉" ],
+  "notes" : [ "词源由“寝（睡觉）”和“坊（房间、状态）”组成。通常作为サ变动词使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5152,
+  "word" : "寝巻き",
+  "reading" : "ねまき",
+  "romaji" : null,
+  "meaning" : [ "睡衣，和式睡衣" ],
+  "notes" : [ "特指日式棉质睡衣，也可以指一般的睡衣。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5153,
+  "word" : "寝相",
+  "reading" : "ねあい",
+  "romaji" : null,
+  "meaning" : [ "睡相；睡觉的姿势" ],
+  "notes" : [ "指睡觉时的身体姿势或状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5154,
+  "word" : "寝込む",
+  "reading" : "ねこむ",
+  "romaji" : null,
+  "meaning" : [ "1.（因病）卧床不起；2. 熟睡" ],
+  "notes" : [ "前接助词「に」表示原因，如「病気に寝込む」（因病卧床）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5155,
+  "word" : "察する",
+  "reading" : "さっする",
+  "romaji" : null,
+  "meaning" : [ "推测，揣测；体谅，体察；察觉" ],
+  "notes" : [ "通常以“察する”的形式出现，多用于书面语或正式场合。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5156,
+  "word" : "審判",
+  "reading" : "しんぱん",
+  "romaji" : null,
+  "meaning" : [ "审判，裁决；（体育比赛的）裁判" ],
+  "notes" : [ "法律用语指审判或判决，体育用语指裁判员。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5157,
+  "word" : "審査",
+  "reading" : "しんさ",
+  "romaji" : null,
+  "meaning" : [ "评审，审查；审核（对资格、成绩、作品等进行调查并评定）" ],
+  "notes" : [ "通常指对资格、成绩、作品等进行调查并评定。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5158,
+  "word" : "審査員",
+  "reading" : "しんさいん",
+  "romaji" : null,
+  "meaning" : [ "评委，审查人员，评审员" ],
+  "notes" : [ "指负责审查、评选、评审的人。常用于比赛、选拔、资格认证等场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5159,
+  "word" : "審議",
+  "reading" : "しんぎ",
+  "romaji" : null,
+  "meaning" : [ "（对议案、方案等进行）审查、讨论、商议" ],
+  "notes" : [ "通常作为サ变动词（審議する）使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5160,
+  "word" : "寮",
+  "reading" : "りょう",
+  "romaji" : null,
+  "meaning" : [ "宿舍；（学校、公司等的）寄宿处" ],
+  "notes" : [ "通常指学校或公司提供的集体住宿设施。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5161,
+  "word" : "寮長",
+  "reading" : "りょうちょう",
+  "romaji" : null,
+  "meaning" : [ "宿舍长，宿舍管理员" ],
+  "notes" : [ "指管理学校或公司宿舍的负责人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5162,
+  "word" : "寸前",
+  "reading" : "すんぜん",
+  "romaji" : null,
+  "meaning" : [ "临近，就在眼前，近在咫尺；差一点就..." ],
+  "notes" : [ "通常接在时间或动作名词之后，表示距离某个时间点或动作非常近，几乎就要发生。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5163,
+  "word" : "寸法",
+  "reading" : "すんぽう",
+  "romaji" : null,
+  "meaning" : [ "尺寸；打算；预计；情况" ],
+  "notes" : [ "除了指物理上的尺寸外，常用于表示“打算”、“预计”或“情况”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5164,
+  "word" : "寺",
+  "reading" : "てら",
+  "romaji" : null,
+  "meaning" : [ "寺庙，寺院" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5165,
+  "word" : "寺院",
+  "reading" : "じいん",
+  "romaji" : null,
+  "meaning" : [ "寺院，寺庙。指佛教的庙宇或僧侣居住的处所。" ],
+  "notes" : [ "侧重于指佛教的宗教场所或建筑群，比「寺（てら）」的语感稍显正式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5166,
+  "word" : "対する",
+  "reading" : "たいする",
+  "romaji" : null,
+  "meaning" : [ "1. 面对，面向；2. 对待，对待（态度）；3. 对于，关于；4. 与……相对，与……相反" ],
+  "notes" : [ "通常以“～に対して”的形式出现，表示动作的对象或对应关系。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5167,
+  "word" : "対処",
+  "reading" : "たいしょ",
+  "romaji" : null,
+  "meaning" : [ "处理，对付，应对（采取适当手段解决某事）" ],
+  "notes" : [ "通常以「～に対処する」的形式使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5168,
+  "word" : "対応",
+  "reading" : "たいおう",
+  "romaji" : null,
+  "meaning" : [ "应对；对应；应答；处理；协调" ],
+  "notes" : [ "通常作为サ変动词（対応する）使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5169,
+  "word" : "対戦",
+  "reading" : "たいせん",
+  "romaji" : null,
+  "meaning" : [ "比赛，对战，竞赛，交锋（多指体育比赛或棋类比赛）" ],
+  "notes" : [ "常用作サ変动词「対戦する」使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5170,
+  "word" : "対抗",
+  "reading" : "たいこうこう",
+  "romaji" : null,
+  "meaning" : [ "对抗，抗衡，较量；匹敌，比得上" ],
+  "notes" : [ "通常以「対抗する」的形式出现，表示与对方进行竞争或对抗。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5171,
+  "word" : "対比",
+  "reading" : "たいひ",
+  "romaji" : null,
+  "meaning" : [ "对比，对照" ],
+  "notes" : [ "「対比」通常作为名词使用，也可以作为サ变动词使用，意为将两个事物放在一起进行比较以找出差异或共同点。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5172,
+  "word" : "対決",
+  "reading" : "たいけつ",
+  "romaji" : null,
+  "meaning" : [ "对抗，较量；对证，对质；交锋，摊牌" ],
+  "notes" : [ "既可以作为名词使用，也可以作为サ变动词（する）使用。表示面对面地对抗、较量，或者在法律、调查等场合进行对质。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5173,
+  "word" : "対照",
+  "reading" : "たいしょう",
+  "romaji" : null,
+  "meaning" : [ "对照，对比；（事物之间的）鲜明对比" ],
+  "notes" : [ "既可以作为名词使用，也可以作为サ变动词（する）使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5174,
+  "word" : "対立",
+  "reading" : "たいりつ",
+  "romaji" : null,
+  "meaning" : [ "相对立；处于对抗状态；对立，冲突" ],
+  "notes" : [ "既可以作为名词使用，也可以作为サ变动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5175,
+  "word" : "対立",
+  "reading" : "たいりつ",
+  "romaji" : null,
+  "meaning" : [ "（名・自サ変）対立する、反対の立場に立つこと" ],
+  "notes" : [ "名詞としても使用可能。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5176,
+  "word" : "対等",
+  "reading" : "たいとう",
+  "romaji" : null,
+  "meaning" : [ "对等，平等；地位、能力等相当" ],
+  "notes" : [ "通常用于形容双方的地位、实力、权利等处于同等水平，没有优劣之分。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5177,
+  "word" : "対策",
+  "reading" : "たいさく",
+  "romaji" : null,
+  "meaning" : [ "（为了解决某个问题或困难而采取的）措施，对策，解决办法" ],
+  "notes" : [ "通常以“～対策”的形式出现，表示针对某事的具体措施。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5178,
+  "word" : "対策を講じる",
+  "reading" : "たいさくをこうじる",
+  "romaji" : null,
+  "meaning" : [ "惯用语。采取措施，采取对策，谋求解决办法。" ],
+  "notes" : [ "“講じる（こうじる）”意为采取某种手段或措施。常与“対策”搭配使用，表示为了解决问题而采取行动。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5179,
+  "word" : "対話",
+  "reading" : "たいわ",
+  "romaji" : null,
+  "meaning" : [ "对话，交谈；（计算机）人机对话" ],
+  "notes" : [ "名词（サ変动词：対話する）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5180,
+  "word" : "対談",
+  "reading" : "たいだん",
+  "romaji" : null,
+  "meaning" : [ "対談，二人の人がある話題について話し合うこと。座談会。" ],
+  "notes" : [ "「対談する」のようにサ変動詞としても用いられる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5181,
+  "word" : "対象",
+  "reading" : "たいしょう",
+  "romaji" : null,
+  "meaning" : [ "对象；目标；对立面" ],
+  "notes" : [ "指作为动作、作用、研究、观察等目标的事物或人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5182,
+  "word" : "対面",
+  "reading" : "たいめん",
+  "romaji" : null,
+  "meaning" : [ "面对面，会面，见面" ],
+  "notes" : [ "「対面する」作为サ变动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5183,
+  "word" : "寿司",
+  "reading" : "すし",
+  "romaji" : null,
+  "meaning" : [ "寿司。一种将醋饭与海鲜、蔬菜等食材搭配在一起的日本料理。" ],
+  "notes" : [ "常用汉字表中的汉字。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5184,
+  "word" : "寿司",
+  "reading" : "すし",
+  "romaji" : null,
+  "meaning" : [ "寿司；一种日本料理，用醋、糖、盐调味的米饭（寿司饭）配以海鲜、蔬菜、鸡蛋等食材制作而成。" ],
+  "notes" : [ "汉字写作“寿司”或“鮨”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5185,
+  "word" : "寿命",
+  "reading" : "じゅみょう",
+  "romaji" : null,
+  "meaning" : [ "寿命；寿命（机器、器具等的使用年限）" ],
+  "notes" : [ "不仅指人的寿命，也可以指机器、设备等的使用年限或耐用期限。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5186,
+  "word" : "封じる",
+  "reading" : "ふうじる",
+  "romaji" : null,
+  "meaning" : [ "1. 封，封上，封闭。2. 禁止，查封。3. 封住，堵住，使无效。" ],
+  "notes" : [ "常用作「口を封じる」（封口）、「魔法を封じる」（封印魔法）等惯用表达。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5187,
+  "word" : "封建",
+  "reading" : "ほうけん",
+  "romaji" : null,
+  "meaning" : [ "（1）封土と臣下を与えて支配させること。（2）身分関係が固定され、個人の自由が制限されていること。封建的。" ],
+  "notes" : [ "「封建的（ほうけんてき）」の形で形容動詞としても使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5188,
+  "word" : "封筒",
+  "reading" : "ふうとう",
+  "romaji" : null,
+  "meaning" : [ "信封；封套" ],
+  "notes" : [ "常用于指代寄信用的信封。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5189,
+  "word" : "封鎖",
+  "reading" : "ふうさ",
+  "romaji" : null,
+  "meaning" : [ "封锁；关闭；冻结" ],
+  "notes" : [ "既可以作为名词使用，也可以作为サ变动词使用。常用于指关闭港口、道路、国境，或冻结账户等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5190,
+  "word" : "専念",
+  "reading" : "せんねん",
+  "romaji" : null,
+  "meaning" : [ "一心一意地做某事；专心致志；埋头于" ],
+  "notes" : [ "通常以「～に専念する」的形式使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5191,
+  "word" : "将来",
+  "reading" : "しょうらい",
+  "romaji" : null,
+  "meaning" : [ "将来，未来；前程" ],
+  "notes" : [ "常用作「～の将来」的形式，表示某事物或某人的未来前景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5192,
+  "word" : "将棋",
+  "reading" : "しょうぎ",
+  "romaji" : null,
+  "meaning" : [ "日本象棋，一种两人对弈的棋盘游戏，棋子呈五角形，可升变（成）。" ],
+  "notes" : [ "源自古代印度的象棋，经中国传入日本后发展而来。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5193,
+  "word" : "尊い／貴い",
+  "reading" : "とうとい",
+  "romaji" : null,
+  "meaning" : [ "珍贵的，宝贵的；值得尊敬的；高尚的" ],
+  "notes" : [ "通常读作“とうとい”，但在“尊い（たっとい）”的读音中也存在，表示尊敬、崇敬的意思。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5194,
+  "word" : "尊ぶ",
+  "reading" : "とうとぶ",
+  "romaji" : null,
+  "meaning" : [ "尊重，尊敬；重视，珍视" ],
+  "notes" : [ "也可以读作「たっとぶ」，但在现代日语中「とうとぶ」更为常用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5195,
+  "word" : "尊敬丁寧語",
+  "reading" : "そんけいていねいご",
+  "romaji" : null,
+  "meaning" : [ "日语敬语的一种，结合了尊敬语和丁寧语，用于以礼貌的方式表达对听话人或话题中人物的尊敬。通常包含“お/ご”前缀或“れる/られる”等助动词，并以“です/ます”结尾。" ],
+  "notes" : [ "也常简称为“尊他语”或“尊敬语”，但严格来说，尊敬语侧重于对动作主体的尊重，而尊敬丁寧语则同时兼顾了礼貌性。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5196,
+  "word" : "尊厳",
+  "reading" : "そんげん",
+  "romaji" : null,
+  "meaning" : [ "（人格や価値において）おおいに尊び敬うべきこと。威厳。" ],
+  "notes" : [ "「人間の尊厳」のように、人格の価値を表す際によく用いられる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5197,
+  "word" : "尊崇",
+  "reading" : "そんすう",
+  "romaji" : null,
+  "meaning" : [ "尊崇，尊敬，推崇" ],
+  "notes" : [ "比“尊敬”更正式，多用于对神佛、伟人或崇高理念的崇拜。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5198,
+  "word" : "尊敬",
+  "reading" : "そんけい",
+  "romaji" : null,
+  "meaning" : [ "尊敬，敬重" ],
+  "notes" : [ "名词，常搭配「する」作为サ变动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5199,
+  "word" : "尊重",
+  "reading" : "そんちょう",
+  "romaji" : null,
+  "meaning" : [ "尊重，重视" ],
+  "notes" : [ "通常作为サ变动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5200,
+  "word" : "尊重する",
+  "reading" : "そんちょうする",
+  "romaji" : null,
+  "meaning" : [ "尊重；重视" ],
+  "notes" : [ "他动词。指重视并维护他人的权利、意见或人格等。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+} ]

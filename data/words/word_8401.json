@@ -1,0 +1,901 @@
+[ {
+  "id" : 8401,
+  "word" : "異常気象",
+  "reading" : "いじょうきしょう",
+  "romaji" : null,
+  "meaning" : [ "气候异常。指与正常气候不同的异常气候现象。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8402,
+  "word" : "異見",
+  "reading" : "いけん",
+  "romaji" : null,
+  "meaning" : [ "不同的意见、见解；异议" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8403,
+  "word" : "異議",
+  "reading" : "いぎ",
+  "romaji" : null,
+  "meaning" : [ "对某种事物表达不同意见、反对的想法或观点。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8404,
+  "word" : "異郷",
+  "reading" : "いきょう",
+  "romaji" : null,
+  "meaning" : [ "异国他乡；外地，外乡" ],
+  "notes" : [ "书面语，较为正式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8405,
+  "word" : "畳",
+  "reading" : "たたみ",
+  "romaji" : null,
+  "meaning" : [ "草席；榻榻米。房间里铺的用草或稻草编织的垫子，通常为长方形。" ],
+  "notes" : [ "在日本传统房屋中较为常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8406,
+  "word" : "畳む",
+  "reading" : "たたむ",
+  "romaji" : null,
+  "meaning" : [ "把……折叠起来；合上（如合上书本、盖子等）；收拾；整理；收起；叠放；折合（如折合钱款）" ],
+  "notes" : [ "他动词，动作的对象用を表示" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8407,
+  "word" : "疎い",
+  "reading" : "うとい",
+  "romaji" : null,
+  "meaning" : [ "疏远的；稀疏的；不亲近的；不熟悉的；不了解的" ],
+  "notes" : [ "「疎い」は形容詞で、否定形は「疎くない」です。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8408,
+  "word" : "疎か",
+  "reading" : "おろそか",
+  "romaji" : null,
+  "meaning" : [ "疏忽大意的，不注意的，马虎的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8409,
+  "word" : "疎ましい",
+  "reading" : "うとましい",
+  "romaji" : null,
+  "meaning" : [ "令人厌烦的，可憎的，不愉快的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8410,
+  "word" : "疑い",
+  "reading" : "うたがい",
+  "romaji" : null,
+  "meaning" : [ "怀疑，疑问；嫌疑。表示对事物真实性、正确性等持有不确定的态度或想法，或者因某些情况而被怀疑有相关行为等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8411,
+  "word" : "疑う",
+  "reading" : "うたがう",
+  "romaji" : null,
+  "meaning" : [ "怀疑；疑惑；不信任；猜测；对……表示怀疑" ],
+  "notes" : [ "该词为他动词，常用搭配如「～を疑う」，表示对某事或某人持有怀疑态度" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8412,
+  "word" : "疑わしい",
+  "reading" : "うたがわしい",
+  "romaji" : null,
+  "meaning" : [ "不确定的，有疑问的；可疑的。多用于形容事物或情况让人难以相信、存在不确定因素。" ],
+  "notes" : [ "该词为形容词，无特殊活用规则。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8413,
+  "word" : "疑問",
+  "reading" : "ぎもん0",
+  "romaji" : null,
+  "meaning" : [ "疑问；疑惑。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8414,
+  "word" : "疑惑",
+  "reading" : "ぎわく",
+  "romaji" : null,
+  "meaning" : [ "疑惑，疑心，猜疑。对事物的真实性、可靠性等表示怀疑的心理状态。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8415,
+  "word" : "疑問詞＋か",
+  "reading" : "ぎもんし＋か",
+  "romaji" : null,
+  "meaning" : [ "か：接在疑问词或表示疑问的词后，表示不确定、不特定，带有推测或寻求确认的语气。" ],
+  "notes" : [ "在句中一般位于句末。" ],
+  "pos" : "PART",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8416,
+  "word" : "疑問詞＋でも",
+  "reading" : "ぎもんし + でも",
+  "romaji" : null,
+  "meaning" : [ "表示全面肯定，意为“任何……都”。用于强调在多个事物或情况中，无论选择哪一个都具有相同的结果或性质。" ],
+  "notes" : [ "疑問詞としては、「だれ」「何」「どこ」「いつ」「どんな」などがあります。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8417,
+  "word" : "疑問詞小句＋か",
+  "reading" : "ぎもんしょうく＋か",
+  "romaji" : null,
+  "meaning" : [ "表示不确定、不明确的语气。接在由疑问词构成的小句（简体形式）后，二类形容词去掉词尾的だ，名词去掉だ后接续。例如：誰が来るか分からない。（不知道谁会来。）どこへ行くか決めないとだめだ。（不决定去哪里可不行。）" ],
+  "notes" : [ "此形式用于表达不确定的语气，常出现在疑问句或表示不确定的句子中。" ],
+  "pos" : "PART",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8418,
+  "word" : "疲れ",
+  "reading" : "つかれ",
+  "romaji" : null,
+  "meaning" : [ "劳累，疲劳，劳顿" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8419,
+  "word" : "疲れます",
+  "reading" : "つかれます",
+  "romaji" : null,
+  "meaning" : [ "感到疲倦，累" ],
+  "notes" : [ "该词是自动词，表示主体自身产生疲劳的感觉" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8420,
+  "word" : "疲れる",
+  "reading" : "つかれる",
+  "romaji" : null,
+  "meaning" : [ "感到疲倦、劳累，体力或精神上消耗过度而需要休息" ],
+  "notes" : [ "主语通常是人或动物等有生命的主体" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8421,
+  "word" : "疲労",
+  "reading" : "ひろう",
+  "romaji" : null,
+  "meaning" : [ "疲劳，疲倦" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8422,
+  "word" : "疾病",
+  "reading" : "しっぺい",
+  "romaji" : null,
+  "meaning" : [ "疾病，病" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8423,
+  "word" : "病気",
+  "reading" : "びょうき",
+  "romaji" : null,
+  "meaning" : [ "疾病；毛病；弊病" ],
+  "notes" : [ "较为基础的日语词汇，用于描述身体或事物存在的不良状况" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8424,
+  "word" : "病む",
+  "reading" : "やむ",
+  "romaji" : null,
+  "meaning" : [ "生病；患病；苦恼；忧虑；烦闷" ],
+  "notes" : [ "该词为自动词，常表示身体或精神上的不适状态" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8425,
+  "word" : "病人",
+  "reading" : "びょうじん",
+  "romaji" : null,
+  "meaning" : [ "生病的人；患者" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8426,
+  "word" : "病棟",
+  "reading" : "びょうどう",
+  "romaji" : null,
+  "meaning" : [ "医院等医疗机构中病人住院的病房集中的大楼；也可指病房区域。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8427,
+  "word" : "病気",
+  "reading" : "びょうき",
+  "romaji" : null,
+  "meaning" : [ "疾病；不健康的状态；毛病，缺点" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8428,
+  "word" : "病院",
+  "reading" : "びょういん",
+  "romaji" : null,
+  "meaning" : [ "医院" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8429,
+  "word" : "症状",
+  "reading" : "しょうじょう",
+  "romaji" : null,
+  "meaning" : [ "疾病等所呈现的征候、状态。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8430,
+  "word" : "痒い",
+  "reading" : "かゆい",
+  "romaji" : null,
+  "meaning" : [ "身体の一部が軽く刺激を受けて、不快な感じを与える。また、そのような感じを引き起こす状態やものに対しても言える。" ],
+  "notes" : [ "形容詞で、通常、人や動物の身体に対して使われることが多い。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8431,
+  "word" : "痛い",
+  "reading" : "いたい",
+  "romaji" : null,
+  "meaning" : [ "疼痛的；痛苦的；难受的" ],
+  "notes" : [ "形容詞，用于描述身体或精神上的疼痛、不适等状态" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8432,
+  "word" : "痛ましい",
+  "reading" : "いたましい",
+  "romaji" : null,
+  "meaning" : [ "可怜的，凄惨的，令人痛心的；可悲的；可惜的" ],
+  "notes" : [ "该词为形容词，常用来描述人或事物令人怜悯、悲伤的状态。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8433,
+  "word" : "痛み",
+  "reading" : "いたみ",
+  "romaji" : null,
+  "meaning" : [ "疼痛，痛苦，伤痛。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8434,
+  "word" : "痛み止め",
+  "reading" : "いたみどめ",
+  "romaji" : null,
+  "meaning" : [ "止痛药；缓解疼痛的药物" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8435,
+  "word" : "痛む",
+  "reading" : "いたむ",
+  "romaji" : null,
+  "meaning" : [ "1. （肉体）疼痛；2. （精神）痛苦；3. （物体）损坏，出毛病" ],
+  "notes" : [ "作为他动词时，常用「～を痛める」的形式，表示“使……疼痛；伤害”等意思。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8436,
+  "word" : "痛める",
+  "reading" : "いためる",
+  "romaji" : null,
+  "meaning" : [ "弄疼，使疼痛；伤害，损害（身体、精神、名誉等）" ],
+  "notes" : [ "该词为他动词，强调使他人或事物产生疼痛或受到损害的动作" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8437,
+  "word" : "痛切",
+  "reading" : "つうせつ",
+  "romaji" : null,
+  "meaning" : [ "痛切である。心を突き刺すような強い感じである。深く感じることができる。切実である。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8438,
+  "word" : "痛快",
+  "reading" : "つうかい",
+  "romaji" : null,
+  "meaning" : [ "気持ちがすっきりして、爽快である。また、行動や態度が素直で、その場を盛り上げる。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8439,
+  "word" : "痛感",
+  "reading" : "つうかん",
+  "romaji" : null,
+  "meaning" : [ "深切地感觉到；痛感；深感" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8440,
+  "word" : "痛手",
+  "reading" : "いたで",
+  "romaji" : null,
+  "meaning" : [ "重伤，重创；沉重打击。例えば、戦争で多くの人が痛手を被った。（在战争中很多人受了重伤。）" ],
+  "notes" : [ "「痛手」は通常、身体的な損傷や精神的な打撃を表す場合に使われます。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8441,
+  "word" : "痛風",
+  "reading" : "つうふう",
+  "romaji" : null,
+  "meaning" : [ "痛风（一种因嘌呤代谢紊乱导致尿酸排泄减少或生成过多，使尿酸盐沉积在关节等部位引起疼痛、肿胀等症状的疾病）" ],
+  "notes" : [ "医学类词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8442,
+  "word" : "痣",
+  "reading" : "あざ",
+  "romaji" : null,
+  "meaning" : [ "痣；皮肤上生的青色、红色或黑色的斑点；（被打出来的）青斑，红斑" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8443,
+  "word" : "痺れる",
+  "reading" : "しびれる",
+  "romaji" : null,
+  "meaning" : [ "身体的某个部位失去知觉，感到麻木；（因寒冷、恐惧等）发麻，发木；（因感动等）心潮澎湃，激动不已" ],
+  "notes" : [ "该词常用于描述身体感觉或情感体验。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8444,
+  "word" : "癒す",
+  "reading" : "いやす",
+  "romaji" : null,
+  "meaning" : [ "治疗，医治；治愈（伤痛、疾病等身体上的不适）；使心情平复，使治愈（精神上的创伤等）" ],
+  "notes" : [ "常见用法是他动词用法，用于表示对他人或事物进行治疗或治愈的行为。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8445,
+  "word" : "癖",
+  "reading" : "くせ",
+  "romaji" : null,
+  "meaning" : [ "习惯，癖好；特点；毛病（不好的习惯）" ],
+  "notes" : [ "“癖”作为不好的习惯之意时，常带有贬义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8446,
+  "word" : "発する",
+  "reading" : "ぱつする",
+  "romaji" : null,
+  "meaning" : [ "发出（声音、气味、光等）；发射；发表；发布；派遣；派出。" ],
+  "notes" : [ "该词为サ变动词，其词干为「発」，词尾为「する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8447,
+  "word" : "発つ",
+  "reading" : "はつ",
+  "romaji" : null,
+  "meaning" : [ "出发；发出；长出；发布等。（例：朝早くから旅に発つ。/一大早就出发去旅行。）" ],
+  "notes" : [ "该词为他动词，常用形式有「発つ」（原形）、「発った」（过去式）等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8448,
+  "word" : "発作",
+  "reading" : "ほうさ",
+  "romaji" : null,
+  "meaning" : [ "（疾病）发作；突发的痉挛或抽搐；癫痫发作；（突然产生的）冲动、欲望、情绪等" ],
+  "notes" : [ "该词通常指突然发作的疾病或身体的突发状况，也可引申为突然产生的某种情绪或冲动等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8449,
+  "word" : "発信",
+  "reading" : "ほっしん",
+  "romaji" : null,
+  "meaning" : [ "发送（信号、信息等）；发出（声音、气味等）" ],
+  "notes" : [ "较为常用的サ变动词，在通信、信息传递等场景中经常使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8450,
+  "word" : "発信",
+  "reading" : "はっしん",
+  "romaji" : null,
+  "meaning" : [ "发送（信号、信息等）；发出（声音、气味等）" ],
+  "notes" : [ "「発信」は他动词で、主に信号や情報を送信することを指します。また、声や匂いなどを出す場合にも使われます。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8451,
+  "word" : "発売",
+  "reading" : "ほっぱい",
+  "romaji" : null,
+  "meaning" : [ "新产品や出版物などを初めて売り出すこと。また、売ること。" ],
+  "notes" : [ "「発売」は、商品や出版物などが初めて市場に出回ることを表す動詞です。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8452,
+  "word" : "発売する",
+  "reading" : "はつばいする",
+  "romaji" : null,
+  "meaning" : [ "上市，发售，出售" ],
+  "notes" : [ "サ变动词，其ます形为「発売します」，词干为「発売」，词尾为「する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8453,
+  "word" : "発射",
+  "reading" : "ほっしゃ",
+  "romaji" : null,
+  "meaning" : [ "物体を空中や宇宙などに向かって打ち出すこと。また、信号や波などを放射すること。" ],
+  "notes" : [ "「発射」は、主に物体を空中や宇宙に打ち出す場合に用いられます。また、信号や波を放射する場合にも使われます。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8454,
+  "word" : "発射",
+  "reading" : "はっしゃ",
+  "romaji" : null,
+  "meaning" : [ "物体を打ち出して空中に送り出すこと。特に、火薬や燃料などを使って物体を飛ばすこと。" ],
+  "notes" : [ "「発射する」は、サ变动词で、「する」型の活用をする。また、「発射」は、名詞としても使われる。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8455,
+  "word" : "発展",
+  "reading" : "はってん",
+  "romaji" : null,
+  "meaning" : [ "事物由小到大、由简单到复杂、由低级到高级的变化过程；也指扩大组织、规模等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8456,
+  "word" : "発展する",
+  "reading" : "はってんする",
+  "romaji" : null,
+  "meaning" : [ "发展；成长；进步；扩展；展开" ],
+  "notes" : [ "该词表示事物在规模、程度、范围等方面不断扩大和进步的意思。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8457,
+  "word" : "発想",
+  "reading" : "ほっそう",
+  "romaji" : null,
+  "meaning" : [ "主意，想法，构思；表现。例えば、新しい発想で物事を考える（用新的想法思考事情）。" ],
+  "notes" : [ "「発想」は主に名词として使われます。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8458,
+  "word" : "発掘",
+  "reading" : "ほっくつ",
+  "romaji" : null,
+  "meaning" : [ "把埋藏的东西挖出来；探寻、发现隐藏的事物等" ],
+  "notes" : [ "该词常用作他动词，在表示挖掘具体物品或场所时使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8459,
+  "word" : "発揮",
+  "reading" : "はっき",
+  "romaji" : null,
+  "meaning" : [ "能力や性質などを十分に表現すること。また、物事を十分に引き出すこと。" ],
+  "notes" : [ "「発揮する」という動詞を使って、能力や性質などを表現する際に用いられます。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8460,
+  "word" : "発散",
+  "reading" : "ほうさん",
+  "romaji" : null,
+  "meaning" : [ "1. （气味、热量、光线等）散发、发散。2. （注意力、精力等）分散。3. （问题、矛盾等）消散、缓解。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8461,
+  "word" : "発明",
+  "reading" : "ひんめい",
+  "romaji" : null,
+  "meaning" : [ "创造出前所未有的新事物、新方法等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8462,
+  "word" : "発明する",
+  "reading" : "はつめいする",
+  "romaji" : null,
+  "meaning" : [ "发明；创造" ],
+  "notes" : [ "“発明する”是他动词，强调通过人的创造性思维产生新的事物或方法等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8463,
+  "word" : "発泡する",
+  "reading" : "はっぽうする",
+  "romaji" : null,
+  "meaning" : [ "产生泡沫；起泡" ],
+  "notes" : [ "该词为自动词，常用来描述液体、物质等产生泡沫的状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8464,
+  "word" : "発注",
+  "reading" : "ほっちゅう",
+  "romaji" : null,
+  "meaning" : [ "发出订单；订货；订购。向供应商等发出购买商品或服务的订单。" ],
+  "notes" : [ "该词常用于商务场景中表达订货这一行为。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8465,
+  "word" : "発生",
+  "reading" : "はっせい",
+  "romaji" : null,
+  "meaning" : [ "（1）事物从无到有地出现、产生。（2）特指某种现象、情况等的出现。" ],
+  "notes" : [ "该词常与「が」「の」等助词搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8466,
+  "word" : "発生する",
+  "reading" : "はっせいする",
+  "romaji" : null,
+  "meaning" : [ "产生；发生；出现。" ],
+  "notes" : [ "该词表示某种现象、事件等从无到有的出现或产生。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8467,
+  "word" : "発病",
+  "reading" : "ほっびょう",
+  "romaji" : null,
+  "meaning" : [ "（疾病、症状等）发作；发病。" ],
+  "notes" : [ "该词常用于描述疾病的开始发作。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8468,
+  "word" : "発育",
+  "reading" : "はいく",
+  "romaji" : null,
+  "meaning" : [ "生物が成長し、成熟すること。また、その過程。" ],
+  "notes" : [ "「発育」は主に生物についての成長や成熟を表す言葉です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8469,
+  "word" : "発行",
+  "reading" : "ほっこう",
+  "romaji" : null,
+  "meaning" : [ "发行（书籍、杂志、报纸、纸币、邮票等）；颁布；发售" ],
+  "notes" : [ "「発行」は他動詞で、主に出版物や通貨などを発行することを表します。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8470,
+  "word" : "発表",
+  "reading" : "はっぴょう",
+  "romaji" : null,
+  "meaning" : [ "发表，发布，宣布，公布。将意见、研究成果、消息等传达给他人。" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8471,
+  "word" : "発表会",
+  "reading" : "はっぴょうかい",
+  "romaji" : null,
+  "meaning" : [ "发布会；发表会。指将某种信息、成果等向公众公开宣布的集会。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8472,
+  "word" : "発見",
+  "reading" : "ひっけん",
+  "romaji" : null,
+  "meaning" : [ "发现，发觉；找到的东西，新发现" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8473,
+  "word" : "発見する",
+  "reading" : "ひらけんする",
+  "romaji" : null,
+  "meaning" : [ "发现；发觉；找到" ],
+  "notes" : [ "他动词，强调动作的对象是被发现的事物" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8474,
+  "word" : "発覚",
+  "reading" : "ほっかく",
+  "romaji" : null,
+  "meaning" : [ "（人や物が）何かを知られること；何かが明らかになること。（人が）何かを見つけ出すこと。" ],
+  "notes" : [ "「発覚」は、主に人や物が秘密や隠されていたことが明らかになることを表す。また、人が何かを見つけ出すことも意味する。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8475,
+  "word" : "発言",
+  "reading" : "ほうげん",
+  "romaji" : null,
+  "meaning" : [ "把自己的想法或意见等用言语表达出来。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8476,
+  "word" : "発言します",
+  "reading" : "はつげんします",
+  "romaji" : null,
+  "meaning" : [ "发言，发表言论" ],
+  "notes" : [ "该词为一类动词，ます形为発言します，て形为発言して" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8477,
+  "word" : "発足",
+  "reading" : "ほっそく",
+  "romaji" : null,
+  "meaning" : [ "出发，动身；（组织、团体等）开始活动" ],
+  "notes" : [ "该词为サ变动词，其变化遵循する型动词的规则，如否定形为「発足しない」，过去形为「発足した」等" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8478,
+  "word" : "発車",
+  "reading" : "ほっしゃ",
+  "romaji" : null,
+  "meaning" : [ "列车、汽车等交通工具开始行驶；出发。" ],
+  "notes" : [ "「発車」は名詞で、自動詞「発車する」があります。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8479,
+  "word" : "発送",
+  "reading" : "ほうそう",
+  "romaji" : null,
+  "meaning" : [ "物品、情報などを送り出すこと。特に、郵便や配送などを通じて他の人や場所に送ること。" ],
+  "notes" : [ "「発送」は、主に物品や情報を物理的または電子的に送る場合に使われます。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8480,
+  "word" : "発送します",
+  "reading" : "はっそうします",
+  "romaji" : null,
+  "meaning" : [ "发送，寄送；传达，传播。" ],
+  "notes" : [ "该词为他动词，使用时需要接宾语。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8481,
+  "word" : "発達",
+  "reading" : "はったつ",
+  "romaji" : null,
+  "meaning" : [ "事物向成熟、完善的方向成长发展；发育。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8482,
+  "word" : "発酵",
+  "reading" : "ふっこう",
+  "romaji" : null,
+  "meaning" : [ "物质が微生物などの作用によって化学変化し、酸やアルコールなどの成分を生じること。また、このような化学変化の过程。" ],
+  "notes" : [ "サ变动词の特徴は词干が动词にならず、语尾がするで统一されること。発酵するの活用形は、例えば、未然形「発酵しない」、连用形「発酵して」、终止形「発酵する」などがある。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8483,
+  "word" : "発酵",
+  "reading" : "はっこう",
+  "romaji" : null,
+  "meaning" : [ "（微生物等作用下）有机物分解产生气体等，发生发酵现象；事物受某种因素影响而发生变化、发展。" ],
+  "notes" : [ "作为サ变动词，其词干为「発酵」，词尾为「する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8484,
+  "word" : "発電",
+  "reading" : "はつでん",
+  "romaji" : null,
+  "meaning" : [ "電気を生み出すこと。" ],
+  "notes" : [ "「発電所」は「発電」を行う施設を指す。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8485,
+  "word" : "発音",
+  "reading" : "ほういん",
+  "romaji" : null,
+  "meaning" : [ "发出的声音；发音" ],
+  "notes" : [ "该词作为名词，常用来表示发音这一行为或发出的声音这一结果" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8486,
+  "word" : "登ります",
+  "reading" : "のぼります",
+  "romaji" : null,
+  "meaning" : [ "登，爬〔山、楼梯、斜坡等〕；上升，上涨〔价格、温度等〕。例如：山に登ります（爬山）；階段を登ります（爬楼梯）；坂を登ります（爬坡）；物価が登ります（物价上涨）；温度が登ります（温度上升）。" ],
+  "notes" : [ "该词在日常生活中较为常用，常见搭配有表示攀爬对象的名词。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8487,
+  "word" : "登る/上る",
+  "reading" : "のぼる/あがる",
+  "romaji" : null,
+  "meaning" : [ "1. 自动词：（人或物体）向上移动，攀登，登上  2. 他动词：把……往上弄，提高，提升等" ],
+  "notes" : [ "「登る」和「上る」在表示攀登时，「登る」更常用，且常与山、階段等搭配；「上る」在表示攀登时较书面，还可用于表示抽象的上升等意思，如「物価が上る」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8488,
+  "word" : "登下校",
+  "reading" : "とうげこう",
+  "romaji" : null,
+  "meaning" : [ "（学生）上下学" ],
+  "notes" : [ "主要用于描述学生上下学的行为" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8489,
+  "word" : "登場",
+  "reading" : "とうじょう",
+  "romaji" : null,
+  "meaning" : [ "人物が舞台や人前に現れること。また、物事が表面に現れること。" ],
+  "notes" : [ "「登場する」は、「登場」という漢字に対応する動詞で、サ变动词である。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8490,
+  "word" : "登山",
+  "reading" : "とぼう",
+  "romaji" : null,
+  "meaning" : [ "登山；爬山。指徒步攀登山峰等活动。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8491,
+  "word" : "登校",
+  "reading" : "とうこう",
+  "romaji" : null,
+  "meaning" : [ "去学校上学。" ],
+  "notes" : [ "表示前往学校进行学习活动的行为。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8492,
+  "word" : "登竜門",
+  "reading" : "とうりゅうもん",
+  "romaji" : null,
+  "meaning" : [ "比喻进入高等学府或获得高地位的途径，常指飞黄腾达的门路。" ],
+  "notes" : [ "该词来源于中国古代传说，鲤鱼跳过龙门就会变成龙，常用来形容通过某种途径获得成功或提升地位。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8493,
+  "word" : "登録",
+  "reading" : "とうろく",
+  "romaji" : null,
+  "meaning" : [ "登记，注册；记录。" ],
+  "notes" : [ "「登録」は他動詞で、何かを記録することを表します。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8494,
+  "word" : "白々しい",
+  "reading" : "しらじらしい",
+  "romaji" : null,
+  "meaning" : [ "显而易见，一目了然；坦率，毫无隐瞒；质朴，纯真" ],
+  "notes" : [ "该词用于形容事物或人的状态、态度等容易被看穿，没有隐藏或掩饰。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8495,
+  "word" : "白い",
+  "reading" : "しろい",
+  "romaji" : null,
+  "meaning" : [ "白色的；空白的；无内容的" ],
+  "notes" : [ "形容詞，常用来描述物体的颜色为白色" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8496,
+  "word" : "白熱",
+  "reading" : "はくねつ",
+  "romaji" : null,
+  "meaning" : [ "白炽；白热化，最热烈。物体因高温而发出白色强光的状态；也用于形容事物发展到最激烈、最热烈的阶段。" ],
+  "notes" : [ "该词常与表示激烈程度的副词搭配使用，如「激しく白熱する」（激烈地白热化）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8497,
+  "word" : "白状",
+  "reading" : "はくじょう",
+  "romaji" : null,
+  "meaning" : [ "自己の罪や不正な行為などを明かして告白すること。" ],
+  "notes" : [ "「白状する」という動詞の基本形で、他に「白状書」などの派生語がある。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8498,
+  "word" : "白紙",
+  "reading" : "はくし",
+  "romaji" : null,
+  "meaning" : [ "白纸；空白的纸张；未填写内容的状态；事情的原始状态" ],
+  "notes" : [ "“白紙”常用来比喻某个事物还没有开始着手做，处于初始的、未涉及任何具体内容的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8499,
+  "word" : "白菜",
+  "reading" : "はくさい",
+  "romaji" : null,
+  "meaning" : [ "白菜，一种蔬菜，通常指的是结球白菜。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8500,
+  "word" : "白酒",
+  "reading" : "しょうちゅ",
+  "romaji" : null,
+  "meaning" : [ "白酒；烧酒" ],
+  "notes" : [ "白酒一般指日本的烧酒，是用蒸馏法制成的酒。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

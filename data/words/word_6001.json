@@ -1,0 +1,901 @@
+[ {
+  "id" : 6001,
+  "word" : "慌てます",
+  "reading" : "あわてます",
+  "romaji" : null,
+  "meaning" : [ "慌张，着急，匆忙，慌乱；惊慌失措" ],
+  "notes" : [ "该动词的基本形是「慌てる」，常用来描述人在遇到紧急情况等时的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6002,
+  "word" : "慌てる",
+  "reading" : "あわてる",
+  "romaji" : null,
+  "meaning" : [ "慌张；急忙；着急；忙乱" ],
+  "notes" : [ "该词常用于描述人在紧急或意外情况下的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6003,
+  "word" : "慌て者",
+  "reading" : "あわてもの",
+  "romaji" : null,
+  "meaning" : [ "冒失鬼；急性子" ],
+  "notes" : [ "该词用于形容做事慌张、不沉稳的人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6004,
+  "word" : "慎む",
+  "reading" : "つつしむ",
+  "romaji" : null,
+  "meaning" : [ "谨慎，慎重；节制；克制；避免；注意" ],
+  "notes" : [ "该词为五段动词，词尾为「む」，在日语中常用于表达对行为、言语等方面的自我约束和谨慎态度。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6005,
+  "word" : "慎重",
+  "reading" : "しんちょう",
+  "romaji" : null,
+  "meaning" : [ "慎重，谨慎；小心，审慎" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾需要接「だ」或其相应的活用形式；作定语时直接修饰名词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6006,
+  "word" : "慕う",
+  "reading" : "したう",
+  "romaji" : null,
+  "meaning" : [ "爱慕，思慕；敬仰；追随；向往" ],
+  "notes" : [ "该词为五段动词，词尾变化遵循五段动词的规则，如「慕い」「慕った」等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6007,
+  "word" : "慢性",
+  "reading" : "まんせい",
+  "romaji" : null,
+  "meaning" : [ "慢性；长期性。指疾病发展缓慢、病程长的特性，也可用于形容其他具有长期持续性质的事物。" ],
+  "notes" : [ "该词常用于医学领域描述疾病，也可用于其他场景表示长期存在的状况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6008,
+  "word" : "慣らす",
+  "reading" : "ならす",
+  "romaji" : null,
+  "meaning" : [ "使习惯，使适应；驯养；使熟练" ],
+  "notes" : [ "该词为他动词，使用时需注意其宾语的搭配。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6009,
+  "word" : "慣れます",
+  "reading" : "なれます",
+  "romaji" : null,
+  "meaning" : [ "习惯；适应；熟练" ],
+  "notes" : [ "该动词为自动词，表示主体自身达到习惯、适应的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6010,
+  "word" : "慣れる",
+  "reading" : "なれる",
+  "romaji" : null,
+  "meaning" : [ "习惯，适应；熟练，精通" ],
+  "notes" : [ "该词为自动词，表示主体自身达到习惯、适应的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6011,
+  "word" : "慣例",
+  "reading" : "かんれい",
+  "romaji" : null,
+  "meaning" : [ "惯例，常规；老规矩" ],
+  "notes" : [ "慣例通常指长期形成的、大家都遵循的习惯或规定。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6012,
+  "word" : "慣用句",
+  "reading" : "かんようく",
+  "romaji" : null,
+  "meaning" : [ "惯用句，熟语，指在语言使用中形成的具有固定形式和特定含义的短语或句子，其意义往往不能从组成它的单个词的字面意义来理解。" ],
+  "notes" : [ "慣用句在日语交流和表达中非常常见，理解和掌握它们有助于更地道地运用日语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6013,
+  "word" : "慮る",
+  "reading" : "かんがる",
+  "romaji" : null,
+  "meaning" : [ "思虑，考虑；担心，顾虑" ],
+  "notes" : [ "慮る 是较为正式的表达，在日常口语中使用「考える」更为常见。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6014,
+  "word" : "慰める",
+  "reading" : "なぐさめる",
+  "romaji" : null,
+  "meaning" : [ "安慰，宽慰；慰问，慰劳；使安心，使宽心" ],
+  "notes" : [ "该词为他动词，使用时需注意宾语的搭配。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6015,
+  "word" : "慰留",
+  "reading" : "いる",
+  "romaji" : null,
+  "meaning" : [ "挽留；劝慰并挽留" ],
+  "notes" : [ "常用于正式或书面语境中表达挽留他人的行为。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6016,
+  "word" : "憂える/愁える",
+  "reading" : "うれる",
+  "romaji" : null,
+  "meaning" : [ "忧虑，担心；发愁，悲伤" ],
+  "notes" : [ "「憂える」和「愁える」意思相近，在使用上可以通用，都表达内心的忧虑、愁闷情绪。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6017,
+  "word" : "憂鬱",
+  "reading" : "ゆううつ",
+  "romaji" : null,
+  "meaning" : [ "忧郁，郁闷；忧愁，烦闷" ],
+  "notes" : [ "「憂鬱」是ナ形容词，在句中作谓语时，词尾要接「です」；修饰名词时，词干直接接名词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6018,
+  "word" : "憎い",
+  "reading" : "にくい",
+  "romaji" : null,
+  "meaning" : [ "可憎的，可恶的；令人厌恶的；有时也可表示令人佩服（这种用法较少见）" ],
+  "notes" : [ "「憎い」主要表达负面的情感，如厌恶、憎恨等，“令人佩服”这种含义在日常使用中相对不常见。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6019,
+  "word" : "憎しみ",
+  "reading" : "にくしみ",
+  "romaji" : null,
+  "meaning" : [ "憎恶，憎恨；怨恨" ],
+  "notes" : [ "该词为名词，在句中可作主语、宾语等成分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6020,
+  "word" : "憎たらしい",
+  "reading" : "にくたらしい",
+  "romaji" : null,
+  "meaning" : [ "可憎的，可恶的；令人厌恶的" ],
+  "notes" : [ "该词为い形容词，其词尾变化遵循い形容词的规则，例如否定形式是「憎たらしくない」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6021,
+  "word" : "憎む",
+  "reading" : "にくむ",
+  "romaji" : null,
+  "meaning" : [ "憎恶，憎恨；厌恶；嫌，讨厌" ],
+  "notes" : [ "该词是五段动词，词尾为「む」，在变形时遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6022,
+  "word" : "憎らしい",
+  "reading" : "にくらしい",
+  "romaji" : null,
+  "meaning" : [ "可憎的，可恶的；令人讨厌的" ],
+  "notes" : [ "用于表达对人或事物的厌恶、反感之情。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6023,
+  "word" : "憚る",
+  "reading" : "はばかる",
+  "romaji" : null,
+  "meaning" : [ "忌惮，顾忌；不好意思，难为情；有势力，当权" ],
+  "notes" : [ "该词为五段动词，在使用时遵循五段动词的活用规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6024,
+  "word" : "憤り",
+  "reading" : "いきどおり",
+  "romaji" : null,
+  "meaning" : [ "愤怒，愤慨；义愤" ],
+  "notes" : [ "常用于表达因他人不当行为等引发的愤怒情绪。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6025,
+  "word" : "憤る",
+  "reading" : "いきどおる",
+  "romaji" : null,
+  "meaning" : [ "愤怒，气愤，愤慨；对某事感到强烈不满并表达出来。" ],
+  "notes" : [ "该词为五段动词，词尾变化遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6026,
+  "word" : "憤慨",
+  "reading" : "ふんがい",
+  "romaji" : null,
+  "meaning" : [ "愤慨，气愤" ],
+  "notes" : [ "该词一般作为名词使用，常与「に」搭配，表示对某事感到愤慨。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6027,
+  "word" : "憧れる",
+  "reading" : "あこがれる",
+  "romaji" : null,
+  "meaning" : [ "憧憬，向往；倾慕，迷恋" ],
+  "notes" : [ "该词为自动词，表达人内心对事物的向往或爱慕之情。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6028,
+  "word" : "憩い",
+  "reading" : "いこい",
+  "romaji" : null,
+  "meaning" : [ "休息；放松；悠闲；闲暇。" ],
+  "notes" : [ "该词用于表达一种放松、闲适的休息状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6029,
+  "word" : "憲法",
+  "reading" : "けんぽう",
+  "romaji" : null,
+  "meaning" : [ "宪法。国家的根本大法，规定国家的根本制度和根本任务等根本性问题。" ],
+  "notes" : [ "“憲法”是正式的书面用语，在法律、政治等相关语境中常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6030,
+  "word" : "懇ろ",
+  "reading" : "こんろ",
+  "romaji" : null,
+  "meaning" : [ "恳切的；殷勤的；亲密的" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾要变成「だ」，作定语时直接修饰名词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6031,
+  "word" : "懇親会",
+  "reading" : "こんしんかい",
+  "romaji" : null,
+  "meaning" : [ "联欢会，联谊会，旨在增进彼此感情的聚会活动" ],
+  "notes" : [ "通常用于社交、工作等场合，促进人员之间的交流和感情。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6032,
+  "word" : "懐かしい",
+  "reading" : "なつかしい",
+  "romaji" : null,
+  "meaning" : [ "怀念的，令人怀念的；眷恋的，留恋的" ],
+  "notes" : [ "该词为形容词，词尾变化遵循形容词的规则，如过去式是「懐かしかった」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6033,
+  "word" : "懐く",
+  "reading" : "なつく",
+  "romaji" : null,
+  "meaning" : [ "亲近，熟悉，喜欢；怀念，眷恋" ],
+  "notes" : [ "该词为自动词，使用时需注意句子的结构和搭配。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6034,
+  "word" : "懐中電灯",
+  "reading" : "かいちゅうでんとう",
+  "romaji" : null,
+  "meaning" : [ "手电筒" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6035,
+  "word" : "懐石料理",
+  "reading" : "かいせきりょうり",
+  "romaji" : null,
+  "meaning" : [ "怀石料理，是一种精致、注重食材季节性和摆盘艺术的高级日本料理，通常包含多道菜品，每一道都经过精心烹制和呈现。" ],
+  "notes" : [ "懐石料理起源于日本茶道，最初是为了在茶道仪式前为客人提供简单的餐食，后来逐渐发展成为一种独立的高级料理形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6036,
+  "word" : "懲りる",
+  "reading" : "こりる",
+  "romaji" : null,
+  "meaning" : [ "因尝过苦头而不敢再尝试；吸取教训，不再重犯" ],
+  "notes" : [ "该词较为正式，常用于书面语和口语中描述人从失败或痛苦经历中吸取教训，不再重复相同行为。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6037,
+  "word" : "懲役",
+  "reading" : "ちょうえき",
+  "romaji" : null,
+  "meaning" : [ "徒刑，监禁；劳役" ],
+  "notes" : [ "该词常用于法律相关语境中，描述对犯罪者的一种刑罚方式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6038,
+  "word" : "懸命",
+  "reading" : "けんめい",
+  "romaji" : null,
+  "meaning" : [ "表示全身心地投入、竭尽全力去做某事，有拼命、努力、专心致志的意思" ],
+  "notes" : [ "懸命作为形容动词，在句中可作谓语、定语、状语等。作谓语时，词尾要进行相应变化，如「懸命だ」「懸命です」；作定语时，直接修饰名词，如「懸命な努力」；作状语时，用「懸命に」修饰动词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6039,
+  "word" : "懸念",
+  "reading" : "けねん",
+  "romaji" : null,
+  "meaning" : [ "担心，忧虑；悬念，担忧的事" ],
+  "notes" : [ "该词为名词，在句子中常作主语、宾语等成分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6040,
+  "word" : "成し遂げる",
+  "reading" : "なしとげる",
+  "romaji" : null,
+  "meaning" : [ "完成，实现，达成（通常指完成具有一定难度的事情或实现某个目标）" ],
+  "notes" : [ "该词多用于表达达成具有一定挑战性的目标或完成重要的任务。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6041,
+  "word" : "成す",
+  "reading" : "なす",
+  "romaji" : null,
+  "meaning" : [ "形成，构成；完成，达到目的；做，干；成为；养成" ],
+  "notes" : [ "「成す」是较为正式、书面的表达方式，口语中常用「する」来替代。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6042,
+  "word" : "成り立つ",
+  "reading" : "なりたつ",
+  "romaji" : null,
+  "meaning" : [ "1. （组织、团体等）成立、建立；2. （理论、计划等）成立、说得通；3. （房屋、物体等）矗立、屹立" ],
+  "notes" : [ "该词为五段动词，其否定形式为「成り立たない」，过去式为「成り立った」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6043,
+  "word" : "成り行き",
+  "reading" : "なりゆき",
+  "romaji" : null,
+  "meaning" : [ "事情的发展、经过、动向、趋势" ],
+  "notes" : [ "该词常用于描述事情自然发展的状态和走向。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6044,
+  "word" : "成る",
+  "reading" : "なる",
+  "romaji" : null,
+  "meaning" : [ "成为；变成；达成；构成；完成；形成；适合；发生；可以；能" ],
+  "notes" : [ "「成る」是自动词，强调自然的变化或达成某种结果。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6045,
+  "word" : "成人",
+  "reading" : "せいじん",
+  "romaji" : null,
+  "meaning" : [ "名词，指成年人、大人；也可表示达到成年人的状态、成年。" ],
+  "notes" : [ "该词常用于描述人的年龄达到法定成年标准或具备成年人的特征和能力。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6046,
+  "word" : "成分",
+  "reading" : "せいぶん",
+  "romaji" : null,
+  "meaning" : [ "成分；组成部分" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6047,
+  "word" : "成功",
+  "reading" : "せいこう",
+  "romaji" : null,
+  "meaning" : [ "成功；成就" ],
+  "notes" : [ "该词为音读词汇，在日语中常作名词使用，搭配动词“する”可表示“取得成功”的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6048,
+  "word" : "成功します",
+  "reading" : "せいこうします",
+  "romaji" : null,
+  "meaning" : [ "成功；达成目标" ],
+  "notes" : [ "该词为サ变动词，其基本形是「成功する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6049,
+  "word" : "成否",
+  "reading" : "せいひ",
+  "romaji" : null,
+  "meaning" : [ "成败，成功与否；事情的结果、结局" ],
+  "notes" : [ "常用于描述事情的结果是成功还是失败的情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6050,
+  "word" : "成年",
+  "reading" : "せいねん",
+  "romaji" : null,
+  "meaning" : [ "达到法定年龄，成为成年人。" ],
+  "notes" : [ "常用于描述人达到可以独立承担法律责任的年龄。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6051,
+  "word" : "成果",
+  "reading" : "せいか",
+  "romaji" : null,
+  "meaning" : [ "成果，成就" ],
+  "notes" : [ "常用于描述经过努力后所获得的结果或成就。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6052,
+  "word" : "成熟",
+  "reading" : "せいじゅく",
+  "romaji" : null,
+  "meaning" : [ "成熟；发育成熟；事物发展到完善的程度" ],
+  "notes" : [ "该词作为名词使用，没有动词的活用形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6053,
+  "word" : "成立",
+  "reading" : "せいりつ",
+  "romaji" : null,
+  "meaning" : [ "1. （组织、机构等）成立。2. （计划、理论等）形成，确立，实现。3. （数学上的等式、命题等）成立。" ],
+  "notes" : [ "作为名词使用时，通常用于描述事物形成、确立的状态；作为サ变动词使用时，前接を构成他动词用法，如「会社を成立させる」（成立公司）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6054,
+  "word" : "成立する",
+  "reading" : "せいりつする",
+  "romaji" : null,
+  "meaning" : [ "成立；达成；达成协议；完成；形成。" ],
+  "notes" : [ "该词为サ变动词，在句子中使用时要注意其活用规则。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6055,
+  "word" : "成績",
+  "reading" : "せいせき",
+  "romaji" : null,
+  "meaning" : [ "成绩；成果；业绩" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6056,
+  "word" : "成金",
+  "reading" : "なりきん",
+  "romaji" : null,
+  "meaning" : [ "暴发户，暴富的人；骤然得势的人" ],
+  "notes" : [ "该词常用于形容突然获得财富或地位的人，带有一定的贬义色彩。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6057,
+  "word" : "成長",
+  "reading" : "せいちょう",
+  "romaji" : null,
+  "meaning" : [ "成长，发育；增长，发展" ],
+  "notes" : [ "「成長」是名词，常与「する」搭配使用来表示“成长”“发展”等动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6058,
+  "word" : "我々",
+  "reading" : "われわれ",
+  "romaji" : null,
+  "meaning" : [ "我们，多用于书面语或较为正式的场合。" ],
+  "notes" : [ "“我々”在使用时比“私たち”更具正式感和书面性。" ],
+  "pos" : "PRON",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6059,
+  "word" : "我が国",
+  "reading" : "わがくに",
+  "romaji" : null,
+  "meaning" : [ "名词，指我国、本国" ],
+  "notes" : [ "“我が国”是比较正式、书面的说法，常用于政治、经济、文化等较为严肃的场合来指代自己的国家。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6060,
+  "word" : "我が家",
+  "reading" : "わがや",
+  "romaji" : null,
+  "meaning" : [ "自己的家；我家" ],
+  "notes" : [ "这是一个较为正式、书面的表达方式，用于指代自己的家庭或住所。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6061,
+  "word" : "我が社",
+  "reading" : "わがしゃ",
+  "romaji" : null,
+  "meaning" : [ "名词，我公司，本公司。用于在商务或正式场合中，以第一人称的视角来称呼自己所在的公司。" ],
+  "notes" : [ "该词是较为正式、商务化的表达，在日常口语中使用相对较少。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6062,
+  "word" : "我慢",
+  "reading" : "がまん",
+  "romaji" : null,
+  "meaning" : [ "忍耐，忍受；克制，抑制；将就，凑合" ],
+  "notes" : [ "「我慢」作为サ変动词使用时，常见的形式有「我慢する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6063,
+  "word" : "我慢強い",
+  "reading" : "がまんづよい",
+  "romaji" : null,
+  "meaning" : [ "有忍耐力的，有耐心的，能忍耐的" ],
+  "notes" : [ "“我慢”是忍耐的意思，“強い”表示程度高，组合起来就是很能忍耐、有耐心的意思。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6064,
+  "word" : "我慢",
+  "reading" : "がまん",
+  "romaji" : null,
+  "meaning" : [ "忍耐；忍受；将就；克制" ],
+  "notes" : [ "“我慢”作为サ变动词，其词干为“我慢”，后续“する”构成完整动词形式。在口语和书面语中都较为常用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6065,
+  "word" : "戒める",
+  "reading" : "いましめる",
+  "romaji" : null,
+  "meaning" : [ "劝诫，劝告；告诫，训诫；禁止，戒；警惕；引以为戒" ],
+  "notes" : [ "「戒める」通常用于长辈对晚辈、上级对下级等进行劝诫、告诫的场景。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6066,
+  "word" : "或いは",
+  "reading" : "あるいは",
+  "romaji" : null,
+  "meaning" : [ "或者；或是；也许；可能" ],
+  "notes" : [ "用于连接两个或多个选项，表示选择关系，也可用于提出不确定的情况。" ],
+  "pos" : "CONJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6067,
+  "word" : "或る",
+  "reading" : "ある",
+  "romaji" : null,
+  "meaning" : [ "某……，某个……；有时，偶尔" ],
+  "notes" : [ "连体词一般用来修饰名词，在句中作定语。" ],
+  "pos" : "PRENOM",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6068,
+  "word" : "戦い/闘い",
+  "reading" : "たたかい",
+  "romaji" : null,
+  "meaning" : [ "战争；战斗；搏斗；斗争；比赛；竞争" ],
+  "notes" : [ "「戦い」和「闘い」在语义上相近，都可表示战斗等意思，但「戦い」更强调有组织的、大规模的战斗，如战争；「闘い」更侧重于个人或小规模的对抗、斗争。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6069,
+  "word" : "戦う",
+  "reading" : "たたかう",
+  "romaji" : null,
+  "meaning" : [ "战斗；斗争；竞争；奋斗" ],
+  "notes" : [ "“戦う”是五段动词，在日语中常用来描述战斗、竞争等行为。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6070,
+  "word" : "戦う/闘う",
+  "reading" : "たたかう",
+  "romaji" : null,
+  "meaning" : [ "战斗；搏斗；斗争；竞争；比赛；与……作斗争" ],
+  "notes" : [ "「戦う」和「闘う」意思相近，在很多语境中可以互换使用，但「闘う」更强调内心的斗志和精神层面的抗争。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6071,
+  "word" : "戦争",
+  "reading" : "せんそう",
+  "romaji" : null,
+  "meaning" : [ "战争；战事" ],
+  "notes" : [ "“戦争”是较为正式、书面的表达，在日常对话中也常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6072,
+  "word" : "戦力",
+  "reading" : "せんりょく",
+  "romaji" : null,
+  "meaning" : [ "军事力量，作战能力；也可泛指完成某项任务或达成某个目标所需的人力、物力等资源。" ],
+  "notes" : [ "常用于军事领域，也可用于商业、体育等其他领域，描述相关的能力或资源。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6073,
+  "word" : "戦士",
+  "reading" : "せんし",
+  "romaji" : null,
+  "meaning" : [ "战士；斗士" ],
+  "notes" : [ "该词为音读词汇，由“戦”和“士”组成。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6074,
+  "word" : "戦略",
+  "reading" : "せんりゃく",
+  "romaji" : null,
+  "meaning" : [ "名词，战略；策略" ],
+  "notes" : [ "常用于商业、军事等领域，表示为达成特定目标而制定的计划和方法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6075,
+  "word" : "戦術",
+  "reading" : "せんじゅつ",
+  "romaji" : null,
+  "meaning" : [ "战术，策略；作战方法，作战技巧" ],
+  "notes" : [ "该词常用于军事、体育等领域，描述应对各种情况的方法和策略。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6076,
+  "word" : "戦闘",
+  "reading" : "せんとう",
+  "romaji" : null,
+  "meaning" : [ "战斗；作战；斗争" ],
+  "notes" : [ "该词主要作为名词使用，在日语中常用于描述军事、斗争等方面的战斗场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6077,
+  "word" : "戯曲",
+  "reading" : "ぎきょく",
+  "romaji" : null,
+  "meaning" : [ "剧本；戏剧" ],
+  "notes" : [ "这个词多用于文艺领域，描述戏剧相关的文学作品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6078,
+  "word" : "戸惑う",
+  "reading" : "とまどう",
+  "romaji" : null,
+  "meaning" : [ "困惑，不知所措，踌躇；惊慌，慌张" ],
+  "notes" : [ "“戸惑う”是较为常用的表达困惑状态的动词，用于描述人面对意外情况时的反应。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6079,
+  "word" : "戸棚",
+  "reading" : "とだな",
+  "romaji" : null,
+  "meaning" : [ "名词，指放置物品的柜子、橱柜等，一般用于厨房放置餐具、食材等，也可用于其他场所放置杂物等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6080,
+  "word" : "戸籍",
+  "reading" : "こせき",
+  "romaji" : null,
+  "meaning" : [ "户籍；户口。指记载住户人口的册子，是对自然人按户进行登记并予以出证的公共证明簿，记载的事项有自然人的姓名、出生日期、亲属、婚姻状况等。" ],
+  "notes" : [ "该词为日常常用词汇，在办理各种社会事务时经常会涉及到。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6081,
+  "word" : "戸締り",
+  "reading" : "とじまり",
+  "romaji" : null,
+  "meaning" : [ "锁门，锁紧门户；泛指关闭门窗等进行安全防范的行为" ],
+  "notes" : [ "该词为名词，常与动词「する」搭配使用来表达锁门的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6082,
+  "word" : "戻します",
+  "reading" : "もどします",
+  "romaji" : null,
+  "meaning" : [ "放回，返还；回到（原来的位置、状态等）；恢复；退回；使……返回" ],
+  "notes" : [ "该词是“戻す”的敬体形式，“戻す”是他动词，使用时需注意其宾语的搭配。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6083,
+  "word" : "戻す",
+  "reading" : "もどす",
+  "romaji" : null,
+  "meaning" : [ "返还，归还；退回；使……倒退；使……恢复原状；使……返回" ],
+  "notes" : [ "该词为他动词，使用时要注意其宾语的搭配。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6084,
+  "word" : "戻ります",
+  "reading" : "もどります",
+  "romaji" : null,
+  "meaning" : [ "返回；回到；恢复；归还。" ],
+  "notes" : [ "「戻る」是五段动词，其ます形为「戻ります」。该词可用于表示位置的返回、状态的恢复以及物品的归还等多种场景。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6085,
+  "word" : "戻る",
+  "reading" : "もどる",
+  "romaji" : null,
+  "meaning" : [ "返回，回到；恢复；归还；回家" ],
+  "notes" : [ "该词为五段动词，词尾为る，接ます形时要发生音变，变为戻ります。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6086,
+  "word" : "所",
+  "reading" : "ところ",
+  "romaji" : null,
+  "meaning" : [ "1. 场所，地方；2. 时候，时机；3. 部分，方面；4. 程度，情况" ],
+  "notes" : [ "「所」在不同语境中有不同含义，需根据上下文理解。在口语和书面语中都较为常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6087,
+  "word" : "所々",
+  "reading" : "ところどころ",
+  "romaji" : null,
+  "meaning" : [ "到处，处处；好几个地方" ],
+  "notes" : [ "该词常在描述地点分布状况时使用。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6088,
+  "word" : "所在",
+  "reading" : "しょざい",
+  "romaji" : null,
+  "meaning" : [ "住处，所在地；（职责、问题等的）所在" ],
+  "notes" : [ "该词为音读汉字词，使用时一般作为名词表示具体地点或抽象概念的所在之处。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6089,
+  "word" : "所定",
+  "reading" : "しょてい",
+  "romaji" : null,
+  "meaning" : [ "规定，既定；所规定的，既定的" ],
+  "notes" : [ "常用于描述预先规定好的时间、条件、标准等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6090,
+  "word" : "所属",
+  "reading" : "しょぞく",
+  "romaji" : null,
+  "meaning" : [ "表示人或事物的归属，可指工作单位、组织、团体等方面的所属关系；附属、隶属。" ],
+  "notes" : [ "该词为名词，无词形变化。常用于描述个人与组织、团体等的归属关系。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6091,
+  "word" : "所得",
+  "reading" : "しょとく",
+  "romaji" : null,
+  "meaning" : [ "所得，收入；指个人或企业在一定时期内通过各种途径获得的经济收益。" ],
+  "notes" : [ "常用于经济、财务等相关语境，描述个人或组织的收入情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6092,
+  "word" : "所持",
+  "reading" : "しょじ",
+  "romaji" : null,
+  "meaning" : [ "持有，拥有；携带。" ],
+  "notes" : [ "「所持」作为サ变动词，其词干为「所持」，可后续「する」构成完整动词形式，在句子中使用时遵循サ变动词的活用规则。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6093,
+  "word" : "所有",
+  "reading" : "しょゆう",
+  "romaji" : null,
+  "meaning" : [ "所有，拥有；所有权" ],
+  "notes" : [ "该词作为名词使用，常搭配“を”表示拥有的对象。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6094,
+  "word" : "所詮",
+  "reading" : "しょせん",
+  "romaji" : null,
+  "meaning" : [ "归根到底，终归；毕竟，到底" ],
+  "notes" : [ "常用于表示对事物本质的看法或结论，带有一定的消极或无奈的语气。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6095,
+  "word" : "所長",
+  "reading" : "しょちょう",
+  "romaji" : null,
+  "meaning" : [ "名词，所长；负责人。" ],
+  "notes" : [ "常用于表示各种场所或机构的负责人，如学校、医院、研究所等的所长。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6096,
+  "word" : "扇ぐ",
+  "reading" : "おうぐ",
+  "romaji" : null,
+  "meaning" : [ "扇（风、火等）；煽动；挑拨" ],
+  "notes" : [ "该词为五段动词，词尾是「ぐ」，在接「て」形时，发生促音变，变为「扇いで」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6097,
+  "word" : "扇子",
+  "reading" : "せんす",
+  "romaji" : null,
+  "meaning" : [ "扇子，折扇" ],
+  "notes" : [ "“扇子”是一种传统的生活用品，在日本文化中也常出现，如歌舞伎表演等场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6098,
+  "word" : "扇風機",
+  "reading" : "せんぷうき",
+  "romaji" : null,
+  "meaning" : [ "风扇，电风扇" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6099,
+  "word" : "扉",
+  "reading" : "とびら",
+  "romaji" : null,
+  "meaning" : [ "名词，门，门扇；扉页；书籍的封面；（抽象意义上的）开端、入口" ],
+  "notes" : [ "该词在表示门、门扇时较为常见，也可用于文学作品中表示书籍的扉页等，具有一定的文化内涵。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6100,
+  "word" : "手",
+  "reading" : "て",
+  "romaji" : null,
+  "meaning" : [ "手；手腕；人手；手艺；本领；方面" ],
+  "notes" : [ "该词作为名词使用，无词形变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

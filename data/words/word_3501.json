@@ -1,0 +1,901 @@
+[ {
+  "id" : 3501,
+  "word" : "冷酷",
+  "reading" : "れいこく",
+  "romaji" : null,
+  "meaning" : [ "冷漠无情，冷酷，毫无同情心，态度冷淡刻薄" ],
+  "notes" : [ "作为形容动词使用时，修饰名词需用「冷酷な」，作谓语时需用「冷酷だ」「冷酷です」等形式，多用来形容人的性格、态度或是无情的现实状况。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3502,
+  "word" : "冷静",
+  "reading" : "れいせい",
+  "romaji" : null,
+  "meaning" : [ "冷静的，镇静的，沉着的；不掺杂感情、客观理智的" ],
+  "notes" : [ "可作为名词使用，如「冷静を保つ」（保持冷静）" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3503,
+  "word" : "凄まじい",
+  "reading" : "すさまじい",
+  "romaji" : null,
+  "meaning" : [ "1. 惊人的，可怕的；2. 猛烈的，厉害的；3. 了不起的，很棒的" ],
+  "notes" : [ "多用于表达程度超出常规、给人强烈冲击的状态，可用于形容自然现象、人的能力或行为等" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3504,
+  "word" : "凌ぐ",
+  "reading" : "しのぐ",
+  "romaji" : null,
+  "meaning" : [ "1. 忍耐，忍受；熬过去；2. 应付，将就；3. 凌驾，超过，胜过" ],
+  "notes" : [ "「凌ぐ」作为“忍耐、忍受”义时，多搭配艰苦的环境、困境等；表“凌驾”义时，常用于比较能力、业绩等抽象或具体的事物，语气较为正式。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3505,
+  "word" : "凍える",
+  "reading" : "こおえる",
+  "romaji" : null,
+  "meaning" : [ "1. 冻僵，冻得麻木；2. 感到寒冷，冻得发抖；3. （因恐惧、惊讶等）发僵，呆住" ],
+  "notes" : [ "自动词，除表示身体因寒冷产生的状态外，也可用于描述因强烈情绪导致的身体僵硬状态" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3506,
+  "word" : "凍る",
+  "reading" : "こおる",
+  "romaji" : null,
+  "meaning" : [ "1. 结冰，结冻；2. 冻僵，冻住；3. （因寒冷、恐惧等）发僵，呆住" ],
+  "notes" : [ "「凍る」作为自动词使用，除表示物体结冰、人体冻僵外，还可引申表达因恐惧、惊讶等情绪导致身体僵硬的状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3507,
+  "word" : "凝らす",
+  "reading" : "こらす",
+  "romaji" : null,
+  "meaning" : [ "1. 凝视，注视；2. 集中（精神、注意力）；3. 精心制作，下功夫；4. 使肌肉僵硬，抽筋" ],
+  "notes" : [ "「凝らす」作为他动词，可搭配不同宾语表达多种含义，当表示肌肉僵硬时，也可使用自动词形式「凝る（こる）」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3508,
+  "word" : "凝る",
+  "reading" : "こる",
+  "romaji" : null,
+  "meaning" : [ "1.（肌肉、关节）僵硬、酸痛；2.（对事物）热衷、沉迷；3.（在穿着、饮食等方面）讲究、挑剔" ],
+  "notes" : [ "该词根据语境不同有多种含义，使用时需结合上下文判断。作「热衷、沉迷」义时，常与「～に凝る」的搭配形式使用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3509,
+  "word" : "凝縮",
+  "reading" : "ぎょうしゅく",
+  "romaji" : null,
+  "meaning" : [ "1. 凝结，浓缩；2. 精简，压缩（内容、文字等）" ],
+  "notes" : [ "除动词用法外，也可作为名词使用，意义与动词用法对应。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3510,
+  "word" : "几帳面",
+  "reading" : "きちょうめん",
+  "romaji" : null,
+  "meaning" : [ "1. 一丝不苟的，严谨的，认真仔细的；2. 刻板的，拘泥形式的" ],
+  "notes" : [ "形容动词，常用来形容人的性格、做事态度，既可以表示褒义的认真严谨，也可表示贬义的刻板拘泥。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3511,
+  "word" : "処する",
+  "reading" : "しょする",
+  "romaji" : null,
+  "meaning" : [ "1. 处理，处置，办理；2. 对待，应付；3. 处罚，惩处；4. 安排，安置" ],
+  "notes" : [ "「処する」作为サ变动词，可接在汉语名词后构成复合动词，如「処理処する」「処罰処する」，但通常单独使用更普遍；该词在正式场合或书面语中使用较多。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3512,
+  "word" : "処分",
+  "reading" : "しょぶん",
+  "romaji" : null,
+  "meaning" : [ "1. 处分，处罚；2. 处理，处置，清理；3. 卖掉，转让" ],
+  "notes" : [ "作为サ变动词使用时，可作「処分する」的形式，常见于正式场合或书面语中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3513,
+  "word" : "処方箋",
+  "reading" : "しょほうせん",
+  "romaji" : null,
+  "meaning" : [ "处方笺，药方；医生开具的用药处方单" ],
+  "notes" : [ "一般由医师开具，持此单据可在药店调配处方药物" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3514,
+  "word" : "処理",
+  "reading" : "しょり",
+  "romaji" : null,
+  "meaning" : [ "1. 处理，办理，处置；2. 加工，整理；3. 对付，应付" ],
+  "notes" : [ "作为サ变他动词使用时，搭配「を」提示宾语；也可单独作为名词使用，如「処理能力（处理能力）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3515,
+  "word" : "処置",
+  "reading" : "しょち",
+  "romaji" : null,
+  "meaning" : [ "1. 处理，处置，应对；2. 医疗处置，治疗" ],
+  "notes" : [ "作为サ変动词使用时，可构成「処置する」的动词形式，在医疗场景中常特指应急治疗、临床处置" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3516,
+  "word" : "処罰",
+  "reading" : "しょばつ",
+  "romaji" : null,
+  "meaning" : [ "处罚，处分；对违反规则、法律或道德规范的人施加惩戒、制裁等" ],
+  "notes" : [ "作为サ变他动词使用时，常以「処罰する」「処罰される」的形式出现，多用于正式场合或书面语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3517,
+  "word" : "凧",
+  "reading" : "たこ",
+  "romaji" : null,
+  "meaning" : [ "风筝" ],
+  "notes" : [ "「たこ」是「凧」的常用音读，该词还可写作「鷹」，不过一般在表示风筝含义时使用「凧」这个汉字写法" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3518,
+  "word" : "凭れる",
+  "reading" : "よれる",
+  "romaji" : null,
+  "meaning" : [ "1. 倚靠，凭靠；身体歪斜、倾斜；2.（食物）积滞在胃里，不消化；3. 倾心，迷恋" ],
+  "notes" : [ "「凭れる」也可写作「傾れる」，表示身体倾斜的含义时两者通用；表示积食、迷恋的含义时通常使用「凭れる」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3519,
+  "word" : "凭れる",
+  "reading" : "よれる",
+  "romaji" : null,
+  "meaning" : [ "1. 倚靠，凭靠；2. 积食，不消化；3. （身心）依赖，依附" ],
+  "notes" : [ "该词为多义动词，不同含义使用场景有所区别：表示身体倚靠时多搭配具体物体；表示积食时多指代肠胃状态；表示心理依赖时多搭配人或可依托的对象。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3520,
+  "word" : "凭れ掛かる",
+  "reading" : "よれがかる",
+  "romaji" : null,
+  "meaning" : [ "1. 身体部分倚靠在某物上；2. 依赖他人，依靠别人生活" ],
+  "notes" : [ "也可写作「よれ掛かる」，强调身体的倚靠状态或对他人的依赖行为" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3521,
+  "word" : "凸凹",
+  "reading" : "でこぼこ",
+  "romaji" : null,
+  "meaning" : [ "1. 凹凸不平，坑坑洼洼；2. 不均匀，不均衡；3. （能力、表现等）不稳定，时好时坏" ],
+  "notes" : [ "也可作为名词使用，读作「でこぼこ」，表示凹凸的状态或事物" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3522,
+  "word" : "凹む",
+  "reading" : "へこむ",
+  "romaji" : null,
+  "meaning" : [ "1. 凹陷，凹下，陷下；2. 服输，认输，气馁；3. （金额等）减少，缩减" ],
+  "notes" : [ "「凹む」作为自动词使用，除表示物理形态的凹陷外，还可用于抽象的精神状态、数值变化等场景。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3523,
+  "word" : "出かけます",
+  "reading" : "でかけます",
+  "romaji" : null,
+  "meaning" : [ "出门，外出，出去（办事、游玩等）" ],
+  "notes" : [ "\"出かけます\"是动词\"出かける\"的ます形，常用于表示离开住所前往别处进行活动，可搭配具体目的地或活动内容使用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3524,
+  "word" : "出かける",
+  "reading" : "でかける",
+  "romaji" : null,
+  "meaning" : [ "1. 出门，外出，出去；2. 出发，启程；3. （为特定目的）前往，动身" ],
+  "notes" : [ "1. 通常指为了某个目的离开家或当前所在场所；2. 可以与表示目的地的「に」「へ」搭配使用；3. 否定形式为「出かけない」，过去式为「出かけた」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3525,
+  "word" : "出くわす",
+  "reading" : "でくわす",
+  "romaji" : null,
+  "meaning" : [ "1. 偶遇，碰到，遇见；2. 遭遇（意外、事件等）" ],
+  "notes" : [ "多用来描述偶然、非预期的相遇或遭遇，对象可以是人、事物或事件" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3526,
+  "word" : "出します",
+  "reading" : "だします",
+  "romaji" : null,
+  "meaning" : [ "1. 提交，交出〔書類・申込書などを〕；2. 拿出，取出〔中から外に〕；3. 寄出，发送〔郵便・ファックスなどを〕；4. 提供，供给〔食事・飲み物を〕；5. 发布，公布〔情報・通知を〕" ],
+  "notes" : [ "「出します」是サ変動詞「出す」的ます形，除上述含义外，还可根据语境表示“伸出（手、脚）”“提出（意见）”等意思" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3527,
+  "word" : "出し切る",
+  "reading" : "だしきる",
+  "romaji" : null,
+  "meaning" : [ "1. 全部拿出，全部交出；2. 尽力做到底，竭尽所能；3. 卖光，售罄" ],
+  "notes" : [ "「切る」作为补助动词接在他动词连用形后，表示动作彻底完成、达到极限状态。该词可用于金钱、能力、商品等多种对象场景。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3528,
+  "word" : "出す",
+  "reading" : "だす",
+  "romaji" : null,
+  "meaning" : [ "1.拿出，取出；伸出，探出；2.送出，寄出；发出，打出；3.提出，提交；发布，公布；4.长出，冒出；5.开始，发起；6.花（钱），支出；7.说出，讲出" ],
+  "notes" : [ "作为补助动词时，常接在动词连用形后，表示动作的开始、出现等含义，如「走り出す」（跑起来）、「雨が降り出す」（开始下雨）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3529,
+  "word" : "出ます",
+  "reading" : "でます",
+  "romaji" : null,
+  "meaning" : [ "1. 出现，出来；2. 出发，离开；3. 出勤，上班；4. 拿出，取出；5. 产生，得出；6. 找回（零钱）［おつりが出ます］" ],
+  "notes" : [ "「出ます」是动词「出る（でる）」的ます形，属于一段动词，含义丰富，需根据语境区分具体用法。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3530,
+  "word" : "出る",
+  "reading" : "でる",
+  "romaji" : null,
+  "meaning" : [ "1. （从内部到外部）出去，出来；2. （从某个场所、组织等）离开，退出；3. （事物、现象等）显现，出现；4. （结果、成绩等）产生，得出；5. （作品、消息等）发表，发布；6. （交通工具）驶出，开出" ],
+  "notes" : [ "除作为独立动词使用外，还常与其他动词构成复合动词，如「飛び出る」「取り出る」等，表达更具体的动作含义。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3531,
+  "word" : "出世",
+  "reading" : "しゅっせ",
+  "romaji" : null,
+  "meaning" : [ "1. （在社会、职场等）晋升，出人头地，发迹；2. （学业、技能等）有出息，取得成就；3. （江户时代）武士离开主家独立谋生" ],
+  "notes" : [ "作为サ变动词使用时，可构成「出世する」的形式，表达主动追求晋升或取得成就的动作" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3532,
+  "word" : "出会い",
+  "reading" : "であい0",
+  "romaji" : null,
+  "meaning" : [ "1. 相遇，邂逅，碰面；2. 相识，结识；3. （偶然的）遇见" ],
+  "notes" : [ "可构成复合词如「出会い系（であいけい）」，指以结识、交友为目的的场所或服务" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3533,
+  "word" : "出会う",
+  "reading" : "であう",
+  "romaji" : null,
+  "meaning" : [ "1. 遇见，碰上，碰到；2. 邂逅，相逢；3. （偶然）遇到（机会、问题等）" ],
+  "notes" : [ "该动词侧重偶然、意外的相遇，若为特意会面则通常使用「会う」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3534,
+  "word" : "出入り",
+  "reading" : "でいり",
+  "romaji" : null,
+  "meaning" : [ "1. 出入、进出；2. 收支、存取；3. 往来、交际；4. （人员的）流动" ],
+  "notes" : [ "作为名词使用时可后续「する」构成サ变动词，也可单独作名词表示相关行为或状态" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3535,
+  "word" : "出入り口",
+  "reading" : "でいりぐち",
+  "romaji" : null,
+  "meaning" : [ "出入口，门口，进出的通道" ],
+  "notes" : [ "一般指供人或物品进出的通道，也可引申为某个领域的入口、门户" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3536,
+  "word" : "出動",
+  "reading" : "しゅつどう",
+  "romaji" : null,
+  "meaning" : [ "1. （人员、车辆、机械等）出动，派出；2. （为应对紧急情况、任务等）出动，赶赴现场；3. （军队、警察等）出动，开赴前线" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「出動する」的动词形式，也可作为名词单独使用，如「緊急出動」（紧急出动）。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3537,
+  "word" : "出勤",
+  "reading" : "しゅっきん",
+  "romaji" : null,
+  "meaning" : [ "1. 上班，出勤，到岗工作；2. （学生）到校上课" ],
+  "notes" : [ "可作为名词使用，如「出勤日」（工作日）、「出勤簿」（考勤簿）" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3538,
+  "word" : "出勤します",
+  "reading" : "しゅっきんします",
+  "romaji" : null,
+  "meaning" : [ "上班，出勤，到岗工作" ],
+  "notes" : [ "「出勤する」の丁寧形で、職場や勤務先に行って仕事をすることを指す。対義語は「退勤する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3539,
+  "word" : "出向く",
+  "reading" : "でむく",
+  "romaji" : null,
+  "meaning" : [ "1. 前往，前去（特指因工作、公务等前往某地）；2. 调任，调职（被派往其他部门、分公司等工作）" ],
+  "notes" : [ "该动词多用于工作相关的移动或调任场景，日常私人出行一般使用「行く」「向かう」等词。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3540,
+  "word" : "出品",
+  "reading" : "しゅっぴん",
+  "romaji" : null,
+  "meaning" : [ "1. （在展览、展销会等）展出，展销；2. （向比赛、评选等）投稿，参赛；3. （在拍卖、投标中）出（品）" ],
+  "notes" : [ "作为サ変動詞，可直接接を构成宾语，也可构成「出品する」的动词形式，同时该词也可作名词使用，表达相同核心含义" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3541,
+  "word" : "出回る",
+  "reading" : "でまわる",
+  "romaji" : null,
+  "meaning" : [ "1.（商品、信息等）大量上市，大量流通；2.（人）到处转悠，四处活动；3.（事物）广泛传播，流传" ],
+  "notes" : [ "该动词主语多为商品、信息、传闻或人，强调其在一定范围内的扩散、流通或活动状态" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3542,
+  "word" : "出国",
+  "reading" : "しゅっこく",
+  "romaji" : null,
+  "meaning" : [ "离开自己的国家前往国外；出境" ],
+  "notes" : [ "作为サ変動詞使用时，常与「する」搭配构成动词形式；可用于正式场合或日常场景" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3543,
+  "word" : "出場",
+  "reading" : "しゅつじょう",
+  "romaji" : null,
+  "meaning" : [ "1. 参加比赛、活动、会议等；出场，参赛，出席。2. （演员、选手等）登场，登台。" ],
+  "notes" : [ "作为サ変动词使用时，可构成「出場する」的形式，名词形式可后续「する」「をする」等表达相关动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3544,
+  "word" : "出場します",
+  "reading" : "しゅつじょうします",
+  "romaji" : null,
+  "meaning" : [ "参加（比赛、会议、考试等公开场合的活动）；出场，登场" ],
+  "notes" : [ "通常用于正式场合的参与行为，对象多为比赛、会议、考试、仪式等需要公开露面或参与的活动" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3545,
+  "word" : "出始める",
+  "reading" : "ではじめる",
+  "romaji" : null,
+  "meaning" : [ "1. 开始出现；开始出来；2. 开始上市；开始发售" ],
+  "notes" : [ "「出始める」是复合动词，由动词「出る」与补助动词「始める」复合而成，强调动作的起始阶段，常用来描述事物从无到有、从隐到显的开始状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3546,
+  "word" : "出席",
+  "reading" : "しゅせき",
+  "romaji" : null,
+  "meaning" : [ "1. 出席，到场，参加（会议、仪式、课程等）；2. （在文件等上）签署，署名" ],
+  "notes" : [ "作为サ变动词，可构成「出席する」的动词形式，其名词形式也可直接使用；表示签署时多用于正式文件场景。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3547,
+  "word" : "出席します",
+  "reading" : "しゅっせきします",
+  "romaji" : null,
+  "meaning" : [ "出席，参加（会议、课程、仪式等）" ],
+  "notes" : [ "「出席します」是サ变动词「出席する」的ます形，常用于正式场合或书面语，对应口语中常用的「出る」「来る」等表达，但「出席します」更强调正式的到场参与行为。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3548,
+  "word" : "出店",
+  "reading" : "しゅってん",
+  "romaji" : null,
+  "meaning" : [ "1. 开店，开设分店；2. （在活动、展会等中）设摊，出展摊位" ],
+  "notes" : [ "作自动词使用时，多表示企业、店铺开设新门店或在活动中设置摊位的行为；作名词时可直接表示“门店、摊位”的概念。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3549,
+  "word" : "出張",
+  "reading" : "しゅっちょう",
+  "romaji" : null,
+  "meaning" : [ "出差，临时到外地（或国外）办公、执行公务" ],
+  "notes" : [ "作为サ变自动词使用时，常以「出張する」的形式出现；也可作名词后续「に」构成状语，表达出差的目的或状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3550,
+  "word" : "出張します",
+  "reading" : "しゅっちょうします",
+  "romaji" : null,
+  "meaning" : [ "出差，因公外出，赴外地办公务" ],
+  "notes" : [ "「出張」为サ変動詞词干，接「します」构成敬体形式；口语中可省略「します」直接用「出張」表示出差的动作或状态。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3551,
+  "word" : "出来上がり",
+  "reading" : "できあがり",
+  "romaji" : null,
+  "meaning" : [ "1. 完成，做完；2. 成品，完成的结果；3. （菜肴等的）做好的样子，成品状态" ],
+  "notes" : [ "作为名词使用，可指动作的完成状态，也可指完成的物品本身。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3552,
+  "word" : "出来上がる",
+  "reading" : "できあがる",
+  "romaji" : null,
+  "meaning" : [ "1. 做完，完成；2. 做好，制作完成；3. （自然地）形成，长成；4. 凑齐，筹备好" ],
+  "notes" : [ "该词既可以表示人为完成某件制作、筹备类的事项，也可以表示自然事物的形成、长成。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3553,
+  "word" : "出来事",
+  "reading" : "できごと",
+  "romaji" : null,
+  "meaning" : [ "事件，变故，事情；（社会、自然界发生的）现象" ],
+  "notes" : [ "多用来指发生的比较引人注意的事件或日常发生的各类事情，可用于正式或日常场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3554,
+  "word" : "出来心",
+  "reading" : "できごころ",
+  "romaji" : null,
+  "meaning" : [ "一时的念头，心血来潮；一时的邪念、歹心" ],
+  "notes" : [ "多用来形容突然产生的、未经深思熟虑的想法，既可以指无恶意的突发奇想，也可指一时产生的不良念头。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3555,
+  "word" : "出来物",
+  "reading" : "できもの",
+  "romaji" : null,
+  "meaning" : [ "1. 皮肤上长出的疙瘩、囊肿、疖子等；2. （事物的）成果、成品；3. 出现的事物、产生的问题" ],
+  "notes" : [ "该词根据语境有不同含义，最常用的是指皮肤表面的异常凸起物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3556,
+  "word" : "出演",
+  "reading" : "しゅつえん",
+  "romaji" : null,
+  "meaning" : [ "1. 登台表演，出演（戏剧、电影、节目等）；2. （在活动、会议等中）出席，参与" ],
+  "notes" : [ "作为サ变动词，可单独使用「出演する」，也可构成「出演する」「出演をする」的表达；除演艺相关的登台外，也可用于正式场合的出席参与。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3557,
+  "word" : "出演する",
+  "reading" : "しゅつえんする",
+  "romaji" : null,
+  "meaning" : [ "出演，登台表演，参加演出；（在媒体、活动等中）露面，出场" ],
+  "notes" : [ "「出演～」是该动词的连用形或接后续成分的形式，完整动词为「出演する」" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3558,
+  "word" : "出版",
+  "reading" : "しゅっぱんする",
+  "romaji" : null,
+  "meaning" : [ "1. 把书籍、杂志、报纸、音像制品等印刷或制作出来，向公众发行；2. 公布、发布（信息、研究成果等）" ],
+  "notes" : [ "「出版」作为サ变动词，可单独作名词使用，也可后续「する」构成动词形式；除实体出版物外，也可用于数字出版物、电子内容的发行" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3559,
+  "word" : "出版社",
+  "reading" : "しゅっぱんしゃ",
+  "romaji" : null,
+  "meaning" : [ "出版书籍、杂志等出版物的机构，即出版社" ],
+  "notes" : [ "属于事物名词，可与「～から」「～に」等助词搭配使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3560,
+  "word" : "出現",
+  "reading" : "しゅつげん",
+  "romaji" : null,
+  "meaning" : [ "1. （人、事物、现象等）出现，显现；2. 问世，推出（新产品、作品等）" ],
+  "notes" : [ "作为サ変動詞，可构成「出現する」的动词形式，多用于书面语，描述较为正式或客观的出现场景" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3561,
+  "word" : "出生",
+  "reading" : "しゅっせい",
+  "romaji" : null,
+  "meaning" : [ "1. 出生，诞生；2. 出身，籍贯；3. 问世，出现" ],
+  "notes" : [ "可作サ变动词使用，形式为「出生する」，表示出生、出身等含义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3562,
+  "word" : "出産",
+  "reading" : "しゅっさん",
+  "romaji" : null,
+  "meaning" : [ "1. 分娩，生孩子；2. （动物）产仔；3. 产品的生产，产出" ],
+  "notes" : [ "作为サ変動詞使用时，可作「出産する」的形式，既可以指人类的生育行为，也可用于动物产仔及物品的生产场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3563,
+  "word" : "出番",
+  "reading" : "でばん",
+  "romaji" : null,
+  "meaning" : [ "1. 值班，当班，值勤；2. 出场机会，登台机会，上场顺序；3. （工作等的）轮到的班次" ],
+  "notes" : [ "可构成复合词如「出番表（でばんひょう）」，意为值班表。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3564,
+  "word" : "出発",
+  "reading" : "しゅっぱつ",
+  "romaji" : null,
+  "meaning" : [ "1. 出发，启程；2. 开始，着手；3. （为特定目的）动身，前往" ],
+  "notes" : [ "可作为名词使用，构成「出発点（しゅっぱつてん）」「出発時間（しゅっぱつじかん）」等复合词；作动词时需搭配「する」使用，即「出発する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3565,
+  "word" : "出発します",
+  "reading" : "しゅっぱつします",
+  "romaji" : null,
+  "meaning" : [ "出发，启程；开始，着手；（列车、飞机等）开出" ],
+  "notes" : [ "「出発する」的ます形，多用于正式场合或礼貌表达；除表示物理性出发外，也可引申为项目、计划等的启动开始。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3566,
+  "word" : "出発時刻",
+  "reading" : "しゅっぱつじこく",
+  "romaji" : null,
+  "meaning" : [ "出发时刻，出发时间" ],
+  "notes" : [ "属于复合名词，由「出発（しゅっぱつ）」和「時刻（じこく）」复合而成，用于明确表示交通工具、出行等的出发时间点。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3567,
+  "word" : "出直し",
+  "reading" : "でなおし",
+  "romaji" : null,
+  "meaning" : [ "1. 重新再来、重新开始；2. 返工、重做；3. （被要求）回去再来、重新排队" ],
+  "notes" : [ "作为サ変動詞使用时，常以「出直しをする」或「出直す」的形式出现；作为名词可单独使用，表达“返工的成果”或“重新来过的行为”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3568,
+  "word" : "出直す",
+  "reading" : "でなおす",
+  "romaji" : null,
+  "meaning" : [ "1. 重来，重新开始；2. （被驱赶后）重新回来；3. 改正，修正" ],
+  "notes" : [ "该词除了表示重新开始的含义外，还可用于被驱赶后再次返回的场景，也可指对错误、疏漏进行修正" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3569,
+  "word" : "出社",
+  "reading" : "しゅっしゃする",
+  "romaji" : null,
+  "meaning" : [ "上班，到公司上班，去公司出勤" ],
+  "notes" : [ "是「会社に出かける」的较为正式的说法，多用于职场场景" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3570,
+  "word" : "出荷",
+  "reading" : "しゅっか",
+  "romaji" : null,
+  "meaning" : [ "1. （商品等）发货，出货；2. （农作物、水产品等）上市，运到市场" ],
+  "notes" : [ "作为サ变动词使用时，可构成「出荷する」「出荷した」等活用形式；作为名词可与「を」「が」等助词搭配，如「出荷を遅らせる」「出荷が増える」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3571,
+  "word" : "出血",
+  "reading" : "しゅっけつ",
+  "romaji" : null,
+  "meaning" : [ "1. （身体的）出血，流血；2. （经济上）亏本，亏损，赔本；3. （为推广等）投入大量资金" ],
+  "notes" : [ "作动词使用时多以「出血する」的形式出现，经济相关含义为引申义，在商务场景中较为常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3572,
+  "word" : "出費",
+  "reading" : "しゅっぴ",
+  "romaji" : null,
+  "meaning" : [ "1. 花费，开销，经费；2. 出钱，掏钱" ],
+  "notes" : [ "作为サ变动词使用时，形式为「出費する」，可表示具体的花钱行为或产生的费用金额。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3573,
+  "word" : "出資",
+  "reading" : "しゅっし",
+  "romaji" : null,
+  "meaning" : [ "1. 出资，投入资金；2. 投资，为企业、团体等投入资金以获取权益或支持运营" ],
+  "notes" : [ "作为サ变自动词使用时，常以「～に出資する」「～と出資し合う」的形式出现，表示向某对象出资或共同出资。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3574,
+  "word" : "出身",
+  "reading" : "しゅっしん",
+  "romaji" : null,
+  "meaning" : [ "1. 出生地、籍贯；2. 毕业院校、出身校；3. （所属的）出身地、出身团体，如职场、行业等背景" ],
+  "notes" : [ "可构成复合词「出身校（しゅっしんこう）」表示毕业院校，常用「～出身」的形式来表述人物的籍贯、学业或职业背景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3575,
+  "word" : "出迎え",
+  "reading" : "でむかえ0",
+  "romaji" : null,
+  "meaning" : [ "1. 名词：迎接，迎接的人；2. サ変動詞：迎接，出迎" ],
+  "notes" : [ "作为名词时可指迎接的行为或负责迎接的人；作为サ変動詞使用时，常搭配「～に行く」「～に来る」等表达迎接的动作目的" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3576,
+  "word" : "出迎える",
+  "reading" : "でむかえる",
+  "romaji" : null,
+  "meaning" : [ "1. 迎接，迎出去接；2. （在比赛等中）迎战，对抗" ],
+  "notes" : [ "「出迎える」是他动词，接名词时使用「を」提示宾语；其名词形式为「出迎え（でむかえ）」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3577,
+  "word" : "出頭",
+  "reading" : "しゅっとう",
+  "romaji" : null,
+  "meaning" : [ "1.（应传唤等）前往，到案，出庭；2.露面，出头，到场；3.向上级等提出，呈报" ],
+  "notes" : [ "该词书面语色彩较强，多用于正式场合，如司法、行政、组织内部等场景。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3578,
+  "word" : "出題",
+  "reading" : "しゅつだい",
+  "romaji" : null,
+  "meaning" : [ "1.（考试、测验等）出题，出题目；2.（竞赛、征稿等）提出题目，设定主题" ],
+  "notes" : [ "作为サ変动词使用时，常以「出題する」「出題される」的形式出现；作为名词可直接接「が」「を」等助词使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3579,
+  "word" : "出題例",
+  "reading" : "しゅつだいれい",
+  "romaji" : null,
+  "meaning" : [ "题例，例题（指作为出题参考或示范的题目实例）" ],
+  "notes" : [ "多用于考试、测验相关场景，常作为考生备考时参考的题目范例" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3580,
+  "word" : "出願",
+  "reading" : "しゅつがん",
+  "romaji" : null,
+  "meaning" : [ "1. 申请（如入学、资格、许可等）；2. 报名（考试、活动等）；3. 申报（税务、登记等）" ],
+  "notes" : [ "作为サ変動詞，可与「する」搭配使用构成动词短语「出願する」，也可单独作为名词使用，表达相关申请行为。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3581,
+  "word" : "出鱈目",
+  "reading" : "でたらめ",
+  "romaji" : null,
+  "meaning" : [ "1. 荒唐，荒谬，毫无道理；2. 胡乱，随便，乱来；3. 撒谎，瞎话" ],
+  "notes" : [ "「出鱈目」是形容动词，常以「出鱈目な」修饰名词，「出鱈目に」作副词使用，也可单独作名词表示“瞎话、荒唐事”。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3582,
+  "word" : "刀",
+  "reading" : "かたな",
+  "romaji" : null,
+  "meaning" : [ "刀，日本刀（通常指单刃的传统日式刀剑）；匕首，短刀" ],
+  "notes" : [ "作为日语常用词，主要指日本传统的单刃刀剑，不同于中文里泛指的各类刀具，日常语境中也可指代小型短刀。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3583,
+  "word" : "刃物",
+  "reading" : "はもの",
+  "romaji" : null,
+  "meaning" : [ "刀具，刃具，带刃的工具（如菜刀、剪刀、小刀等）" ],
+  "notes" : [ "通常指具有锋利刀刃的器具，涵盖厨刀、剪刀、美工刀等各类带刃工具" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3584,
+  "word" : "分かりました",
+  "reading" : "わかりました",
+  "romaji" : null,
+  "meaning" : [ "明白了，知道了，懂了，清楚了" ],
+  "notes" : [ "是「分かる」的ます形过去式，用于礼貌地表达理解了对方的话语、说明或掌握了相关内容，日常对话中使用频率极高。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3585,
+  "word" : "分かります",
+  "reading" : "わかります",
+  "romaji" : null,
+  "meaning" : [ "1. 理解、明白、懂得；2. 知道、了解、清楚；3. 认可、同意；4. 分辨、区分" ],
+  "notes" : [ "「分かります」是「分かる」的ます形，该动词为自动词，无被动形，否定形式为「分かりません」，过去式为「分かりました」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3586,
+  "word" : "分かりません",
+  "reading" : "わかりません",
+  "romaji" : null,
+  "meaning" : [ "不知道；不明白；不清楚" ],
+  "notes" : [ "「分かりません」是五段动词「わかる」的ます形否定形式，属于礼貌表达，用于正式场合或对长辈、上级说话时。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3587,
+  "word" : "分かる",
+  "reading" : "わかる",
+  "romaji" : null,
+  "meaning" : [ "1. 明白，理解，懂得；2. 知道，了解，清楚；3. 分辨，区分；4. 通情达理，懂事；5. 情况良好，正常运转" ],
+  "notes" : [ "「分かる」是自动词，通常不能带宾语，若要表达“理解某事”需使用「～が分かる」的结构；其过去式为「分かった」，否定形为「分からない」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3588,
+  "word" : "分かれる",
+  "reading" : "わかれる",
+  "romaji" : null,
+  "meaning" : [ "1. 分开，分离；分裂；分手；2. 区分，辨别；3. 分歧，不一致；4. 分配，划分" ],
+  "notes" : [ "该词自动词用法较多，强调事物自身的分离状态或动作；表示「区分、辨别」时，常与「～を～と分かれる」的结构搭配使用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3589,
+  "word" : "分ける",
+  "reading" : "わける",
+  "romaji" : null,
+  "meaning" : [ "1. 分开，分割；2. 分配，分发；3. 区分，辨别；4. 分类，划分；5. 分开（关系、联系等）" ],
+  "notes" : [ "作为他动词使用，对象通常用を提示；部分含义可引申为“划分职责、界限”等。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3590,
+  "word" : "分子",
+  "reading" : "ぶんし",
+  "romaji" : null,
+  "meaning" : [ "1. 化学中构成物质的基本粒子；2. 数学中分数的上部数字；3. 指某个群体中的一员，如「社会の分子」（社会成员）" ],
+  "notes" : [ "该词为多义词，需根据上下文判断具体含义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3591,
+  "word" : "分布",
+  "reading" : "ぶんぷ",
+  "romaji" : null,
+  "meaning" : [ "1. （事物）分散在一定的区域内；分布。2. （统计学）分布" ],
+  "notes" : [ "作为サ变他动词使用时，可构成「～を分布させる」的形式，表示使某物分布" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3592,
+  "word" : "分布する",
+  "reading" : "ぶんぷする",
+  "romaji" : null,
+  "meaning" : [ "1. 分布，散布，分散在一定范围内；2. （数、统计）分布" ],
+  "notes" : [ "「分布～」是不完整的形式，完整单词为「分布する」，属于动作性名词+する构成的三类动词，可用于自然现象、事物分布以及统计学术语等场景。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3593,
+  "word" : "分担",
+  "reading" : "ぶんたん",
+  "romaji" : null,
+  "meaning" : [ "1. 分担，分摊，分别承担；2. 分成若干部分，划分" ],
+  "notes" : [ "作为サ変動詞，可直接接「する」构成动词形，也可作名词使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3594,
+  "word" : "分散",
+  "reading" : "ぶんさん",
+  "romaji" : null,
+  "meaning" : [ "1. （人、物等）分散、散开；2. （注意力、精力等）分散、不集中；3. （将整体）分成若干部分，分散配置" ],
+  "notes" : [ "作为サ変動詞，可作自动词「分散する」或他动词「分散させる」使用" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3595,
+  "word" : "分数",
+  "reading" : "ぶんすう",
+  "romaji" : null,
+  "meaning" : [ "1.（数学）分数；2. 评定的分数、得分" ],
+  "notes" : [ "当表示数学概念时为专业术语，日常使用中更多指考试、测评的得分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3596,
+  "word" : "分析",
+  "reading" : "ぶんせき",
+  "romaji" : null,
+  "meaning" : [ "1.（化学、生物学等领域）对物质成分进行分析、化验；2.对事物的结构、原因、本质等进行剖析、解析，理清条理与逻辑" ],
+  "notes" : [ "该词同时可作为名词使用，作为动词时需后续「する」构成サ变动词形式" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3597,
+  "word" : "分相応",
+  "reading" : "ぶんそうおう",
+  "romaji" : null,
+  "meaning" : [ "合乎身份，与身份、地位、场合相称；恰当，合适" ],
+  "notes" : [ "通常以「分相応な」的形式作定语，或「分相応に」作状语使用，多用来形容言行、服装等是否与自身身份、所处场合匹配。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3598,
+  "word" : "分裂",
+  "reading" : "ぶんれつ",
+  "romaji" : null,
+  "meaning" : [ "1. 整体分成若干部分；分裂、裂开；2. 组织、团体等内部发生分歧，分成不同派别的状态；分裂、分化" ],
+  "notes" : [ "除动词用法外，也可作为名词使用，含义与动词用法对应。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3599,
+  "word" : "分解",
+  "reading" : "ぶんかい",
+  "romaji" : null,
+  "meaning" : [ "1. 拆开，拆卸；把整体拆成各个部分。2. （化学、生物学用语）分解；使化合物、有机物等分裂成更简单的物质。3. （抽象事物）瓦解，崩溃；使体系、组织等解体。" ],
+  "notes" : [ "作为サ変動詞，可单独使用「分解する」的形式，也可构成「が分解される」等被动语态；化学领域的用法较为常见，属于专业用语的延伸。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3600,
+  "word" : "分解する",
+  "reading" : "ぶんかいする",
+  "romaji" : null,
+  "meaning" : [ "1. 分解，拆分；将整体拆分成组成部分。2. 分析；对事物的结构、原理、原因等进行剖析。3. （化学）分解；使化合物分解为更简单的物质。" ],
+  "notes" : [ "作为三类动词，基本形为「分解する」，否定形「分解しない」，过去形「分解した」，敬体形「分解します」。可作为サ変動詞接在名词后构成复合动词，如「酵素分解する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+} ]

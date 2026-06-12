@@ -1,0 +1,901 @@
+[ {
+  "id" : 5601,
+  "word" : "強いる",
+  "reading" : "しいる",
+  "romaji" : null,
+  "meaning" : [ "强迫，迫使，强使" ],
+  "notes" : [ "通常以「～を強いる（shiiru）」的形式出现，表示违背对方意愿强行要求。常用于被动语态「強いられる（shirareru）」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5602,
+  "word" : "強まる",
+  "reading" : "つよまる",
+  "romaji" : null,
+  "meaning" : [ "变强，增强，强硬起来" ],
+  "notes" : [ "表示程度或状态变得更强。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5603,
+  "word" : "強める",
+  "reading" : "つよめる",
+  "romaji" : null,
+  "meaning" : [ "加强，增强，使……强烈" ],
+  "notes" : [ "他动词，对应的自动词为「強まる（つよまる）」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5604,
+  "word" : "強制",
+  "reading" : "きょうせい",
+  "romaji" : null,
+  "meaning" : [ "强制，强迫；强行" ],
+  "notes" : [ "「強制」通常作为名词使用，如需表示动词含义，需后续「する」变成「強制する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5605,
+  "word" : "強力",
+  "reading" : "きょうりょく",
+  "romaji" : null,
+  "meaning" : [ "强有力，强大" ],
+  "notes" : [ "也可作为名词使用，表示强有力的支持或力量。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5606,
+  "word" : "強化",
+  "reading" : "きょうか",
+  "romaji" : null,
+  "meaning" : [ "加强，强化；增强；巩固" ],
+  "notes" : [ "常用作サ变动词词干使用，如「強化する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5607,
+  "word" : "強引",
+  "reading" : "ごういん",
+  "romaji" : null,
+  "meaning" : [ "强行的；强制的；蛮干的；硬要" ],
+  "notes" : [ "通常写作「強引（ごういん）」，形容不顾他人反对或情况，强行推进某事的样子。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5608,
+  "word" : "強情",
+  "reading" : "ごうじょう",
+  "romaji" : null,
+  "meaning" : [ "（名・形動）頑固で自分の意見を曲げないこと。また、そのような様子。犟、固执、顽固、倔强。" ],
+  "notes" : [ "「強情（ごうじょう）」は、主に他人に対して自分の考えや態度を頑固に貫く様子を表す。類語に「頑固（がんこ）」があるが、「頑固」は思考や態度が柔軟性を欠いていることを指すのに対し、「強情」は対人関係の中で意地を張るニュアンスが強い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5609,
+  "word" : "強気",
+  "reading" : "つよき",
+  "romaji" : null,
+  "meaning" : [ "（态度、性格）强硬，坚决，坚强；（股市行情）看涨" ],
+  "notes" : [ "反义词为「弱気（よわき）」；在金融领域特指行情看涨。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5610,
+  "word" : "強烈",
+  "reading" : "きょうれつ",
+  "romaji" : null,
+  "meaning" : [ "（形容动词）强烈；剧烈；尖锐。形容程度极深、冲击力很大或感觉非常鲜明。" ],
+  "notes" : [ "通常用于修饰印象、感觉、光线、味道、反对意见等，表示程度非常剧烈或深刻。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5611,
+  "word" : "強盗",
+  "reading" : "ごうとう",
+  "romaji" : null,
+  "meaning" : [ "抢劫；强盗" ],
+  "notes" : [ "指使用暴行或胁迫手段抢夺财物的犯罪行为，也指实施该行为的人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5612,
+  "word" : "強硬",
+  "reading" : "きょうこう",
+  "romaji" : null,
+  "meaning" : [ "强硬；顽强" ],
+  "notes" : [ "多用于形容态度、手段、政策等不屈不挠或毫不退让。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5613,
+  "word" : "強行",
+  "reading" : "きょうこう",
+  "romaji" : null,
+  "meaning" : [ "强行实施；硬干；坚持进行" ],
+  "notes" : [ "常以「強行する（きょうこうする）」的形式作为动词使用。表示不顾困难或反对，强行推进某事。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5614,
+  "word" : "強調",
+  "reading" : "きょうちょう",
+  "romaji" : null,
+  "meaning" : [ "强调，重视" ],
+  "notes" : [ "作为动词使用时，读音为「きょうちょうする」，属于サ变动词（动3）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5615,
+  "word" : "強請る",
+  "reading" : "ねだる",
+  "romaji" : null,
+  "meaning" : [ "死乞白赖地要求；强求；勒索；敲诈" ],
+  "notes" : [ "常写作「ねだる」。意为强行索要金钱、物品或某种行为，带有纠缠不休或以此为要挟的语感。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5616,
+  "word" : "強風",
+  "reading" : "きょうふう",
+  "romaji" : null,
+  "meaning" : [ "强风；大风（指风速很大的风，气象观测中通常指平均风速达到每秒15米以上的风）" ],
+  "notes" : [ "气象术语中，指最大风速约为15m/s至20m/s的风。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5617,
+  "word" : "弾",
+  "reading" : "たま",
+  "romaji" : null,
+  "meaning" : [ "子弹；炮弹；（玩具用的）弹丸；订书钉" ],
+  "notes" : [ "读作「だん」时，常用于“爆弾（ばくだん）”、“弾丸（だんがん）”、“ピアノの弾（だん）力”等复合词中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5618,
+  "word" : "弾きます",
+  "reading" : "ひきます",
+  "romaji" : null,
+  "meaning" : [ "弹（钢琴、吉他等乐器）；发射；打（算盘）" ],
+  "notes" : [ "原型为「弾く（ひく）」。通常用于演奏弦乐器或键盘乐器。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5619,
+  "word" : "弾く",
+  "reading" : "ひく",
+  "romaji" : null,
+  "meaning" : [ "弹奏（乐器等）；拉（弓）；弹（琴）；拨（弦）；打（算盘）" ],
+  "notes" : [ "通常用于弦乐器（吉他、小提琴等）或键盘乐器（钢琴）的演奏。注意区分同音异义词“引く”（拉、查等）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5620,
+  "word" : "弾む",
+  "reading" : "はずむ",
+  "romaji" : null,
+  "meaning" : [ "1. （物体）弹回，反弹；2. （声音、气息）激烈，高涨；3. （心情、气氛）起劲儿，高涨，活跃起来" ],
+  "notes" : [ "常用作自动词。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5621,
+  "word" : "弾力",
+  "reading" : "だんりょく",
+  "romaji" : null,
+  "meaning" : [ "物体受到外力作用发生形变，除去外力后能恢复原来形状的性质；弹性；比喻事物的灵活性、适应性。" ],
+  "notes" : [ "通常写作「弾力」，有时也可以写作「弹力」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5622,
+  "word" : "当たり",
+  "reading" : "あたり",
+  "romaji" : null,
+  "meaning" : [ "命中，打中；中奖，中签；成功；待人处事的态度；感觉；大约，左右（表示数量概数）；每（表示单位分配）" ],
+  "notes" : [ "作为接尾词使用时，表示“每...”或“...左右”。也可作为动词“当たる”的连用形（名词化）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5623,
+  "word" : "当たります",
+  "reading" : "あたります",
+  "romaji" : null,
+  "meaning" : [ "中（彩），抽中；击中，撞上；碰（到），接触（到）；相当于，相符；（天气）预报准；遭受（光、热等）" ],
+  "notes" : [ "是动词「当たる」的ます形。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5624,
+  "word" : "当たり前",
+  "reading" : "あたりまえ",
+  "romaji" : null,
+  "meaning" : [ "当然，理所当然；普通，正常" ],
+  "notes" : [ "表示按照常识、道理或规律理应如此，无需特别说明。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5625,
+  "word" : "当たる",
+  "reading" : "あたる",
+  "romaji" : null,
+  "meaning" : [ "1. 撞上，碰上；2. 命中，击中；3. （阳光）照射，晒；4. 相当于，等于；5. 担任，担任（职位）；6. （水果等）变质，腐烂；7. 中（签），猜中；8. 对待，接待；9. （用棍棒等）打，敲" ],
+  "notes" : [ "通常写作汉字“当たる”。表示水果变质时读作“あたる”。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5626,
+  "word" : "当て",
+  "reading" : "あて",
+  "romaji" : null,
+  "meaning" : [ "目的，目标；指望，期待；（寄送、汇款等的）目的地，收件人；条件，依靠的对象" ],
+  "notes" : [ "常以「～を当てにする」（指望……）的形式使用。作为接尾词时，表示“每”、“分量”或“大约”的意思，如「一人当て」（每人）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5627,
+  "word" : "当てはまる",
+  "reading" : "あてはまる",
+  "romaji" : null,
+  "meaning" : [ "适合；适用；相符；符合" ],
+  "notes" : [ "通常以「～に当てはまる」的形式使用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5628,
+  "word" : "当てはめる",
+  "reading" : "あてはめる",
+  "romaji" : null,
+  "meaning" : [ "1. 适用，应用（把规则、理论等用于具体事例）。2. 填入，嵌入（把某物放入空隙或框架中）。3. 分配，摊派。" ],
+  "notes" : [ "通常写作汉字「当てはめる」，也可写作「充てはめる」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5629,
+  "word" : "当てる",
+  "reading" : "あてる",
+  "romaji" : null,
+  "meaning" : [ "1. 碰，撞；2. 贴上，放上；3. 猜中，推测；4. 指派，分配；5. 给（加热、冷却等）；6. 奏效，起作用" ],
+  "notes" : [ "通常写作汉字“当てる”，根据语境也可写作“充てる”（分配）或“宛てる”（寄送、发给）。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5630,
+  "word" : "当てはまる",
+  "reading" : "あてはまる",
+  "romaji" : null,
+  "meaning" : [ "适用，适合，恰当，符合条件" ],
+  "notes" : [ "通常写作平假名。汉字形式“当て嵌まる”较为罕见。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5631,
+  "word" : "当人",
+  "reading" : "とうにん",
+  "romaji" : null,
+  "meaning" : [ "本人；当事人" ],
+  "notes" : [ "常用于法律或正式场合，指涉及其事或其物的本人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5632,
+  "word" : "当分",
+  "reading" : "とうぶん",
+  "romaji" : null,
+  "meaning" : [ "暂时，一时，目前（指一段时间内）" ],
+  "notes" : [ "通常用于表示某种状态会持续一段时间，多指未来的一段不确定的时期。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5633,
+  "word" : "当初",
+  "reading" : "とうしょ",
+  "romaji" : null,
+  "meaning" : [ "当初，最初；开始的时候" ],
+  "notes" : [ "多用于书面语，强调事情刚开始的阶段或最初的想法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5634,
+  "word" : "当店",
+  "reading" : "とうてん",
+  "romaji" : null,
+  "meaning" : [ "本店；敝店（多用于商店自称）" ],
+  "notes" : [ "多用于商店、餐厅等场所的自称，比「当店」更常用的自称有「当店」「当社」「弊社」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5635,
+  "word" : "当方",
+  "reading" : "とうほう",
+  "romaji" : null,
+  "meaning" : [ "我们，我方，这边；敝人，在下（自称）" ],
+  "notes" : [ "主要用于商务、正式场合或书信中，指代自己这一方或自谦地指代自己。比「私たち」更正式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5636,
+  "word" : "当日",
+  "reading" : "とうじつ",
+  "romaji" : null,
+  "meaning" : [ "当天，当日；事情发生的这一天" ],
+  "notes" : [ "常用于表示事情发生的具体那一天，如活动当天、旅行当天等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5637,
+  "word" : "当時",
+  "reading" : "とうじ",
+  "romaji" : null,
+  "meaning" : [ "那时，当时，那个时候" ],
+  "notes" : [ "指过去某个特定的时间点。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5638,
+  "word" : "当然",
+  "reading" : "とうぜん",
+  "romaji" : null,
+  "meaning" : [ "当然，理所应当；不言而喻" ],
+  "notes" : [ "常用作副词修饰动词或谓语，表示事情的发生是合乎逻辑、意料之中的。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5639,
+  "word" : "当社",
+  "reading" : "とうしゃ",
+  "romaji" : null,
+  "meaning" : [ "本公司，敝公司" ],
+  "notes" : [ "用于商务场合，指说话者所在的公司。对应反义词为「貴社（きしゃ）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5640,
+  "word" : "当選",
+  "reading" : "とうせん",
+  "romaji" : null,
+  "meaning" : [ "当选，中选；中（彩票、奖）" ],
+  "notes" : [ "「当選」通常指在选举中获胜，或者中彩票、抽奖等。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5641,
+  "word" : "当館",
+  "reading" : "とうかん",
+  "romaji" : null,
+  "meaning" : [ "该馆馆，本馆，敝馆（多用于图书馆、美术馆、博物馆等公共设施自称）" ],
+  "notes" : [ "多用于图书馆、美术馆、博物馆等机构指代自己，带有正式、礼貌的语感。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5642,
+  "word" : "形",
+  "reading" : "かたち",
+  "romaji" : null,
+  "meaning" : [ "形状，样子；形式，样式；姿态，态度" ],
+  "notes" : [ "也可读作「けい」，如「形（けい）式」、「人形（にんぎょう）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5643,
+  "word" : "形作る",
+  "reading" : "かたちづくる",
+  "romaji" : null,
+  "meaning" : [ "形成，构成；塑造，建立；组织" ],
+  "notes" : [ "通常写作汉字「形作る」，也可写作「かたち作る」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5644,
+  "word" : "形勢",
+  "reading" : "けいせい",
+  "romaji" : null,
+  "meaning" : [ "形势，局势；事态发展的趋势" ],
+  "notes" : [ "通常指政治、战争、体育比赛等的局势或发展态势。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5645,
+  "word" : "形容词的副词性用法",
+  "reading" : "けいようしのふくしてきようほう",
+  "romaji" : null,
+  "meaning" : [ "形容词修饰动词的用法。一类形容词（イ形容词）：将词尾的「い」变为「く」后接动词；二类形容词（ナ形容词）：在词干后加「に」接动词。" ],
+  "notes" : [ "这是形容词修饰动词时的活用规则。通过将形容词变为副词形式，用来修饰动词，表示动作进行的状态、方式等。" ],
+  "pos" : "GRAMMAR",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5646,
+  "word" : "形式",
+  "reading" : "けいしき",
+  "romaji" : null,
+  "meaning" : [ "1. 形式、样式、方式；2. 手续、程式；3. （仅）形式上、表面上的" ],
+  "notes" : [ "常以「形式ばまる」（讲究礼节、郑重其事）或「形式張る」（拘泥形式）的形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5647,
+  "word" : "形態",
+  "reading" : "けいたい",
+  "romaji" : null,
+  "meaning" : [ "形态，样子；形状；形式" ],
+  "notes" : [ "通常指事物的具体形状或抽象的形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5648,
+  "word" : "形成",
+  "reading" : "けいせい",
+  "romaji" : null,
+  "meaning" : [ "（某种性质、状态、组织等）形成，构成，组成" ],
+  "notes" : [ "常作为サ变动词使用，如「形成する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5649,
+  "word" : "形状",
+  "reading" : "けいじょう",
+  "romaji" : null,
+  "meaning" : [ "形状、样子、外形" ],
+  "notes" : [ "指物体的具体外形或几何形态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5650,
+  "word" : "彩る",
+  "reading" : "いろどる",
+  "romaji" : null,
+  "meaning" : [ "上色，着色；装饰，点缀；渲染（气氛等）" ],
+  "notes" : [ "书面语。也可以写作‘色どる’。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5651,
+  "word" : "彫る",
+  "reading" : "ほる",
+  "romaji" : null,
+  "meaning" : [ "1. 雕刻；雕；刻（在木头、石头、金属等上面刻出花纹或形状）。\n2. 文身；刺青（在皮肤上刺出花纹）。" ],
+  "notes" : [ "常用于雕刻艺术、制作印章或文身等语境。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5652,
+  "word" : "彫刻",
+  "reading" : "ちょうこく",
+  "romaji" : null,
+  "meaning" : [ "雕刻" ],
+  "notes" : [ "作为动词使用时，词尾为「する」，属于サ变动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5653,
+  "word" : "影",
+  "reading" : "かげ",
+  "romaji" : null,
+  "meaning" : [ "影子；影像；踪迹；阴暗" ],
+  "notes" : [ "除了表示物理上的“影子”外，也常用于抽象含义，如“幕后势力”、“阴暗面”或“迹象”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5654,
+  "word" : "影響",
+  "reading" : "えいきょう",
+  "romaji" : null,
+  "meaning" : [ "影响；（好的或坏的）作用；效果" ],
+  "notes" : [ "通常以「影響を与える」或「影響を受ける」的形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5655,
+  "word" : "役",
+  "reading" : "やく",
+  "romaji" : null,
+  "meaning" : [ "职务；任务；角色；（戏剧、电影中的）角色" ],
+  "notes" : [ "常用汉字。可与其他词复合构成复合词，如「役員」、「役割」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5656,
+  "word" : "役に立ちます",
+  "reading" : "やくにたちます",
+  "romaji" : null,
+  "meaning" : [ "有用，起作用，有帮助" ],
+  "notes" : [ "原型为「役に立つ（やくにたつ）」，常用语态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5657,
+  "word" : "役人",
+  "reading" : "やくにん",
+  "romaji" : null,
+  "meaning" : [ "官员；公务员；官吏" ],
+  "notes" : [ "指在政府机关工作的人，有时带有官僚主义的色彩。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5658,
+  "word" : "役割",
+  "reading" : "やくわり",
+  "romaji" : null,
+  "meaning" : [ "任务，职责；角色；作用" ],
+  "notes" : [ "常用词，表示某人或某物在特定情况下的功能、职责或扮演的角色。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5659,
+  "word" : "役員",
+  "reading" : "やくいん",
+  "romaji" : null,
+  "meaning" : [ "（公司、团体等的）高级职员，干部，董事；理事；（戏剧、电影的）演员" ],
+  "notes" : [ "通常指在公司或组织中担任重要职务的人，如董事、监事等。在演艺界指演员。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5660,
+  "word" : "役場",
+  "reading" : "やくば",
+  "romaji" : null,
+  "meaning" : [ "（市、町、村等地方自治体的）公所，办事处，政府机关" ],
+  "notes" : [ "特指日本的地方公共团体（市、町、村）的行政事务机关。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5661,
+  "word" : "役所",
+  "reading" : "やくしょ",
+  "romaji" : null,
+  "meaning" : [ "政府机关，官署，办事处（处理行政事务的公共机构）" ],
+  "notes" : [ "通常指地方政府机关，如市役所（市政府）、区役所（区政府）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5662,
+  "word" : "役目",
+  "reading" : "やくめ",
+  "romaji" : null,
+  "meaning" : [ "任务，职责，职务，作用；应尽的义务" ],
+  "notes" : [ "常用于表示社会角色、职业或某种功能。常用搭配：役目を果たす（尽职责/发挥作用）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5663,
+  "word" : "役目を果たす",
+  "reading" : "やくめをはたす",
+  "romaji" : null,
+  "meaning" : [ "发挥（作用），尽到（职责），完成（任务）" ],
+  "notes" : [ "惯用语，由名词“役目（职责、任务）”和动词“果たす（完成、实现）”组成。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5664,
+  "word" : "役立ちます",
+  "reading" : "やくだちます",
+  "romaji" : null,
+  "meaning" : [ "有用，有益，有帮助（动词“役立つ”的ます形）" ],
+  "notes" : [ "原型为“役立つ（やくだつ）”，意为有用、有帮助。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5665,
+  "word" : "役立つ",
+  "reading" : "やくだつ",
+  "romaji" : null,
+  "meaning" : [ "有用，起作用，有效" ],
+  "notes" : [ "通常以“～に役立つ”的形式出现，表示对某事有帮助。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5666,
+  "word" : "役立てる",
+  "reading" : "やくだてる",
+  "romaji" : null,
+  "meaning" : [ "使……起作用；加以利用；对……有用（意为有效地使用某物或某人的能力）" ],
+  "notes" : [ "通常以「～を役立てる」的形式出现，表示有效地利用某种资源、经验或能力。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5667,
+  "word" : "役者",
+  "reading" : "やくしゃ",
+  "romaji" : null,
+  "meaning" : [ "演员；（某方面的）能手，有才华的人；（讽刺）角色，人物" ],
+  "notes" : [ "除了指职业演员外，也常用来形容在某方面表现杰出的人（如：大役者）。有时也带有讽刺意味，指装腔作势的人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5668,
+  "word" : "役職",
+  "reading" : "やくしょく",
+  "romaji" : null,
+  "meaning" : [ "（公司、团体等的）职位，职务，官职" ],
+  "notes" : [ "通常指公司或组织中的特定职位，如部长、社长等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5669,
+  "word" : "彼",
+  "reading" : "かれ",
+  "romaji" : null,
+  "meaning" : [ "他；男朋友；情人" ],
+  "notes" : [ "作为第三人称代词时指“他”；在特定语境下也可指代男朋友或情人。" ],
+  "pos" : "PRON",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5670,
+  "word" : "彼ら",
+  "reading" : "かれら",
+  "romaji" : null,
+  "meaning" : [ "（代词）他们" ],
+  "notes" : [ "指代男性或包含男性的群体，是「彼」的复数形式。" ],
+  "pos" : "PRON",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5671,
+  "word" : "彼女",
+  "reading" : "かのじょ",
+  "romaji" : null,
+  "meaning" : [ "她；女朋友" ],
+  "notes" : [ "作为代词指代第三人称女性时，语气比“あの人”更亲近；作为名词时指女朋友。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5672,
+  "word" : "彼岸",
+  "reading" : "ひがん",
+  "romaji" : null,
+  "meaning" : [ "佛教用语。指大彻大悟的境界（涅槃），即迷途的此岸的对岸。日本俗指春分、秋分前后各加3天的共7天时间。在此期间会举行扫墓、祭拜祖先等法事。" ],
+  "notes" : [ "原为佛教用语，指修行的悟道之境。在日本主要指春分或秋分及其前后各3天，共7天的时期。此时人们会去扫墓。暑寒彼岸（暑さ寒さも彼岸まで）是常用谚语，意指过了彼岸，酷暑或严寒就会结束。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5673,
+  "word" : "彼氏",
+  "reading" : "かれし",
+  "romaji" : null,
+  "meaning" : [ "男朋友；恋人（特指男性）" ],
+  "notes" : [ "通常指女性的男朋友或恋人。也可以指“他”（第三人称男性），但在现代日语中作为“男朋友”的用法更为普遍。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5674,
+  "word" : "往復",
+  "reading" : "おうふく",
+  "romaji" : null,
+  "meaning" : [ "往返，来回；（书信、邮件等的）往来" ],
+  "notes" : [ "名词（サ变动词词干），可作「往復する」（往返）使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5675,
+  "word" : "往来",
+  "reading" : "おうらい",
+  "romaji" : null,
+  "meaning" : [ "人来人往，通行；交际，来往，往来" ],
+  "notes" : [ "作为名词表示“通行”或“交际”；作为サ变动词（往来する）表示“来往”、“交往”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5676,
+  "word" : "往診",
+  "reading" : "おうしん",
+  "romaji" : null,
+  "meaning" : [ "出诊；医生前往患者家中或诊疗所进行诊治" ],
+  "notes" : [ "通常作为サ变动词（往診する）使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5677,
+  "word" : "待ちます",
+  "reading" : "まちます",
+  "romaji" : null,
+  "meaning" : [ "等待，等候" ],
+  "notes" : [ "原形为「待つ」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5678,
+  "word" : "待ち合わせ",
+  "reading" : "まちあわせ",
+  "romaji" : null,
+  "meaning" : [ "等候，约会，碰头" ],
+  "notes" : [ "通常指预先约定好时间和地点见面。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5679,
+  "word" : "待ち合わせる",
+  "reading" : "まちあわせる",
+  "romaji" : null,
+  "meaning" : [ "约定（时间、地点）见面；碰头" ],
+  "notes" : [ "通常指预先约定好时间和地点见面。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5680,
+  "word" : "待ち明かす",
+  "reading" : "まちあかす",
+  "romaji" : null,
+  "meaning" : [ "彻夜等候；通宵等待" ],
+  "notes" : [ "由动词「待つ」（等待）与接尾词「明かす」（彻夜、过夜）组合而成，表示整夜不睡地等待。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5681,
+  "word" : "待ち望む",
+  "reading" : "まちのぞむ",
+  "romaji" : null,
+  "meaning" : [ "盼望，殷切期望，期待" ],
+  "notes" : [ "由动词「待つ」（等待）和「望む」（希望、期望）组合而成的复合动词，表示怀着强烈的心情期待某事发生。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5682,
+  "word" : "待ち遠しい",
+  "reading" : "まちどおしい",
+  "romaji" : null,
+  "meaning" : [ "急切等待的，盼望已久的，迫不及待的" ],
+  "notes" : [ "表示对未来的某事充满期待，希望时间快点过去，该事件快点到来。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5683,
+  "word" : "待つ",
+  "reading" : "まつ",
+  "romaji" : null,
+  "meaning" : [ "等，等待；期待；等待（时机）" ],
+  "notes" : [ "常用词，属于基础动词。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5684,
+  "word" : "待合室",
+  "reading" : "まちあいしつ",
+  "romaji" : null,
+  "meaning" : [ "等候室，接待室" ],
+  "notes" : [ "通常指医院、车站等公共场所供人等待的房间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5685,
+  "word" : "待望",
+  "reading" : "たいぼう",
+  "romaji" : null,
+  "meaning" : [ "期待，期望，众望" ],
+  "notes" : [ "通常作为サ变动词词干使用，如「待望する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5686,
+  "word" : "待遇",
+  "reading" : "たいぐう",
+  "romaji" : null,
+  "meaning" : [ "待遇，对待；报酬，待遇；接待，款待" ],
+  "notes" : [ "作为サ变动词使用时，词性通常标注为「名詞（サ変）」或「動詞（自他）」。此处作为名词处理，包含サ变动词用法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5687,
+  "word" : "後",
+  "reading" : "あと",
+  "romaji" : null,
+  "meaning" : [ "之后，以后；今后，将来；后面，后方；其余，剩下" ],
+  "notes" : [ "另有音读「ご（go）」，如「最後（さいご）」、「午後（ごご）」。表示时间顺序时，通常与「の」连用修饰名词，如「三年後の（さんねんごの）」；表示空间位置或顺序时读作「あと」，如「後ろ（うしろ）」与「後（あと）」的区别在于前者指物理上的后方，后者多指顺序上的后面。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5688,
+  "word" : "後で",
+  "reading" : "あとで",
+  "romaji" : null,
+  "meaning" : [ "过会儿；随后；事后" ],
+  "notes" : [ "表示动作发生的时间顺序，意为“之后”、“后来”。常接在动词た形或名词+の之后。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5689,
+  "word" : "後にする",
+  "reading" : "あとにする",
+  "romaji" : null,
+  "meaning" : [ "推迟，放到以后；暂不处理" ],
+  "notes" : [ "表示将某事暂时搁置，稍后再处理。通常用于优先处理其他事情时。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5690,
+  "word" : "後ほど",
+  "reading" : "のちほど",
+  "romaji" : null,
+  "meaning" : [ "过一会儿，随后，回头" ],
+  "notes" : [ "“後ほど”是比“あとで”更礼貌的说法，常用于商务场合或对长辈表示敬意时。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5691,
+  "word" : "後ろ",
+  "reading" : "うしろ",
+  "romaji" : null,
+  "meaning" : [ "（空间）后面，背后；后方" ],
+  "notes" : [ "表示空间位置上的后方或背后。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5692,
+  "word" : "後ろめたい",
+  "reading" : "うしろめたい",
+  "romaji" : null,
+  "meaning" : [ "内疚的，亏心的；感到不安的，难以面对的" ],
+  "notes" : [ "属于イ形容词。通常用于描述因为做了亏心事或心中有鬼而感到不安、难以面对他人的心理状态。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5693,
+  "word" : "後ろ向き",
+  "reading" : "うしろむき",
+  "romaji" : null,
+  "meaning" : [ "背对着，向后；（态度、情绪等）消极，负面，悲观" ],
+  "notes" : [ "常以「後ろ向きな（態度・考え）」的形式表示消极的态度或想法。反义词是「前向き（まえむき）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5694,
+  "word" : "後ろ盾",
+  "reading" : "うしろだて",
+  "romaji" : null,
+  "meaning" : [ "后盾，靠山；支持者；后台" ],
+  "notes" : [ "通常指在背后支持的人或势力，多用于贬义或强调背景强大的语境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5695,
+  "word" : "後ろ足",
+  "reading" : "うしろあし",
+  "romaji" : null,
+  "meaning" : [ "后腿，后肢；（比喻）逃跑时的退路，撤退的迹象" ],
+  "notes" : [ "主要用于指动物的后肢；在惯用语中常用比喻义，如“後ろ足を取る”（引以为戒/揪住不放）或“後ろ足をすくわれる”（被人抓住弱点/被人从背后攻击）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5696,
+  "word" : "後半",
+  "reading" : "こうはん",
+  "romaji" : null,
+  "meaning" : [ "后半，后半部分；后一半" ],
+  "notes" : [ "反义词是「前半（ぜんはん）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5697,
+  "word" : "後回し",
+  "reading" : "あとまわし",
+  "romaji" : null,
+  "meaning" : [ "推迟，延后；往后放" ],
+  "notes" : [ "常以「～を後回しにする」的形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5698,
+  "word" : "後始末",
+  "reading" : "あとしまつ",
+  "romaji" : null,
+  "meaning" : [ "善后，收拾残局；清理；事后处理" ],
+  "notes" : [ "通常指事情结束后的整理工作，或为他人过失收拾残局。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5699,
+  "word" : "後悔",
+  "reading" : "こうかい",
+  "romaji" : null,
+  "meaning" : [ "后悔，悔恨；因过去的错误或不作为而感到懊恼。" ],
+  "notes" : [ "作为动词使用时，通常后续「する」变成「後悔する」（动3/サ变动词）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5700,
+  "word" : "後日",
+  "reading" : "ごじつ",
+  "romaji" : null,
+  "meaning" : [ "改日，将来，日后；事后" ],
+  "notes" : [ "通常用于商务或正式场合，表示将来的某个不确定时间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

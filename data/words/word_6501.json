@@ -1,0 +1,901 @@
+[ {
+  "id" : 6501,
+  "word" : "摩擦",
+  "reading" : "まさつ",
+  "romaji" : null,
+  "meaning" : [ "摩擦；闹矛盾，有分歧；物理学中，两个物体表面间的阻碍相对运动的现象" ],
+  "notes" : [ "该词为汉字词汇，在使用时需注意前后搭配的合理性，用于描述人际关系时，常表示不和谐的状态；用于物理场景时，是专业术语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6502,
+  "word" : "撃つ",
+  "reading" : "うつ",
+  "romaji" : null,
+  "meaning" : [ "射击；发射；投，掷；抽打；击败；攻击；抨击；打动，感动" ],
+  "notes" : [ "该词为五段动词，词尾为「つ」，在进行词形变化时遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6503,
+  "word" : "撤廃",
+  "reading" : "てっぱい",
+  "romaji" : null,
+  "meaning" : [ "取消，撤销；废除，废止" ],
+  "notes" : [ "作为动词使用时，常以「撤廃する」的形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6504,
+  "word" : "撫でる",
+  "reading" : "なでる",
+  "romaji" : null,
+  "meaning" : [ "抚摸；抚慰；顺着，捋；轻轻掠过" ],
+  "notes" : [ "该词常用于表达用手轻柔地触摸、安抚物体或人。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6505,
+  "word" : "撮む/抓む/摘む",
+  "reading" : "つまむ",
+  "romaji" : null,
+  "meaning" : [ "捏；夹起；摘取；抓；揪；撮等。可用于表示用手指等捏住、夹起细小的东西，也可表示摘取花朵、果实等，还能用于抓、揪等动作。" ],
+  "notes" : [ "该词是五段动词，词尾变化遵循五段动词的规则。在不同语境中，根据动作对象和方式的不同，可灵活翻译为不同的汉语表达。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6506,
+  "word" : "撮ります",
+  "reading" : "とります",
+  "romaji" : null,
+  "meaning" : [ "拍摄，拍照；摄取；截取。常用于拍照场景，如「写真を撮ります」；也可用于摄取营养等，如「栄養を撮ります」；还可用于截取画面、片段等，如「映像の一部を撮ります」。" ],
+  "notes" : [ "「撮る」是其动词原形，「撮ります」是其礼貌体形式。在使用时，要注意搭配合适的宾语，如「写真」「栄養」「映像」等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6507,
+  "word" : "撮る",
+  "reading" : "とる",
+  "romaji" : null,
+  "meaning" : [ "拍照，摄像；抓取，拿取；摄取；剪（头发）等" ],
+  "notes" : [ "该词为五段动词，有多种常见用法，在不同语境中有不同含义。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6508,
+  "word" : "撮影",
+  "reading" : "さつえい",
+  "romaji" : null,
+  "meaning" : [ "摄影，拍摄" ],
+  "notes" : [ "常用于描述拍照、摄像等行为，在旅游、活动等场景中常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6509,
+  "word" : "撮影禁止",
+  "reading" : "さつえいきんし",
+  "romaji" : null,
+  "meaning" : [ "禁止拍照。表示某个场所或区域不允许进行摄影活动。" ],
+  "notes" : [ "该词汇常用于公共场所的标识牌等，提醒人们不要进行摄影行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6510,
+  "word" : "擁護",
+  "reading" : "ようご",
+  "romaji" : null,
+  "meaning" : [ "拥护，维护；保护，捍卫" ],
+  "notes" : [ "「擁護」作为动词时，是サ变动词，在句中常见用法是「～を擁護する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6511,
+  "word" : "擂り潰す",
+  "reading" : "つりつぶす",
+  "romaji" : null,
+  "meaning" : [ "研磨；碾碎；捣烂；彻底打败；使（希望等）破灭；挥霍" ],
+  "notes" : [ "“擂り潰す”常用来描述将物体研磨成粉末状、在竞争中彻底击败对手或让某种希望完全破灭等情况。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6512,
+  "word" : "擂る/擦る",
+  "reading" : "つる",
+  "romaji" : null,
+  "meaning" : [ "用力摩擦；研磨，研碎；涂抹（如擦药等）；擦破，磨破" ],
+  "notes" : [ "该词有两种写法，但读音和用法基本一致。在不同语境中可灵活理解其含义，如“擦る”也可用于表示“擦除”等意思，但较少见。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6513,
+  "word" : "操る",
+  "reading" : "あやつる",
+  "romaji" : null,
+  "meaning" : [ "驾驶，操作；暗中控制，操纵；掌握；弹奏（乐器）" ],
+  "notes" : [ "该词为五段动词，词尾る前的音节为つ，发音时要注意促音的发音。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6514,
+  "word" : "操作",
+  "reading" : "そうさ",
+  "romaji" : null,
+  "meaning" : [ "操作；操控；运用" ],
+  "notes" : [ "常用搭配如「機械を操作する」（操作机器）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6515,
+  "word" : "操縦",
+  "reading" : "そうじゅう",
+  "romaji" : null,
+  "meaning" : [ "驾驶（飞机、船只等交通工具）；操纵，控制（机器、系统等）；摆布，操控（他人）" ],
+  "notes" : [ "该词为名词，使用时一般需要搭配相关动词，如「する」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6516,
+  "word" : "擦り傷",
+  "reading" : "すりきず",
+  "romaji" : null,
+  "meaning" : [ "擦伤，擦破的伤口" ],
+  "notes" : [ "该词为名词，无活用变化，在描述身体因摩擦等导致皮肤损伤时使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6517,
+  "word" : "擦り切れる",
+  "reading" : "すりきれる",
+  "romaji" : null,
+  "meaning" : [ "磨损，磨破，用旧；（时间、力量等）耗尽，用完；（关系等）疏远，冷淡" ],
+  "notes" : [ "擦り切れる是自动词，表示某物自身磨损、磨破的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6518,
+  "word" : "擦り合い",
+  "reading" : "すりあい",
+  "romaji" : null,
+  "meaning" : [ "互相摩擦；互相推诿；互相争论" ],
+  "notes" : [ "该词常用来描述人与人之间在责任、意见等方面的互动情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6519,
+  "word" : "擦る",
+  "reading" : "こする",
+  "romaji" : null,
+  "meaning" : [ "擦，揉，搓；蹭；磨；刷；揩；擦破；磨损；摩擦；擦净；擦亮；涂抹；擦去；消除" ],
+  "notes" : [ "该词为五段动词，词尾为「る」，但属于五段动词的特殊变化类型。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6520,
+  "word" : "擦れる",
+  "reading" : "すれる",
+  "romaji" : null,
+  "meaning" : [ "摩擦；磨损；磨破；（因经历多而）变得世故、圆滑" ],
+  "notes" : [ "该词为自动词，使用时需注意句子中动作的主体。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6521,
+  "word" : "擦れ合う",
+  "reading" : "すれあう",
+  "romaji" : null,
+  "meaning" : [ "互相摩擦；相互接触；闹矛盾；产生摩擦" ],
+  "notes" : [ "该词常用于描述物体之间的物理摩擦，也可用于形容人与人之间关系不和谐。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6522,
+  "word" : "擦れ違う",
+  "reading" : "すれちがう",
+  "romaji" : null,
+  "meaning" : [ "交错；擦肩而过；（意见、想法等）有分歧、不一致" ],
+  "notes" : [ "该词用于描述人或物在空间上交错、错过，也可用于抽象的意见、想法等方面的不一致。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6523,
+  "word" : "攀じ登る",
+  "reading" : "よじのぼる",
+  "romaji" : null,
+  "meaning" : [ "攀登，爬上；费力地爬上去；（在事业等方面）努力向上，进取" ],
+  "notes" : [ "「攀じ登る」强调手脚并用艰难地攀爬，多用于攀登树木、陡峭的山坡等场景。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6524,
+  "word" : "攫う",
+  "reading" : "さらう",
+  "romaji" : null,
+  "meaning" : [ "掠夺，夺取；赢得，取得；抓住，揪住" ],
+  "notes" : [ "该词较为书面，常用于正式或文学语境中描述抢夺、获取等行为。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6525,
+  "word" : "支える",
+  "reading" : "ささえる",
+  "romaji" : null,
+  "meaning" : [ "撑起，支撑；支持；维持；赡养；忍受；依靠" ],
+  "notes" : [ "该词为他动词，使用时需注意宾语的搭配。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6526,
+  "word" : "支出",
+  "reading" : "ししゅつ",
+  "romaji" : null,
+  "meaning" : [ "名词，指支付、开销、花费等意思" ],
+  "notes" : [ "该词为音读词汇，在经济、财务等场景中常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6527,
+  "word" : "支店",
+  "reading" : "してん",
+  "romaji" : null,
+  "meaning" : [ "分店；分公司；分行；支店" ],
+  "notes" : [ "常用于商业、金融等领域，指总公司或总行之外的分支机构。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6528,
+  "word" : "支店長",
+  "reading" : "してんちょう",
+  "romaji" : null,
+  "meaning" : [ "分店经理，分公司经理" ],
+  "notes" : [ "该词汇常用于商业场景，指负责分店或分公司运营管理的人员。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6529,
+  "word" : "支度",
+  "reading" : "したく",
+  "romaji" : null,
+  "meaning" : [ "准备；打扮，装束；旅行用品" ],
+  "notes" : [ "「支度」作为名词使用，常见搭配如「支度をする」表示进行准备。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6530,
+  "word" : "支払い",
+  "reading" : "しはらい",
+  "romaji" : null,
+  "meaning" : [ "名词，支付，付款；缴纳；开销" ],
+  "notes" : [ "该词由动词「支払う」的连用形后接「い」构成，用于表示支付这一行为或相关费用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6531,
+  "word" : "支払う",
+  "reading" : "しはらう",
+  "romaji" : null,
+  "meaning" : [ "支付，付款；偿还；付出（代价等）" ],
+  "notes" : [ "该词为五段动词，在句子中使用时需要根据语法规则进行词形变化。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6532,
+  "word" : "支持",
+  "reading" : "しじ",
+  "romaji" : null,
+  "meaning" : [ "支持；支援；拥护" ],
+  "notes" : [ "该词为サ变动词，词干后接する构成动词形式，在句子中可作谓语等成分。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6533,
+  "word" : "支援",
+  "reading" : "しえん",
+  "romaji" : null,
+  "meaning" : [ "名词，援助，支援；给予帮助、支持以促进某事或某人达成目标。" ],
+  "notes" : [ "该词为音读词汇，“支”音读为“し”，“援”音读为“えん”。在句子中常作宾语，前面搭配表示动作的动词，如“する”“行う”等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6534,
+  "word" : "支社",
+  "reading" : "ししゃ",
+  "romaji" : null,
+  "meaning" : [ "分公司，分社" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6535,
+  "word" : "支社長",
+  "reading" : "ししゃちょう",
+  "romaji" : null,
+  "meaning" : [ "分公司经理；分社社长" ],
+  "notes" : [ "该词用于表示公司分公司的负责人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6536,
+  "word" : "支給",
+  "reading" : "しきゅう",
+  "romaji" : null,
+  "meaning" : [ "支付；发给；供给。" ],
+  "notes" : [ "该词常用于正式的场合，如工资、补贴等的发放。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6537,
+  "word" : "支配",
+  "reading" : "しはい",
+  "romaji" : null,
+  "meaning" : [ "支配；管理；统治；控制；左右" ],
+  "notes" : [ "该词为名词，在句子中常与「を」搭配使用，表示支配的对象。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6538,
+  "word" : "支障",
+  "reading" : "ししょう",
+  "romaji" : null,
+  "meaning" : [ "故障，障碍；妨碍，阻碍" ],
+  "notes" : [ "常用于描述事情进展中遇到的阻碍或问题。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6539,
+  "word" : "改まる",
+  "reading" : "あらたまる",
+  "romaji" : null,
+  "meaning" : [ "1. 郑重其事，庄重；2. 端正，改正；3. 重新开始，更新" ],
+  "notes" : [ "该词常用于描述人的态度、行为变得庄重、正式等场景。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6540,
+  "word" : "改めて",
+  "reading" : "あらためて",
+  "romaji" : null,
+  "meaning" : [ "再次；重新；郑重地；特意" ],
+  "notes" : [ "该词常用于表达重新做某事或郑重地做某事的语境中。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6541,
+  "word" : "改める",
+  "reading" : "あらためる",
+  "romaji" : null,
+  "meaning" : [ "1. 改，改变；2. 修改；3. 改正；4. 重新，再次；5. 郑重，正式" ],
+  "notes" : [ "该词是他动词，使用时需要注意其宾语的搭配。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6542,
+  "word" : "改修",
+  "reading" : "かいしゅう",
+  "romaji" : null,
+  "meaning" : [ "修缮，整修，修复；改进，改良。" ],
+  "notes" : [ "该词为サ变动词，其词干为“改修”，后续“する”构成动词形式，在使用时遵循サ变动词的活用规则。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6543,
+  "word" : "改善",
+  "reading" : "かいぜん",
+  "romaji" : null,
+  "meaning" : [ "改善；改进；改良" ],
+  "notes" : [ "「改善」是サ变动词，使用时通常以「～を改善する」的形式出现。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6544,
+  "word" : "改定",
+  "reading" : "かいてい",
+  "romaji" : null,
+  "meaning" : [ "修改，重新规定；修订，更改（通常用于规则、计划、价格等方面）" ],
+  "notes" : [ "作为サ变动词使用时，词干为“改定”，后续“する”构成动词形式，可进行相应的动词活用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6545,
+  "word" : "改悪",
+  "reading" : "かいあく",
+  "romaji" : null,
+  "meaning" : [ "越改越坏，改坏；恶化" ],
+  "notes" : [ "该词主要用于描述事物朝着更坏的方向改变。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6546,
+  "word" : "改札",
+  "reading" : "かいさつ",
+  "romaji" : null,
+  "meaning" : [ "检票；剪票；验票。指在车站等场所对乘客的车票进行检查，确认其是否符合乘车条件的行为。" ],
+  "notes" : [ "该词为名词，在使用时前面常搭配助词，如「で」「を」等，不具备动词的活用形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6547,
+  "word" : "改札口",
+  "reading" : "かいさつぐち",
+  "romaji" : null,
+  "meaning" : [ "检票口；剪票处" ],
+  "notes" : [ "该词常用于描述车站、地铁站等场所进行检票的位置。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6548,
+  "word" : "改正",
+  "reading" : "かいせい",
+  "romaji" : null,
+  "meaning" : [ "改正；修改；修正；更改。通常用于对规则、法律、计划等进行修改或完善。" ],
+  "notes" : [ "作为サ变动词使用时，词干后接「する」构成动词形式，在不同时态和语态中有相应的变形。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6549,
+  "word" : "改竄",
+  "reading" : "かいざん",
+  "romaji" : null,
+  "meaning" : [ "篡改，涂改，删改；对文件、记录、数据等进行非法的修改，以达到某种不正当的目的。" ],
+  "notes" : [ "作为名词使用时，常与「を」搭配，如「改竄を行う」；作为动词使用时，词尾要进行サ变动词的相应变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6550,
+  "word" : "改築します",
+  "reading" : "かいちくします",
+  "romaji" : null,
+  "meaning" : [ "改建；翻修" ],
+  "notes" : [ "「改築」是较为正式的说法，常用于建筑物的大规模改建。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6551,
+  "word" : "改良",
+  "reading" : "かいりょう",
+  "romaji" : null,
+  "meaning" : [ "改良；改进；改善" ],
+  "notes" : [ "该词作动词时常与「する」搭配使用，构成サ变动词形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6552,
+  "word" : "改行",
+  "reading" : "かいぎょう",
+  "romaji" : null,
+  "meaning" : [ "换行；另起一行" ],
+  "notes" : [ "该词为サ变动词，使用时常用“改行する”的形式。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6553,
+  "word" : "改装",
+  "reading" : "かいそう",
+  "romaji" : null,
+  "meaning" : [ "1. 改换包装；2. 改换装潢；3. 对建筑物、设备等进行改造装修" ],
+  "notes" : [ "该词在日语中主要作为名词使用，表达对物体外观、设施等进行改变和更新的意思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6554,
+  "word" : "改訂",
+  "reading" : "かいてい",
+  "romaji" : null,
+  "meaning" : [ "修订；修改；订正。通常用于指对文本、计划、规则等进行修改和完善，使其更加准确、合适。" ],
+  "notes" : [ "作为サ变动词时，需要和「する」搭配使用来表示动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6555,
+  "word" : "改造",
+  "reading" : "かいぞう",
+  "romaji" : null,
+  "meaning" : [ "改造，改建，改组；对事物进行改变、调整使其具有新的形态或功能" ],
+  "notes" : [ "「改造」是サ变动词，在使用时通常要接「する」构成完整的动词形式，如「改造する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6556,
+  "word" : "改革",
+  "reading" : "かいかく",
+  "romaji" : null,
+  "meaning" : [ "改革，革新；对事物进行改进和变革，使其更符合发展需求。" ],
+  "notes" : [ "该词为音读词汇，在日语中常与“を”搭配，表示对某方面进行改革的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6557,
+  "word" : "攻める",
+  "reading" : "せめる",
+  "romaji" : null,
+  "meaning" : [ "1. 进攻，攻击；2. 致力于，钻研；3. 责难，批评" ],
+  "notes" : [ "该词为他动词，使用时需注意宾语的搭配。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6558,
+  "word" : "攻撃",
+  "reading" : "こうげき",
+  "romaji" : null,
+  "meaning" : [ "攻击，进攻；抨击；（球类等）进攻战术" ],
+  "notes" : [ "该词常与「する」搭配使用，构成サ变动词，表示进行攻击等动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6559,
+  "word" : "放す",
+  "reading" : "はなす",
+  "romaji" : null,
+  "meaning" : [ "放开，放走；发射；放弃；让…离开等" ],
+  "notes" : [ "「放す」在不同语境中有不同含义，使用时需根据上下文理解。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6560,
+  "word" : "放って置く",
+  "reading" : "はなっておく",
+  "romaji" : null,
+  "meaning" : [ "放置不管；搁置；听任；放任" ],
+  "notes" : [ "该词常用于描述对事物不加以处理，任其保持现状的情况。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6561,
+  "word" : "放り出す",
+  "reading" : "ほうりだす",
+  "romaji" : null,
+  "meaning" : [ "1. 扔出去，抛出去；2. 中途放弃；3. 开除；4. 突然说出；5. 把人撵出去" ],
+  "notes" : [ "该词为五段动词，词尾变化遵循五段动词的规则。在使用时，要注意不同语境下含义的差异。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6562,
+  "word" : "放り込む",
+  "reading" : "ほうりこむ",
+  "romaji" : null,
+  "meaning" : [ "1. 扔进，投入；2. 硬塞进，硬让（某人做某事）" ],
+  "notes" : [ "该词强调用力、随意地扔或塞的动作，在表示“硬让某人做某事”时带有一定负面意味。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6563,
+  "word" : "放る",
+  "reading" : "はなる",
+  "romaji" : null,
+  "meaning" : [ "抛，扔；放弃，弃之不顾；放开，松开" ],
+  "notes" : [ "该词为五段动词，词尾变化遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6564,
+  "word" : "放任",
+  "reading" : "ほうにん",
+  "romaji" : null,
+  "meaning" : [ "放任，对事物不加约束、听其自然发展；放任不管" ],
+  "notes" : [ "该词为汉语词汇的日语借用，在日语中作为名词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6565,
+  "word" : "放射",
+  "reading" : "ほうしゃ",
+  "romaji" : null,
+  "meaning" : [ "放射，辐射；散发" ],
+  "notes" : [ "该词为名词，在句中常作宾语使用，也可作主语等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6566,
+  "word" : "放棄",
+  "reading" : "ほうき",
+  "romaji" : null,
+  "meaning" : [ "放弃；舍弃；抛弃。" ],
+  "notes" : [ "「放棄」是サ变动词，其词干是「放棄」，后续「する」构成完整动词形式，在使用时要注意其词形变化。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6567,
+  "word" : "放火",
+  "reading" : "ほうか",
+  "romaji" : null,
+  "meaning" : [ "放火，纵火" ],
+  "notes" : [ "该词为名词，在句子中常与动词搭配使用来表达放火这一行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6568,
+  "word" : "放置",
+  "reading" : "ほうち",
+  "romaji" : null,
+  "meaning" : [ "置之不理，搁置；放置，存放；弃置不顾，放任不管。" ],
+  "notes" : [ "作为サ变动词使用时，常以「～を放置する」的形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6569,
+  "word" : "放送します",
+  "reading" : "ほうそうします",
+  "romaji" : null,
+  "meaning" : [ "广播，播送；播放（节目等）" ],
+  "notes" : [ "“放送する”是三类动词，其ます形为“放送します”，用于正式或礼貌的表达中。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6570,
+  "word" : "放送局",
+  "reading" : "ほうそうきょく",
+  "romaji" : null,
+  "meaning" : [ "电视台；广播电台" ],
+  "notes" : [ "该词是一个较为常见的名词，用于描述从事广播或电视节目制作和播出的机构。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6571,
+  "word" : "政党",
+  "reading" : "せいとう",
+  "romaji" : null,
+  "meaning" : [ "政党；政治团体" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6572,
+  "word" : "政府",
+  "reading" : "せいふ0",
+  "romaji" : null,
+  "meaning" : [ "政府；国家行政机关" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6573,
+  "word" : "政権",
+  "reading" : "せいけん",
+  "romaji" : null,
+  "meaning" : [ "政权；政治体制；政府" ],
+  "notes" : [ "该词在政治相关语境中常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6574,
+  "word" : "政治",
+  "reading" : "せいじ",
+  "romaji" : null,
+  "meaning" : [ "政治；政治活动；政治事务" ],
+  "notes" : [ "该词为音读词汇，在日语中常用于描述政治相关的话题和事务。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6575,
+  "word" : "政治家",
+  "reading" : "せいじか",
+  "romaji" : null,
+  "meaning" : [ "政治家；从事政治活动的人" ],
+  "notes" : [ "该词在日语中用于指代从事政治相关工作的人员。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6576,
+  "word" : "政策",
+  "reading" : "せいさく",
+  "romaji" : null,
+  "meaning" : [ "名词，指国家、政党等为实现一定历史时期的路线而制定的行动准则。" ],
+  "notes" : [ "常用于描述国家、组织等制定的行动方针和策略。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6577,
+  "word" : "故郷",
+  "reading" : "こきょう",
+  "romaji" : null,
+  "meaning" : [ "故乡；家乡" ],
+  "notes" : [ "该词常用于表达对家乡的情感或描述与家乡相关的事物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6578,
+  "word" : "故障",
+  "reading" : "こしょう",
+  "romaji" : null,
+  "meaning" : [ "名词，指机器、设备等出现的毛病、障碍" ],
+  "notes" : [ "常用于描述机械、电气等设备出现问题的情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6579,
+  "word" : "故障します",
+  "reading" : "こしょうします",
+  "romaji" : null,
+  "meaning" : [ "出现故障，发生故障；出毛病。" ],
+  "notes" : [ "「故障」是名词，接「する」后构成三类动词，表示故障的行为动作。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6580,
+  "word" : "敏感",
+  "reading" : "びんかん",
+  "romaji" : null,
+  "meaning" : [ "敏感，灵敏；容易引起反应，感受性强" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾要变成「に」修饰动词，作定语时直接修饰名词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6581,
+  "word" : "敏捷",
+  "reading" : "びんしょう",
+  "romaji" : null,
+  "meaning" : [ "敏捷，灵活；动作迅速、反应灵敏" ],
+  "notes" : [ "该词为形容动词，词尾接法与其他形容动词相同，可修饰名词或作谓语使用。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6582,
+  "word" : "敏腕",
+  "reading" : "びんわん",
+  "romaji" : null,
+  "meaning" : [ "有能力，能干；手腕灵活，善于办事" ],
+  "notes" : [ "该词主要用于形容人在工作、处理事务等方面表现出的能力和手段。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6583,
+  "word" : "救い",
+  "reading" : "すくい",
+  "romaji" : null,
+  "meaning" : [ "援助，救援，搭救；挽救；救济；拯救" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6584,
+  "word" : "救う",
+  "reading" : "すくう",
+  "romaji" : null,
+  "meaning" : [ "救，救助；救济；挽救；拯救；搭救；解救" ],
+  "notes" : [ "该词为五段动词，其基本形词尾为「う」，在日语中用于表达对处于危险、困境中的人或事物进行救助的动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6585,
+  "word" : "救助",
+  "reading" : "きゅうじょ",
+  "romaji" : null,
+  "meaning" : [ "救助；救援" ],
+  "notes" : [ "常用于描述对处于危险或困境中的人或事物进行救援的行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6586,
+  "word" : "救急車",
+  "reading" : "きゅうきゅうしゃ",
+  "romaji" : null,
+  "meaning" : [ "急救车，救护车" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6587,
+  "word" : "救援",
+  "reading" : "きゅうえん",
+  "romaji" : null,
+  "meaning" : [ "救援，救助，支援" ],
+  "notes" : [ "该词为音读词汇，在日语中通常以名词形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6588,
+  "word" : "救済",
+  "reading" : "きゅうさい",
+  "romaji" : null,
+  "meaning" : [ "救济；救助；挽救。" ],
+  "notes" : [ "常用于描述对处于困境中的人或事物提供帮助和支持的行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6589,
+  "word" : "敗れる",
+  "reading" : "やぶれる",
+  "romaji" : null,
+  "meaning" : [ "失败；败北；输；屈服，认输；被打败；（植物等）枯萎，凋谢" ],
+  "notes" : [ "该词为自动词，使用时需注意句子的语法结构和搭配。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6590,
+  "word" : "敗北",
+  "reading" : "はいほく",
+  "romaji" : null,
+  "meaning" : [ "败北，打败仗；在竞争、比赛等中失败" ],
+  "notes" : [ "「敗北」通常作为名词使用，表达失败的结果。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6591,
+  "word" : "教えます",
+  "reading" : "おしえます",
+  "romaji" : null,
+  "meaning" : [ "教；告诉；传授。如：教给知识、告诉地址等。" ],
+  "notes" : [ "一段动词的ます形去ます后加ない可变为否定形（教えない），用于表达否定的动作或状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6592,
+  "word" : "教える",
+  "reading" : "おしえる",
+  "romaji" : null,
+  "meaning" : [ "教，教导；告诉；传授；使明白" ],
+  "notes" : [ "该词是他动词，表示将知识、技能等传递给他人，或把事情告知他人。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6593,
+  "word" : "教え子",
+  "reading" : "おしえご",
+  "romaji" : null,
+  "meaning" : [ "学生，徒弟；受自己教导的人" ],
+  "notes" : [ "“教え子”通常指接受他人教导、学习知识或技能的人，可用于学校教育场景中的学生，也可用于技能传授场景中的徒弟等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6594,
+  "word" : "教え込む",
+  "reading" : "おしえこむ",
+  "romaji" : null,
+  "meaning" : [ "灌输；谆谆教诲；反复教导；使牢记" ],
+  "notes" : [ "该词强调反复教导直至对方理解或记住。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6595,
+  "word" : "教わる",
+  "reading" : "おそわる",
+  "romaji" : null,
+  "meaning" : [ "受教，向……学习；学到，得到（知识、经验等）" ],
+  "notes" : [ "该动词为五段动词，词尾是「る」，但属于特殊的五段动词变化。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6596,
+  "word" : "教会",
+  "reading" : "きょうかい",
+  "romaji" : null,
+  "meaning" : [ "教堂；教会；教派" ],
+  "notes" : [ "该词为音读词汇，由汉语词汇演变而来，在日语中主要用于宗教相关的场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6597,
+  "word" : "教員",
+  "reading" : "きょういん",
+  "romaji" : null,
+  "meaning" : [ "教员；教师；老师" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6598,
+  "word" : "教官",
+  "reading" : "きょうかん",
+  "romaji" : null,
+  "meaning" : [ "教官；教员；教练" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6599,
+  "word" : "教室",
+  "reading" : "きょうしつ",
+  "romaji" : null,
+  "meaning" : [ "教室；课堂" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6600,
+  "word" : "教師",
+  "reading" : "きょうし",
+  "romaji" : null,
+  "meaning" : [ "教师，老师" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

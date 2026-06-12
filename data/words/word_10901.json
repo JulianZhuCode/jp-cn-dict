@@ -1,0 +1,901 @@
+[ {
+  "id" : 10901,
+  "word" : "配給",
+  "reading" : "はいきゅう",
+  "romaji" : null,
+  "meaning" : [ "配给；定量供应（物资）；分配" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10902,
+  "word" : "配線",
+  "reading" : "はいせん",
+  "romaji" : null,
+  "meaning" : [ "布线；架线；接线" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10903,
+  "word" : "配置",
+  "reading" : "はいち",
+  "romaji" : null,
+  "meaning" : [ "布置；安排；配置；设置" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10904,
+  "word" : "配送",
+  "reading" : "はいそう",
+  "romaji" : null,
+  "meaning" : [ "将货物从供应地送到需求地的物流活动，包括运输、分拣、包装等环节" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10905,
+  "word" : "配達",
+  "reading" : "はいたつ",
+  "romaji" : null,
+  "meaning" : [ "（货物、邮件等的）配送，投递，送货" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10906,
+  "word" : "酒",
+  "reading" : "さけ",
+  "romaji" : null,
+  "meaning" : [ "用米、麦、葡萄等为原料，经发酵酿造而成的含乙醇的饮料。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10907,
+  "word" : "酒場",
+  "reading" : "さかば",
+  "romaji" : null,
+  "meaning" : [ "酒馆，酒吧" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10908,
+  "word" : "酒屋",
+  "reading" : "さけや",
+  "romaji" : null,
+  "meaning" : [ "卖酒的店铺；酒馆" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10909,
+  "word" : "酒造",
+  "reading" : "しゅぞう",
+  "romaji" : null,
+  "meaning" : [ "酿酒；酿酒业；酿酒公司" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10910,
+  "word" : "酒類",
+  "reading" : "しゅるい",
+  "romaji" : null,
+  "meaning" : [ "各种酒类；酒的种类" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10911,
+  "word" : "酔う",
+  "reading" : "よう/よお",
+  "romaji" : null,
+  "meaning" : [ "1. 醉，喝醉；2. 陶醉，沉醉，着迷" ],
+  "notes" : [ "「よお」是较为古老或方言的读法" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10912,
+  "word" : "酔っ払う",
+  "reading" : "よっぱらう",
+  "romaji" : null,
+  "meaning" : [ "喝得酩酊大醉，烂醉如泥" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10913,
+  "word" : "酢",
+  "reading" : "す",
+  "romaji" : null,
+  "meaning" : [ "醋；酸味，酸劲儿" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10914,
+  "word" : "酪農",
+  "reading" : "らくのう",
+  "romaji" : null,
+  "meaning" : [ "乳畜业，以生产牛奶、奶制品等为主的农业" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10915,
+  "word" : "酵素",
+  "reading" : "こうそ",
+  "romaji" : null,
+  "meaning" : [ "酶；发酵剂；酵素（生物体の中で生じる化学反応を促進するためのタンパク質。また、発酵作用を起こすもの）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10916,
+  "word" : "酸っぱい",
+  "reading" : "すっぱい",
+  "romaji" : null,
+  "meaning" : [ "酸的；（因嫉妒等而）心里不痛快的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10917,
+  "word" : "酸性",
+  "reading" : "さんせい",
+  "romaji" : null,
+  "meaning" : [ "1. 化学上指在水溶液中能电离出氢离子的性质。2. 物体具有的这种性质。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10918,
+  "word" : "酸素",
+  "reading" : "さんそ",
+  "romaji" : null,
+  "meaning" : [ "氧；氧气" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10919,
+  "word" : "醍醐味",
+  "reading" : "だいごみ",
+  "romaji" : null,
+  "meaning" : [ "1. 佛教用语，指从牛乳中提炼出的精华。2. 比喻事物的精髓、妙处；美味；妙趣，乐趣。" ],
+  "notes" : [ "源自佛教术语，后用于日常生活表达事物的美妙之处。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10920,
+  "word" : "醜い",
+  "reading" : "みにくい",
+  "romaji" : null,
+  "meaning" : [ "丑陋的；丑恶的；难看的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10921,
+  "word" : "醤油",
+  "reading" : "しょうゆ",
+  "romaji" : null,
+  "meaning" : [ "用大豆、小麦等酿造的咸的调味汁，用于烹饪、蘸食等" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10922,
+  "word" : "醸し出す",
+  "reading" : "かもし出す",
+  "romaji" : null,
+  "meaning" : [ "1. 酿造出；酿出（酒等）。2. 营造，产生，创造出（感觉、气氛等）。" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10923,
+  "word" : "釈放する",
+  "reading" : "しゃくほうする",
+  "romaji" : null,
+  "meaning" : [ "释放；放出；解放；赦免" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10924,
+  "word" : "重い",
+  "reading" : "おもい",
+  "romaji" : null,
+  "meaning" : [ "（物品）重的；（心情）沉重的；（程度）严重的；（味道等）浓的；（责任等）重大的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10925,
+  "word" : "重さ",
+  "reading" : "おもさ",
+  "romaji" : null,
+  "meaning" : [ "重量；分量" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10926,
+  "word" : "重たい",
+  "reading" : "おもたい",
+  "romaji" : null,
+  "meaning" : [ "（物品）重的；（心情、感覚等）沉重的；（责任等）重大的；（颜色、味道等）浓的" ],
+  "notes" : [ "「重い」的口语形式，多用于日常生活中" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10927,
+  "word" : "重なる",
+  "reading" : "かさなる",
+  "romaji" : null,
+  "meaning" : [ "重叠；重复；赶在一起；重合" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10928,
+  "word" : "重ねて",
+  "reading" : "かさねて",
+  "romaji" : null,
+  "meaning" : [ "重叠；重复；反复；把……摞起来；把……重叠起来；再一次；又一次" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10929,
+  "word" : "重ねる",
+  "reading" : "かさねる",
+  "romaji" : null,
+  "meaning" : [ "1. 摞，叠放；2. 使重叠；3. 反复，重复；4. 使同时发生，使重合" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10930,
+  "word" : "重ね合わせる",
+  "reading" : "かさねあわせる",
+  "romaji" : null,
+  "meaning" : [ "使重叠；使叠加；使重合；将…放在一起比较、对照" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10931,
+  "word" : "重み",
+  "reading" : "おもみ",
+  "romaji" : null,
+  "meaning" : [ "1. 重量，分量；2. 重要性，影响力；3. 比重" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10932,
+  "word" : "重んじる",
+  "reading" : "かんがんじる",
+  "romaji" : null,
+  "meaning" : [ "重视；尊重；器重；看重" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10933,
+  "word" : "重体/重態",
+  "reading" : "じゅうたい",
+  "romaji" : null,
+  "meaning" : [ "重病，病危；严重的状态" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10934,
+  "word" : "重力",
+  "reading" : "じゅうりょく",
+  "romaji" : null,
+  "meaning" : [ "地球や天体が物体に及ぼす引力。物体が重量を持つ原因となる力。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10935,
+  "word" : "重厚",
+  "reading" : "じゅうこう",
+  "romaji" : null,
+  "meaning" : [ "①（性格、态度等）沉着，稳重；②（质地、外观等）厚重，厚实" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10936,
+  "word" : "重大",
+  "reading" : "じゅうだい",
+  "romaji" : null,
+  "meaning" : [ "重大的，重要的；严重的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10937,
+  "word" : "重宝",
+  "reading" : "じゅうほう",
+  "romaji" : null,
+  "meaning" : [ "1. 珍贵的物品，宝贝；2. 便利，实用" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10938,
+  "word" : "重役",
+  "reading" : "じゅうやく",
+  "romaji" : null,
+  "meaning" : [ "公司等的高级管理人员，董事，监事；重要职务" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10939,
+  "word" : "重点",
+  "reading" : "じゅうてん",
+  "romaji" : null,
+  "meaning" : [ "重要な点。主な点。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10940,
+  "word" : "重病人",
+  "reading" : "じゅうびょうにん",
+  "romaji" : null,
+  "meaning" : [ "重症患者，重病患者，重病号" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10941,
+  "word" : "重苦しい",
+  "reading" : "おもくるしい",
+  "romaji" : null,
+  "meaning" : [ "沉闷的，郁闷的，不舒畅的；费力的，麻烦的；（颜色等）深沉的，浓重的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10942,
+  "word" : "重複",
+  "reading" : "じゅうふく",
+  "romaji" : null,
+  "meaning" : [ "同样的事物再次出现；反复，重复" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10943,
+  "word" : "重要",
+  "reading" : "じゅうよう",
+  "romaji" : null,
+  "meaning" : [ "重要，重大；紧要" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10944,
+  "word" : "重要さ",
+  "reading" : "じゅうようさ",
+  "romaji" : null,
+  "meaning" : [ "重要性，重要程度" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10945,
+  "word" : "重視",
+  "reading" : "じゅうし",
+  "romaji" : null,
+  "meaning" : [ "重视，看重" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10946,
+  "word" : "重量",
+  "reading" : "じゅうりょう",
+  "romaji" : null,
+  "meaning" : [ "物体にかかる重力の大きさ。また、その目安として用いる質量。重さ。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10947,
+  "word" : "野党",
+  "reading" : "やとう",
+  "romaji" : null,
+  "meaning" : [ "在野党，非执政党" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10948,
+  "word" : "野原",
+  "reading" : "のはら",
+  "romaji" : null,
+  "meaning" : [ "原野，野地，空旷的野外，没有建筑物、树木等的开阔地带" ],
+  "notes" : [ "也可写作「野原（のはら）」，在文学作品或口语中常用来描述自然开阔的户外场景" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10949,
+  "word" : "野外",
+  "reading" : "やがい",
+  "romaji" : null,
+  "meaning" : [ "野外，郊外；户外（指远离城市、建筑物等的自然或开阔的户外区域，如山林、原野、沙漠等地方）" ],
+  "notes" : [ "常与“キャンプ（露营）”“観察（观察）”“活動（活动）”等词汇搭配使用，用于描述在户外、郊外等自然区域进行的行为或存在的事物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10950,
+  "word" : "野外コンサート",
+  "reading" : "やがいコンサート",
+  "romaji" : null,
+  "meaning" : [ "露天音乐会" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10951,
+  "word" : "野心",
+  "reading" : "やしん",
+  "romaji" : null,
+  "meaning" : [ "（对权势、名利等的）野心，雄心，奢望" ],
+  "notes" : [ "通常“野心”在日语中多带有一定的贬义色彩，不过在一些语境下也可表示积极的“雄心”，需根据上下文判断。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10952,
+  "word" : "野放し",
+  "reading" : "のほうし",
+  "romaji" : null,
+  "meaning" : [ "1. 放养（牲畜等）；2. 放任自流，不管不问" ],
+  "notes" : [ "可作形容动词使用，也可构成「野放しにする」的动词性用法" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10953,
+  "word" : "野次",
+  "reading" : "やじ",
+  "romaji" : null,
+  "meaning" : [ "嘲笑、起哄、奚落的话语或声音；也可指对他人进行嘲笑、起哄的行为" ],
+  "notes" : [ "常见的相关短语有「野次を飛ばす」（起哄、嘲笑）、「野次を浴びる」（遭到嘲笑、起哄）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10954,
+  "word" : "野球",
+  "reading" : "やきゅう",
+  "romaji" : null,
+  "meaning" : [ "棒球（一种体育运动，在长方形场地上，运动员分为两队，用球棒击球并跑垒得分）" ],
+  "notes" : [ "可构成相关词汇如「野球選手（やきゅうせんしゅ）」（棒球选手）、「野球場（やきゅうじょう）」（棒球场）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10955,
+  "word" : "野球場",
+  "reading" : "やきゅうじょう",
+  "romaji" : null,
+  "meaning" : [ "棒球场；举行棒球比赛等活动的场地" ],
+  "notes" : [ "「野球（やきゅう）」意为棒球，「場（じょう）」表示场所，组合起来就是棒球场的意思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10956,
+  "word" : "野生",
+  "reading" : "やせい",
+  "romaji" : null,
+  "meaning" : [ "野生（指动植物在自然环境中生长、生存，未受人工培育或驯化的状态）" ],
+  "notes" : [ "可构成复合词，如「野生生物（やせいせいぶつ）」（野生生物）、「野生種（やせいしゅ）」（野生种）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10957,
+  "word" : "野菜",
+  "reading" : "やさい",
+  "romaji" : null,
+  "meaning" : [ "蔬菜，菜（一般指非肉类的可食用植物，包括根菜、叶菜、果菜等各类食用植物）" ],
+  "notes" : [ "“野菜”在日语中是常用的表示蔬菜的词汇，与“サラダ（沙拉）”“果物（くだもの，水果）”等词汇在饮食相关表达中常搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10958,
+  "word" : "野郎",
+  "reading" : "やろう",
+  "romaji" : null,
+  "meaning" : [ "（多含轻蔑、贬义）小子，家伙；男人，汉子" ],
+  "notes" : [ "该词在不同语境中感情色彩差异较大，可用于贬斥他人，也可用于男性间较为随意、略带豪放感的自称或称呼他人（此时贬义色彩较弱）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10959,
+  "word" : "量",
+  "reading" : "りょう",
+  "romaji" : null,
+  "meaning" : [ "量，数量；分量，重量；规模，程度" ],
+  "notes" : [ "还可读作「はかる」（动词，意为测量；估量，推测）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10960,
+  "word" : "量り売り",
+  "reading" : "はかりうり",
+  "romaji" : null,
+  "meaning" : [ "名词，指（商品）按重量售卖，论斤卖，秤量出售" ],
+  "notes" : [ "由「量り（はかり，称量）」和「売り（うり，售卖）」组成的复合名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10961,
+  "word" : "量る",
+  "reading" : "はかる",
+  "romaji" : null,
+  "meaning" : [ "1. 称，测量（重量、长度、容量等）；2. 估量，衡量（价值、能力、心情等）；3. 配给，分给（食物、物品等）" ],
+  "notes" : [ "“量る”的汉字也可写作“測る”，在表示“测量（长度、面积、体积等）”时两者可通用，但“量る”还可表示“称（重量）”“估量”“配给”等含义，而“測る”更侧重于用仪器等进行精确的测量（如测量温度、血压等）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10962,
+  "word" : "量産",
+  "reading" : "りょうさん",
+  "romaji" : null,
+  "meaning" : [ "批量生产，大量生产" ],
+  "notes" : [ "也可作サ変動詞使用，如「量産する」（进行批量生产）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10963,
+  "word" : "量販",
+  "reading" : "りょうはん",
+  "romaji" : null,
+  "meaning" : [ "量贩，大量销售（以较低的价格大量销售商品的销售方式）" ],
+  "notes" : [ "常与「店（みせ）」「方式（ほうしき）」等词搭配使用，构成「量販店」「量販方式」等词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10964,
+  "word" : "金",
+  "reading" : "きん、かね",
+  "romaji" : null,
+  "meaning" : [ "1. きん：金属；金钱，货币；金色；（化学元素）金（Au）；2. かね：钱，货币；金钱，钱财；费用，经费；价值，代价；（围棋、象棋等的）棋子" ],
+  "notes" : [ "「金（きん）」多在表示金属、金色、化学元素金以及较为正式的“金钱”语境中使用；「金（かね）」更口语化，常用在表示钱财、费用等日常语境中" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10965,
+  "word" : "金儲け",
+  "reading" : "かねもうけ",
+  "romaji" : null,
+  "meaning" : [ "赚钱，获利，挣钱（常带有不择手段、贪图钱财的贬义色彩）" ],
+  "notes" : [ "「金儲け」作为名词，也可后续「する」构成サ变动词「金儲けする」，表示“赚钱，敛财”的行为，此时活用类型为サ変動詞" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10966,
+  "word" : "金利",
+  "reading" : "きんり",
+  "romaji" : null,
+  "meaning" : [ "利息，利率（指借款、存款等金融交易中，按照本金的一定比例计算的收益或费用）" ],
+  "notes" : [ "在金融领域广泛使用，可用于描述银行、借贷、投资等相关场景中的利率情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10967,
+  "word" : "金属",
+  "reading" : "きんぞく",
+  "romaji" : null,
+  "meaning" : [ "金属，具有光泽、延展性、容易导电、传热等性质的物质，如金、银、铜、铁、锰、锌等。" ],
+  "notes" : [ "常见的金属相关词汇有「重金属（じゅうきんぞく）」（重金属）、「非金属（ひきんぞく）」（非金属）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10968,
+  "word" : "金庫",
+  "reading" : "きんこ",
+  "romaji" : null,
+  "meaning" : [ "保险柜，金库；（银行等的）金库，钱库；（寺院等的）藏经库，宝物库" ],
+  "notes" : [ "外来语转写词，来自葡萄牙语“guarda - roupa”（衣柜，储物柜），后语义缩小为保险柜、金库等存放贵重物品的地方" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10969,
+  "word" : "金持ち",
+  "reading" : "かねもち",
+  "romaji" : null,
+  "meaning" : [ "有钱人，富人" ],
+  "notes" : [ "由「金（かね）」（钱）和「持ち（もち）」（持有，拥有）构成，属于复合名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10970,
+  "word" : "金星",
+  "reading" : "きんぼし",
+  "romaji" : null,
+  "meaning" : [ "1. 金星（太阳系八大行星之一）；2. （剑道等中）击中对手有效部位的得分，胜利点；3. 非凡功绩，大功" ],
+  "notes" : [ "当表示“金星（行星）”时，也可读作「きんせい」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10971,
+  "word" : "金星をあげる",
+  "reading" : "きんぼしをあげる",
+  "romaji" : null,
+  "meaning" : [ "惯用语，指在比赛、考试等中取得优异成绩，获得金星（通常用于形容在某种竞争或考核中表现出色，取得类似“金星”这样的最高荣誉或优秀评价）" ],
+  "notes" : [ "“金星”在日语中常用来表示优秀、出色的成绩或表现，“あげる”在这里有“取得、获得”的意思，该惯用语多用于形容在竞争、考核等场景中取得突出成果。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10972,
+  "word" : "金曜日",
+  "reading" : "きんようび",
+  "romaji" : null,
+  "meaning" : [ "星期五" ],
+  "notes" : [ "在日语中，一周七天的表达分别为：月曜日（げつようび）、火曜日（かようび）、水曜日（すいようび）、木曜日（もくようび）、金曜日（きんようび）、土曜日（どようび）、日曜日（にちようび）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10973,
+  "word" : "金槌",
+  "reading" : "かなづち",
+  "romaji" : null,
+  "meaning" : [ "锤子，铁锤；（转）不会游泳的人（因日语中“金槌（かなづち）”与“叶锤（かなづち）”谐音，而“叶锤”又可引申为不会游泳的人，此为俗语用法）" ],
+  "notes" : [ "“金槌”作“不会游泳的人”讲时，属于日语中的俗语、比喻用法，来源于谐音及引申义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10974,
+  "word" : "金色",
+  "reading" : "きんいろ",
+  "romaji" : null,
+  "meaning" : [ "金色，金黄色" ],
+  "notes" : [ "也可写作「金色」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10975,
+  "word" : "金融",
+  "reading" : "きんゆう",
+  "romaji" : null,
+  "meaning" : [ "货币的发行、流通、回笼，贷款的发放、收回，存款的存入、提取，汇兑往来等经济活动。" ],
+  "notes" : [ "「金融」は経済活動の一つで、資金の循環や管理に関する分野を指す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10976,
+  "word" : "金銭",
+  "reading" : "きんせん",
+  "romaji" : null,
+  "meaning" : [ "金钱，钱财，款项" ],
+  "notes" : [ "也可写作「金钱」，在表示与货币、财务相关的概念时使用，例如「金銭感覚（きんせんかんかく）」（金钱观念）、「金銭的（きんせんてき）」（金钱上的，经济上的）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10977,
+  "word" : "金額",
+  "reading" : "きんがく",
+  "romaji" : null,
+  "meaning" : [ "金额，款项" ],
+  "notes" : [ "常用的经济、交易相关词汇，用于表示货币的数量额度" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10978,
+  "word" : "金魚",
+  "reading" : "きんぎょ",
+  "romaji" : null,
+  "meaning" : [ "金鱼，一种通常被饲养在鱼缸或池塘中，具有观赏价值的鱼类。" ],
+  "notes" : [ "「金魚」是日语中表示“金鱼”的常用词汇，其复数形式通常在语境中通过数量词等体现，如「金魚たち」（金鱼们）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10979,
+  "word" : "金メダル",
+  "reading" : "きんメダル",
+  "romaji" : null,
+  "meaning" : [ "金牌，在体育比赛等中获得的最高荣誉的奖牌，通常由黄金制成或镀有黄金，象征着第一名的成绩。" ],
+  "notes" : [ "「金メダル」是复合名词，由「金（きん）」（黄金、金）和「メダル」（medal，奖牌）组合而成，常用于体育赛事、竞赛等场合来表示最高奖项的奖牌。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10980,
+  "word" : "釘",
+  "reading" : "くぎ",
+  "romaji" : null,
+  "meaning" : [ "钉子；（比赛等的）定胜负的关键因素" ],
+  "notes" : [ "作为「钉子」讲时，是常见的工具类名词；作为「定胜负的关键因素」讲时，常用于比赛、竞争等场景的比喻。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10981,
+  "word" : "針",
+  "reading" : "はり",
+  "romaji" : null,
+  "meaning" : [ "1. 针（缝纫、刺绣、医疗等用的细长尖锐的工具）；2. 针状物（如松针等）；3. 指针（钟表、仪表等的指针）；4. 刺（用针等刺的动作或感觉）" ],
+  "notes" : [ "当表示“刺”的意思时，也可作为动词使用，此时读音为“さす”，活用类型为五段动词，如「針（さす）」（刺、扎）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10982,
+  "word" : "針金",
+  "reading" : "はりがね",
+  "romaji" : null,
+  "meaning" : [ "铁丝；钢丝；金属丝；弦（乐器的弦）" ],
+  "notes" : [ "常见的复合词有「針金網（はりがねあみ）」（铁丝网）、「針金製（はりがねせい）」（铁丝制的）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10983,
+  "word" : "釣られる",
+  "reading" : "つられる",
+  "romaji" : null,
+  "meaning" : [ "1. （被）引诱，（被）诱骗；2. （被）吸引，（被）打动；3. （被）影响，（受）牵连" ],
+  "notes" : [ "「釣る」的被动形或可能形（此处主要为被动含义用法，也可表示“能被引诱/吸引”，但常用义为被动义），“釣られる”强调受到外界因素的诱导、吸引而做出某种行为或产生某种状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10984,
+  "word" : "釣り",
+  "reading" : "つり",
+  "romaji" : null,
+  "meaning" : [ "钓鱼；（找的）零钱，零头" ],
+  "notes" : [ "作“零钱，零头”讲时，一般用于找零的语境中，常和「お釣り」（找零）搭配使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10985,
+  "word" : "釣り合う",
+  "reading" : "つりあう",
+  "romaji" : null,
+  "meaning" : [ "1. （物体等）保持平衡，均衡；2. （事物、数量、力量等）相称，平衡，协调" ],
+  "notes" : [ "「釣り合う」为自动词，其对应的他动词为「釣り合わせる」（つりあわせる）" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10986,
+  "word" : "釣り銭",
+  "reading" : "つりぜに",
+  "romaji" : null,
+  "meaning" : [ "找的零钱，找头，找回的钱" ],
+  "notes" : [ "通常用于购物、消费后商家返还给顾客的多余钱款，也可写作「釣銭」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10987,
+  "word" : "釣る",
+  "reading" : "つる",
+  "romaji" : null,
+  "meaning" : [ "他动词，钓，钓鱼；引诱，诱惑；（用计）骗取，诈取" ],
+  "notes" : [ "五段动词，其连用形为「つり」，如「釣りをする（钓鱼）」；过去式为「つった」，如「昨日、魚をつった。（昨天钓了鱼。）」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10988,
+  "word" : "鈍い",
+  "reading" : "にぶい",
+  "romaji" : null,
+  "meaning" : [ "1. （感觉、反应等）迟钝，迟缓；2. （光线、颜色等）暗淡，不鲜明；3. （声音、气氛等）沉闷，低沉" ],
+  "notes" : [ "其否定形式为「鈍くない」，比较级为「鈍かった」，最高级为「鈍かったです」等，需根据具体语境进行活用变形" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10989,
+  "word" : "鈍る",
+  "reading" : "にぶる",
+  "romaji" : null,
+  "meaning" : [ "1.（刃物等）变钝，不锋利；2.（感觉、反应、头脑等）变得迟钝，不灵敏；3.（势头、力量等）变弱，减退" ],
+  "notes" : [ "他动词形式为「鈍らせる」（にぶらせる）" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10990,
+  "word" : "鈍感",
+  "reading" : "どんかん",
+  "romaji" : null,
+  "meaning" : [ "感觉迟钝，反应不灵敏，对事物的变化、刺激等感知迟缓" ],
+  "notes" : [ "常与「で」「に」等助词搭配使用，如「鈍感である」「鈍感に対応する」等" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10991,
+  "word" : "鈴",
+  "reading" : "すず",
+  "romaji" : null,
+  "meaning" : [ "铃，铃铛；（形状像铃的）钟状物；（自行车等的）车铃；（风铃、门铃等的）铃" ],
+  "notes" : [ "常见的相关词汇有「鈴虫（すずむし）」（金钟儿，一种鸣虫）、「鈴木（すずき）」（铃木，姓氏）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10992,
+  "word" : "鉄",
+  "reading" : "てつ",
+  "romaji" : null,
+  "meaning" : [ "铁；铁器；钢铁工业；坚强，坚定" ],
+  "notes" : [ "也可写作「铁」，是「鉄」的简体汉字写法" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10993,
+  "word" : "鉄道",
+  "reading" : "てつどう",
+  "romaji" : null,
+  "meaning" : [ "铁路，铁道（指由钢轨、枕木、道床等组成的供火车等交通工具行驶的道路设施，也可指代铁路运输系统或铁路相关的事物）" ],
+  "notes" : [ "在日本，“鉄道”不仅包括普通的铁路线路，也涵盖了地铁、轻轨等城市轨道交通系统相关的概念，与“列車（れっしゃ）”（火车、列车）有所区别，“列車”侧重于行驶在“鉄道”上的交通工具本身。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10994,
+  "word" : "鉄鉱石",
+  "reading" : "てっこうせき",
+  "romaji" : null,
+  "meaning" : [ "铁矿石，指含有可提炼出铁的化合物的矿石，是钢铁生产的重要原料" ],
+  "notes" : [ "「鉄（てつ）」「鉱石（こうせき）」の合成語で、鉄を採取するための鉱石のこと" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10995,
+  "word" : "鉛",
+  "reading" : "なまり",
+  "romaji" : null,
+  "meaning" : [ "铅，一种金属元素，符号Pb，原子序数82，银灰色，质软，熔点低，耐腐蚀，可用作耐硫酸腐蚀、防放射性射线的材料，也用于制造合金、蓄电池、电缆的外皮等。" ],
+  "notes" : [ "“鉛”在日语中除了表示金属铅外，还可用于一些复合词中表示与铅相关的事物或特性，如“鉛直（えんちょく）”表示垂直。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10996,
+  "word" : "鉛筆",
+  "reading" : "えんぴつ",
+  "romaji" : null,
+  "meaning" : [ "铅笔" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10997,
+  "word" : "鉢",
+  "reading" : "はち",
+  "romaji" : null,
+  "meaning" : [ "盆，钵；花盆；（佛）钵；（计算）钵（容量单位，1钵等于1升的十分之一）" ],
+  "notes" : [ "“鉢”也可写作“钵”，在表示容量单位时，常用于传统的计量场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10998,
+  "word" : "鉱物",
+  "reading" : "こうぶつ",
+  "romaji" : null,
+  "meaning" : [ "矿物，指在地质作用下形成的具有一定化学成分和物理性质的天然单质或化合物，是构成岩石和矿石的基本单元。" ],
+  "notes" : [ "常见的矿物如「水晶（すいしょう）」「黄鉄鉱（こうてつこう）」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10999,
+  "word" : "鉱石",
+  "reading" : "こうせき",
+  "romaji" : null,
+  "meaning" : [ "矿石，含有有用矿物并有开采价值的岩石或矿物集合体。" ],
+  "notes" : [ "常见的矿石种类有金鉱石（金矿）、鉄鉱石（铁矿）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11000,
+  "word" : "銀",
+  "reading" : "ぎん",
+  "romaji" : null,
+  "meaning" : [ "1. 银（金属元素，化学符号Ag，具有良好的导电性、导热性和延展性，常用于制作货币、首饰、器皿等）；2. 银钱，银（作为货币的银，也泛指钱财）；3. 银色（像银一样的颜色，通常为白色中略带光泽的颜色）" ],
+  "notes" : [ "在日语中，“銀”除了表示上述基本含义外，还在一些专有名词、成语、惯用句中出现，例如“銀座（ぎんざ）”（银座，日本东京的著名商业区）、“金銀財宝（きんぎんざいほう）”（金银财宝）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

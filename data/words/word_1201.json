@@ -1,0 +1,901 @@
+[ {
+  "id" : 1201,
+  "word" : "もし…たら",
+  "reading" : "もし…たら",
+  "romaji" : null,
+  "meaning" : [ "如果……；假如……，是日语中表示假定条件的常见搭配，用于提出非现实的假定情况或对未发生之事的假设" ],
+  "notes" : [ "本搭配由副词「もし」和助动词「たら」构成，「もし」加强假设语气，「たら」接在动词、形容词的た形之后，名词、形容动词则接「だったら」，多用于口语，假设语气较为自然" ],
+  "pos" : "PART",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1202,
+  "word" : "もじもじ",
+  "reading" : "もじもじ",
+  "romaji" : null,
+  "meaning" : [ "扭扭捏捏，局促不安，犹豫不决（指人因害羞、紧张而举止不自然，不敢大方行动的样子）" ],
+  "notes" : [ "日语拟态词，多用来描述人因害羞、紧张、难为情而表现出的举止不自然、扭捏退缩的状态，通常可作副词、ナ形容词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1203,
+  "word" : "もたもた",
+  "reading" : "もたもた",
+  "romaji" : null,
+  "meaning" : [ "1. 动作迟缓，磨磨蹭蹭；2. 犹豫不决，踌躇不前" ],
+  "notes" : [ "也常以「もたもたする」的形式作为サ変自动词使用，多用于描述动作拖沓或态度不果断的状态" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1204,
+  "word" : "もたらす",
+  "reading" : "もたらす",
+  "romaji" : null,
+  "meaning" : [ "带来，招致，造成，引发" ],
+  "notes" : [ "这是他动词，多用来表示带来某种结果（好坏均可），通常不用于表示亲自把物品带到某地的动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1205,
+  "word" : "もたらす",
+  "reading" : "もたらす",
+  "romaji" : null,
+  "meaning" : [ "带来；招致，造成（某种不好的结果）" ],
+  "notes" : [ "他动词，多用来表示带来某种结果，可用于褒义也可用于贬义，更常用于贬义语境。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1206,
+  "word" : "もちろん",
+  "reading" : "もちろん",
+  "romaji" : null,
+  "meaning" : [ "当然，不用说，不言而喻，理所当然" ],
+  "notes" : [ "日语中常用的副词，表示对某件事的肯定认同，日常使用频率很高，相当于中文的“当然”“那还用说”" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1207,
+  "word" : "もって",
+  "reading" : "もって",
+  "romaji" : null,
+  "meaning" : [ "1. （文言・正式表达）以，用；凭借；2. 因为，由于；3. 根据，按照；4. （表示时间、数量的限度）到，至，截止；5. 「持つ」的连用形、音便形" ],
+  "notes" : [ "也可写作汉字「以て」，是现代日语中书面或正式场合常用的表达，口语中一般多用「で」に置换されることが多い。也有动词「持つ」的连用形音便的用法。" ],
+  "pos" : "AUX",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1208,
+  "word" : "もってこい",
+  "reading" : "もってこい",
+  "romaji" : null,
+  "meaning" : [ "正合适，理想，再好不过；求之不得" ],
+  "notes" : [ "元々は相撲用語で「呼び込む」ことを指し、転じて「最適なもの・望んでいたもの」を意味するようになった口語表現です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1209,
+  "word" : "もってのほか",
+  "reading" : "もってのほか",
+  "romaji" : null,
+  "meaning" : [ "荒谬，岂有此理，岂敢，格外不像话" ],
+  "notes" : [ "汉字可写作「持っての外」，多用于表达对不合情理的事物的强烈否定，也可用于谦逊表达不敢当" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1210,
+  "word" : "もっとも",
+  "reading" : "もっとも",
+  "romaji" : null,
+  "meaning" : [ "1.（ナ形容词）有道理，合理，正当，理所当然；2.（连词）话虽如此，不过，可是；3.（副词）最，最为，顶" ],
+  "notes" : [ "当作为ナ形容词（形容动词）使用时，词性为ナ形容词，需接な修饰名词；本词是日语能力考N2级别核心词汇" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1211,
+  "word" : "もつれる",
+  "reading" : "もつれる",
+  "romaji" : null,
+  "meaning" : [ "1.（丝线、毛发等）纠缠在一起，打结；2.（事情、关系等）复杂化，发生纠纷，陷入僵局；3.（身体部位等）不听使唤，不灵活" ],
+  "notes" : [ "该词为日语自動詞下一段活用，JLPT官方难度级别为N2，日常使用频率较高，多用于描述物理缠绕或事务进展不顺的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1212,
+  "word" : "もてなす",
+  "reading" : "もてなす",
+  "romaji" : null,
+  "meaning" : [ "接待，招待，款待；（也可指对顾客的）照应、招待" ],
+  "notes" : [ "该词为日本语能力考N2级别词汇，是五段活用动词，名词形为「もてなし」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1213,
+  "word" : "もともと",
+  "reading" : "もともと⓪",
+  "romaji" : null,
+  "meaning" : [ "1. 原本，本来，原来（指事物原本的状态）；2. 根本，本来（指从一开始就存在的情况）；3. 归根到底，原本（表示事情的本质）" ],
+  "notes" : [ "日语常用副词，来自「元（もと）」的重叠形式，是日语能力考初级核心词汇。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1214,
+  "word" : "ものすごい",
+  "reading" : "ものすごい",
+  "romaji" : null,
+  "meaning" : [ "可怕的，吓人的；惊人的，厉害的，非常的" ],
+  "notes" : [ "也可写作汉字「物凄い」，现代日语中多以假名形式使用，除形容词本义外，也常用作副词表示程度极高。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1215,
+  "word" : "もはや",
+  "reading" : "もはや",
+  "romaji" : null,
+  "meaning" : [ "事到如今，已经，早已；再不（就）" ],
+  "notes" : [ "多用于表达事情已经发展到无法挽回、超出常规程度的状态，语感偏书面。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1216,
+  "word" : "もむ",
+  "reading" : "もむ",
+  "romaji" : null,
+  "meaning" : [ "揉搓，搓揉；推拿，按摩；挤，拥挤；（围棋等）抢空占位" ],
+  "notes" : [ "原分类错误，属于五段动词，常见义项补充了完整释义，正确难度级别为JLPT N2" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1217,
+  "word" : "もらいます",
+  "reading" : "もらいます",
+  "romaji" : null,
+  "meaning" : [ "（别人给自己）得到，获得，领取，收到；接受（请求、建议等）" ],
+  "notes" : [ "もらいます是日语授受动词之一，用于表示自己或己方从他人处得到某物或恩惠，动作主语是得到物品/恩惠的一方，常搭配「～から～をもらう」的句式，表示从～得到～。本词是礼貌体（ます形），原形为五段动词もらう。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1218,
+  "word" : "もらう",
+  "reading" : "もらう",
+  "romaji" : null,
+  "meaning" : [ "得到，获得；收下，接受；（以「…てもらう」形式）请求/拜托别人做某事，得到别人帮忙做某事" ],
+  "notes" : [ "是日语授受动词之一，表示说话人或己方从他人处获得物品或恩惠，对应的向外给予的动词是「あげる」，表示他人为说话人做某事用「くれる」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1219,
+  "word" : "もろに",
+  "reading" : "もろに",
+  "romaji" : null,
+  "meaning" : [ "正好，迎面；直接，径直；完全，干脆" ],
+  "notes" : [ "口语中常用，多用于表示直接受到冲击、影响的状态" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1220,
+  "word" : "やあ",
+  "reading" : "やあ",
+  "romaji" : null,
+  "meaning" : [ "1. 打招呼用语，用于熟人之间，相当于\"嗨，你好\"；2. 感叹词，表达惊讶、意外等情绪，相当于\"哎呀，啊，呀\"" ],
+  "notes" : [ "「やあ」是日语中最常用的日常口语感叹词，非正式场合使用，打招呼使用时多用于男性对平辈或晚辈使用，女性也可使用" ],
+  "pos" : "INTERJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1221,
+  "word" : "やかましい",
+  "reading" : "やかましい",
+  "romaji" : null,
+  "meaning" : [ "吵闹的，嘈杂的；喧闹的；（要求、规定等）严格的，挑剔的；（手续、过程）麻烦的，繁琐的；唠叨的" ],
+  "notes" : [ "日语能力考N3级别核心词汇，除基础含义外，常用义还可形容人对规则、要求严格挑剔，也可形容人说话唠叨啰嗦。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1222,
+  "word" : "やがて",
+  "reading" : "やがて",
+  "romaji" : null,
+  "meaning" : [ "1. 不久，不久之后；2. 终于，到头来；3. 大约，差不多（指时间、数量等）" ],
+  "notes" : [ "该词为日语原生副词，原分类标注的「other」错误，正确词性为副词，常用义完整补充后如上，难度级别符合JLPT N3要求。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1223,
+  "word" : "やがて",
+  "reading" : "やがて",
+  "romaji" : null,
+  "meaning" : [ "①不久，不一会儿；马上；②大约，将近，差不多；③归根结底，终究，毕竟" ],
+  "notes" : [ "该词是日语副词，也有旧用为形容词连用形的用法，现代日语中主要作为副词使用。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1224,
+  "word" : "やけに",
+  "reading" : "やけに",
+  "romaji" : null,
+  "meaning" : [ "异常，格外，特别，非常" ],
+  "notes" : [ "口语中常用，带有对程度异常的轻微惊讶或意外语感" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1225,
+  "word" : "やたら",
+  "reading" : "やたら",
+  "romaji" : null,
+  "meaning" : [ "胡乱，随意，随便；过度，过分，非常，特别" ],
+  "notes" : [ "作为副词使用时后续可加に或と，作为ナ形容词修饰名词时后续な；原词性标注错误，实际不属于形容动词以外的普通形容词，多作副词或ナ形容词使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1226,
+  "word" : "やっかい",
+  "reading" : "ヤッカイ",
+  "romaji" : null,
+  "meaning" : [ "麻烦，棘手，难对付", "（也作「厄介」）照顾，照料，关照" ],
+  "notes" : [ "该词对应的汉字为「厄介」，是日语能力考N2级别要求掌握的词汇，作ナ形容词使用，作名词时也可表示「麻烦、累赘」的含义。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1227,
+  "word" : "やった",
+  "reading" : "やった",
+  "romaji" : null,
+  "meaning" : [ "1. 感叹词，表达成功、达成目标后喜悦的心情，可译为太好了、太棒了；2. 动词「やる」的た形过去式" ],
+  "notes" : [ "本词最常用作感叹词表达喜悦情绪，同时也是五段动词「やる」的过去完了时态" ],
+  "pos" : "INTERJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1228,
+  "word" : "やっつける",
+  "reading" : "やっつける",
+  "romaji" : null,
+  "meaning" : [ "干完，完成；草草了事处理；打败，击败；干掉，杀死；对付，应付" ],
+  "notes" : [ "口语常用词汇，由动词「やる」派生而来，在不同语境下可分别表达完成工作、击败对手、处理麻烦等含义。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1229,
+  "word" : "やってのける",
+  "reading" : "やってのける",
+  "romaji" : null,
+  "meaning" : [ "（出色地、勇敢地）完成，做成，干完" ],
+  "notes" : [ "由动词「やる」加上补助动词「のける」构成的复合动词，带有完成难度较高的事情、表现超出预期的语感" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1230,
+  "word" : "やっと",
+  "reading" : "やっと",
+  "romaji" : null,
+  "meaning" : [ "好不容易，终于；勉勉强强，好歹" ],
+  "notes" : [ "「やっと」强调经过长时间的努力或等待后最终达成结果，带有较强的感慨语气；侧重结果终于实现。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1231,
+  "word" : "やはり",
+  "reading" : "やはり",
+  "romaji" : null,
+  "meaning" : [ "果然；毕竟还是；仍然；也，同样" ],
+  "notes" : [ "也可写作汉字「矢張り」，口语中常用「やっぱり」的形式，语义与本词一致。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1232,
+  "word" : "やむをえず",
+  "reading" : "やむをえず",
+  "romaji" : null,
+  "meaning" : [ "不得已，无可奈何，不得不" ],
+  "notes" : [ "是文言动词「やむを得ず」的现代假名写法，一般作为副词使用，常用来表示因客观情况限制而不得不做某件事。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1233,
+  "word" : "やめます",
+  "reading" : "やめます",
+  "romaji" : null,
+  "meaning" : [ "停止，放弃；辞职；戒掉（习惯等）" ],
+  "notes" : [ "本词是动词「やめる」的礼貌体（ます形），原形为「やめる」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1234,
+  "word" : "やや",
+  "reading" : "やや",
+  "romaji" : null,
+  "meaning" : [ "1. 副词，略显，稍稍，稍微；2. 一会儿，稍微（指时间、程度）" ],
+  "notes" : [ "词性为副词，原分类标注错误，修正为副词；读音中的声调标记不需要单独标注在此字段，修正为标准读音；补充了「一会儿」的常用义项。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1235,
+  "word" : "やや",
+  "reading" : "やや",
+  "romaji" : null,
+  "meaning" : [ "稍微，稍稍；些许；（古）一会儿，片刻" ],
+  "notes" : [ "「やや」是副词，用于表示程度轻微，在日语能力考N3范围内，现代日语中较少使用「一会儿、片刻」这一古义用法。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1236,
+  "word" : "ややこしい",
+  "reading" : "ややこしい",
+  "romaji" : null,
+  "meaning" : [ "麻烦的；复杂的；难办的；棘手的" ],
+  "notes" : [ "关西地区也常用「ややこい」的简略形式" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1237,
+  "word" : "ややもすれば",
+  "reading" : "ややもすれば",
+  "romaji" : null,
+  "meaning" : [ "动辄，动不动就，容易，不知不觉间就" ],
+  "notes" : [ "书面用语，多用来描述不好的、负面的倾向，含义与「どちらかといえば」相近，但更强调不知不觉间就陷入某种状态" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1238,
+  "word" : "やりがい",
+  "reading" : "やりがい",
+  "romaji" : null,
+  "meaning" : [ "做的价值，值得做的意义，干事的价值" ],
+  "notes" : [ "由动词「やる」结合接尾辞「がい」构成，表示做某事获得的价值感、满足感" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1239,
+  "word" : "やりこなす",
+  "reading" : "やりこなす",
+  "romaji" : null,
+  "meaning" : [ "出色完成，妥善处理，熟练掌握（多项任务或难事）" ],
+  "notes" : [ "他动词，由「やる」复合「こなす」构成，指能够顺利处理难度较高或数量较多的事务并完成得很好。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1240,
+  "word" : "やりつける",
+  "reading" : "やりつける",
+  "romaji" : null,
+  "meaning" : [ "做惯，做熟，习以为常地做" ],
+  "notes" : [ "由动词「やる」接接尾辞「つける」构成的复合动词，表示长期重复做某件事从而习惯、熟练。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1241,
+  "word" : "やりとり",
+  "reading" : "やりとり",
+  "romaji" : null,
+  "meaning" : [ "交换；互换；互致；往来；对话；交流" ],
+  "notes" : [ "原含义中的「敬酒」不属于本词的常用义，本词不表示敬酒，多用来描述信息、意见、物品等的相互交换往来，也可指人际间的言语交流" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1242,
+  "word" : "やり方",
+  "reading" : "やりかた",
+  "romaji" : null,
+  "meaning" : [ "做法，方法，办法，办事手法" ],
+  "notes" : [ "由动词「やる」的连用形「やり」接接尾辞「方」构成，表示做某事的方式方法" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1243,
+  "word" : "やり直す",
+  "reading" : "やりなおす",
+  "romaji" : null,
+  "meaning" : [ "重做，重新做，返工；重新开始，重来" ],
+  "notes" : [ "「やり」是动词「する」的连用形「する」变「やり」复合构成，遵循五段动词（动1）活用规则" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1244,
+  "word" : "やり遂げる",
+  "reading" : "やりとげる",
+  "romaji" : null,
+  "meaning" : [ "做完，完成，做成，实现（目标、计划等）" ],
+  "notes" : [ "由动词「やる」接接尾辞「遂げる」构成复合动词，表示将事情从头到尾完成，带有坚持到底达成结果的语义。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1245,
+  "word" : "やる気",
+  "reading" : "やるき",
+  "romaji" : null,
+  "meaning" : [ "干劲，积极性，做事的热情，想要做某事的意愿" ],
+  "notes" : [ "常用搭配有「やる気がある」（有干劲）、「やる気がない」（没干劲）、「やる気を出す」（拿出干劲）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1246,
+  "word" : "やんわり",
+  "reading" : "やんわり",
+  "romaji" : null,
+  "meaning" : [ "柔软地；温和地；委婉地" ],
+  "notes" : [ "「やんわり」是副词，也可作为ナ形容词使用，多用来形容态度、语气委婉柔和，或触感柔软蓬松。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1247,
+  "word" : "ゆえに",
+  "reading" : "ゆえに",
+  "romaji" : null,
+  "meaning" : [ "故而，因此，所以，因而，用于基于前文所述理由导出结论，是比「だから」更正式的书面语表达" ],
+  "notes" : [ "由名词「故（ゆえ）」加上助词「に」转化而来的接续词，多用于书面、正式论述场景。" ],
+  "pos" : "CONJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1248,
+  "word" : "ゆがみ",
+  "reading" : "ゆがみ",
+  "romaji" : null,
+  "meaning" : [ "1.（形状的）扭曲，歪曲，歪斜，变形；2.（性格、想法等的）扭曲，偏激，不正；3.（事实、内容等的）歪曲，曲解" ],
+  "notes" : [ "ゆがみ是动词歪む（ゆがむ）的名词形" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1249,
+  "word" : "ゆさゆさ",
+  "reading" : "ゆさゆさ",
+  "romaji" : null,
+  "meaning" : [ "形容物体大幅度、慢悠悠地摇晃晃动" ],
+  "notes" : [ "多用来描述树木、大型建筑物等体积较大的物体慢悠悠大幅度晃动的状态，既可以作为副词使用，也可以接「する」构成サ変動詞使用。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1250,
+  "word" : "ゆっくり",
+  "reading" : "ゆっくり",
+  "romaji" : null,
+  "meaning" : [ "1. 缓慢地，慢慢；2. 悠闲地，慢悠悠；3. 舒适地，安适地；4. 不慌不忙，从容不迫" ],
+  "notes" : [ "ゆっくり可以作为副词使用，也可以后续「する」构成サ変活用自动词，是日语基础常用词汇，JLPT N4级别考察词汇。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1251,
+  "word" : "ゆったり",
+  "reading" : "ゆったり",
+  "romaji" : null,
+  "meaning" : [ "1.（空间、服装等）宽敞舒适，宽松舒适；2.（心情、生活等）舒畅，悠闲，悠然自得" ],
+  "notes" : [ "ゆったりは日本語の擬態語で、サ変動詞「する」と結合して「ゆったりする」という動詞的な使い方もよくされますが、基本的な品詞は副詞・ナ形容詞です。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1252,
+  "word" : "ゆとり",
+  "reading" : "yutori",
+  "romaji" : null,
+  "meaning" : [ "1. 空间、时间、金钱等的宽裕、富余、余地；2. 余裕，从容，宽松的心境" ],
+  "notes" : [ "原来的词性分类不正确，该词为日语名词；原难度级别标注偏低，实际属于JLPT N2词汇，含义补充了心境层面的从容余裕的用法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1253,
+  "word" : "ゆゆしい",
+  "reading" : "ゆゆしい",
+  "romaji" : null,
+  "meaning" : [ "严重的，重大的；不得了的，非常严重的；庄重的，严肃的" ],
+  "notes" : [ "现代日语中多用于描述事态性质严重、非同小可，原义也可表示举止态度庄重严肃" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1254,
+  "word" : "ゆらゆら",
+  "reading" : "ゆらゆら",
+  "romaji" : null,
+  "meaning" : [ "物体轻轻地、不稳定地晃动、摇曳；也可形容人或事物摇摇晃晃、不稳的状态，还可引申为心意不坚定、犹豫不决" ],
+  "notes" : [ "原本是拟态词，多作为副词使用，也可构成サ変自动词「ゆらゆらする」使用，多用于描述轻柔缓慢的晃动状态" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1255,
+  "word" : "というと",
+  "reading" : "というと",
+  "romaji" : null,
+  "meaning" : [ "承接对方的话语，用于确认对方意图，意为「这么说的话，你说的是…？你的意思是…？」" ],
+  "notes" : [ "原输入存在拼写错误，正确口语表达为「というと」，用于引出对对方话语的确认或追问，日常口语中常用。" ],
+  "pos" : "CONJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1256,
+  "word" : "よう",
+  "reading" : "よう",
+  "romaji" : null,
+  "meaning" : [ "1. 感叹词，用于打招呼、唤起注意，译为哟、哎；2. 感叹词，用于表达惊讶、确认等情绪，译为噢、哦；3. 还可作为接尾词，接在名词后表示样子、状态、方式" ],
+  "notes" : [ "该词除感叹词用法外，还有接尾词用法；原分类标注为other不准确，核心常用感叹词用法归为感叹词，难度级别调整为N5，是初级阶段就会学习的常用词" ],
+  "pos" : "INTERJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1257,
+  "word" : "ようやく",
+  "reading" : "ようやく",
+  "romaji" : null,
+  "meaning" : [ "1. 终于，好不容易（经过长时间等待或努力后终于实现）；2. 勉强，好歹，总算；3. <文>渐渐，逐渐" ],
+  "notes" : [ "常用的日语副词，在日语能力考N3范围内，语义偏向经过一定过程后才达成结果，与「ついに」语义相近但语感更强调过程的不易" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1258,
+  "word" : "よかった",
+  "reading" : "よかった",
+  "romaji" : null,
+  "meaning" : [ "是形容词「良い（よい）」的过去式，意思是太好了、不错、好的（过去时态），也可用于表达放心、满意的心情" ],
+  "notes" : [ "是口语中极为常用的表达，原形为イ形容词「良い（よい/いい）」，此处为过去肯定形活用结果" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1259,
+  "word" : "よく",
+  "reading" : "よく",
+  "romaji" : null,
+  "meaning" : [ "1. （频率）常常，经常；2. 充分地，好好地，仔细地；3. （程度）很，非常；4. （惊讶语气）竟然，居然，难得；5. （寒暄）常用于「よくいらっしゃいました」，表欢迎" ],
+  "notes" : [ "よく是形容词「良い」的连用形，也可独立作为副词使用，是日语初级阶段非常常用的副词" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1260,
+  "word" : "よくいらっしゃいました",
+  "reading" : "よくいらっしゃいました",
+  "romaji" : null,
+  "meaning" : [ "常用寒暄惯用语，用于对客人的到来表示诚挚欢迎，可译为“欢迎，热烈欢迎，欢迎光临”，比「いらっしゃいませ」更强调远道而来的谢意与欢迎之情" ],
+  "notes" : [ "本句是いらっしゃる（来る的尊敬语）的礼貌过去式表达，是日本迎接访客时常用的标准寒暄语。" ],
+  "pos" : "GREET",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1261,
+  "word" : "よし",
+  "reading" : "よし",
+  "romaji" : null,
+  "meaning" : [ "1. 表示同意、承诺、认可时，意为好、可以、行；2. 表示下定决心时，意为好、好了；3. 表示安慰、鼓励时意为好啦；4. 旧也作对男子的称呼，类似喂" ],
+  "notes" : [ "也可写作汉字「吉」，表示吉利、吉祥等含义，本条目为感叹词用法的よし，JLPT N5级别核心词汇" ],
+  "pos" : "INTERJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1262,
+  "word" : "よって",
+  "reading" : "よって",
+  "romaji" : null,
+  "meaning" : [ "1. 故而，因此，所以（用于顺承逻辑关系，引出前文所述内容导致的结果）；2. 凭借，根据（表示依据前文所述的前提、基准）；3. 由此，因此（因前文所述原因导致事物发展走向某结果）" ],
+  "notes" : [ "由动词「よる（依る・因る）」的连用形转变而来的独立接续词，日常书面和口语逻辑表达中都常用。" ],
+  "pos" : "CONJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1263,
+  "word" : "よほど",
+  "reading" : "よほど",
+  "romaji" : null,
+  "meaning" : [ "1. 很，相当，非常（程度远高于普通情况）；2. 差很多，悬殊；3. 除非，若非（后接否定表达，相当于「よほどのことがない限り」）" ],
+  "notes" : [ "也可写作「余程」，口语中也常用「よっぽど」的变体形式" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1264,
+  "word" : "よもや",
+  "reading" : "よもや",
+  "romaji" : null,
+  "meaning" : [ "1.（后多接否定、反語）万万想不到，竟然；2.（后多接否定）未必，不至于" ],
+  "notes" : [ "副词，多用于表达出乎意料的事态，常与否定、反語表达搭配使用，是较书面的词汇。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1265,
+  "word" : "より",
+  "reading" : "より",
+  "romaji" : null,
+  "meaning" : [ "1. （比较基准）比...；2. （程度）更，更加；3. （起点）从，自，由；4. （限定范围，口语）比...更，甚于；5. （古语・书面）更加，愈发" ],
+  "notes" : [ "是日语基础格助词，也可作副词使用，最基础的比较用法在N5阶段就要求掌握，作\"更，更加\"讲时是副词用法" ],
+  "pos" : "PART",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1266,
+  "word" : "よろしい",
+  "reading" : "よろしい",
+  "romaji" : null,
+  "meaning" : [ "「よい」的敬语形式，意思为：可以，行，好，合适，妥当" ],
+  "notes" : [ "是「よい」的礼貌尊敬说法，多用于正式场合或对长辈、上级的交际中" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1267,
+  "word" : "よろしくお願い申し上げます",
+  "reading" : "よろしくおねがいもうしあげます",
+  "romaji" : null,
+  "meaning" : [ "「よろしくお願いします」の最も丁寧な尊敬表現，初次见面或请求对方协助时使用的客套话，意为“非常感谢/请多多关照”" ],
+  "notes" : [ "是「よろしくお願いする」的敬语形式，比「よろしくお願いします」礼貌程度更高，多用于正式商务场合或对长辈、上级使用。" ],
+  "pos" : "GREET",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1268,
+  "word" : "りんご",
+  "reading" : "りんご",
+  "romaji" : null,
+  "meaning" : [ "苹果，蔷薇科苹果属落叶乔木的果实，可食用" ],
+  "notes" : [ "书写时也常用汉字「林檎」，现代日语日常使用中多以平假名书写" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1269,
+  "word" : "れんげ",
+  "reading" : "れんげ◎",
+  "romaji" : null,
+  "meaning" : [ "1. 汤匙，调羹（餐勺）；2. 莲华，草牡丹（植物）" ],
+  "notes" : [ "日语中「れんげ」表餐具义时，汉字也可写作「蓮華」，源于佛教中盛放食物的器具，沿用后指西餐或日式餐点用的浅口餐勺。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1270,
+  "word" : "ろく",
+  "reading" : "ろく",
+  "romaji" : null,
+  "meaning" : [ "1. （后接否定）令人满意的；正经的；像样的；像样的；正常的 2. 六，六个（「六」的训读） 3. 好，良好，合适" ],
+  "notes" : [ "该词多后续否定表达，表示“像样的、令人满意的”的否定含义；作副词使用时后续「に」再加否定表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1271,
+  "word" : "ろくに",
+  "reading" : "ろくに",
+  "romaji" : null,
+  "meaning" : [ "（后接否定表达）充分地，很好地，令人满意地，像样地" ],
+  "notes" : [ "该词必须后续否定表达，表示「充分、令人满意」的正向语义无法成立，日常使用中带有贬义或不满的语气。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1272,
+  "word" : "わいわい",
+  "reading" : "わいわい",
+  "romaji" : null,
+  "meaning" : [ "多人一起大声喧闹、欢闹的样子，形容热闹吵嚷的状态" ],
+  "notes" : [ "属于擬音語・擬態語，多用来形容多人欢聚喧闹的正面热闹场景，较少用于单纯令人不快的吵闹" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1273,
+  "word" : "わかりました",
+  "reading" : "わかりました",
+  "romaji" : null,
+  "meaning" : [ "（敬体）明白了，知道了，懂了" ],
+  "notes" : [ "是动词「わかる」的敬体过去式，用于礼貌地向对方表达自己已经理解相关信息，日常使用频率极高。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1274,
+  "word" : "わかります",
+  "reading" : "わかります",
+  "romaji" : null,
+  "meaning" : [ "了解，明白，懂得，理解；知晓，认识到" ],
+  "notes" : [ "わかります是动词わかる（分かる）的礼貌体（ます形），原形わかる为五段自动词，是日语入门基础词汇" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1275,
+  "word" : "わがまま",
+  "reading" : "わがまま",
+  "romaji" : null,
+  "meaning" : [ "任性，恣意，放肆，随心所欲" ],
+  "notes" : [ "原义写作「我侭」，是日语常用的ナ形容词，原条目将词性误标注为other，实际词性为ナ形容词（即中文语法体系中的形容动词），声调为平板型（0调），部分资料标注为3调，属于标注差异，核心为常见N3级词汇。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1276,
+  "word" : "わくわく",
+  "reading" : "わくわく",
+  "romaji" : null,
+  "meaning" : [ "因期待、喜悦而心情激动、兴奋不已的样子" ],
+  "notes" : [ "通常以「わくわくする」的形式使用，是日语常用拟态词，表达对即将到来的好事的期待感" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1277,
+  "word" : "訳",
+  "reading" : "わけ",
+  "romaji" : null,
+  "meaning" : [ "1. 缘故，理由，原因；2. 意思，含义，内容；3. 当然，难怪；4. 道理，条理；5. （表示不理解）到底，怎么会" ],
+  "notes" : [ "日语中常写作汉字「訳」，是日语核心常用名词，在口语和书面语中都广泛使用，常用句型「わけがない」表示「不可能，不会」，「わけではない」表示「并不是，并非」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1278,
+  "word" : "わさび",
+  "reading" : "わさび",
+  "romaji" : null,
+  "meaning" : [ "山葵，芥末（日语中特指日本常用的十字花科山葵属植物制成的香辛料，区别于芥菜类制成的西洋芥末/からし）" ],
+  "notes" : [ "注意区分わさび（山葵，绿芥末）和からし（黄芥末），二者原料和风味均不同。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1279,
+  "word" : "わざと",
+  "reading" : "わざと",
+  "romaji" : null,
+  "meaning" : [ "故意，特意，有意，特地" ],
+  "notes" : [ "日语常用副词，属于日语能力考N3级要求词汇，用于表示行为是行为人有意识、有目的地做出的，既可以用于带有负面意图的场合，也可用于表示特地做某事的礼貌场合。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1280,
+  "word" : "わざと",
+  "reading" : "わざと",
+  "romaji" : null,
+  "meaning" : [ "故意，有意，特意，故意地" ],
+  "notes" : [ "日语中表示有意识地去做某事，多用于贬义语境，也可中性表示特意做某事" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1281,
+  "word" : "わざとらしい",
+  "reading" : "わざとらしい",
+  "romaji" : null,
+  "meaning" : [ "故意的，做作的，不自然的，装模作样的" ],
+  "notes" : [ "由名词「わざ」接接尾辞「らしい」构成的イ形容词，表示行为表现带有明显刻意、做作的痕迹，并非自然流露。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1282,
+  "word" : "わざわざ",
+  "reading" : "わざわざ",
+  "romaji" : null,
+  "meaning" : [ "特意，特地；故意，有意" ],
+  "notes" : [ "日语中常用的副词，表示为了特定目的特意花费时间精力去做某事，也可指带有目的性地故意做某事，偏口语和书面常用表达。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1283,
+  "word" : "わずか",
+  "reading" : "わずか",
+  "romaji" : null,
+  "meaning" : [ "1. 数量、程度极少，一点点，寥寥；2. 仅仅，才（指程度低、数量少）；3. 稍微，一点点" ],
+  "notes" : [ "旧称形容动词，现代日语分类为ナ形容词，也可直接作副词使用修饰用言，属于日语能力考N3级别核心词汇。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1284,
+  "word" : "わたしたち",
+  "reading" : "わたしたち",
+  "romaji" : null,
+  "meaning" : [ "第一人称复数代词，我们，我方" ],
+  "notes" : [ "是日语第一人称单数代词「わたし（我）」的复数形式，口语中也可使用「わたくしたち」作为更礼貌的说法。" ],
+  "pos" : "PRON",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1285,
+  "word" : "アイスクリーム",
+  "reading" : "あいすくりーむ",
+  "romaji" : null,
+  "meaning" : [ "冰淇淋，冰激凌" ],
+  "notes" : [ "来源于英语单词\"ice cream\"的外来语，也可口语省略为「アイス」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1286,
+  "word" : "アイデア",
+  "reading" : "あいであ",
+  "romaji" : null,
+  "meaning" : [ "主意，想法，构思，观念" ],
+  "notes" : [ "源自英语单词\"idea\"的外来语，部分地区也写作アイディア" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1287,
+  "word" : "アイディア/アイデア",
+  "reading" : "あいでぃあ/あいであ",
+  "romaji" : null,
+  "meaning" : [ "来自英语idea，含义为想法，构思，主意，念头" ],
+  "notes" : [ "两种表记「アイディア」「アイデア」均为正确用法，现代日语中「アイデア」的使用更常见，是日语外来语，属于ザ変格活用名词，可接「する」作动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1288,
+  "word" : "アイドル",
+  "reading" : "あいどる",
+  "romaji" : null,
+  "meaning" : [ "偶像；源自英语idol，指受粉丝崇拜喜爱的演艺、娱乐领域红人" ],
+  "notes" : [ "外来语，来自英语\"idol\"，在日语中除了指娱乐偶像，也可泛指被崇拜的对象" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1289,
+  "word" : "アイロン",
+  "reading" : "あいろん",
+  "romaji" : null,
+  "meaning" : [ "熨斗，烙铁；（烫发用的）卷发棒" ],
+  "notes" : [ "源自英语「iron」，是日语外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1290,
+  "word" : "アウト",
+  "reading" : "あうと",
+  "romaji" : null,
+  "meaning" : [ "外面，外部；出局（棒球等运动）；出界（球类运动）；不合格，不及格；过时的；不符合规则，不中用" ],
+  "notes" : [ "来自英语外来词\"out\"，日常使用场景广泛，除体育用语外也常用于口语表达不符合要求、不合格等含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1291,
+  "word" : "アウトレット",
+  "reading" : "アウトレット",
+  "romaji" : null,
+  "meaning" : [ "1.  outlet，工厂直销店，品牌折扣店，奥特莱斯；2. （商品的） outlets，出厂折扣商品；3. 出口，排放口；4. （感情、精力等的）发泄途径，发泄方法" ],
+  "notes" : [ "源自英语单词\"outlet\"，在日语中最常用义指品牌折扣购物中心即奥特莱斯，是日本生活中常见外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1292,
+  "word" : "アカデミック",
+  "reading" : "あかでみっく",
+  "romaji" : null,
+  "meaning" : [ "学术的，学术性的；学院的；墨守成规的，学究式的" ],
+  "notes" : [ "该词是源自英语\"academic\"的外来语，在日语中作为ナ形容词使用。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1293,
+  "word" : "アクション",
+  "reading" : "アクション",
+  "romaji" : null,
+  "meaning" : [ "1. 行动，动作，活动；2. （影视领域）动作片，武打剧；3. （格斗、体育）动作，招式" ],
+  "notes" : [ "源自英语单词\"action\"的外来语，是日语中常用的高频外来词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1294,
+  "word" : "アクセサリー",
+  "reading" : "あくせさりー",
+  "romaji" : null,
+  "meaning" : [ "首饰、饰品；（服装、汽车等的）配件、附件；（机器等的）零件、附属品" ],
+  "notes" : [ "源自英语单词\"accessory\"，是日语外来语，也可写作アクセサリ" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1295,
+  "word" : "アクセス",
+  "reading" : "あくせす",
+  "romaji" : null,
+  "meaning" : [ "1.（计算机领域）存取数据，访问；2.（交通领域）连接，交通通道，指连接某地的公路、铁路等交通路线；3.（互联网领域）访问网站，登录；4.（大众传媒）接近、获取信息/接触的机会或权利" ],
+  "notes" : [ "该词是英语access的音译外来语，可作为名词使用，也可后续する构成サ変動詞使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1296,
+  "word" : "アクセル",
+  "reading" : "あくせる",
+  "romaji" : null,
+  "meaning" : [ "（汽车等的）油门踏板，加速器；（源自英语accelerator）也可指加速装置" ],
+  "notes" : [ "是英语「accelerator」的外来语省略形，日语中也可写作「加速装置」，对应反义词是「ブレーキ（刹车）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1297,
+  "word" : "アクセント",
+  "reading" : "アクセント",
+  "romaji" : null,
+  "meaning" : [ "1.（日语等语言的）声调，重音；2.（英语等语言的）重音，重音符号；3.口音，腔调；4.重点，着重点" ],
+  "notes" : [ "该词源自英语单词\"accent\"，是日语中常用的外来语名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1298,
+  "word" : "アタック",
+  "reading" : "あたっく",
+  "romaji" : null,
+  "meaning" : [ "1.（体育、军事等领域的）攻击，进攻；2.（比赛、运动中的）进攻，扣杀；3.（对目标、难题的）挑战，尝试；4.（生化中的）攻击，侵袭" ],
+  "notes" : [ "源自英语单词\"attack\"的外来语，可作为サ変活用动词使用，日常广泛运用于体育、学习、生活等多个场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1299,
+  "word" : "アットホーム",
+  "reading" : "あっとほーむ",
+  "romaji" : null,
+  "meaning" : [ "家庭氛围的，像在家一样自在的；舒适温馨的，无拘无束的" ],
+  "notes" : [ "来源于英语\"at home\"的外来语，多用来形容场所、氛围给人像在家一样放松舒适的感觉，也可形容待人接物亲切没有距离感。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1300,
+  "word" : "アップ",
+  "reading" : "あっぷ",
+  "romaji" : null,
+  "meaning" : [ "增高，提高，上涨；上传；（网球等）发球；向上，提升；升级" ],
+  "notes" : [ "源自英语单词\"up\"，日语中多作为外来语使用，可作名词也可接する作サ変活用动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

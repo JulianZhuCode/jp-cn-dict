@@ -1,0 +1,901 @@
+[ {
+  "id" : 9201,
+  "word" : "網戸",
+  "reading" : "もんど",
+  "romaji" : null,
+  "meaning" : [ "用铁丝、纱等做成的，安装在门窗上的防护装置，起到通风、防蚊虫等作用。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9202,
+  "word" : "綴じる",
+  "reading" : "つじる",
+  "romaji" : null,
+  "meaning" : [ "装订；缝；系；关闭；结束（会议等）" ],
+  "notes" : [ "较为常用的他动词，在日常生活和学习中会经常遇到" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9203,
+  "word" : "綻びる",
+  "reading" : "ほころびる",
+  "romaji" : null,
+  "meaning" : [ "1. （衣服、线缝等）开绽，绽开；裂开。2. （笑容等）绽放；（花朵等）开放。3. （精神状态等）松弛，松懈；（注意力等）分散。4. 稍微张开，半开半合。" ],
+  "notes" : [ "该词强调原本合着或完整的状态出现了缝隙、开口或松弛等变化。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9204,
+  "word" : "綿",
+  "reading" : "めん",
+  "romaji" : null,
+  "meaning" : [ "棉花；棉织物；像棉花一样的东西" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9205,
+  "word" : "綿密",
+  "reading" : "めんみつ",
+  "romaji" : null,
+  "meaning" : [ "形容做事等细致、周密、详尽。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9206,
+  "word" : "緊張",
+  "reading" : "きんちょう",
+  "romaji" : null,
+  "meaning" : [ "精神处于兴奋不安的状态；因有一定压力而感到不安。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9207,
+  "word" : "緊張する",
+  "reading" : "きんちょうする",
+  "romaji" : null,
+  "meaning" : [ "感到紧张；变得紧张" ],
+  "notes" : [ "表示人处于紧张的状态或因某种情况而变得紧张" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9208,
+  "word" : "緊急",
+  "reading" : "きんきゅう",
+  "romaji" : null,
+  "meaning" : [ "非常に急いで必要なこと。至急。" ],
+  "notes" : [ "形容動詞で、名詞修飾や動詞として使われる。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9209,
+  "word" : "緊迫",
+  "reading" : "きんぱく",
+  "romaji" : null,
+  "meaning" : [ "形势、状况等变得紧张、紧迫" ],
+  "notes" : [ "该词强调一种紧张、紧迫的状态，常与形势、氛围等搭配使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9210,
+  "word" : "総会",
+  "reading" : "そうかい",
+  "romaji" : null,
+  "meaning" : [ "全体成员参加的会议，大会，全会" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9211,
+  "word" : "総務",
+  "reading" : "そうむ",
+  "romaji" : null,
+  "meaning" : [ "负责机关、团体等内部事务管理、综合协调等工作的部门或职务。可译为总务。" ],
+  "notes" : [ "在公司、学校等组织中，总务部门负责诸如办公设施管理、文件整理、人员考勤等各类事务。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9212,
+  "word" : "総務省",
+  "reading" : "そうむしょう",
+  "romaji" : null,
+  "meaning" : [ "（日本政府机构）总务省，负责处理政府的各项事务，如行政组织、人事、财务、文书管理等" ],
+  "notes" : [ "日本の中央省庁の一つです。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9213,
+  "word" : "総合",
+  "reading" : "そうごう",
+  "romaji" : null,
+  "meaning" : [ "将各种事物汇集、整合在一起进行全面考虑、处理等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9214,
+  "word" : "総料理長",
+  "reading" : "そうりょうりちょう",
+  "romaji" : null,
+  "meaning" : [ "总厨师长" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9215,
+  "word" : "総理大臣",
+  "reading" : "そうりだいじん",
+  "romaji" : null,
+  "meaning" : [ "日本内阁的首长，相当于其他国家的总理或首相" ],
+  "notes" : [ "在日本政治体系中，総理大臣是政府的最高行政首长" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9216,
+  "word" : "総称",
+  "reading" : "そうしょう",
+  "romaji" : null,
+  "meaning" : [ "总称；统称。指把许多事物归纳在一起的名称。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9217,
+  "word" : "緑",
+  "reading" : "みどり",
+  "romaji" : null,
+  "meaning" : [ "绿色" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9218,
+  "word" : "緑化",
+  "reading" : "りょくか",
+  "romaji" : null,
+  "meaning" : [ "（通过植树、种草等方式）使环境变得绿色，进行绿化工作" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9219,
+  "word" : "緑茶",
+  "reading" : "りょくちゃ",
+  "romaji" : null,
+  "meaning" : [ "绿茶。以茶树的新梢为原料，经杀青、揉捻、干燥等典型工艺过程制成的茶叶。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9220,
+  "word" : "線",
+  "reading" : "せん",
+  "romaji" : null,
+  "meaning" : [ "线；线条；线路；路线；线条状物；光线；视线；方针；线索等" ],
+  "notes" : [ "该词在不同语境下有不同含义，需根据上下文理解。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9221,
+  "word" : "線路",
+  "reading" : "せんろ",
+  "romaji" : null,
+  "meaning" : [ "铁路轨道；线路；航线。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9222,
+  "word" : "締める",
+  "reading" : "しめる",
+  "romaji" : null,
+  "meaning" : [ "1. 系，绑，束紧，例如：靴を締める（系鞋带）；2. 拧紧，关上，例如：水道を締める（关上水龙头）；3. 结算，结账，例如：勘定を締める（结算账目）；4. 使紧凑，使密集，例如：部屋を締める（整理房间使紧凑）。" ],
+  "notes" : [ "该词为一段动词，其连用形为しめ，て形为しめて，た形为しめた等。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9223,
+  "word" : "締め切り",
+  "reading" : "しめきり",
+  "romaji" : null,
+  "meaning" : [ "截止日期；期限；届满。指规定的最后期限或截止时间。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9224,
+  "word" : "締め切る",
+  "reading" : "しめきる",
+  "romaji" : null,
+  "meaning" : [ "截止；期限；结束；拧紧；勒紧；扣紧；关闭；关门等。" ],
+  "notes" : [ "该词常用的意思是截止某个时间或结束某个行为等，根据具体语境有不同含义。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9225,
+  "word" : "締結",
+  "reading" : "ていけつ",
+  "romaji" : null,
+  "meaning" : [ "缔结，签订（条约、协定、合同等）；拉紧，勒紧；结束，完成" ],
+  "notes" : [ "该词常用于正式场合，如国家间签订条约、公司签订合同等。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9226,
+  "word" : "編み物",
+  "reading" : "あみもの",
+  "romaji" : null,
+  "meaning" : [ "名词，编织；编织品" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9227,
+  "word" : "編む",
+  "reading" : "あむ",
+  "romaji" : null,
+  "meaning" : [ "编织；编结；编纂；创作等。例如编毛衣、编故事等情况都可以用这个词。" ],
+  "notes" : [ "常见搭配如「編み物（あみもの）」表示编织物" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9228,
+  "word" : "編成",
+  "reading" : "へんせい",
+  "romaji" : null,
+  "meaning" : [ "把分散的事物组合、安排成一定的形式或体系；编排、编制。" ],
+  "notes" : [ "作为名词时，表示已完成的组合形式；作为他动词时，强调动作行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9229,
+  "word" : "編集",
+  "reading" : "へんしゅう",
+  "romaji" : null,
+  "meaning" : [ "对资料、文稿等进行整理、修改、编排等操作，使其更符合要求或具有更好的形式。" ],
+  "notes" : [ "该词常用于出版、媒体、文档处理等领域。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9230,
+  "word" : "編集部",
+  "reading" : "へんしゅうぶ",
+  "romaji" : null,
+  "meaning" : [ "负责编辑、整理和出版刊物、书籍、报纸等内容的部门" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9231,
+  "word" : "緩い",
+  "reading" : "ゆるい",
+  "romaji" : null,
+  "meaning" : [ "宽松的；缓慢的；不严格的；缓和的；柔软的" ],
+  "notes" : [ "「緩い」は形容詞で、様々な状態や性質を表す際に使用されます。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9232,
+  "word" : "緩む",
+  "reading" : "ゆるむ",
+  "romaji" : null,
+  "meaning" : [ "1. 松弛，松懈。如绳子、发条等失去张力而变得不紧。2. 缓和，放宽。如紧张的气氛、严格的规定等变得缓和。3. 变松，变宽。如衣服、鞋子等因穿着或使用而变大变松。4. （程度、强度等）减弱。5. （态度等）变得温和。" ],
+  "notes" : [ "作为他动词时，常见用法如「緩める」表示使……松弛、缓和等意思。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9233,
+  "word" : "緩やか",
+  "reading" : "ゆるやか",
+  "romaji" : null,
+  "meaning" : [ "缓慢的，迟缓的；缓和的，平稳的；宽松的，宽大的；舒畅的，悠闲的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9234,
+  "word" : "緩和",
+  "reading" : "かんわ",
+  "romaji" : null,
+  "meaning" : [ "（名詞）緊張や厳しさが和らぐこと。また、制限や規制が緩められること。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9235,
+  "word" : "緩行",
+  "reading" : "かんこう",
+  "romaji" : null,
+  "meaning" : [ "列车等缓慢行驶；（车辆、行人等）缓慢前行" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9236,
+  "word" : "緯度",
+  "reading" : "いど",
+  "romaji" : null,
+  "meaning" : [ "地球表面を南北方向に測る角度の単位。赤道を0度とし、極点で90度となる。" ],
+  "notes" : [ "地理学や天文学などの分野で用いられる用語。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9237,
+  "word" : "練り直す",
+  "reading" : "なぎなおす",
+  "romaji" : null,
+  "meaning" : [ "重新搅拌；重新塑造；重新思考，推敲；重新改写；重新安排等" ],
+  "notes" : [ "该词强调对已有的事物进行再次的处理以达到不同的状态或结果" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9238,
+  "word" : "練る",
+  "reading" : "ねる",
+  "romaji" : null,
+  "meaning" : [ "1. 揉，搓，捏（使柔软或混合均匀）；2. 搅拌（使成分均匀混合）；3. 推敲，琢磨（词句、计划等）；4. 锻炼（身体等）" ],
+  "notes" : [ "在表示‘锻炼’时，常与身体等搭配使用；在表示‘推敲’时，常与文章、计划等搭配使用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9239,
+  "word" : "練習",
+  "reading" : "れんしゅう",
+  "romaji" : null,
+  "meaning" : [ "① 技能や知識を身につけるために、何度も同じことを繰り返し行うこと。② あることを行うための事前の準備や訓練。" ],
+  "notes" : [ "「練習」は、名詞としても使われます。また、サ変動詞であり、「練習する」の形で動詞としても使われます。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9240,
+  "word" : "練習します",
+  "reading" : "れんしゅうします",
+  "romaji" : null,
+  "meaning" : [ "进行练习，反复做某事以提高技能或熟练程度" ],
+  "notes" : [ "该词为他动词，常见用法如「～を練習する」，表示练习某事物" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9241,
+  "word" : "練習所",
+  "reading" : "れんしゅうじょ",
+  "romaji" : null,
+  "meaning" : [ "练习场地，练习场所，训练场所。通常指为了进行某种技能、技艺、运动等的练习而专门设立的地方。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9242,
+  "word" : "練習する",
+  "reading" : "れんしゅうする",
+  "romaji" : null,
+  "meaning" : [ "进行练习" ],
+  "notes" : [ "サ变动词的词尾变化规则：连用形ます形是「します」；て形是「して」；ない形是「しない」；意志形是「しよう」等。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9243,
+  "word" : "緻密",
+  "reading" : "ちみつ",
+  "romaji" : null,
+  "meaning" : [ "形容做事精细、周到，注重细节，常用于描述计划、安排、思考等方面；也可形容物体的质地或构造精细、紧密。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9244,
+  "word" : "縁",
+  "reading" : "えん",
+  "romaji" : null,
+  "meaning" : [ "缘分；关系；边缘；周边" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9245,
+  "word" : "縁側",
+  "reading" : "えんがわ",
+  "romaji" : null,
+  "meaning" : [ "房屋连接室外的部分，通常指沿着房屋外墙搭建的有顶走廊，即外廊、檐廊。" ],
+  "notes" : [ "常见于日式建筑中，是日式住宅独特的空间设计元素之一。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9246,
+  "word" : "縁談",
+  "reading" : "えんだん",
+  "romaji" : null,
+  "meaning" : [ "亲事，婚事；提亲，说媒" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9247,
+  "word" : "縁起",
+  "reading" : "えんぎ",
+  "romaji" : null,
+  "meaning" : [ "起源，由来；兆头；缘分。（事物の始まりの原因。また、物事の進行に関係する予兆や縁分。）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9248,
+  "word" : "縄",
+  "reading" : "なわ",
+  "romaji" : null,
+  "meaning" : [ "绳子；绳索" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9249,
+  "word" : "縄張り",
+  "reading" : "なわばり",
+  "romaji" : null,
+  "meaning" : [ "领地，地盘，势力范围；（为维护自身权益等划定的）范围，界限" ],
+  "notes" : [ "用于描述人、团体等所占据或认定的特定空间或范围" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9250,
+  "word" : "縛る",
+  "reading" : "しばる",
+  "romaji" : null,
+  "meaning" : [ "束缚；捆绑；约束；限制。" ],
+  "notes" : [ "该词为他动词，常表示用绳索等捆绑或限制某人或某物的行动自由等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9251,
+  "word" : "縦",
+  "reading" : "たて",
+  "romaji" : null,
+  "meaning" : [ "竖，纵向；垂直方向；竖的东西；长度。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9252,
+  "word" : "縫う",
+  "reading" : "ぬう",
+  "romaji" : null,
+  "meaning" : [ "用针线将布等缝合起来；缝纫；刺绣；比喻紧密连接等" ],
+  "notes" : [ "该词为他动词，常见用法如縫い物をする（做针线活）等" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9253,
+  "word" : "縮まる",
+  "reading" : "ちぢまる",
+  "romaji" : null,
+  "meaning" : [ "1. 收缩，缩小。物体的尺寸、范围等变小。2. 畏缩，退缩。因害怕、紧张等而身体或态度变得拘谨。" ],
+  "notes" : [ "该词为自动词，常表示自然或自发的收缩动作，也可用于形容人的心理状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9254,
+  "word" : "縮む",
+  "reading" : "ちぢむ",
+  "romaji" : null,
+  "meaning" : [ "1. （物体、空间等）收缩，变小；（身体等）蜷缩。2. （衣物等）起皱。3. （规模、数量等）缩减，减少。" ],
+  "notes" : [ "「縮む」は自動詞で、物や空間が小さくなる、または体がこまる状態を表します。「縮める」は他動詞で、物を小さくする動作を表します。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9255,
+  "word" : "縮める",
+  "reading" : "ちぢめる",
+  "romaji" : null,
+  "meaning" : [ "1. 缩短（时间、距离等）；2. 缩小（尺寸、规模等）；3. 削减，减少（数量、程度等）；4. 收缩，使变小（身体部位等）" ],
+  "notes" : [ "该词为他动词，常表示使物体或抽象事物变小、变少等意思" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9256,
+  "word" : "縮れる",
+  "reading" : "しぼれる",
+  "romaji" : null,
+  "meaning" : [ "（衣物）起皱；（物体）收缩、缩小；（身体等）蜷缩；（毛发）卷曲" ],
+  "notes" : [ "该词强调因外力或自身特性而产生的收缩、起皱等变化" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9257,
+  "word" : "縮小",
+  "reading" : "しゅくしょう",
+  "romaji" : null,
+  "meaning" : [ "物体のサイズや数量、規模などを小さくすること。また、範囲や影響力を狭めること。" ],
+  "notes" : [ "「縮小」は、主に物体や抽象的な概念の大きさや規模を小さくする場合に使われます。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9258,
+  "word" : "縮小",
+  "reading" : "しゅくしょう",
+  "romaji" : null,
+  "meaning" : [ "缩小，缩减" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9259,
+  "word" : "繁栄",
+  "reading" : "ぼうえい",
+  "romaji" : null,
+  "meaning" : [ "繁荣，昌盛，兴旺。指事物发展得蓬勃兴盛，经济、文化等方面呈现出繁荣发展的状况。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9260,
+  "word" : "繁殖",
+  "reading" : "ふしょく",
+  "romaji" : null,
+  "meaning" : [ "生物が増えて繁殖すること。また、広がり増えること。" ],
+  "notes" : [ "「繁殖」は生物が子孫を残して数を増やすことを指します。また、抽象的には物事が広がり増えることも表します。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9261,
+  "word" : "繁殖",
+  "reading" : "ふんしょく",
+  "romaji" : null,
+  "meaning" : [ "生物が増えて新しい个体を作り出すこと。" ],
+  "notes" : [ "「繁殖」は生物が子孫を残し、数を増やすことを表す言葉です。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9262,
+  "word" : "繁盛",
+  "reading" : "ぼうじょう",
+  "romaji" : null,
+  "meaning" : [ "繁荣，昌盛，兴旺。指事物发展良好，处于繁荣兴旺的状态。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9263,
+  "word" : "繁華街",
+  "reading" : "ばんかがい",
+  "romaji" : null,
+  "meaning" : [ "繁华的街道，商业区" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9264,
+  "word" : "繊細",
+  "reading" : "せんさい",
+  "romaji" : null,
+  "meaning" : [ "纤细，细微；（性格、感情等）细腻；（感觉）敏锐" ],
+  "notes" : [ "形容事物的线条、构造等很细很微妙时用「繊細」；形容人的性格、情感等敏感、细致时也用「繊細」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9265,
+  "word" : "繊維",
+  "reading" : "せんい",
+  "romaji" : null,
+  "meaning" : [ "纤维。如天然纤维、化学纤维等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9266,
+  "word" : "繋がり",
+  "reading" : "つながり",
+  "romaji" : null,
+  "meaning" : [ "连接，相连；关联，关系" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9267,
+  "word" : "繋がる",
+  "reading" : "つながる",
+  "romaji" : null,
+  "meaning" : [ "1. 连接，相连；2. 牵连，有关联；3. （人与人之间）有联系，交往密切" ],
+  "notes" : [ "自动词，强调事物自身的连接状态或相互关联，无需宾语。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9268,
+  "word" : "繋ぐ",
+  "reading" : "つなぐ",
+  "romaji" : null,
+  "meaning" : [ "1. 系，拴，绑，如将绳子等系在物体上；2. 连接，使相连，比如连接两个地方或事物；3. 维持（生命、希望等），保持某种状态或关系" ],
+  "notes" : [ "该词为他动词，使用时需要明确动作的对象" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9269,
+  "word" : "繋げる",
+  "reading" : "つなげる",
+  "romaji" : null,
+  "meaning" : [ "1. 系，拴，绑，如将绳子等系在物体上；2. 接上，连上，使相连，比如连接管道、线路等；3. 联系，关联，把不同的事物联系起来；4. 汇总，归纳，将分散的内容整理汇总。" ],
+  "notes" : [ "「繋げる」是「繋ぐ」的连用形，表示使物体连接或关联的动作。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9270,
+  "word" : "織る",
+  "reading" : "おる",
+  "romaji" : null,
+  "meaning" : [ "用毛线、丝线等编织成布、衣物等；谋划，策划（常与「計画」等词搭配）" ],
+  "notes" : [ "作为他动词，常见用法如「織る＋物」表示编织物品" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9271,
+  "word" : "織姫",
+  "reading" : "おりひめ",
+  "romaji" : null,
+  "meaning" : [ "织女；织女星。在日本神话中，是天帝的孙女，擅长织布。" ],
+  "notes" : [ "该词来源于日本神话故事。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9272,
+  "word" : "織物",
+  "reading" : "おりもの",
+  "romaji" : null,
+  "meaning" : [ "用纱、线、丝等织成的物品，纺织品" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9273,
+  "word" : "繕う",
+  "reading" : "つくろう",
+  "romaji" : null,
+  "meaning" : [ "1. 修补，修缮，修理（破损的物品等使其恢复原状）；2. 整理，整顿，收拾；3. 装饰，修饰（使外观更美观）；4. 敷衍，掩饰（不好的情况等）" ],
+  "notes" : [ "该词在不同语境下含义有所不同，需根据上下文准确理解。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9274,
+  "word" : "繰り返します",
+  "reading" : "くりかえします",
+  "romaji" : null,
+  "meaning" : [ "反复做，重复做" ],
+  "notes" : [ "该词由动词原形‘繰り返す’（くりかえす）后续ます构成，用于表示多次进行同一动作或行为。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9275,
+  "word" : "繰り返す",
+  "reading" : "くりかえす",
+  "romaji" : null,
+  "meaning" : [ "反复做，重复进行；把…反复说（或写、读等）" ],
+  "notes" : [ "表示重复某个动作或行为，常与表示次数的词搭配使用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9276,
+  "word" : "纏まる",
+  "reading" : "まとまる",
+  "romaji" : null,
+  "meaning" : [ "1. 汇集；聚集在一起。2. 整理好；收拾整齐。3. 达成一致；统一。4. 总结；归纳。5. 谈妥；解决。" ],
+  "notes" : [ "该词强调多个事物或人聚集在一起形成一个整体，或者事物变得有条理、有秩序" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9277,
+  "word" : "纏める",
+  "reading" : "まとめる",
+  "romaji" : null,
+  "meaning" : [ "汇集；归拢；整理；总结；归纳；使一致；谈妥；解决（问题等）" ],
+  "notes" : [ "该词强调将分散的事物集中、归纳到一起，形成一个整体。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9278,
+  "word" : "缶",
+  "reading" : "かん",
+  "romaji" : null,
+  "meaning" : [ "（金属制的）罐子；罐头" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9279,
+  "word" : "缶詰",
+  "reading" : "かんづめ",
+  "romaji" : null,
+  "meaning" : [ "罐头；罐装食品" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9280,
+  "word" : "罪",
+  "reading" : "つみ",
+  "romaji" : null,
+  "meaning" : [ "犯罪；罪行；过错；罪孽" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9281,
+  "word" : "罪人",
+  "reading" : "ざいにん",
+  "romaji" : null,
+  "meaning" : [ "罪人；罪犯；犯人" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9282,
+  "word" : "置きます",
+  "reading" : "おきます",
+  "romaji" : null,
+  "meaning" : [ "放置，摆放；搁置；留出，空出；预定，安排等。" ],
+  "notes" : [ "该词是「置く」的ます型，在日语学习中是比较常用的基础动词。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9283,
+  "word" : "置き忘れる",
+  "reading" : "おきわすれる",
+  "romaji" : null,
+  "meaning" : [ "把物品放在某处而忘记拿；遗忘（事情等）" ],
+  "notes" : [ "该词强调因疏忽而忘记放置的物品或该做的事情等" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9284,
+  "word" : "置く",
+  "reading" : "おく",
+  "romaji" : null,
+  "meaning" : [ "放置，搁；布置；留下；搁置；存款；下（蛋）；摆（宴席）等。" ],
+  "notes" : [ "该词为常用动词，在日常生活中使用频率较高。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9285,
+  "word" : "罰",
+  "reading" : "ばつ",
+  "romaji" : null,
+  "meaning" : [ "惩罚，处罚；坏的结果，失败；缺点，瑕疵" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9286,
+  "word" : "罰する",
+  "reading" : "ばっする",
+  "romaji" : null,
+  "meaning" : [ "对违反规则、法律等的人进行处罚、责罚，使其承受相应的后果。" ],
+  "notes" : [ "该词较为正式，常用于书面语或正式场合描述对违规行为的惩处。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9287,
+  "word" : "罰金",
+  "reading" : "ばっきん",
+  "romaji" : null,
+  "meaning" : [ "因违反法律、规则等而被强制缴纳的金钱处罚。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9288,
+  "word" : "署名",
+  "reading" : "しょめい",
+  "romaji" : null,
+  "meaning" : [ "署名；签名。指在文件、信件、作品等上面签署自己的名字，以表示对其内容的认可、负责或归属等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9289,
+  "word" : "罵る",
+  "reading" : "ののしる",
+  "romaji" : null,
+  "meaning" : [ "用粗野或恶意的话侮辱、斥责他人" ],
+  "notes" : [ "该词为常用词汇，使用场景较为广泛，多表达负面情绪。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9290,
+  "word" : "罹る",
+  "reading" : "りる",
+  "romaji" : null,
+  "meaning" : [ "患（病）；遭受（灾难、不幸等不好的事情）" ],
+  "notes" : [ "作为他动词时，常见搭配如「災害を罹う」等；作为自动词时，表示自身患病等情况。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9291,
+  "word" : "羊",
+  "reading" : "ひつじ",
+  "romaji" : null,
+  "meaning" : [ "羊，绵羊；姓氏（羊姓）" ],
+  "notes" : [ "在日语中，“羊”一般指绵羊，山羊是“ヤギ”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9292,
+  "word" : "羊肉",
+  "reading" : "ひつじの肉",
+  "romaji" : null,
+  "meaning" : [ "羊の肉。通常、食べるために飼育された羊の肉を指す。" ],
+  "notes" : [ "「ひつじにく」は「ひつじの肉」の略語としても使われることがありますが、正確には「ひつじの肉」です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9293,
+  "word" : "美",
+  "reading" : "び",
+  "romaji" : null,
+  "meaning" : [ "美，美丽；出色；美好的事物；审美；使变美等。" ],
+  "notes" : [ "形容动词，词干为“美”，词尾为“しい”，常用来描述事物的外观、性质等方面的美好。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9294,
+  "word" : "美しい",
+  "reading" : "うつくしい",
+  "romaji" : null,
+  "meaning" : [ "美丽的，漂亮的；美好的；优美的；出色的" ],
+  "notes" : [ "「美しい」は形容詞で、名詞や動詞を修飾することができます。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9295,
+  "word" : "美しさ",
+  "reading" : "うつくしさ",
+  "romaji" : null,
+  "meaning" : [ "美丽；美好；优美；美观；漂亮；美貌；美色；艳丽；华丽；美妙；好看；俊俏；标致；佳丽；姣好；姣美；婵娟；美貌佳人；美人；丽人；佳丽；红颜；玉人；佳人；娇娃；姝丽；艳质；靓女；靓妹；美女；靓姐；娇容；花容；玉貌；姿容；容貌；仪容；风姿；丰姿；仪态；仪表；姿貌；姿容；容貌；容颜；姿仪；丰仪；仪表堂堂；相貌堂堂；堂堂仪表；堂堂相貌；堂堂丰仪；堂堂姿仪；堂堂姿貌；堂堂容貌；堂堂容颜；堂堂仪表堂堂；堂堂相貌堂堂；堂堂丰仪堂堂；堂堂姿仪堂堂；堂堂姿貌堂堂；堂堂容貌堂堂；堂堂容颜堂堂；堂堂仪表堂堂相貌堂堂；堂堂仪表堂堂丰仪堂堂；堂堂仪表堂堂姿仪堂堂；堂堂仪表堂堂姿貌堂堂；堂堂仪表堂堂容貌堂堂；堂堂仪表堂堂容颜堂堂；堂堂相貌堂堂丰仪堂堂；堂堂相貌堂堂姿仪堂堂；堂堂相貌堂堂姿貌堂堂；堂堂相貌堂堂容貌堂堂；堂堂相貌堂堂容颜堂堂；堂堂丰仪堂堂姿仪堂堂；堂堂丰仪堂堂姿貌堂堂；堂堂丰仪堂堂容貌堂堂；堂堂丰仪堂堂容颜堂堂；堂堂姿仪堂堂姿貌堂堂；堂堂姿仪堂堂容貌堂堂；堂堂姿仪堂堂容颜堂堂；堂堂姿貌堂堂容貌堂堂；堂堂姿貌堂堂容颜堂堂；堂堂容貌堂堂容颜堂堂；美好；美丽的程度" ],
+  "notes" : [ "「美しさ」は形容詞「美しい」の名詞化形式で、美しさを表す抽象的な概念を持ちます。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9296,
+  "word" : "美容",
+  "reading" : "びよう",
+  "romaji" : null,
+  "meaning" : [ "通过各种方法使容貌美丽，包括化妆、护肤、美发、整形等手段来提升外在形象。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9297,
+  "word" : "美容師",
+  "reading" : "びようし",
+  "romaji" : null,
+  "meaning" : [ "从事美容行业，为顾客提供美容服务的专业人员" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9298,
+  "word" : "美容院",
+  "reading" : "びよういん",
+  "romaji" : null,
+  "meaning" : [ "美容美发店；理发店" ],
+  "notes" : [ "在日语中，‘美容院’一般指提供剪发、烫发、染发等美发服务的店铺，也可指美容店，提供美容护肤等服务。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9299,
+  "word" : "美術",
+  "reading" : "びじゅつ",
+  "romaji" : null,
+  "meaning" : [ "绘画、雕刻、工艺、建筑等造型艺术的总称" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9300,
+  "word" : "美術品",
+  "reading" : "びじゅつひん",
+  "romaji" : null,
+  "meaning" : [ "指具有艺术价值、审美价值的物品，如绘画、雕塑、工艺品等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

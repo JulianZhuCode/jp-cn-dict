@@ -1,0 +1,901 @@
+[ {
+  "id" : 1501,
+  "word" : "クラブ",
+  "reading" : "くらぶ",
+  "romaji" : null,
+  "meaning" : [ "1. 俱乐部，社团；2. （高尔夫等运动的）球杆；3. 扑克牌中的梅花" ],
+  "notes" : [ "该词是源自英语「club」的外来语，也可在部分语境中指夜总会类的娱乐场所。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1502,
+  "word" : "クリスマス",
+  "reading" : "くりすます",
+  "romaji" : null,
+  "meaning" : [ "圣诞节，基督教纪念耶稣基督诞生的节日，日期为12月25日" ],
+  "notes" : [ "外来语，源自英语\"Christmas\"，也可译作耶诞节" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1503,
+  "word" : "クリック",
+  "reading" : "くりっく",
+  "romaji" : null,
+  "meaning" : [ "1.（计算机操作）点击鼠标；2.（摄影）按快门；3.（国际象棋）将死" ],
+  "notes" : [ "来自英语「click」的外来语，作为名词使用时表示点击的动作，作为动词时遵循サ変动词活用规则" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1504,
+  "word" : "クリップ",
+  "reading" : "くりっぷ",
+  "romaji" : null,
+  "meaning" : [ "夹子；回形针；（电影、电视等的）片段，剪辑；发夹；别针；（篮球等的）clip（防守战术）" ],
+  "notes" : [ "来源于英语单词\"clip\"，是日语外来词，除本义外还有影视剪辑片段、发夹等常用引申义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1505,
+  "word" : "クリーニング",
+  "reading" : "クリーニング",
+  "romaji" : null,
+  "meaning" : [ "1. 洗衣，干洗（衣物的洗涤保养业务）；2. 清洗，清扫；3.（台球等的）清台，一杆清完" ],
+  "notes" : [ "源自英语单词「cleaning」的外来语，日常生活常指干洗店的衣物干洗、清洗服务" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1506,
+  "word" : "クリーム",
+  "reading" : "クリーム",
+  "romaji" : null,
+  "meaning" : [ "1. 奶油，乳脂；2. 膏霜，润肤霜，乳膏；3. 冰激凌奶油层，奶油状食品" ],
+  "notes" : [ "源自英语\"cream\"，是外来语名词，在日常使用中涵盖食品、护肤品多个领域的语义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1507,
+  "word" : "クレジットカード",
+  "reading" : "くれじっとかーど",
+  "romaji" : null,
+  "meaning" : [ "信用卡，即用于透支消费、结算的银行卡支付工具" ],
+  "notes" : [ "外来语，源自英语\"credit card\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1508,
+  "word" : "クレヨン",
+  "reading" : "くれよん",
+  "romaji" : null,
+  "meaning" : [ "蜡笔，是源自法语「crayon」的外来语，指用于绘画涂色的蜡质画笔" ],
+  "notes" : [ "外来语，来自法语crayon，属于名词，无活用变化，日语能力考N5级别词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1509,
+  "word" : "クレーム",
+  "reading" : "クレーム",
+  "romaji" : null,
+  "meaning" : [ "抱怨", "不满", "投诉", "索赔", "(烹饪中为调整风味添加的)奶油", "奶油冻" ],
+  "notes" : [ "源自英语单词\"claim\"和\"cream\"，最常用义为消费者提出的投诉、不满" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1510,
+  "word" : "クローバー",
+  "reading" : "くろーばー",
+  "romaji" : null,
+  "meaning" : [ "三叶草，车轴草，苜蓿属植物" ],
+  "notes" : [ "源自英语单词\"clover\"，常作为三叶草的通用称呼，四叶三叶草被视为幸运的象征。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1511,
+  "word" : "クーポン",
+  "reading" : "くーぽん",
+  "romaji" : null,
+  "meaning" : [ "优惠券；配给券；联票，（换乘、旅游等的）通票" ],
+  "notes" : [ "来源于英语单词\"coupon\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1512,
+  "word" : "クーポン",
+  "reading" : "くーぽん",
+  "romaji" : null,
+  "meaning" : [ "优惠券；（公园、景点等的）联票，通票" ],
+  "notes" : [ "来源于英语单词coupon的外来语，日语中常用于表示商家的优惠折扣券，也可指多景点通用的联票、通票。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1513,
+  "word" : "クール",
+  "reading" : "クール",
+  "romaji" : null,
+  "meaning" : [ "凉爽的，凉快的；冷静的，沉着的；酷的，冷峻帅气的" ],
+  "notes" : [ "クール是源自英语\"cool\"的外来语，作形容动词（ナ形容词）使用，除原有含义外，现代日语中常用以形容人或事物冷峻、时髦帅气，是日常常用词汇。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1514,
+  "word" : "グラウンド",
+  "reading" : "ぐらうんど",
+  "romaji" : null,
+  "meaning" : [ "运动场，操场；场地，地面" ],
+  "notes" : [ "源自英语「ground」，也可写作外来语表记「グラウンド」，部分场合也会使用「グランド」的表记，语义相同。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1515,
+  "word" : "グラス",
+  "reading" : "ぐらす",
+  "romaji" : null,
+  "meaning" : [ "玻璃；玻璃杯，酒杯" ],
+  "notes" : [ "来自英语\"glass\"，在日语中主要指饮用器具玻璃杯，材质为玻璃的物体也可使用，注意和同来自glass的「ガラス（硝子，指玻璃材质）」的语义区分" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1516,
+  "word" : "グラフ",
+  "reading" : "ぐらふ",
+  "romaji" : null,
+  "meaning" : [ "图表；图形，曲线图" ],
+  "notes" : [ "来源于英语单词\"graph\"，是日语外来词，多用于统计、数据展示场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1517,
+  "word" : "グラム",
+  "reading" : "ぐらむ",
+  "romaji" : null,
+  "meaning" : [ "公制重量单位，克，符号为g" ],
+  "notes" : [ "源自英语外来语“gram”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1518,
+  "word" : "グリーン",
+  "reading" : "ぐりーん",
+  "romaji" : null,
+  "meaning" : [ "绿色；草地；高尔夫球穴区，果岭；绿色蔬菜；环保的，绿色的" ],
+  "notes" : [ "来自英语单词\"green\"的外来语，除基础含义外，在高尔夫领域特指球洞所在的草坪即果岭，也可指环保相关的绿色概念、绿色蔬菜。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1519,
+  "word" : "グリーン車",
+  "reading" : "ぐりーんしゃ",
+  "romaji" : null,
+  "meaning" : [ "JR（日本铁路）的头等车厢，绿色车厢，对应普通列车的一等车厢、新干线的特级车厢，是比普通车厢更宽敞舒适、票价更高的高档车厢，也译为软席车厢" ],
+  "notes" : [ "该词是JR对其线路中高级别优等车厢的专属称呼，因最初车厢外部涂为绿色得名。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1520,
+  "word" : "グルメ",
+  "reading" : "ぐるめ",
+  "romaji" : null,
+  "meaning" : [ "1. 美食家，讲究饮食的人；2. 美食，料理" ],
+  "notes" : [ "来源于法语单词\"gourmet\"，是日语外来词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1521,
+  "word" : "グループ",
+  "reading" : "グループ",
+  "romaji" : null,
+  "meaning" : [ "群，组；集团，团体；（社交、兴趣等的）圈子；（音乐的）乐队" ],
+  "notes" : [ "源自英语“group”的外来语，日语中常用作名词，表达团体、群组类概念" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1522,
+  "word" : "グループホーム",
+  "reading" : "ぐるーぷほーむ",
+  "romaji" : null,
+  "meaning" : [ "源自英文group home，指认知障碍老人、残障人士等需要照料的群体共同居住生活，由专人提供日常护理和帮助的集体照料住宅，可译为集体之家、群组家园、认知症集体护理之家" ],
+  "notes" : [ "该词是和制英语外来语，多用于社会福祉、养老护理领域" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1523,
+  "word" : "グレー",
+  "reading" : "グレー",
+  "romaji" : null,
+  "meaning" : [ "1. 灰色，鼠色；2. （立场、性质等）不明确，灰色地带，暧昧不清" ],
+  "notes" : [ "来自英语单词\"gray/grey\"，也可写作「グレイ」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1524,
+  "word" : "グレープフルーツ",
+  "reading" : "グレープフルーツ",
+  "romaji" : null,
+  "meaning" : [ "葡萄柚，西柚" ],
+  "notes" : [ "源自英语\"grapefruit\"的外来语，也可译作西柚，属于柑橘类水果。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1525,
+  "word" : "グローバル",
+  "reading" : "グローバル",
+  "romaji" : null,
+  "meaning" : [ "全球的，全世界的；全球化的；通用的" ],
+  "notes" : [ "该词是来源于英语global的外来语，作为ナ形容词使用" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1526,
+  "word" : "ケーキ",
+  "reading" : "ケーキ",
+  "romaji" : null,
+  "meaning" : [ "蛋糕，西式糕点" ],
+  "notes" : [ "来自英语借词\"cake\"，是外来语名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1527,
+  "word" : "ケース",
+  "reading" : "けーす",
+  "romaji" : null,
+  "meaning" : [ "1. 容器，盒子，箱子，套子，壳；2. 事例，案例，实例；3.（法律）案件，诉讼；4.（医学）病例；5.（棒球）垒" ],
+  "notes" : [ "来自英语「case」的外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1528,
+  "word" : "ケーブル",
+  "reading" : "ケーブル",
+  "romaji" : null,
+  "meaning" : [ "1. 电缆，电线；缆绳，钢缆；2. （经电缆发送的）电报，海底电报" ],
+  "notes" : [ "源自英语单词\"cable\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1529,
+  "word" : "ゲスト",
+  "reading" : "ゲスト",
+  "romaji" : null,
+  "meaning" : [ "1. 客人，宾客；2. 嘉宾，特邀来宾；3. （酒店、民宿等的）住客；4. 客座身份的" ],
+  "notes" : [ "来源于英语单词\"guest\"的外来语，日常使用频率很高。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1530,
+  "word" : "ゲストハウス",
+  "reading" : "げすとはうす",
+  "romaji" : null,
+  "meaning" : [ "宾馆，招待所； guest house，（欧美风格的）廉价住宿公寓，民宿型廉价旅馆" ],
+  "notes" : [ "来源于英语\"guest house\"的外来语，在日本通常指价格较酒店低廉、多为共享空间的经济型住宿设施，和传统宾馆有所区别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1531,
+  "word" : "ゲーム",
+  "reading" : "ゲーム",
+  "romaji" : null,
+  "meaning" : [ "1. 游戏，游乐活动；2.（网球等体育的）一局，一场；3. 电子游戏，电脑游戏" ],
+  "notes" : [ "源自英语“game”的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1532,
+  "word" : "ゲームセンター",
+  "reading" : "ゲームセンター",
+  "romaji" : null,
+  "meaning" : [ "游戏厅，电子游戏中心，提供电子游艺设备营业娱乐的场所" ],
+  "notes" : [ "也可写作「游戏中心」，是源自英语game center的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1533,
+  "word" : "ゲームソフト",
+  "reading" : "げーむそふと",
+  "romaji" : null,
+  "meaning" : [ "游戏软件，即承载电子游戏内容的存储介质产品" ],
+  "notes" : [ "来源于英语“game software”的和制外来语，也可简称ソフト，对应反义词是ゲームハード（游戏硬件）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1534,
+  "word" : "コイン",
+  "reading" : "こいん",
+  "romaji" : null,
+  "meaning" : [ "硬币；（虚拟货币、游戏等的）币" ],
+  "notes" : [ "源自英语单词\"coin\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1535,
+  "word" : "コガネグモ",
+  "reading" : "コガネグモ",
+  "romaji" : null,
+  "meaning" : [ "节肢动物门蛛形纲蜘蛛目圆蛛科金蛛属蜘蛛的统称，俗称黄金蜘蛛" ],
+  "notes" : [ "学名是Argiope，多栖息在草丛、林间，会结出带有十字形装饰带的圆形蛛网，体表多带有金黄色光泽因此得名，属于日语中偏专业的生物分类词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1536,
+  "word" : "コショウ",
+  "reading" : "コショウ",
+  "romaji" : null,
+  "meaning" : [ "胡椒，胡椒粉；也可指「胡椒」，一种香辛料" ],
+  "notes" : [ "对应汉字为「胡椒」，是日语中常用的外来语借词（来自葡萄牙语pimenta），是日常生活中常用的香辛料名称" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1537,
+  "word" : "コスチューム",
+  "reading" : "こすちゅーむ",
+  "romaji" : null,
+  "meaning" : [ "服装，装束；（特定用途的）制服，戏装；（游泳、运动等的）专用服装" ],
+  "notes" : [ "来源于英语costume，多用于指特定场合、特定用途的服装，区别于泛指服装的「服（ふく）」「衣服（いふく）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1538,
+  "word" : "コスト",
+  "reading" : "こすと",
+  "romaji" : null,
+  "meaning" : [ "成本；费用，代价" ],
+  "notes" : [ "源自英语单词\"cost\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1539,
+  "word" : "コック",
+  "reading" : "コック",
+  "romaji" : null,
+  "meaning" : [ "1. 厨师，炊事员；2. 旋塞，龙头，阀门（cock的外来语）" ],
+  "notes" : [ "来自英语外来语cock，主要用于指代餐厅等场所的专职厨师；此外还有机械领域阀门、旋塞的含义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1540,
+  "word" : "コットン",
+  "reading" : "こっとん",
+  "romaji" : null,
+  "meaning" : [ "棉花；棉纤维；棉布，棉织品" ],
+  "notes" : [ "来源于英语单词\"cotton\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1541,
+  "word" : "コップ",
+  "reading" : "こっぷ",
+  "romaji" : null,
+  "meaning" : [ "（玻璃制或其他材质的）杯子，水杯" ],
+  "notes" : [ "源自荷兰语\"kop\"，在日语中泛指日常用来喝水等饮品的杯子，与グラス（多指玻璃制杯子）语义范围略有区别" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1542,
+  "word" : "コネ",
+  "reading" : "こね",
+  "romaji" : null,
+  "meaning" : [ "（通过熟人、人脉建立的）关系，门路，后门，后台" ],
+  "notes" : [ "该词来自汉语“根回し”的“根”的讹变，偏口语化表达，多用于指非正式的私人人脉门路。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1543,
+  "word" : "コピー",
+  "reading" : "コピー",
+  "romaji" : null,
+  "meaning" : [ "1. 复印；复印品 2. 复制，拷贝 3.（广告、宣传等的）文案" ],
+  "notes" : [ "源自英语\"copy\"，作动词时需要接する构成サ変動詞" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1544,
+  "word" : "コピーします",
+  "reading" : "こぴーします",
+  "romaji" : null,
+  "meaning" : [ "复印，影印；复制，拷贝" ],
+  "notes" : [ "是コピーする的礼貌体形式，コピー原为英语copy，除表示纸质文件的复印影印外，也可指电子数据的复制拷贝" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1545,
+  "word" : "コピー機",
+  "reading" : "コピーき",
+  "romaji" : null,
+  "meaning" : [ "复印机，复印件，是用于复印文档、图像等的办公设备" ],
+  "notes" : [ "复合词，由「コピー（复制、复印）」和「機（机器）」构成，正式场合也可称为「複写機（ふくしゃき）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1546,
+  "word" : "コマーシャル",
+  "reading" : "こまーしゃる",
+  "romaji" : null,
+  "meaning" : [ "1. 商业，商务；2.（广播、电视的）商业广告" ],
+  "notes" : [ "源自英语\"commercial\"，日常口语中也常省略为「CM」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1547,
+  "word" : "コミュニケーション",
+  "reading" : "コミュニケーション",
+  "romaji" : null,
+  "meaning" : [ "源自英语communication，指人与人之间信息、情感、思想的传递与交流，沟通；也可指通讯" ],
+  "notes" : [ "外来语，日语常用词汇，在社会生活、职场、跨文化交流场景中高频使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1548,
+  "word" : "コメント",
+  "reading" : "コメント",
+  "romaji" : null,
+  "meaning" : [ "1. 评论，评语；2. 注释，注解；3. 意见，留言；4. （官方的）声明，发言" ],
+  "notes" : [ "该词是英语comment的外来语，也可作为サ変活用动词使用，如「コメントする」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1549,
+  "word" : "コレクション",
+  "reading" : "これくしょん",
+  "romaji" : null,
+  "meaning" : [ "1. 收集，搜集，收藏；2. 收藏品，收集物；3.（时装品牌的）系列作品" ],
+  "notes" : [ "源自英语单词\"collection\"，是日语外来词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1550,
+  "word" : "コレステロール",
+  "reading" : "コレステロール",
+  "romaji" : null,
+  "meaning" : [ "胆固醇（cholesterol），是动物体内存在的一种类固醇类物质，是细胞膜、激素等合成的重要成分，血液中含量过高可能引发动脉硬化等疾病" ],
+  "notes" : [ "源自英语cholesterol的外来语，日常健康相关语境中常用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1551,
+  "word" : "コロッケ",
+  "reading" : "ころっけ",
+  "romaji" : null,
+  "meaning" : [ "可乐饼，炸肉饼；日式油炸料理，通常将土豆泥混肉末、蔬菜等捏成扁饼状后裹面包糠炸制而成" ],
+  "notes" : [ "源自法语「croquette」，是日本常见的大众西式料理" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1552,
+  "word" : "コンクリート",
+  "reading" : "こんくりーと",
+  "romaji" : null,
+  "meaning" : [ "混凝土，水泥混凝土；（艺术创作等的）具体表达，具体作品" ],
+  "notes" : [ "来源于英语单词「concrete」，也可写作「混凝土」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1553,
+  "word" : "コンクール",
+  "reading" : "コンクール",
+  "romaji" : null,
+  "meaning" : [ "（源自法语concours）由主办方举办的竞赛、比赛，多为艺术、音乐、创作等领域的公开竞技评选活动" ],
+  "notes" : [ "日语外来语，区别于一般的「試合（しあい）」，更多用于艺术、创作类的公开竞赛评选活动" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1554,
+  "word" : "コンサート",
+  "reading" : "こんさーと",
+  "romaji" : null,
+  "meaning" : [ "音乐会，演奏会" ],
+  "notes" : [ "源自英语单词\"concert\"，是日语外来语，指以音乐演奏为核心的公开演出活动" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1555,
+  "word" : "コンセプト",
+  "reading" : "コンセプト",
+  "romaji" : null,
+  "meaning" : [ "源自英语concept，指概念、观念、理念，设计宗旨、创作构想" ],
+  "notes" : [ "外来语，是日语中常用的借词，在商业、设计、文化领域使用频率较高" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1556,
+  "word" : "コンセント",
+  "reading" : "こんせんと",
+  "romaji" : null,
+  "meaning" : [ "插座，电源插座；(电器的)插孔" ],
+  "notes" : [ "该词源自英语“concentric plug”的缩写，是日语外来词，在日本语境下专指民用电源插座，部分人易误写为「コンセンド」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1557,
+  "word" : "コンタクト",
+  "reading" : "こんたくと",
+  "romaji" : null,
+  "meaning" : [ "1. 接触，触碰；2. 联络，交往，联系；3. （社交中的）人脉，熟人；4. 「コンタクトレンズ」（隐形眼镜）的缩略语；5. （摄影、印刷）接触印相" ],
+  "notes" : [ "源自英语单词\"contact\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1558,
+  "word" : "コンタクトレンズ",
+  "reading" : "コンタクトレンズ",
+  "romaji" : null,
+  "meaning" : [ "隐形眼镜，是contact lens的外来语译词" ],
+  "notes" : [ "外来语，常简称为コンタクト" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1559,
+  "word" : "コンテスト",
+  "reading" : "コンテスト",
+  "romaji" : null,
+  "meaning" : [ "比赛，竞赛，会演" ],
+  "notes" : [ "来源于英语单词\"contest\"，是日语外来语词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1560,
+  "word" : "コンテナー",
+  "reading" : "こんてなー",
+  "romaji" : null,
+  "meaning" : [ "容器；集装箱，货柜；（航空）集装器" ],
+  "notes" : [ "也可写作「コンテナ」，发音相同，是英语「container」的外来语借词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1561,
+  "word" : "コントラスト",
+  "reading" : "こんとらすと",
+  "romaji" : null,
+  "meaning" : [ "对比，对照；（色彩、明暗等的）反差" ],
+  "notes" : [ "源自英语单词\"contrast\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1562,
+  "word" : "コントロール",
+  "reading" : "こんとろーる",
+  "romaji" : null,
+  "meaning" : [ "控制；管理；调节；（体育）控球，控制球" ],
+  "notes" : [ "源自英语单词\"control\"，可作为名词，也可以接「する」构成サ変動詞使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1563,
+  "word" : "コンパクト",
+  "reading" : "コンパクト",
+  "romaji" : null,
+  "meaning" : [ "1. 小巧紧凑的，小型的；2. 简洁的，凝练的；3. 小型而内容充实的" ],
+  "notes" : [ "源自英语「compact」，作为ナ形容词（形容动词）使用，也可作为名词使用，指小型粉饼盒、紧凑型汽车等。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1564,
+  "word" : "コンパス",
+  "reading" : "こんぱす",
+  "romaji" : null,
+  "meaning" : [ "圆规；罗盘，指南针；（步行的）步幅，步距；（音乐）音域" ],
+  "notes" : [ "外来语，源自英语\"compass\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1565,
+  "word" : "コンビニ",
+  "reading" : "こんびに",
+  "romaji" : null,
+  "meaning" : [ "便利店，是「コンビニエンスストア（convenience store）」的缩略说法" ],
+  "notes" : [ "日语中极为常用的日常外来语缩略词，常用于日常生活场景" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1566,
+  "word" : "コンピューター",
+  "reading" : "コンピューター",
+  "romaji" : null,
+  "meaning" : [ "电脑，计算机（电子计算机）" ],
+  "notes" : [ "也可写作「コンピュータ」，长音可省略，英语\"computer\"的外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1567,
+  "word" : "コンプレックス",
+  "reading" : "こんぷれっくす",
+  "romaji" : null,
+  "meaning" : [ "情结；自卑感；（也指）建筑群，复合式设施，综合体" ],
+  "notes" : [ "来自英语借词「complex」，除了表示心理层面的情结、自卑感外，也可表示复合建筑群、商业综合体等含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1568,
+  "word" : "コンマ",
+  "reading" : "こんま",
+  "romaji" : null,
+  "meaning" : [ "标点符号逗号；（欧美式书写的）小数点" ],
+  "notes" : [ "来自英语单词\"comma\"的外来语，日语中传统小数点用「点（てん）」表示，对应欧美的comma用法时指小数点。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1569,
+  "word" : "コンロ",
+  "reading" : "こんろ",
+  "romaji" : null,
+  "meaning" : [ "炉灶，炉，小炉子，一般指台式燃气炉、电炉等烹饪加热用的炉具" ],
+  "notes" : [ "来源于汉语「火箒（かほうき）」的讹变，现在通常泛指台式烹饪炉具，区别于嵌入式的整体灶台" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1570,
+  "word" : "コース",
+  "reading" : "こーす",
+  "romaji" : null,
+  "meaning" : [ "1. 路线，线路；2. 课程，学科；3. 跑道，赛道；4. （用餐的）一道菜；5. 进程，过程" ],
+  "notes" : [ "外来语，源自英语\"course\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1571,
+  "word" : "コーチ",
+  "reading" : "コーチ",
+  "romaji" : null,
+  "meaning" : [ "1. （体育等领域的）教练，技术指导；2. 长途客运大巴，长途 coach；3. 经济舱（航空）" ],
+  "notes" : [ "来自英语的借词，也可作他动词使用，例如「チームをコーチする」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1572,
+  "word" : "コート",
+  "reading" : "こーと",
+  "romaji" : null,
+  "meaning" : [ "1. （英文coat）大衣，外套；2. （英文court）球场，法庭" ],
+  "notes" : [ "外来语，来自英文，根据语境不同有不同含义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1573,
+  "word" : "コード",
+  "reading" : "こーど",
+  "romaji" : null,
+  "meaning" : [ "代码，编码；符号，代号；（和弦的）和弦配置；（服饰的）着装规范；电线，电缆；密码" ],
+  "notes" : [ "源自英语\"code\"的外来语，涵盖多个领域的常用义项" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1574,
+  "word" : "コーヒー",
+  "reading" : "コーヒー",
+  "romaji" : null,
+  "meaning" : [ "咖啡（源自英语coffee，指烘焙后的咖啡豆冲泡制成的饮品）" ],
+  "notes" : [ "外来语，也可写作「珈琲」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1575,
+  "word" : "コーラ",
+  "reading" : "こーら",
+  "romaji" : null,
+  "meaning" : [ "可乐，来自英文“cola”，指可乐这种碳酸饮料" ],
+  "notes" : [ "外来语，源自英语cola，属于日常常用饮品词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1576,
+  "word" : "コーラス",
+  "reading" : "コーラス",
+  "romaji" : null,
+  "meaning" : [ "合唱；合唱曲；合唱团；合唱队；（歌曲的）副歌" ],
+  "notes" : [ "源自英语单词\"chorus\"，是日语外来词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1577,
+  "word" : "ゴミ箱",
+  "reading" : "ごみばこ",
+  "romaji" : null,
+  "meaning" : [ "垃圾箱，垃圾桶，废物箱" ],
+  "notes" : [ "由「ゴミ（垃圾）」和「箱（箱子）」复合而成的名词，是日常生活垃圾的盛放容器。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1578,
+  "word" : "ゴム",
+  "reading" : "ゴム",
+  "romaji" : null,
+  "meaning" : [ "1. 橡胶；2. 橡皮，橡皮擦；3. 避孕套（俗称）" ],
+  "notes" : [ "该词来自荷兰语\"gom\"，除了表示橡胶材质外，日常常用义为橡皮擦。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1579,
+  "word" : "ゴム輪",
+  "reading" : "ごむわ",
+  "romaji" : null,
+  "meaning" : [ "橡皮圈；橡胶圈；橡胶环" ],
+  "notes" : [ "原释义中「橡胶车轮」为误译，正确所指为橡胶制成的圈状、环状制品；该词一般也可写作「ゴムわ」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1580,
+  "word" : "ゴルフ",
+  "reading" : "ごるふ",
+  "romaji" : null,
+  "meaning" : [ "高尔夫球，高尔夫运动" ],
+  "notes" : [ "来自英语单词golf的外来语，日本语能力测试N5级词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1581,
+  "word" : "ゴール",
+  "reading" : "ごーる",
+  "romaji" : null,
+  "meaning" : [ "1.（跑步、赛跑等的）终点，球门；2.（行事、人生等的）目标，目的；3.（足球等运动的）进球得分" ],
+  "notes" : [ "外来语，源自英语\"goal\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1582,
+  "word" : "ゴールイン",
+  "reading" : "ごーるいん",
+  "romaji" : null,
+  "meaning" : [ "到达终点；进球得分；（恋爱、交往后）结婚、成婚；达到目标" ],
+  "notes" : [ "该词是源自英语「goal in」的外来语，作为サ変動詞使用时后续动词「する」，除了体育相关含义外，在日语日常语境中最常用的引申义是「交往多年的情侣结婚成婚」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1583,
+  "word" : "ゴールデンウィーク",
+  "reading" : "ゴールデンウィーク",
+  "romaji" : null,
+  "meaning" : [ "日本指每年4月末到5月初的连续公众假期，俗称「黄金周」，也可泛指其他时期的连休假期" ],
+  "notes" : [ "源自英文Golden Week，是日本特有的连休假期称呼，通常包含昭和之日、宪法纪念日、绿之日、儿童之日四个法定假日，搭配周末可形成4-10天不等的连休。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1584,
+  "word" : "サイエンス",
+  "reading" : "さいえんす",
+  "romaji" : null,
+  "meaning" : [ "科学；科学研究，对应英语单词“science”" ],
+  "notes" : [ "外来语，源自英语“science”，日常也常用「サイエンス」构成复合词，如「サイエンスフィクション（科幻小说）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1585,
+  "word" : "サイクリング",
+  "reading" : "サイクリング",
+  "romaji" : null,
+  "meaning" : [ "自行车旅行，骑自行车出游，自行车骑行运动" ],
+  "notes" : [ "源自英语单词\"cycling\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1586,
+  "word" : "サイクル",
+  "reading" : "さいくる",
+  "romaji" : null,
+  "meaning" : [ "周期，循环；（自行车等的）车轮；（体育的）自行车运动" ],
+  "notes" : [ "来源于英语单词\"cycle\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1587,
+  "word" : "サイズ",
+  "reading" : "さいず",
+  "romaji" : null,
+  "meaning" : [ "尺寸，尺码；大小" ],
+  "notes" : [ "源自英语单词\"size\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1588,
+  "word" : "サイドミラー",
+  "reading" : "さいどみらー",
+  "romaji" : null,
+  "meaning" : [ "（汽车的）侧后视镜，即安装在汽车车身两侧、用于观察车辆侧后方路况的后视镜，对应英语side mirror" ],
+  "notes" : [ "源自英语外来语，日语中也可称为「ドアミラー」，区别于车内的中央后视镜「ルームミラー」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1589,
+  "word" : "サイレン",
+  "reading" : "サイレン",
+  "romaji" : null,
+  "meaning" : [ "汽笛，警笛，警报器" ],
+  "notes" : [ "来源于英语单词\"siren\"，是外来语名词，常用于指代警报装置或警报声。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1590,
+  "word" : "サイン",
+  "reading" : "サイン",
+  "romaji" : null,
+  "meaning" : [ "1. 签名，签字，署名；2. 暗号，信号；3.（运动等的）手势暗号；4.  Signs（占星学的星座宫位）" ],
+  "notes" : [ "源自英语单词\"sign\"的外来语，也可作为サ变动词使用，如「サインする」表示签名。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1591,
+  "word" : "サッカー",
+  "reading" : "サッカー",
+  "romaji" : null,
+  "meaning" : [ "足球（对应英文soccer，指英式足球运动）" ],
+  "notes" : [ "来自英语「soccer」的外来语，日本通常将英式足球称为サッカー，区别于美式足球アメリカンフットボール" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1592,
+  "word" : "サツマイモ",
+  "reading" : "さつまいも",
+  "romaji" : null,
+  "meaning" : [ "番薯，红薯，甘薯" ],
+  "notes" : [ "也可写作汉字「薩摩芋」，原产于日本萨摩（现鹿儿岛县）地区因此得名。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1593,
+  "word" : "サバイバル",
+  "reading" : "さばいばる",
+  "romaji" : null,
+  "meaning" : [ "1. 幸存，残存，存活；2. 生存，求生；3. （社会等的）幸存竞争，生存斗争" ],
+  "notes" : [ "该词是英语\"survival\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1594,
+  "word" : "サプリメント",
+  "reading" : "サプリメント",
+  "romaji" : null,
+  "meaning" : [ "源自英语\"supplement\"，指营养补充剂、营养品，滋补品" ],
+  "notes" : [ "日语中也常简称作「サプリ」，是日常生活中对营养补充剂的常用说法" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1595,
+  "word" : "サボる",
+  "reading" : "さぼる",
+  "romaji" : null,
+  "meaning" : [ "偷懒，旷工，旷课，逃避应做的工作" ],
+  "notes" : [ "该词来自法语「sabotage」的缩写，是口语常用词，为五段活用动词" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1596,
+  "word" : "サポート",
+  "reading" : "さぽーと",
+  "romaji" : null,
+  "meaning" : [ "支持，支援；扶持，帮助；（体育等的）助威，支持；（计算机）支持，兼容" ],
+  "notes" : [ "源自英语单词\"support\"，作为サ変動詞使用时后接「する" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1597,
+  "word" : "サラダ",
+  "reading" : "さらだ",
+  "romaji" : null,
+  "meaning" : [ "源自英语salad，指将蔬菜、水果等生鲜食材切好后，搭配酱汁拌匀制成的凉拌菜，也指色拉、沙拉" ],
+  "notes" : [ "外来语，来自英文单词\"salad\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1598,
+  "word" : "サラリーマン",
+  "reading" : "サラリーマン①",
+  "romaji" : null,
+  "meaning" : [ "指依靠工资、薪水生活的上班族，工薪职员，也特指男性工薪阶层" ],
+  "notes" : [ "源自英文\"salary man\"，是日语特有的和制英语词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1599,
+  "word" : "サングラス",
+  "reading" : "さんぐらす",
+  "romaji" : null,
+  "meaning" : [ "墨镜，太阳镜，是英文sunglasses的日语音译外来词" ],
+  "notes" : [ "该词为复数外来语，日语中使用时保持单数形式使用，不需要变形。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1600,
+  "word" : "サンダル",
+  "reading" : "サンダル",
+  "romaji" : null,
+  "meaning" : [ "凉鞋，是一种暴露脚趾、轻便透气的鞋类，多用于夏季休闲场合" ],
+  "notes" : [ "源自英语单词「sandal」的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

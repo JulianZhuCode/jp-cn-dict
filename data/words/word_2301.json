@@ -1,0 +1,901 @@
+[ {
+  "id" : 2301,
+  "word" : "一人で",
+  "reading" : "ひとりで",
+  "romaji" : null,
+  "meaning" : [ "一个人，独自地" ],
+  "notes" : [ "「一人で」是副词短语，由名词「一人（ひとり）」加上助词「で」构成，表示状态或方式。注意不要与名词「一人（ひとり）」混淆。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2302,
+  "word" : "一人ぼっち",
+  "reading" : "ひとりぼっち",
+  "romaji" : null,
+  "meaning" : [ "孤身一人，孤零零一个人，无依无靠" ],
+  "notes" : [ "常带有一种孤独、寂寞的感情色彩。也常写作「独りぼっち」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2303,
+  "word" : "一人一人",
+  "reading" : "ひとりひとり",
+  "romaji" : null,
+  "meaning" : [ "每个人，各自，一个一个地" ],
+  "notes" : [ "也可写作「一人ひとり」。作为副词使用时，表示“一个一个地”、“逐一地”的意思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2304,
+  "word" : "一人娘",
+  "reading" : "ひとりむすめ",
+  "romaji" : null,
+  "meaning" : [ "独生女" ],
+  "notes" : [ "指父母唯一的女儿，通常是名词，没有动词活用变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2305,
+  "word" : "一人息子",
+  "reading" : "ひとりむすこ",
+  "romaji" : null,
+  "meaning" : [ "独生子，唯一的儿子" ],
+  "notes" : [ "指父母唯一的儿子。\"一人娘\"（ひとりむすめ）是独生女。属于日常用语，在正式文书中也常用。注意\"一人\"的读音是\"ひとり\"，不是\"いちにん\"。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2306,
+  "word" : "一人暮らし",
+  "reading" : "ひとりぐらし",
+  "romaji" : null,
+  "meaning" : [ "独居，单身生活。指一个人独立生活，不与他人同住的状态。" ],
+  "notes" : [ "有时也写作「独り暮らし」。是一个常用的复合名词，由「一人」和「暮らし」构成。发音中「ぐらし」是浊音，需要注意。属于N3级别常见生活词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2307,
+  "word" : "一休み",
+  "reading" : "ひとやすみ",
+  "romaji" : null,
+  "meaning" : [ "休息片刻，歇一会儿，小憩" ],
+  "notes" : [ "「一休み」本身是名词，但常作为サ变动词（する）使用，表示“休息一下”。该词更接近日常会话，难度级别低于原N3，调整为N4。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2308,
+  "word" : "一体",
+  "reading" : "いったい",
+  "romaji" : null,
+  "meaning" : [ "（疑問を強めて）一体全体、いったい。どうして、なぜ。そもそも、本来。" ],
+  "notes" : [ "疑問文で用い、強い疑問や驚き、非難の気持ちを表す。漢字で書くこともあるが、平仮名で「いったい」と書かれることが多い。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2309,
+  "word" : "一例",
+  "reading" : "いちれい",
+  "romaji" : null,
+  "meaning" : [ "一个例子，一个实例。" ],
+  "notes" : [ "常用作「…の一例」的形式。与「例（れい）」相比，更强调是众多事例中的“一个”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2310,
+  "word" : "一切",
+  "reading" : "いっさい",
+  "romaji" : null,
+  "meaning" : [ "【名词】一切，全部，所有事物。\n【副词】完全（不），一概（不）。常与否定形式呼应，表示全面否定。" ],
+  "notes" : [ "作为副词使用时，通常后续否定表达，如「一切～ない」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2311,
+  "word" : "一刻も早く",
+  "reading" : "いっこくもはやく",
+  "romaji" : null,
+  "meaning" : [ "尽可能早地；立刻；火速；尽快" ],
+  "notes" : [ "这是一个固定的副词短语，由“一刻（いっこく）”加助词“も”和形容词“早い”的连用形“早く”构成，表示“哪怕早一刻也好”的强烈愿望，强调事情的紧迫性。常用于正式或书面语境。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2312,
+  "word" : "一口",
+  "reading" : "ひとくち",
+  "romaji" : null,
+  "meaning" : [ "①一口；一口的量。②少量；一点点。③（话语或事物的）一句，一点。" ],
+  "notes" : [ "作为名词使用，没有活用变化。可以指具体的“一口食物”，也可以用作比喻，表示“少量”或“简而言之”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2313,
+  "word" : "一同",
+  "reading" : "いちどう",
+  "romaji" : null,
+  "meaning" : [ "全体，大家，全员" ],
+  "notes" : [ "表示某个团体或集合中的所有成员。作为副词使用时，可以接在名词后，如「職員一同」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2314,
+  "word" : "一向",
+  "reading" : "いっこう",
+  "romaji" : null,
+  "meaning" : [ "完全，全然，一点儿也（后接否定表达）" ],
+  "notes" : [ "这是一个副词，通常与否定形式（ない、ません、なかった、ませんでした等）连用，表示“完全不…”、“一点儿也不…”。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2315,
+  "word" : "一員",
+  "reading" : "いちいん",
+  "romaji" : null,
+  "meaning" : [ "一员，一分子，一个成员" ],
+  "notes" : [ "常用表达有「…の一員として」 (作为…的一员)。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2316,
+  "word" : "一変",
+  "reading" : "いっぺん",
+  "romaji" : null,
+  "meaning" : [ "完全に変わること。がらりと変わること。" ],
+  "notes" : [ "「一変」自体は名詞であり、「一変する」の形でサ変動詞として用いられる。N3よりはやや難しい表現としてN2レベルに分類されることが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2317,
+  "word" : "一大事",
+  "reading" : "いちだいじ",
+  "romaji" : null,
+  "meaning" : [ "重大な事件や事態。大変な事柄。" ],
+  "notes" : [ "「一大事」は、名詞として用いられ、通常は「一大事になる」「一大事を引き起こす」などの形で使われる。日常会話よりも、やや改まった表現や文章語で見られる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2318,
+  "word" : "一定",
+  "reading" : "いってい",
+  "romaji" : null,
+  "meaning" : [ "1. 一定，固定。2. 规定。" ],
+  "notes" : [ "可作为连体词使用，如「一定の条件」。也可用作サ变动词「一定する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2319,
+  "word" : "一家",
+  "reading" : "いっか",
+  "romaji" : null,
+  "meaning" : [ "一家，一户；一家人，全家" ],
+  "notes" : [ "「一家」通常读作「いっか」，是名词。有时也写作「一家族」。在表示“全家”时，与「家族全員」意思相近，但「一家」更侧重于家庭作为一个整体单位。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2320,
+  "word" : "一層",
+  "reading" : "いっそう",
+  "romaji" : null,
+  "meaning" : [ "①（副詞）より程度が増すさま。より一層。いっそう。 ②（名詞）建物などの一つの階層。" ],
+  "notes" : [ "副詞として使われることが最も一般的。名詞としての用法（「一つの層」の意）は、現代語ではやや硬い表現。漢字表記は「一層」が基本。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2321,
+  "word" : "一帯",
+  "reading" : "いったい",
+  "romaji" : null,
+  "meaning" : [ "地带，一带，一片区域。" ],
+  "notes" : [ "常用形式为「...一帯」，表示广阔的区域或范围。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2322,
+  "word" : "一度",
+  "reading" : "いちど",
+  "romaji" : null,
+  "meaning" : [ "一次，一回，一度。" ],
+  "notes" : [ "作为名词使用时读作「いちど」，表示一个具体的次数。也可作为副词使用，表示“一次性地”或“曾经”。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2323,
+  "word" : "一度に",
+  "reading" : "いちどに",
+  "romaji" : null,
+  "meaning" : [ "同时，一下子，一次性地" ],
+  "notes" : [ "表示在某个时间点或某个动作中，多个事物或动作同时发生，或者一次性完成。通常用于描述一次性处理大量事物或同时发生多个事件的情况。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2324,
+  "word" : "一度も",
+  "reading" : "いちども",
+  "romaji" : null,
+  "meaning" : [ "连一次也（不）…；一次也（没）…。用于加强否定表达。" ],
+  "notes" : [ "常与否定形式呼应使用，构成「一度も…ない」的句型。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2325,
+  "word" : "一律",
+  "reading" : "いちりつ",
+  "romaji" : null,
+  "meaning" : [ "一律，一概，统一，同样" ],
+  "notes" : [ "「一律」は、多くの場合、名詞として使われ、「一律に」の形で副詞的にも使われる。形容動詞として扱われることもあるが、主な品詞は名詞である。漢字は「一」と「律」から成る。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2326,
+  "word" : "一応",
+  "reading" : "いちおう",
+  "romaji" : null,
+  "meaning" : [ "① ある程度の基準を満たしている様子。ひとまず。大体。\n② 完全ではないが、とりあえず行う様子。\n③ 万一の場合に備えて行う様子。" ],
+  "notes" : [ "話し言葉では「いちお」と発音されることもある。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2327,
+  "word" : "一息",
+  "reading" : "ひといき",
+  "romaji" : null,
+  "meaning" : [ "1. 一次呼吸；一口气。2. （工作、努力等的）短暂休息；喘口气。3. （为完成某事而做的）最后努力；加把劲。" ],
+  "notes" : [ "常以「一息つく」（喘口气、休息一下）或「一息入れる」（稍作休息）的形式使用。表示“加把劲”时，多用「もう一息」的形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2328,
+  "word" : "一抹",
+  "reading" : "いちまつ",
+  "romaji" : null,
+  "meaning" : [ "一缕，一丝；一片；少量，些许" ],
+  "notes" : [ "该词为书面语，多用于表达微量的、抽象的感觉或气氛，如“一抹的不安（一抹の不安）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2329,
+  "word" : "一括",
+  "reading" : "いっかつ",
+  "romaji" : null,
+  "meaning" : [ "一括，总括，统一处理" ],
+  "notes" : [ "「一括」本身是名词，但经常作为サ变动词「一括する」的词干使用，表示“统一处理、总括”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2330,
+  "word" : "一括り",
+  "reading" : "ひとくくり",
+  "romaji" : null,
+  "meaning" : [ "1. 一捆，一扎，一束（将多个物品捆在一起）。2. 笼统地归为一类，一概而论（将不同的事物不加区分地视为同一类）。" ],
+  "notes" : [ "该词为名词，无活用变化。其第二个含义（笼统归类）在抽象语境中更为常见，且难度稍高。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2331,
+  "word" : "一挙に",
+  "reading" : "いっきょに",
+  "romaji" : null,
+  "meaning" : [ "一举，一下子，一次性地" ],
+  "notes" : [ "表示一次性、集中地完成某动作或使某种状态一次性出现。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2332,
+  "word" : "一掃",
+  "reading" : "いっそう",
+  "romaji" : null,
+  "meaning" : [ "完全に掃除すること。すべて取り除くこと。" ],
+  "notes" : [ "「一掃する」の形で動詞としても用いられる。やや硬い表現で、大規模な、あるいは徹底的な除去を意味する。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2333,
+  "word" : "一斉に",
+  "reading" : "いっせいに",
+  "romaji" : null,
+  "meaning" : [ "一齐，同时" ],
+  "notes" : [ "副词，由名词“一斉”加助词“に”构成，表示动作或状态在同一时间发生。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2334,
+  "word" : "一方",
+  "reading" : "いっぽう",
+  "romaji" : null,
+  "meaning" : [ "一方では。二つの事柄を対比的に述べる際に用いる。" ],
+  "notes" : [ "接続詞として使われるほか、名詞「一方」の用法もある（例：一方通行）。" ],
+  "pos" : "CONJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2335,
+  "word" : "一方通行",
+  "reading" : "いっぽうつうこう",
+  "romaji" : null,
+  "meaning" : [ "1. 单向通行（交通规则）。2. （比喻）单方面的、缺乏互动或相互理解的关系或信息流动。" ],
+  "notes" : [ "作为名词使用，没有动词活用。在比喻义上常用来形容单方面的沟通或关系。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2336,
+  "word" : "一日",
+  "reading" : "ついたち",
+  "romaji" : null,
+  "meaning" : [ "每个月的第一天，一号。" ],
+  "notes" : [ "作为日期使用时，是特殊读法“ついたち”，而不是“いちにち”。当表示“一天”时，读作“いちにち”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2337,
+  "word" : "一旦",
+  "reading" : "いったん",
+  "romaji" : null,
+  "meaning" : [ "① 一旦，既然（表示假设或条件）② 暂且，姑且（表示暂时性的动作或状态）" ],
+  "notes" : [ "多用于书面语或正式场合。含义①常与「〜からには」、「〜以上（は）」等呼应，表示确定条件。含义②表示暂时、临时的动作。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2338,
+  "word" : "一昨年",
+  "reading" : "おととし",
+  "romaji" : null,
+  "meaning" : [ "前年，去年之前的一年" ],
+  "notes" : [ "在正式场合或书面语中，有时也读作「いっさくねん」。口语中「おととし」更为常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2339,
+  "word" : "一昨日",
+  "reading" : "おととい",
+  "romaji" : null,
+  "meaning" : [ "前天" ],
+  "notes" : [ "也写作‘おとつい’，但‘おととい’更为常用。在正式书面语中有时会使用汉字‘一昨日’，但读音不变。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2340,
+  "word" : "一時",
+  "reading" : "いちじ",
+  "romaji" : null,
+  "meaning" : [ "① 某个时间点；一段时间。② 临时，暂时。③（古语）一点钟。" ],
+  "notes" : [ "「一時（いちじ）」作为名词使用，表示“一时”或“暂时”时，常与「的」结合为「一時的に」。也有读作「ひととき」的训读，意为“短暂的时间”或“片刻”，但此处为音读。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2341,
+  "word" : "一時期",
+  "reading" : "いちじき",
+  "romaji" : null,
+  "meaning" : [ "ある一つの時期。過去の、ある特定の期間。" ],
+  "notes" : [ "「一時期（いちじき）」は、名詞としてのみ使用される。副詞的に「一時期は」の形で用いられることも多い。読み方は「いちじき」であり、「いちじ」とは読まないので注意。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2342,
+  "word" : "一時的",
+  "reading" : "いちじてき",
+  "romaji" : null,
+  "meaning" : [ "暂时的，临时的，一时的" ],
+  "notes" : [ "「一時的」是ナ形容詞（形容動詞），修饰名词时使用「一時的な＋名詞」的形式，作谓语时使用「一時的だ」的形式。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2343,
+  "word" : "一晩",
+  "reading" : "ひとばん",
+  "romaji" : null,
+  "meaning" : [ "一晚，一夜，一宿。指从傍晚到次日早晨的一段时间，或表示在某个地方度过一个夜晚。" ],
+  "notes" : [ "口语中有时也用作「一晩中（ひとばんじゅう）」，强调“整晚”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2344,
+  "word" : "一概に",
+  "reading" : "いちがいに",
+  "romaji" : null,
+  "meaning" : [ "一概に、一律に、無条件に（多用于否定句，表示不能一概而论）" ],
+  "notes" : [ "常用句型为「一概に～ない」，表示“不能一概……”。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2345,
+  "word" : "一様",
+  "reading" : "いちよう",
+  "romaji" : null,
+  "meaning" : [ "均一な様子；同じであること；平凡で普通なこと" ],
+  "notes" : [ "「な形容詞」として用いられる。名詞として「一様な」の形で連体修飾語として使うことも多い。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2346,
+  "word" : "一段と",
+  "reading" : "いちだんと",
+  "romaji" : null,
+  "meaning" : [ "副词。越发，更加。表示程度进一步加深。" ],
+  "notes" : [ "「一段と」是固定副词短语，不能拆开使用。常与形容词、形容动词或动词连用，表示比较基础上的程度加深。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2347,
+  "word" : "一気に",
+  "reading" : "いっきに",
+  "romaji" : null,
+  "meaning" : [ "一下子，一口气地；迅速地，连续地" ],
+  "notes" : [ "强调动作或状态变化在短时间内不间断地完成。常与「飲む」「食べる」「終わらせる」「読む」「片付ける」等动词搭配使用。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2348,
+  "word" : "一流",
+  "reading" : "いちりゅう",
+  "romaji" : null,
+  "meaning" : [ "1. 一つの流れ。2. 同じ系統・流派。3. 最上の部類。第一級。" ],
+  "notes" : [ "「いちりゅう」は一般的な読み方。形容動詞として「一流の」の形で使われることも多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2349,
+  "word" : "一生",
+  "reading" : "いっしょう",
+  "romaji" : null,
+  "meaning" : [ "一生，终生，一辈子。指从出生到死亡的全部人生时间。" ],
+  "notes" : [ "常用搭配：一生懸命（いっしょうけんめい，拼命地，努力地）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2350,
+  "word" : "一生懸命",
+  "reading" : "いっしょうけんめい",
+  "romaji" : null,
+  "meaning" : [ "拼命地，努力地；竭尽全力地。" ],
+  "notes" : [ "常作为副词（-に 形式）或形容动词（-な 形式）使用，表示尽最大努力的状态。口语中有时省略为「いっけんめい」。与「一所懸命」同源，现代日语中「一生懸命」更常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2351,
+  "word" : "一番乗り",
+  "reading" : "いちばんのり",
+  "romaji" : null,
+  "meaning" : [ "最先到达（的人或物）；最先到场；最先尝试；最先完成" ],
+  "notes" : [ "「一番乗り」是一个名词，通常用于描述在某个场合或活动中第一个到达的人或事物。它也可以引申为“第一个尝试或完成某事的人”。在句子中常与助词「に」或「の」一起使用，如「一番乗りになる」、「一番乗りの客」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2352,
+  "word" : "一目",
+  "reading" : "いちもく",
+  "romaji" : null,
+  "meaning" : [ "①（数量）一眼，看一眼。②（数量）一个棋子。③（名词）一目（围棋术语，一个空交叉点）。④（名词）一眼看穿，显而易见。" ],
+  "notes" : [ "「一目」有多种含义，常见的是作为名词或数量词使用，表示“看一眼”或“一目了然”。在「一目置く」中表示“敬重、甘拜下风”。「一目散」是固定词组，意为“一溜烟地”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2353,
+  "word" : "一目ぼれ",
+  "reading" : "ひとめぼれ",
+  "romaji" : null,
+  "meaning" : [ "一见钟情。仅一眼就喜欢上对方。" ],
+  "notes" : [ "常用表达为「一目ぼれする」，作为サ变动词使用，表示“一见钟情”的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2354,
+  "word" : "一目散に",
+  "reading" : "いちもくさんに",
+  "romaji" : null,
+  "meaning" : [ "一溜烟儿地，飞快地（跑或逃跑等）。" ],
+  "notes" : [ "常用搭配为「一目散に～する」。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2355,
+  "word" : "一目瞭然",
+  "reading" : "いちもくりょうぜん",
+  "romaji" : null,
+  "meaning" : [ "一目了然，显而易见，一看就明白" ],
+  "notes" : [ "也常以「一目瞭然だ」的形式作为形容动词使用。属于汉语成语，通常作名词或形容动词，而非形容词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2356,
+  "word" : "一眠り",
+  "reading" : "ひとねむり",
+  "romaji" : null,
+  "meaning" : [ "小睡，打盹儿，睡一小会儿" ],
+  "notes" : [ "“一眠り”通常写作平假名，汉字表记较少见。作为サ变动词使用时，其基本形式是“一眠りする”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2357,
+  "word" : "一瞥",
+  "reading" : "いちべつ",
+  "romaji" : null,
+  "meaning" : [ "一瞥，看一眼，匆匆一瞥" ],
+  "notes" : [ "该词主要作为名词使用，表示“瞥一眼”这个行为或状态。当需要表达“瞥一眼”这个动作时，通常使用「一瞥する」这个サ变动词形式，此时词性为动词，活用类型为「サ行変格活用」。其作为名词的用法更为核心和常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2358,
+  "word" : "一瞬",
+  "reading" : "いっしゅん",
+  "romaji" : null,
+  "meaning" : [ "一瞬间，一刹那。表示极短的时间。" ],
+  "notes" : [ "作为名词使用时，常与「で」、「に」、「の」等助词连用，表示时间状语或修饰名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2359,
+  "word" : "一石二鳥",
+  "reading" : "いっせきにちょう",
+  "romaji" : null,
+  "meaning" : [ "一石二鸟，一举两得，一箭双雕" ],
+  "notes" : [ "源自中文成语“一石二鸟”，意思与中文相同。常用来形容一个行动带来两种好处的情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2360,
+  "word" : "一種",
+  "reading" : "いっしゅ",
+  "romaji" : null,
+  "meaning" : [ "1. 一种，一个种类 2. 某种，稍许，一点儿" ],
+  "notes" : [ "作为副词使用时（意为“某种，稍许”），常以「一種の」的形式出现，修饰名词。例如：「一種の不安を感じる」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2361,
+  "word" : "一筋",
+  "reading" : "ひとすじ",
+  "romaji" : null,
+  "meaning" : [ "一条，一根；一心一意，专注" ],
+  "notes" : [ "「一筋」作为名词使用，形容事物单一或人的专注。常以「～一筋」的形式使用，如「仕事一筋」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2362,
+  "word" : "一类形容词+名词",
+  "reading" : "いちるいけいようし＋めいし",
+  "romaji" : null,
+  "meaning" : [ "い形容词修饰名词（作定语）时，其基本形（即词干+い）直接后续名词，无需任何助词。" ],
+  "notes" : [ "这是日语形容词最基本的语法功能之一。注意与二类形容词（な形容词）修饰名词时需要加な的区别。" ],
+  "pos" : "GRAMMAR",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2363,
+  "word" : "一类形容词（イ形容词）谓语形式的简体形",
+  "reading" : "いちるいけいようし じゅつごけいの かんたいけい",
+  "romaji" : null,
+  "meaning" : [ "表示一类形容词（イ形容词）在简体句（普通体）中作谓语时的四种基本形态：肯定现在时（い）、否定现在时（くない）、肯定过去时（かった）、否定过去时（くなかった）。" ],
+  "notes" : [ "这是日语一类形容词（イ形容词）最核心的活用变化，用于简体句（普通体）。敬体形（です形）为：面白いです、面白くないです／面白くありません、面白かったです、面白くなかったです／面白くありませんでした。" ],
+  "pos" : "GRAMMAR",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2364,
+  "word" : "一緒",
+  "reading" : "いっしょ",
+  "romaji" : null,
+  "meaning" : [ "一起，一同，共同；一样，相同" ],
+  "notes" : [ "常用表达为「一緒に」，作为副词使用，意为“一起”。也可作名词或形容动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2365,
+  "word" : "一致",
+  "reading" : "いっち",
+  "romaji" : null,
+  "meaning" : [ "一致；相符；相同；统一" ],
+  "notes" : [ "虽然作为动词使用时是サ变动词（一致する），但更常见的是作为名词使用。在JLPT考试中，通常以名词或サ变动词的形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2366,
+  "word" : "一般",
+  "reading" : "いっぱん",
+  "romaji" : null,
+  "meaning" : [ "一般；普通；普遍；大众；通常" ],
+  "notes" : [ "作为名词或“の形容词”使用。当作为“の形容词”修饰名词时，使用“一般の + 名词”或“一般的な + 名词”的形式。“一般的（いっぱんてき）”是其派生出的な形容词形式，含义相近，有时可互换，但“一般的”更侧重于“具有普遍性、代表性”这一性质。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2367,
+  "word" : "一般的",
+  "reading" : "いっぱんてき",
+  "romaji" : null,
+  "meaning" : [ "普通的，一般的，普遍的，大众的" ],
+  "notes" : [ "这是一个连体词，也可以作为形容动词（な形容词）使用。表示事物具有普遍性，不特殊。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2368,
+  "word" : "一色",
+  "reading" : "いっしょく",
+  "romaji" : null,
+  "meaning" : [ "清一色；全都；单一色调；单一颜色" ],
+  "notes" : [ "「一色」作为“清一色；全都”的意思使用时是名词，常以「～一色」的形式表示“完全被...所笼罩”、“全都是...”的状态。它也可以表示字面意义上的“单一颜色”。作为名词，没有活用变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2369,
+  "word" : "一衣帯水",
+  "reading" : "いちいたいすい",
+  "romaji" : null,
+  "meaning" : [ "一衣帯水。一筋の帯のように細くて狭い川や海峡。非常に狭い水域を隔てて隣り合っていること。地理的に非常に近く、関係が密接であることを表す。" ],
+  "notes" : [ "四字熟語。中国の故事に由来する。通常は「一衣帯水の隣国」のように用いられる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2370,
+  "word" : "一見",
+  "reading" : "いっけん",
+  "romaji" : null,
+  "meaning" : [ "1. 一眼、一见、看一眼。 2. 初次见面。 3. 乍一看、初看之下。" ],
+  "notes" : [ "作为名词和サ变动词使用。常用短语「一見（して）…のように見える」表示“乍一看好像…”。在表示“（值得）一看”时，常以「一見の価値がある」的形式出现。表示“初次见面的人”时，常以「一見さん」的形式出现，如店铺告示「一見さんお断り」（生客恕不接待）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2371,
+  "word" : "一覧",
+  "reading" : "いちらん",
+  "romaji" : null,
+  "meaning" : [ "一览表，便览；一览，一看" ],
+  "notes" : [ "作为名词使用，常与助词「を」或「に」搭配，构成动词短语「一覧する」时意为“一览，浏览”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2372,
+  "word" : "一言",
+  "reading" : "ひとこと",
+  "romaji" : null,
+  "meaning" : [ "一句话，只言片语；简短的发言" ],
+  "notes" : [ "可作为复合词使用，如：一言多い（说话多嘴，失言）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2373,
+  "word" : "一貫",
+  "reading" : "いっかん",
+  "romaji" : null,
+  "meaning" : [ "1. 一つに通して、つらぬくこと。また、方針や態度などを最初から最後まで変えないこと。\n2. 一つの物事を首尾一貫して行うこと。" ],
+  "notes" : [ "「一貫」は、名詞としても、また「一貫する」というサ変動詞としても使用される。日常会話よりも、やや硬い文章や公式な場面で使われることが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2374,
+  "word" : "一転",
+  "reading" : "いってん",
+  "romaji" : null,
+  "meaning" : [ "状況や様子が急に、大きく変わること。" ],
+  "notes" : [ "「一転」は主に名詞として使われ、「一転する」の形でサ変動詞としても使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2375,
+  "word" : "一途",
+  "reading" : "いちず",
+  "romaji" : null,
+  "meaning" : [ "1. 唯一の方向、目的。2. 一つのことに集中するさま。3. 一筋。" ],
+  "notes" : [ "「いっと」と読むこともあるが、現代では「いちず」が一般的。形容動詞として「一途な」の形で用いられることが多い。元々の漢字表記は「一途」だが、「一図」「一筋」と書かれることもある。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2376,
+  "word" : "一通り",
+  "reading" : "ひととおり",
+  "romaji" : null,
+  "meaning" : [ "① 大まかに、一通り。② 一とおり、普通。" ],
+  "notes" : [ "「ひととおり」が一般的な読み。「一通り」は「ひと通り」とも表記される。意味①は「大まかに、ざっと」、意味②は「普通に、一通りの」というニュアンス。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2377,
+  "word" : "一連",
+  "reading" : "いちれん",
+  "romaji" : null,
+  "meaning" : [ "一连串，一系列" ],
+  "notes" : [ "通常作为名词使用，表示连续发生的事物或一系列相关的事物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2378,
+  "word" : "一遍",
+  "reading" : "いっぺん",
+  "romaji" : null,
+  "meaning" : [ "一次，一回，一遍" ],
+  "notes" : [ "「一遍」也可写作「一変」，但作为“一次”解时通常写作「一遍」。常与其他词语结合使用，如「一遍に」（一下子，一次性地）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2379,
+  "word" : "一部",
+  "reading" : "いちぶ",
+  "romaji" : null,
+  "meaning" : [ "一部分，部分；一套，一册（书、杂志等）" ],
+  "notes" : [ "作为名词使用，表示整体中的一部分，或者书刊等的一个部分、一册。读音和汉字都是固定形式，没有活用变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2380,
+  "word" : "一面",
+  "reading" : "いちめん",
+  "romaji" : null,
+  "meaning" : [ "①一面，表面。②全体，整个。③（事物的）另一面，另一方面。" ],
+  "notes" : [ "①用于表示某个表面或外观。②用于表示广阔的范围或整体景象。③用于表示事物单方面的、不全面的观点或性质。作为名词使用，无活用变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2381,
+  "word" : "丁寧",
+  "reading" : "ていねい",
+  "romaji" : null,
+  "meaning" : [ "礼貌，恭敬；认真，细心，周到" ],
+  "notes" : [ "「丁寧」是形容动词（ナ形容词），其连体形为「丁寧な」，连用形为「丁寧に」。在日语能力考试中，通常被归类为N4级别。其反义词可以是「失礼（しつれい）」、「ぞんざい」等。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2382,
+  "word" : "丁寧に",
+  "reading" : "ていねいに",
+  "romaji" : null,
+  "meaning" : [ "恭敬地；有礼貌地；细心地；周到地" ],
+  "notes" : [ "「丁寧に」是由形容动词「丁寧だ」的连用形「丁寧に」转化而来的副词。在表示“细心、周到”的含义时，有时也使用「丁寧な」修饰名词，如「丁寧な仕事」。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2383,
+  "word" : "七つ",
+  "reading" : "ななつ",
+  "romaji" : null,
+  "meaning" : [ "七个；七岁" ],
+  "notes" : [ "「七つ」是日语中表示数量7的传统说法，属于“和語”数词，用于计数物品，也可表示年龄。在计数年龄时，通常用于儿童。现代日语中，计数物品时也常用「七個（ななこ）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2384,
+  "word" : "七光り",
+  "reading" : "ななひかり",
+  "romaji" : null,
+  "meaning" : [ "凭借父母、亲属等有权势者的威名或影响力而获得利益或受到特殊照顾。" ],
+  "notes" : [ "通常用于描述因他人（特别是长辈）的权势而受益的情况，带有一定的贬义色彩，暗示个人能力不足。也写作“親の七光り”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2385,
+  "word" : "七転び八起き",
+  "reading" : "ななころびやおき",
+  "romaji" : null,
+  "meaning" : [ "【惯用语】七颠八起。比喻人生中屡遭挫折（七転び）却总能重新振作（八起き），不屈不挠，坚持到底。" ],
+  "notes" : [ "字面直译为“跌倒七次，起来八次”。这是一个惯用语，不是动词，因此没有活用变化。常用于鼓励人不要因失败而气馁。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2386,
+  "word" : "七（しち/なな）",
+  "reading" : "しち/なな",
+  "romaji" : null,
+  "meaning" : [ "数字的7。" ],
+  "notes" : [ "“しち”和“なな”都是数字7的读音，具体使用取决于搭配的词语和语境。通常，在数数、读电话号码等独立使用时多用“なな”，在“七時（しちじ）”等固定搭配中则用“しち”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2387,
+  "word" : "万",
+  "reading" : "まん",
+  "romaji" : null,
+  "meaning" : [ "一万；一万的数量；非常多，大量" ],
+  "notes" : [ "作为数词时，表示“一万”。也常用于表示数量极多，如“万全”、“万歳”。在“万が一”等固定表达中，表示“万一”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2388,
+  "word" : "万が一",
+  "reading" : "まんがいち",
+  "romaji" : null,
+  "meaning" : [ "万一，倘若，假如。表示可能性极低但万一发生的情况。" ],
+  "notes" : [ "作为副词使用时，常与「たら」、「ば」、「でも」等条件表达形式呼应。作为名词使用时，常以「万が一の」的形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2389,
+  "word" : "万一",
+  "reading" : "まんいち",
+  "romaji" : null,
+  "meaning" : [ "1. 万分之一。2. 意外，万一（的情况）。" ],
+  "notes" : [ "作为副词使用时，通常用「万が一（まんがいち）」的形式，如例句2所示。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2390,
+  "word" : "万事",
+  "reading" : "ばんじ",
+  "romaji" : null,
+  "meaning" : [ "万事，一切事物，所有的事情" ],
+  "notes" : [ "这是一个名词，常用于惯用表达，如「万事休す」（万事休矣，一切完蛋）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2391,
+  "word" : "万全",
+  "reading" : "ばんぜん",
+  "romaji" : null,
+  "meaning" : [ "万无一失，万全，准备周全，毫无疏漏" ],
+  "notes" : [ "常用搭配：万全の策、万全を期す。常以「万全の」的形式修饰名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2392,
+  "word" : "万博",
+  "reading" : "ばんぱく",
+  "romaji" : null,
+  "meaning" : [ "万国博覧会（万国博览会）的简称。即世博会。" ],
+  "notes" : [ "「万博」是「万国博覧会」的通用简称。在日语中，该词通常不标注音调（平板型），但有时也会听到头高型（ばんぱく0）的读法。作为专有名词，有时会写作「万国博」。难度级别N3是合适的。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2393,
+  "word" : "万引き",
+  "reading" : "まんびき",
+  "romaji" : null,
+  "meaning" : [ "在商店、超市等场所偷窃商品的行为。" ],
+  "notes" : [ "「万引き」本身是名词，但常作为サ变动词使用，即「万引きする」。它特指在零售店铺内进行的偷窃行为，区别于其他类型的盗窃。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2394,
+  "word" : "万有引力の法則",
+  "reading" : "ばんゆういんりょくのほうそく",
+  "romaji" : null,
+  "meaning" : [ "万有引力定律。指任何两个质点都存在通过其连心线方向上的相互吸引的力。" ],
+  "notes" : [ "这是一个由名词构成的复合名词，在物理学中是一个非常重要的基本定律。通常读作「ばんゆういんりょくのほうそく」，数字音调标记（如“5”、“0”）在标准数据表示中通常省略或使用其他标注体系，此处已修正为无数字的平文标注。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2395,
+  "word" : "万能",
+  "reading" : "ばんのう",
+  "romaji" : null,
+  "meaning" : [ "全能，无所不能；多用途，通用" ],
+  "notes" : [ "形容动词用法是「万能な」。作为名词，在表示“多用途”时，常以「万能～」的形式构成复合词，如「万能ナイフ（万能小刀）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2396,
+  "word" : "丈",
+  "reading" : "たけ",
+  "romaji" : null,
+  "meaning" : [ "长度；高度；身材；身高；（物品的）尺寸，长短" ],
+  "notes" : [ "通常作为名词使用，表示长度、高度或身材。有时也作为接尾词使用，如「身丈（みたけ）」。在表示“身高”时，常用「身の丈」或「身丈」的形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2397,
+  "word" : "丈夫",
+  "reading" : "じょうぶ",
+  "romaji" : null,
+  "meaning" : [ "（身体、健康などが）丈夫な、健康的な；（物、構造などが）丈夫な、頑丈な、壊れにくい" ],
+  "notes" : [ "主に「丈夫な」の形で使う形容動詞（な形容詞）です。漢語由来ですが、名詞としての用法（夫のこと）は現代日本語の日常会話ではほぼ使われません。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2398,
+  "word" : "三",
+  "reading" : "さん、み",
+  "romaji" : null,
+  "meaning" : [ "1. (数字) 三，三个。2. (在复合词中) 第三。" ],
+  "notes" : [ "\"さん\"是音读，用于计数和大多数复合词。\"み\"是训读，常用于固定搭配，如\"三つ\"（みっつ）或\"三日月\"（みかづき）。作为数字，属于最基础词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2399,
+  "word" : "三つ",
+  "reading" : "みっつ",
+  "romaji" : null,
+  "meaning" : [ "三个；三岁" ],
+  "notes" : [ "是数量词（助数詞）的一种，属于训读。用于计数物品或年龄。在计数时，\"三つ\"后面通常不需要加量词。作为年龄使用时，意思是三岁。" ],
+  "pos" : "PRON",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2400,
+  "word" : "三味線",
+  "reading" : "しゃみせん",
+  "romaji" : null,
+  "meaning" : [ "三味线，日本的一种三弦拨奏乐器。琴身通常由猫皮或狗皮蒙制，琴杆细长，是日本传统音乐（如歌舞伎、民谣、长呗）中的重要乐器。" ],
+  "notes" : [ "「三味」的读音为「しゃみ」，是「しゃみせん」的惯用读法，并非音读。在正式分类中，它属于弦乐器，但词汇条目中作为普通名词处理。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

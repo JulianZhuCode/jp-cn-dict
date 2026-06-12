@@ -1,0 +1,901 @@
+[ {
+  "id" : 8801,
+  "word" : "祖先",
+  "reading" : "そせん",
+  "romaji" : null,
+  "meaning" : [ "自己の血筋の前代にいた人々。先祖。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8802,
+  "word" : "祖母",
+  "reading" : "そぼ",
+  "romaji" : null,
+  "meaning" : [ "祖母；外祖母。即父亲的母亲或母亲的母亲" ],
+  "notes" : [ "在日语中，祖父（おじいさん）指父亲的父亲，おばあさん指祖母或外祖母。需要注意区分与其他亲属词汇的不同。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8803,
+  "word" : "祖父",
+  "reading" : "そふ",
+  "romaji" : null,
+  "meaning" : [ "祖父；外祖父" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8804,
+  "word" : "祝う",
+  "reading" : "いわう",
+  "romaji" : null,
+  "meaning" : [ "祝贺，庆祝；祝福，祝愿" ],
+  "notes" : [ "该词为他动词，常用表达如「～を祝う」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8805,
+  "word" : "祝う",
+  "reading" : "いわう",
+  "romaji" : null,
+  "meaning" : [ "庆祝；祝贺；祝愿；祝福" ],
+  "notes" : [ "该词为他动词，常用来表示对某个事件、场合或人的庆祝、祝贺等行为。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8806,
+  "word" : "祝日",
+  "reading" : "しゅくじつ",
+  "romaji" : null,
+  "meaning" : [ "节日，法定假日" ],
+  "notes" : [ "祝日は国や地域によって定められた休日です。（祝日是根据国家或地区规定的休息日。）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8807,
+  "word" : "祝賀",
+  "reading" : "しゅくが",
+  "romaji" : null,
+  "meaning" : [ "祝贺，庆贺。对喜事表示庆祝、道贺。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8808,
+  "word" : "神",
+  "reading" : "かみ",
+  "romaji" : null,
+  "meaning" : [ "神；上帝；神灵；极受崇敬的人；极好的事物等" ],
+  "notes" : [ "该词较为常用，在宗教、神话等语境中表示神灵，也可用于比喻等情况" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8809,
+  "word" : "神前結婚式",
+  "reading" : "しんぜんけっこんしき",
+  "romaji" : null,
+  "meaning" : [ "在神社神前举行的传统结婚仪式" ],
+  "notes" : [ "神前結婚式は、日本の伝統的な結婚式の一つです。神社の境内で神官によって行われ、神様に誓いを立てる意味があります。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8810,
+  "word" : "神社",
+  "reading" : "じんじゃ",
+  "romaji" : null,
+  "meaning" : [ "供奉神灵的场所，日本传统宗教设施。" ],
+  "notes" : [ "在日本文化中，神社是人们进行祭祀、参拜等宗教活动的重要场所。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8811,
+  "word" : "神秘",
+  "reading" : "しんぴ",
+  "romaji" : null,
+  "meaning" : [ "难以理解、不可思议、带有神秘色彩的事物或状态" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8812,
+  "word" : "神経",
+  "reading" : "しんけい",
+  "romaji" : null,
+  "meaning" : [ "神经；感觉，感受；精神状态，情绪；神经过敏，神经质" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8813,
+  "word" : "神経痛",
+  "reading" : "しんけいつう",
+  "romaji" : null,
+  "meaning" : [ "因神经受刺激或发生病变而引起的疼痛。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8814,
+  "word" : "神経質",
+  "reading" : "しんけいしつ",
+  "romaji" : null,
+  "meaning" : [ "神经质；过于在意细节，容易担心；神经过敏；易兴奋的；性情过敏的" ],
+  "notes" : [ "形容动词，词干为「神経質」，词尾为「だ」，在句中可作谓语、定语、状语等。例如：神経質な人（神经质的人）；彼は神経質になっている。（他变得神经质了。）" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8815,
+  "word" : "神聖",
+  "reading" : "しんせい",
+  "romaji" : null,
+  "meaning" : [ "崇高で神に似た、また神に関係することを表す。神様に尊い、畏敬すべきであること。" ],
+  "notes" : [ "「神聖」は、神や宗教に関することを形容する際に用いられる言葉です。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8816,
+  "word" : "神話",
+  "reading" : "しんわ",
+  "romaji" : null,
+  "meaning" : [ "关于神的故事、传说；荒诞无稽的故事" ],
+  "notes" : [ "在日语中，“神話”通常指的是古代流传下来的关于神的故事或传说，也可引申为荒诞无稽的故事。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8817,
+  "word" : "祭り",
+  "reading" : "まつり",
+  "romaji" : null,
+  "meaning" : [ "节日、祭典、庙会。指在特定时间举行的，具有庆祝、祭祀等多种意义的活动，通常伴有各种表演、游乐设施、美食摊位等。" ],
+  "notes" : [ "是较为常用的表示节日的词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8818,
+  "word" : "祭る",
+  "reading" : "まつる",
+  "romaji" : null,
+  "meaning" : [ "1. 祭祀，祭神；2. 举行节日活动；3. 炫耀，卖弄；4. 把（感情、精力等）倾注于……" ],
+  "notes" : [ "该词为他动词，其对象通常用助词「を」表示。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8819,
+  "word" : "禁じる",
+  "reading" : "きんじる",
+  "romaji" : null,
+  "meaning" : [ "禁止，不允许；严禁，杜绝；抑制，克制" ],
+  "notes" : [ "表示禁止某人做某事时，常用「～に～を禁じる」的形式。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8820,
+  "word" : "禁止",
+  "reading" : "きんし",
+  "romaji" : null,
+  "meaning" : [ "ある行為や物を許さないこと。制限すること。" ],
+  "notes" : [ "他动词" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8821,
+  "word" : "禁煙",
+  "reading" : "きんえん",
+  "romaji" : null,
+  "meaning" : [ "禁止吸烟；戒烟" ],
+  "notes" : [ "「禁煙」は、「煙草を吸うことを禁止する」ことや、「煙草を吸わないようにする」ことを意味します。サ变动词で、基本形は「禁煙する」です。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8822,
+  "word" : "禁煙席",
+  "reading" : "きんえんせき",
+  "romaji" : null,
+  "meaning" : [ "无烟席，禁烟席，在公共场合等禁止吸烟的区域" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8823,
+  "word" : "禁物",
+  "reading" : "きんもつ",
+  "romaji" : null,
+  "meaning" : [ "严禁的事物；切忌的事物。通常指被禁止、不被允许的东西。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8824,
+  "word" : "福祉",
+  "reading" : "ふくし",
+  "romaji" : null,
+  "meaning" : [ "幸福、福利、福祉。指个人或社会所享有的各种利益和保障，包括物质生活、精神生活、社会环境等方面的良好状态。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8825,
+  "word" : "禿げる",
+  "reading" : "はげる",
+  "romaji" : null,
+  "meaning" : [ "头发脱落；毛发、草木等变秃；失去光泽；（物体表面）磨损、剥落" ],
+  "notes" : [ "「禿げる」主要用于描述头发、毛发等自然脱落的状态，也可用于比喻草木枯萎或物体表面磨损的情况。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8826,
+  "word" : "秀でる",
+  "reading" : "ひでる",
+  "romaji" : null,
+  "meaning" : [ "优秀，卓越；擅长，突出；出众，超群" ],
+  "notes" : [ "表示在某个方面表现出色、突出" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8827,
+  "word" : "私",
+  "reading" : "わたし",
+  "romaji" : null,
+  "meaning" : [ "我（用于第一人称，较为口语化）；自己；个人" ],
+  "notes" : [ "常见的第一人称代词，使用场景较为广泛" ],
+  "pos" : "PRON",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8828,
+  "word" : "私ども",
+  "reading" : "わたしども",
+  "romaji" : null,
+  "meaning" : [ "我们（用于比较郑重或书面的场合）" ],
+  "notes" : [ "" ],
+  "pos" : "PRON",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8829,
+  "word" : "私事",
+  "reading" : "しじ",
+  "romaji" : null,
+  "meaning" : [ "个人的な事柄。自分自身に関すること。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8830,
+  "word" : "私情",
+  "reading" : "しじょう",
+  "romaji" : null,
+  "meaning" : [ "个人感情；私心。指偏向于个人的情感、想法，而非基于公正、客观的立场。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8831,
+  "word" : "私物",
+  "reading" : "しもの",
+  "romaji" : null,
+  "meaning" : [ "个人所有物；私人物品" ],
+  "notes" : [ "较为基础的词汇，在日常生活中常用以指代个人拥有的物品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8832,
+  "word" : "私立",
+  "reading" : "しりつ",
+  "romaji" : null,
+  "meaning" : [ "私人设立的；私立的。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8833,
+  "word" : "私鉄",
+  "reading" : "してつ0",
+  "romaji" : null,
+  "meaning" : [ "私营铁路。由私人或民间企业经营的铁路。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8834,
+  "word" : "秋",
+  "reading" : "あき",
+  "romaji" : null,
+  "meaning" : [ "一年中的第三季，介于夏季和冬季之间，气候渐凉，树叶变色等。" ],
+  "notes" : [ "该词为日语中的常用词汇，在描述季节、时间等场景中经常使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8835,
+  "word" : "秋晴れ",
+  "reading" : "あきばれ",
+  "romaji" : null,
+  "meaning" : [ "秋天晴朗的天气" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8836,
+  "word" : "秋月",
+  "reading" : "あきづき",
+  "romaji" : null,
+  "meaning" : [ "秋天的月亮" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8837,
+  "word" : "科学",
+  "reading" : "かがく",
+  "romaji" : null,
+  "meaning" : [ "关于自然、社会、思维等的知识体系，通过系统的观察、实验、研究等方法获取，并用于解释现象、预测未来和改善生活。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8838,
+  "word" : "科学技術",
+  "reading" : "かがくぎじゅつ",
+  "romaji" : null,
+  "meaning" : [ "科学技术，科技。指科学和技术的总称，涵盖了自然科学、工程技术等多个领域的知识和方法，用于推动社会发展和改善人们生活。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8839,
+  "word" : "科学者",
+  "reading" : "かがくしゃ",
+  "romaji" : null,
+  "meaning" : [ "科学家" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8840,
+  "word" : "科目",
+  "reading" : "かもく",
+  "romaji" : null,
+  "meaning" : [ "学校で学ぶ学科や教科。また、試験などで評価される項目。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8841,
+  "word" : "秘める",
+  "reading" : "ひめる",
+  "romaji" : null,
+  "meaning" : [ "隐藏；隐瞒；珍藏。例えば、感情を秘める（隐藏感情）、秘密を秘める（隐瞒秘密）、思い出を心の中に秘める（把回忆珍藏在心中）。" ],
+  "notes" : [ "该词常用搭配有「秘める＋感情/秘密/思い出 など」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8842,
+  "word" : "秘密",
+  "reading" : "ひみつ",
+  "romaji" : null,
+  "meaning" : [ "名词，指不为人知的事情或信息。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8843,
+  "word" : "秘書",
+  "reading" : "ひしょ",
+  "romaji" : null,
+  "meaning" : [ "受雇于他人，协助处理事务、安排日程、整理资料等工作的人员。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8844,
+  "word" : "秘訣",
+  "reading" : "ひけつ",
+  "romaji" : null,
+  "meaning" : [ "秘诀；窍门；诀窍" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8845,
+  "word" : "秤",
+  "reading" : "はかり",
+  "romaji" : null,
+  "meaning" : [ "秤，天平；权衡，比较" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8846,
+  "word" : "秩序",
+  "reading" : "ちつじ",
+  "romaji" : null,
+  "meaning" : [ "有条理、不混乱的情况或状态，也指社会、团体等中规定的行为规范和顺序。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8847,
+  "word" : "称する",
+  "reading" : "と称する（としょうする）",
+  "romaji" : null,
+  "meaning" : [ "1. 叫做，称作；2. 号称，假称，冒充；3. 称赞，赞扬" ],
+  "notes" : [ "表示“叫做，称作”时，常用「Aと称する」的形式；表示“假称，冒充”时，也常用「Aと称する」的形式；表示“称赞”时，还可以用「称える」的形式，如「彼の行動を称える」（称赞他的行为）。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8848,
+  "word" : "移す",
+  "reading" : "うつす",
+  "romaji" : null,
+  "meaning" : [ "1. 移动，挪动，搬运。例：箱を部屋の隅からこっちに移す。（把箱子从房间角落搬到这边来。）2. 转移，转交。例：荷物を友達に移す。（把行李转交给朋友。）3. 改变，变更。例：住所を移す。（变更住址。）" ],
+  "notes" : [ "他动词，通常表示使物体从一个地方移动到另一个地方，或改变某种状态等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8849,
+  "word" : "移り変わる",
+  "reading" : "うつりかわる",
+  "romaji" : null,
+  "meaning" : [ "变迁，变化；转移，移动；交替，更迭" ],
+  "notes" : [ "表示事物随着时间等发生变化、转移等意思。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8850,
+  "word" : "移る",
+  "reading" : "うつる",
+  "romaji" : null,
+  "meaning" : [ "转移，移动；转变，变化；迁移，搬家。" ],
+  "notes" : [ "该词作为自动词，强调主体自身的移动或变化。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8851,
+  "word" : "移住",
+  "reading" : "いじゅう",
+  "romaji" : null,
+  "meaning" : [ "移居，迁移居住的地方，不限于国外，也可指在国内从一个地方搬到另一个地方居住。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8852,
+  "word" : "移住",
+  "reading" : "いじゅう",
+  "romaji" : null,
+  "meaning" : [ "从一个地方搬到另一个地方长期居住；移居" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8853,
+  "word" : "移動",
+  "reading" : "いどう",
+  "romaji" : null,
+  "meaning" : [ "物体从一个地方移动到另一个地方。" ],
+  "notes" : [ "该词作为动词时，形式为「移動する」，读音为「いどうする」，属于サ变动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8854,
+  "word" : "移植",
+  "reading" : "いしょく",
+  "romaji" : null,
+  "meaning" : [ "1. 生物の器官や組織などを他の生物に移植すること。2. 植物を他の土地に移し植えること。" ],
+  "notes" : [ "「移植」は、医学や農業など様々な分野で用いられる言葉です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8855,
+  "word" : "移民",
+  "reading" : "いみん",
+  "romaji" : null,
+  "meaning" : [ "从一个国家或地区迁移到另一个国家或地区并定居的人；移居，迁移（动词形式：人がある国や地域から別の国や地域に移り住むこと）" ],
+  "notes" : [ "作为名词时指移民者，作为动词时表示移民这个行为" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8856,
+  "word" : "移籍",
+  "reading" : "いせき",
+  "romaji" : null,
+  "meaning" : [ "1. 户籍を移すこと。2. 所属する組織や所属地を変えること。特に、スポーツ選手が所属するクラブやチームを変えること。" ],
+  "notes" : [ "「移籍」は、基本的には「籍を移す」ことを意味し、これがサ变动词としての活用の由来です。現代では、組織や所属地の変更を広く指すことが多くなっています。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8857,
+  "word" : "移転",
+  "reading" : "いてん",
+  "romaji" : null,
+  "meaning" : [ "迁移，搬家；转移；转变；调动（工作等）" ],
+  "notes" : [ "作为名词使用时，指移动、转移等行为或状态；作为サ变动词使用时，常见用法如「～を移転する」表示进行转移等动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8858,
+  "word" : "稀",
+  "reading" : "まれ",
+  "romaji" : null,
+  "meaning" : [ "稀罕的，稀奇的，稀少的；罕见的；不常有的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8859,
+  "word" : "程度",
+  "reading" : "ていど",
+  "romaji" : null,
+  "meaning" : [ "事物达到的状况或水平；限度；范围等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8860,
+  "word" : "税率",
+  "reading" : "ぜいりつ",
+  "romaji" : null,
+  "meaning" : [ "课税する际に、课税対象の金额や数量などに対して课される税金の割合。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8861,
+  "word" : "税込み",
+  "reading" : "ぜいこみ",
+  "romaji" : null,
+  "meaning" : [ "含税价格，指包含税金在内的价格" ],
+  "notes" : [ "用于表示商品或服务的价格是包含税金的总额" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8862,
+  "word" : "税金",
+  "reading" : "ぜいきん",
+  "romaji" : null,
+  "meaning" : [ "国家や地方自治体が、国民や法人に対して課して収入としてとる金額。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8863,
+  "word" : "税関",
+  "reading" : "ぜいかん",
+  "romaji" : null,
+  "meaning" : [ "海关；关卡。指对进出口货物及物品征收关税和进行监管的机关场所。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8864,
+  "word" : "種",
+  "reading" : "たね",
+  "romaji" : null,
+  "meaning" : [ "种子；种类；人种等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8865,
+  "word" : "種々",
+  "reading" : "しゅしゅ",
+  "romaji" : null,
+  "meaning" : [ "各种各样，形形色色" ],
+  "notes" : [ "形容动词，常与「の」搭配使用，修饰名词" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8866,
+  "word" : "種類",
+  "reading" : "しゅるい",
+  "romaji" : null,
+  "meaning" : [ "事物按照其共通的性质、特征等所划分的类别。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8867,
+  "word" : "稲",
+  "reading" : "いね",
+  "romaji" : null,
+  "meaning" : [ "稻子，水稻。指一种谷类作物，去壳后称大米。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8868,
+  "word" : "稲作",
+  "reading" : "いなさく",
+  "romaji" : null,
+  "meaning" : [ "种稻；稻子的种植和收成" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8869,
+  "word" : "稲光",
+  "reading" : "いなびかり",
+  "romaji" : null,
+  "meaning" : [ "闪电" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8870,
+  "word" : "稲妻",
+  "reading" : "いなづま",
+  "romaji" : null,
+  "meaning" : [ "闪电；比喻速度极快，像闪电一样" ],
+  "notes" : [ "稲妻一般指闪电。当用于形容速度时，常以「稲妻のように」的形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8871,
+  "word" : "稼ぐ",
+  "reading" : "かせぐ",
+  "romaji" : null,
+  "meaning" : [ "挣钱，赚钱；工作；努力取得；收获" ],
+  "notes" : [ "“稼ぐ”常见的意思是挣钱、赚钱，也可引申为工作、努力获得成果、收获等意思。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8872,
+  "word" : "稼ぐ",
+  "reading" : "かせぐ",
+  "romaji" : null,
+  "meaning" : [ "1. 赚钱，挣钱。2. 努力工作，劳动。3. 获得，得到（经验、成果等）。" ],
+  "notes" : [ "该词常用的搭配如「稼ぐ金」（挣的钱） 「稼ぐ時間」（工作的时间）等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8873,
+  "word" : "稼働/稼動",
+  "reading" : "かどう",
+  "romaji" : null,
+  "meaning" : [ "（人が）働く、仕事をする；（機械などが）運転する、作動する" ],
+  "notes" : [ "「稼働」と「稼動」は同じ意味で、「稼働」の方が一般的。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8874,
+  "word" : "稽古",
+  "reading" : "けいこ",
+  "romaji" : null,
+  "meaning" : [ "练习；学习；排练。通过反复实践来掌握某种技能、知识或技艺等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8875,
+  "word" : "穀物",
+  "reading" : "こくもの",
+  "romaji" : null,
+  "meaning" : [ "谷物，粮食；谷类植物的种子。" ],
+  "notes" : [ "「穀物」は農作物の一つで、主食として重要な役割を果たしています。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8876,
+  "word" : "積み上げる",
+  "reading" : "つみあげる",
+  "romaji" : null,
+  "meaning" : [ "堆积；积累；堆叠；装满。表示将物品逐个或逐批地往上堆放，使其形成一定的高度或数量；也可用于抽象意义，如积累经验、知识等。" ],
+  "notes" : [ "该词强调从下往上逐步增加的动作过程。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8877,
+  "word" : "積み重ねる",
+  "reading" : "つみかねる",
+  "romaji" : null,
+  "meaning" : [ "把……堆起来，垒起来；积累，积攒；持续重复做某事" ],
+  "notes" : [ "该词强调将多个物体一层一层地往上堆叠，或者在时间上不断积累某种事物。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8878,
+  "word" : "積む",
+  "reading" : "つむ",
+  "romaji" : null,
+  "meaning" : [ "1. 堆积，堆放；2. 装载；3. 积累，积攒；4. 担负，承担。" ],
+  "notes" : [ "该词为他动词，使用时需注意宾语的搭配。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8879,
+  "word" : "積もります",
+  "reading" : "つもります",
+  "romaji" : null,
+  "meaning" : [ "堆积；积攒；积累；积压" ],
+  "notes" : [ "该词以も结尾，属于一类动词的典型特征" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8880,
+  "word" : "積もる",
+  "reading" : "つもる",
+  "romaji" : null,
+  "meaning" : [ "1. 堆积，积聚。（物体が重なり合って高くなる。）例：雪が積もる。（雪堆积起来。）2. 积累，积攒。（時間や物資などをためる。）例：経験を積もる。（积累经验。）" ],
+  "notes" : [ "作为他动词时，常见用法如「積み重ねる」表示层层堆积等意思。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8881,
+  "word" : "積極的",
+  "reading" : "せっきょくてき",
+  "romaji" : null,
+  "meaning" : [ "积极主动，具有向前的态度和行动意愿。常用于描述人的行为、态度或性格等方面积极向上。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8882,
+  "word" : "穏やか",
+  "reading" : "おだやか（oda yaka）",
+  "romaji" : null,
+  "meaning" : [ "形容温顺、温和、平稳、平静的状态或性格。" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾要变成だ。如：この部屋は静かだ。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8883,
+  "word" : "穏和",
+  "reading" : "おんわ",
+  "romaji" : null,
+  "meaning" : [ "（气候）温和；（性格、态度等）稳重，平和，温和；（局势等）平稳，平静" ],
+  "notes" : [ "形容動詞で、語幹は「穏和」、語尾は「だ」である。連体形は「穏和な」、连用形は「穏和に」となる。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8884,
+  "word" : "穴",
+  "reading" : "あな",
+  "romaji" : null,
+  "meaning" : [ "洞；孔；穴；漏洞；缺陷" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8885,
+  "word" : "穴埋め",
+  "reading" : "あなうめ",
+  "romaji" : null,
+  "meaning" : [ "填坑；填补（空白），弥补；填补空缺职位等" ],
+  "notes" : [ "「穴埋め」は、「穴」を埋めることから、物事の欠けている部分を補うことを意味します。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8886,
+  "word" : "究める/窮める",
+  "reading" : "おさめる",
+  "romaji" : null,
+  "meaning" : [ "1. 钻研，探求；2. 追究，追查；3. 穷尽，用尽；4. 使……陷入困境" ],
+  "notes" : [ "「究める」和「窮める」读音相同，但意思有细微差别，使用时需注意语境。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8887,
+  "word" : "究明",
+  "reading" : "きゅうめい",
+  "romaji" : null,
+  "meaning" : [ "彻底调查、研究以弄清楚事情的真相、本质等" ],
+  "notes" : [ "该词常用于正式场合，强调深入探究。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8888,
+  "word" : "究極",
+  "reading" : "きゅうぎょく",
+  "romaji" : null,
+  "meaning" : [ "最终的、极限的、至极的状态或程度" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8889,
+  "word" : "空",
+  "reading" : "そら",
+  "romaji" : null,
+  "meaning" : [ "天空；空中；空间；空白；空缺；天气；气氛等" ],
+  "notes" : [ "较为基础常见的词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8890,
+  "word" : "空腹かす",
+  "reading" : "くうふくかす",
+  "romaji" : null,
+  "meaning" : [ "使肚子空，使空腹；饿肚子" ],
+  "notes" : [ "该词强调造成肚子空的状态或行为" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8891,
+  "word" : "空き",
+  "reading" : "あき",
+  "romaji" : null,
+  "meaning" : [ "空；空闲；空缺；间隙；空白处等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8892,
+  "word" : "空きます",
+  "reading" : "あきます",
+  "romaji" : null,
+  "meaning" : [ "空出来；有空闲时间" ],
+  "notes" : [ "该词表示空间或时间上有空余的状态" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8893,
+  "word" : "空き巣",
+  "reading" : "あきす",
+  "romaji" : null,
+  "meaning" : [ "无人居住的空房子；也指因子女长大离家等导致家中冷清的状态；还可引申为被盗的空房子（比如发生盗窃事件后屋内财物被洗劫一空的那种空屋情况）" ],
+  "notes" : [ "在表示被盗的空房子时，通常会说「空き巣事件」（入室盗窃事件）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8894,
+  "word" : "空き缶",
+  "reading" : "あきかん",
+  "romaji" : null,
+  "meaning" : [ "空罐子。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8895,
+  "word" : "空く",
+  "reading" : "あく",
+  "romaji" : null,
+  "meaning" : [ "有空隙，空旷；腾出空间；有空闲时间；（肚子）饿；（职位等）空缺" ],
+  "notes" : [ "该词为自动词，使用时需注意主语通常为表示空间、时间、容器等的名词" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8896,
+  "word" : "空ける",
+  "reading" : "あける",
+  "romaji" : null,
+  "meaning" : [ "腾出；空出；留出；使空；倒出；撤离；让开；空开（时间、空间等）；抽空（时间做某事）" ],
+  "notes" : [ "该词强调使某物或某地从有变为无，处于空的状态" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8897,
+  "word" : "空しい",
+  "reading" : "うつろい",
+  "romaji" : null,
+  "meaning" : [ "空虚的，空洞的；枉然的，徒然的；毫无结果的，徒劳无益的；心里没底的，不踏实的" ],
+  "notes" : [ "形容事物缺乏实质内容或价值，或表示努力没有得到预期结果等情况。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8898,
+  "word" : "空っぽ",
+  "reading" : "あきっぽ",
+  "romaji" : null,
+  "meaning" : [ "空的；空洞的；毫无内容的" ],
+  "notes" : [ "表示容器、空间等没有东西，或者表示人的头脑等缺乏实质内容" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8899,
+  "word" : "空席",
+  "reading" : "くうせき",
+  "romaji" : null,
+  "meaning" : [ "空着的座位，未被占用的席位" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8900,
+  "word" : "空想",
+  "reading" : "くそう",
+  "romaji" : null,
+  "meaning" : [ "空想、幻想。不切实际的想象。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

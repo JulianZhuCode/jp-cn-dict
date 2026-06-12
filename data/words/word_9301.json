@@ -1,0 +1,901 @@
+[ {
+  "id" : 9301,
+  "word" : "美術館",
+  "reading" : "びじゅつかん",
+  "romaji" : null,
+  "meaning" : [ "收藏、展示美术作品等以供公众观赏的场所" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9302,
+  "word" : "群がる",
+  "reading" : "むらがる",
+  "romaji" : null,
+  "meaning" : [ "聚集，聚拢；成群，蜂拥" ],
+  "notes" : [ "表示人或物聚集在一起形成群体的状态" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9303,
+  "word" : "群れ",
+  "reading" : "むれ",
+  "romaji" : null,
+  "meaning" : [ "群；聚集在一起的许多人或物；伙伴" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9304,
+  "word" : "群衆",
+  "reading" : "ぐんしゅう",
+  "romaji" : null,
+  "meaning" : [ "聚集在一起的众多的人；群众" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9305,
+  "word" : "群集",
+  "reading" : "ぐんしゅう",
+  "romaji" : null,
+  "meaning" : [ "人群；聚集，群集。指许多人聚集在一起形成的群体。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9306,
+  "word" : "羨む",
+  "reading" : "うらやむ",
+  "romaji" : null,
+  "meaning" : [ "羡慕，嫉妒；不甘心，觉得遗憾" ],
+  "notes" : [ "表示羡慕他人拥有的东西或境遇等，常用搭配如「～を羨む」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9307,
+  "word" : "義務",
+  "reading" : "ぎむ",
+  "romaji" : null,
+  "meaning" : [ "义务；责任。指个人或团体基于法律、道德、约定等所应尽的责任或必须做的事情。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9308,
+  "word" : "義理",
+  "reading" : "ぎり",
+  "romaji" : null,
+  "meaning" : [ "1. 情面，人情；出于情面不得不做的事。2. 道理，情理。3. 义理（如义父义母等亲戚关系中基于习俗或法律规定的关系）。" ],
+  "notes" : [ "在日语中，「義理」一词有多种含义，使用时需根据上下文准确理解。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9309,
+  "word" : "義理堅い",
+  "reading" : "ぎりがたい",
+  "romaji" : null,
+  "meaning" : [ "注重情义的，拘泥于人情世故的" ],
+  "notes" : [ "该词用于描述人在人情世故方面的态度和行为特点" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9310,
+  "word" : "羽",
+  "reading" : "はね",
+  "romaji" : null,
+  "meaning" : [ "羽毛；翅膀；（用于计算鸟类等的单位）只，个" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9311,
+  "word" : "翌年",
+  "reading" : "よくとし",
+  "romaji" : null,
+  "meaning" : [ "次年，下一年。指紧接今年的下一年。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9312,
+  "word" : "翌日",
+  "reading" : "よくじつ",
+  "romaji" : null,
+  "meaning" : [ "次日，第二天" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9313,
+  "word" : "翌朝",
+  "reading" : "よくあさ",
+  "romaji" : null,
+  "meaning" : [ "第二天早晨，次日早晨" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9314,
+  "word" : "習います",
+  "reading" : "ならいます（错误，应改为：ならびます）",
+  "romaji" : null,
+  "meaning" : [ "学习；练习" ],
+  "notes" : [ "该词为他动词，常用搭配如「～を習います」，表示学习某种技能、知识等" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9315,
+  "word" : "習う",
+  "reading" : "ならう",
+  "romaji" : null,
+  "meaning" : [ "学习，练习（某种技能）；效仿，模仿；跟……学习（知识、技能等）" ],
+  "notes" : [ "该词强调通过模仿、跟随他人等方式来获取技能或知识。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9316,
+  "word" : "習得",
+  "reading" : "しゅうとく",
+  "romaji" : null,
+  "meaning" : [ "通過学习、练习等方式掌握某种技能、知识、习惯等。" ],
+  "notes" : [ "该词常与技能、语言、习惯等搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9317,
+  "word" : "習性",
+  "reading" : "しゅうせい",
+  "romaji" : null,
+  "meaning" : [ "生物や人間が長期間にわたって身に付けた癖や習慣。また、ある特定の環境に適応して形成された特性。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9318,
+  "word" : "習慣",
+  "reading" : "しゅうかん",
+  "romaji" : null,
+  "meaning" : [ "习惯；风俗；惯例。指个人或社会长期形成的行为方式或传统做法。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9319,
+  "word" : "翻す",
+  "reading" : "ひるがえす",
+  "romaji" : null,
+  "meaning" : [ "翻转；翻动；推翻；改变；使……飘扬" ],
+  "notes" : [ "该词较为常用，注意其在不同语境中的准确含义。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9320,
+  "word" : "翻訳します",
+  "reading" : "ほんやくします",
+  "romaji" : null,
+  "meaning" : [ "翻译；笔译。指把一种语言文字的意义用另一种语言文字表达出来。" ],
+  "notes" : [ "该词为他动词，常与助词を搭配使用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9321,
+  "word" : "翼",
+  "reading" : "つばさ",
+  "romaji" : null,
+  "meaning" : [ "翅膀；机翼；（组织、团体等的）侧翼，方面；（事物的）一部分，分支；（在竞争、发展等中）起到的作用，影响力；（棒球、垒球等运动中的）外场位置；（在政治、社会等活动中）发挥作用的人或势力；（在某个领域中）具有代表性的事物或人物；（在某个特定环境中）具有特殊地位或作用的事物或人物；（在某个特定时期或阶段中）具有重要意义或影响的事物或人物；（在某个特定地区或范围内）具有广泛影响力或代表性的事物或人物；（在某个特定行业或领域中）具有领先地位或影响力的事物或人物；（在某个特定文化或传统中）具有独特象征意义或价值的事物或人物；（在某个特定历史事件或发展进程中）具有关键作用或影响力的事物或人物；（在某个特定技术或学科领域中）具有重要突破或创新意义的事物或人物；（在某个特定艺术或文学作品中）具有独特表现手法或象征意义的事物或人物；（在某个特定社会现象或问题中）具有代表性或典型性的事物或人物；（在某个特定人际关系或社交场合中）具有特殊地位或作用的事物或人物；（在某个特定经济领域或市场环境中）具有重要地位或影响力的事物或人物；（在某个特定教育领域或学术研究中）具有重要贡献或影响力的事物或人物；（在某个特定军事战略或战术中）具有关键作用或影响力的事物或人物；（在某个特定体育项目或比赛中）具有重要地位或影响力的事物或人物；（在某个特定科技成果或发明创造中）具有重要应用价值或影响力的事物或人物；（在某个特定文化活动或节日庆典中）具有独特象征意义或价值的事物或人物；（在某个特定历史建筑或古迹中）具有重要历史价值或象征意义的事物或人物；（在某个特定自然景观或地理区域中）具有独特自然风貌或象征意义的事物或人物；（在某个特定社会制度或政策体系中）具有重要地位或影响力的事物或人物；（在某个特定法律体系或法规条款中）具有关键作用或影响力的事物或人物；（在某个特定商业品牌或企业形象中）具有重要标识或象征意义的事物或人物；（在某个特定文化传统或风俗习惯中）具有独特传承价值或象征意义的事物或人物；（在某个特定历史时期或发展阶段中）具有重要文化价值或象征意义的事物或人物；（在某个特定艺术风格或流派中）具有独特表现形式或象征意义的事物或人物；（在某个特定文学体裁或作品类型中）具有重要文学价值或象征意义的事物或人物；（在某个特定社会群体或组织中）具有特殊地位或作用的事物或人物；（在某个特定经济模式或产业结构中）具有重要地位或影响力的事物或人物；（在某个特定教育模式或教学方法中）具有重要贡献或影响力的事物或人物；（在某个特定军事装备或武器系统中）具有关键作用或影响力的事物或人物；（在某个特定体育器材或装备中）具有重要地位或影响力的事物或人物；（在某个特定科技产品或设备中）具有重要应用价值或影响力的事物或人物；（在某个特定文化活动或艺术表演中）具有独特表现形式或象征意义的事物或人物；（在某个特定历史事件或发展进程中）具有重要历史价值或象征意义的事物或人物；（在某个特定自然现象或科学原理中）具有独特科学价值或象征意义的事物或人物；（在某个特定社会现象或问题中）具有代表性或典型性的事物或人物；（在某个特定人际关系或社交场合中）具有特殊地位或作用的事物或人物；（在某个特定经济领域或市场环境中）具有重要地位或影响力的事物或人物；（在某个特定教育领域或学术研究中）具有重要贡献或影响力的事物或人物；（在某个特定军事战略或战术中）具有关键作用或影响力的事物或人物；（在某个特定体育项目或比赛中）具有重要地位或影响力的事物或人物；（在某个特定科技成果或发明创造中）具有重要应用价值或影响力的事物或人物；（在某个特定文化活动或节日庆典中）具有独特象征意义或价值的事物或人物；（在某个特定历史建筑或古迹中）具有重要历史价值或象征意义的事物或人物；（在某个特定自然景观或地理区域中）具有独特自然风貌或象征意义的事物或人物；（在某个特定社会制度或政策体系中）具有重要地位或影响力的事物或人物；（在某个特定法律体系或法规条款中）具有关键作用或影响力的事物或人物；（在某个特定商业品牌或企业形象中）具有重要标识或象征意义的事物或人物；（在某个特定文化传统或风俗习惯中）具有独特传承价值或象征意义的事物或人物；（在某个特定历史时期或发展阶段中）具有重要文化价值或象征意义的事物或人物；（在某个特定艺术风格或流派中）具有独特表现形式或象征意义的事物或人物；（在某个特定文学体裁或作品类型中）具有重要文学价值或象征意义的事物或人物；（在某个特定社会群体或组织中）具有特殊地位或作用的事物或人物；（在某个特定经济模式或产业结构中）具有重要地位或影响力的事物或人物；（在某个特定教育模式或教学方法中）具有重要贡献或影响力的事物或人物；（在某个特定军事装备或武器系统中）具有关键作用或影响力的事物或人物；（在某个特定体育器材或装备中）具有重要地位或影响力的事物或人物；（在某个特定科技产品或设备中）具有重要应用价值或影响力的事物或人物；（在某个特定文化活动或艺术表演中）具有独特表现形式或象征意义的事物或人物；（在某个特定历史事件或发展进程中）具有重要历史价值或象征意义的事物或人物；（在某个特定自然现象或科学原理中）具有独特科学价值或象征意义的事物或人物" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9322,
+  "word" : "老いる",
+  "reading" : "おいる",
+  "romaji" : null,
+  "meaning" : [ "人が年をとって体が衰えること。また、物が古くなること。" ],
+  "notes" : [ "「老いる」は自動詞で、主語は人や物が多い。また、「老いる」は「おいる」と読み、一段活用の動詞である。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9323,
+  "word" : "老ける",
+  "reading" : "おとける",
+  "romaji" : null,
+  "meaning" : [ "人或事物随着时间的推移而逐渐变老、衰老，失去年轻时的活力和容貌等；也可用于比喻事物失去新鲜感、变得陈旧。" ],
+  "notes" : [ "常以「～に老ける」的形式，表示在某方面显得衰老，如「若さに老ける」（失去青春活力）" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9324,
+  "word" : "老け込む",
+  "reading" : "おとけこむ",
+  "romaji" : null,
+  "meaning" : [ "人が年をとって、外見や体調、精神面などが老化していく様子。特に、若さや活力が失われ、古びた雰囲気を帯びることを表す。" ],
+  "notes" : [ "「老ける」と比較して、「老け込む」はもっと強い意味を持ち、著しい老化を表す場合に使われることが多い。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9325,
+  "word" : "老人",
+  "reading" : "ろうじん",
+  "romaji" : null,
+  "meaning" : [ "老年人，老人" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9326,
+  "word" : "老化",
+  "reading" : "ろうか",
+  "romaji" : null,
+  "meaning" : [ "物体や生物が経年劣化し、性能や机能が低下すること。また、人の身体や精神が年をとって衰えること。" ],
+  "notes" : [ "「老化」は、主に物体や生物に対して使われる言葉です。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9327,
+  "word" : "老年",
+  "reading" : "ろうねん",
+  "romaji" : null,
+  "meaning" : [ "老年人的时期、晚年。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9328,
+  "word" : "老後",
+  "reading" : "ろうこう",
+  "romaji" : null,
+  "meaning" : [ "年老以后；晚年" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9329,
+  "word" : "老眼",
+  "reading" : "ろうがん",
+  "romaji" : null,
+  "meaning" : [ "老花眼。年纪大了而视力衰退的眼睛。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9330,
+  "word" : "老若男女",
+  "reading" : "ろうじゃくなんじょ",
+  "romaji" : null,
+  "meaning" : [ "泛指男女老少" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9331,
+  "word" : "老衰",
+  "reading" : "ろうすい",
+  "romaji" : null,
+  "meaning" : [ "衰老，年老体衰" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9332,
+  "word" : "考え",
+  "reading" : "かんがえ",
+  "romaji" : null,
+  "meaning" : [ "想法，思考，见解；考虑，打算" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9333,
+  "word" : "考えます",
+  "reading" : "かんがえます",
+  "romaji" : null,
+  "meaning" : [ "思考，想；考虑；认为" ],
+  "notes" : [ "该词为他动词，其对象一般用を表示" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9334,
+  "word" : "考える",
+  "reading" : "かんがえる",
+  "romaji" : null,
+  "meaning" : [ "思考，思索；考虑；打算；认为" ],
+  "notes" : [ "他动词，常表示主动地进行思考、考虑等行为。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9335,
+  "word" : "考え事",
+  "reading" : "かんがえこと",
+  "romaji" : null,
+  "meaning" : [ "思考的事情；心事，担忧的事" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9336,
+  "word" : "考え出す",
+  "reading" : "かんがえだす",
+  "romaji" : null,
+  "meaning" : [ "想出；想到；构思出；开始思考并想出（主意、办法等）" ],
+  "notes" : [ "该词强调通过思考得出某个具体的想法、主意、办法等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9337,
+  "word" : "考え直す",
+  "reading" : "かえりなおす",
+  "romaji" : null,
+  "meaning" : [ "重新考虑；重新思考；重新审视" ],
+  "notes" : [ "该词强调对已有的想法、观点等进行再次深入思考，以获得新的认识或结论。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9338,
+  "word" : "考慮",
+  "reading" : "こうりょ",
+  "romaji" : null,
+  "meaning" : [ "考慮，思考，斟酌。指对事情进行深入地思索、权衡各种因素后做出判断或决定。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9339,
+  "word" : "考査",
+  "reading" : "こうさ",
+  "romaji" : null,
+  "meaning" : [ "审查，审核；考查，测验" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9340,
+  "word" : "考案",
+  "reading" : "こうあん",
+  "romaji" : null,
+  "meaning" : [ "设计，构思，策划，想出" ],
+  "notes" : [ "「考案」は他动词で、物事を考えて工夫することを表す。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9341,
+  "word" : "者",
+  "reading" : "しゃ",
+  "romaji" : null,
+  "meaning" : [ "人；……的人；……者（表示从事某种职业、具有某种身份等）" ],
+  "notes" : [ "接在表示职业、身份等名词后构成新的名词，表示具有该职业或身份的人" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9342,
+  "word" : "耐える",
+  "reading" : "たえる",
+  "romaji" : null,
+  "meaning" : [ "他动词，意为承受、忍受、忍耐；自动词，意为经得起、耐得住、忍耐。" ],
+  "notes" : [ "作为他动词时，常与表示痛苦、困难等的名词搭配；作为自动词时，常与表示压力、考验等的名词搭配" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9343,
+  "word" : "耐久力",
+  "reading" : "たいきゅうりょく",
+  "romaji" : null,
+  "meaning" : [ "持久力；耐力" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9344,
+  "word" : "耕す",
+  "reading" : "たがやす",
+  "romaji" : null,
+  "meaning" : [ "用犁翻地；耕种；致力于，钻研" ],
+  "notes" : [ "该词较为书面，在日常口语中使用频率相对较低。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9345,
+  "word" : "耕作",
+  "reading" : "こうさく",
+  "romaji" : null,
+  "meaning" : [ "土地を耕して作物を植えること。また、その作業。" ],
+  "notes" : [ "「耕作」は、土地を耕すことを意味する名詞でもあり、他動詞として使われることもある。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9346,
+  "word" : "耳",
+  "reading" : "みみ",
+  "romaji" : null,
+  "meaning" : [ "耳朵" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9347,
+  "word" : "耳が遠い",
+  "reading" : "みみがとおい",
+  "romaji" : null,
+  "meaning" : [ "耳が遠いは、年を取ったり、特定の原因により、聞き取りが悪いことを表す慣用語です。" ],
+  "notes" : [ "この慣用語は、耳の機能が低下していることを表すのではなく、聞き取りに不注意や集中力が欠けていることを指します。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9348,
+  "word" : "耳にする",
+  "reading" : "みみにする",
+  "romaji" : null,
+  "meaning" : [ "听到；传入耳中；被某人听到。" ],
+  "notes" : [ "该词强调声音等进入耳朵这一动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9349,
+  "word" : "耳鼻科",
+  "reading" : "びじゅつか",
+  "romaji" : null,
+  "meaning" : [ "诊断、治疗耳、鼻、咽喉等疾病的科室。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9350,
+  "word" : "聞かせる",
+  "reading" : "きかせる",
+  "romaji" : null,
+  "meaning" : [ "让……听；给……讲；使……听见。表示有意识地让对方听到某种声音、话语等。" ],
+  "notes" : [ "该词是「聞く」的使役态形式。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9351,
+  "word" : "聞きます",
+  "reading" : "ききます",
+  "romaji" : null,
+  "meaning" : [ "询问；打听；听。例如：先生に質問を聞きます。（向老师提问。）；音楽を聞きます。（听音乐。）" ],
+  "notes" : [ "该词是动词ます型，常见用法是表示向他人询问信息或倾听声音等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9352,
+  "word" : "聞き上手",
+  "reading" : "ききじょうず",
+  "romaji" : null,
+  "meaning" : [ "善于倾听；擅长听取" ],
+  "notes" : [ "由动词「聞く」的连用形「聞き」加上形容动词词尾「上手」构成。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9353,
+  "word" : "聞き出す",
+  "reading" : "ききだす",
+  "romaji" : null,
+  "meaning" : [ "1. 打听出，探出；探出（消息等）；打听到；探出（情况等）。2. 开始听；开始倾听。" ],
+  "notes" : [ "该词强调通过各种方式去获取信息或开始进行听的动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9354,
+  "word" : "聞き取り",
+  "reading" : "ききとり",
+  "romaji" : null,
+  "meaning" : [ "听取；听懂；收听。指通过耳朵接收声音信息并理解其内容，也可表示收听广播、节目等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9355,
+  "word" : "聞き取る",
+  "reading" : "ききとる",
+  "romaji" : null,
+  "meaning" : [ "听见；听懂；听取；窃听" ],
+  "notes" : [ "表示‘窃听’之意时，是比较生僻的用法" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9356,
+  "word" : "聞き手",
+  "reading" : "ききて",
+  "romaji" : null,
+  "meaning" : [ "听者，听众；听话人" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9357,
+  "word" : "聞き直す",
+  "reading" : "ききなおす",
+  "romaji" : null,
+  "meaning" : [ "再次询问；重新听取；重新审视" ],
+  "notes" : [ "该词由动词「聞く」的连用形「聞き」和动词「直す」组成，强调再次进行「聞く」这个动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9358,
+  "word" : "聞き返す",
+  "reading" : "ききかえす",
+  "romaji" : null,
+  "meaning" : [ "1. 反问；再次询问。2. 重新听；再听一遍。" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9359,
+  "word" : "聞き逃す",
+  "reading" : "ききのがす",
+  "romaji" : null,
+  "meaning" : [ "听漏；漏听；没听到" ],
+  "notes" : [ "该词由动词「聞く」和动词「逃す」复合而成。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9360,
+  "word" : "聞き間違える",
+  "reading" : "ききまちがえる",
+  "romaji" : null,
+  "meaning" : [ "听错，误听；听漏。" ],
+  "notes" : [ "该词由动词「聞く」的连用形「聞き」和动词「間違える」构成。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9361,
+  "word" : "聞き飽きる",
+  "reading" : "ききあきる",
+  "romaji" : null,
+  "meaning" : [ "听腻，听厌" ],
+  "notes" : [ "该词是由动词「聞く」和动词「飽きる」组合而成的复合动词。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9362,
+  "word" : "聞く/聴く",
+  "reading" : "きく",
+  "romaji" : null,
+  "meaning" : [ "听；询问；打听；听从；遵循；闻；嗅。例如：音楽を聞く（听音乐）；先生に質問を聞く（向老师提问）；道を聞く（问路）；助けを求める声を聞く（听从求救的声音）；指示に聞く（遵循指示）；花の香りを聞く（闻花香）。" ],
+  "notes" : [ "「聴く」は「聞く」の尊敬語的な表現で、より丁寧な言い方として使われます。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9363,
+  "word" : "聞こえます",
+  "reading" : "きこえます",
+  "romaji" : null,
+  "meaning" : [ "能听到，听得见；（声音等）传得远；听起来" ],
+  "notes" : [ "该词为自动词，强调听觉上的感受" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9364,
+  "word" : "聞こえる",
+  "reading" : "きこえる",
+  "romaji" : null,
+  "meaning" : [ "听得见；能听到；听起来；传到耳边" ],
+  "notes" : [ "表示人的听觉能感知到声音等，也可用于比喻某种信息等传到耳边。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9365,
+  "word" : "聳える",
+  "reading" : "そえる",
+  "romaji" : null,
+  "meaning" : [ "高高地直立；耸立；矗立。" ],
+  "notes" : [ "表示物体向上直立的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9366,
+  "word" : "聴解",
+  "reading" : "ちょうかい",
+  "romaji" : null,
+  "meaning" : [ "通过听来理解话语内容的能力" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9367,
+  "word" : "聴講",
+  "reading" : "ちょうこう",
+  "romaji" : null,
+  "meaning" : [ "〔学校などで〕講義を受ける；〔講義などを〕聴く；傍聴する" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9368,
+  "word" : "職",
+  "reading" : "しょく",
+  "romaji" : null,
+  "meaning" : [ "职务；职业，工作" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9369,
+  "word" : "職人",
+  "reading" : "しょくじん",
+  "romaji" : null,
+  "meaning" : [ "工匠；手艺人；行家，精通某一领域的人" ],
+  "notes" : [ "该词在描述具有精湛技艺的人时使用，强调专业性和熟练程度。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9370,
+  "word" : "職人",
+  "reading" : "しょくひと",
+  "romaji" : null,
+  "meaning" : [ "工匠，手艺人；具有精湛技艺的专业人士" ],
+  "notes" : [ "“職人”强调在某个领域有精湛技艺和专业能力的人" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9371,
+  "word" : "職務",
+  "reading" : "しょくむ",
+  "romaji" : null,
+  "meaning" : [ "职务；工作任务" ],
+  "notes" : [ "该词常用于职场等场景，指分配给个人的工作内容。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9372,
+  "word" : "職員",
+  "reading" : "しょくいん",
+  "romaji" : null,
+  "meaning" : [ "（机关、企业、学校等的）工作人员，职员" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9373,
+  "word" : "職場",
+  "reading" : "しょくば",
+  "romaji" : null,
+  "meaning" : [ "工作场所，职场，办公地点。指人们进行工作的具体场地或单位。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9374,
+  "word" : "職業",
+  "reading" : "しょくぎょう",
+  "romaji" : null,
+  "meaning" : [ "人们为了获取收入而从事的工作种类" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9375,
+  "word" : "職種",
+  "reading" : "しょくしゅ",
+  "romaji" : null,
+  "meaning" : [ "职业种类；工作类型。指不同的劳动分工类别。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9376,
+  "word" : "肉",
+  "reading" : "にく",
+  "romaji" : null,
+  "meaning" : [ "肉，肉类。通常指动物的肌肉组织，可食用。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9377,
+  "word" : "肉じゃが",
+  "reading" : "にくじゃが",
+  "romaji" : null,
+  "meaning" : [ "土豆炖肉，一种将土豆和肉一起炖煮的菜肴。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9378,
+  "word" : "肉体",
+  "reading" : "にくたい",
+  "romaji" : null,
+  "meaning" : [ "身体；肉体" ],
+  "notes" : [ "「肉体」は、人間の身体を指す言葉です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9379,
+  "word" : "肉親",
+  "reading" : "にくしん",
+  "romaji" : null,
+  "meaning" : [ "亲生父母；亲人，骨肉至亲" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9380,
+  "word" : "肉食",
+  "reading" : "にくしょく",
+  "romaji" : null,
+  "meaning" : [ "吃肉，食肉；肉食。例えば、肉食動物は肉を食べる動物です。（食肉动物是吃肉的动物。）" ],
+  "notes" : [ "「肉食」は、肉を食べることや、肉を主とした食事を指します。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9381,
+  "word" : "肌",
+  "reading" : "はだ",
+  "romaji" : null,
+  "meaning" : [ "肌肤；皮肤；肌肉；物体表面；气质，性格" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9382,
+  "word" : "肌寒い",
+  "reading" : "はださむい",
+  "romaji" : null,
+  "meaning" : [ "略感寒意的" ],
+  "notes" : [ "「毛骨悚然的」这种解释不准确，主要意思就是略感寒意" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9383,
+  "word" : "肘",
+  "reading" : "ひじ",
+  "romaji" : null,
+  "meaning" : [ "胳膊肘" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9384,
+  "word" : "肝心",
+  "reading" : "かんじん",
+  "romaji" : null,
+  "meaning" : [ "重要，紧要；关键，核心" ],
+  "notes" : [ "形容动词，词干为「肝心」，词尾变化规则同一般形容动词" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9385,
+  "word" : "肝臓",
+  "reading" : "かんぞう",
+  "romaji" : null,
+  "meaning" : [ "肝脏" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9386,
+  "word" : "股",
+  "reading" : "もも",
+  "romaji" : null,
+  "meaning" : [ "大腿" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9387,
+  "word" : "肥える",
+  "reading" : "こえる",
+  "romaji" : null,
+  "meaning" : [ "1. （动物、人等）变胖，发福；2. （土地等）肥沃；3. （经济等）富裕，充裕；4. （能力、鉴赏力等）提高，增进" ],
+  "notes" : [ "该词为自动词，强调自身的变化状态" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9388,
+  "word" : "肥満",
+  "reading" : "ひまん",
+  "romaji" : null,
+  "meaning" : [ "肥胖；赘肉" ],
+  "notes" : [ "该词较为常用，在描述身体状态肥胖时使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9389,
+  "word" : "肩",
+  "reading" : "かた",
+  "romaji" : null,
+  "meaning" : [ "肩膀。人体颈部以下、胳膊连接身体的部位。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9390,
+  "word" : "肩こり",
+  "reading" : "かたこり",
+  "romaji" : null,
+  "meaning" : [ "肩部僵硬、酸痛" ],
+  "notes" : [ "该词描述的是肩部出现的不适状态" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9391,
+  "word" : "肩代わり",
+  "reading" : "かたがわり",
+  "romaji" : null,
+  "meaning" : [ "（债务、负担等）转移，更替；代人承担，代替他人做某事" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9392,
+  "word" : "肩書き",
+  "reading" : "かたがき",
+  "romaji" : null,
+  "meaning" : [ "头衔，职位；（书籍、文章等的）标题，署名" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9393,
+  "word" : "肯定",
+  "reading" : "こうてい",
+  "romaji" : null,
+  "meaning" : [ "肯定すること。また、そのような態度や判断。また、事実や真実を認めること。" ],
+  "notes" : [ "「肯定」は、名詞として使われる場合もあれば、他動詞として使われる場合もあります。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9394,
+  "word" : "育ち",
+  "reading" : "そだち",
+  "romaji" : null,
+  "meaning" : [ "发育，成长；培育过程" ],
+  "notes" : [ "该词是「育つ（そだつ）」的连用形名词化形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9395,
+  "word" : "育つ",
+  "reading" : "そだつ",
+  "romaji" : null,
+  "meaning" : [ "生长，成长；培育，养育；抚养长大；发展，成长壮大" ],
+  "notes" : [ "表示生物自然生长或人为培育使其成长等意思" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9396,
+  "word" : "育つ",
+  "reading" : "はえる",
+  "romaji" : null,
+  "meaning" : [ "生长、成长、发育、养育、培育等。" ],
+  "notes" : [ "该词强调自然地成长或发育的过程，也可用于表示养育子女等培育行为。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9397,
+  "word" : "育てる",
+  "reading" : "そだてる",
+  "romaji" : null,
+  "meaning" : [ "他动词，意为养育、抚育、培养、培育、造就等。" ],
+  "notes" : [ "该词为他动词，一般需要带宾语。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9398,
+  "word" : "育む",
+  "reading" : "そだてむ",
+  "romaji" : null,
+  "meaning" : [ "孵化；培养，培育；抚养；抱有（某种想法等）" ],
+  "notes" : [ "该词常用的意思是培养、培育等，在表示孵化时，一般用于孵化鸟蛋等语境。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9399,
+  "word" : "育児",
+  "reading" : "いくじ",
+  "romaji" : null,
+  "meaning" : [ "育儿，抚育孩子。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9400,
+  "word" : "育児休暇",
+  "reading" : "いくじきゅうか",
+  "romaji" : null,
+  "meaning" : [ "育儿休假。指为照顾孩子而申请的休假，其中产假是育儿休假的一种。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

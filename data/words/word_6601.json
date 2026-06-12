@@ -1,0 +1,901 @@
+[ {
+  "id" : 6601,
+  "word" : "教授",
+  "reading" : "きょうじゅ",
+  "romaji" : null,
+  "meaning" : [ "教授；传授知识、技能等；大学教授这一职位" ],
+  "notes" : [ "该词既可以表示传授的动作，也常用来指大学教授这一职业。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6602,
+  "word" : "教材",
+  "reading" : "きょうざい",
+  "romaji" : null,
+  "meaning" : [ "教材；教学材料" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6603,
+  "word" : "教科書",
+  "reading" : "きょうかしょ",
+  "romaji" : null,
+  "meaning" : [ "名词，教科书；课本" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6604,
+  "word" : "教育",
+  "reading" : "きょういく",
+  "romaji" : null,
+  "meaning" : [ "教育；教导；培养" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6605,
+  "word" : "教訓",
+  "reading" : "きょうくん",
+  "romaji" : null,
+  "meaning" : [ "教训；训诫；告诫" ],
+  "notes" : [ "常用于描述从经历中获得的经验教训，以避免未来的错误。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6606,
+  "word" : "教諭",
+  "reading" : "きょうゆ",
+  "romaji" : null,
+  "meaning" : [ "教诲，教导；（幼儿园、中小学的）正规教师" ],
+  "notes" : [ "该词在现代日语中，主要用于指幼儿园、中小学的教师。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6607,
+  "word" : "教養",
+  "reading" : "きょうよう",
+  "romaji" : null,
+  "meaning" : [ "教养，修养；素养；学识" ],
+  "notes" : [ "该词为音读词汇，在描述人的文化、品德等方面素养时常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6608,
+  "word" : "散らかす",
+  "reading" : "ちらかす",
+  "romaji" : null,
+  "meaning" : [ "弄乱，乱扔；使分散，使散开" ],
+  "notes" : [ "该词是他动词，表示人为地使事物处于散乱的状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6609,
+  "word" : "散らかる",
+  "reading" : "ちらかる",
+  "romaji" : null,
+  "meaning" : [ "零乱，杂乱，东西到处都是；分散，散布" ],
+  "notes" : [ "该词为自动词，表示事物处于零乱、分散的状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6610,
+  "word" : "散らす",
+  "reading" : "ちらす",
+  "romaji" : null,
+  "meaning" : [ "1. 驱散（人群）；2. 撒，散布（如粉末、种子等）；3. 传播（消息、谣言等）；4. 使分散，使散开" ],
+  "notes" : [ "「散らす」是他动词，对应的自动词是「散る（ちる）」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6611,
+  "word" : "散らばる",
+  "reading" : "ちらばる",
+  "romaji" : null,
+  "meaning" : [ "分散；散乱，零乱；离散，失散" ],
+  "notes" : [ "该词为自动词，表示事物自然地分散、散开的状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6612,
+  "word" : "散る",
+  "reading" : "ちる",
+  "romaji" : null,
+  "meaning" : [ "凋谢；散落，分散；消散；散开；（人群等）散去" ],
+  "notes" : [ "该词为自动词，描述自然或自发的分散、消散等状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6613,
+  "word" : "散歩",
+  "reading" : "さんぽ",
+  "romaji" : null,
+  "meaning" : [ "指随意地、悠闲地走动，即散步。" ],
+  "notes" : [ "「散歩」作为名词使用时，可直接与助词搭配；作为动词使用时，常以「散歩する」的形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6614,
+  "word" : "散歩します",
+  "reading" : "さんぽします",
+  "romaji" : null,
+  "meaning" : [ "散步，漫步；溜达。不限于在公园，可在各种场所进行。" ],
+  "notes" : [ "“散歩する”是サ变动词，“散歩します”是其礼貌体形式。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6615,
+  "word" : "散歩する",
+  "reading" : "さんぽする",
+  "romaji" : null,
+  "meaning" : [ "散步；漫步" ],
+  "notes" : [ "“散歩する”是サ变动词，在句中使用时遵循サ变动词的活用规则。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6616,
+  "word" : "敬う",
+  "reading" : "うやまう",
+  "romaji" : null,
+  "meaning" : [ "尊敬，敬重；敬畏；拜祭" ],
+  "notes" : [ "该词为五段动词，词尾变化遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6617,
+  "word" : "敬具",
+  "reading" : "けいぐ",
+  "romaji" : null,
+  "meaning" : [ "用于书信结尾，表示敬上、谨启。" ],
+  "notes" : [ "多在正式书信结尾处使用，表达对收信人的尊敬。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6618,
+  "word" : "敬意",
+  "reading" : "けいい",
+  "romaji" : null,
+  "meaning" : [ "尊敬的心意；敬意" ],
+  "notes" : [ "该词为名词，一般用于表达对他人或事物怀有尊敬的情感。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6619,
+  "word" : "敬語",
+  "reading" : "けいご",
+  "romaji" : null,
+  "meaning" : [ "敬语，指在语言交流中表示尊敬、礼貌的语言表达方式。" ],
+  "notes" : [ "敬语在日语中是非常重要的语言现象，有多种形式，包括尊敬语、自谦语、郑重语等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6620,
+  "word" : "敬语",
+  "reading" : "けいご",
+  "romaji" : null,
+  "meaning" : [ "分为以下三类：尊他语：通过抬高话题中的动作主体，而对动作主体表示敬意；自谦语：通过贬低动作主体（己方），从而相对地对动作接受者或动作涉及的对象表示敬意；礼貌语：通过使用客气的词语，对听话人表示敬意。敬语是日语中用于表达尊敬、礼貌的语言形式，在正式场合、与长辈或上级交流时广泛使用。" ],
+  "notes" : [ "敬语的使用在日语中非常重要，使用不当可能会被认为不礼貌。不同的敬语形式有不同的使用场景和规则，需要根据具体情况选择合适的敬语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6621,
+  "word" : "敬遠",
+  "reading" : "けいえん",
+  "romaji" : null,
+  "meaning" : [ "敬而远之；回避；避免与之接触。" ],
+  "notes" : [ "该词常用来描述对人或事物保持一定距离，避免接近的态度。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6622,
+  "word" : "数",
+  "reading" : "かず",
+  "romaji" : null,
+  "meaning" : [ "名词，数量，数目；次数；命运，气数；（数学中的）数" ],
+  "notes" : [ "该词还有音读，如“すう”，常见于数学相关词汇，如“数学（すうがく）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6623,
+  "word" : "数々",
+  "reading" : "かずかず",
+  "romaji" : null,
+  "meaning" : [ "许多，种种" ],
+  "notes" : [ "常用于书面语，强调数量多、种类丰富。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6624,
+  "word" : "数える",
+  "reading" : "かぞえる",
+  "romaji" : null,
+  "meaning" : [ "数，计算；列举，枚举；把……算作，认为" ],
+  "notes" : [ "该词为他动词，使用时前面需搭配宾语。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6625,
+  "word" : "数え上げる",
+  "reading" : "かぞえあげる",
+  "romaji" : null,
+  "meaning" : [ "一一列举；逐个清点；数完；算清" ],
+  "notes" : [ "该词是他动词，使用时需注意其宾语的搭配。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6626,
+  "word" : "数値",
+  "reading" : "すうち",
+  "romaji" : null,
+  "meaning" : [ "数值；数字" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6627,
+  "word" : "数字",
+  "reading" : "すうじ",
+  "romaji" : null,
+  "meaning" : [ "数字；数目" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6628,
+  "word" : "数学",
+  "reading" : "すうがく",
+  "romaji" : null,
+  "meaning" : [ "数学，是研究数量、结构、变化以及空间模型等概念的一门学科。" ],
+  "notes" : [ "该词为音读词汇，由汉语传入日本，在日常使用和学术领域都较为常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6629,
+  "word" : "数日",
+  "reading" : "すうじつ",
+  "romaji" : null,
+  "meaning" : [ "名词，指几天、若干天" ],
+  "notes" : [ "该词用于表示不确定的几天时间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6630,
+  "word" : "数量+で",
+  "reading" : "すうりょう＋で",
+  "romaji" : null,
+  "meaning" : [ "名[数量]＋で：表示以某一数量作为整体、限度或标准，可译为‘总共；用……（数量）；在……（数量）的情况下’等。" ],
+  "notes" : [ "‘数量+で’中的‘で’是格助词，该短语常用来表示数量的总计、花费的数量、参与的数量等情况。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6631,
+  "word" : "整います",
+  "reading" : "ととのいます",
+  "romaji" : null,
+  "meaning" : [ "①齐备，完备；②整齐，端正；③就绪，安排好" ],
+  "notes" : [ "该词是“整う（ととのう）”的敬体形式。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6632,
+  "word" : "整う",
+  "reading" : "ととのう",
+  "romaji" : null,
+  "meaning" : [ "（文章、服装、面容等）完整，整齐，端正；安排好，准备好；达成，谈妥" ],
+  "notes" : [ "该词为自动词，强调自然形成的整齐、完备状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6633,
+  "word" : "整える",
+  "reading" : "ととのえる",
+  "romaji" : null,
+  "meaning" : [ "1. 整理，收拾；2. 准备，筹备；3. 完善，完备" ],
+  "notes" : [ "该词为他动词，在句子中需要使用を来提示宾语。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6634,
+  "word" : "整備",
+  "reading" : "せいび",
+  "romaji" : null,
+  "meaning" : [ "（1）维修，整修（如道路、机械等）；（2）配备，配齐（物资、设备等）；（3）完善，整顿，筹备。" ],
+  "notes" : [ "该词作为名词使用，常见搭配有「道路の整備」「施設の整備」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6635,
+  "word" : "整備不良",
+  "reading" : "せいびふりょう",
+  "romaji" : null,
+  "meaning" : [ "名词，指设备、机械等的维修保养状况不佳，存在维修不到位、保养不充分等问题。" ],
+  "notes" : [ "“整備”表示维修、保养，“不良”表示不好、不佳，该词常用于描述设备、交通工具等的维修保养状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6636,
+  "word" : "整数",
+  "reading" : "せいすう",
+  "romaji" : null,
+  "meaning" : [ "整数，即像-3、-2、-1、0、1、2、3等这样的数，没有小数部分" ],
+  "notes" : [ "在数学领域常用的词汇，用于表示没有小数或分数部分的数" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6637,
+  "word" : "整理",
+  "reading" : "せいり",
+  "romaji" : null,
+  "meaning" : [ "整理，收拾；整顿；梳理（思路等）" ],
+  "notes" : [ "作为动词使用时，常以“整理する”的形式出现，属于サ変動詞，其活用遵循サ変動詞的规则。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6638,
+  "word" : "整理する",
+  "reading" : "せいりする",
+  "romaji" : null,
+  "meaning" : [ "整理；收拾；整顿；归纳" ],
+  "notes" : [ "该词为サ变动词，接宾语时用を，使用时遵循三类动词的活用规则。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6639,
+  "word" : "整頓",
+  "reading" : "せいとん",
+  "romaji" : null,
+  "meaning" : [ "整顿，整理；使整齐有序。" ],
+  "notes" : [ "作为动词使用时，常以「整頓する」的形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6640,
+  "word" : "整髪料",
+  "reading" : "せいはつりょう",
+  "romaji" : null,
+  "meaning" : [ "名词，指用于整理头发的各类产品，如整发液、发胶、发蜡等" ],
+  "notes" : [ "该词汇在日常生活中较常用，指用于头发造型的各类用品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6641,
+  "word" : "敵",
+  "reading" : "てき",
+  "romaji" : null,
+  "meaning" : [ "敌人，敌；对手，敌手" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6642,
+  "word" : "敵う",
+  "reading" : "かなう",
+  "romaji" : null,
+  "meaning" : [ "敌得过，比得上；能抗衡，能对抗；能抵挡" ],
+  "notes" : [ "该词为五段动词，词尾变化遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6643,
+  "word" : "敷く",
+  "reading" : "しく",
+  "romaji" : null,
+  "meaning" : [ "①铺，垫；②涂抹、涂敷；③布置、安排；④下赌注；⑤实施某种计策、办法。" ],
+  "notes" : [ "该词是一个五段动词，其未然形是「しこ」，连用形是「しき」，已然形是「しけ」等，在不同的语法结构和语境中有不同的使用方式。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6644,
+  "word" : "敷地",
+  "reading" : "しきち",
+  "romaji" : null,
+  "meaning" : [ "地基；用地，地皮；建筑物等所占用的土地" ],
+  "notes" : [ "该词常用于描述土地的使用性质和归属等情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6645,
+  "word" : "敷居",
+  "reading" : "しきい",
+  "romaji" : null,
+  "meaning" : [ "门槛；（事物的）界限、限度" ],
+  "notes" : [ "该词为名词，无词形变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6646,
+  "word" : "敷金",
+  "reading" : "しききん",
+  "romaji" : null,
+  "meaning" : [ "（租房等的）押金；保证金" ],
+  "notes" : [ "在日本租房时，除了租金，通常还需要支付敷金作为一种保障。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6647,
+  "word" : "文",
+  "reading" : "ぶん",
+  "romaji" : null,
+  "meaning" : [ "1. 句，句子；2. 文章；3. 书信；4. （数学中的）运算式" ],
+  "notes" : [ "该词在不同语境中有不同含义，在数学语境中可表示运算式，在书信相关语境中可表示书信。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6648,
+  "word" : "文化",
+  "reading" : "ぶんか",
+  "romaji" : null,
+  "meaning" : [ "名词，指人类在社会历史发展过程中所创造的物质财富和精神财富的总和。" ],
+  "notes" : [ "该词为音读词汇，在日语中广泛使用，用于描述各种文化相关的事物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6649,
+  "word" : "文化財",
+  "reading" : "ぶんかざい",
+  "romaji" : null,
+  "meaning" : [ "文化遗产，指具有历史、艺术、学术等价值，被国家或地方公共团体指定并加以保护的物品、建筑物、遗址等。" ],
+  "notes" : [ "该词常用于文化、历史相关的语境中，在日本，文化财的保护和管理有一套完善的法律体系。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6650,
+  "word" : "文句",
+  "reading" : "もんく",
+  "romaji" : null,
+  "meaning" : [ "1. 意见，异议，牢骚；2. 词句，话语" ],
+  "notes" : [ "该词常见搭配有「文句を言う」，表示“发牢骚，提意见”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6651,
+  "word" : "文型",
+  "reading" : "ぶんけい",
+  "romaji" : null,
+  "meaning" : [ "句型，句子的类型和结构" ],
+  "notes" : [ "常用于日语语法学习中，描述句子的特定结构和模式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6652,
+  "word" : "文字",
+  "reading" : "もじ",
+  "romaji" : null,
+  "meaning" : [ "文字，字；文章；（表示特定意义的）符号" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6653,
+  "word" : "文学",
+  "reading" : "ぶんがく",
+  "romaji" : null,
+  "meaning" : [ "用语言文字形象化地反映客观现实的艺术，包括诗歌、散文、小说、戏剧等，文学" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6654,
+  "word" : "文房具",
+  "reading" : "ぶんぼうぐ",
+  "romaji" : null,
+  "meaning" : [ "文具；书写工具" ],
+  "notes" : [ "该词指用于书写、绘画等的各类工具，如笔、纸、橡皮等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6655,
+  "word" : "文明",
+  "reading" : "ぶんめい",
+  "romaji" : null,
+  "meaning" : [ "名词，指人类社会发展到较高阶段并具有较高文化的状态；也指文化。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6656,
+  "word" : "文書",
+  "reading" : "ぶんしょ",
+  "romaji" : null,
+  "meaning" : [ "文书，文件，公文；泛指各种书面材料" ],
+  "notes" : [ "该词为音读词汇，在正式场合和书面语中常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6657,
+  "word" : "文法",
+  "reading" : "ぶんぽう",
+  "romaji" : null,
+  "meaning" : [ "名词，指语法；文章的法则" ],
+  "notes" : [ "常用于学习语言时描述语言规则相关的场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6658,
+  "word" : "文献",
+  "reading" : "ぶんけん",
+  "romaji" : null,
+  "meaning" : [ "文献，参考资料" ],
+  "notes" : [ "为音读词汇，“文”读“ぶん”，“献”读“けん”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6659,
+  "word" : "文章",
+  "reading" : "ぶんしょう",
+  "romaji" : null,
+  "meaning" : [ "文章；短文；作品" ],
+  "notes" : [ "该词为音读词汇，在日常写作、阅读等场景中常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6660,
+  "word" : "文脈",
+  "reading" : "ぶんみゃく",
+  "romaji" : null,
+  "meaning" : [ "文章或话语的脉络、前后文逻辑关系；语境" ],
+  "notes" : [ "该词为名词，无词形变化。常用于分析文章、对话等的逻辑关系和理解语义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6661,
+  "word" : "文芸",
+  "reading" : "ぶんげい",
+  "romaji" : null,
+  "meaning" : [ "文艺；文学与艺术" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6662,
+  "word" : "斑",
+  "reading" : "まだら",
+  "romaji" : null,
+  "meaning" : [ "斑点；斑纹；斑驳；不匀；参差不齐。" ],
+  "notes" : [ "该词主要用于描述物体表面有不同颜色的斑点或斑纹的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6663,
+  "word" : "料理",
+  "reading" : "りょうり",
+  "romaji" : null,
+  "meaning" : [ "菜肴；做菜；烹饪；处理，办理" ],
+  "notes" : [ "作为“处理，办理”的意思时，常用于商务或正式场合，如「問題を料理する」（处理问题）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6664,
+  "word" : "料理人",
+  "reading" : "りょうりにん",
+  "romaji" : null,
+  "meaning" : [ "名词，指厨师、炊事员" ],
+  "notes" : [ "该词是一个普通的名词，用于描述从事烹饪工作的人员。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6665,
+  "word" : "料金",
+  "reading" : "りょうきん",
+  "romaji" : null,
+  "meaning" : [ "费用；收费" ],
+  "notes" : [ "一般用于表示各种服务、商品等的收费情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6666,
+  "word" : "斜め",
+  "reading" : "ななめ",
+  "romaji" : null,
+  "meaning" : [ "倾斜；歪斜；斜着；间接；侧面" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾要变成「に」或「な」，如「斜めに走る」（斜着跑）、「斜めな線」（斜线）。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6667,
+  "word" : "斡旋",
+  "reading" : "かんせん",
+  "romaji" : null,
+  "meaning" : [ "从中调解、斡旋；介绍；周旋" ],
+  "notes" : [ "「斡旋」作为サ变动词使用时，常见搭配为「斡旋する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6668,
+  "word" : "斬新",
+  "reading" : "ざんしん",
+  "romaji" : null,
+  "meaning" : [ "新颖，崭新；具有独特、创新的特点，与传统或常见的事物有明显区别。" ],
+  "notes" : [ "“斬新”是形容动词，在句中作谓语时，词尾需要加“です”。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6669,
+  "word" : "断ち切る",
+  "reading" : "たちきる",
+  "romaji" : null,
+  "meaning" : [ "切断；断绝（关系）；彻底戒掉、戒除；果断地处理、解决" ],
+  "notes" : [ "该词为五段动词，词尾为「る」，但不是一段动词，在变形时需按照五段动词规则进行。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6670,
+  "word" : "断つ",
+  "reading" : "たつ",
+  "romaji" : null,
+  "meaning" : [ "切，断；断绝，截断；拒绝，推辞；断定，判断" ],
+  "notes" : [ "该词为五段动词，词尾为「つ」，变形时遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6671,
+  "word" : "断る",
+  "reading" : "ことわる",
+  "romaji" : null,
+  "meaning" : [ "1. 拒绝，谢绝；2. 预先通知；3. 断绝，戒除" ],
+  "notes" : [ "「断る」是五段动词，在使用时需注意其词尾变化规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6672,
+  "word" : "断固",
+  "reading" : "だんこ",
+  "romaji" : null,
+  "meaning" : [ "断然，毅然；坚决；毫不含糊。表示态度坚定，毫不犹豫地做某事。" ],
+  "notes" : [ "「断固」通常用于修饰动词，表达强烈的意志和决心。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6673,
+  "word" : "断定",
+  "reading" : "だんてい",
+  "romaji" : null,
+  "meaning" : [ "断定，判断；下结论" ],
+  "notes" : [ "作为名词使用时，常与「を」搭配；作为动词使用时，是サ变动词，词尾「する」有相应的活用变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6674,
+  "word" : "断水",
+  "reading" : "だんすい",
+  "romaji" : null,
+  "meaning" : [ "断水；停水" ],
+  "notes" : [ "常用于描述供水停止的情况，如因维修、灾害等原因导致的停水。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6675,
+  "word" : "断然",
+  "reading" : "だんぜん",
+  "romaji" : null,
+  "meaning" : [ "断然；坚决；显然；绝对（不）" ],
+  "notes" : [ "常用于表达坚决的态度或明确的判断。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6676,
+  "word" : "断行",
+  "reading" : "だんこう",
+  "romaji" : null,
+  "meaning" : [ "1. 断然实行，坚决实行；2. 换行" ],
+  "notes" : [ "作为动词时，常以「断行する」的形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6677,
+  "word" : "断言",
+  "reading" : "だんげん",
+  "romaji" : null,
+  "meaning" : [ "明确地说出自己的判断，断定、断言" ],
+  "notes" : [ "「断言」作为サ変動詞使用时，需要搭配「する」来构成完整的动词用法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6678,
+  "word" : "断面",
+  "reading" : "だんめん",
+  "romaji" : null,
+  "meaning" : [ "断面，截面；剖面" ],
+  "notes" : [ "常用于科学、工程等领域，描述物体的切割面。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6679,
+  "word" : "新しい",
+  "reading" : "あたらしい",
+  "romaji" : null,
+  "meaning" : [ "新的；新鲜的；崭新的、未使用过的；刚出现、刚发生的；生疏、不熟悉的" ],
+  "notes" : [ "い形容词在句中可直接修饰名词，作谓语时需要根据时态和否定等进行词尾变化。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6680,
+  "word" : "新た",
+  "reading" : "あたらた",
+  "romaji" : null,
+  "meaning" : [ "新的；重新；再次；另；另外" ],
+  "notes" : [ "形容动词在句中作谓语时，需要在词干后接「です」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6681,
+  "word" : "新人",
+  "reading" : "しんじん",
+  "romaji" : null,
+  "meaning" : [ "新人，新手；新加入某个组织、团体的人" ],
+  "notes" : [ "该词为普通名词，无特殊语法变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6682,
+  "word" : "新人研修",
+  "reading" : "しんじんけんしゅう",
+  "romaji" : null,
+  "meaning" : [ "新员工培训" ],
+  "notes" : [ "该词汇用于描述企业或组织为新入职员工安排的培训活动。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6683,
+  "word" : "新作",
+  "reading" : "しんさく",
+  "romaji" : null,
+  "meaning" : [ "新作品，新创作；新款式；新出版的书籍、刊物等" ],
+  "notes" : [ "该词常用于描述新推出的各类作品、商品等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6684,
+  "word" : "新入社員",
+  "reading" : "しんにゅうしゃいん",
+  "romaji" : null,
+  "meaning" : [ "新入职的员工；新进入公司的职员" ],
+  "notes" : [ "该词由“新入（しんにゅう）”和“社員（しゃいん）”组成，用于描述刚进入公司开始工作的人员。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6685,
+  "word" : "新卒",
+  "reading" : "しんそつ",
+  "romaji" : null,
+  "meaning" : [ "应届毕业生，通常指刚从学校毕业（如大学、高中等）进入社会求职或开始工作的人。" ],
+  "notes" : [ "该词常用于描述就业场景中刚毕业的人群。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6686,
+  "word" : "新型",
+  "reading" : "しんがた",
+  "romaji" : null,
+  "meaning" : [ "新型；新的类型" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6687,
+  "word" : "新居",
+  "reading" : "しんきょ",
+  "romaji" : null,
+  "meaning" : [ "新的住所；新家。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6688,
+  "word" : "新年",
+  "reading" : "しんねん",
+  "romaji" : null,
+  "meaning" : [ "新年；正月" ],
+  "notes" : [ "在日语中，“新年”通常指的是每年的1月1日到1月3日这段时间，是重要的传统节日。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6689,
+  "word" : "新幹線",
+  "reading" : "しんかんせん",
+  "romaji" : null,
+  "meaning" : [ "新干线，日本的高速铁路列车系统" ],
+  "notes" : [ "新幹線是日本重要的交通方式，以高速、准时而闻名。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6690,
+  "word" : "新春の候",
+  "reading" : "しんしゅんのこう",
+  "romaji" : null,
+  "meaning" : [ "惯用语，用于书信等场合，表示时值新春，作为新春的问候语。" ],
+  "notes" : [ "这是一种较为正式、传统的表达方式，常用于书信开头表达新春祝福。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6691,
+  "word" : "新春セール",
+  "reading" : "しんしゅんセール",
+  "romaji" : null,
+  "meaning" : [ "新年大甩卖，新春期间举办的促销活动" ],
+  "notes" : [ "“新春”表示新年伊始，“セール”是外来语，源于英语“sale”，意为甩卖、促销。该词常见于商业场景，用于宣传新春期间的打折活动。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6692,
+  "word" : "新暦",
+  "reading" : "しんれき",
+  "romaji" : null,
+  "meaning" : [ "名词，公历，阳历" ],
+  "notes" : [ "与“旧暦（きゅうれき）”相对，旧暦指农历。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6693,
+  "word" : "新疆",
+  "reading" : "しんきょう",
+  "romaji" : null,
+  "meaning" : [ "中国的一个自治区，全称新疆维吾尔自治区，位于中国西北部，是一个多民族聚居和多种文化融合的地区。" ],
+  "notes" : [ "“新疆”是专有名词，使用时需注意首字母大写，并且通常不用于一般的语法活用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6694,
+  "word" : "新聞",
+  "reading" : "しんぶん",
+  "romaji" : null,
+  "meaning" : [ "报纸" ],
+  "notes" : [ "该词为日语常用名词，在日常生活中经常使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6695,
+  "word" : "新聞社",
+  "reading" : "しんぶんしゃ",
+  "romaji" : null,
+  "meaning" : [ "报社，报馆" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6696,
+  "word" : "新聞紙",
+  "reading" : "しんぶんし",
+  "romaji" : null,
+  "meaning" : [ "名 报纸；新闻纸" ],
+  "notes" : [ "在表示新闻纸这种纸张时也使用该词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6697,
+  "word" : "新興",
+  "reading" : "しんこう",
+  "romaji" : null,
+  "meaning" : [ "新兴；新出现并发展起来的" ],
+  "notes" : [ "该词常用于描述新出现且具有发展潜力的事物，如新兴产业、新兴势力等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6698,
+  "word" : "新車",
+  "reading" : "しんしゃ",
+  "romaji" : null,
+  "meaning" : [ "新车" ],
+  "notes" : [ "该词为日常常用词汇，用于描述新的汽车。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6699,
+  "word" : "新郎",
+  "reading" : "しんろう",
+  "romaji" : null,
+  "meaning" : [ "指结婚时的男性一方，即新郎" ],
+  "notes" : [ "“新郎”在日语中使用较为正式，常用于婚礼等正式场合描述结婚的男性。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6700,
+  "word" : "新鮮",
+  "reading" : "しんせん",
+  "romaji" : null,
+  "meaning" : [ "新鲜，鲜活；新颖，崭新；有生气，有活力" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾需加「です」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+} ]

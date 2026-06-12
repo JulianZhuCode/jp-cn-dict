@@ -1,0 +1,901 @@
+[ {
+  "id" : 4801,
+  "word" : "大部分",
+  "reading" : "だいぶぶん",
+  "romaji" : null,
+  "meaning" : [ "大部分，多半。事物的绝大部分。" ],
+  "notes" : [ "常与助词「の」连用修饰名词，如「大部分の人」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4802,
+  "word" : "大量",
+  "reading" : "たいりょう",
+  "romaji" : null,
+  "meaning" : [ "数量が多いこと。多量。" ],
+  "notes" : [ "「たいりょう（大量）」と読みます。「おおじょう（多量）」という読まれ方もありますが、現代では「たいりょう」が一般的です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4803,
+  "word" : "大金",
+  "reading" : "だいきん",
+  "romaji" : null,
+  "meaning" : [ "巨款，大笔钱款" ],
+  "notes" : [ "通常指数额非常大的钱，带有强调意味。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4804,
+  "word" : "大陸",
+  "reading" : "たいりく",
+  "romaji" : null,
+  "meaning" : [ "大陆；洲" ],
+  "notes" : [ "指地球上广大的陆地，通常相对于岛屿、半岛而言。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4805,
+  "word" : "大雨",
+  "reading" : "おおあめ",
+  "romaji" : null,
+  "meaning" : [ "大雨，暴雨；指降雨量非常大的雨。" ],
+  "notes" : [ "常用词，属于天气类名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4806,
+  "word" : "天",
+  "reading" : "てん",
+  "romaji" : null,
+  "meaning" : [ "天空；天国；上天；上帝；自然界；天命" ],
+  "notes" : [ "常用于合成词，如「天気」（天气）、「天才」（天才）、「天地」（天地）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4807,
+  "word" : "天ぷら",
+  "reading" : "てんぷら",
+  "romaji" : null,
+  "meaning" : [ "（将鱼、虾、蔬菜等裹上面糊后用油炸制的食品）天妇罗" ],
+  "notes" : [ "外来语源自葡萄牙语 'tempura'。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4808,
+  "word" : "天下",
+  "reading" : "てんか",
+  "romaji" : null,
+  "meaning" : [ "天下；全世界；统治权；国家" ],
+  "notes" : [ "指整个世界或国家，常用于表达统治范围或影响力。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4809,
+  "word" : "天井",
+  "reading" : "てんじょう",
+  "romaji" : null,
+  "meaning" : [ "天花板，顶棚；（喻）最高限度，顶点" ],
+  "notes" : [ "常用词，指房屋内部的天花板。也可用于比喻事物发展的最高限度或极限。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4810,
+  "word" : "天使",
+  "reading" : "てんし",
+  "romaji" : null,
+  "meaning" : [ "天使；（比喻）像天使一样善良纯洁的人" ],
+  "notes" : [ "外来语形式为エンジェル (Angel)。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4811,
+  "word" : "天候",
+  "reading" : "てんこう",
+  "romaji" : null,
+  "meaning" : [ "天气，气候（指某地区在一定时间内的气象状况，通常比“天気”更正式，侧重于大范围的气象条件）" ],
+  "notes" : [ "“天候”通常用于比较正式的场合，指较长时间或较大范围的气象状况，而“天気”则多用于指短时间或具体的天气状况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4812,
+  "word" : "天国",
+  "reading" : "てんごく",
+  "romaji" : null,
+  "meaning" : [ "1. 天国，天堂（宗教概念，神和天使居住的地方，人死后灵魂去往的幸福世界）。2. 理想的境界，极乐世界（比喻非常舒适、快乐的环境或状态）。" ],
+  "notes" : [ "反义词是“地獄（じごく）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4813,
+  "word" : "天才",
+  "reading" : "てんさい",
+  "romaji" : null,
+  "meaning" : [ "天賦の才能。生まれつき備わった、並外れた能力。また、それを持っている人。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4814,
+  "word" : "天気",
+  "reading" : "てんき",
+  "romaji" : null,
+  "meaning" : [ "天气；气象；晴天" ],
+  "notes" : [ "常用词，指大气的状态，如晴、雨、风等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4815,
+  "word" : "天気予報",
+  "reading" : "てんきよほう",
+  "romaji" : null,
+  "meaning" : [ "天气预报" ],
+  "notes" : [ "由“天気”（天气）和“予報”（预报）组成的复合词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4816,
+  "word" : "天然",
+  "reading" : "てんねん",
+  "romaji" : null,
+  "meaning" : [ "天然；自然；天生" ],
+  "notes" : [ "有时也指性格上的“天然呆”（不拘小节、反应迟钝等），属于俗语用法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4817,
+  "word" : "天皇",
+  "reading" : "てんのう",
+  "romaji" : null,
+  "meaning" : [ "日本国的象征，日本宪法规定的国家元首。" ],
+  "notes" : [ "特指日本皇帝，发音为“てんのう”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4818,
+  "word" : "天辺",
+  "reading" : "てっぺん",
+  "romaji" : null,
+  "meaning" : [ "物体的最顶端；最高点；顶点" ],
+  "notes" : [ "也可写作“鉄辺”，但“天辺”更为常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4819,
+  "word" : "天ぷら",
+  "reading" : "てんぷら",
+  "romaji" : null,
+  "meaning" : [ "天妇罗；一种将鱼、虾、蔬菜等裹上面糊后用油炸制的日本料理。" ],
+  "notes" : [ "汉字通常写作“天婦羅”，但在现代日语中多用平假名“天ぷら”表示。源自葡萄牙语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4820,
+  "word" : "太い",
+  "reading" : "ふとい",
+  "romaji" : null,
+  "meaning" : [ "粗的；胖的；肥大的" ],
+  "notes" : [ "反义词是「細い（ほそい）」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4821,
+  "word" : "太さ",
+  "reading" : "ふとさ",
+  "romaji" : null,
+  "meaning" : [ "粗细；粗度；粗壮程度" ],
+  "notes" : [ "由形容词「太い（ふとい）」的词干「太」加上接尾词「さ」构成，表示性质的名词化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4822,
+  "word" : "太ります",
+  "reading" : "ふとります",
+  "romaji" : null,
+  "meaning" : [ "变胖，发胖" ],
+  "notes" : [ "反义词为“痩せる（やせる）”。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4823,
+  "word" : "太る",
+  "reading" : "ふとる",
+  "romaji" : null,
+  "meaning" : [ "变胖；发胖" ],
+  "notes" : [ "反义词是痩せる（やせる）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4824,
+  "word" : "太平洋",
+  "reading" : "たいへいよう",
+  "romaji" : null,
+  "meaning" : [ "太平洋" ],
+  "notes" : [ "专有名词，指地球上最大的大洋。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4825,
+  "word" : "太極拳",
+  "reading" : "たいきょくけん",
+  "romaji" : null,
+  "meaning" : [ "中国の武術の一つ。ゆっくりとした動作と呼吸法を特徴とする健康法・武道。" ],
+  "notes" : [ "外来語として扱われることが多く、活用はしない。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4826,
+  "word" : "太陽",
+  "reading" : "たいよう",
+  "romaji" : null,
+  "meaning" : [ "太阳；日头" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4827,
+  "word" : "太鼓",
+  "reading" : "たいこ",
+  "romaji" : null,
+  "meaning" : [ "鼓，日式大鼓" ],
+  "notes" : [ "日本传统的打击乐器，常用于祭典、能剧、歌舞伎等表演中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4828,
+  "word" : "夫",
+  "reading" : "おっと",
+  "romaji" : null,
+  "meaning" : [ "丈夫" ],
+  "notes" : [ "读作「おっと」时指丈夫，属于相对谦逊或客观的称呼；汉字也可读作「つま」，但在现代日语中「おっと」更为常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4829,
+  "word" : "夫妻",
+  "reading" : "ふさい",
+  "romaji" : null,
+  "meaning" : [ "夫妻，夫妇" ],
+  "notes" : [ "通常指结为夫妻关系的两人，书面语或较为正式的场合常用。口语中常用「夫婦（ふうふ）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4830,
+  "word" : "夫婦",
+  "reading" : "ふうふ",
+  "romaji" : null,
+  "meaning" : [ "夫妻，夫妇" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4831,
+  "word" : "夫／主人",
+  "reading" : "おっと／しゅじん",
+  "romaji" : null,
+  "meaning" : [ "（自己的）丈夫。其中“夫”是通称，“主人”多用于对他人表示尊敬或自谦。" ],
+  "notes" : [ "“夫”是中性词，用于一般场合；“主人”多用于已婚女性对外人提到自己的丈夫，带有自谦或尊敬的语感。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4832,
+  "word" : "失う",
+  "reading" : "うしなう",
+  "romaji" : null,
+  "meaning" : [ "1. 失去，丢失（某物）；2. 丧失，损（性命、机会等）；3. 迷失，不再持有" ],
+  "notes" : [ "书写时注意汉字“失”的写法，不要与“铁（鉄）”混淆。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4833,
+  "word" : "失効",
+  "reading" : "しっこう",
+  "romaji" : null,
+  "meaning" : [ "失去效力；失效；期满作废（通常指票据、契约、权利等因期满或条件不符而失去法律效力）" ],
+  "notes" : [ "多用于法律、商务、金融等领域，指票据、权利、资格等因期满或手续不全等原因失去效力。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4834,
+  "word" : "失念",
+  "reading" : "しつねん",
+  "romaji" : null,
+  "meaning" : [ "忘记，遗忘。多用于郑重场合或书面语，表示一时想不起某事。" ],
+  "notes" : [ "「失念」是「忘れる」的正式语，常用于商务场合或表示谦逊。作为サ变动词「失念する」使用时，词性为动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4835,
+  "word" : "失恋",
+  "reading" : "しつれん",
+  "romaji" : null,
+  "meaning" : [ "失恋；被恋人抛弃" ],
+  "notes" : [ "虽然汉字中包含“恋”，但在日语中通常作为名词使用，表示状态或事件。若要表示动作，通常使用“失恋する”的形式（サ变动词）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4836,
+  "word" : "失敗",
+  "reading" : "しっぱい",
+  "romaji" : null,
+  "meaning" : [ "失败，没有成功；过失，过错" ],
+  "notes" : [ "既可以作为名词使用，也可以作为サ变动词（する）使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4837,
+  "word" : "失敗します",
+  "reading" : "しっぱいします",
+  "romaji" : null,
+  "meaning" : [ "1. 失败，没成功。 2. 出差错，出岔子。" ],
+  "notes" : [ "词干为「失敗（しっぱい）」，属于サ行变格活用动词。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4838,
+  "word" : "失敗に終わる",
+  "reading" : "しっぱいにおわる",
+  "romaji" : null,
+  "meaning" : [ "以失败告终；结果失败" ],
+  "notes" : [ "前接名词，表示某种行为、计划或尝试最终没有成功，以失败告终。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4839,
+  "word" : "失望",
+  "reading" : "しつぼう",
+  "romaji" : null,
+  "meaning" : [ "失望，灰心" ],
+  "notes" : [ "作为サ变动词「失望する」使用时，词性为动词，活用类型为サ变。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4840,
+  "word" : "失格",
+  "reading" : "しっかく",
+  "romaji" : null,
+  "meaning" : [ "失去资格；不够格；没有价值" ],
+  "notes" : [ "作为サ变动词「失格する」使用时，活用类型为「サ变」；作为名词使用时表示失去资格或状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4841,
+  "word" : "失業",
+  "reading" : "しつぎょう",
+  "romaji" : null,
+  "meaning" : [ "失业" ],
+  "notes" : [ "通常作为名词使用，如「失業する」则作为サ变动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4842,
+  "word" : "失業者",
+  "reading" : "しつぎょうしゃ",
+  "romaji" : null,
+  "meaning" : [ "失去工作的人；失业者" ],
+  "notes" : [ "指有劳动能力并愿意工作，但暂时没有工作的人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4843,
+  "word" : "失礼",
+  "reading" : "しつれい",
+  "romaji" : null,
+  "meaning" : [ "名词&サ变动词：失礼，失敬；告辞，告别；（用作寒暄语）对不起，借过，打扰了" ],
+  "notes" : [ "常用作寒暄语，表示歉意、告辞或引起注意。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4844,
+  "word" : "失礼しました",
+  "reading" : "しつれいしました",
+  "romaji" : null,
+  "meaning" : [ "1. 打扰了，失礼了（用于进入房间、离开或引起注意时的客套话）。2. 对不起，抱歉（用于做错事或疏忽时的道歉）。" ],
+  "notes" : [ "「失礼しました」是「失礼する」的过去式，作为固定寒暄语使用。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4845,
+  "word" : "失礼します",
+  "reading" : "しつれいします",
+  "romaji" : null,
+  "meaning" : [ "1. （进别人房间时）打扰了；2. （离开或挂断电话时）告辞了，我走了；3. （做失礼之事前）失礼了，抱歉" ],
+  "notes" : [ "固定搭配，表示客气、礼貌。" ],
+  "pos" : "INTERJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4846,
+  "word" : "失礼ですが",
+  "reading" : "しつれいですが",
+  "romaji" : null,
+  "meaning" : [ "失礼了；不好意思（用于向陌生人搭话、打断别人或提出异议时的客套话）" ],
+  "notes" : [ "由名词“失礼”和接续助词“が”构成，常用于句首表示礼貌或轻微的歉意。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4847,
+  "word" : "失職",
+  "reading" : "しっしょく",
+  "romaji" : null,
+  "meaning" : [ "失去职务；失业；因某种原因失去官职或职位" ],
+  "notes" : [ "通常指官员、公务员或公司高管因某种原因（如违法、违纪等）失去职务，比一般性的“失业”语境更正式且特定。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4848,
+  "word" : "失脚",
+  "reading" : "しっきゃく",
+  "romaji" : null,
+  "meaning" : [ "失足；失态；跌倒；（在政治、社会地位上）垮台，下台" ],
+  "notes" : [ "常用于指政治家或公众人物因丑闻、失误等导致地位丧失或信誉扫地。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4849,
+  "word" : "失調",
+  "reading" : "しっちょう",
+  "romaji" : null,
+  "meaning" : [ "失调，失衡；（电学）失谐" ],
+  "notes" : [ "主要用于医学、生理学或电子工程领域，指平衡状态被破坏或频率不一致。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4850,
+  "word" : "奇妙",
+  "reading" : "きみょう",
+  "romaji" : null,
+  "meaning" : [ "奇妙的，奇怪的，不可思议的" ],
+  "notes" : [ "形容动词（Na-形容词），表示奇怪或不同寻常。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4851,
+  "word" : "奇跡",
+  "reading" : "きせき",
+  "romaji" : null,
+  "meaning" : [ "1. 奇迹；不可思议的事情。2. 惊人的成就；奇迹般的成功。" ],
+  "notes" : [ "也可写作“奇蹟”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4852,
+  "word" : "奉る",
+  "reading" : "うさたまわる",
+  "romaji" : null,
+  "meaning" : [ "（谦逊语）献上，奉上；给（对方）；（自谦语）恭维，奉承" ],
+  "notes" : [ "「奉る」是「する」的谦逊语，表示以谦逊的态度为对方做某事，或者将某物献给上级。在现代日语中，常用「いたす」代替。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4853,
+  "word" : "奉仕",
+  "reading" : "ほうし",
+  "romaji" : null,
+  "meaning" : [ "1. 为社会或公众无私服务（多指义务服务）。2. （商店等）廉价销售商品。" ],
+  "notes" : [ "「奉仕」原本指为了公共利益而效劳，但在商业语境中，常指以低于通常价格出售商品（即「サービス」或「おまけ」）。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4854,
+  "word" : "契機",
+  "reading" : "けいき",
+  "romaji" : null,
+  "meaning" : [ "契机，转机，机会" ],
+  "notes" : [ "常以「～を契機に」的形式表示“以……为契机/开端”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4855,
+  "word" : "契約",
+  "reading" : "けいやく",
+  "romaji" : null,
+  "meaning" : [ "契约，合同；缔结条约" ],
+  "notes" : [ "サ变动词词干。可做「する」动词使用，如「契約する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4856,
+  "word" : "奢る",
+  "reading" : "おごる",
+  "romaji" : null,
+  "meaning" : [ "1. 奢侈，铺张，浪费；2. 请客，款待" ],
+  "notes" : [ "常以「～を奢る」的形式表示请客某人吃或喝。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4857,
+  "word" : "奥",
+  "reading" : "おく",
+  "romaji" : null,
+  "meaning" : [ "最里面；内部，深处；秘密；隐情；（敬称）夫人，令爱" ],
+  "notes" : [ "作为接头词或接尾词使用时，读法可能发生变化。在敬语中，用来称呼别人的妻子或女儿。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4858,
+  "word" : "奥さん",
+  "reading" : "おくさん",
+  "romaji" : null,
+  "meaning" : [ "（您的）太太；夫人（对他人的妻子的尊称）" ],
+  "notes" : [ "用于称呼或提及对方的妻子时，表示尊敬。称呼自己的妻子时通常使用“家内（かない）”或“妻（つま）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4859,
+  "word" : "奥様",
+  "reading" : "おくさま",
+  "romaji" : null,
+  "meaning" : [ "（对他人的妻子的尊称）尊夫人，太太，夫人" ],
+  "notes" : [ "敬语形式，用于称呼或提及他人的妻子，比自己妻子地位高的人的妻子也可以使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4860,
+  "word" : "奥深い",
+  "reading" : "おくぶかい",
+  "romaji" : null,
+  "meaning" : [ "幽深的；深奥的，深远的；深厚的；深沉的" ],
+  "notes" : [ "形容空间深时读作「おくぶかい」，形容内容深奥、深厚时也读作「おくぶかい」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4861,
+  "word" : "奨励",
+  "reading" : "しょうれい",
+  "romaji" : null,
+  "meaning" : [ "奖励，鼓励，提倡" ],
+  "notes" : [ "通常以「奨励する」的形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4862,
+  "word" : "奨学金",
+  "reading" : "しょうがくきん",
+  "romaji" : null,
+  "meaning" : [ "奖学金；助学金" ],
+  "notes" : [ "指为了支援学生学业而支付的资金。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4863,
+  "word" : "奪う",
+  "reading" : "うばう",
+  "romaji" : null,
+  "meaning" : [ "1. 抢夺，剥夺，夺取（生命、自由等）。2. 迷人，强烈吸引（注意力、心魂等）。" ],
+  "notes" : [ "书写时注意偏旁部首，不要写成“大”字旁。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4864,
+  "word" : "奮発",
+  "reading" : "ふんぱつ",
+  "romaji" : null,
+  "meaning" : [ "（精神や気力を）奮い立たせること。また、ある物事をするために、勇気を出して力を尽くすこと。特に、金品を出すことをいう。" ],
+  "notes" : [ "「奮発する（ふんぱつする）」の形でサ変動詞としても用いられる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4865,
+  "word" : "奮闘",
+  "reading" : "ふんとう",
+  "romaji" : null,
+  "meaning" : [ "努力奋战；竭尽全力斗争；为达成目标而拼命努力" ],
+  "notes" : [ "通常作为「サ変動詞（する動詞）」使用。既可以作自动词（表示努力的状态），也可以作他动词（表示进行某种斗争）。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4866,
+  "word" : "女",
+  "reading" : "おんな",
+  "romaji" : null,
+  "meaning" : [ "女性；女子；女人" ],
+  "notes" : [ "通常读作“おんな”。在复合词或表示性别属性时读作“じょ”，如“女性（じょせい）”、“男女（だんじょ）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4867,
+  "word" : "女の子",
+  "reading" : "おんなのこ",
+  "romaji" : null,
+  "meaning" : [ "女孩子；女孩" ],
+  "notes" : [ "指女性儿童或年轻女性。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4868,
+  "word" : "女優",
+  "reading" : "じょゆう",
+  "romaji" : null,
+  "meaning" : [ "女演员" ],
+  "notes" : [ "指从事戏剧舞台、电影、电视等演出的女性职业演员。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4869,
+  "word" : "女子",
+  "reading" : "じょし",
+  "romaji" : null,
+  "meaning" : [ "女子、女孩、女性。通常指年轻女性或女孩。" ],
+  "notes" : [ "通常指年轻的女性或女孩。在正式场合或指代成年女性时，常使用“女性”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4870,
+  "word" : "女将",
+  "reading" : "おかみ",
+  "romaji" : null,
+  "meaning" : [ "（旅馆、饭店等的）老板娘，女主人，女掌柜" ],
+  "notes" : [ "通常指旅馆、餐馆等和式饮食店的女主人或老板娘。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4871,
+  "word" : "女性",
+  "reading" : "じょせい",
+  "romaji" : null,
+  "meaning" : [ "女性；妇女" ],
+  "notes" : [ "指代成年女性时较为正式的用语，比“女”更礼貌。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4872,
+  "word" : "女房",
+  "reading" : "にょうぼう",
+  "romaji" : null,
+  "meaning" : [ "妻子；老婆（古语或尊称，现代多用于指代古代贵族的妻子，或作为敬语的一部分）" ],
+  "notes" : [ "该词属于古语或书面语，现代口语中通常使用“妻（つま）”或“奥さん（おくさん）”。在历史上特指贵族或武士的正妻。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4873,
+  "word" : "奴隷",
+  "reading" : "どれい",
+  "romaji" : null,
+  "meaning" : [ "（1）奴隶。失去人身自由，被他人当作财产占有，供其任意驱使的人。（2）比喻完全受他人或事物支配、失去自主性的人或状态。" ],
+  "notes" : [ "常用于历史语境或比喻义，指失去自由或被支配的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4874,
+  "word" : "好き",
+  "reading" : "すき",
+  "romaji" : null,
+  "meaning" : [ "喜欢的；爱好的" ],
+  "notes" : [ "表示对某人或某事物的喜爱。常用句型为「～が好きです」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4875,
+  "word" : "好き好き",
+  "reading" : "すきずき",
+  "romaji" : null,
+  "meaning" : [ "各有所好；人各有所好；萝卜青菜各有所爱" ],
+  "notes" : [ "表示人的喜好各不相同，无法一概而论。常以「好き好きで」或「好き好きは別として」的形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4876,
+  "word" : "好き嫌い",
+  "reading" : "すききらい",
+  "romaji" : null,
+  "meaning" : [ "（名・ナ形容词）挑剔；好恶；喜欢和讨厌" ],
+  "notes" : [ "可以作名词使用，也可以作为ナ形容词使用，表示对事物的偏好或挑剔。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4877,
+  "word" : "好き［な］",
+  "reading" : "すき［な］",
+  "romaji" : null,
+  "meaning" : [ "喜欢，爱好；喜爱的人或物" ],
+  "notes" : [ "通常接续助词「が」表示对象，如「～が好き」。活用变化与「な形容词」一致。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4878,
+  "word" : "好く",
+  "reading" : "すく",
+  "romaji" : null,
+  "meaning" : [ "喜欢，爱慕；爱好" ],
+  "notes" : [ "多用于书面语或表示某种倾向、爱好，口语中表示“喜欢”时常用“好き（すき）”。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4879,
+  "word" : "好ましい",
+  "reading" : "このましい",
+  "romaji" : null,
+  "meaning" : [ "令人满意的；可喜的；理想的；好的" ],
+  "notes" : [ "表示主观上认为好的、令人满意的事物。否定形式为「好ましくない」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4880,
+  "word" : "好み",
+  "reading" : "このみ",
+  "romaji" : null,
+  "meaning" : [ "喜好，爱好，口味；挑选，选择" ],
+  "notes" : [ "也可以表示“经过挑选的”或“合乎口味的”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4881,
+  "word" : "好む",
+  "reading" : "このむ",
+  "romaji" : null,
+  "meaning" : [ "喜欢，爱好，爱好" ],
+  "notes" : [ "表示某种倾向或喜好。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4882,
+  "word" : "好奇心",
+  "reading" : "こうきしん",
+  "romaji" : null,
+  "meaning" : [ "对事物感到新鲜有趣而想知道的心情；求知欲。" ],
+  "notes" : [ "「旺盛（おうせい）」と一緒に使われることが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4883,
+  "word" : "好意",
+  "reading" : "こうい",
+  "romaji" : null,
+  "meaning" : [ "好意，善意，美意" ],
+  "notes" : [ "表示对他人的善意或友好的感情。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4884,
+  "word" : "好感",
+  "reading" : "こうかん",
+  "romaji" : null,
+  "meaning" : [ "好感、好印象" ],
+  "notes" : [ "通常以「好感を持つ」「好感を抱く」「好感度」等形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4885,
+  "word" : "好況",
+  "reading" : "こうきょう",
+  "romaji" : null,
+  "meaning" : [ "景气，繁荣；商况良好" ],
+  "notes" : [ "反义词为「不況（ふきょう）」。常用于经济或商业语境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4886,
+  "word" : "好物",
+  "reading" : "こうぶつ",
+  "romaji" : null,
+  "meaning" : [ "爱吃的东西，嗜好品" ],
+  "notes" : [ "常用于表达个人的饮食偏好。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4887,
+  "word" : "好評",
+  "reading" : "こうひょう",
+  "romaji" : null,
+  "meaning" : [ "好评，受欢迎，称赞" ],
+  "notes" : [ "通常以「好評を博する（获得好评）」或「好評だ（很受欢迎）」的形式使用。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4888,
+  "word" : "好調",
+  "reading" : "こうちょう",
+  "romaji" : null,
+  "meaning" : [ "顺利，情况良好；状态好" ],
+  "notes" : [ "形容动词（Na-形容词），通常用于描述事情进展顺利或状态良好。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4889,
+  "word" : "如実",
+  "reading" : "にょじつ",
+  "romaji" : null,
+  "meaning" : [ "如实，真实；完全像那个样子" ],
+  "notes" : [ "常以「如実に（に）」的形式作副词使用，意为“如实地”、“逼真地”。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4890,
+  "word" : "妄想",
+  "reading" : "もうそう",
+  "romaji" : null,
+  "meaning" : [ "妄想，胡思乱想，空想" ],
+  "notes" : [ "既可作名词使用，也可作为サ变动词使用（如：妄想する）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4891,
+  "word" : "妊娠",
+  "reading" : "にんしん",
+  "romaji" : null,
+  "meaning" : [ "怀孕，妊娠" ],
+  "notes" : [ "「する」を伴って動詞的に使われることもあります（例：妊娠する）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4892,
+  "word" : "妙",
+  "reading" : "みょう",
+  "romaji" : null,
+  "meaning" : [ "奇妙；奇怪；奥妙；美妙；独特" ],
+  "notes" : [ "作为形容动词使用。既可以表示贬义的“奇怪、离奇”，也可以表示褒义的“美妙、独特”。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4893,
+  "word" : "妥協",
+  "reading" : "だきょう",
+  "romaji" : null,
+  "meaning" : [ "妥协，和解，互让；迁就" ],
+  "notes" : [ "既可以作为名词使用，也可以作为サ变动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4894,
+  "word" : "妥協",
+  "reading" : "だきょう",
+  "romaji" : null,
+  "meaning" : [ "妥协；让步；互让" ],
+  "notes" : [ "「妥協する」的形式使用，意为通过互让达成一致或解决问题。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4895,
+  "word" : "妥当",
+  "reading" : "だとう",
+  "romaji" : null,
+  "meaning" : [ "妥当，妥善，稳妥；合理，适当" ],
+  "notes" : [ "表示某事是合理的、适当的或可以接受的。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4896,
+  "word" : "妥結",
+  "reading" : "だけつ",
+  "romaji" : null,
+  "meaning" : [ "谈妥，达成协议；缔结协定" ],
+  "notes" : [ "主要用于商务、法律或政治场合，指双方达成一致意见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4897,
+  "word" : "妨げ",
+  "reading" : "さまたげ",
+  "romaji" : null,
+  "meaning" : [ "妨碍，妨害，障碍，阻碍。" ],
+  "notes" : [ "通常以动词「妨（さまた）げる」的连用形形式出现，但在句子中也可作为名词使用，表示障碍或妨碍。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4898,
+  "word" : "妨げる",
+  "reading" : "さまたげる",
+  "romaji" : null,
+  "meaning" : [ "妨碍，阻碍，阻挡，阻止" ],
+  "notes" : [ "写作「妨げる」，汉字意为阻碍、妨碍。属于下一段动词。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4899,
+  "word" : "妨害",
+  "reading" : "ぼうがい",
+  "romaji" : null,
+  "meaning" : [ "妨碍，阻碍，干扰；妨害" ],
+  "notes" : [ "也可写作「妨碍」。作为名词使用时，常后续助词「を」或「に」；作为动词使用时，为「さ变动词（する）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4900,
+  "word" : "妬ましい",
+  "reading" : "ねたましい",
+  "romaji" : null,
+  "meaning" : [ "令人嫉妒的；令人羡慕的；眼红的" ],
+  "notes" : [ "表示看到他人的成功、幸福或优势时，产生的不愉快、羡慕或嫉妒的心情。汉字“妬”意为嫉妒。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+} ]

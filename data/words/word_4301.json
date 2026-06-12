@@ -1,0 +1,901 @@
+[ {
+  "id" : 4301,
+  "word" : "咲く",
+  "reading" : "さく",
+  "romaji" : null,
+  "meaning" : [ "1. （花）开放，盛开；2. （像花一样）绽开，露出" ],
+  "notes" : [ "通常用于描述花卉开放，也可引申用于形容笑容等类似花朵绽开的状态；其自动词形式为自身自发的开放动作，无被动态的常用使用场景" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4302,
+  "word" : "咳",
+  "reading" : "せき",
+  "romaji" : null,
+  "meaning" : [ "咳嗽；咳嗽声" ],
+  "notes" : [ "可作为名词使用，也可构成「咳をする」（咳嗽）这样的动词短语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4303,
+  "word" : "哀れ",
+  "reading" : "あわれ",
+  "romaji" : null,
+  "meaning" : [ "1. 悲哀的，悲伤的；2. 可怜的，凄惨的；3. （带有）情趣的，雅趣的" ],
+  "notes" : [ "作「情趣、雅趣」含义使用时，多用于古典或书面表达，形容带有淡淡哀愁感的风雅氛围。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4304,
+  "word" : "哀れむ",
+  "reading" : "あわれむ",
+  "romaji" : null,
+  "meaning" : [ "怜悯，怜惜，同情；可怜，哀怜" ],
+  "notes" : [ "多用来表达对处于困境、弱势状态的人或事物的同情与怜惜，语气较为柔和。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4305,
+  "word" : "品",
+  "reading" : "しな",
+  "romaji" : null,
+  "meaning" : [ "1. 物品，东西；商品；2. 质量，品质；3. （人的）品德，品性" ],
+  "notes" : [ "可构成复合词，如「品質（ひんしつ）」「品物（しなもの）」「上品（じょうひん）」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4306,
+  "word" : "品切れ",
+  "reading" : "しなぎれ",
+  "romaji" : null,
+  "meaning" : [ "卖完，售罄；缺货，断货" ],
+  "notes" : [ "可作为名词使用，也可后续「だ/です」作谓语，部分语境下可形容商品库存耗尽的状态" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4307,
+  "word" : "品数",
+  "reading" : "しなすう",
+  "romaji" : null,
+  "meaning" : [ "物品的种类、品种数量" ],
+  "notes" : [ "侧重指商品或物品的种类数量，常用来描述店铺、卖场等的商品丰富程度。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4308,
+  "word" : "品物",
+  "reading" : "しなもの",
+  "romaji" : null,
+  "meaning" : [ "物品，商品；东西，货色" ],
+  "notes" : [ "可用于指代各类物品，在商业场景中多特指待售商品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4309,
+  "word" : "品種",
+  "reading" : "ひんしゅ",
+  "romaji" : null,
+  "meaning" : [ "品种；种类；（动植物的）品种，品系" ],
+  "notes" : [ "可用于表示动植物的具体品种，也可泛指各类物品的种类" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4310,
+  "word" : "品薄",
+  "reading" : "しなうす",
+  "romaji" : null,
+  "meaning" : [ "缺货，商品供应不足，货源短缺" ],
+  "notes" : [ "作为形容动词使用，常以「品薄になる」「品薄だ」的形式出现，多用于描述商品、物资等供应不足的状态。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4311,
+  "word" : "品質",
+  "reading" : "ひんしつ",
+  "romaji" : null,
+  "meaning" : [ "物品的品质、质量；也可指人的品性、素质" ],
+  "notes" : [ "可用于描述物品的优劣，也可用于形容人的内在素养" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4312,
+  "word" : "品質管理",
+  "reading" : "ひんしつかんり",
+  "romaji" : null,
+  "meaning" : [ "品质管理，质量管理" ],
+  "notes" : [ "多用于制造业、服务业等领域，指为维持和提升产品或服务的品质而进行的一系列管理活动" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4313,
+  "word" : "哲学",
+  "reading" : "てつがく",
+  "romaji" : null,
+  "meaning" : [ "1. 哲学；关于世界观、人生观、价值观的系统理论。2. 个人的处世原则、人生信条。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4314,
+  "word" : "唇",
+  "reading" : "くちびる",
+  "romaji" : null,
+  "meaning" : [ "嘴唇；唇状部分" ],
+  "notes" : [ "可用于指代物体的唇状边缘，如杯子的杯口、容器的边缘等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4315,
+  "word" : "唐揚げ",
+  "reading" : "からあげ",
+  "romaji" : null,
+  "meaning" : [ "炸鸡块；日式油炸鸡肉块（通常指将鸡肉块裹上调味后的面糊或直接蘸上调料后油炸而成的食品）" ],
+  "notes" : [ "是日本料理中常见的家常菜及居酒屋菜品，部分情况下也可泛指其他油炸禽肉块，但通常默认指油炸鸡肉块。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4316,
+  "word" : "唐突",
+  "reading" : "とうとつ",
+  "romaji" : null,
+  "meaning" : [ "1. 突然、出乎意料的，没有预兆的；2. 言行冒昧、不得体，缺乏分寸感的" ],
+  "notes" : [ "作为形容动词使用时，修饰名词需加「な」，修饰动词需加「に」" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4317,
+  "word" : "唐辛子",
+  "reading" : "とうがらし",
+  "romaji" : null,
+  "meaning" : [ "辣椒，辣子" ],
+  "notes" : [ "可缩写为「からし」，但「からし」通常也指芥末，需根据上下文区分；作为香辛料广泛用于日本料理中，如カレー、ラーメン等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4318,
+  "word" : "唯一",
+  "reading" : "ゆいつ",
+  "romaji" : null,
+  "meaning" : [ "唯一，独一无二；仅有的" ],
+  "notes" : [ "作为形容动词使用时，常后续「な」修饰名词，后续「に」修饰动词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4319,
+  "word" : "唱える",
+  "reading" : "となえる",
+  "romaji" : null,
+  "meaning" : [ "1. 诵读，吟诵（诗歌、经文、咒语等）；2. 提倡，宣扬（主张、主义等）；3. 提出，主张（意见、要求等）" ],
+  "notes" : [ "该动词除了表达言语层面的“诵读、宣扬”，也可用于宗教仪式中吟诵咒语等场景，活用遵循一段动词规则，未然形为「となえ」、连用形为「となえ/となえて」等。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4320,
+  "word" : "唸る",
+  "reading" : "うなる",
+  "romaji" : null,
+  "meaning" : [ "1.（动物）吼叫，咆哮；2.（人因痛苦、愤怒、兴奋等）呻吟，低吼；3.（机器、狂风等）轰鸣，呼啸；4.（物体因受压、摩擦等）发出咯吱声" ],
+  "notes" : [ "该词不仅可用于动物、自然现象、机器，还能表现人的情绪性发声以及物体的受压异响，语义场景较为广泛。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4321,
+  "word" : "唾",
+  "reading" : "つば",
+  "romaji" : null,
+  "meaning" : [ "唾液，唾沫；（动物的）口水；比喻话柄、口舌" ],
+  "notes" : [ "口语中有时会略音为「つーば」，可构成惯用句如「唾を吐く（唾弃，瞧不起）」「唾をのむ（忍气吞声）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4322,
+  "word" : "商い",
+  "reading" : "あきない",
+  "romaji" : null,
+  "meaning" : [ "买卖，生意；商业活动；交易" ],
+  "notes" : [ "也可写作「商売」，二者含义相近，但「商い」更侧重具体的买卖行为，「商売」还可指代职业" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4323,
+  "word" : "商う",
+  "reading" : "あきなう",
+  "romaji" : null,
+  "meaning" : [ "1. 买卖，经商，做买卖；2. （特指）贩卖，销售；3. 以...为职业谋生" ],
+  "notes" : [ "「商う」属于较为书面或略显旧式的表达，日常口语中更常用「商売をする」「売る」等说法。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4324,
+  "word" : "商人",
+  "reading" : "しょうにん",
+  "romaji" : null,
+  "meaning" : [ "商人，生意人，从事商品买卖、贸易活动的从业者" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4325,
+  "word" : "商品",
+  "reading" : "しょうひん",
+  "romaji" : null,
+  "meaning" : [ "商品，货品，出售的物品" ],
+  "notes" : [ "可用于指各类用于买卖交易的物品，包括实物商品和部分服务类商品" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4326,
+  "word" : "商品開発",
+  "reading" : "しょうひんかいはつ",
+  "romaji" : null,
+  "meaning" : [ "商品开发；新产品研发，指从市场调研、概念构思到最终产品推出的一系列创造新商品或改良现有商品的活动" ],
+  "notes" : [ "可作为复合名词使用，常与「部」「課」「プロジェクト」等词搭配，如「商品開発部」指负责商品开发的部门" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4327,
+  "word" : "商売",
+  "reading" : "しょうばい",
+  "romaji" : null,
+  "meaning" : [ "1. 生意，买卖，商业；2. 职业，行当；3. 谋生手段" ],
+  "notes" : [ "可作为サ变动词使用，形式为「商売する」，意为做买卖、经商" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4328,
+  "word" : "商店",
+  "reading" : "しょうてん",
+  "romaji" : null,
+  "meaning" : [ "商店，店铺，售卖商品的场所" ],
+  "notes" : [ "通常指规模较小的零售店铺，也可作为各类店铺的统称，与「店（みせ）」含义相近，但「商店」表述更正式一些。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4329,
+  "word" : "商店街",
+  "reading" : "しょうてんがい",
+  "romaji" : null,
+  "meaning" : [ "商业街，商店密集的街道" ],
+  "notes" : [ "多为由多家店铺联合组成的、具备一定规模的商业街区，部分设有遮雨棚等设施，常举办季节性活动" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4330,
+  "word" : "商業",
+  "reading" : "しょうぎょう",
+  "romaji" : null,
+  "meaning" : [ "商业，以盈利为目的进行商品或服务的买卖、流通等经济活动" ],
+  "notes" : [ "可构成复合词如「商業ビル（商业大楼）」「商業登録（商业登记）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4331,
+  "word" : "商社",
+  "reading" : "しょうしゃ",
+  "romaji" : null,
+  "meaning" : [ "商社，贸易公司，从事商品买卖、进出口贸易等业务的企业" ],
+  "notes" : [ "多指代拥有广泛业务网络、涉及进出口贸易的大型贸易企业，部分中小贸易公司也可称为商社" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4332,
+  "word" : "商談",
+  "reading" : "しょうだん",
+  "romaji" : null,
+  "meaning" : [ "商业谈判，贸易洽谈，生意磋商" ],
+  "notes" : [ "可作为サ変動词使用，形式为「商談する」，表示进行商业谈判" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4333,
+  "word" : "問い",
+  "reading" : "とい",
+  "romaji" : null,
+  "meaning" : [ "1. 提问，询问；2. 问题，疑问；3. 询问的内容，质询的事项" ],
+  "notes" : [ "「問い」是动词「問う（とう）」的名词形式，常与「投げかける」「答える」等动词搭配使用，可用于日常对话、书面语等多种场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4334,
+  "word" : "問いただす",
+  "reading" : "といただす",
+  "romaji" : null,
+  "meaning" : [ "（尊敬语）询问，请教，打听；（表示郑重地）盘问" ],
+  "notes" : [ "「問う」的尊敬语形式，用于对长辈、上级或需要表示敬意的对象进行询问的场景，也可用于正式场合下的郑重盘问。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4335,
+  "word" : "問い合わせる",
+  "reading" : "といあわせる",
+  "romaji" : null,
+  "meaning" : [ "询问，咨询，打听；联系，接洽" ],
+  "notes" : [ "该动词常用于正式场景或商务场合，其ます形「問い合わせます」的名词形式为「問い合わせ」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4336,
+  "word" : "問う",
+  "reading" : "とう",
+  "romaji" : null,
+  "meaning" : [ "1. 问，询问，打听；2. 追究，责问；3. 问候，慰问；4. 审讯，审问" ],
+  "notes" : [ "该词除了常见的“询问”含义外，还可用于较正式的场合表示“追究、审讯”等意思，需根据语境区分。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4337,
+  "word" : "問屋",
+  "reading" : "とんや",
+  "romaji" : null,
+  "meaning" : [ "批发商，批发行；中间商" ],
+  "notes" : [ "主要指从事商品批发业务的商家，通常不直接面向普通消费者，而是向零售商进行批量供货" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4338,
+  "word" : "問答",
+  "reading" : "もんどう",
+  "romaji" : null,
+  "meaning" : [ "1. 问答，一问一答；2. 讨论，商议，交涉" ],
+  "notes" : [ "作为サ变自动词使用时，常以「問答する」「問答をする」的形式出现，多用于正式场合的交流、交涉场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4339,
+  "word" : "問題",
+  "reading" : "もんだい",
+  "romaji" : null,
+  "meaning" : [ "1. 问题，题目；2. 问题，疑问；3. 麻烦事，难题" ],
+  "notes" : [ "可构成复合词，如「問題点（もんだいてん）」意为问题点、不足之处；「問題児（もんだいじ）」意为问题儿童、棘手的人或事。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4340,
+  "word" : "問題点",
+  "reading" : "もんだいてん",
+  "romaji" : null,
+  "meaning" : [ "问题点，疑点，争论点，有待解决的事项" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4341,
+  "word" : "啓発",
+  "reading" : "けいはつ",
+  "romaji" : null,
+  "meaning" : [ "1. 启发，启蒙，启迪；2. 开导，劝导" ],
+  "notes" : [ "作为サ变动词使用时，可构成「啓発する」的形式，多用于面向大众的知识普及、观念引导类语境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4342,
+  "word" : "善",
+  "reading" : "ぜん、よい",
+  "romaji" : null,
+  "meaning" : [ "1. 名词：善良、善行、好事；道德上的正确；优点、长处。2. 形容词：好的、善良的、优秀的" ],
+  "notes" : [ "作形容词使用时为形容词「よい」的文言形，现代日语中多用于书面语或固定表达" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4343,
+  "word" : "善良",
+  "reading" : "ぜんりょう",
+  "romaji" : null,
+  "meaning" : [ "心地纯洁正直，待人温和宽厚，没有恶意" ],
+  "notes" : [ "作为ナ形容词使用，修饰名词时需加「な」，作谓语时需加「だ・です」" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4344,
+  "word" : "喉",
+  "reading" : "のど",
+  "romaji" : null,
+  "meaning" : [ "喉咙，咽喉；嗓音；食欲，胃口" ],
+  "notes" : [ "可用于比喻嗓音、食欲等抽象含义，如「喉が上手い」表示嗓音好听，「喉が鳴る」表示饿得慌" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4345,
+  "word" : "喉元",
+  "reading" : "のどもと",
+  "romaji" : null,
+  "meaning" : [ "1. 咽喉，喉咙，嗓子；2. 嘴边，嘴边近处" ],
+  "notes" : [ "除了表示身体部位的咽喉外，还可引申为“嘴边、即将说出口”的抽象含义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4346,
+  "word" : "喘息",
+  "reading" : "ぜんそく",
+  "romaji" : null,
+  "meaning" : [ "哮喘，支气管哮喘" ],
+  "notes" : [ "医学领域常用名词，指一种慢性呼吸道疾病，特征是呼吸急促、喘息等症状，常因过敏、运动等诱发。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4347,
+  "word" : "喜ばしい",
+  "reading" : "よろこばしい",
+  "romaji" : null,
+  "meaning" : [ "喜悦的，令人高兴的，可喜的" ],
+  "notes" : [ "用于描述事物或消息等带来愉悦感，多表达对外部事件的喜悦情绪" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4348,
+  "word" : "喜び",
+  "reading" : "よろこび",
+  "romaji" : null,
+  "meaning" : [ "喜悦，欢喜，高兴；喜事，喜庆之事" ],
+  "notes" : [ "可作为动词「喜ぶ（よろこぶ）」的名词形式使用，也可后续「〜の」作定语修饰名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4349,
+  "word" : "喜びます",
+  "reading" : "よろこびます",
+  "romaji" : null,
+  "meaning" : [ "喜悦，高兴；欢喜，快乐；欣然接受，乐意做" ],
+  "notes" : [ "「喜びます」是动词「喜ぶ（よろこぶ）」的ます形，多用于正式场合或礼貌表达，除表达情绪外，还可用于礼貌地接受邀请、提议等场景。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4350,
+  "word" : "喜ぶ",
+  "reading" : "よろこぶ",
+  "romaji" : null,
+  "meaning" : [ "1. 高兴，欢喜，喜悦；2. 欣然接受，乐意做；3. 感到欣慰，庆幸" ],
+  "notes" : [ "可用于表达对事物的愉悦情绪，也可表示乐意接受请求、对他人的成长或成果感到欣慰。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4351,
+  "word" : "喜んで",
+  "reading" : "よろこんで",
+  "romaji" : null,
+  "meaning" : [ "高兴地，乐意地，非常愿意地" ],
+  "notes" : [ "由动词「喜ぶ（よろこぶ）」的连用形后续「で」构成，用于表达积极乐意的态度" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4352,
+  "word" : "喜劇",
+  "reading" : "きげき",
+  "romaji" : null,
+  "meaning" : [ "1. 喜剧（以幽默、滑稽的情节引人发笑，通常有圆满结局的戏剧、电影等作品类型）；2. 滑稽可笑的事，闹剧" ],
+  "notes" : [ "可用于指代各类喜剧形式，包括舞台喜剧、喜剧电影等，也可引申形容现实中荒诞滑稽的事件" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4353,
+  "word" : "喝采",
+  "reading" : "かっさい",
+  "romaji" : null,
+  "meaning" : [ "1. 名词：喝彩，欢呼，叫好；2. 动词（サ変）：喝彩，欢呼，叫好" ],
+  "notes" : [ "作为サ変动词使用时，可构成「喝采する」的形式，表达进行喝彩的动作" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4354,
+  "word" : "喧嘩",
+  "reading" : "けんか",
+  "romaji" : null,
+  "meaning" : [ "1. 吵架，争吵，口角；2. 打架，斗殴；3. 纠纷，争执" ],
+  "notes" : [ "作为动词使用时通常以「喧嘩をする」「喧嘩する」的形式出现" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4355,
+  "word" : "喪失",
+  "reading" : "そうしつ",
+  "romaji" : null,
+  "meaning" : [ "1. 丧失，失去（原有之物、权利、能力等）；2. 死亡（婉辞）" ],
+  "notes" : [ "作为サ变自动词使用时，常以「～を喪失する」的形式出现，多用于较为正式的书面语或严肃语境中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4356,
+  "word" : "喪服",
+  "reading" : "もっぷく",
+  "romaji" : null,
+  "meaning" : [ "丧服，孝服；服丧期间所穿的黑色或素色服装" ],
+  "notes" : [ "通常指为参加葬礼、吊唁等场合穿着的正式素色服装，日本传统丧服多为黑色正装" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4357,
+  "word" : "喫煙",
+  "reading" : "きつえん0",
+  "romaji" : null,
+  "meaning" : [ "吸烟，抽烟；吸烟行为" ],
+  "notes" : [ "作为サ変动词使用时可构成「喫煙する」的形式，表达“进行吸烟”的动作；公共场所常见标识「喫煙禁止」「喫煙所」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4358,
+  "word" : "喫煙席",
+  "reading" : "きつえんせき",
+  "romaji" : null,
+  "meaning" : [ "吸烟席，吸烟区（餐厅、车站等场所内专门设置的可供吸烟的座位区域）" ],
+  "notes" : [ "「喫煙席」特指带有座位的吸烟区域，与无固定座位的「喫煙所（きつえんじょ）」有所区别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4359,
+  "word" : "喫煙所",
+  "reading" : "きつえんじょ",
+  "romaji" : null,
+  "meaning" : [ "吸烟处，吸烟室" ],
+  "notes" : [ "指专门设置的供人吸烟的场所，公共场所多设置有独立的喫煙所以避免二手烟影响他人" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4360,
+  "word" : "喫煙者",
+  "reading" : "きつえんしゃ",
+  "romaji" : null,
+  "meaning" : [ "吸烟者" ],
+  "notes" : [ "指有吸烟习惯的人，其对应反义词为「非喫煙者（ひきつえんしゃ）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4361,
+  "word" : "喫茶",
+  "reading" : "きっさ",
+  "romaji" : null,
+  "meaning" : [ "1. 喝茶，饮茶；2. （日本的）咖啡馆，茶馆" ],
+  "notes" : [ "作为名词使用时，可单独指饮茶行为，也常与「店」组成「喫茶店」表示咖啡馆；在日本语境中，「喫茶」更多关联带有休闲属性的咖啡馆文化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4362,
+  "word" : "喫茶店",
+  "reading" : "きってんてん",
+  "romaji" : null,
+  "meaning" : [ "咖啡馆，茶馆，提供茶饮、咖啡及简餐的店铺" ],
+  "notes" : [ "除饮品外，多数喫茶店也提供三明治、蛋糕等轻食，部分店铺设有包厢，适合休闲、商谈等场景" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4363,
+  "word" : "営む",
+  "reading" : "いとなむ",
+  "romaji" : null,
+  "meaning" : [ "1. 从事，经营（事业、生意等）；2. 举办，进行（活动、仪式等）；3. 过（生活），维持（生计）" ],
+  "notes" : [ "「営む」是他动词，可接を提示动作的对象；当表示维持生活时也可自动词用法，如「田舎で営む」（在乡下过日子）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4364,
+  "word" : "営巣地",
+  "reading" : "えいそうち",
+  "romaji" : null,
+  "meaning" : [ "筑巢地，营巢区域，供鸟类、昆虫等动物建造巢穴栖息的场所" ],
+  "notes" : [ "多用于表述野生鸟类、哺乳类、昆虫等野生动物的巢穴所在区域，是生态相关领域的常用词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4365,
+  "word" : "営業",
+  "reading" : "えいぎょう",
+  "romaji" : null,
+  "meaning" : [ "1. 营业，经商，开展商务活动；2. 销售，推销（商品、服务等）；3. （店铺、公司等的）营业期间，营业时间" ],
+  "notes" : [ "作为サ变动词使用时，可构成「営業する」的形式；部分店铺会用「営業中」「営業終了」的标识来提示营业状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4366,
+  "word" : "営業課",
+  "reading" : "えいぎょうか",
+  "romaji" : null,
+  "meaning" : [ "公司等组织中负责营业、销售业务的部门，即营业科、销售科" ],
+  "notes" : [ "属于公司内部的部门名称，一般在正式场合或职场语境中使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4367,
+  "word" : "営業部",
+  "reading" : "えいぎょうぶ",
+  "romaji" : null,
+  "meaning" : [ "负责公司销售、客户对接、业务拓展等工作的部门，即营业部" ],
+  "notes" : [ "属于公司组织架构中的常见部门名称，可简称为「営業」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4368,
+  "word" : "嗄れる",
+  "reading" : "かれる",
+  "romaji" : null,
+  "meaning" : [ "（声音）嘶哑，沙哑；因说话过多或劳累等导致嗓子发哑" ],
+  "notes" : [ "通常用于描述因过度用嗓、感冒、疲劳等原因导致的嗓音沙哑状态" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4369,
+  "word" : "嗅ぐ",
+  "reading" : "かぐ",
+  "romaji" : null,
+  "meaning" : [ "1. 闻，嗅；用鼻子闻气味。2. 探听，打探；暗中打听消息、情况等。" ],
+  "notes" : [ "「嗅ぐ」除了表示用鼻子闻气味的基本含义外，还可引申为打探消息的抽象用法，在口语和书面语中均有使用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4370,
+  "word" : "嗅覚",
+  "reading" : "きゅうかく",
+  "romaji" : null,
+  "meaning" : [ "嗅觉，指鼻腔内的嗅觉感受器感知气味的感觉功能" ],
+  "notes" : [ "属于感官相关的名词，常用于生理学、日常描述感官状态的语境中" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4371,
+  "word" : "嗜む",
+  "reading" : "たしなむ",
+  "romaji" : null,
+  "meaning" : [ "1. 爱好，喜好，嗜好；2. 节制，谨慎，适度；3. 熟悉，通晓" ],
+  "notes" : [ "该词多用于表达对事物的喜好、生活上的节制态度以及对知识技艺等的通晓，书面语色彩较强。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4372,
+  "word" : "嗜好",
+  "reading" : "しこう",
+  "romaji" : null,
+  "meaning" : [ "1. 嗜好，喜好；偏好。指对特定事物的喜爱倾向。2. （烟酒等的）瘾" ],
+  "notes" : [ "可作サ変動詞用法，如「嗜好する」，表示“喜好，嗜好”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4373,
+  "word" : "嗜好品",
+  "reading" : "しこうひん",
+  "romaji" : null,
+  "meaning" : [ "嗜好品，指为满足特殊喜好而使用的物品，常见的有烟酒、咖啡、茶等饮品或食品" ],
+  "notes" : [ "原条目“嗜好品饮品”表述冗余，日语中「嗜好品」已涵盖饮品、食品等范畴，故修正为「嗜好品」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4374,
+  "word" : "嗽",
+  "reading" : "すすぐ",
+  "romaji" : null,
+  "meaning" : [ "漱口，涮洗" ],
+  "notes" : [ "作为「すすぐ」的汉字写法之一，除表示漱口外，还可表示涮洗容器、餐具等物品的动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4375,
+  "word" : "嘆かわしい",
+  "reading" : "なげかわしい",
+  "romaji" : null,
+  "meaning" : [ "可叹的，可悲的，令人惋惜的" ],
+  "notes" : [ "多用来表达对不幸遭遇、错失机会等情况的惋惜、感慨之情" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4376,
+  "word" : "嘆く",
+  "reading" : "なげく",
+  "romaji" : null,
+  "meaning" : [ "1. 叹息，叹气；2. 哀叹，悲叹；3. 惋惜，遗憾；4. 抱怨，发牢骚" ],
+  "notes" : [ "可用于表达对自身遭遇、他人境遇的伤感惋惜，也可用于对不满事物的抱怨，部分语境下可与「嘆き（なげき）」（名词形式）搭配使用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4377,
+  "word" : "嘗める/舐める",
+  "reading" : "なめる",
+  "romaji" : null,
+  "meaning" : [ "1. 舔，舐；2. 尝，品（味道）；3. 历经，体验；4. 轻视，看不起；5. （火焰等）舔舐，烧及" ],
+  "notes" : [ "「嘗める」多用于表示“尝（味道）”的含义，「舐める」可用于所有含义，在日常使用中「舐める」更为常用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4378,
+  "word" : "嘘",
+  "reading" : "うそ",
+  "romaji" : null,
+  "meaning" : [ "1. 谎言，假话；2. 错误，不正确；3. 不真实的事物，假象" ],
+  "notes" : [ "可构成常用短语「嘘をつく」（说谎），作为名词可后续「だ・です」等判断助动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4379,
+  "word" : "嘘つき",
+  "reading" : "うそつき",
+  "romaji" : null,
+  "meaning" : [ "1. 说谎的人，爱撒谎的人；2. 谎言，假话" ],
+  "notes" : [ "作为形容动词使用时，常后续「だ・です」等形式，如「嘘つきな人」「嘘つきで困る」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4380,
+  "word" : "嘲笑う",
+  "reading" : "あざわらう",
+  "romaji" : null,
+  "meaning" : [ "嘲笑，讥笑，嘲弄" ],
+  "notes" : [ "多含贬义，多用于对他人的失败、弱点等进行轻蔑的取笑。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4381,
+  "word" : "嘴",
+  "reading" : "くちばし",
+  "romaji" : null,
+  "meaning" : [ "（鸟类、爬虫类等的）嘴，喙；（器物的）嘴，口" ],
+  "notes" : [ "除了表示动物的喙外，也可用于指代壶、壶等器物的嘴部。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4382,
+  "word" : "噂",
+  "reading" : "うわさ",
+  "romaji" : null,
+  "meaning" : [ "1. 传言，风言风语；2. 议论，闲话；3. 传闻中的（人或事）" ],
+  "notes" : [ "可作为「噂する」的词干使用，构成サ变动词「噂する」，意为“谣传，传说”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4383,
+  "word" : "噛み切る",
+  "reading" : "かみきる",
+  "romaji" : null,
+  "meaning" : [ "1. 咬断，咬破；2. 咬碎，嚼碎；3. （用话语）顶撞，呛人" ],
+  "notes" : [ "「噛み切る」除了表示实际的咬的动作外，还可引申为用尖锐的话语反驳、呛人的含义，属于动词的引申用法。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4384,
+  "word" : "噛み締める",
+  "reading" : "かみしめる",
+  "romaji" : null,
+  "meaning" : [ "1. 用力咬紧，紧咬；2. 仔细品味，认真体会（话语、经历、情感等）" ],
+  "notes" : [ "「噛み締める」除了表示物理层面的咬紧动作，更常用于抽象意义上对内容的深入咀嚼与领悟，多搭配言语、教训、情感等抽象名词使用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4385,
+  "word" : "噛む",
+  "reading" : "かむ",
+  "romaji" : null,
+  "meaning" : [ "1. 咬，啃，嚼；2. （齿轮等）咬合，啮合；3. （说话）尖酸刻薄，讽刺；4. （车轮等）打滑空转" ],
+  "notes" : [ "「噛む」除了表示口腔的动作外，还可用于描述机械部件的咬合状态、言语的尖锐性以及车轮打滑等场景，需根据语境判断具体含义。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4386,
+  "word" : "器",
+  "reading" : "うつわ; き",
+  "romaji" : null,
+  "meaning" : [ "1. 容器，器皿；2. 才干，才能，器量；3. （人或事物的）素质，资质" ],
+  "notes" : [ "「うつわ」读音多用于表示容器、器皿类含义；「き」读音多用于表示才干、器量等抽象含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4387,
+  "word" : "器具",
+  "reading" : "きぐ",
+  "romaji" : null,
+  "meaning" : [ "器具，用具，器械，指用于特定用途的工具或装置" ],
+  "notes" : [ "可构成复合词，如「調理器具（ちょうりきぐ）」「実験器具（じっけんきぐ）」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4388,
+  "word" : "器械",
+  "reading" : "きかい",
+  "romaji" : null,
+  "meaning" : [ "机器，器械；仪器，器具；工具，设备" ],
+  "notes" : [ "可用于表示工业生产、实验等场景中的各类机械、仪器设备，也可指代特定用途的工具类物品" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4389,
+  "word" : "器用",
+  "reading" : "きよう",
+  "romaji" : null,
+  "meaning" : [ "1. 灵巧，手巧；2. 精巧，精致；3. 巧妙，精明；4. 能干，会来事" ],
+  "notes" : [ "作为形容动词使用，常接「に」修饰动词，接「な」修饰名词；也可构成惯用句「器用貧乏」，指样样都会但样样不精的人。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4390,
+  "word" : "器量",
+  "reading" : "きりょう",
+  "romaji" : null,
+  "meaning" : [ "1. 才能，才干，能力；2. 容貌，姿色；3. 器量，度量，心胸" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4391,
+  "word" : "噴き出す",
+  "reading" : "ふきだす",
+  "romaji" : null,
+  "meaning" : [ "1. 液体、气体、火焰等喷出、冒出、涌出；2. 忍不住笑出来、扑哧笑出声；3. （感情、话语等）突然爆发、脱口而出" ],
+  "notes" : [ "「噴き出す」除了表示具体物质的喷发，也常用于描述情绪、笑声等抽象事物的突然爆发；作为自动词使用，主语通常是喷发的主体或情绪的持有者。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4392,
+  "word" : "噴水",
+  "reading" : "ふんすい",
+  "romaji" : null,
+  "meaning" : [ "喷泉，喷水池；喷水装置" ],
+  "notes" : [ "可指户外景观用的喷泉，也可指工业、园艺等场景中的喷水设施" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4393,
+  "word" : "噴火",
+  "reading" : "ふんか",
+  "romaji" : null,
+  "meaning" : [ "1. 火山喷发；2.（愤怒、感情等）爆发，迸发" ],
+  "notes" : [ "作为サ变动词使用时，常以「噴火する」的形式出现；除火山喷发外，也可用于抽象的情绪、力量等爆发的语境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4394,
+  "word" : "囀る",
+  "reading" : "さえずる",
+  "romaji" : null,
+  "meaning" : [ "1.（小鸟等）鸣叫，啼啭；2.（人）喋喋不休，絮絮叨叨" ],
+  "notes" : [ "该动词多用于描述鸟类婉转的鸣叫声，用于形容人说话时带有贬义色彩，指没完没了地闲聊" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4395,
+  "word" : "四",
+  "reading" : "よん、し",
+  "romaji" : null,
+  "meaning" : [ "数词，用于表示数量“四”" ],
+  "notes" : [ "作基数词时一般读作「よん」，用于月份、日期、某些固定词汇（如四季・四方）时读作「し」" ],
+  "pos" : "NUM",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4396,
+  "word" : "四つ",
+  "reading" : "よっつ",
+  "romaji" : null,
+  "meaning" : [ "四个；四岁" ],
+  "notes" : [ "是日语中用于计数个数的固有词数词，主要用于1~10的个数计数，对应汉音数词「四個（よんこ）」，但在日常口语中更常用固有词形式。" ],
+  "pos" : "NUM",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4397,
+  "word" : "四つ葉",
+  "reading" : "よつば",
+  "romaji" : null,
+  "meaning" : [ "四瓣叶子；特指四叶草，常被视为幸运的象征" ],
+  "notes" : [ "通常指四叶的三叶草，在日本文化中被认为能带来好运，常用于饰品、插画等的设计元素" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4398,
+  "word" : "四つ角",
+  "reading" : "よつかど",
+  "romaji" : null,
+  "meaning" : [ "1. 四个角；四边形的四个角；2. 十字路口，交叉路口" ],
+  "notes" : [ "除了表示具体的四个角，在日常对话中更常用的含义是十字路口、交叉路口" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4399,
+  "word" : "四合院",
+  "reading" : "しかいいん",
+  "romaji" : null,
+  "meaning" : [ "中国の伝統的な住宅様式の一つで、四方に建物を配置して中庭を囲んだ構造の家。日本の武家屋敷に類似する。" ],
+  "notes" : [ "主に中国の伝統住宅を指す和製漢語で、日本国内ではあまり一般的に使われない語彙。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4400,
+  "word" : "四季",
+  "reading" : "しき",
+  "romaji" : null,
+  "meaning" : [ "指春、夏、秋、冬四个季节，也可引申指一年的时间、岁月" ],
+  "notes" : [ "常用于描述季节分明的地域，也可构成「四季折々（しきおりおり）」等固定表达，意为四季各异、应季" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

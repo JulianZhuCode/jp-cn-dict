@@ -1,0 +1,901 @@
+[ {
+  "id" : 9601,
+  "word" : "茶の間",
+  "reading" : "ちゃのま",
+  "romaji" : null,
+  "meaning" : [ "和室中兼作起居、用餐等用途的房间；茶室" ],
+  "notes" : [ "在日本传统住宅中常见，是家庭生活的重要空间" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9602,
+  "word" : "茶わん",
+  "reading" : "ちゃわん0",
+  "romaji" : null,
+  "meaning" : [ "茶碗；茶盏；（盛茶、汤、饭等的）碗" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9603,
+  "word" : "茶碗",
+  "reading" : "ちゃわん",
+  "romaji" : null,
+  "meaning" : [ "茶碗；饭碗；（盛饭、盛汤等的）碗" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9604,
+  "word" : "茶筒",
+  "reading" : "ちゃづつ",
+  "romaji" : null,
+  "meaning" : [ "装茶叶等的圆筒形容器" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9605,
+  "word" : "茶色い",
+  "reading" : "ちゃいろい",
+  "romaji" : null,
+  "meaning" : [ "形容词，茶色的，褐色的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9606,
+  "word" : "茶道",
+  "reading" : "さどう",
+  "romaji" : null,
+  "meaning" : [ "日本传统的品茶、茶艺文化，包括茶室布置、茶具使用、泡茶和奉茶等一整套礼仪规范。" ],
+  "notes" : [ "茶道是日本独特的传统文化之一，注重和、敬、清、寂的精神境界。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9607,
+  "word" : "茶飯事",
+  "reading" : "ちゃはんごと",
+  "romaji" : null,
+  "meaning" : [ "日常琐事；平常的事，常有的事" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9608,
+  "word" : "茹でる",
+  "reading" : "ゆでる",
+  "romaji" : null,
+  "meaning" : [ "(用开水)煮；烫；焯；把（食物等）放在热水里煮到一定程度" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9609,
+  "word" : "草",
+  "reading" : "くさ",
+  "romaji" : null,
+  "meaning" : [ "草；杂草；牧草；稻草；麦秸；（书写用的）草稿，底稿；（文章）草稿，底稿" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9610,
+  "word" : "荒い",
+  "reading" : "あらい",
+  "romaji" : null,
+  "meaning" : [ "激烈的；粗暴的；乱来的；粗糙的；不平静的（如海面等）" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9611,
+  "word" : "荒っぽい",
+  "reading" : "あらっぽい",
+  "romaji" : null,
+  "meaning" : [ "粗野的，粗暴的；不细腻的，粗糙的；（天气、海面等）狂暴的，汹涌的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9612,
+  "word" : "荒らす",
+  "reading" : "あらす",
+  "romaji" : null,
+  "meaning" : [ "1. 使荒芜，糟蹋；破坏，毁坏（建物・道などを壊したり、物を無駄遣いしたりする）。2. 扰乱，搅乱（秩序や静けさを乱す）。3. 翻弄，折腾（人物をいじめる）。4. 偷窃（泥棒が家などを荒らす）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9613,
+  "word" : "荒れる",
+  "reading" : "あれる",
+  "romaji" : null,
+  "meaning" : [ "波涛汹涌；荒芜，荒废；胡闹，荒唐；变粗糙；（皮肤等）变粗糙，变粗糙；（声音等）变粗，变沙哑；（天气等）变坏，恶化" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9614,
+  "word" : "荒廃",
+  "reading" : "こうはい",
+  "romaji" : null,
+  "meaning" : [ "荒废，荒芜；（精神、道德等方面）颓废，堕落" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9615,
+  "word" : "荷物",
+  "reading" : "にもつ",
+  "romaji" : null,
+  "meaning" : [ "行李；包裹；货物" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9616,
+  "word" : "荷造り",
+  "reading" : "にづくり",
+  "romaji" : null,
+  "meaning" : [ "打包，包装；包装工作；包装的方法、样式" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9617,
+  "word" : "莫大",
+  "reading" : "ばくだい",
+  "romaji" : null,
+  "meaning" : [ "非常大，巨大；数量极多" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9618,
+  "word" : "菊",
+  "reading" : "きく",
+  "romaji" : null,
+  "meaning" : [ "菊花；菊科植物；（日本皇室的家徽）菊纹" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9619,
+  "word" : "華々しい",
+  "reading" : "はなばなしい",
+  "romaji" : null,
+  "meaning" : [ "华丽的，豪华的；壮丽的，轰轰烈烈的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9620,
+  "word" : "華やか",
+  "reading" : "はなやか",
+  "romaji" : null,
+  "meaning" : [ "华丽的；绚烂的；辉煌的；盛大的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9621,
+  "word" : "華奢",
+  "reading" : "かしゃ",
+  "romaji" : null,
+  "meaning" : [ "苗条的，纤细的；纤弱的，不结实的；做工轻巧、精致" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9622,
+  "word" : "萎む",
+  "reading" : "しおれる",
+  "romaji" : null,
+  "meaning" : [ "（植物等）枯萎，凋谢；（精神、热情等）萎靡，消沉；（力量、气势等）减弱" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9623,
+  "word" : "萎れる",
+  "reading" : "しおれる",
+  "romaji" : null,
+  "meaning" : [ "1. 枯萎，凋谢；2. （精神、意志等）萎靡，消沉，沮丧；3. （物体）失去弹性、松软" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9624,
+  "word" : "萎縮",
+  "reading" : "いしゅく",
+  "romaji" : null,
+  "meaning" : [ "萎缩；退缩，畏缩" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9625,
+  "word" : "落ちかかる",
+  "reading" : "おちかかる",
+  "romaji" : null,
+  "meaning" : [ "眼看要落下，就要掉下来；（事情等）即将发生、即将开始" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9626,
+  "word" : "落ちます",
+  "reading" : "おちます",
+  "romaji" : null,
+  "meaning" : [ "落下，掉落；（价格等）下降；落选；（从交通工具等）下来；陷入（某种状态）" ],
+  "notes" : [ "在表示‘从交通工具等下来’时，常与‘から’搭配使用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9627,
+  "word" : "落ちる",
+  "reading" : "おちる",
+  "romaji" : null,
+  "meaning" : [ "落下；掉下；降落；（地位、成绩等）下降；陷入（某种状态）；脱落；落选" ],
+  "notes" : [ "自他动词需注意区分，他动词是「落とす」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9628,
+  "word" : "落ち度",
+  "reading" : "おちど",
+  "romaji" : null,
+  "meaning" : [ "过失，过错，疏忽，失误" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9629,
+  "word" : "落ち着き",
+  "reading" : "おちつき",
+  "romaji" : null,
+  "meaning" : [ "沉着，镇静；稳定；安稳，平静；安静，寂静；习惯，适应" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9630,
+  "word" : "落ち着く",
+  "reading" : "おちつく",
+  "romaji" : null,
+  "meaning" : [ "1. 稳定，安定；2. 平静下来，镇静；3. 安静，寂静；4. 定居，安身；5. 决定，确定" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9631,
+  "word" : "落ち葉",
+  "reading" : "おちば",
+  "romaji" : null,
+  "meaning" : [ "落叶" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9632,
+  "word" : "落ち込む",
+  "reading" : "おちこむ",
+  "romaji" : null,
+  "meaning" : [ "1. 掉进，掉入；2. 陷入（消极状态等），情绪低落，消沉；3. 凹进去；4. （价格等）下降，下跌" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9633,
+  "word" : "落とします",
+  "reading" : "おとします",
+  "romaji" : null,
+  "meaning" : [ "使落下；掉落，掉下；弄掉；放下，丢下；取下；减少，降低；让（乘客等）下车、下船等；打败，击败" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9634,
+  "word" : "落とし物",
+  "reading" : "おとしもの",
+  "romaji" : null,
+  "meaning" : [ "遗失的物品，失物" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9635,
+  "word" : "落とす",
+  "reading" : "おとす",
+  "romaji" : null,
+  "meaning" : [ "使落下；弄掉；掉落；丢失；遗漏；去掉；扣除；降低；让（乘客等）下车、下船等" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9636,
+  "word" : "落下",
+  "reading" : "らっか",
+  "romaji" : null,
+  "meaning" : [ "（物体等）从高处向低处下降、掉落；（成绩、数值等）下降" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9637,
+  "word" : "落書き",
+  "reading" : "らくがき",
+  "romaji" : null,
+  "meaning" : [ "涂鸦，乱写乱画；胡乱写的字或画的画" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9638,
+  "word" : "落第",
+  "reading" : "らくだい",
+  "romaji" : null,
+  "meaning" : [ "（考试等）不及格；落榜；落选" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9639,
+  "word" : "落語",
+  "reading" : "らくご",
+  "romaji" : null,
+  "meaning" : [ "一种日本传统曲艺形式，以单口讲笑话、讲故事为主要表演方式" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9640,
+  "word" : "落選する",
+  "reading" : "らくせんする",
+  "romaji" : null,
+  "meaning" : [ "落选；考试落榜" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9641,
+  "word" : "葉",
+  "reading" : "は",
+  "romaji" : null,
+  "meaning" : [ "叶，叶子；书页；花瓣" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9642,
+  "word" : "著しい",
+  "reading" : "いちじるしい",
+  "romaji" : null,
+  "meaning" : [ "显著的，明显的；非常的，厉害的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9643,
+  "word" : "著す",
+  "reading" : "しょす",
+  "romaji" : null,
+  "meaning" : [ "写，书写；著书，写作；显著，明显；（在衣物等上）穿戴" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9644,
+  "word" : "著名",
+  "reading" : "ちょめい",
+  "romaji" : null,
+  "meaning" : [ "有名，闻名；卓著" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9645,
+  "word" : "著書",
+  "reading" : "ちょしょ",
+  "romaji" : null,
+  "meaning" : [ "著书，著作，撰写的书籍" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9646,
+  "word" : "著者",
+  "reading" : "ちょしゃ",
+  "romaji" : null,
+  "meaning" : [ "著者，作者" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9647,
+  "word" : "葛藤",
+  "reading" : "かっとう",
+  "romaji" : null,
+  "meaning" : [ "纠葛，纠纷；心里矛盾，内心冲突" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9648,
+  "word" : "葡萄",
+  "reading" : "ぶどう",
+  "romaji" : null,
+  "meaning" : [ "葡萄；葡萄果实；葡萄藤" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9649,
+  "word" : "葬る",
+  "reading" : "ほうむる",
+  "romaji" : null,
+  "meaning" : [ "1. 埋葬，安葬；2. 掩盖，掩饰，隐瞒；3. 使（希望、计划等）破灭，断送" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9650,
+  "word" : "葱",
+  "reading" : "ねぎ",
+  "romaji" : null,
+  "meaning" : [ "葱，大葱；葱属植物" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9651,
+  "word" : "蒔く",
+  "reading" : "まく",
+  "romaji" : null,
+  "meaning" : [ "1. 播，种；2. 散布，撒；3. 涂抹（粉末等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9652,
+  "word" : "蒸し暑い",
+  "reading" : "むしあつい",
+  "romaji" : null,
+  "meaning" : [ "闷热，湿热" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9653,
+  "word" : "蒸す",
+  "reading" : "むす",
+  "romaji" : null,
+  "meaning" : [ "1. 蒸，蒸煮；2. 闷热，发闷" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9654,
+  "word" : "蒸気",
+  "reading" : "じょうき",
+  "romaji" : null,
+  "meaning" : [ "蒸汽，水蒸气" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9655,
+  "word" : "蒸留",
+  "reading" : "じょうりゅう",
+  "romaji" : null,
+  "meaning" : [ "将液体加热使其变成蒸汽，再使蒸汽冷却凝结成液体，以分离或提纯物质的操作，即蒸馏。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9656,
+  "word" : "蒸発",
+  "reading" : "じょうはつ",
+  "romaji" : null,
+  "meaning" : [ "1. 蒸发；2. （人或钱等）失踪，消失" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9657,
+  "word" : "蓄える",
+  "reading" : "ためる",
+  "romaji" : null,
+  "meaning" : [ "储存，储备；积攒（金钱、物品等）；留，蓄（头发等）；怀有（感情等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9658,
+  "word" : "蓄積",
+  "reading" : "ちくせき",
+  "romaji" : null,
+  "meaning" : [ "积蓄，积累，积攒；（生物学等领域指物质等的）蓄积" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9659,
+  "word" : "蓋",
+  "reading" : "かぶせる; ふた",
+  "romaji" : null,
+  "meaning" : [ "1. 盖子，罩子，盖儿。（物の口を塞ぐもの。） 2. 覆盖，蒙上，罩上。（物の上にかぶせること。）" ],
+  "notes" : [ "「かぶせる」是他动词，「ふた」是名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9660,
+  "word" : "蔓延る",
+  "reading" : "まんえんする",
+  "romaji" : null,
+  "meaning" : [ "（火势、疾病、情感等）蔓延，（气味、烟雾等）弥漫" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9661,
+  "word" : "蕁麻疹",
+  "reading" : "ぜんましん",
+  "romaji" : null,
+  "meaning" : [ "一种皮肤病，通常表现为皮肤上突然出现的瘙痒性风团，可自行消退但容易反复发作。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9662,
+  "word" : "蕾",
+  "reading" : "つぼみ",
+  "romaji" : null,
+  "meaning" : [ "花蕾；（事物发展的）萌芽状态" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9663,
+  "word" : "薄い",
+  "reading" : "うすい",
+  "romaji" : null,
+  "meaning" : [ "薄的；淡的；浅的；稀薄的；微弱的；不浓的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9664,
+  "word" : "薄っぺら",
+  "reading" : "うすっぺら",
+  "romaji" : null,
+  "meaning" : [ "很薄的，单薄的；浅薄的，肤浅的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9665,
+  "word" : "薄める",
+  "reading" : "うすめる",
+  "romaji" : null,
+  "meaning" : [ "使变薄；稀释；淡化；减轻（味道、颜色、浓度等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9666,
+  "word" : "薄れる",
+  "reading" : "うすれる",
+  "romaji" : null,
+  "meaning" : [ "减弱，减退；变稀薄；变模糊；褪色" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9667,
+  "word" : "薄味",
+  "reading" : "うすあじ",
+  "romaji" : null,
+  "meaning" : [ "味道淡；清淡的味道" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9668,
+  "word" : "薄型",
+  "reading" : "うすがた",
+  "romaji" : null,
+  "meaning" : [ "薄的类型；薄的形状；薄型（指物品厚度较薄的样式或类型）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9669,
+  "word" : "薄弱",
+  "reading" : "はくじゃく",
+  "romaji" : null,
+  "meaning" : [ "（意志、体力等）薄弱，不坚定；（基础、实力等）薄弱；（证据等）不充足" ],
+  "notes" : [ "「薄弱」是形容动词，词尾活用遵循形容动词规则，如修饰名词时用「薄弱な」，作谓语时用「薄弱だ」等形式。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9670,
+  "word" : "薄明るい",
+  "reading" : "うすあかるい",
+  "romaji" : null,
+  "meaning" : [ "微亮的，有点亮的；光线微弱，不太明亮" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9671,
+  "word" : "薄暗い",
+  "reading" : "うすぐらい",
+  "romaji" : null,
+  "meaning" : [ "微暗的，昏暗的；光线微弱、不太明亮的状态" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9672,
+  "word" : "薪",
+  "reading" : "まきこ",
+  "romaji" : null,
+  "meaning" : [ "木柴，柴火" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9673,
+  "word" : "薬",
+  "reading" : "くすり",
+  "romaji" : null,
+  "meaning" : [ "药，药物；（事物的）效力，功效；（对疾病等的）疗法" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9674,
+  "word" : "薬剤",
+  "reading" : "やくざい",
+  "romaji" : null,
+  "meaning" : [ "药剂，药品" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9675,
+  "word" : "薬品",
+  "reading" : "やくひん",
+  "romaji" : null,
+  "meaning" : [ "药品，药物" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9676,
+  "word" : "薬局",
+  "reading" : "やっきょく",
+  "romaji" : null,
+  "meaning" : [ "药房，药店" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9677,
+  "word" : "薬屋",
+  "reading" : "くすりや",
+  "romaji" : null,
+  "meaning" : [ "药店；药铺" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9678,
+  "word" : "薬指",
+  "reading" : "くすりゆび",
+  "romaji" : null,
+  "meaning" : [ "无名指" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9679,
+  "word" : "藁",
+  "reading" : "わら",
+  "romaji" : null,
+  "meaning" : [ "稻草，麦秆；干草；（比喻）毫无价值的东西" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9680,
+  "word" : "藪",
+  "reading" : "やぶ",
+  "romaji" : null,
+  "meaning" : [ "灌木丛，草丛；山林；（事物的）发源地、集中地" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9681,
+  "word" : "蘇る",
+  "reading" : "よみがえる",
+  "romaji" : null,
+  "meaning" : [ "苏醒，复活；复苏；恢复，复兴" ],
+  "notes" : [ "「よみがえる」还可表示事物从衰落、停滞等状态重新活跃起来。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9682,
+  "word" : "虎",
+  "reading" : "とら",
+  "romaji" : null,
+  "meaning" : [ "老虎，虎；勇猛、强悍之人" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9683,
+  "word" : "虐待",
+  "reading" : "ぎゃくたい",
+  "romaji" : null,
+  "meaning" : [ "残酷な扱いをすること。人や動物に対して、肉体的または精神的に酷い扱いをすること。" ],
+  "notes" : [ "「虐待」は主に名詞として使われ、動詞にする場合は「虐待する」と表現します。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9684,
+  "word" : "虚ろ/空ろ",
+  "reading" : "うろ",
+  "romaji" : null,
+  "meaning" : [ "空洞；空虚；茫然，发呆" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9685,
+  "word" : "虫歯",
+  "reading" : "むしば",
+  "romaji" : null,
+  "meaning" : [ "蛀牙，虫牙，龋齿" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9686,
+  "word" : "虹",
+  "reading" : "にじ",
+  "romaji" : null,
+  "meaning" : [ "彩虹" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9687,
+  "word" : "蛇",
+  "reading" : "へび",
+  "romaji" : null,
+  "meaning" : [ "蛇" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9688,
+  "word" : "蛇口",
+  "reading" : "じゃぐち",
+  "romaji" : null,
+  "meaning" : [ "水龙头；河流的出口" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9689,
+  "word" : "蛇足",
+  "reading" : "だしょく",
+  "romaji" : null,
+  "meaning" : [ "蛇的脚；比喻多余的事物或不必要的举动" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9690,
+  "word" : "蛋白質",
+  "reading" : "たんぱく質",
+  "romaji" : null,
+  "meaning" : [ "蛋白质" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9691,
+  "word" : "蜂蜜",
+  "reading" : "はちみつ",
+  "romaji" : null,
+  "meaning" : [ "蜜蜂が採集した花粉や蜜を原料として作った甘い粘性のある液体。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9692,
+  "word" : "蜜",
+  "reading" : "みつ",
+  "romaji" : null,
+  "meaning" : [ "蜂蜜；花蜜；甜美的汁液；（比喻）甜蜜的事物" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9693,
+  "word" : "蝋燭",
+  "reading" : "ろうそく",
+  "romaji" : null,
+  "meaning" : [ "蜡烛" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9694,
+  "word" : "蝕む",
+  "reading" : "くさる",
+  "romaji" : null,
+  "meaning" : [ "虫咬，虫蛀；侵蚀，腐蚀；（经济等）受损失，亏损" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9695,
+  "word" : "蝦/海老",
+  "reading" : "えび",
+  "romaji" : null,
+  "meaning" : [ "虾；龙虾；虾类水生动物" ],
+  "notes" : [ "「蝦」是较古老或书面的写法，「海老」更为常用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9696,
+  "word" : "融資",
+  "reading" : "ゆうし",
+  "romaji" : null,
+  "meaning" : [ "① 金融機関や企業などが、金銭を貸し出すこと。/（金融机构、企业等）提供资金，融资，贷款。② 融資されること。/获得融资，获得贷款。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9697,
+  "word" : "融通",
+  "reading" : "ゆうずう",
+  "romaji" : null,
+  "meaning" : [ "①资金的筹措、周转；②随机应变，灵活变通；③通融，给予方便" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9698,
+  "word" : "蟻",
+  "reading" : "あり",
+  "romaji" : null,
+  "meaning" : [ "蚂蚁" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9699,
+  "word" : "血",
+  "reading" : "ち",
+  "romaji" : null,
+  "meaning" : [ "血，血液；血缘；血亲；气质，性情" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9700,
+  "word" : "血圧",
+  "reading" : "けつあつ",
+  "romaji" : null,
+  "meaning" : [ "血压" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

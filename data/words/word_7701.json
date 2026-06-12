@@ -1,0 +1,901 @@
+[ {
+  "id" : 7701,
+  "word" : "流通",
+  "reading" : "りゅうつう",
+  "romaji" : null,
+  "meaning" : [ "（商品、货币、信息等在社会或特定范围内）流通，流转；（空气、水等）流动，畅通" ],
+  "notes" : [ "「流通する」の形で動詞として使用されることが多い。経済や商業の分野でよく使われる用語。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7702,
+  "word" : "浄化",
+  "reading" : "じょうか",
+  "romaji" : null,
+  "meaning" : [ "净化；清除杂质使其纯净；（特指）净化水质、空气等；精神上的净化" ],
+  "notes" : [ "「浄化」作为名词时可后续「する」构成サ変动词，活用形式遵循サ変动词规则（例：浄化します、浄化した、浄化する）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7703,
+  "word" : "浄水処理施設",
+  "reading" : "じょうすいしょりしせつ",
+  "romaji" : null,
+  "meaning" : [ "对原水进行净化处理，使其达到生活饮用或工业用水标准的设施" ],
+  "notes" : [ "复合名词，由「浄水(じょうすい)」「処理(しょり)」「施設(しせつ)」构成" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7704,
+  "word" : "浄水器",
+  "reading" : "じょうすいき",
+  "romaji" : null,
+  "meaning" : [ "名词 净水器（将水净化，去除杂质、细菌等的装置）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7705,
+  "word" : "浄水場",
+  "reading" : "じょうすいじょう",
+  "romaji" : null,
+  "meaning" : [ "净水厂，对原水进行净化处理，使其达到饮用或工业用水标准的设施" ],
+  "notes" : [ "复合名词，由「浄水」（じょうすい，净水）和「場」（じょう，场所）构成" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7706,
+  "word" : "浅い",
+  "reading" : "あさい",
+  "romaji" : null,
+  "meaning" : [ "浅的；（颜色、程度等）浅的，淡的；（时间、距离等）短的，近的；（感情、理解等）肤浅的，浅薄的" ],
+  "notes" : [ "い形容词，基本形为「浅い」，否定形「浅くない」，过去式「浅かった」，活用规则遵循一般い形容词变化。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7707,
+  "word" : "浅はか",
+  "reading" : "あさはか",
+  "romaji" : null,
+  "meaning" : [ "浅薄的，肤浅的，缺乏深度的，考虑不周的" ],
+  "notes" : [ "「浅はか」は主に抽象的な概念（考え、意見、判断など）に対して用いられ、具体的な物の深さを表す場合は「浅い」を使用する。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7708,
+  "word" : "浅ましい",
+  "reading" : "あさましい",
+  "romaji" : null,
+  "meaning" : [ "卑鄙的；可耻的；可叹的；凄惨的" ],
+  "notes" : [ "形容动词性形容词，活用规则同「きれいだ」等词。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7709,
+  "word" : "浅薄",
+  "reading" : "せんぱく",
+  "romaji" : null,
+  "meaning" : [ "浅薄，肤浅，缺乏深度和内涵" ],
+  "notes" : [ "书面语，多用于批评人或事物缺乏深度。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7710,
+  "word" : "浚う",
+  "reading" : "さらう",
+  "romaji" : null,
+  "meaning" : [ "疏浚，淘空，清除（河、沟等的泥沙或杂物）" ],
+  "notes" : [ "「浚う」是他动词，主要用于表示清除液体中的沉淀物或疏通水道等场景。其汉字也可写作「払う」，但「浚う」更强调与水相关的疏浚动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7711,
+  "word" : "浜",
+  "reading" : "はま",
+  "romaji" : null,
+  "meaning" : [ "海滨，湖滨，河边，岸边" ],
+  "notes" : [ "「浜」是「浜辺」的简略说法，指水边的沙地或泥地。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7712,
+  "word" : "浜辺",
+  "reading" : "はまべ",
+  "romaji" : null,
+  "meaning" : [ "海滨，湖滨，岸边" ],
+  "notes" : [ "「浜」は「海辺」を意味し、「辺」は「周辺、付近」を表す。海水浴や散歩などの場所を指すことが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7713,
+  "word" : "浪人",
+  "reading" : "ろうにん",
+  "romaji" : null,
+  "meaning" : [ "1. 江户时代失去主家的武士；2. 未考上理想学校而复读的学生；3. 失业者，待业人员" ],
+  "notes" : [ "「浪人」原指江户时代失去主家的武士，现代主要指未考上理想学校而复读的学生，也可泛指失业者或待业人员。作“复读生”之意时，可作为动词使用（如：浪人する），表示“复读”的行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7714,
+  "word" : "浪費",
+  "reading" : "ろうひ",
+  "romaji" : null,
+  "meaning" : [ "浪费，挥霍，糟蹋（金钱、时间、资源等）" ],
+  "notes" : [ "「浪費」作为名词时可单独使用，作为动词时通常以「浪費する」的形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7715,
+  "word" : "浮かびます",
+  "reading" : "うかびます",
+  "romaji" : null,
+  "meaning" : [ "浮起，漂浮；浮现，呈现；想起，涌现" ],
+  "notes" : [ "「浮かぶ」的ます形。基本形「浮かぶ」为五段动词，意为漂浮、浮现等。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7716,
+  "word" : "浮かび上がる",
+  "reading" : "うかびあがる",
+  "romaji" : null,
+  "meaning" : [ "1. 浮起，漂浮上来；2. 出现，显露，显现；3. （才能、问题等）显露出来，变得明显；4. （地位、名声等）提高，发迹，崛起" ],
+  "notes" : [ "自动词，由「浮かぶ」（漂浮）和「上がる」（上升）复合而成，强调从下方或隐藏状态向上显现的过程。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7717,
+  "word" : "浮かぶ",
+  "reading" : "うかぶ",
+  "romaji" : null,
+  "meaning" : [ "1. 漂浮，浮起；2. 浮现，呈现；3. 想起，涌上心头；4. 结余，剩余" ],
+  "notes" : [ "自动词，主要表示物体在液体或空气中漂浮，或抽象事物（如记忆、想法）在脑海中浮现。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7718,
+  "word" : "浮かべる",
+  "reading" : "うかべる",
+  "romaji" : null,
+  "meaning" : [ "1. 使……浮起，使……漂浮；2. 使……浮现，使……呈现；3. 想起，回忆起；4. （在脸上）露出（表情）" ],
+  "notes" : [ "他动词。「浮く」（自动词）的使役态对应表达之一，但意义更广泛。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7719,
+  "word" : "浮く",
+  "reading" : "うく",
+  "romaji" : null,
+  "meaning" : [ "1. 漂浮，浮起；2. 松动，脱离；3. （心情）轻松，舒畅；4. （价格等）上涨，腾贵" ],
+  "notes" : [ "自动词，主要表示物体在液体或空气中漂浮，也可用于抽象意义如心情轻松或价格上涨。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7720,
+  "word" : "浮世絵",
+  "reading" : "うきよえ",
+  "romaji" : null,
+  "meaning" : [ "浮世绘，日本江户时代兴起的一种民间绘画，题材多为风景、人物、风俗等" ],
+  "notes" : [ "浮世絵对西方印象派绘画有较大影响，代表画家有葛饰北斋、歌川广重等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7721,
+  "word" : "浮気",
+  "reading" : "うわき",
+  "romaji" : null,
+  "meaning" : [ "见异思迁，感情不专一；出轨，婚外情" ],
+  "notes" : [ "可作为サ变动词使用（浮気する），表示“出轨，搞婚外情”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7722,
+  "word" : "浴びます",
+  "reading" : "あびます",
+  "romaji" : null,
+  "meaning" : [ "淋浴；浇，淋；蒙受，遭受" ],
+  "notes" : [ "「浴びます」是「浴びる」的ます形，基本形为「浴びる」。除表示淋浴、浇淋等具体动作外，还可用于抽象意义表示“蒙受、遭受”。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7723,
+  "word" : "浴びる",
+  "reading" : "あびる",
+  "romaji" : null,
+  "meaning" : [ "淋，浇；沐浴，蒙受；遭受" ],
+  "notes" : [ "他动词，基本形为「浴びる」，过去式「浴びた」，否定式「浴びない」，可能态「浴びられる」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7724,
+  "word" : "浴室",
+  "reading" : "よくしつ",
+  "romaji" : null,
+  "meaning" : [ "浴室，洗澡间" ],
+  "notes" : [ "通常指家庭或公共设施中的洗澡区域，包含淋浴或浴缸等设备" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7725,
+  "word" : "浴衣",
+  "reading" : "ゆかた",
+  "romaji" : null,
+  "meaning" : [ "夏季穿着的简易和服，通常由棉或麻制成，设计轻薄透气，多在夏季祭典、花火大会等场合穿着" ],
+  "notes" : [ "「浴衣」原本是沐浴后穿着的简易服装，现在主要作为夏季的传统服饰使用，男女老少均可穿着，搭配木屐和腰带等配件" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7726,
+  "word" : "海",
+  "reading" : "うみ",
+  "romaji" : null,
+  "meaning" : [ "海洋，大海，海" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7727,
+  "word" : "海上",
+  "reading" : "かいじょう",
+  "romaji" : null,
+  "meaning" : [ "名词 海上，海面" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7728,
+  "word" : "海外",
+  "reading" : "かいがい",
+  "romaji" : null,
+  "meaning" : [ "海外，国外，指本国以外的国家或地区" ],
+  "notes" : [ "可用于修饰名词，如「海外市場」「海外経験」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7729,
+  "word" : "海外事業部",
+  "reading" : "かいがいじぎょうぶ",
+  "romaji" : null,
+  "meaning" : [ "负责公司海外业务的部门" ],
+  "notes" : [ "企业组织架构中的常见部门名称，由「海外」（かいがい）、「事業」（じぎょう）、「部」（ぶ）构成复合名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7730,
+  "word" : "海外旅行",
+  "reading" : "かいがいりょこう",
+  "romaji" : null,
+  "meaning" : [ "名 国外旅行，到国外的旅行" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7731,
+  "word" : "海岸",
+  "reading" : "かいがん",
+  "romaji" : null,
+  "meaning" : [ "海岸，海滨，沿海地带" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7732,
+  "word" : "海峡",
+  "reading" : "かいきょう",
+  "romaji" : null,
+  "meaning" : [ "连接两个海域的狭窄水道，海峡" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7733,
+  "word" : "海底",
+  "reading" : "かいてい",
+  "romaji" : null,
+  "meaning" : [ "海洋的底部，海底" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7734,
+  "word" : "海抜",
+  "reading" : "かいばつ",
+  "romaji" : null,
+  "meaning" : [ "海拔，超出海平面的高度" ],
+  "notes" : [ "常用汉字词，由「海」（うみ）和「抜」（ぬき）组成，指高出海面的高度" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7735,
+  "word" : "海水",
+  "reading" : "かいすい",
+  "romaji" : null,
+  "meaning" : [ "海水，含有盐分的海水" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7736,
+  "word" : "海水浴",
+  "reading" : "かいすいよく",
+  "romaji" : null,
+  "meaning" : [ "名词 海水浴，在海水中游泳或进行的沐浴活动" ],
+  "notes" : [ "通常指在夏季到海边进行的游泳等水上活动" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7737,
+  "word" : "海沿い",
+  "reading" : "うみぞい",
+  "romaji" : null,
+  "meaning" : [ "沿海，海边，海岸一带" ],
+  "notes" : [ "「沿い」接在表示场所的名词后，表示沿着该场所的一带，构成复合名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7738,
+  "word" : "海洋",
+  "reading" : "かいよう",
+  "romaji" : null,
+  "meaning" : [ "海洋，大海" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7739,
+  "word" : "海流",
+  "reading" : "かいりゅう",
+  "romaji" : null,
+  "meaning" : [ "海洋中大规模、稳定流动的水流" ],
+  "notes" : [ "自然科学分野でよく使用される用語" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7740,
+  "word" : "海苔",
+  "reading" : "のり",
+  "romaji" : null,
+  "meaning" : [ "海苔，紫菜（特指可食用的海藻，常用于制作寿司、饭团等）" ],
+  "notes" : [ "一般指食用紫菜，是日本料理中常见的食材" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7741,
+  "word" : "海藻",
+  "reading" : "かいそう",
+  "romaji" : null,
+  "meaning" : [ "生长在海中的藻类植物的总称" ],
+  "notes" : [ "一般指生长在海洋中的多细胞藻类，可食用或用于工业等领域" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7742,
+  "word" : "海賊版",
+  "reading" : "かいぞくばん",
+  "romaji" : null,
+  "meaning" : [ "盗版，非法复制的出版物、音像制品等" ],
+  "notes" : [ "指未经版权所有者许可而非法复制、销售的书籍、音像制品、软件等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7743,
+  "word" : "海路",
+  "reading" : "かいろ",
+  "romaji" : null,
+  "meaning" : [ "海路，海上航线，航海路线" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7744,
+  "word" : "海運",
+  "reading" : "かいうん",
+  "romaji" : null,
+  "meaning" : [ "海运，海上运输" ],
+  "notes" : [ "指通过海洋进行的货物或旅客运输业务" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7745,
+  "word" : "海開き",
+  "reading" : "うみびらき",
+  "romaji" : null,
+  "meaning" : [ "海水浴场开放；海滨浴场的开业日" ],
+  "notes" : [ "指海水浴场正式开始对外开放的时期或那一天，通常在夏季初举行相关仪式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7746,
+  "word" : "海面",
+  "reading" : "かいめん",
+  "romaji" : null,
+  "meaning" : [ "名词 海面，海水的表面" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7747,
+  "word" : "浸かる",
+  "reading" : "ひたかる",
+  "romaji" : null,
+  "meaning" : [ "浸泡；沉浸；泡澡；沉溺于" ],
+  "notes" : [ "自动词，通常表示物体或人完全或部分浸入液体中，也可用于抽象意义表示沉浸于某种状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7748,
+  "word" : "浸す",
+  "reading" : "ひたす",
+  "romaji" : null,
+  "meaning" : [ "浸，泡，使...沉浸在液体中" ],
+  "notes" : [ "他动词，强调将物体放入液体中并使其浸泡。对应的自动词为「浸かる（ひたかる）」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7749,
+  "word" : "浸る",
+  "reading" : "ひたる",
+  "romaji" : null,
+  "meaning" : [ "1. 浸，泡；2. 沉浸，沉醉，专心致志于" ],
+  "notes" : [ "自动词，表示状态的持续。常用「～に浸る」的形式，表示沉浸于某种状态或活动中。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7750,
+  "word" : "浸水",
+  "reading" : "しんすい",
+  "romaji" : null,
+  "meaning" : [ "浸水，被水淹没；淹水" ],
+  "notes" : [ "「浸水する」の形で動詞として使用される。水が内部に入り込むことを指す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7751,
+  "word" : "浸透",
+  "reading" : "しんとうする",
+  "romaji" : null,
+  "meaning" : [ "1. 液体等慢慢渗透、渗入；2. 思想、影响等逐渐深入、普及" ],
+  "notes" : [ "「浸透」作为サ变动词，基本形为「浸透する」，否定形「浸透しない」，过去式「浸透した」等。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7752,
+  "word" : "消えます",
+  "reading" : "きえます",
+  "romaji" : null,
+  "meaning" : [ "熄灭，消失，不见" ],
+  "notes" : [ "「消えます」是「消える」的礼貌形，基本形「消える」为自动词，强调事物自然消失或熄灭的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7753,
+  "word" : "消える",
+  "reading" : "きえる",
+  "romaji" : null,
+  "meaning" : [ "消失，不见；熄灭，关掉；消除，解除" ],
+  "notes" : [ "自动词，强调自然消失或状态变化，对应的他动词为「消す」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7754,
+  "word" : "消え行く",
+  "reading" : "きえゆく",
+  "romaji" : null,
+  "meaning" : [ "逐渐消失，渐渐消逝；行将灭绝，日趋消亡" ],
+  "notes" : [ "由动词「消える」（きえる）的连用形「消え」（きえ）与补助动词「行く」（ゆく）结合而成，表示动作的持续进行或状态的逐渐变化。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7755,
+  "word" : "消します",
+  "reading" : "けします",
+  "romaji" : null,
+  "meaning" : [ "1. 关掉，熄灭（电灯、火、煤气等）；2. 消除，去除（痕迹、污渍、错误等）；3. 使消失，使不存在；4. 注销，删除（记录等）" ],
+  "notes" : [ "「消す」的ます形。基本形为「消す（けす）」，属于五段动词，「消します」是其礼貌体形式。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7756,
+  "word" : "消しゴム",
+  "reading" : "けしゴム",
+  "romaji" : null,
+  "meaning" : [ "橡皮，橡皮擦" ],
+  "notes" : [ "由「消す」（けす，擦去）和「ゴム」（橡胶）组合而成的复合名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7757,
+  "word" : "消す",
+  "reading" : "けす",
+  "romaji" : null,
+  "meaning" : [ "消除；删除；熄灭；关掉（电源、灯等）；抹去；使消失" ],
+  "notes" : [ "他动词，基本形为「消す」，命令形为「消せ」，可能形为「消せる」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7758,
+  "word" : "消化",
+  "reading" : "しょうか",
+  "romaji" : null,
+  "meaning" : [ "1. 食物在体内被分解吸收的过程；2. 理解并吸收知识、信息等；3. 处理、解决积压的工作或任务" ],
+  "notes" : [ "「消化」作为动词使用时通常以「消化する」的形式出现，属于サ变动词。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7759,
+  "word" : "消去",
+  "reading" : "しょうきょ",
+  "romaji" : null,
+  "meaning" : [ "删除，消除，消去（数学等中的消去法）" ],
+  "notes" : [ "「消去」是サ变动词，由「消」和「去」构成，除表示一般的删除、消除外，在数学等领域也常用作专业术语表示消去法。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7760,
+  "word" : "消息",
+  "reading" : "しょうそく",
+  "romaji" : null,
+  "meaning" : [ "消息，信息；情况，动态" ],
+  "notes" : [ "常用汉字词，多用于书面语或正式场合，表示关于某人或某事的最新情况或信息。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7761,
+  "word" : "消極的",
+  "reading" : "しょうきょくてき",
+  "romaji" : null,
+  "meaning" : [ "形容动词，指态度、行动等不积极主动，倾向于退缩或否定的；消极的，被动的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7762,
+  "word" : "消毒",
+  "reading" : "しょうどく",
+  "romaji" : null,
+  "meaning" : [ "消毒，杀菌，对物品或空间进行处理以杀灭细菌、病毒等微生物" ],
+  "notes" : [ "可作サ变动词使用，构成「消毒する」的形式" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7763,
+  "word" : "消火",
+  "reading" : "しょうか",
+  "romaji" : null,
+  "meaning" : [ "灭火，消防；消火，灭火作业" ],
+  "notes" : [ "「消火」は主に名词として使用され、动词としては「消火する」の形で用いられることが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7764,
+  "word" : "消耗",
+  "reading" : "しょうもう",
+  "romaji" : null,
+  "meaning" : [ "消耗，耗费，耗尽（资源、体力、时间等）" ],
+  "notes" : [ "「消耗」作为サ变动词，基本形为「消耗する」，否定形「消耗しない」，过去式「消耗した」等。常用于表示资源、能量、体力等的逐渐减少或用尽。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7765,
+  "word" : "消費",
+  "reading" : "しょうひ",
+  "romaji" : null,
+  "meaning" : [ "消费，消耗；花费（金钱、时间、精力等）" ],
+  "notes" : [ "作为サ変动词使用时，可构成「消費する」的形式，意为“进行消费/消耗”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7766,
+  "word" : "消費税",
+  "reading" : "しょうひぜい",
+  "romaji" : null,
+  "meaning" : [ "对商品和服务的消费所征收的税" ],
+  "notes" : [ "日本的消费税目前(2023年)标准税率为10%，还有8%的轻减税率适用于食品等部分商品" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7767,
+  "word" : "消費者",
+  "reading" : "しょうひしゃ",
+  "romaji" : null,
+  "meaning" : [ "商品やサービスを購入して使用する人。顧客。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7768,
+  "word" : "消防士",
+  "reading" : "しょうぼうし",
+  "romaji" : null,
+  "meaning" : [ "消防员，消防队员" ],
+  "notes" : [ "职业名称，指从事消防工作的人员。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7769,
+  "word" : "涙",
+  "reading" : "なみだ",
+  "romaji" : null,
+  "meaning" : [ "眼泪，泪水；泪状物，泪滴" ],
+  "notes" : [ "常用汉字，可写作「泪」（略字），情感表达中常用词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7770,
+  "word" : "液",
+  "reading" : "えき",
+  "romaji" : null,
+  "meaning" : [ "液体，汁液" ],
+  "notes" : [ "常用汉字，可构成复合词如「血液」「溶液」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7771,
+  "word" : "液体",
+  "reading" : "えきたい",
+  "romaji" : null,
+  "meaning" : [ "液体，液态物质" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7772,
+  "word" : "液化",
+  "reading" : "えきか",
+  "romaji" : null,
+  "meaning" : [ "（物理用语）物质が気体から液体へ変化すること。また、その操作。" ],
+  "notes" : [ "「液化する」の形で動詞として使用される。物理・化学分野でよく使われる専門用語。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7773,
+  "word" : "涸れる",
+  "reading" : "かれる",
+  "romaji" : null,
+  "meaning" : [ "干涸；枯竭，耗尽；（热情、兴趣等）减退，消失" ],
+  "notes" : [ "自动词，表示自然干涸或抽象事物的枯竭。其对应的他动词为「涸らす」（からす）。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7774,
+  "word" : "涼しい",
+  "reading" : "すずしい",
+  "romaji" : null,
+  "meaning" : [ "凉爽的，凉快的；清澈的，明亮的；冷静的，沉着的" ],
+  "notes" : [ "「涼しい」是イ形容词，否定形式为「涼しくない」，过去式为「涼しかった」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7775,
+  "word" : "涼風",
+  "reading" : "すずかぜ",
+  "romaji" : null,
+  "meaning" : [ "凉风，清爽的风" ],
+  "notes" : [ "「涼風」は漢語では「りょうふう」とも読まれることがありますが、日本語で日常的に使われるのは「すずかぜ」の読みが一般的です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7776,
+  "word" : "淑やか",
+  "reading" : "しとやか",
+  "romaji" : null,
+  "meaning" : [ "端庄的，娴静的，文雅的，贤淑的" ],
+  "notes" : [ "用于形容女性的举止、气质文雅端庄" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7777,
+  "word" : "淡い",
+  "reading" : "あわい",
+  "romaji" : null,
+  "meaning" : [ "（颜色）浅的；（味道）淡的；（感情、记忆等）淡薄的，不强烈的；（光线）微弱的；（声音）低沉的" ],
+  "notes" : [ "「淡い」是イ形容词，主要用于描述颜色、味道、感情、光线、声音等的程度较弱或不浓厚的状态。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7778,
+  "word" : "淡水",
+  "reading" : "たんすい",
+  "romaji" : null,
+  "meaning" : [ "淡水，不含盐分的水" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7779,
+  "word" : "淡泊",
+  "reading" : "たんぱく",
+  "romaji" : null,
+  "meaning" : [ "1. （味道）清淡，不油腻；2. （性格、态度）坦率，淡泊，不执着于名利；3. （情感）淡然，不热烈" ],
+  "notes" : [ "「淡泊」は漢語形容動詞で、主に味の薄さや人の性格・態度の穏やかさ、欲望の少なさを表す。「たんぱく然」は誤りで、正しい読みは「たんぱく」である。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7780,
+  "word" : "深い",
+  "reading" : "ふかい",
+  "romaji" : null,
+  "meaning" : [ "1. 深的；2. （颜色、程度等）深的，浓的；3. （感情、理解等）深厚的，深刻的；4. （时间）晚的；5. （声音）低沉的" ],
+  "notes" : [ "イ形容词，基本形为「深い」，否定形「深くない」，过去形「深かった」，连用形「深く」" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7781,
+  "word" : "深さ",
+  "reading" : "ふかさ",
+  "romaji" : null,
+  "meaning" : [ "深度；深浅程度" ],
+  "notes" : [ "「深い」の名詞形" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7782,
+  "word" : "深まる",
+  "reading" : "ふかまる",
+  "romaji" : null,
+  "meaning" : [ "加深，变深；（感情、关系等）深化，深厚" ],
+  "notes" : [ "自动词，表示状态自然发展变化。对应的他动词为「深める」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7783,
+  "word" : "深み",
+  "reading" : "ふかみ",
+  "romaji" : null,
+  "meaning" : [ "1. 深度；2. （颜色、味道、声音等的）浓厚，深厚；3. （感情、思想等的）深度，深邃" ],
+  "notes" : [ "主要用于表示具体的深度或抽象事物的深度、浓厚程度" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7784,
+  "word" : "深める",
+  "reading" : "ふかめる",
+  "romaji" : null,
+  "meaning" : [ "加深，深化；使...变深；加强，增进" ],
+  "notes" : [ "他动词，由形容词「深い」转化而来的动词形式" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7785,
+  "word" : "深刻",
+  "reading" : "しんこく",
+  "romaji" : null,
+  "meaning" : [ "形容动词。严肃，严重；深刻，深入" ],
+  "notes" : [ "「深刻」は主に問題や事態の重大さ、または表情や態度の真剣さを表す形容動詞です。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7786,
+  "word" : "深化",
+  "reading" : "しんか",
+  "romaji" : null,
+  "meaning" : [ "深化，加深，使程度、关系等进一步发展" ],
+  "notes" : [ "「深化」は主に抽象的な概念（関係、理解、危機など）に対して使用される自他動詞。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7787,
+  "word" : "深夜",
+  "reading" : "しんや",
+  "romaji" : null,
+  "meaning" : [ "指深夜，深夜时分，通常指午夜12点以后到黎明前的时间段" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7788,
+  "word" : "淵",
+  "reading" : "ふち",
+  "romaji" : null,
+  "meaning" : [ "渊，潭；（比喻）深渊，困境，根本，源泉" ],
+  "notes" : [ "「淵」は書き言葉で、日常会話では「ふち」（縁）や「深み」などが使われることが多い。「淵源」「淵藪」などの複合語にも用いられる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7789,
+  "word" : "混ざる",
+  "reading" : "まざる",
+  "romaji" : null,
+  "meaning" : [ "混杂，夹杂，掺杂；混合在一起，融入" ],
+  "notes" : [ "表示不同的事物混合在一起的状态，强调自然形成的混合结果，不可用于意志性动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7790,
+  "word" : "混ぜる",
+  "reading" : "まぜる",
+  "romaji" : null,
+  "meaning" : [ "混合，搅拌，搀和；使...混杂在一起" ],
+  "notes" : [ "他动词，基本形为「混ぜる」，可能形为「混ぜられる」，被动态为「混ぜられる」，使役态为「混ぜさせる」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7791,
+  "word" : "混乱",
+  "reading" : "こんらん",
+  "romaji" : null,
+  "meaning" : [ "混乱，杂乱无章，紊乱" ],
+  "notes" : [ "「混乱する」の形で動詞として使用する。名詞としても単独で使用可能。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7792,
+  "word" : "混乱する",
+  "reading" : "こんらんする",
+  "romaji" : null,
+  "meaning" : [ "混乱，紊乱，杂乱无章" ],
+  "notes" : [ "「混乱」は名詞で、「する」を付けてサ変動詞として使用する。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7793,
+  "word" : "混合",
+  "reading" : "こんごう",
+  "romaji" : null,
+  "meaning" : [ "混合，混杂，搀和" ],
+  "notes" : [ "「混合」作为名词时可单独使用，作为动词时通常以「混合する」的形式出现，属于サ変動詞（suru verb）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7794,
+  "word" : "混同",
+  "reading" : "こんどう",
+  "romaji" : null,
+  "meaning" : [ "混为一谈，混淆，把不同的事物错误地看作是相同的" ],
+  "notes" : [ "通常用于书面语，后常接「する」构成动词「混同する」使用" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7795,
+  "word" : "混在",
+  "reading" : "こんざい",
+  "romaji" : null,
+  "meaning" : [ "混在一起，混杂，并存" ],
+  "notes" : [ "「混在する」是サ变动词，由名词「混在」后续「する」构成。表示不同种类的事物混杂在一起存在的状态。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7796,
+  "word" : "混種語",
+  "reading" : "こんしゅご",
+  "romaji" : null,
+  "meaning" : [ "由两种以上不同语言成分混合构成的词语，特指日语中由和语与外来语、汉语与外来语等组合而成的词汇" ],
+  "notes" : [ "常见构成方式包括：和语+外来语（如「野球」）、汉语+外来语（如「新幹線」）、外来语+和语（如「ホームページ」）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7797,
+  "word" : "混血",
+  "reading" : "こんけつ",
+  "romaji" : null,
+  "meaning" : [ "不同种族或民族的父母所生的孩子；混血儿" ],
+  "notes" : [ "可作为名词使用，指混血儿；也可构成复合词如「混血児（こんけつじ）」表示混血儿" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7798,
+  "word" : "混雑",
+  "reading" : "こんざつ",
+  "romaji" : null,
+  "meaning" : [ "混乱，杂乱，拥挤；指人或事物大量聚集而变得混乱的状态" ],
+  "notes" : [ "作为名词使用时可后续「が」「の」等助词，作为サ変动词使用时可后续「する」构成动词形式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7799,
+  "word" : "添える",
+  "reading" : "そえる",
+  "romaji" : null,
+  "meaning" : [ "1. 附上，附加，添加；2. 伴随，陪同，偕同；3. 搭配，配（菜等）" ],
+  "notes" : [ "他动词，「添う（そう）」的他动词形式，强调主动添加或陪同的动作" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7800,
+  "word" : "添付",
+  "reading" : "てんぷ",
+  "romaji" : null,
+  "meaning" : [ "添上，附上，附加（文件、资料等）" ],
+  "notes" : [ "通常用于书面语，指在信件、邮件等中附带文件或物品" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+} ]

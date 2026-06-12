@@ -1,0 +1,901 @@
+[ {
+  "id" : 11401,
+  "word" : "風呂",
+  "reading" : "ふろ",
+  "romaji" : null,
+  "meaning" : [ "浴室；洗澡（也可指浴缸）" ],
+  "notes" : [ "常用搭配有「風呂に入る」（洗澡）、「風呂を沸かす」（烧洗澡水）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11402,
+  "word" : "風呂敷",
+  "reading" : "ふろしき",
+  "romaji" : null,
+  "meaning" : [ "包袱布，包裹布（一种传统的日本方形布，用于包裹物品、携带物品或者作为装饰等）" ],
+  "notes" : [ "風呂敷通常为方形，材质多样，除了包裹物品外，在一些传统活动或者文化场景中也有使用，比如和服搭配等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11403,
+  "word" : "風味",
+  "reading" : "ふうみき",
+  "romaji" : null,
+  "meaning" : [ "风味，味道；韵味，情趣" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11404,
+  "word" : "風土",
+  "reading" : "ふど",
+  "romaji" : null,
+  "meaning" : [ "风土，指某一地区特有的自然环境（气候、土壤、地形等）和风俗、习惯等人文环境的总和。" ],
+  "notes" : [ "常与「に適している」「に合う」「を反映する」等搭配使用，用于描述地区的自然和人文特征对事物的影响。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11405,
+  "word" : "風変わり",
+  "reading" : "かふうがわり",
+  "romaji" : null,
+  "meaning" : [ "奇特的，古怪的，与众不同的（常用来形容人的性格、行为方式、事物的样子、风格等方面异于常人或一般情况）" ],
+  "notes" : [ "也可写作「風変わり」，其词源与「風（かぜ）」和「変わる（かわる）」相关，字面意思可理解为“和一般的风气、风格不同”" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11406,
+  "word" : "風情",
+  "reading" : "ふぜい",
+  "romaji" : null,
+  "meaning" : [ "1. 情调，风趣，情趣；2. 样子，情形，情况；3. 风味，特色；4. 感觉，印象" ],
+  "notes" : [ "「風情」也可读作「ふしぎ」，但含义不同，读作「ふしぎ」时意为“奇异，奇妙，怪事”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11407,
+  "word" : "風景",
+  "reading" : "ふうけい",
+  "romaji" : null,
+  "meaning" : [ "景象，风景；情景，状况" ],
+  "notes" : [ "常用来描述自然或人文景观，也可用于比喻义描述人生、事态等的状况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11408,
+  "word" : "風潮",
+  "reading" : "ふうちょう",
+  "romaji" : null,
+  "meaning" : [ "潮流，风气，倾向（指社会上普遍流行的风气、趋势或者事物发展的倾向）" ],
+  "notes" : [ "常与「～の風潮」的结构搭配使用，用来描述某种社会现象或者群体的行为、思想倾向等方面的潮流。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11409,
+  "word" : "風船",
+  "reading" : "ふうせん",
+  "romaji" : null,
+  "meaning" : [ "气球；（为缓和紧张气氛等而说的）敷衍话，空头支票" ],
+  "notes" : [ "「風船」作“敷衍话，空头支票”讲时，通常用于贬义语境，指不能兑现的承诺等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11410,
+  "word" : "風速",
+  "reading" : "ふうそく",
+  "romaji" : null,
+  "meaning" : [ "风速，指空气流动的速度，通常以米/秒、千米/小时等为单位来计量。" ],
+  "notes" : [ "一般用于气象、航空、航海等与空气流动速度相关的领域，是描述风的重要参数之一。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11411,
+  "word" : "風邪",
+  "reading" : "かぜ",
+  "romaji" : null,
+  "meaning" : [ "感冒，伤风；（对事物的）反感，抵触" ],
+  "notes" : [ "常见的相关短语还有「風邪薬（かぜぐすり）」（感冒药）、「風邪をひく」（感冒）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11412,
+  "word" : "風邪を引きます",
+  "reading" : "かぜをひきます",
+  "romaji" : null,
+  "meaning" : [ "（患）感冒，得感冒。是由「風邪（かぜ）」（感冒）和「引く（ひく）」（这里表示“患（病）”）加上敬体助动词「ます」构成的表达，用于礼貌地表述自身或他人患上感冒的情况。" ],
+  "notes" : [ "「引く」在表示“患（病）”的意思时，属于他动词，其对象用「を」来提示。「風邪を引く」是较为常用的表达感冒的说法，对应的简体形是「風邪を引く」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11413,
+  "word" : "風邪薬",
+  "reading" : "かぜぐすり",
+  "romaji" : null,
+  "meaning" : [ "感冒药" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11414,
+  "word" : "飛ばす",
+  "reading" : "とばす",
+  "romaji" : null,
+  "meaning" : [ "1. 使……飞起，使……飞；2. 吹跑，刮跑；3. （驱车、驾船等）疾驰，猛开，猛驶；4. 跳过，越过（不做、略过）；5. 散布，传播（谣言等）；6. 弄洒，泼洒（液体等）" ],
+  "notes" : [ "他动词，其对应的自动词为「飛ぶ」（とぶ）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11415,
+  "word" : "飛びつく",
+  "reading" : "とびつく",
+  "romaji" : null,
+  "meaning" : [ "1. 扑向，猛扑；2. （被强烈吸引而）扑过去，急切地投身于" ],
+  "notes" : [ "常与「に」搭配使用，表示动作的对象" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11416,
+  "word" : "飛びます",
+  "reading" : "とびます",
+  "romaji" : null,
+  "meaning" : [ "飞，飞行；（鸟、飞机等）飞翔，航行；（时间、事物等）快速流逝、进展；（想法、视线等）掠过，转移" ],
+  "notes" : [ "其基本形为「飛ぶ（とぶ）」，属于五段动词，「飛びます」是其礼貌体（ます形）形式，用于较为正式、礼貌的场合表达“飞”相关的动作或状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11417,
+  "word" : "飛び上がる",
+  "reading" : "とびあがる",
+  "romaji" : null,
+  "meaning" : [ "1. 跳起来，蹦起来；2. 飞起，突然飞起；3. （数值、价格等）猛涨，骤增" ],
+  "notes" : [ "「飛び上がる」是一个自动词，由「飛ぶ」的连用形「飛び」和「上がる」组成，强调向上跳跃或飞起的动作，以及事物（如数值等）急剧上升的状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11418,
+  "word" : "飛び交う",
+  "reading" : "とびかう",
+  "romaji" : null,
+  "meaning" : [ "（在空中、空间等）飞舞，飞来飞去；（事物、信息等）交错，纷至沓来" ],
+  "notes" : [ "「飛び交う」是自动词，其对应的他动词形式为「飛び交わす」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11419,
+  "word" : "飛び入り",
+  "reading" : "とびいり",
+  "romaji" : null,
+  "meaning" : [ "中途临时参加（的人）；临时加入（的人）；突然闯入（的人）" ],
+  "notes" : [ "也可作「飛び入りの」这种连体词形式，例如「飛び入りの質問」（突然提出的问题）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11420,
+  "word" : "飛び出す",
+  "reading" : "とびだす",
+  "romaji" : null,
+  "meaning" : [ "1. 跳出，跑出；飞起；2. 突然出现，突然发生；3. 开始（做某事），着手（做某事）" ],
+  "notes" : [ "「飛び出す」是自动词，其他动词形式如：飛び出さない（否定形）、飛び出した（过去形）、飛び出して（连用形）、飛び出せば（假定形）、飛び出そう（意志形）" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11421,
+  "word" : "飛び回る",
+  "reading" : "とびまわる",
+  "romaji" : null,
+  "meaning" : [ "1. （鸟、昆虫等）飞来飞去，四处飞；2. （人）到处奔走，东奔西走，忙于奔波" ],
+  "notes" : [ "其基本形为「飛び回る」，过去式为「飛び回った」，否定形为「飛び回らない」，可能形为「飛び回れる」等" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11422,
+  "word" : "飛び散る",
+  "reading" : "とびちらる",
+  "romaji" : null,
+  "meaning" : [ "（东西）四处飞散，洒落，飘洒，飞洒；（情绪等）爆发，迸发" ],
+  "notes" : [ "其否定形为「飛び散らない」，过去形为「飛び散った」，连用形为「飛び散って」等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11423,
+  "word" : "飛び起きる",
+  "reading" : "とびおきる",
+  "romaji" : null,
+  "meaning" : [ "（从床上、座位上等）一跃而起，突然起身" ],
+  "notes" : [ "「飛び起きる」是由「飛ぶ」的连用形「飛び」和「起きる」构成的复合动词，强调起身的动作比较突然、迅速且带有一定的爆发力。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11424,
+  "word" : "飛び跳ねる",
+  "reading" : "とびはねる",
+  "romaji" : null,
+  "meaning" : [ "跳跃，蹦跳；（因高兴、激动等而）雀跃，兴奋地跳" ],
+  "notes" : [ "「飛び跳ねる」は主に人や動物が活発に跳ぶ様子や、喜びや興奮などの感情を伴って跳ぶ様子を表す。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11425,
+  "word" : "飛び込む",
+  "reading" : "とびこむ",
+  "romaji" : null,
+  "meaning" : [ "1. 跳入，跳进；2. 突然进入（某领域、活动等）；3. 贸然投身（某事），贸然从事" ],
+  "notes" : [ "“飛び込む”是自动词，其他动词形式变化遵循五段动词的规则，如过去式为“飛び込んだ”，否定式为“飛び込まない”等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11426,
+  "word" : "飛び降りる",
+  "reading" : "とびおりる",
+  "romaji" : null,
+  "meaning" : [ "（从高处、行驶中的车辆、建筑物等上面）跳下，跳落" ],
+  "notes" : [ "其ます形为「飛び降ります」，过去式为「飛び降りた」，否定形为「飛び降りない」等，在使用时需注意场景的合理性与安全性，该词多用于描述从有一定高度或移动的物体上跳下的行为。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11427,
+  "word" : "飛ぶ",
+  "reading" : "とぶ",
+  "romaji" : null,
+  "meaning" : [ "1. 飞，飞翔；2. （鸟、昆虫等）振翅，飞舞；3. （物体）飞，飞起，飞溅；4. （时间、费用等）流逝，花费；5. （想法、想象等）驰骋，奔放；6. 吹走，刮跑；7. （车辆、机械等）快速移动，飞驰" ],
+  "notes" : [ "自动词，其使役形为「飛ばす」（他动词，意为“使……飞；放飞；弄洒；花费（金钱等）；驱（车），开快车”）" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11428,
+  "word" : "飛行",
+  "reading" : "ひこう",
+  "romaji" : null,
+  "meaning" : [ "飞行，航空（指物体在空中移动的行为，或利用航空器在空中航行的活动）" ],
+  "notes" : [ "也可作为サ変動詞使用，如「飛行する」（进行飞行、航空活动）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11429,
+  "word" : "飛行場",
+  "reading" : "ひこうじょう",
+  "romaji" : null,
+  "meaning" : [ "机场，飞机场，航空站" ],
+  "notes" : [ "「飛行場」主要指供飞机起飞、降落、停放等的场地，包括民用机场和军用机场等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11430,
+  "word" : "飛行士",
+  "reading" : "ひこうし",
+  "romaji" : null,
+  "meaning" : [ "飞行员，驾驶员（飞机、宇宙飞船等的操纵人员）" ],
+  "notes" : [ "「飛行士」主要指操纵飞机等航空器的专业人员，也可用于称呼宇宙飞船等航天器的驾驶员。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11431,
+  "word" : "飛行機",
+  "reading" : "ひこうき",
+  "romaji" : null,
+  "meaning" : [ "飞机；航空器" ],
+  "notes" : [ "「飛行機」是日语中表示“飞机”的常用名词，由「飛行（ひこう）」（飞行）和「機（き）」（机器、器械）组成。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11432,
+  "word" : "飛躍",
+  "reading" : "ひやく",
+  "romaji" : null,
+  "meaning" : [ "飞跃，跃进；（质的）突变，飞跃发展" ],
+  "notes" : [ "也可作サ変動詞使用，如「飛躍する」（飞跃，跃进）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11433,
+  "word" : "飛躍的",
+  "reading" : "ひやくてき",
+  "romaji" : null,
+  "meaning" : [ "形容事物以急剧、大幅度、飞跃性的方式发展、变化、提升等，例如“飛躍的な進歩（飞跃性的进步）”“飛躍的に成長する（飞跃性地成长）”" ],
+  "notes" : [ "常与「な」（修饰名词时）、「に」（修饰动词时）搭配使用，如「飛躍的な成果」「飛躍的に変化する」" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11434,
+  "word" : "食い止める",
+  "reading" : "くいとめる",
+  "romaji" : null,
+  "meaning" : [ "1. 控制住，阻止住，拦住（進展や流出、勢いなどを、食い止めるようにする）；2. （用手等）挡住，捂住（飲みこもうとするものを、口元などで止める）" ],
+  "notes" : [ "「食い止める」是他动词，由「食う（くう）」的连用形「食い（くい）」加上「止める（とめる）」构成，强调通过某种方式进行制止、阻挡的动作。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11435,
+  "word" : "食い違い",
+  "reading" : "くいちがい",
+  "romaji" : null,
+  "meaning" : [ "名词，指意见、想法、事实等方面的分歧、不一致，也可指（事物之间的）偏差、错位" ],
+  "notes" : [ "可构成复合词，如「食い違い電車」（区间不同的列车，指在同一路线上但行驶区间不同的列车）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11436,
+  "word" : "食い違う",
+  "reading" : "くいちがう",
+  "romaji" : null,
+  "meaning" : [ "1. （意见、想法等）有分歧，不一致，不符；2. （部件、位置等）错位，偏移，不吻合" ],
+  "notes" : [ "「食い違う」为自动词，其使役态「食い違わせる」可表示“使……错位；使……产生分歧”" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11437,
+  "word" : "食う",
+  "reading" : "くう",
+  "romaji" : null,
+  "meaning" : [ "1. 吃（饭、食物等，比较口语化、粗鲁的说法）；2. 咬，叮（如虫子咬、动物咬等）；3. （引申义）侵占，侵吞（他人的财物、权益等）；4. 消耗，耗费（时间、金钱、精力等）" ],
+  "notes" : [ "该词属于口语化表达，比较粗鲁、随意，在正式场合或对长辈、上级等使用时需注意语气和场合，可替换为「食べる」等更礼貌的表达。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11438,
+  "word" : "食べます",
+  "reading" : "たべます",
+  "romaji" : null,
+  "meaning" : [ "吃；食用" ],
+  "notes" : [ "其基本形为「食べる」，属于一类动词（五段动词），「食べます」是其礼貌体（ます形）的表达，用于比较正式、礼貌的场合，对长辈、上级或不太熟悉的人使用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11439,
+  "word" : "食べる",
+  "reading" : "たべる",
+  "romaji" : null,
+  "meaning" : [ "吃；食用；（野兽等）捕食" ],
+  "notes" : [ "其否定形为「食べない（たべない）」，过去形为「食べた（たべた）」，过去否定形为「食べなかった（たべなかった）」，可能形为「食べられる（たべられる）」等。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11440,
+  "word" : "食べ歩き",
+  "reading" : "たべあるき",
+  "romaji" : null,
+  "meaning" : [ "名词，指边走边吃（的行为、状态或边走边吃的食物）" ],
+  "notes" : [ "「食べ歩き」也可作サ变动词使用，如「食べ歩く（たべあるく）」，此时词性为动词，活用类型为五段动词（一类动词），含义为边走边吃" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11441,
+  "word" : "食べ物",
+  "reading" : "たべもの",
+  "romaji" : null,
+  "meaning" : [ "食物，吃的东西" ],
+  "notes" : [ "「食べ物」是由动词「食べる」（吃）的连用形「食べ」加上名词「物」（东西）构成的复合名词，属于和语词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11442,
+  "word" : "食べ飽きる",
+  "reading" : "たべあきる",
+  "romaji" : null,
+  "meaning" : [ "吃腻，吃厌" ],
+  "notes" : [ "由「食べる」（吃）和「飽きる」（厌烦、腻烦）复合而成的动词，表示对某种食物吃的次数过多或量过多而产生厌烦、不想再吃的感觉。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11443,
+  "word" : "食み出す",
+  "reading" : "くいだす",
+  "romaji" : null,
+  "meaning" : [ "（从容器、缝隙等中）露出，冒出；（数量、程度等）超出（限度）" ],
+  "notes" : [ "「食み出す」是「食い出す」的旧字体写法，现在也常用「食い出す」的形式。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11444,
+  "word" : "食み出る",
+  "reading" : "くみだす",
+  "romaji" : null,
+  "meaning" : [ "（从内部）露出，凸出；超出（限度、范围等）" ],
+  "notes" : [ "「食み出る」是一个复合动词，由「食み（くみ）」（有“突出、冒出”的含义）和「出る（だす）」（有“出来、出现”的含义）构成，常用于描述物体向外凸出或者事物超出某种限制的情况。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11445,
+  "word" : "食中毒",
+  "reading" : "しょくちゅうどく",
+  "romaji" : null,
+  "meaning" : [ "因食用被细菌、病毒、毒素、化学物质等污染的食物，或者食用本身含有毒素的食物而引起的中毒症状，通常会出现呕吐、腹泻、腹痛、发热等症状。" ],
+  "notes" : [ "「食中毒」是复合名词，由「食（しょく）」（食物）和「中毒（ちゅうどく）」（中毒）组合而成，在日常生活和医疗相关的语境中经常使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11446,
+  "word" : "食事",
+  "reading" : "しょくじ",
+  "romaji" : null,
+  "meaning" : [ "吃饭，进餐；饭，餐食" ],
+  "notes" : [ "也可作サ变动词使用，如「食事する」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11447,
+  "word" : "食事します",
+  "reading" : "しょくじします",
+  "romaji" : null,
+  "meaning" : [ "进行用餐，吃饭（较为正式、礼貌的表达，常用于对长辈、上级或在正式场合提及吃饭这件事）" ],
+  "notes" : [ "「食事」本身可作名词，意为“饮食、饭食”，「食事します」是其动词性的用法，由名词「食事」后续「します」构成，属于サ変动词的ます形活用，表达用餐时比「食べます」更正式、礼貌。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11448,
+  "word" : "食事する",
+  "reading" : "しょくじする",
+  "romaji" : null,
+  "meaning" : [ "吃饭，用餐；饮食（较为正式的表达）" ],
+  "notes" : [ "「食事」也可作为名词使用，如「食事の時間」（吃饭的时间）。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11449,
+  "word" : "食卓",
+  "reading" : "しょくたく",
+  "romaji" : null,
+  "meaning" : [ "餐桌，饭桌" ],
+  "notes" : [ "常与「囲む（かこむ）」「整える（ととのえる）」等动词搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11450,
+  "word" : "食品",
+  "reading" : "しょくひん",
+  "romaji" : null,
+  "meaning" : [ "供人食用的物品，包括各种食物、饮品等，例如主食、副食、零食、饮料等。" ],
+  "notes" : [ "常与「衛生（えいせい）」「安全（あんぜん）」「管理（かんり）」等词搭配使用，用于描述与食物相关的各种事务，如食品生产、食品销售、食品监管等领域。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11451,
+  "word" : "食器",
+  "reading" : "しょっき",
+  "romaji" : null,
+  "meaning" : [ "餐具，指吃饭用的器具，如碗、盘子、杯子、筷子、勺子等。" ],
+  "notes" : [ "常见的食器类词汇还有「お椀（おわん）」（碗）、「プレート」（盘子）、「箸（はし）」（筷子）、「スプーン」（勺子）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11452,
+  "word" : "食堂",
+  "reading" : "しょくどう",
+  "romaji" : null,
+  "meaning" : [ "食堂，餐厅，饭馆" ],
+  "notes" : [ "可用于表示学校、公司、工厂等场所的公共用餐场所，也可用于指代一般的餐厅、饭馆。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11453,
+  "word" : "食塩",
+  "reading" : "しょくえん",
+  "romaji" : null,
+  "meaning" : [ "食盐，氯化钠（用于调味、腌制、化工原料等）" ],
+  "notes" : [ "在化学领域中，食塩的化学式为NaCl，是常见的无机化合物，在日常生活和工业生产中都有广泛应用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11454,
+  "word" : "食後",
+  "reading" : "しょくご",
+  "romaji" : null,
+  "meaning" : [ "饭后，用餐之后" ],
+  "notes" : [ "常与「に」「の」等助词搭配使用，构成相关短语表达时间或状态，如「食後の時間」（饭后的时间）、「食後に服用する」（饭后服用）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11455,
+  "word" : "食料",
+  "reading" : "しょくりょう",
+  "romaji" : null,
+  "meaning" : [ "食品，食物（维持生命所必需的可供食用的物质）" ],
+  "notes" : [ "常见的搭配有「食料品（しょくりょうひん）」（食品）、「食料供给（しょくりょうきょうきゅう）」（食物供给）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11456,
+  "word" : "食料品",
+  "reading" : "しょくりょうひん",
+  "romaji" : null,
+  "meaning" : [ "食品，食物" ],
+  "notes" : [ "一般指供食用的物品，包括生鲜、加工食品等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11457,
+  "word" : "食材",
+  "reading" : "しょくざい",
+  "romaji" : null,
+  "meaning" : [ "食品原材料，做饭做菜用的材料" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11458,
+  "word" : "食欲",
+  "reading" : "しょくよく",
+  "romaji" : null,
+  "meaning" : [ "想吃东西的欲望，食欲" ],
+  "notes" : [ "常见的搭配有「食欲を失う（失去食欲）」「食欲を抑える（抑制食欲）」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11459,
+  "word" : "食物",
+  "reading" : "しょくもつ",
+  "romaji" : null,
+  "meaning" : [ "食物，食品，吃的东西" ],
+  "notes" : [ "常作为较为正式的书面用语或在讨论饮食相关的学术、专业内容时使用，日常口语中也可用「食べ物（たべもの）」来表达食物的意思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11460,
+  "word" : "食生活",
+  "reading" : "しょくせいかつ",
+  "romaji" : null,
+  "meaning" : [ "饮食生活（指日常生活中饮食的内容、习惯、方式等方面的总和）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11461,
+  "word" : "食糧",
+  "reading" : "しょくりょう",
+  "romaji" : null,
+  "meaning" : [ "粮食，食粮（维持生命活动所必需的食物的总称，也可用于比喻维持某种活动或组织所需的资源、物资等）" ],
+  "notes" : [ "「食糧」更侧重于指作为生活、生存等所需的食物资源，相比「食物」，使用场景更偏向于宏观的、涉及到供应、储备、短缺等与粮食保障相关的方面。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11462,
+  "word" : "食費",
+  "reading" : "しょくひ",
+  "romaji" : null,
+  "meaning" : [ "伙食费，饭费，用于饮食方面的费用" ],
+  "notes" : [ "通常用于表示个人、家庭或集体在饮食方面的支出费用，常见于日常生活和财务相关的表达中" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11463,
+  "word" : "食道",
+  "reading" : "しょくどう",
+  "romaji" : null,
+  "meaning" : [ "食道，食管，是食物从口腔进入胃的通道，位于颈部和胸腔内，连接咽和胃。" ],
+  "notes" : [ "医学和解剖学领域常用词汇，在日常生活中提及消化系统相关内容时也会使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11464,
+  "word" : "飢える",
+  "reading" : "うえる",
+  "romaji" : null,
+  "meaning" : [ "1. 饿，饥饿（肚子饿，缺乏食物而感到难受）；2. 渴望，渴求（对某种事物有强烈的欲望、需求）" ],
+  "notes" : [ "其否定形式为「飢えない（うえない）」，过去式为「飢えた（うえた）」，て形为「飢えて（うえて）」等。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11465,
+  "word" : "飢饉",
+  "reading" : "ききん",
+  "romaji" : null,
+  "meaning" : [ "粮荒，饥荒；（物资、资源等的）不足，缺乏" ],
+  "notes" : [ "常用来描述粮食、物资等匮乏的状态，多与自然灾害、战争、社会动荡等导致物资不足的情况相关联。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11466,
+  "word" : "飯",
+  "reading" : "めし",
+  "romaji" : null,
+  "meaning" : [ "1. 饭，米饭；2. 餐，饭食；3. 生计，饭碗" ],
+  "notes" : [ "在口语中常用，也可写作「飯（はん）」，但「めし」的用法更具传统和口语化色彩" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11467,
+  "word" : "飲みます",
+  "reading" : "のみます",
+  "romaji" : null,
+  "meaning" : [ "喝；饮；吃（药）、服（药），例如：水を飲みます（喝水）；薬を飲みます（吃药）" ],
+  "notes" : [ "其基本形为「飲む」，属于一段动词，「飲みます」是「飲む」的ます形，用于较为礼貌、正式的表达场景。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11468,
+  "word" : "飲み会",
+  "reading" : "のみかい",
+  "romaji" : null,
+  "meaning" : [ "（同事、朋友等之间的）饮酒聚会，酒会，聚餐会" ],
+  "notes" : [ "通常是为了交流感情、放松身心等目的而举办的以饮酒为主要活动的聚会，参加者多为熟人，活动场所多在居酒屋、餐厅等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11469,
+  "word" : "飲み物",
+  "reading" : "のみもの",
+  "romaji" : null,
+  "meaning" : [ "饮料，饮品" ],
+  "notes" : [ "「飲み物」是「飲む（のむ）」的连用形「飲み」加上「物（もの）」构成的复合名词，指可以饮用的东西。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11470,
+  "word" : "飲み込む",
+  "reading" : "のみこむ",
+  "romaji" : null,
+  "meaning" : [ "1. 咽下，吞下去（食物、液体等通过口腔进入食道、胃等）；2. 理解，领会（把知识、话语等在心里接受并理解）；3. 忍受，抑制（把不满、情绪等憋在心里不表现出来）" ],
+  "notes" : [ "五段动词，其活用变形遵循五段动词的规则，如否定形为「飲み込まない」，过去形为「飲み込んだ」等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11471,
+  "word" : "飲む",
+  "reading" : "のむ",
+  "romaji" : null,
+  "meaning" : [ "喝；饮；吸入；吸收；冲（茶、咖啡等）；欣赏（音乐、文章等）" ],
+  "notes" : [ "其过去式为「飲んだ」，过去否定式为「飲まなかった」，命令式为「飲め」，意志形为「飲もう」等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11472,
+  "word" : "飲料メーカー",
+  "reading" : "いんりょうメーカー",
+  "romaji" : null,
+  "meaning" : [ "饮料生产商、饮料公司" ],
+  "notes" : [ "「メーカー」是外来语，源自英语“maker”，在这里表示“制造商、生产商”的意思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11473,
+  "word" : "飲用",
+  "reading" : "いんよう",
+  "romaji" : null,
+  "meaning" : [ "饮用，喝（通常用于正式场合，指喝液体，尤其是饮品、药剂等）" ],
+  "notes" : [ "常作为名词使用，若要表示动作“饮用”的动词形式，常用「飲む（のむ）」，「飲用」更侧重于“饮用”这一行为的概念或用途描述。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11474,
+  "word" : "飲酒",
+  "reading" : "いんしゅ",
+  "romaji" : null,
+  "meaning" : [ "饮酒，喝酒" ],
+  "notes" : [ "通常作为名词使用，也可后续「する」构成サ変動詞（サ行变格活用动词），即「飲酒する」，此时词性为动词，活用类型为サ変動詞" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11475,
+  "word" : "飲食",
+  "reading" : "いんしょく",
+  "romaji" : null,
+  "meaning" : [ "饮食；吃喝（的行为、内容等）" ],
+  "notes" : [ "也可作サ変動詞（即サ行变格活用动词），如「飲食する」（进行饮食、吃喝）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11476,
+  "word" : "飲食店",
+  "reading" : "いんしょくてん",
+  "romaji" : null,
+  "meaning" : [ "饮食店，餐馆，饭店" ],
+  "notes" : [ "一般指提供饮食服务的场所，包括餐厅、饭馆、小吃店等各类餐饮场所" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11477,
+  "word" : "飴",
+  "reading" : "あめ",
+  "romaji" : null,
+  "meaning" : [ "糖果；麦芽糖；甜头，诱饵" ],
+  "notes" : [ "除了表示糖果、麦芽糖外，还可用于比喻义，表示为了达到某种目的而给予的好处、诱饵等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11478,
+  "word" : "飼います",
+  "reading" : "かいます",
+  "romaji" : null,
+  "meaning" : [ "饲养；喂养；养（动物、宠物等）" ],
+  "notes" : [ "其基本形为「飼う（かう）」，属于五段动词，「飼います」是其礼貌体的ます形，用于比较正式、礼貌的场合表达“饲养”这一行为。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11479,
+  "word" : "飼い主",
+  "reading" : "かいぬし",
+  "romaji" : null,
+  "meaning" : [ "饲养者，主人，所有者（通常指饲养动物的主人）" ],
+  "notes" : [ "主要用于指饲养动物的主人，也可用于一些被饲养、被管理对象的所有者" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11480,
+  "word" : "飼う",
+  "reading" : "かう",
+  "romaji" : null,
+  "meaning" : [ "饲养；喂养；养活（人）" ],
+  "notes" : [ "“飼う”的对象既可以是动物，也可以用于比喻义上养活人等情况，其过去式为“飼った”，否定形为“飼わない”。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11481,
+  "word" : "飼育する",
+  "reading" : "しいくする",
+  "romaji" : null,
+  "meaning" : [ "饲养；培育（动物、植物等，使其成长）" ],
+  "notes" : [ "「飼育」作为サ变动词，其连用形为「飼育し」，连体形为「飼育する」，命令形为「飼育せよ」等。常与表示动物、植物、生物等的名词搭配使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11482,
+  "word" : "飽きっぽい",
+  "reading" : "あきっぽい",
+  "romaji" : null,
+  "meaning" : [ "容易厌烦的，没常性的，动不动就觉得腻的" ],
+  "notes" : [ "「～っぽい」是表示“容易……的，有……倾向的”的接尾词，这里接在「飽きる」（厌烦，腻烦）的连用形后，构成形容动词词性的复合词，在句中可作定语、谓语等成分。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11483,
+  "word" : "飽きる",
+  "reading" : "あきる",
+  "romaji" : null,
+  "meaning" : [ "腻烦，厌烦，厌倦；吃腻，用腻，玩腻；看腻，听腻；（因重复而）厌烦，腻味；满足，够；（对异性）感到厌倦，移情别恋" ],
+  "notes" : [ "「飽きる」是自动词，其对应的他动词是「飽かす」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11484,
+  "word" : "飽和",
+  "reading" : "ほうわ",
+  "romaji" : null,
+  "meaning" : [ "饱和；（发展、增长等）达到极限，趋于饱和" ],
+  "notes" : [ "“飽和”作为名词，也可后续「する」构成サ変動詞（サ行变格活用动词），表示“使饱和；达到饱和”，如「市場を飽和させる（使市场饱和）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11485,
+  "word" : "飾り",
+  "reading" : "かざり",
+  "romaji" : null,
+  "meaning" : [ "1. 装饰，饰品，装饰物；2. 粉饰，虚饰，华而不实的东西" ],
+  "notes" : [ "其对应的动词形式为「飾る（かざる）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11486,
+  "word" : "飾ります",
+  "reading" : "かざります",
+  "romaji" : null,
+  "meaning" : [ "装饰；装点；打扮；掩饰，粉饰" ],
+  "notes" : [ "「飾る」是五段动词，其ます形为「飾ります」，否定形为「飾りません」，过去形为「飾りました」，过去否定形为「飾りませんでした」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11487,
+  "word" : "飾る",
+  "reading" : "かざる",
+  "romaji" : null,
+  "meaning" : [ "1. 装饰，装点，修饰；2. 粉饰，掩饰，美化（缺点、错误等）；3. 陈列，摆饰（商品等）" ],
+  "notes" : [ "他动词，其对应的自动词为「飾られる」（被动形式，表被装饰等意）" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11488,
+  "word" : "餃子",
+  "reading" : "ギョーザ",
+  "romaji" : null,
+  "meaning" : [ "名詞，饺子（一种通常由薄面皮包裹馅料，可煮、蒸、煎等方式烹饪的中式传统食物，在日本也很受欢迎，常见的有日式煎饺等）" ],
+  "notes" : [ "「餃子」在日语中常指日式煎饺（焼き餃子），但也可泛指各种饺子；其读音「ギョーザ」是从中文“饺子”的发音音译而来" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11489,
+  "word" : "餃子パーティー",
+  "reading" : "ギョーザパーティー",
+  "romaji" : null,
+  "meaning" : [ "名词，以饺子为主题的聚会、饺子派对" ],
+  "notes" : [ "由「餃子（ギョーザ）」和「パーティー（派对）」组合而成的复合词，通常是大家一起制作、品尝饺子的聚会活动。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11490,
+  "word" : "餅",
+  "reading" : "もち",
+  "romaji" : null,
+  "meaning" : [ "年糕；（糯米等谷物蒸后捣制的）糕状物；（物体）粘连，附着" ],
+  "notes" : [ "“餅”作为名词，除了常见的“年糕”含义外，还可用于比喻物体之间的粘连状态，如“雪が餅付く”表示雪粘连在物体上。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11491,
+  "word" : "養う",
+  "reading" : "やしなう",
+  "romaji" : null,
+  "meaning" : [ "1. 养育，抚养（子どもや動物などを育てる）；2. 培养，培育（技能、习惯、精神等，例：趣味を養う）；3. 疗养，调养（病気や疲れを回復させるために静養する，例：体を養う）；4. 供养，赡养（家族や他人を経済的に支える）" ],
+  "notes" : [ "「養う」的汉字也可写作「養う」，其对应的简体形为「養う」，过去式为「養った」，否定形为「養わない」，可能形为「養える」等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11492,
+  "word" : "養分",
+  "reading" : "ようぶん",
+  "romaji" : null,
+  "meaning" : [ "养分，营养成分（生物为了维持生命活动和生长发育，从外部摄取的必要物质，如植物从土壤中吸收的氮、磷、钾等，动物从食物中摄取的蛋白质、脂肪、维生素等）" ],
+  "notes" : [ "「養分」主要用于描述生物（包括植物和动物）生存、生长所需要的营养物质，在农业、生物学、营养学等领域使用频率较高。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11493,
+  "word" : "養成",
+  "reading" : "ようせい",
+  "romaji" : null,
+  "meaning" : [ "培养，培训（使具备某种能力、素质或技能，通常用于有计划、有系统地对人或事物进行培育）" ],
+  "notes" : [ "常与「人材」「技術者」「職員」等表示人或需要培育的对象的词汇搭配使用，也可用于动植物的培育，如「良質な品種の米を養成する」（培育优质品种的大米）" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11494,
+  "word" : "養護",
+  "reading" : "ようご",
+  "romaji" : null,
+  "meaning" : [ "护养，养护；保健（对人或物进行保护、养育，使其维持良好状态，多用于对老人、儿童、动植物或物品等的保护与照料）" ],
+  "notes" : [ "作为名词使用，若要作动词使用，需加「する」构成サ変動詞，即「養護する（ようごする）」，此时词性为动词，活用类型为サ変動詞" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11495,
+  "word" : "餌",
+  "reading" : "えさ",
+  "romaji" : null,
+  "meaning" : [ "1. 饵，食物（动物的食物）；2. 诱饵，诱惑物（用于引诱动物或人上当的东西）" ],
+  "notes" : [ "常见的训读为「えさ」，音读为「じ」（如「餌付け（じづけ）」）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11496,
+  "word" : "餡",
+  "reading" : "あん",
+  "romaji" : null,
+  "meaning" : [ "馅料，特指用小豆等煮烂后捣成泥状并加入糖等制成的甜馅，常用于制作和果子、点心等；也可指包在点心、包子等里面的馅" ],
+  "notes" : [ "常见的相关词汇有「あんこ（餡子）」（豆沙馅）、「白餡（しろあん）」（白豆沙馅，一般用白小豆制作）、「かす餡（かすあん）」（带豆皮的豆沙馅）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11497,
+  "word" : "館長",
+  "reading" : "かんちょう",
+  "romaji" : null,
+  "meaning" : [ "馆长（一般指博物馆、美术馆、图书馆、展览馆等场所的负责人）" ],
+  "notes" : [ "一般用于正式场合称呼相关场所的管理者，也可用于对他人介绍该职务的人员。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11498,
+  "word" : "饅頭",
+  "reading" : "まんとう",
+  "romaji" : null,
+  "meaning" : [ "馒头，包子（通常指带馅的蒸制面食，如豆沙包、肉馅包等）" ],
+  "notes" : [ "在日本，“饅頭”的概念和中国的馒头有所不同，日本的饅頭一般是带馅的，而中国的馒头通常无馅，日本无馅的类似中国馒头的面食一般称为“食パン（面包）”或“白饅頭（中国馒头风格的面食）”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11499,
+  "word" : "首",
+  "reading" : "くび",
+  "romaji" : null,
+  "meaning" : [ "1. 脖子，脖颈；2. 头，脑袋（比较口语化的说法，正式说法多用「頭（あたま）」）；3. （器物的）颈部，脖儿；4. （衣服的）领口，领圈" ],
+  "notes" : [ "「首」在表示“头、脑袋”的意思时，使用场景相对口语化、随意化，在正式的书面语或较为严肃的表达中，通常使用「頭（あたま）」来表示“头、脑袋”的意思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 11500,
+  "word" : "首相",
+  "reading" : "しゅしょう",
+  "romaji" : null,
+  "meaning" : [ "首相，总理大臣（君主制国家的政府首脑）" ],
+  "notes" : [ "通常指君主制国家的政府首脑，共和制国家的政府首脑一般称为「総理大臣（そうりだいじん）」，但在日本，「首相」和「総理大臣」是同一职位的不同称呼，正式名称为「総理大臣」，日常多称为「首相」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

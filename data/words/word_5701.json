@@ -1,0 +1,901 @@
+[ {
+  "id" : 5701,
+  "word" : "後片づけ",
+  "reading" : "あとかたづけ",
+  "romaji" : null,
+  "meaning" : [ "善后处理；收拾；整理（指活动结束后，将现场恢复原状或整理干净）" ],
+  "notes" : [ "也可写作「後片付け」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5702,
+  "word" : "後片付け",
+  "reading" : "あとかたづけ",
+  "romaji" : null,
+  "meaning" : [ "善后，整理，收拾（指事情结束后的清理工作）" ],
+  "notes" : [ "通常写作「後片付け」或「後片づけ」。作为サ变动词使用时，可以说「後片付けする」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5703,
+  "word" : "後略",
+  "reading" : "こうりゃく",
+  "romaji" : null,
+  "meaning" : [ "省略后文；后略（多用于文章或列表中，表示以下内容省略不写）" ],
+  "notes" : [ "主要用于书面语，与「前略」相对。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5704,
+  "word" : "後者",
+  "reading" : "こうしゃ",
+  "romaji" : null,
+  "meaning" : [ "后者；后面的人或事物" ],
+  "notes" : [ "常与“前者”一起使用，指代两个事物中后提到的一个。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5705,
+  "word" : "後輩",
+  "reading" : "こうはい",
+  "romaji" : null,
+  "meaning" : [ "后辈；晚辈；（入会、入学、就业）比自己晚的人" ],
+  "notes" : [ "反义词是“先輩”（前辈、上级）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5706,
+  "word" : "徐々に",
+  "reading" : "じょじょに",
+  "romaji" : null,
+  "meaning" : [ "渐渐地，慢慢地，逐步地；徐徐地" ],
+  "notes" : [ "书面语表示，常用于描述状态缓慢、平稳的变化过程。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5707,
+  "word" : "徐行",
+  "reading" : "じょこう",
+  "romaji" : null,
+  "meaning" : [ "慢行，徐徐而行；（车辆）慢速行驶" ],
+  "notes" : [ "多用于交通标识或驾驶规则中，指以能够随时停车的速度行驶。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5708,
+  "word" : "徒歩",
+  "reading" : "とほ",
+  "romaji" : null,
+  "meaning" : [ "徒步，步行" ],
+  "notes" : [ "常用于表示交通方式或距离，如「徒歩5分」（步行5分钟）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5709,
+  "word" : "従う",
+  "reading" : "したがう",
+  "romaji" : null,
+  "meaning" : [ "1. 跟随，随着（随着移动或变化）；2. 遵从，服从，听从（命令、规则、教导等）；3. 沿着……走，顺着……" ],
+  "notes" : [ "书写时注意汉字“従”的笔画。作为五段动词，其否定形式为“従わない”，过去式为“従った”。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5710,
+  "word" : "従える",
+  "reading" : "したがえる",
+  "romaji" : null,
+  "meaning" : [ "1. 率领，带领（部下等）；2. 使服从，征服；3. 听从，遵从" ],
+  "notes" : [ "一段动词，其自动词形式为「従う（したがう）」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5711,
+  "word" : "従事",
+  "reading" : "じゅうじ",
+  "romaji" : null,
+  "meaning" : [ "从事；致力于（某项工作或活动）" ],
+  "notes" : [ "通常以「～に従事する」的形式使用，表示专门从事某种工作或职业。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5712,
+  "word" : "従来",
+  "reading" : "じゅうらい",
+  "romaji" : null,
+  "meaning" : [ "（名・副）以往，过去，直到现在；通常，平常" ],
+  "notes" : [ "常以「従来の～」的形式出现，作名词修饰语。也可作为副词使用，表示“至今为止”或“与往常一样”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5713,
+  "word" : "従業員",
+  "reading" : "じゅうぎょういん",
+  "romaji" : null,
+  "meaning" : [ "工作人员，职员（公司、商店等的受雇人员）" ],
+  "notes" : [ "指在公司、商店、银行等机构工作的受雇人员。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5714,
+  "word" : "得る",
+  "reading" : "える",
+  "romaji" : null,
+  "meaning" : [ "得到，获得；获取；可以，能够（接在动词连用形后，表示可能性）" ],
+  "notes" : [ "另有读音“うる”，常接在动词连用形后表示可能性（如：ありうる、考えうる）。作为“える”使用时，意为获得、得到。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5715,
+  "word" : "得意",
+  "reading" : "とくい",
+  "romaji" : null,
+  "meaning" : [ "擅长；拿手；得意（反义词：苦手）" ],
+  "notes" : [ "常用搭配：～が得意（擅长某事）" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5716,
+  "word" : "得意先",
+  "reading" : "とくいさき",
+  "romaji" : null,
+  "meaning" : [ "主顾，客户，老主顾" ],
+  "notes" : [ "商业用语，常用于指代交易对象或老客户。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5717,
+  "word" : "得手",
+  "reading" : "えて",
+  "romaji" : null,
+  "meaning" : [ "擅长的事情，拿手的事情，得意的手段；惯用的伎俩（常含贬义）" ],
+  "notes" : [ "常以「～が得手」或「得手に帆を揚げる（顺风使帆/得寸进尺）」的形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5718,
+  "word" : "得点",
+  "reading" : "とくてん",
+  "romaji" : null,
+  "meaning" : [ "得分，分数；（考试、比赛等取得的）成绩" ],
+  "notes" : [ "通常指考试或竞技比赛中获得的分数。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5719,
+  "word" : "得点",
+  "reading" : "とくてん",
+  "romaji" : null,
+  "meaning" : [ "得分，分数；获得的分数。" ],
+  "notes" : [ "通常作为名词使用，如“高得点（こうとくてん）”。若要表示“得分”的动作，通常使用サ变动词“得点（とくてん）する”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5720,
+  "word" : "ごちそうさまでした",
+  "reading" : "ごちそうさまでした",
+  "romaji" : null,
+  "meaning" : [ "多谢款待；承蒙款待（饭后或接受款待时的客套话）" ],
+  "notes" : [ "由名词“御馳走（ごちそう）”和敬语助动词“でした”组成。字面意思是“这是一场丰盛的款待”，用于饭后表示感谢，或作为拜访结束时的道别语。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5721,
+  "word" : "御中",
+  "reading" : "おんちゅう",
+  "romaji" : null,
+  "meaning" : [ "（接在团体、机关名称后，表示致信对象）公启、台启、致" ],
+  "notes" : [ "通常用于信封或邮件的收件人处，接在公司、学校、政府机关等团体名称之后，不接在个人姓名之后（个人姓名后通常用「様」）。" ],
+  "pos" : "SUFFIX",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5722,
+  "word" : "御社",
+  "reading" : "おんしゃ",
+  "romaji" : null,
+  "meaning" : [ "（敬语）贵公司，贵社。用于称呼对方公司。" ],
+  "notes" : [ "通常在商务场合用来称呼对方公司。如果是和客户谈话时提到自己的公司，则使用“弊社（へいしゃ）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5723,
+  "word" : "御行",
+  "reading" : "おんぎょう",
+  "romaji" : null,
+  "meaning" : [ "名词 （佛教用语）修行；读经；佛事" ],
+  "notes" : [ "属于佛教术语，指修行、读经或举行的佛事活动。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5724,
+  "word" : "復旧",
+  "reading" : "ふっきゅう",
+  "romaji" : null,
+  "meaning" : [ "恢复原状，（损坏后）修复，复原" ],
+  "notes" : [ "通常指设备、设施、系统等因故障或损坏停止使用后，恢复到原来可以使用的状态。作为サ变动词使用时，词尾为「する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5725,
+  "word" : "復活",
+  "reading" : "ふっかつ",
+  "romaji" : null,
+  "meaning" : [ "复活，苏醒；恢复，复兴；（死后的）复生" ],
+  "notes" : [ "由动词「復活する」派生的名词形式也常使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5726,
+  "word" : "復習",
+  "reading" : "ふくしゅう",
+  "romaji" : null,
+  "meaning" : [ "复习" ],
+  "notes" : [ "「学習したことをもう一度繰り返して覚えること」" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5727,
+  "word" : "復習します",
+  "reading" : "ふくしゅうします",
+  "romaji" : null,
+  "meaning" : [ "复习" ],
+  "notes" : [ "原形为「復習する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5728,
+  "word" : "復興",
+  "reading" : "ふっこう",
+  "romaji" : null,
+  "meaning" : [ "复兴，重建；衰败的事物再次兴盛。" ],
+  "notes" : [ "サ変動詞（する動詞）としても使用できる（例：復興する）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5729,
+  "word" : "循環",
+  "reading" : "じゅんかん",
+  "romaji" : null,
+  "meaning" : [ "（1）循环；（2）周而复始；（3）血液循环。" ],
+  "notes" : [ "サ変動詞「循環する」の語幹。医学や環境分野でよく使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5730,
+  "word" : "微力",
+  "reading" : "びりょく",
+  "romaji" : null,
+  "meaning" : [ "微薄的力量；绵薄之力（自谦语）" ],
+  "notes" : [ "常用于自谦语，表示自己的力量很小，但愿意尽力帮忙。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5731,
+  "word" : "微塵も",
+  "reading" : "みじんも",
+  "romaji" : null,
+  "meaning" : [ "（後ろに否定を伴って）少しも～ない。全然～ない。" ],
+  "notes" : [ "「微塵（みじん）」は「極めて小さいこと」を意味する名詞。助詞「も」を伴い、副詞的に使われる。必ず後ろに否定の表現が来る。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5732,
+  "word" : "微妙",
+  "reading" : "びみょう",
+  "romaji" : null,
+  "meaning" : [ "1. 微妙的；微小的，细小的。2. （因理由不明而）难以判断的，说不清的，含糊的，模棱两可的。" ],
+  "notes" : [ "口语中常用“微妙”表示“不太好”、“不太行”或“没什么意思”等委婉的否定评价。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5733,
+  "word" : "微生物",
+  "reading" : "びせいぶつ",
+  "romaji" : null,
+  "meaning" : [ "肉眼で見ることのできない極めて小さな生物。細菌、真菌、ウイルスなどを含む。" ],
+  "notes" : [ "生物学、医学分野でよく使われる言葉。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5734,
+  "word" : "微笑",
+  "reading" : "びしょう",
+  "romaji" : null,
+  "meaning" : [ "微笑，含笑" ],
+  "notes" : [ "名词形式为「微笑（びしょう）」，也可以作为サ变动词使用，即「微笑（びしょう）する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5735,
+  "word" : "微笑む",
+  "reading" : "ほほえむ",
+  "romaji" : null,
+  "meaning" : [ "微笑；（花蕾）绽放；令人发笑" ],
+  "notes" : [ "主语通常为人，也可以用于比喻花朵绽放等情景。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5736,
+  "word" : "微量",
+  "reading" : "びりょう",
+  "romaji" : null,
+  "meaning" : [ "微小的数量；极少量" ],
+  "notes" : [ "通常用于化学、医学或烹饪等语境，表示非常少的数量。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5737,
+  "word" : "徴収",
+  "reading" : "ちょうしゅう",
+  "romaji" : null,
+  "meaning" : [ "征收；收取（税款、费用等）" ],
+  "notes" : [ "通常指依据权力强制收取税款、费用等。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5738,
+  "word" : "徹する",
+  "reading" : "てっする",
+  "romaji" : null,
+  "meaning" : [ "贯彻；彻底执行；彻（彻夜）；透彻；精通" ],
+  "notes" : [ "前接名词构成复合动词，如「貫く（つらぬく）」同义。常用搭配：夜を徹する（彻夜）、始終を徹する（贯彻始终）。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5739,
+  "word" : "徹夜",
+  "reading" : "てつや",
+  "romaji" : null,
+  "meaning" : [ "通宵，彻夜；熬夜" ],
+  "notes" : [ "虽然具有动作性，但在日语语法中通常作为名词或サ变动词词干使用，如「徹夜する（てつやする）」的形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5740,
+  "word" : "徹夜する",
+  "reading" : "てつやする",
+  "romaji" : null,
+  "meaning" : [ "彻夜，通宵不睡；熬夜" ],
+  "notes" : [ "通常以「徹夜して」或「徹夜だ」的形式使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5741,
+  "word" : "徹底",
+  "reading" : "てってい",
+  "romaji" : null,
+  "meaning" : [ "彻底；贯彻始终；透彻" ],
+  "notes" : [ "常用作サ变动词「徹底する」使用，意为彻底进行某事。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5742,
+  "word" : "徹底的",
+  "reading" : "てっていてき",
+  "romaji" : null,
+  "meaning" : [ "彻底的；彻头彻尾的；全面的" ],
+  "notes" : [ "通常以「徹底的な」的形式修饰名词，或以「徹底的に」的形式修饰动词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5743,
+  "word" : "心",
+  "reading" : "こころ",
+  "romaji" : null,
+  "meaning" : [ "心；心脏；精神；内心；想法；情感；真心" ],
+  "notes" : [ "常用于表达情感、精神状态或真实的想法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5744,
+  "word" : "心を一つにする",
+  "reading" : "こころをひとつにする",
+  "romaji" : null,
+  "meaning" : [ "团结一心，齐心协力；万众一心" ],
+  "notes" : [ "表示大家想法一致，为了同一个目标共同努力。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5745,
+  "word" : "心地",
+  "reading" : "ここち",
+  "romaji" : null,
+  "meaning" : [ "感觉，心情，心境；（身体或精神上的）舒适感" ],
+  "notes" : [ "常以「～心地」的形式构成复合词，如「座り心地」（坐的感觉）、「住み心地」（居住的感觉）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5746,
+  "word" : "心地よい",
+  "reading" : "ここちよい",
+  "romaji" : null,
+  "meaning" : [ "愉快的，爽快的，惬意的，舒适的" ],
+  "notes" : [ "也可以写作「心地好い」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5747,
+  "word" : "心強い",
+  "reading" : "こころづよい",
+  "romaji" : null,
+  "meaning" : [ "心里有底的；受鼓舞的；有把握的；胆壮的；可靠的" ],
+  "notes" : [ "形容詞（イ形容詞）。漢字は「心強い」のほか、「心強い」と書くこともある。反対語は「心細い（こころぼそい）」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5748,
+  "word" : "心当たり",
+  "reading" : "こころあたり",
+  "romaji" : null,
+  "meaning" : [ "线索；眉目；猜想；估计的对象（指心中预想可能符合的人或事）" ],
+  "notes" : [ "通常以「心当たりがある/ない」的形式使用，表示对某人或某事有某种预感或线索。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5749,
+  "word" : "心得",
+  "reading" : "こころえ",
+  "romaji" : null,
+  "meaning" : [ "心得，体会，经验；注意事项，须知，规则" ],
+  "notes" : [ "读作「こころえ」时表示经验或须知；读作「しんとく」时多用于佛教语境，表示领悟、证悟。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5750,
+  "word" : "心得る",
+  "reading" : "こころえる",
+  "romaji" : null,
+  "meaning" : [ "1. 领会，理解，掌握，懂得（道理、知识等）。2. 答应，应允（多用于长辈对晚辈或上级对下级）。" ],
+  "notes" : [ "属于日语动词中的一段活用动词（下一段动词）。通常用于表示通过学习或经验掌握了某种技能或道理，或者表示上级对下级的许可。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5751,
+  "word" : "心情",
+  "reading" : "しんじょう",
+  "romaji" : null,
+  "meaning" : [ "心情，心境；本意，本心" ],
+  "notes" : [ "虽然中文里常用“心情”表示mood，但在日语中“気分（きぶん）”更常用于表示当下的情绪或心情；“心情（しんじょう）”更多指深层的心理状态、本意或居心。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5752,
+  "word" : "心掛かり",
+  "reading" : "こころがかり",
+  "romaji" : null,
+  "meaning" : [ "挂念，担心，放心不下；心事，负担" ],
+  "notes" : [ "常用作「心掛かりがある」的形式，表示心里有挂念或担心的事情。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5753,
+  "word" : "心掛け",
+  "reading" : "こころがけ",
+  "romaji" : null,
+  "meaning" : [ "留心，注意；用心，努力；日常的言行，品行" ],
+  "notes" : [ "常以「～を心掛ける」的形式使用，表示平时有意识地做某事。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5754,
+  "word" : "心掛ける",
+  "reading" : "こころがける",
+  "romaji" : null,
+  "meaning" : [ "留心，注意，记在心里；努力做，刻意做" ],
+  "notes" : [ "通常写作平假名“こころがける”。表示平时有意识地注意某事或努力保持某种状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5755,
+  "word" : "心構え",
+  "reading" : "こころがまえ",
+  "romaji" : null,
+  "meaning" : [ "思想准备，精神准备；心理准备" ],
+  "notes" : [ "指面对某事时的心理准备或精神状态准备。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5756,
+  "word" : "心理",
+  "reading" : "しんり",
+  "romaji" : null,
+  "meaning" : [ "心理；精神作用；心情" ],
+  "notes" : [ "指人的内心活动、精神状态或思想感情。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5757,
+  "word" : "心理学",
+  "reading" : "しんりがく",
+  "romaji" : null,
+  "meaning" : [ "心理学" ],
+  "notes" : [ "由“心理”和“学”组成的复合词，指研究心理现象及其规律的科学。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5758,
+  "word" : "心細い",
+  "reading" : "こころぼそい",
+  "romaji" : null,
+  "meaning" : [ "感到不安的，心里没底的；孤独的，无依无靠的" ],
+  "notes" : [ "属于イ形容词，表示因缺乏自信、依靠或处于孤立状态而产生的忐忑不安的感觉。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5759,
+  "word" : "心臓",
+  "reading" : "しんぞう",
+  "romaji" : null,
+  "meaning" : [ "心脏" ],
+  "notes" : [ "身体部位名词，指心脏。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5760,
+  "word" : "心身",
+  "reading" : "しんしん",
+  "romaji" : null,
+  "meaning" : [ "身心，身体和精神" ],
+  "notes" : [ "通常作为复合词使用，指身体和精神两个方面。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5761,
+  "word" : "心遣い遣い",
+  "reading" : "こころづかい",
+  "romaji" : null,
+  "meaning" : [ "操心，费心，关照，体贴；赠品，礼物" ],
+  "notes" : [ "指为了照顾对方而花费心思或采取的行动，也可以指作为这种心意表现的礼物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5762,
+  "word" : "心配",
+  "reading" : "しんぱい",
+  "romaji" : null,
+  "meaning" : [ "担心，挂念，焦虑；不安，忧虑" ],
+  "notes" : [ "作为名词表示“担心、不安”的状态；作为サ变动词表示“担心、挂念”的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5763,
+  "word" : "心配します",
+  "reading" : "しんぱいします",
+  "romaji" : null,
+  "meaning" : [ "担心，挂念，忧虑" ],
+  "notes" : [ "原型为「心配する」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5764,
+  "word" : "心配をかける",
+  "reading" : "しんぱいをかける",
+  "romaji" : null,
+  "meaning" : [ "惯用语。使（人）担心，让（人）挂念。通常用于因自己的行为或状况给他人带来担忧的情况。" ],
+  "notes" : [ "该词组由名词“心配（担心）”和动词“かける（挂、施加）”组成。常用被动形式“心配をかけられる”或使役形式“心配をかけさせる”。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5765,
+  "word" : "心配事",
+  "reading" : "しんぱいごと",
+  "romaji" : null,
+  "meaning" : [ "操心的事，担心的事情，令人挂念的事。" ],
+  "notes" : [ "由名词“心配”（担心、忧虑）与名词“事”（事情）复合而成的复合名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5766,
+  "word" : "心配する",
+  "reading" : "しんぱいする",
+  "romaji" : null,
+  "meaning" : [ "担心，挂念，忧虑" ],
+  "notes" : [ "属于サ行变格活用动词（动词第三类）。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5767,
+  "word" : "必ず",
+  "reading" : "かならず",
+  "romaji" : null,
+  "meaning" : [ "一定，必定；准，总是" ],
+  "notes" : [ "表示某种事情确定发生，或者表示强烈的意志和决心。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5768,
+  "word" : "必ずしも",
+  "reading" : "かならずしも",
+  "romaji" : null,
+  "meaning" : [ "（后接否定语）未必，不一定" ],
+  "notes" : [ "通常与否定形式（～ない、～とは限らない、～わけではない）搭配使用。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5769,
+  "word" : "必修",
+  "reading" : "ひっしゅう",
+  "romaji" : null,
+  "meaning" : [ "必修（课程）；必须修习" ],
+  "notes" : [ "通常指学校中必须修习的课程或科目。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5770,
+  "word" : "必死",
+  "reading" : "ひっし",
+  "romaji" : null,
+  "meaning" : [ "拼命；竭尽全力；死命" ],
+  "notes" : [ "也可以作为名词使用，表示“拼命”、“竭尽全力”的状态。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5771,
+  "word" : "必然",
+  "reading" : "ひつぜん",
+  "romaji" : null,
+  "meaning" : [ "必然；必定；理所当然；不可避免的事情" ],
+  "notes" : [ "也可用作形容动词（な形容词），如「必然的な結果」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5772,
+  "word" : "必要",
+  "reading" : "ひつよう",
+  "romaji" : null,
+  "meaning" : [ "必要，必需" ],
+  "notes" : [ "通常以「必要な」或「必要です」的形式使用。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5773,
+  "word" : "必見",
+  "reading" : "ひっけん",
+  "romaji" : null,
+  "meaning" : [ "必看；必须看（的地方、作品等）" ],
+  "notes" : [ "常用于形容值得一看的景点、电影、书籍等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5774,
+  "word" : "必需品",
+  "reading" : "ひつじゅひん",
+  "romaji" : null,
+  "meaning" : [ "必需品，不可缺少的东西" ],
+  "notes" : [ "由名词“必需”和“品”组成。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5775,
+  "word" : "忍ぶ",
+  "reading" : "しのぶ",
+  "romaji" : null,
+  "meaning" : [ "1. 忍耐，忍受，隐忍；2. 偷偷地做，避人耳目；3. 想念，怀念（多用于古语）" ],
+  "notes" : [ "常以「忍ぶ（しのぶ）」的形式出现。相关词汇：忍び（忍び足/悄悄的脚步声）、忍び字（隐语）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5776,
+  "word" : "忍者",
+  "reading" : "にんじゃ",
+  "romaji" : null,
+  "meaning" : [ "忍者；受雇于领主进行间谍、暗杀等秘密任务的人" ],
+  "notes" : [ "古代日本における諜報活動や破壊活動などの任務を受け持った特化した職業、またはその集団のこと。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5777,
+  "word" : "忍耐",
+  "reading" : "にんたい",
+  "romaji" : null,
+  "meaning" : [ "忍耐，忍受，耐性" ],
+  "notes" : [ "作为动词使用时，通常使用其サ行变格复合动词形式，如「忍耐する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5778,
+  "word" : "志す",
+  "reading" : "こころざす",
+  "romaji" : null,
+  "meaning" : [ "立志，以...为目标，志愿" ],
+  "notes" : [ "通常以「～を志す」的形式使用，表示决心以某事为目标。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5779,
+  "word" : "志向",
+  "reading" : "しこう",
+  "romaji" : null,
+  "meaning" : [ "志向，意向，抱负；理想，志愿" ],
+  "notes" : [ "通常作为サ变动词使用，如「志向する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5780,
+  "word" : "志望",
+  "reading" : "しぼう",
+  "romaji" : null,
+  "meaning" : [ "志愿，抱负；希望（考入某学校或从事某职业）" ],
+  "notes" : [ "通常以「～を志望する」的形式使用，表示志愿从事某职业或希望考入某学校。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5781,
+  "word" : "志望動機",
+  "reading" : "しぼうどうき",
+  "romaji" : null,
+  "meaning" : [ "志愿动机，志愿理由；申请某学校或职位时的动机。" ],
+  "notes" : [ "常用于求职、升学等场合，表达为何选择该公司或学校。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5782,
+  "word" : "忘れます",
+  "reading" : "わすれます",
+  "romaji" : null,
+  "meaning" : [ "忘记，忘掉" ],
+  "notes" : [ "表示将原本应该记住的事物或应该做的事情遗忘了。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5783,
+  "word" : "忘れる",
+  "reading" : "わすれる",
+  "romaji" : null,
+  "meaning" : [ "忘记，遗忘；丢下，落下" ],
+  "notes" : [ "作为一段动词（下一段动词），其过去否定形式为「忘れませんでした」。除了表示记忆上的遗忘，也常用于表示将物品遗落在某处。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5784,
+  "word" : "忘れ物",
+  "reading" : "わすれもの",
+  "romaji" : null,
+  "meaning" : [ "遗忘的东西，遗失物" ],
+  "notes" : [ "由动词「忘れる」的连用形「忘れ」与名词「物」复合而成。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5785,
+  "word" : "忘年会",
+  "reading" : "ぼうねんかい",
+  "romaji" : null,
+  "meaning" : [ "年末举办的聚会，旨在慰劳一年的辛苦并忘却当年的烦恼，以此迎接新年。" ],
+  "notes" : [ "通常在12月举行，是日本公司、社团或朋友间常见的年末活动。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5786,
+  "word" : "忙しい",
+  "reading" : "いそがしい",
+  "romaji" : null,
+  "meaning" : [ "忙碌的；忙的；繁忙的" ],
+  "notes" : [ "常用词汇，表示状态忙碌，没有时间。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5787,
+  "word" : "応える",
+  "reading" : "こたえる",
+  "romaji" : null,
+  "meaning" : [ "1. 响应，回答，反应；2. 报答，回应（好意等）；3. 深感，痛受（影响）" ],
+  "notes" : [ "通常以「～に応える」的形式使用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5788,
+  "word" : "応じる",
+  "reading" : "おうじる",
+  "romaji" : null,
+  "meaning" : [ "1. 回答，答应。2. 响应，应允（要求、期待等）。3. 适应，按照（情况、比例等）。" ],
+  "notes" : [ "常以「～に応じる」的形式出现。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5789,
+  "word" : "応募",
+  "reading" : "おうぼ",
+  "romaji" : null,
+  "meaning" : [ "报名参加；应募；应征（招募、招聘等）" ],
+  "notes" : [ "“応募する”是动词形式，属于サ变动词（第三类动词）。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5790,
+  "word" : "応対",
+  "reading" : "おうたい",
+  "romaji" : null,
+  "meaning" : [ "接待，应酬，应付（指接待客人、来访者或应对电话等）。" ],
+  "notes" : [ "通常指在商务或正式场合中应对客人、客户或电话。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5791,
+  "word" : "応急",
+  "reading" : "おうきゅう",
+  "romaji" : null,
+  "meaning" : [ "应急，临时的（措施、处理等）" ],
+  "notes" : [ "常用于复合词，如応急処置（急救/应急处理）、応急手当（急救）、応急薬（急救药）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5792,
+  "word" : "応接",
+  "reading" : "おうせつ",
+  "romaji" : null,
+  "meaning" : [ "接待；接见（通常指接待客人、来访者）" ],
+  "notes" : [ "常用词组「応接間（おうせつま）」指客厅、会客室。作为动词使用时，通常以「応接する」的形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5793,
+  "word" : "応接室",
+  "reading" : "おうせつしつ",
+  "romaji" : null,
+  "meaning" : [ "会客室；接待室" ],
+  "notes" : [ "指用于接待客人、访客的房间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5794,
+  "word" : "応援",
+  "reading" : "おうえん",
+  "romaji" : null,
+  "meaning" : [ "声援；支援，援助" ],
+  "notes" : [ "作为サ变动词，活用形式为「応援する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5795,
+  "word" : "応援",
+  "reading" : "おうえん",
+  "romaji" : null,
+  "meaning" : [ "声援，加油；支援，援助" ],
+  "notes" : [ "作为サ变动词使用时，词尾常加“する”。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5796,
+  "word" : "応用",
+  "reading" : "おうよう",
+  "romaji" : null,
+  "meaning" : [ "应用，运用；实际应用" ],
+  "notes" : [ "也可作为サ变动词使用，词性为「名詞（サ変）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5797,
+  "word" : "応答",
+  "reading" : "おうとう",
+  "romaji" : null,
+  "meaning" : [ "回答，答应；反应，响应" ],
+  "notes" : [ "作为名词使用时表示“回答”或“反应”；作为动词使用时为‘応答する’，属于サ行变格活用动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5798,
+  "word" : "忠告",
+  "reading" : "ちゅうこく",
+  "romaji" : null,
+  "meaning" : [ "忠告，劝告" ],
+  "notes" : [ "既可以作为名词使用，也可以作为サ变动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5799,
+  "word" : "忠実",
+  "reading" : "ちゅうじつ",
+  "romaji" : null,
+  "meaning" : [ "忠实，忠诚；照原样，如实" ],
+  "notes" : [ "常以「忠実に」的形式作副词使用。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5800,
+  "word" : "忠言",
+  "reading" : "ちゅうげん",
+  "romaji" : null,
+  "meaning" : [ "（出于善意或为了对方利益而进行的）忠告，直言相劝" ],
+  "notes" : [ "常用于谚语“忠言耳に逆らう”（忠言逆耳），指诚实的劝告往往听起来不舒服，但对自己有益。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

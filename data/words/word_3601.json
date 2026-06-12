@@ -1,0 +1,901 @@
+[ {
+  "id" : 3601,
+  "word" : "分配",
+  "reading" : "ぶんぱい",
+  "romaji" : null,
+  "meaning" : [ "1. 分配、分发，将物品、任务、资源等按比例或计划分给相关者；2. （计算机等领域）分配，指为特定程序、任务分配内存、权限等系统资源" ],
+  "notes" : [ "作为サ変動詞，可构成「分配する」的动词形式，也可单独作为名词使用" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3602,
+  "word" : "分野",
+  "reading" : "ぶんや",
+  "romaji" : null,
+  "meaning" : [ "1. 领域，方面，范畴；2. （学术、行业等的）分科，分支；3. （土地的）分区，区域" ],
+  "notes" : [ "常用以表示学术、职业、社会活动等的特定范畴，也可用于土地的划分场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3603,
+  "word" : "分量",
+  "reading" : "ぶんりょう",
+  "romaji" : null,
+  "meaning" : [ "1. 分量，数量；2. 重量；3. （文章、发言等的）篇幅，分量" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3604,
+  "word" : "分類",
+  "reading" : "ぶんるい",
+  "romaji" : null,
+  "meaning" : [ "分类，归类，分门别类" ],
+  "notes" : [ "作为サ变动词使用时，常以「分類する」的形式出现，可用于书面语和口语场景" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3605,
+  "word" : "分類する",
+  "reading" : "ぶんるいする",
+  "romaji" : null,
+  "meaning" : [ "划分，分类；把事物按种类、性质等区分开并归类" ],
+  "notes" : [ "「分類する」是他动词，后续可接宾语，常用「～を～に分類する」的结构表示将某事物按某种标准分类。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3606,
+  "word" : "切ない",
+  "reading" : "せつない",
+  "romaji" : null,
+  "meaning" : [ "1. 心里难受的，苦闷的，痛苦的；2. 难过的，悲伤的；3. 令人怀念的，眷恋的" ],
+  "notes" : [ "多用来描述因离别、思念、遗憾等情绪带来的复杂内心感受，兼具悲伤与眷恋的情感色彩" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3607,
+  "word" : "切ります",
+  "reading" : "きります",
+  "romaji" : null,
+  "meaning" : [ "1. 剪，切，割；2. 截断，中断；3. 截止，限定；4. 断开（联系、关系）" ],
+  "notes" : [ "「切ります」是动词「切る（きる）」的ます形，属于五段动词的活用变形，日常使用中也常作为礼貌体直接使用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3608,
+  "word" : "切り上げる",
+  "reading" : "きりあげる",
+  "romaji" : null,
+  "meaning" : [ "1. 结束、终止、告一段落；2.（计算时）向上取整，把零数进为整数；3. 提高（价格、工资等）" ],
+  "notes" : [ "作为“向上取整”义项时，反义词为「切り下げる（きりさげる）」；表示结束工作等场景时，多用于正式场合或有明确收尾的情况。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3609,
+  "word" : "切り傷",
+  "reading" : "きりきず",
+  "romaji" : null,
+  "meaning" : [ "刀伤，划伤，割伤，被刀具等割破皮肤形成的伤口" ],
+  "notes" : [ "通常指由刀具、玻璃等锋利物品造成的表皮或更深层的伤口" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3610,
+  "word" : "切り抜ける",
+  "reading" : "きりぬける",
+  "romaji" : null,
+  "meaning" : [ "1. 突围，冲出去；2. 摆脱（困境、纠缠等），闯过，突破" ],
+  "notes" : [ "多用来描述突破物理上的包围或抽象层面的困境、瓶颈等场景" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3611,
+  "word" : "切り替える",
+  "reading" : "きりかえる",
+  "romaji" : null,
+  "meaning" : [ "1. 切换、转换（开关、模式、状态等）；2. 更换、调换（物品、人员等）；3. 兑换（货币、票据等）" ],
+  "notes" : [ "该动词可用于抽象概念的转换，如「気持ちを切り替える」（转换心情）" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3612,
+  "word" : "切り開く",
+  "reading" : "きりひらく",
+  "romaji" : null,
+  "meaning" : [ "1. 开拓，开辟（新的领域、道路等）；2. 开垦（荒地）；3. 开创（新局面、新事业）" ],
+  "notes" : [ "他动词，可用于抽象领域和具体场景的开拓行为" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3613,
+  "word" : "切る",
+  "reading" : "きる",
+  "romaji" : null,
+  "meaning" : [ "1. 切，割，剪，砍；2. 切断，中断，断绝；3. 截止，结束；4. 切换（频道、模式等）；5. 削减，缩减" ],
+  "notes" : [ "「切る」作为他动词使用时表示主动实施切割、断绝等动作；其自动词形式为「切れる」，常表示事物自然断绝、断开的状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3614,
+  "word" : "切れ",
+  "reading" : "きれ",
+  "romaji" : null,
+  "meaning" : [ "1. 碎片，碎块；2. （刀等的）刃口，锋利度；3. （能力、状态的）极限，尽头；4. 中断，间断" ],
+  "notes" : [ "作为名词时，多表示具体的碎片、工具的刃口或状态的极限；也可作为动词「切る」的命令形，此时读音同样为「きれ」，表示“切断！切开！”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3615,
+  "word" : "切れる",
+  "reading" : "きれる",
+  "romaji" : null,
+  "meaning" : [ "1. 断开、断裂；2. 中断、断绝（关系、联系等）；3. 用完、耗尽；4. 到期、失效；5. 尖锐、锋利；6. 看穿、识破" ],
+  "notes" : [ "「切れる」是自动词，对应的他动词是「切る」，部分含义存在自他对应关系，使用时需注意区分" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3616,
+  "word" : "切れ目",
+  "reading" : "きれめ",
+  "romaji" : null,
+  "meaning" : [ "1. 断开处、裂缝、缺口；2. 间隔、间隙；3. （文章、话语的）段落、停顿处；4. （期限、状态的）分界点" ],
+  "notes" : [ "可用于具象的物体断裂处，也可用于抽象的时间、内容的分界" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3617,
+  "word" : "切実",
+  "reading" : "せつじつ",
+  "romaji" : null,
+  "meaning" : [ "1. 切实的，恳切的；2. 迫切的，急需的" ],
+  "notes" : [ "作为形容动词使用时，常后续「な」修饰名词，后续「に」修饰动词。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3618,
+  "word" : "切手",
+  "reading" : "きって",
+  "romaji" : null,
+  "meaning" : [ "邮票；邮费印花" ],
+  "notes" : [ "除表示邮政邮票外，也可指特定场合使用的付费印花，比如某些公共设施的使用凭证印花，但最常用的含义为邮政邮票。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3619,
+  "word" : "切符",
+  "reading" : "きっぷ",
+  "romaji" : null,
+  "meaning" : [ "票，车票，门票，戏票等各类凭证类票据" ],
+  "notes" : [ "作为日常高频词汇，可搭配不同名词构成具体票种，如「飛行機の切符（机票）」「入場切符（入场券）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3620,
+  "word" : "切迫",
+  "reading" : "せっぱく",
+  "romaji" : null,
+  "meaning" : [ "1. 逼近、迫近；2. （事态、形势）紧迫、紧张，临近危机；3. （心情、气氛）局促、窘迫" ],
+  "notes" : [ "作为ナ形容词使用时，后续接「だ・で・な」等形式；可构成复合词「切迫感（せっぱくかん）」表示紧迫感" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3621,
+  "word" : "切開",
+  "reading" : "せっかい",
+  "romaji" : null,
+  "meaning" : [ "1.（医学用语）切开，开刀；2.（一般用语）切开，割开" ],
+  "notes" : [ "作为医学用语时，特指外科手术中的切开操作；作サ変動詞使用时可后续「する」构成动词短语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3622,
+  "word" : "刈る",
+  "reading" : "かる",
+  "romaji" : null,
+  "meaning" : [ "1. 割（草、稻、麦等农作物或杂草）；2. 修剪（头发、树枝等）；3. 收割（农作物）" ],
+  "notes" : [ "多针对草木、农作物等有茎秆的对象进行切割或修剪动作，日常也用于表述剪短头发的行为。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3623,
+  "word" : "刊行",
+  "reading" : "かんこう",
+  "romaji" : null,
+  "meaning" : [ "出版；发行" ],
+  "notes" : [ "多く書籍、雑誌、論文集などの出版物を対象に使用される。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3624,
+  "word" : "刑事",
+  "reading" : "けいじ",
+  "romaji" : null,
+  "meaning" : [ "1. 刑警，刑事警察；2. 刑事，刑事案件，适用刑法的事件或相关事项" ],
+  "notes" : [ "作为“刑警”义时，可略称「ケイジ」；在法律语境中与「民事（みんじ）」相对。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3625,
+  "word" : "刑務所",
+  "reading" : "けいむしょ",
+  "romaji" : null,
+  "meaning" : [ "监狱，看守所，劳改所" ],
+  "notes" : [ "指用于关押服刑人员的设施，正式场合常用的表述。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3626,
+  "word" : "刑法",
+  "reading" : "けいほう",
+  "romaji" : null,
+  "meaning" : [ "规定犯罪与刑罚的法律，是惩治犯罪、维护社会秩序的基本法律部门" ],
+  "notes" : [ "属于法律领域的专业词汇，在法律相关场景中高频使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3627,
+  "word" : "刑罰",
+  "reading" : "けいばつ",
+  "romaji" : null,
+  "meaning" : [ "刑罚，依照法律对罪犯施加的惩罚" ],
+  "notes" : [ "多作为法律用语使用，指针对犯罪行为的法定处罚" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3628,
+  "word" : "列",
+  "reading" : "れつ",
+  "romaji" : null,
+  "meaning" : [ "1. 队，列，行列；2. 排，行；3. 系列，类别；4. （文章的）段落" ],
+  "notes" : [ "可构成复合词，如「列車（れっしゃ）」「行列（ぎょうれつ）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3629,
+  "word" : "列車",
+  "reading" : "れっしゃ",
+  "romaji" : null,
+  "meaning" : [ "列车，火车；（特定线路或班次的）列车" ],
+  "notes" : [ "一般指在轨道上行驶的客运或货运列车，「新幹線」「通勤列車」等为常见搭配" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3630,
+  "word" : "初め",
+  "reading" : "はじめ0",
+  "romaji" : null,
+  "meaning" : [ "1. 开始，起初；2. 开头，开端；3. 首次，初次；4. 最初的事物" ],
+  "notes" : [ "常用搭配「初めて」意为“第一次，初次”，作为副词使用；也可构成「～の初めに」表示“在……开始时”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3631,
+  "word" : "初めて",
+  "reading" : "はじめて",
+  "romaji" : null,
+  "meaning" : [ "1. 第一次，初次；2. 才，方才，刚；3. （用「～初めて」的形式）只有……才……" ],
+  "notes" : [ "作为副词使用，多用来表示初次经历，也可用于强调时间上的晚或条件限定。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3632,
+  "word" : "初めまして",
+  "reading" : "はじめまして",
+  "romaji" : null,
+  "meaning" : [ "初次见面。是与人第一次见面时使用的寒暄语，通常会后续搭配「よろしくお願いします」（请多关照）一同使用。" ],
+  "notes" : [ "该表达为礼貌体寒暄语，对应简体表达为「初めてだ」，不过日常初次见面场景基本使用礼貌体形式。" ],
+  "pos" : "INTERJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3633,
+  "word" : "初対面",
+  "reading" : "しょたいめん",
+  "romaji" : null,
+  "meaning" : [ "初次见面，初次会面" ],
+  "notes" : [ "可构成「初対面の～」的形式，用于修饰后续名词，指与对方是初次结识的状态" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3634,
+  "word" : "初心者",
+  "reading" : "しょしんしゃ",
+  "romaji" : null,
+  "meaning" : [ "初学者，新手，入门者" ],
+  "notes" : [ "指刚开始学习某项技能、知识或从事某件事的人，可用于学习、工作、兴趣爱好等多种场景" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3635,
+  "word" : "初恋",
+  "reading" : "はつこい",
+  "romaji" : null,
+  "meaning" : [ "1. 第一次恋爱；初恋 2. 对人、事物的初次倾心，初恋情结" ],
+  "notes" : [ "可用于描述对人或事物的初次喜爱之情，不仅局限于恋爱关系" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3636,
+  "word" : "初旬",
+  "reading" : "しょじゅん",
+  "romaji" : null,
+  "meaning" : [ "每个月的1日到10日左右，即上旬" ],
+  "notes" : [ "属于和时间相关的名词，通常用于表示月份内的前期时间段，与「中旬（ちゅうじゅん）」「下旬（げじゅん）」相对应。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3637,
+  "word" : "初春",
+  "reading" : "しょしゅん",
+  "romaji" : null,
+  "meaning" : [ "初春，早春，指立春后到春分前后的时期" ],
+  "notes" : [ "属于季语，常用于俳句、散文等文学作品中，也可用于日常表达春季初期的时节" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3638,
+  "word" : "初期",
+  "reading" : "しょき",
+  "romaji" : null,
+  "meaning" : [ "事物刚开始的阶段，早期" ],
+  "notes" : [ "可构成「初期段階」「初期投資」等常用复合词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3639,
+  "word" : "初歩",
+  "reading" : "しょほ",
+  "romaji" : null,
+  "meaning" : [ "1. 初步，初学，入门阶段；2. 基础，开端" ],
+  "notes" : [ "可构成复合词如「初歩的（しょほてき）」，意为“初步的、基础的”，作为形容动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3640,
+  "word" : "初級",
+  "reading" : "しょきゅう",
+  "romaji" : null,
+  "meaning" : [ "1. 初级，最初的等级阶段；2. （学习、技能等的）入门级别" ],
+  "notes" : [ "常与「コース」「クラス」「レベル」等词搭配使用，用于表示学习阶段、技能等级的最低层级" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3641,
+  "word" : "初耳",
+  "reading" : "はつみみ",
+  "romaji" : null,
+  "meaning" : [ "初次听到，前所未闻的事物" ],
+  "notes" : [ "通常用于表达对某件事完全不了解、第一次听闻的状态，多为口语或书面语中较随意的表达" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3642,
+  "word" : "初詣",
+  "reading" : "はつもうで",
+  "romaji" : null,
+  "meaning" : [ "新年的首次神社或寺庙参拜，是日本的传统习俗，通常在1月1日至1月3日期间进行，人们祈愿新的一年平安顺遂、学业或事业有成等" ],
+  "notes" : [ "「初詣」一般可直接与に行く・する等动词搭配使用，表达进行新年首次参拜的动作；参拜场所除神社外，也包含佛教寺庙。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3643,
+  "word" : "初頭",
+  "reading" : "しょとう",
+  "romaji" : null,
+  "meaning" : [ "（时间的）开始阶段、初期、开头。常用于表示月份、年份、时间段的起始部分，如月初、年初、世纪初等" ],
+  "notes" : [ "通常不用于表示具体某一天的开始，多搭配较长的时间单位使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3644,
+  "word" : "判子",
+  "reading" : "はんこ",
+  "romaji" : null,
+  "meaning" : [ "印章，图章；（橡皮）图章；（盖在文件等上的）印，戳记" ],
+  "notes" : [ "口语中也常直接使用「はんこ」指代该词，除实体印章外，也可引申用于表示具有固定格式、可重复套用的内容或样式，如「定型文の判子」（套话模板）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3645,
+  "word" : "判定",
+  "reading" : "はんてい",
+  "romaji" : null,
+  "meaning" : [ "1. 判定，判断，评定；2. （体育、竞赛等的）裁决，判定结果" ],
+  "notes" : [ "作为サ変動詞使用时可构成「判定する」的动词形式，常用于正式场合、竞赛审查、资格认定等场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3646,
+  "word" : "判断",
+  "reading" : "はんだん",
+  "romaji" : null,
+  "meaning" : [ "1. 判断，判定；2. 推断，推测；3. 判断能力，判断力" ],
+  "notes" : [ "作为サ変動詞使用时可构成「判断する」的动词形式，既可以表示具体的判断行为，也可指抽象的判断能力。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3647,
+  "word" : "判断する",
+  "reading" : "はんだんする",
+  "romaji" : null,
+  "meaning" : [ "1. 判断，断定；2. 判决，裁断；3. 判断（是非、优劣等）" ],
+  "notes" : [ "作为サ变动词，可单独使用「判断」的名词形式，常与「に」「を」等助词搭配使用" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3648,
+  "word" : "判決",
+  "reading" : "はんけつ",
+  "romaji" : null,
+  "meaning" : [ "1. 法律上，法院对案件作出的判断、裁决；2. 对事物的判断、评定" ],
+  "notes" : [ "作为サ变自动词使用时，常以「判決が下る」「判決を下す」的形式出现，前者为自动词用法表示判决作出，后者为他动词用法表示作出判决。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3649,
+  "word" : "別",
+  "reading" : "べつ",
+  "romaji" : null,
+  "meaning" : [ "1. 其他，另外；2. 区别，差异；3. 离别，分别" ],
+  "notes" : [ "也可作为接头词使用，接在名词前表示「另外的、不同的」，如「別室（べつしつ）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3650,
+  "word" : "別々",
+  "reading" : "べつべつ",
+  "romaji" : null,
+  "meaning" : [ "1. 形容动词：分开的、各自的、分别的；2. 名词：各自、分别、各个" ],
+  "notes" : [ "作为形容动词使用时，常后续「に」作状语、后续「な」作定语；作为名词使用时，多后续「に」「の」等助词搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3651,
+  "word" : "別に",
+  "reading" : "べつに",
+  "romaji" : null,
+  "meaning" : [ "1. 分开，分别；2. 另外，除此以外；3. （后接否定）并（不），并（没）" ],
+  "notes" : [ "多与否定表达呼应使用，用于弱化否定语气，表明并非强烈否定的态度" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3652,
+  "word" : "別れる",
+  "reading" : "わかれる",
+  "romaji" : null,
+  "meaning" : [ "1. 分手，离别，分别；2. 离婚；3. 断绝关系，决裂；4. 区分，分开" ],
+  "notes" : [ "「別れる」是自动词，当表示“区分、分开”时，常与「を」搭配使用；表示人际关系相关的“离别、断绝”时，对象一般用「と」或「から」提示。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3653,
+  "word" : "別人",
+  "reading" : "べつじん",
+  "romaji" : null,
+  "meaning" : [ "1. 别人，其他人；2. 完全变了一个人，判若两人" ],
+  "notes" : [ "当表示“判若两人”的含义时，多用来形容人的外貌、性格、状态等发生巨大变化" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3654,
+  "word" : "別名",
+  "reading" : "べつめい",
+  "romaji" : null,
+  "meaning" : [ "1. 别名，别称，另外的名字；2. （除正式名称外的）其他称呼" ],
+  "notes" : [ "可用于指人、事物除正式名称外的其他称呼，也可在法律、文书等场景中指代曾用名、别名" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3655,
+  "word" : "別居",
+  "reading" : "べっきょ",
+  "romaji" : null,
+  "meaning" : [ "分居，分开居住（特指家庭成员因各种原因不在同一住所居住）" ],
+  "notes" : [ "作为サ变自动词使用时，可构成「別居する」的动词形式；常与「と」「から」等助词搭配使用，说明分居的对象或原因。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3656,
+  "word" : "別荘",
+  "reading" : "べっそう",
+  "romaji" : null,
+  "meaning" : [ "别墅，度假用的郊外住宅" ],
+  "notes" : [ "通常指用于休闲度假、远离市区的私人住宅，多位于郊外、海边或山间" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3657,
+  "word" : "別途",
+  "reading" : "べつと",
+  "romaji" : null,
+  "meaning" : [ "另外、另行、分开" ],
+  "notes" : [ "可用于表示费用、通知、处理方式等与主体事务分开进行的情况" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3658,
+  "word" : "利く/効く",
+  "reading" : "きく",
+  "romaji" : null,
+  "meaning" : [ "1.（自动词）有效，奏效；起作用；好使，灵敏；擅长，有本事；吃得开，受欢迎；划算，有利。2.（他动词）过滤" ],
+  "notes" : [ "「利く」侧重能力、作用、优势层面的有效；「効く」侧重效果、功能层面的有效，多数情况下二者可通用，但在表示「过滤」含义时仅用「利く」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3659,
+  "word" : "利口",
+  "reading" : "りこう",
+  "romaji" : null,
+  "meaning" : [ "1. 聪明的，伶俐的，机灵的；2. 乖巧的，懂事的；3. 精明的，精打细算的" ],
+  "notes" : [ "作为形容动词使用，常用「利口だ」「利口な」「利口に」的活用形式；部分语境下可带有“过于精明、耍小聪明”的贬义。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3660,
+  "word" : "利害",
+  "reading" : "りがい",
+  "romaji" : null,
+  "meaning" : [ "利害，利弊，得失；利害关系" ],
+  "notes" : [ "可构成复合词如「利害関係（りがいかんけい）」，表示利害关系" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3661,
+  "word" : "利己的",
+  "reading" : "りこてき",
+  "romaji" : null,
+  "meaning" : [ "利己的，自私自利的，只考虑自身利益、不顾他人的" ],
+  "notes" : [ "形容动词，常后续「な」修饰名词，后续「に」修饰动词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3662,
+  "word" : "利息",
+  "reading" : "りそく",
+  "romaji" : null,
+  "meaning" : [ "1. 存款或贷款时，根据本金、利率和时间计算出的额外收益或需支付的费用；2. 借债时需支付的酬谢金" ],
+  "notes" : [ "在金融场景中常用，与「利子（りし）」意义相近，可互换使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3663,
+  "word" : "利潤",
+  "reading" : "りじゅん",
+  "romaji" : null,
+  "meaning" : [ "1. 利润，盈利，收益；2. 益处，好处" ],
+  "notes" : [ "可用于指商业上的收益，也可引申为非物质层面的益处、好处" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3664,
+  "word" : "利点",
+  "reading" : "りてん",
+  "romaji" : null,
+  "meaning" : [ "好处，长处，优点，有利点" ],
+  "notes" : [ "可用于描述事物、方法、方案等具备的有益特性，与「メリット」含义相近" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3665,
+  "word" : "利用",
+  "reading" : "りよう",
+  "romaji" : null,
+  "meaning" : [ "1. 使用、利用；2. 借助（他人、事物）为自己谋利" ],
+  "notes" : [ "「利用」可用于中性或贬义语境，贬义时指不正当使用他人或事物。作为サ変動詞，可构成「利用する」「利用して」「利用した」等活用形式。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3666,
+  "word" : "利用します",
+  "reading" : "りようします",
+  "romaji" : null,
+  "meaning" : [ "利用，使用；运用，活用；利用（机会、条件等）" ],
+  "notes" : [ "「利用します」是「利用する」的ます形（礼貌体），常用于正式场合或日常礼貌表达，对象可以是设施、资源、时间、机会等。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3667,
+  "word" : "利用者",
+  "reading" : "りようしゃ",
+  "romaji" : null,
+  "meaning" : [ "使用者，用户，利用者；（公共设施等的）光顾者，常客" ],
+  "notes" : [ "多用于指使用公共设施、服务、软件等的对象" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3668,
+  "word" : "利益",
+  "reading" : "りえき",
+  "romaji" : null,
+  "meaning" : [ "1. 利益，好处，收益；2. 利润，盈利" ],
+  "notes" : [ "可构成复合词如「利益相反（りえきそうはん）」（利益冲突）、「利益還元（りえきかんげん）」（回馈顾客、返利）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3669,
+  "word" : "到底",
+  "reading" : "とうてい",
+  "romaji" : null,
+  "meaning" : [ "1. （后接否定）无论如何也，怎么也，根本；2. （后接肯定）终于，到底，终究" ],
+  "notes" : [ "多与否定形式搭配使用，表达强烈的否定语气；接肯定形式时多表示经过一番努力后最终达成结果，使用频率相对较低。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3670,
+  "word" : "到来",
+  "reading" : "とうらい",
+  "romaji" : null,
+  "meaning" : [ "1. 来到，到来；2. （物品、信件等的）送达，送到" ],
+  "notes" : [ "作为サ変動詞使用时可构成「到来する」的形式，既可以表示抽象事物的来临，也可表示具体物品的送达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3671,
+  "word" : "到着",
+  "reading" : "とうちゃく",
+  "romaji" : null,
+  "meaning" : [ "到达，抵达（目的地、场所等）；到来，来临（时间、状态等）" ],
+  "notes" : [ "作为サ変動詞使用时常以「到着する」的形式出现，可用于描述人、交通工具抵达某地，也可用于抽象事物的到来。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3672,
+  "word" : "到達",
+  "reading" : "とうたつ",
+  "romaji" : null,
+  "meaning" : [ "1. 到达（目的地、场所等）；2. 达到（目标、程度、阶段等）" ],
+  "notes" : [ "作为サ変動詞，可与「を」「に」等助词搭配，接场所时常用「に」，接目标、程度时常用「を」「に」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3673,
+  "word" : "制する",
+  "reading" : "せいする",
+  "romaji" : null,
+  "meaning" : [ "1. 压制，控制，支配；2. 制定，订立（法律、规则等）；3. 限制，节制（饮食、费用等）" ],
+  "notes" : [ "作为サ变动词，可构成「～を制する」的表达，多用于正式书面语或较严肃的语境中。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3674,
+  "word" : "制作",
+  "reading" : "せいさく",
+  "romaji" : null,
+  "meaning" : [ "1. 制作，制造，创作（物品、作品等的制作行为或过程）；2. （电影、戏剧等的）摄制，拍摄；3. （菜肴等的）烹制" ],
+  "notes" : [ "作为サ变动词使用时，可构成「制作する」的动词形式，多用于正式场合或专业领域的创作、制造行为" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3675,
+  "word" : "制定",
+  "reading" : "せいていする",
+  "romaji" : null,
+  "meaning" : [ "制定（规则、法律、计划等）；拟定" ],
+  "notes" : [ "多くは規則・法律・計画など抽象的なものを対象とする。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3676,
+  "word" : "制度",
+  "reading" : "せいど",
+  "romaji" : null,
+  "meaning" : [ "1. 制度，体制；2. 规章，规则" ],
+  "notes" : [ "属于和语词与汉字词结合的复合名词，多用于正式场合，指为维持特定秩序、运营而制定的规则体系" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3677,
+  "word" : "制御",
+  "reading" : "せいぎょ",
+  "romaji" : null,
+  "meaning" : [ "1. 控制，支配，驾驭；2. （机械、系统等的）操控，调节，管控；3. 抑制，约束" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「制御する」的动词形式；常用于机械、系统操作以及情绪、行为约束等场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3678,
+  "word" : "制服",
+  "reading" : "せいふく",
+  "romaji" : null,
+  "meaning" : [ "1. 统一规定样式的服装，用于学校、公司、团体、公职机关等场合，便于识别身份、体现纪律性；2. 特定职业或活动所穿着的专用服装" ],
+  "notes" : [ "可构成复合词，如『制服姿（せいふくすがた）』指穿着制服的样子，『制服採用（せいふくさいよう）』指采用制服制度" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3679,
+  "word" : "制止",
+  "reading" : "せいし",
+  "romaji" : null,
+  "meaning" : [ "1. 制止，阻止，劝阻；2. 管制，管束" ],
+  "notes" : [ "作为サ变动词，可构成「制止する」的动词形式，也可作为名词单独使用，多用于正式场合或书面语。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3680,
+  "word" : "制約",
+  "reading" : "せいやく",
+  "romaji" : null,
+  "meaning" : [ "1. 制约，限制，约束；2. （法律、规则等的）规定，条款" ],
+  "notes" : [ "作为サ变他动词使用时，可构成「～を制約する」的句式，表示对某事物进行约束、限制；作为名词使用时，常与「～の制約」「～に制約される」等搭配。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3681,
+  "word" : "制裁",
+  "reading" : "せいさい",
+  "romaji" : null,
+  "meaning" : [ "1. 制裁，惩处；2. （国际等的）制裁" ],
+  "notes" : [ "作为名词使用时可后续「を課す」「を加える」等动词；作为サ変動詞时可直接作谓语，如「違反者を制裁する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3682,
+  "word" : "制限",
+  "reading" : "せいげん",
+  "romaji" : null,
+  "meaning" : [ "1. 名词：限制、限度、界限；对事物的范围、数量、程度等进行约束的规定或状态。2. サ变动词：限制、限定；对事物的范围、数量、程度等加以约束。" ],
+  "notes" : [ "作为サ变动词使用时，可构成「制限する」「制限される」等活用形式，常见搭配有「時間制限」「予算制限」「人数制限」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3683,
+  "word" : "券",
+  "reading" : "けん",
+  "romaji" : null,
+  "meaning" : [ "券，票；凭证，单据" ],
+  "notes" : [ "通常不单独使用，多构成复合词，如「切符（きっぷ）」也可表示票券，但「券」构成的词汇更偏向正式或特定用途的凭证类" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3684,
+  "word" : "刺さる",
+  "reading" : "ささる",
+  "romaji" : null,
+  "meaning" : [ "1. 扎，刺入，扎进；2. （光线、视线等）刺眼，耀眼；3. （话、批评等）尖锐，刺人，让人难受；4. （感情等）涌上心头，刺痛" ],
+  "notes" : [ "作为自动词，强调状态或自然发生的刺入动作，对应的他动词为「刺す（さす）」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3685,
+  "word" : "刺す",
+  "reading" : "さす",
+  "romaji" : null,
+  "meaning" : [ "1. 刺，扎，戳；2. 扎针，注射；3. （光线）刺眼；4. 刺激（神经等）；5. （用尖锐物）划破" ],
+  "notes" : [ "「刺す」作为他动词使用时，对象用「を」提示；表示光线刺眼等抽象含义时，也可自动词化使用" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3686,
+  "word" : "刺激",
+  "reading" : "しげき",
+  "romaji" : null,
+  "meaning" : [ "1.（物理的、生理的）刺激，使生物体产生反应；2.（心理上的）刺激，使兴奋、振奋；3. 促使行动、引发变化的因素" ],
+  "notes" : [ "作为名词时可后续「を与える」「を受ける」等搭配；作为サ变他动词时可直接后续宾语使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3687,
+  "word" : "刺繍",
+  "reading" : "ししゅう",
+  "romaji" : null,
+  "meaning" : [ "刺绣，绣花；刺绣品" ],
+  "notes" : [ "作为名词时指刺绣工艺或刺绣成品，作为サ変动词时表示进行刺绣的动作" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3688,
+  "word" : "刺身",
+  "reading" : "さしみ",
+  "romaji" : null,
+  "meaning" : [ "生鱼片，将新鲜的鱼、贝等食材切成薄片或小块，直接生食的日本料理" ],
+  "notes" : [ "通常搭配酱油、山葵（わさび）一同食用，是日本料理的代表性菜品之一" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3689,
+  "word" : "刻む",
+  "reading" : "きざむ",
+  "romaji" : null,
+  "meaning" : [ "1. 雕刻，镌刻；2. 铭记，牢记；3. 切碎，剁碎；4. 消磨（时间）" ],
+  "notes" : [ "该词含义丰富，根据搭配场景不同会有不同语义，日常使用中需结合语境判断。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3690,
+  "word" : "剃る",
+  "reading" : "そる",
+  "romaji" : null,
+  "meaning" : [ "1. 剃（头发、胡须等），刮；2. 修剪（毛发、草木等）；3. 削去，刮掉（表层）" ],
+  "notes" : [ "「剃る」主要针对毛发、草木或物体表层的去除，剃须常用「髭を剃る」，理发时更常用「髪を切る」，需注意区分使用场景。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3691,
+  "word" : "剃刀",
+  "reading" : "かみそり",
+  "romaji" : null,
+  "meaning" : [ "1. 剃刀，刮胡刀；2. 剃刀片" ],
+  "notes" : [ "也可写作「髭剃り」，日常口语中有时会简略为「カミソリ」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3692,
+  "word" : "削る",
+  "reading" : "けずる",
+  "romaji" : null,
+  "meaning" : [ "1. （用刀、刨子等）削，刨，刮；2. 削减，缩减，删去；3. 贬低，降低（评价、地位等）；4. 消磨（时间）" ],
+  "notes" : [ "作为「削る」的自他动词对应，自动词形式为「削れる（けずれる）」；该词在表示抽象含义时，多带有主观刻意性的倾向。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3693,
+  "word" : "削減",
+  "reading" : "さくげん",
+  "romaji" : null,
+  "meaning" : [ "名词·他动词（サ变）。削减，缩减，减少（数量、金额、规模等）" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「～を削減する」的句式，多用于正式场合，比如商务、政策相关语境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3694,
+  "word" : "削除",
+  "reading" : "さくじょ",
+  "romaji" : null,
+  "meaning" : [ "1. 删除、删掉（文字、数据、文件等）；2. 消除、去除（痕迹、记录等）" ],
+  "notes" : [ "可作为サ変動詞单独使用，也常以「削除する」的形式出现；多用于书面语或正式场景" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3695,
+  "word" : "削除する",
+  "reading" : "さくじょする",
+  "romaji" : null,
+  "meaning" : [ "删除，去掉，消除（不需要、多余的事物等）" ],
+  "notes" : [ "「削除する」是和语动词「削る（けずる）」的サ変動詞形式，多用于书面语或正式场合，比如电脑操作、文件处理等场景。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3696,
+  "word" : "前",
+  "reading" : "まえ",
+  "romaji" : null,
+  "meaning" : [ "1.（空间）前面，前方；2.（时间）之前，以前；3.（顺序）前面，先；4.（身份、地位）在上，在前" ],
+  "notes" : [ "可构成复合词，如「前髪（まえがみ）」「前向き（まえむき）」；也可接在时间词后表示“……之前”，如「一時間前（いちじかんまえ）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3697,
+  "word" : "前に",
+  "reading" : "まえに",
+  "romaji" : null,
+  "meaning" : [ "1. 以前，之前；2. 在……之前，先于……；3. 向前，往前" ],
+  "notes" : [ "除副词用法外，还可作为「前」加格助词「に」的形式，用于表示时间或空间上的位置，此时需结合语境判断。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3698,
+  "word" : "前もって",
+  "reading" : "まえもって",
+  "romaji" : null,
+  "meaning" : [ "事先，预先，提前" ],
+  "notes" : [ "多用于书面语或较为正式的场合，强调在某个行为、事件发生之前进行准备或告知等动作。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3699,
+  "word" : "前例",
+  "reading" : "ぜんれい",
+  "romaji" : null,
+  "meaning" : [ "先例，前例；以往的事例、例子" ],
+  "notes" : [ "多用来指代过去发生过的、可作为参考的事例，在正式场合或书面语中使用较为频繁。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3700,
+  "word" : "前半",
+  "reading" : "ぜんはん",
+  "romaji" : null,
+  "meaning" : [ "1. 前半部分，前一半；2. （时间、比赛等的）上半部分，上半场" ],
+  "notes" : [ "常与「後半」相对使用，可用于描述时间、篇幅、赛事等的前一部分" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

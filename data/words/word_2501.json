@@ -1,0 +1,901 @@
+[ {
+  "id" : 2501,
+  "word" : "不審",
+  "reading" : "ふしん",
+  "romaji" : null,
+  "meaning" : [ "可疑，令人怀疑；不明确，不清楚" ],
+  "notes" : [ "「不審」是形容动词（ナ形容词），活用方式与「きれい」、「静か」等相同。常用搭配有「不審に思う」、「不審な点」、「挙動不審」。在日语能力考试中，该词通常被认定为N2级别词汇。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2502,
+  "word" : "不平",
+  "reading" : "ふへい",
+  "romaji" : null,
+  "meaning" : [ "不平，不满，抱怨，牢骚" ],
+  "notes" : [ "「不平」主要用作名词，表示不满的情绪或抱怨的话语。虽然可以后续「だ」构成形容动词（如「不平だ」），但其核心词性为名词。常以「不平を言う」的形式使用，意为'发牢骚'。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2503,
+  "word" : "不幸",
+  "reading" : "ふこう",
+  "romaji" : null,
+  "meaning" : [ "不幸，厄运，不幸运；不幸的，不幸运的" ],
+  "notes" : [ "「不幸」主要用作名词和形容动词（な形容词）。作为形容动词使用时，需要后接「な」来修饰名词，或者后接「だ/です」结句。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2504,
+  "word" : "不当",
+  "reading" : "ふとう",
+  "romaji" : null,
+  "meaning" : [ "不当，不正当，不合理，不恰当" ],
+  "notes" : [ "「不当」通常写作汉字，是常用词。作为形容动词（な形容词）使用时，后接「な」修饰名词，后接「に」修饰动词或形容词。常与「不当な要求」「不当な扱い」「不当に高い/安い」等搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2505,
+  "word" : "不得手",
+  "reading" : "ふえて",
+  "romaji" : null,
+  "meaning" : [ "不擅长；不拿手；不在行；不喜欢" ],
+  "notes" : [ "“不得手”主要用作名词和形容动词（な形容词）。作为形容动词使用时，后续名词时需要加“な”。它既可以表示技能上的不擅长，也可以表示情感上的不喜欢或讨厌。其反义词是“得意”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2506,
+  "word" : "不快",
+  "reading" : "ふかい",
+  "romaji" : null,
+  "meaning" : [ "不愉快であること。気分が悪いこと。また、そのさま。" ],
+  "notes" : [ "「不快な」の形で連体修飾語としても使われる。対義語は「快い（こころよい）」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2507,
+  "word" : "不思議",
+  "reading" : "ふしぎ",
+  "romaji" : null,
+  "meaning" : [ "不可思议的；奇怪的；难以理解的" ],
+  "notes" : [ "作为形容动词（ナ形容词）使用，修饰名词时使用「不思議な」，作谓语时使用「不思議だ」。也可以作为名词使用，表示“不可思议的事情”。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2508,
+  "word" : "不愉快",
+  "reading" : "ふゆかい",
+  "romaji" : null,
+  "meaning" : [ "不愉快的，不高兴的，令人不快的" ],
+  "notes" : [ "「不愉快」是形容动词（な形容詞），修饰名词时使用「不愉快な＋名词」的形式，作谓语时使用「不愉快だ」的形式。其反义词是「愉快（ゆかい）」。在正式场合或书面语中常用。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2509,
+  "word" : "不意",
+  "reading" : "ふい",
+  "romaji" : null,
+  "meaning" : [ "意外，突然，出其不意。常用词组如「不意に」表示“突然地”。" ],
+  "notes" : [ "「不意」本身是名词或形容动词（な形容词），作状语时常用其副词形式「不意に」。在日语能力考试中，该词更常见于N2级别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2510,
+  "word" : "不摂生",
+  "reading" : "ふせっせい",
+  "romaji" : null,
+  "meaning" : [ "不养生，不注意健康，生活不规律，没有节制" ],
+  "notes" : [ "“不摂生”是名词，也可以作为“な形容詞”使用，在句子中作定语时常用“不摂生な”的形式。在含义上强调生活不规律、缺乏健康管理。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2511,
+  "word" : "不明",
+  "reading" : "ふめい",
+  "romaji" : null,
+  "meaning" : [ "不清楚，不明确，不明白；身份、原因等未知" ],
+  "notes" : [ "作为形容动词使用时，词干为「不明」，后续「だ」、「な」、「に」等。也可作为名词使用，表示“未知的事情”或“身份不明的人”。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2512,
+  "word" : "不景気",
+  "reading" : "ふけいき",
+  "romaji" : null,
+  "meaning" : [ "不景气，经济萧条，生意清淡。" ],
+  "notes" : [ "作为形容动词（な形容词）使用时，连体形为「不景気な」，连用形为「不景気に」。这是一个表示社会整体经济状况的常用词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2513,
+  "word" : "不服",
+  "reading" : "ふふく",
+  "romaji" : null,
+  "meaning" : [ "納得がいかないこと、従わないこと、不満に思うこと" ],
+  "notes" : [ "「不服」は主に名詞として用いられるが、「不服だ」「不服な」のようにナ形容詞としても機能する。裁判や行政処分など公的な決定に対する異議申し立ての文脈でよく使われる。口語では「不満」の方がより一般的に使われる傾向がある。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2514,
+  "word" : "不本意",
+  "reading" : "ふほんい",
+  "romaji" : null,
+  "meaning" : [ "不情愿的；非本意的；违背本意的" ],
+  "notes" : [ "作为形容动词（ナ形容词）使用，常见的活用形式为「不本意だ/な/に」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2515,
+  "word" : "不案内",
+  "reading" : "ふあんない",
+  "romaji" : null,
+  "meaning" : [ "不熟悉，生疏，不详细" ],
+  "notes" : [ "「不案内」是「案内」加上否定接头词「不」构成的形容动词（な形容词），表示对某事物或场所不熟悉、不了解。通常使用「～に不案内だ」或「不案内な～」的形式。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2516,
+  "word" : "不正",
+  "reading" : "ふせい",
+  "romaji" : null,
+  "meaning" : [ "1. 不正当，不诚实，不道德；2. 违法，非法；3. 舞弊，作弊" ],
+  "notes" : [ "「不正」主要作为名词使用，也可作为ナ形容词（形容动词）使用，表示“不正当的”。作ナ形容词使用时，后续形式为「不正な」或「不正に」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2517,
+  "word" : "不治",
+  "reading" : "ふじ",
+  "romaji" : null,
+  "meaning" : [ "不治，无法治愈（多用于形容疾病或伤势）" ],
+  "notes" : [ "通常以「不治の（病気/傷/病など）」的形式使用，表示无法治愈的疾病或伤势。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2518,
+  "word" : "不況",
+  "reading" : "ふきょう",
+  "romaji" : null,
+  "meaning" : [ "不景气，萧条" ],
+  "notes" : [ "「不況」是经济学术语，通常指经济活动持续低迷的状态。其反义词是「好況（こうきょう）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2519,
+  "word" : "不注意",
+  "reading" : "ふちゅうい",
+  "romaji" : null,
+  "meaning" : [ "不注意，不小心，疏忽" ],
+  "notes" : [ "\"不注意\"是一个形容动词（ナ形容词），其基本用法是在词干后加\"な\"来修饰名词（如\"不注意な人\"），或加\"に\"来修饰动词（如\"不注意に歩く\"）。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2520,
+  "word" : "不満",
+  "reading" : "ふまん",
+  "romaji" : null,
+  "meaning" : [ "不满足、不满意、不平、抱怨" ],
+  "notes" : [ "可作为名词使用，也可作为形容动词（ナ形容词）使用，如「不満だ」、「不満な」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2521,
+  "word" : "不満足",
+  "reading" : "ふまんぞく",
+  "romaji" : null,
+  "meaning" : [ "不满足，不满意" ],
+  "notes" : [ "「不満足」是一个な形容词（形容动词）。虽然偶尔会以「不満足な」的形式作为连体词使用，但现代日语中更常用「不満足だ」或「不満足である」的形式。注意与名词「不満」和动词「満たない」在用法上的区别。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2522,
+  "word" : "不潔",
+  "reading" : "ふけつ",
+  "romaji" : null,
+  "meaning" : [ "不干净，不清洁；不纯洁，淫乱" ],
+  "notes" : [ "作为形容动词（ナ形容词）使用，连接名词时使用「不潔な」，作谓语时使用「不潔だ」。含义既可用于物理上的不干净，也可用于道德或精神上的不纯洁。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2523,
+  "word" : "不燃ゴミ",
+  "reading" : "ふねんゴミ",
+  "romaji" : null,
+  "meaning" : [ "不可燃垃圾。指在通常的焚烧处理中难以燃烧的垃圾，如金属、玻璃、陶瓷、某些塑料制品等。" ],
+  "notes" : [ "这是一个复合词，由「不燃」（不可燃）和「ゴミ」（垃圾）构成。片假名「ゴミ」有时也写作平假名「ごみ」，但在此固定搭配中通常用片假名。在垃圾分类中与「可燃ゴミ」（可燃垃圾）相对。有时也简称为「不燃物」。发音上，第二个音节「ゴ」为高音，有时标作“ふねんゴミ”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2524,
+  "word" : "不眠症",
+  "reading" : "ふみんしょう",
+  "romaji" : null,
+  "meaning" : [ "失眠症" ],
+  "notes" : [ "医学术语，指难以入睡或睡眠维持困难的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2525,
+  "word" : "不確か",
+  "reading" : "ふたしか",
+  "romaji" : null,
+  "meaning" : [ "不确定的，不明确的，含糊的，靠不住的" ],
+  "notes" : [ "「不確か」是形容动词（ナ形容词），其连体形为「不確かな」，连用形为「不確かに」。常用来表示对事实、信息、状态等的确定性存疑。与「確かでない」意思相近，但「不確か」更强调一种模糊、不清晰的感觉。在口语和书面语中都较常用。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2526,
+  "word" : "不確実",
+  "reading" : "ふかくじつ",
+  "romaji" : null,
+  "meaning" : [ "不确实，不确定，不可靠（指事物或情况）" ],
+  "notes" : [ "「不確実」是一个名词，也常以「不確実な」的形式作为连体词使用，修饰名词。虽然可以表示“不可靠”，但核心含义更侧重于“不确定、不确实”。在JLPT中，其作为独立词汇的难度通常被认为是N2级别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2527,
+  "word" : "不祥事",
+  "reading" : "ふしょうじ",
+  "romaji" : null,
+  "meaning" : [ "丑闻，不正当的事件，不名誉的事件" ],
+  "notes" : [ "通常指企业、组织或公职人员等因不正当行为引发的丑闻或负面事件。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2528,
+  "word" : "不自然",
+  "reading" : "ふしぜん",
+  "romaji" : null,
+  "meaning" : [ "不自然的，不正常的，不真实的，不流畅的" ],
+  "notes" : [ "「不自然」是「自然」的反义词。作为ナ形容詞（形容動詞）使用，其连体形为「不自然な」，连用形为「不自然に」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2529,
+  "word" : "不自由",
+  "reading" : "ふじゆう",
+  "romaji" : null,
+  "meaning" : [ "不自由；不方便；不充裕；不随心所欲；（因疾病、障碍等导致的）行动不便" ],
+  "notes" : [ "作为形容动词使用时，遵循ナ形容词的活用规则（例如：不自由だ、不自由な、不自由に）。作为名词使用时，表示“不便”或“不自由”的状态。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2530,
+  "word" : "不興",
+  "reading" : "ふきょう",
+  "romaji" : null,
+  "meaning" : [ "不高兴，不悦，不快；失宠" ],
+  "notes" : [ "1. 主要用于描述因他人的言行而感到不快，或指失去权势者的宠爱。2. 作为名词使用，可后续「を買う」「をこうむる」等动词构成惯用表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2531,
+  "word" : "不良",
+  "reading" : "ふりょう",
+  "romaji" : null,
+  "meaning" : [ "1. 不好，不良；品质差。2. （特指青少年）品行不端，不良行为。" ],
+  "notes" : [ "作为名词使用时，常特指“不良少年/少女（ふりょうしょうねん/しょうじょ）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2532,
+  "word" : "不行き届き",
+  "reading" : "ふゆきとどき",
+  "romaji" : null,
+  "meaning" : [ "不周到、疏忽、怠慢（多指招待、服务、关照等方面的不足）" ],
+  "notes" : [ "「行き届き」是动词「行き届く」的名词形，加上否定前缀「不」构成。多用于书面或正式场合的道歉或说明。常与「が（多々）ある」、「な点」等搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2533,
+  "word" : "不要/不用",
+  "reading" : "ふよう",
+  "romaji" : null,
+  "meaning" : [ "不需要；不必要；没用" ],
+  "notes" : [ "汉字写作「不要」或「不用」，两者意思基本相同，都表示不需要。是な形容词，修饰名词时需要用「な」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2534,
+  "word" : "不親切",
+  "reading" : "ふしんせつ",
+  "romaji" : null,
+  "meaning" : [ "不亲切，不热情，冷淡" ],
+  "notes" : [ "属于表示负面评价的词汇，多用于描述人的态度或行为。作为な形容詞，修饰名词时需加「な」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2535,
+  "word" : "不評",
+  "reading" : "ふひょう",
+  "romaji" : null,
+  "meaning" : [ "名声や評価がよくないこと。評判が悪いこと。" ],
+  "notes" : [ "「評判が悪い」という意味の名詞。漢字表記は「不評」のみ。形容詞的には「不評な」、副詞的には「不評に」と使うこともある。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2536,
+  "word" : "不調",
+  "reading" : "ふちょう",
+  "romaji" : null,
+  "meaning" : [ "1. 物事がうまくいかないこと；状態や成績などが悪いこと。\n2. （交渉や会談などが）まとまらずに失敗すること。" ],
+  "notes" : [ "「不調」は、機械の故障や体調不良など、様々な状況で使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2537,
+  "word" : "不足",
+  "reading" : "ふそく",
+  "romaji" : null,
+  "meaning" : [ "不足，缺乏，短缺；不够，不充分" ],
+  "notes" : [ "作为名词或サ变动词使用。常以「～が不足する」、「～が不足している」的形式表示某物不足。也可构成复合词，如「人手不足」、「資金不足」。在表示“不够资格”等抽象含义时，也常用「～不足」的形式，如「経験不足」。该词更偏向于书面语和正式场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2538,
+  "word" : "不足する",
+  "reading" : "ふそくする",
+  "romaji" : null,
+  "meaning" : [ "不足，不够，短缺" ],
+  "notes" : [ "「不足」本身是名词，加上「する」构成サ变动词。作为动词时，通常以「～が不足する」或「～に不足する」的形式使用。在口语和书面语中都很常见。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2539,
+  "word" : "不運",
+  "reading" : "ふうん",
+  "romaji" : null,
+  "meaning" : [ "运气不好，不幸" ],
+  "notes" : [ "「不運」是一个形容动词（な形容词），在句子中修饰名词时使用「不運な」，作谓语时使用「不運だ」。它描述的是运气不佳或不幸的状态，而非主观感受。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2540,
+  "word" : "不順",
+  "reading" : "ふじゅん",
+  "romaji" : null,
+  "meaning" : [ "不顺，不调，异常；没有道理，不合理" ],
+  "notes" : [ "「不順」主要用作名词和ナ形容词（な形容词），描述事物不正常、不规律或不合理。常见搭配有「天候不順」、「気候不順」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2541,
+  "word" : "与える",
+  "reading" : "あたえる",
+  "romaji" : null,
+  "meaning" : [ "1. （物を）給与する、授ける。2. （影響・機会などを）もたらす。3. （地位・権利などを）付与する。" ],
+  "notes" : [ "他動詞。漢字「与」は常用漢字表の字体。書き言葉でよく使われる。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2542,
+  "word" : "与る",
+  "reading" : "あずかる",
+  "romaji" : null,
+  "meaning" : [ "1. 参与，参加，从事。 2. 蒙受，得到（恩惠、好意等）。 3. 与...有关，与...有份。" ],
+  "notes" : [ "这是一个较为正式的书面语词汇，在口语中不常用。常用表达有「お招きに与る（承蒙邀请）」、「ご栄誉に与る（获得荣誉）」等。其汉字表记「与る」是日语中的「当て字」，并非汉字本义。在表示“参与”时，常与「計画」、「事業」、「会議」等词搭配；在表示“蒙受”时，常与「恩恵」、「光栄」、「好意」等词搭配。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2543,
+  "word" : "且つ",
+  "reading" : "かつ",
+  "romaji" : null,
+  "meaning" : [ "而且，并且；一边……一边……" ],
+  "notes" : [ "用于连接两个词或句子，表示并列或添加。在现代日语中，多用于书面语或正式场合，日常会话中较少使用。表示“一边……一边……”的用法较为古风。" ],
+  "pos" : "CONJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2544,
+  "word" : "世の中",
+  "reading" : "よのなか",
+  "romaji" : null,
+  "meaning" : [ "世间，社会，人世间" ],
+  "notes" : [ "表示人们生活、活动的现实世界或社会整体。常带有一种普遍性或抽象性的意味。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2545,
+  "word" : "世代",
+  "reading" : "せだい",
+  "romaji" : null,
+  "meaning" : [ "世代；辈；同一时代的人" ],
+  "notes" : [ "「世代」は特定の期間に生まれた人々の集団を指し、家族内の親子関係や、社会全体の年齢層を表す際にも使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2546,
+  "word" : "世帯",
+  "reading" : "せたい",
+  "romaji" : null,
+  "meaning" : [ "家庭；户（作为经济单位的家庭）" ],
+  "notes" : [ "常用短语「世帯主（せたいぬし）」意为“户主”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2547,
+  "word" : "世界",
+  "reading" : "せかい",
+  "romaji" : null,
+  "meaning" : [ "世界" ],
+  "notes" : [ "「世界」是一个名词，没有活用变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2548,
+  "word" : "世界遺産",
+  "reading" : "せかいいさん",
+  "romaji" : null,
+  "meaning" : [ "世界遗产。由联合国教科文组织世界遗产委员会依据《保护世界文化和自然遗产公约》评定，具有突出普遍价值的文化或自然遗产。" ],
+  "notes" : [ "该词为名词，无活用变化。读音为平板型（0型），即「せかいいさん」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2549,
+  "word" : "世相",
+  "reading" : "せそう",
+  "romaji" : null,
+  "meaning" : [ "世态，社会情况，社会现象" ],
+  "notes" : [ "该词常指特定时代或社会的普遍风气、现象或状况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2550,
+  "word" : "世紀",
+  "reading" : "せいき",
+  "romaji" : null,
+  "meaning" : [ "世纪；年代，时代" ],
+  "notes" : [ "作为数量单位时，指100年。也用于比喻一个重要的时代或时期。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2551,
+  "word" : "世話",
+  "reading" : "せわ",
+  "romaji" : null,
+  "meaning" : [ "照顾；照料；帮助；关照；介绍；推荐（如工作、婚姻等）" ],
+  "notes" : [ "作为名词和サ变动词使用。常用搭配有「世話をする」（照顾）、「世話になる」（承蒙关照）、「世話を焼く」（多管闲事/热心帮忙）。在商务和日常寒暄中，「お世話になっております」是常用表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2552,
+  "word" : "世話をする",
+  "reading" : "せわをする",
+  "romaji" : null,
+  "meaning" : [ "帮助；照顾；照看" ],
+  "notes" : [ "「世話をする」是固定搭配，表示“照顾、照看”。「世話します」是其ます形，用于更礼貌的场合。原数据中的读音标记有误，且词性分类不准确。在能力考中，此表达更常见于N4级别。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2553,
+  "word" : "世話をする",
+  "reading" : "せわをする",
+  "romaji" : null,
+  "meaning" : [ "照顾，照料；关照，帮忙；介绍（对象等）" ],
+  "notes" : [ "常用搭配：'お世話になる'（承蒙关照，得到帮助）、'世話を焼く'（多管闲事，过分操心）。作为动词使用时，'世話'本身是名词，与'する'结合构成サ变动词。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2554,
+  "word" : "世論",
+  "reading" : "よろん",
+  "romaji" : null,
+  "meaning" : [ "社会舆论，公众意见" ],
+  "notes" : [ "该词亦可读作「せろん」，但「よろん」更为常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2555,
+  "word" : "世間",
+  "reading" : "せけん",
+  "romaji" : null,
+  "meaning" : [ "社会；世上；世人；人世；社会上的一般情况" ],
+  "notes" : [ "“世間体”是常用复合词，意为“体面”、“面子”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2556,
+  "word" : "世間話",
+  "reading" : "せけんばなし",
+  "romaji" : null,
+  "meaning" : [ "1. 闲话，聊天，闲聊（关于日常琐事或社会话题的普通谈话）。2. 流言蜚语。" ],
+  "notes" : [ "这是一个复合名词，由「世間（せけん）」和「話（はなし/ばなし）」组成。在复合词中，「話」的读音通常浊化为「ばなし」。该词通常指非正式的、轻松的谈话，有时也带有贬义，指无关紧要的闲谈或流言。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2557,
+  "word" : "丘陵",
+  "reading" : "きゅうりょう",
+  "romaji" : null,
+  "meaning" : [ "丘陵。由连绵的低矮小山构成的地形，通常指海拔在200米至500米之间，坡度平缓的山地。" ],
+  "notes" : [ "该词为名词，无活用变化。在日常会话和一般文章中常见，是比「丘」更正式、描述范围更广的词汇。在JLPT考试中，通常作为N2级别词汇出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2558,
+  "word" : "両側",
+  "reading" : "りょうがわ",
+  "romaji" : null,
+  "meaning" : [ "两侧，两边" ],
+  "notes" : [ "常见的同义词有「両方の側（りょうほうのがわ）」。注意「側」的读音是「がわ」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2559,
+  "word" : "両国",
+  "reading" : "りょうこく",
+  "romaji" : null,
+  "meaning" : [ "两国；两国之间；特指东京都墨田区的「両国」地区（旧国名武藏国和下总国的交界处）" ],
+  "notes" : [ "作为地名时（如「両国駅」）通常不标注声调，作为普通名词时，常见声调为平板型（0型）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2560,
+  "word" : "両手",
+  "reading" : "りょうて",
+  "romaji" : null,
+  "meaning" : [ "双手，两手" ],
+  "notes" : [ "常用汉字表记。音调为平板型（平板型），通常标记为0调（りょうて）或不在读音中标数字。虽然“両”有音读“りょう”，但“両手”整体作为名词，其音调是固定的。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2561,
+  "word" : "両方",
+  "reading" : "りょうほう",
+  "romaji" : null,
+  "meaning" : [ "两者，双方；两边" ],
+  "notes" : [ "常见于日常会话，表示两个事物、人物或方面。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2562,
+  "word" : "両替",
+  "reading" : "りょうがえ",
+  "romaji" : null,
+  "meaning" : [ "両替。兑换，换钱。指将一种货币兑换成另一种货币，或将大额钞票换成零钱。" ],
+  "notes" : [ "通常为サ变动词用法「両替する」，表示“进行兑换”的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2563,
+  "word" : "両極",
+  "reading" : "りょうきょく",
+  "romaji" : null,
+  "meaning" : [ "1. 两个极端，两个对立的方面。2. （地球、磁石等的）两极。" ],
+  "notes" : [ "该词既可用于表示抽象概念（如意见、立场）的两个极端，也可用于表示地理、物理等具体事物的两极。作为名词，无活用变化。从使用频率和语义复杂性来看，其难度更接近N2级别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2564,
+  "word" : "両社",
+  "reading" : "りょうしゃ",
+  "romaji" : null,
+  "meaning" : [ "两家公司" ],
+  "notes" : [ "「両社」是「両方の会社」的正式说法，常用于商务和新闻等书面语中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2565,
+  "word" : "両立",
+  "reading" : "りょうりつ",
+  "romaji" : null,
+  "meaning" : [ "両立，并存，同时成立" ],
+  "notes" : [ "作为动词使用时，常用「両立する」的形式。该词更多用作名词，指两种事物或状态能够同时成立或保持。属于日语能力考试N2级别词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2566,
+  "word" : "両膝",
+  "reading" : "りょうひざ",
+  "romaji" : null,
+  "meaning" : [ "双膝，两个膝盖" ],
+  "notes" : [ "「両膝」是「両方の膝」的简洁说法，用于指代左右两个膝盖。在口语中，「両方の膝」也常被使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2567,
+  "word" : "両親",
+  "reading" : "りょうしん",
+  "romaji" : null,
+  "meaning" : [ "父母，双亲" ],
+  "notes" : [ "尊敬他人的父母时，通常使用「ご両親」这一礼貌表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2568,
+  "word" : "両足",
+  "reading" : "りょうあし",
+  "romaji" : null,
+  "meaning" : [ "双脚；双腿" ],
+  "notes" : [ "该词通常指人的两只脚或两条腿。在特定语境下，也可指代动物的四肢，但相对少见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2569,
+  "word" : "並",
+  "reading" : "なみ",
+  "romaji" : null,
+  "meaning" : [ "普通，一般，中等程度；与……同样的程度；列，排" ],
+  "notes" : [ "作为后缀使用时，接在名词后，表示'与...同等程度'。作为名词单独使用时，也常表示'列、排'的意思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2570,
+  "word" : "並びに",
+  "reading" : "ならびに",
+  "romaji" : null,
+  "meaning" : [ "和，以及。用于连接两个或多个词或句子，表示并列关系，比「および」更正式、书面化。" ],
+  "notes" : [ "属于书面语，在正式文书或法律条文中常见。口语中通常使用「と」、「や」、「および」等。" ],
+  "pos" : "CONJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2571,
+  "word" : "並びます",
+  "reading" : "ならびます",
+  "romaji" : null,
+  "meaning" : [ "排队，排成一列；并列；匹敌，比得上" ],
+  "notes" : [ "\"並びます\"是动词\"並ぶ\"的ます形（礼貌形）。作为五段动词，其基本形为\"並ぶ\"，连用形为\"並び\"。其自动词用法（如排队）较常见，但也有他动词形式\"並べる\"。在表示\"匹敌\"的含义时，多用于否定句或疑问句，如\"彼に並ぶ者はいない\"。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2572,
+  "word" : "並ぶ",
+  "reading" : "ならぶ",
+  "romaji" : null,
+  "meaning" : [ "1. 排列成行，排队。2. 匹敌，比得上。" ],
+  "notes" : [ "自動詞。对应的他动词是「並べる」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2573,
+  "word" : "並べます",
+  "reading" : "ならべます",
+  "romaji" : null,
+  "meaning" : [ "1. 排列，摆放，使成行。 2. 列举，罗列。" ],
+  "notes" : [ "「並べます」是「並べる」的ます形（礼貌体）。其基本形（辞書形）为「並べる」。这是一个他动词，需要一个宾语（を）。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2574,
+  "word" : "並列",
+  "reading" : "へいれつ",
+  "romaji" : null,
+  "meaning" : [ "并列，并排；并联；并列关系" ],
+  "notes" : [ "「並列」作为名词使用，表示事物并排排列的状态或关系。在语法中指并列结构，在电路中指并联连接。其动词形式为「並列する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2575,
+  "word" : "並外れる",
+  "reading" : "なみはずれる",
+  "romaji" : null,
+  "meaning" : [ "普通の程度や範囲を超えている。際立っている。" ],
+  "notes" : [ "主に「並外れた」の形で連体修飾語として用いられることが多い。自動詞として扱われる。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2576,
+  "word" : "並大抵",
+  "reading" : "なみたいてい",
+  "romaji" : null,
+  "meaning" : [ "（常以「並大抵ではない」等否定形式使用）普通、一般、寻常" ],
+  "notes" : [ "这个词通常用于否定句，表示“非同寻常”、“不简单”。\"並大抵\" 本身是名词，不能直接用作形容词。在句子中常以 \"並大抵ではない\"、\"並大抵の～では（ない）\" 等形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2577,
+  "word" : "並木",
+  "reading" : "なみき",
+  "romaji" : null,
+  "meaning" : [ "街道や道路の両側に整然と並んで植えられた木。また、その木が植えられている道。" ],
+  "notes" : [ "「並木道（なみきみち）」とも言う。特定の樹種を指して「桜並木」「松並木」などと使うことも多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2578,
+  "word" : "並行",
+  "reading" : "へいこう",
+  "romaji" : null,
+  "meaning" : [ "并行；同时进行" ],
+  "notes" : [ "「並行」主要用作名词，表示事物并列、同时进行的状态。虽然有时后续「する」可作为サ变动词使用，但核心词性为名词。作为サ变动词时，其活用形式与一般サ变动词相同（例：並行しない、並行しよう、並行します、並行する、並行する時、並行すれば、並行しろ）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2579,
+  "word" : "中",
+  "reading" : "なか",
+  "romaji" : null,
+  "meaning" : [ "内部；中间；当中；在…之中（表示时间、空间或抽象概念的范围）" ],
+  "notes" : [ "作为独立名词使用时，一般不标注音调数字（如1）。在复合词中，有时会发生音变，如\"家の中（いえのなか）\"。该词也用于表示时间的范围（如\"今月中\"）或抽象的范围（如\"可能性の中\"）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2580,
+  "word" : "中傷",
+  "reading" : "ちゅうしょう",
+  "romaji" : null,
+  "meaning" : [ "中伤，诽谤，诋毁。" ],
+  "notes" : [ "可作为名词使用，构成复合动词「中傷する」。作为サ变动词使用时，活用类型为「サ行変格活用」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2581,
+  "word" : "中元",
+  "reading" : "ちゅうげん",
+  "romaji" : null,
+  "meaning" : [ "1. 中元节（农历七月十五，日本称为盂兰盆节或お盆）。2. 中元节期间赠送的礼品。" ],
+  "notes" : [ "作为“中元节”含义时，常写作「中元」或「お中元」。作为“礼品”含义时，通常指夏季（7月初至7月15日左右）赠送的礼品，称为「お中元」。与年末的「お歳暮」相对应。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2582,
+  "word" : "中原",
+  "reading" : "ちゅうげん",
+  "romaji" : null,
+  "meaning" : [ "中原，原野，平原；特指中国黄河中下游地区，古代中国的中心地带。" ],
+  "notes" : [ "作为专有地理名词，常指代古代中国的核心区域，在历史、文化语境中使用频率较高。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2583,
+  "word" : "中古",
+  "reading" : "ちゅうこ",
+  "romaji" : null,
+  "meaning" : [ "二手货，半新不旧的东西；也指中古时代" ],
+  "notes" : [ "作为名词使用，无活用变化。在日常语境中主要指二手商品，在历史语境中指中古时代（如日本的中世）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2584,
+  "word" : "中古車",
+  "reading" : "ちゅうこしゃ",
+  "romaji" : null,
+  "meaning" : [ "中古の自動車。使用済みの車。二手车。" ],
+  "notes" : [ "「中古」は「中程度に古い」という意味で、単に「古い」の意味ではない。英語の \"used car\" に相当する。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2585,
+  "word" : "中国人",
+  "reading" : "ちゅうごくじん",
+  "romaji" : null,
+  "meaning" : [ "中国人" ],
+  "notes" : [ "表示中国国籍的人或民族。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2586,
+  "word" : "中国全土",
+  "reading" : "ちゅうごくぜんど",
+  "romaji" : null,
+  "meaning" : [ "全中国，中国全境" ],
+  "notes" : [ "「全土」是一个复合词，表示整个国土、全境。读音中「土」的声调为低音，因此「ぜんど」的「ど」不读作高音。该词在正式报道和书面语中常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2587,
+  "word" : "中国茶",
+  "reading" : "ちゅうごくちゃ",
+  "romaji" : null,
+  "meaning" : [ "中国茶，中国的茶。" ],
+  "notes" : [ "泛指各种中国产的茶，如龙井茶、铁观音、普洱茶等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2588,
+  "word" : "中国語",
+  "reading" : "ちゅうごくご",
+  "romaji" : null,
+  "meaning" : [ "汉语，中文" ],
+  "notes" : [ "「中国語」是日语中表示“汉语”或“中文”的标准名词。在日语能力考试（JLPT）中，该词属于非常基础的词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2589,
+  "word" : "中型",
+  "reading" : "ちゅうがた",
+  "romaji" : null,
+  "meaning" : [ "中等の大きさ、規模であること。また、そのようなもの。" ],
+  "notes" : [ "「中型」は「中型の」の形で名詞を修飾する連体詞的な用法が一般的です。なお、「中型」は「ちゅうがた」と読み、「ちゅうけい」とは読みません。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2590,
+  "word" : "中央",
+  "reading" : "ちゅうおう",
+  "romaji" : null,
+  "meaning" : [ "中心；中央；中枢；中心位置" ],
+  "notes" : [ "作为名词使用，不活用。指空间的中心、核心部分或机构的总部。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2591,
+  "word" : "中学",
+  "reading" : "ちゅうがく",
+  "romaji" : null,
+  "meaning" : [ "初中，中学（指中等教育的前半阶段，通常指日本学制中的三年制中学，对应中国的初中）" ],
+  "notes" : [ "与“高校”相对，指义务教育阶段的后半部分。作为学校名称时，也常写作“中学校”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2592,
+  "word" : "中学校",
+  "reading" : "ちゅうがっこう",
+  "romaji" : null,
+  "meaning" : [ "初级中学，初中（日本义务教育阶段中，继小学之后的教育机构，通常为三年制）。" ],
+  "notes" : [ "「校」字的送假名通常省略，标记为「ちゅうがっこう」。此词在日语能力考试中属于最基础的词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2593,
+  "word" : "中学生",
+  "reading" : "ちゅうがくせい",
+  "romaji" : null,
+  "meaning" : [ "中学生（初中生）" ],
+  "notes" : [ "「中学生」是一个复合名词，由「中学」和「生」组成，表示在中学就读的学生。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2594,
+  "word" : "中小企業",
+  "reading" : "ちゅうしょうきぎょう",
+  "romaji" : null,
+  "meaning" : [ "中小企业。指资本、员工规模介于大企业和个体经营户之间的企业。" ],
+  "notes" : [ "这是一个复合名词，由‘中小’（中等和小的）和‘企業’（企业）构成。在商务和新闻中非常常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2595,
+  "word" : "中年",
+  "reading" : "ちゅうねん",
+  "romaji" : null,
+  "meaning" : [ "中年。人生の途中、若年と老年の中間の時期。" ],
+  "notes" : [ "特に年齢の範囲は明確に定義されていないが、一般的に40代から50代頃を指すことが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2596,
+  "word" : "中心",
+  "reading" : "ちゅうしん",
+  "romaji" : null,
+  "meaning" : [ "中心；中央部分；核心；焦点；重心" ],
+  "notes" : [ "アクセントは平板型（0型）です。漢字の「中」は訓読みで「なか」とも読みますが、「中心」の場合は音読みの「ちゅう」が用いられます。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2597,
+  "word" : "中心地",
+  "reading" : "ちゅうしんち",
+  "romaji" : null,
+  "meaning" : [ "中心地。中心となる地域。" ],
+  "notes" : [ "「中心地」是一个复合名词，由「中心」和「地」构成。读音中无需标注音调数字，但通常为平板型（第0调）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2598,
+  "word" : "中性",
+  "reading" : "ちゅうせい",
+  "romaji" : null,
+  "meaning" : [ "1. 中性，不偏不倚的性质或状态。2. (化学、电学等) 中性，不带电或不显酸碱性。3. (语法) 中性。" ],
+  "notes" : [ "作为名词使用，没有活用变化。在化学、电学、语法等多个领域有专业含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2599,
+  "word" : "中指",
+  "reading" : "なかゆび",
+  "romaji" : null,
+  "meaning" : [ "中指；第三个手指。" ],
+  "notes" : [ "在有些文化中，竖起中指被视为不礼貌的手势，但在日语中该词本身为中性名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2600,
+  "word" : "中断",
+  "reading" : "ちゅうだん",
+  "romaji" : null,
+  "meaning" : [ "中断，中止，中途停止" ],
+  "notes" : [ "「中断する」作为サ变动词使用，表示动作或状态中途被打断或停止。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

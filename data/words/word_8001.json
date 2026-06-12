@@ -1,0 +1,901 @@
+[ {
+  "id" : 8001,
+  "word" : "点字",
+  "reading" : "てんじ",
+  "romaji" : null,
+  "meaning" : [ "盲文，用点的组合表示文字的触觉文字系统，供视觉障碍者使用" ],
+  "notes" : [ "源自法语\"pointé\"，由路易·布莱叶发明的触觉文字系统，日语中主要指日语盲文" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8002,
+  "word" : "点数",
+  "reading" : "てんすう",
+  "romaji" : null,
+  "meaning" : [ "分数，得分；件数，数量" ],
+  "notes" : [ "常用汉字词，指考试等的得分或物品的数量" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8003,
+  "word" : "点検",
+  "reading" : "てんけん",
+  "romaji" : null,
+  "meaning" : [ "检查，检验，点检" ],
+  "notes" : [ "「点検する」の形で动词として使用されることが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8004,
+  "word" : "為",
+  "reading" : "ため",
+  "romaji" : null,
+  "meaning" : [ "为了；因为；利益，好处；缘故，理由" ],
+  "notes" : [ "常用「～のために」表示目的，「～のため」表示原因。作为名词时可单独使用，表示利益或好处。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8005,
+  "word" : "為替",
+  "reading" : "かわせ",
+  "romaji" : null,
+  "meaning" : [ "汇兑，汇款；汇率，兑换率" ],
+  "notes" : [ "「為替」は主に金融・経済関連の用語で、お金を他国の通貨に換えることやその比率を指す。「為替送金」「外国為替」などの複合語としてもよく使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8006,
+  "word" : "烏篷船",
+  "reading" : "うほうせん",
+  "romaji" : null,
+  "meaning" : [ "中国江南地方の伝統的な小型木造船で、黒い桐油を塗った竹製の屋根（篷）を持つ船。主に川や運河で使用される。" ],
+  "notes" : [ "日本語の常用語彙ではなく、主に中国文化や観光に関する文脈で使用される外来語的な表現。JLPTのレベル分類には含まれない。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8007,
+  "word" : "焚き火",
+  "reading" : "たきび",
+  "romaji" : null,
+  "meaning" : [ "篝火，营火，火堆" ],
+  "notes" : [ "由动词「焚く」(たく)的连用形「焚き」与「火」(ひ)组合而成的复合名词，表示为取暖、做饭或照明等目的燃起的火堆。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8008,
+  "word" : "無くす",
+  "reading" : "なくす",
+  "romaji" : null,
+  "meaning" : [ "丢失，遗失；消除，去掉；浪费（机会等）" ],
+  "notes" : [ "他动词，对应自动词为「無くなる」（なくなる）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8009,
+  "word" : "無くなる",
+  "reading" : "なくなる",
+  "romaji" : null,
+  "meaning" : [ "丢失，遗失；消失；用完，耗尽；去世，死亡" ],
+  "notes" : [ "表示「去世」时为委婉说法，日常使用中需注意语境。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8010,
+  "word" : "無し",
+  "reading" : "なし",
+  "romaji" : null,
+  "meaning" : [ "无，没有，不存在；表示否定，相当于「ない」的文语形" ],
+  "notes" : [ "古语形式，现代日语中常用于书面语、标语或固定表达中，口语中较少使用。" ],
+  "pos" : "AUX",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8011,
+  "word" : "無事",
+  "reading" : "ぶじ",
+  "romaji" : null,
+  "meaning" : [ "形容动词 顺利，平安，无变故；健康，健全" ],
+  "notes" : [ "常用作连体修饰（無事な+名词）或副词用法（無事に+动词）" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8012,
+  "word" : "無効",
+  "reading" : "むこう",
+  "romaji" : null,
+  "meaning" : [ "无效，失效，没有效力" ],
+  "notes" : [ "作定语时需加「な」，如「無効な契約」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8013,
+  "word" : "無口",
+  "reading" : "むくち",
+  "romaji" : null,
+  "meaning" : [ "形容動詞。話が少ないこと、あまり話さない性格や状態を表す。" ],
+  "notes" : [ "「無口」は体言（名詞）としても使用されることがあるが、形容動詞としての用法が一般的である。例：「彼の無口には驚いた」（名詞的用法）。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8014,
+  "word" : "無実",
+  "reading" : "むじつ",
+  "romaji" : null,
+  "meaning" : [ "无辜，无罪；没有事实根据，虚妄" ],
+  "notes" : [ "常用搭配：無実の罪（冤枉之罪）、無実を証明する（证明无辜）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8015,
+  "word" : "無形",
+  "reading" : "むけい",
+  "romaji" : null,
+  "meaning" : [ "无形的，非物质的" ],
+  "notes" : [ "通常作定语使用，修饰名词时需加「の」" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8016,
+  "word" : "無念",
+  "reading" : "むねん",
+  "romaji" : null,
+  "meaning" : [ "1. 毫无牵挂，没有留恋；2. 懊悔，悔恨，遗憾" ],
+  "notes" : [ "作为na-adjective使用时，通常以「無念だ」「無念です」「無念な+名词」等形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8017,
+  "word" : "無意味",
+  "reading" : "むいみ",
+  "romaji" : null,
+  "meaning" : [ "无意义的，没有价值的，无聊的" ],
+  "notes" : [ "形容动词，后续接「な」修饰名词，接「に」作副词使用。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8018,
+  "word" : "無意義",
+  "reading" : "むいぎ",
+  "romaji" : null,
+  "meaning" : [ "无意义的，没有价值的，徒劳的" ],
+  "notes" : [ "可作名词使用，指“无意义，无价值”" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8019,
+  "word" : "無意識",
+  "reading" : "むいしき",
+  "romaji" : null,
+  "meaning" : [ "1. 无意识，不自觉，下意识；2. 不省人事，失去知觉" ],
+  "notes" : [ "可作为名词单独使用，也可作为形容动词（ナ形容词）使用，如「無意識な行動」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8020,
+  "word" : "無愛想",
+  "reading" : "ぶあいそう",
+  "romaji" : null,
+  "meaning" : [ "冷淡，不和蔼，不亲切，没有表情" ],
+  "notes" : [ "形容动词，主要用于形容人或态度缺乏热情和亲切感。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8021,
+  "word" : "無数",
+  "reading" : "むすう",
+  "romaji" : null,
+  "meaning" : [ "名词 无数，大量，数不胜数" ],
+  "notes" : [ "可作名词单独使用，也可后续「の」修饰名词，或后续「に」作副词使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8022,
+  "word" : "無料",
+  "reading" : "むりょう",
+  "romaji" : null,
+  "meaning" : [ "免费，不收费" ],
+  "notes" : [ "可作为形容动词使用，构成「無料だ」「無料で」「無料な」等形式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8023,
+  "word" : "無断",
+  "reading" : "むだん",
+  "romaji" : null,
+  "meaning" : [ "名词 擅自，私自，未经允许" ],
+  "notes" : [ "通常与「で」连用，表示“擅自做某事”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8024,
+  "word" : "無機",
+  "reading" : "むき",
+  "romaji" : null,
+  "meaning" : [ "（化学用语）无机，与有机化合物相对，指不含碳元素（少数简单含碳化合物除外）的物质或相关领域" ],
+  "notes" : [ "常用搭配：無機化学（无机化学）、無機物（无机物）、無機質（无机质）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8025,
+  "word" : "無気力",
+  "reading" : "むきりょく",
+  "romaji" : null,
+  "meaning" : [ "没精神，缺乏活力，无精打采，意志消沉" ],
+  "notes" : [ "作为形容动词使用时，词尾变化为「無気力だ」「無気力で」「無気力な」「無気力に」等形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8026,
+  "word" : "無理",
+  "reading" : "むり",
+  "romaji" : null,
+  "meaning" : [ "1. 困难，难以办到；不可能；2. 强迫，强制；勉强；3. 过度，过分" ],
+  "notes" : [ "可作名词使用，如「無理をする」（勉强自己）；也可作副词使用，如「無理に笑う」（强颜欢笑）" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8027,
+  "word" : "無理やり",
+  "reading" : "むりやり",
+  "romaji" : null,
+  "meaning" : [ "强行，硬，强迫，勉强" ],
+  "notes" : [ "表示通过强制手段或超出能力范围地做某事，带有不情愿或勉强的语感。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8028,
+  "word" : "無理をします",
+  "reading" : "むりをします",
+  "romaji" : null,
+  "meaning" : [ "勉强自己，硬撑，做超出自己能力范围的事情" ],
+  "notes" : [ "「無理をする」的礼貌形，由名词「無理」和动词「する」构成的动词短语，表示进行勉强的行为。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8029,
+  "word" : "無理を言う",
+  "reading" : "むりをいう",
+  "romaji" : null,
+  "meaning" : [ "惯用语。指提出不合理的要求；或说不讲理的话，强词夺理。" ],
+  "notes" : [ "由「無理（不合理、勉强）」和「言う（说、讲）」构成的惯用语，侧重表达提出对方难以接受的要求或进行不合理的辩解。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8030,
+  "word" : "無用",
+  "reading" : "むよう",
+  "romaji" : null,
+  "meaning" : [ "1. 无用，没有用处；2. 不需要，不必要；3. 无事，平安；4. 禁止，不得" ],
+  "notes" : [ "常用汉字。作为「禁止，不得」之意时，多以「～無用」的形式构成复合词，如「立入無用（禁止入内）」「触摸無用（禁止触摸）」等。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8031,
+  "word" : "無知",
+  "reading" : "むち",
+  "romaji" : null,
+  "meaning" : [ "无知，缺乏知识，不明事理" ],
+  "notes" : [ "可作形容动词使用，如「無知な人」「無知にも程がある」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8032,
+  "word" : "無礼",
+  "reading" : "ぶれい",
+  "romaji" : null,
+  "meaning" : [ "无礼，没礼貌，不恭敬" ],
+  "notes" : [ "可作形容动词使用，构成「無礼だ」「無礼に」等形式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8033,
+  "word" : "無礼講",
+  "reading" : "ぶれいこう",
+  "romaji" : null,
+  "meaning" : [ "一种不拘泥于礼仪、身份等，参与者可以自由畅谈、开怀畅饮的聚会或宴会" ],
+  "notes" : [ "「無礼講」通常在同事、朋友等较为熟悉的人之间举行，目的是打破常规的等级和礼仪束缚，促进更自由的交流。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8034,
+  "word" : "無神経",
+  "reading" : "むしんけい",
+  "romaji" : null,
+  "meaning" : [ "感觉迟钝，神经大条，缺乏体贴，不考虑他人感受" ],
+  "notes" : [ "形容动词，后续接「な」修饰名词，接「に」作副词使用。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8035,
+  "word" : "無線",
+  "reading" : "むせん",
+  "romaji" : null,
+  "meaning" : [ "无线；无线电；无线电通讯；无线电设备" ],
+  "notes" : [ "「無線」は主に通信や電波に関する技術や機器を指す場合に使用される。「無線LAN」「無線充電」などの複合語としてもよく使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8036,
+  "word" : "無罪",
+  "reading" : "むざい",
+  "romaji" : null,
+  "meaning" : [ "无罪，没有犯罪行为或罪责" ],
+  "notes" : [ "法律用语，反义词为「有罪（ゆうざい）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8037,
+  "word" : "無能",
+  "reading" : "むのう",
+  "romaji" : null,
+  "meaning" : [ "无能，无才能，没有能力的人" ],
+  "notes" : [ "可作为形容动词使用，如「無能な」「無能だ」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8038,
+  "word" : "無茶",
+  "reading" : "むちゃ",
+  "romaji" : null,
+  "meaning" : [ "毫无道理；胡乱，胡来；过分，过度" ],
+  "notes" : [ "常用作「無茶だ」「無茶な」「無茶に」的形式使用" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8039,
+  "word" : "無茶苦茶",
+  "reading" : "むちゃくちゃ",
+  "romaji" : null,
+  "meaning" : [ "1. 毫无道理，荒谬，胡闹；2. 混乱，乱七八糟；3. 非常，格外，过分" ],
+  "notes" : [ "可作为形容动词或副词使用，作副词时直接修饰动词或形容词" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8040,
+  "word" : "無視",
+  "reading" : "むし",
+  "romaji" : null,
+  "meaning" : [ "无视，忽视，不理睬" ],
+  "notes" : [ "常用搭配：無視する（动词形式）、無視される（被动态）" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8041,
+  "word" : "無視する",
+  "reading" : "むしする",
+  "romaji" : null,
+  "meaning" : [ "忽视，无视，不放在眼里" ],
+  "notes" : [ "「無視する」は他動詞で、対象を直接目的語に取る。否定形は「無視しない」、過去形は「無視した」など、サ変動詞の活用に従う。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8042,
+  "word" : "無言",
+  "reading" : "むごん",
+  "romaji" : null,
+  "meaning" : [ "无言，沉默，不说话的状态" ],
+  "notes" : [ "可作副词使用，如「無言で頷く」（默默点头）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8043,
+  "word" : "無計画",
+  "reading" : "むけいかく",
+  "romaji" : null,
+  "meaning" : [ "没有计划，缺乏规划" ],
+  "notes" : [ "作为形容动词使用时，词尾变化为「無計画だ・無計画で・無計画な・無計画に」等形式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8044,
+  "word" : "無論",
+  "reading" : "むろん",
+  "romaji" : null,
+  "meaning" : [ "当然，不用说，固然" ],
+  "notes" : [ "常与「もちろん」替换使用，但「無論」更书面化；可用于句首或句中，后接肯定内容" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8045,
+  "word" : "無責任",
+  "reading" : "むせきにん",
+  "romaji" : null,
+  "meaning" : [ "不负责任的，没有责任感的" ],
+  "notes" : [ "形容动词，后续接「な」修饰名词，接「に」作状语。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8046,
+  "word" : "無造作",
+  "reading" : "むぞうさ",
+  "romaji" : null,
+  "meaning" : [ "自然，不做作；随意，漫不经心，草率" ],
+  "notes" : [ "可作为形容动词（な形容詞）使用，也可作为名词使用，表示自然、不刻意的状态或行为方式。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8047,
+  "word" : "無遠慮",
+  "reading" : "むえんりょ",
+  "romaji" : null,
+  "meaning" : [ "不客气，不客套，直率，毫不客气地做某事" ],
+  "notes" : [ "形容动词，后续常接「に」构成副词性短语使用。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8048,
+  "word" : "無邪気",
+  "reading" : "むじゃき",
+  "romaji" : null,
+  "meaning" : [ "天真烂漫的；单纯的；无邪的；不谙世事的" ],
+  "notes" : [ "可用于形容人或行为，既可以表示褒义的纯真，也可表示略带贬义的过于单纯、缺乏考虑。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8049,
+  "word" : "無関心",
+  "reading" : "むかんしん",
+  "romaji" : null,
+  "meaning" : [ "形容动词，指对事物不感兴趣，缺乏关心的态度" ],
+  "notes" : [ "作定语时需加「な」，如「無関心な態度」；作状语时需加「に」，如「無関心に聞く」" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8050,
+  "word" : "無闇",
+  "reading" : "むやみ",
+  "romaji" : null,
+  "meaning" : [ "胡乱的，随便的；过分的，过度的；毫无道理的，荒谬的" ],
+  "notes" : [ "常与「に」连用构成副词性短语，表示“胡乱地，过分地”；也可直接修饰名词使用" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8051,
+  "word" : "無限",
+  "reading" : "むげん",
+  "romaji" : null,
+  "meaning" : [ "无限，无穷，无止境，无限量" ],
+  "notes" : [ "可作为形容动词使用，构成「無限な」「無限に」等形式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8052,
+  "word" : "無難",
+  "reading" : "ぶなん",
+  "romaji" : null,
+  "meaning" : [ "1. 无灾无难，平安无事；2. 稳妥，妥当，没有问题；3. 无可非议，没有缺点，平凡无奇" ],
+  "notes" : [ "作为形容动词使用时，作定语需加「な」，作状语需加「に」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8053,
+  "word" : "無駄",
+  "reading" : "むだ",
+  "romaji" : null,
+  "meaning" : [ "1. 徒劳，无用，白费；2. 浪费，不必要的消耗；3. 无效的，不起作用的" ],
+  "notes" : [ "作名词使用时可表示“徒劳的事；浪费的东西”，如「無駄を省く」（省去浪费）" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8054,
+  "word" : "無駄にする",
+  "reading" : "むだにする",
+  "romaji" : null,
+  "meaning" : [ "惯用语，指浪费（时间、金钱、物品等）；徒劳地使用，白白消耗" ],
+  "notes" : [ "「無駄」（名词/形容动词）后续「にする」构成的惯用语，强调将某物或某种行为变成徒劳、浪费的状态。其否定形式为「無駄にしない」，过去式为「無駄にした」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8055,
+  "word" : "無駄使い",
+  "reading" : "むだづかい",
+  "romaji" : null,
+  "meaning" : [ "名词 浪费，滥用（指不必要地使用金钱、物品、时间等）" ],
+  "notes" : [ "可作サ变动词使用，构成「無駄使いする」（动词：浪费，滥用）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8056,
+  "word" : "無駄遣い",
+  "reading" : "むだづかい",
+  "romaji" : null,
+  "meaning" : [ "浪费，挥霍，乱花钱；不必要的开支，浪费的行为" ],
+  "notes" : [ "「無駄遣いする」の形で動詞として使用することが多い。名詞としても単独で使用可能。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8057,
+  "word" : "焦がす",
+  "reading" : "こがす",
+  "romaji" : null,
+  "meaning" : [ "炒糊，烧糊，烤焦；使焦虑，使焦急" ],
+  "notes" : [ "他动词，基本形「焦がす」，未然形「焦がさ」，连用形「焦がし」，终止形「焦がす」，连体形「焦がす」，假定形「焦がせ」，命令形「焦がせ」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8058,
+  "word" : "焦げる",
+  "reading" : "こげる",
+  "romaji" : null,
+  "meaning" : [ "1. 烧焦，烤糊；2. 晒黑，晒褪色；3. （颜色）变深暗" ],
+  "notes" : [ "自动词，表示事物因加热或阳光照射等自然因素而发生焦糊、变色等变化。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8059,
+  "word" : "焦げ茶",
+  "reading" : "こげちゃ",
+  "romaji" : null,
+  "meaning" : [ "深棕色，深咖啡色，烧焦的茶色" ],
+  "notes" : [ "由「焦げ」（烧焦）和「茶」（茶色）组合而成的复合名词，用于形容类似烧焦后呈现的深褐色调。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8060,
+  "word" : "焦る",
+  "reading" : "あせる",
+  "romaji" : null,
+  "meaning" : [ "焦急，急躁，着急；焦躁不安，心慌意乱" ],
+  "notes" : [ "「焦る」是自动词，通常用于表达因时间紧迫、事情不顺利等而产生的焦躁情绪。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8061,
+  "word" : "焦点",
+  "reading" : "しょうてん",
+  "romaji" : null,
+  "meaning" : [ "焦点；中心，核心；（问题等的）重点，关键" ],
+  "notes" : [ "「焦点を当てる」是常用搭配，表示“把重点放在……上”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8062,
+  "word" : "然して",
+  "reading" : "しかして",
+  "romaji" : null,
+  "meaning" : [ "（后接否定）那么，那样；（用于反问）难道，怎么" ],
+  "notes" : [ "书面语，用于正式场合或文学作品中，后多接否定表达或反问句。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8063,
+  "word" : "焼きそば",
+  "reading" : "やきそば",
+  "romaji" : null,
+  "meaning" : [ "炒面，将面条用酱油、盐等调味料炒制，并通常配以卷心菜、胡萝卜、鸡蛋、肉类等食材的日本料理" ],
+  "notes" : [ "「焼き」是「焼く」的连用形，意为“炒、烤”；「そば」原指荞麦面，但在「焼きそば」中通常使用的是小麦制成的面条" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8064,
+  "word" : "焼きます",
+  "reading" : "やきます",
+  "romaji" : null,
+  "meaning" : [ "烤，烧，烧制，晒黑，烧毁" ],
+  "notes" : [ "「焼きます」是「焼く」的礼貌形，基本形为「焼く（やく）」，属于五段动词。表示通过加热使物体变熟、变色、变形或燃烧等多种含义。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8065,
+  "word" : "焼き鳥",
+  "reading" : "やきとり0",
+  "romaji" : null,
+  "meaning" : [ "名 烤鸡肉串，将鸡肉切成小块串在竹签上烤制的日本料理" ],
+  "notes" : [ "通常使用鶏のもも肉、手羽先、ささみ、肝臓などの部位を使用することが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8066,
+  "word" : "焼く",
+  "reading" : "やく",
+  "romaji" : null,
+  "meaning" : [ "1. 烧，烤，焙，炒；2. （皮肤）晒黑；3. 烧制（陶瓷等）；4. 灼热，烫；5. 烤焦，烧焦" ],
+  "notes" : [ "常用基本动词，「焼ける」是其可能态/自发态/被动态形式。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8067,
+  "word" : "焼けます",
+  "reading" : "やけます",
+  "romaji" : null,
+  "meaning" : [ "着火，燃烧；烧焦，烧糊；晒黑；烧成，烧制成" ],
+  "notes" : [ "「焼けます」是「焼ける」的礼貌形，自动词，主要表示自然燃烧、物体因加热或光照发生变化等状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8068,
+  "word" : "焼肉",
+  "reading" : "やきにく",
+  "romaji" : null,
+  "meaning" : [ "烤肉，烤牛肉" ],
+  "notes" : [ "指将牛肉等肉类切成薄片后在炭火或铁板上烤制的料理，是日本常见的美食之一。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8069,
+  "word" : "焼酎",
+  "reading" : "しょうちゅう",
+  "romaji" : null,
+  "meaning" : [ "日本の伝統的な蒸留酒で、主に麦、米、芋などを原料として作られる。度合いが高く、透明であることが特徴。" ],
+  "notes" : [ "日本酒とは異なり、蒸留酒であるためアルコール度数が高い（一般的に25～45度）。飲み方として「水割り」「お湯割り」「ロック」などがある。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8070,
+  "word" : "煌々",
+  "reading" : "こうこう",
+  "romaji" : null,
+  "meaning" : [ "形容光芒耀眼、明亮辉煌的样子；形容非常明亮、闪闪发光的状态" ],
+  "notes" : [ "可作为形容动词（な形容詞）使用，也可作为副词使用，后接「と」或「たる」等。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8071,
+  "word" : "煌く",
+  "reading" : "きらめく",
+  "romaji" : null,
+  "meaning" : [ "闪耀，闪烁，闪闪发光；（才华、能力等）出众，显眼" ],
+  "notes" : [ "「煌く」通常用于描述光的闪烁或人的才能出众，比「輝く」更强调瞬间的闪烁感。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8072,
+  "word" : "煌びやか",
+  "reading" : "きらびやか",
+  "romaji" : null,
+  "meaning" : [ "光辉灿烂的，光彩夺目的，华丽的，辉煌的" ],
+  "notes" : [ "形容动词（な形容词），由「煌びく」（きらびく）派生而来，强调光彩耀眼的视觉效果。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8073,
+  "word" : "煎餅",
+  "reading" : "せんべい",
+  "romaji" : null,
+  "meaning" : [ "米、小麦粉等制成的薄脆饼干，日式煎饼" ],
+  "notes" : [ "通常指日式传统煎饼，口感酥脆，有甜、咸等多种口味，常作为茶点食用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8074,
+  "word" : "煙",
+  "reading" : "けむり",
+  "romaji" : null,
+  "meaning" : [ "烟，烟雾；朦胧，模糊不清" ],
+  "notes" : [ "常用汉字，可用于表示实体烟雾或抽象的朦胧状态" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8075,
+  "word" : "煙い",
+  "reading" : "けむい",
+  "romaji" : null,
+  "meaning" : [ "呛人的，熏人的；烟雾弥漫的，有烟味的" ],
+  "notes" : [ "イ形容詞。「煙（けむり）」が語源。主に煙やにおいが刺激的で不快な状態を表す。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8076,
+  "word" : "煙たい",
+  "reading" : "けむたい",
+  "romaji" : null,
+  "meaning" : [ "1. 烟雾弥漫的，呛人的；2. 令人不快的，讨厌的，使人感到麻烦的；3. 可疑的，形迹可疑的" ],
+  "notes" : [ "属于イ形容词，「煙」读作「けむり」，该词由「煙」的连用形「けむ」加上形容词词尾「たい」构成。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8077,
+  "word" : "煙る",
+  "reading" : "けむる",
+  "romaji" : null,
+  "meaning" : [ "1. 冒烟，冒气；2. （视线等）模糊，朦胧；3. （因害羞、愤怒等）脸红，脸上发热" ],
+  "notes" : [ "自动词，主要用于描述烟雾产生、视觉模糊或面部因情绪变化而呈现的状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8078,
+  "word" : "煙突",
+  "reading" : "えんとつ",
+  "romaji" : null,
+  "meaning" : [ "烟囱，烟筒" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8079,
+  "word" : "照らし合わせる",
+  "reading" : "てらしあわせる",
+  "romaji" : null,
+  "meaning" : [ "核对，对照，互相对照比较" ],
+  "notes" : [ "由「照らす」(てらす)和「合わせる」(あわせる)构成的复合动词，表示将两个事物对照比较以确认一致性或关联性。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8080,
+  "word" : "照らす",
+  "reading" : "てらす",
+  "romaji" : null,
+  "meaning" : [ "1. 照耀，照射；2. 按照，参照；3. 对照，核对" ],
+  "notes" : [ "「照らす」は他動詞で、対象を直接照らす意味を表す。「照らし合わせる」「照らし付ける」などの複合動詞もよく使われる。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8081,
+  "word" : "照りつける",
+  "reading" : "てりつける",
+  "romaji" : null,
+  "meaning" : [ "（强烈地）照射，暴晒，阳光直射" ],
+  "notes" : [ "表示太阳等光线强烈地照射在物体表面，带有持续且强烈的语感。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8082,
+  "word" : "照り返す",
+  "reading" : "てりかえす",
+  "romaji" : null,
+  "meaning" : [ "反射，反照；（光、热等）强烈反射回来" ],
+  "notes" : [ "表示光线、热量等从物体表面反射回来的状态，主语多为太阳、光线等自然现象。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8083,
+  "word" : "照る",
+  "reading" : "てる",
+  "romaji" : null,
+  "meaning" : [ "照耀，照射；（天气）放晴，晴朗" ],
+  "notes" : [ "基本形为「照る」，否定形「照らない」，过去式「照った」，可能形「照らせる」。常用搭配有「日が照る」（阳光照耀）、「晴れて照る」（放晴后晴朗）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8084,
+  "word" : "照れくさい",
+  "reading" : "てれくさい",
+  "romaji" : null,
+  "meaning" : [ "害羞的，不好意思的，难为情的" ],
+  "notes" : [ "イ形容词，由「照れる」（害羞）和「くさい」（有...感觉）构成的复合形容词，表示感到害羞或难为情的状态。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8085,
+  "word" : "照れる",
+  "reading" : "てれる",
+  "romaji" : null,
+  "meaning" : [ "害羞，难为情，不好意思" ],
+  "notes" : [ "自动词，通常用于表达因他人目光或评价而感到的羞涩情绪。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8086,
+  "word" : "照会",
+  "reading" : "しょうかい",
+  "romaji" : null,
+  "meaning" : [ "询问，查询，打听；（向有关方面）查询，咨询" ],
+  "notes" : [ "「照会」作为サ変动词使用时，常用形式为「照会する」「照会します」「照会した」等。可用于书面语和正式场合，指向相关部门或人员询问信息。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8087,
+  "word" : "照合",
+  "reading" : "しょうごう",
+  "romaji" : null,
+  "meaning" : [ "对照，核对，核对比较（两个以上的事物，确认是否一致）" ],
+  "notes" : [ "「照合する」の形で使用されるサ変動詞。主に書類、データ、情報などの一致性を確認する場合に用いられる。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8088,
+  "word" : "照明",
+  "reading" : "しょうめい",
+  "romaji" : null,
+  "meaning" : [ "照明，灯光，照亮，照明设备" ],
+  "notes" : [ "可作名词使用，也可构成复合词如「照明器具」（照明器具）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8089,
+  "word" : "煩わしい",
+  "reading" : "わずらわしい",
+  "romaji" : null,
+  "meaning" : [ "烦琐的，麻烦的，令人心烦的，复杂的" ],
+  "notes" : [ "イ形容詞。表示事物复杂、麻烦，给人带来精神上的负担或不快感。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8090,
+  "word" : "煮える",
+  "reading" : "にえる",
+  "romaji" : null,
+  "meaning" : [ "（食物等）被煮，煮熟，煮好" ],
+  "notes" : [ "自动词，强调食物在烹饪过程中达到煮熟的状态，主语通常是被煮的食物。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8091,
+  "word" : "煮え切らない",
+  "reading" : "にえきらない",
+  "romaji" : null,
+  "meaning" : [ "暧昧不清，含糊其辞，不明确；犹豫不定，不干脆，不果断" ],
+  "notes" : [ "由动词「煮え切る」（にえきる，煮透，煮烂；明确，果断）的否定形式构成的形容词，用于形容事物状态不明确或人的态度不果断。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8092,
+  "word" : "煮る",
+  "reading" : "にる0",
+  "romaji" : null,
+  "meaning" : [ "煮，炖，熬，煨，焖（将食材放入水中或汤汁中加热至熟）" ],
+  "notes" : [ "基本形「煮る」、过去式「煮た」、否定形「煮らない」、可能形「煮られる」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8093,
+  "word" : "煮詰める",
+  "reading" : "につめる",
+  "romaji" : null,
+  "meaning" : [ "1. 煮干，熬浓；2. 归纳，总结，得出结论；3. 追根究底，彻底追问" ],
+  "notes" : [ "「煮詰める」は料理の場面で液体を煮て濃くする意味と、議論や問題を整理して結論に到達させる意味の両方で使用される。後者の意味では「議論を煮詰める」「問題を煮詰める」などの表現が一般的。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8094,
+  "word" : "煮込む",
+  "reading" : "にこむ",
+  "romaji" : null,
+  "meaning" : [ "炖，煮，熬（将食材放入汤汁中长时间慢煮使其入味）" ],
+  "notes" : [ "「煮込む」强调通过长时间加热使味道渗透到食材内部，通常使用液体（如水、高汤等）进行烹饪。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8095,
+  "word" : "煽てる",
+  "reading" : "あおてる",
+  "romaji" : null,
+  "meaning" : [ "1. 煽动，怂恿；2. 奉承，恭维，给人戴高帽；3. （火）扇旺，烧旺" ],
+  "notes" : [ "他动词。「煽る（あおる）」的可能态或使役态，现代日语中作为独立动词使用，语义较「煽る」更偏向于积极或中性的诱导、怂恿，以及奉承的含义。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8096,
+  "word" : "熊",
+  "reading" : "くま",
+  "romaji" : null,
+  "meaning" : [ "熊，狗熊" ],
+  "notes" : [ "日本では「熊」は冬眠する動物として知られ、熊手（くまで）や熊本県などの言葉にも使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8097,
+  "word" : "熟す",
+  "reading" : "じゅくす",
+  "romaji" : null,
+  "meaning" : [ "1. 成熟，熟成；2. 熟练，精通；3. 煮烂，炖烂" ],
+  "notes" : [ "「熟す」は他动词で、対象を成熟させたり、習熟させたりする意味を持ちます。自動詞の「熟れる（じゅくれる）」と区別して使用してください。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8098,
+  "word" : "熟成",
+  "reading" : "じゅくせい",
+  "romaji" : null,
+  "meaning" : [ "成熟，熟成；（酒、奶酪等的）发酵，陈酿；（技能、人格等的）成熟，完善" ],
+  "notes" : [ "作为サ変動詞使用时，常用「熟成する」的形式；表示食品发酵陈酿时为常用义项" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8099,
+  "word" : "熟成",
+  "reading" : "じゅくせいする",
+  "romaji" : null,
+  "meaning" : [ "发酵，（酒、奶酪等）陈年，成熟，熟成" ],
+  "notes" : [ "「熟成」可作为名词使用，后续接「する」构成サ变动词。表示通过时间的推移使品质提升，常用于食品、酒类、木材等领域。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8100,
+  "word" : "熟知",
+  "reading" : "じゅくち",
+  "romaji" : null,
+  "meaning" : [ "熟悉，熟知，通晓" ],
+  "notes" : [ "「熟知する」の形で动词として使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

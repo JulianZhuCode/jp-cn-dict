@@ -1,0 +1,901 @@
+[ {
+  "id" : 7801,
+  "word" : "添加",
+  "reading" : "てんか",
+  "romaji" : null,
+  "meaning" : [ "添加，加入，附加" ],
+  "notes" : [ "「添加」は主に物質や情報などを追加することを表す書き言葉です。日常会話では「加える」「追加する」などがよく使われます。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7802,
+  "word" : "清い",
+  "reading" : "きよい",
+  "romaji" : null,
+  "meaning" : [ "清澈的；纯洁的；干净的；清廉的" ],
+  "notes" : [ "「清い」は五段活用形容詞です。否定形は「清くない」、過去形は「清かった」です。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7803,
+  "word" : "清らか",
+  "reading" : "きよらか",
+  "romaji" : null,
+  "meaning" : [ "清澈的；纯洁的；清爽的；洁净的" ],
+  "notes" : [ "「清らか」是イ形容词，多用于形容水、空气、心灵等的纯净状态，书面语中使用较多。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7804,
+  "word" : "清掃",
+  "reading" : "せいそう",
+  "romaji" : null,
+  "meaning" : [ "清扫，扫除，清理" ],
+  "notes" : [ "作为サ変动词使用时可加「する」构成动词形式，如「清掃する」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7805,
+  "word" : "清書",
+  "reading" : "せいしょ",
+  "romaji" : null,
+  "meaning" : [ "誊写，抄写清楚；正式誊清的文稿" ],
+  "notes" : [ "作为名词时表示誊写好的文稿，作为动词时表示进行誊写的动作" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7806,
+  "word" : "清水",
+  "reading" : "しみず",
+  "romaji" : null,
+  "meaning" : [ "清水，清泉；清澈的水" ],
+  "notes" : [ "也可作为姓氏使用，读作「しみず」或「きよみず」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7807,
+  "word" : "清涼飲料水",
+  "reading" : "せいりょういんりょうすい",
+  "romaji" : null,
+  "meaning" : [ "清涼感のある飲料水の総称。暑い時などに飲用する、炭酸飲料、果汁飲料、茶系飲料などを含む" ],
+  "notes" : [ "「清涼飲料」と略されることが多い。主に非アルコール飲料を指す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7808,
+  "word" : "清清しい",
+  "reading" : "すがすがしい",
+  "romaji" : null,
+  "meaning" : [ "清澈的，清爽的，神清气爽的" ],
+  "notes" : [ "「清清しい」是形容词「清しい」（すがしい）的强调形式，通过重复词干「清」构成，加强了清澈、清爽的程度。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7809,
+  "word" : "清潔",
+  "reading" : "せいけつ",
+  "romaji" : null,
+  "meaning" : [ "形容詞 清洁的，干净的；名词 清洁，卫生" ],
+  "notes" : [ "「清潔」はナ形容詞としても名詞としても使用できる。ナ形容詞として使う場合は「～だ」「～です」「～な」などの活用形を取る。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7810,
+  "word" : "清濁",
+  "reading" : "せいだく",
+  "romaji" : null,
+  "meaning" : [ "1. （水的）清浊；2. （事物、性质的）善恶，好坏，优劣" ],
+  "notes" : [ "「清濁同流」是常用成语，表示好坏混杂在一起。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7811,
+  "word" : "清算",
+  "reading" : "せいさん",
+  "romaji" : null,
+  "meaning" : [ "1. 结算，清算（金钱、账目等的最终处理）；2. 了结，结束（问题、关系等的彻底解决）；3. （破产时的）清算" ],
+  "notes" : [ "「清算」作为サ变动词使用时，常以「～を清算する」的形式出现，可用于财务、人际关系、历史问题等多个领域。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7812,
+  "word" : "清聴",
+  "reading" : "せいちょう",
+  "romaji" : null,
+  "meaning" : [ "倾听，恭敬地听" ],
+  "notes" : [ "多用于演讲、广播等正式场合，表示对听众的尊敬" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7813,
+  "word" : "渇きます",
+  "reading" : "かわきます",
+  "romaji" : null,
+  "meaning" : [ "口渴，干渴" ],
+  "notes" : [ "「渇く（かわく）」的敬体形式，基本形为「渇く」，表示生理上的口渴或物体干涸。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7814,
+  "word" : "渇く",
+  "reading" : "かわく",
+  "romaji" : null,
+  "meaning" : [ "渴，口渴；渴望，渴求" ],
+  "notes" : [ "自动词，主要表示生理上的口渴或对抽象事物的渴望。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7815,
+  "word" : "済ます",
+  "reading" : "すます",
+  "romaji" : null,
+  "meaning" : [ "1. 做完，完成，处理完；2. 解决，了结；3. 将就，凑合；4. 付清，偿还" ],
+  "notes" : [ "他动词，「済む」的他动形式。常用搭配：～を済ます、～で済ます。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7816,
+  "word" : "済ませます",
+  "reading" : "すませます",
+  "romaji" : null,
+  "meaning" : [ "完成，处理完，解决；付清，偿还" ],
+  "notes" : [ "「済ます」的礼貌形，强调动作的完成或解决" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7817,
+  "word" : "済みます",
+  "reading" : "すみます",
+  "romaji" : null,
+  "meaning" : [ "完成，结束，解决；够用，足够；已付清，已了结" ],
+  "notes" : [ "「済む」的敬体形式，常用于日常会话中表示事情的完成或问题的解决。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7818,
+  "word" : "済む",
+  "reading" : "すむ",
+  "romaji" : null,
+  "meaning" : [ "结束，完了；解决，办妥；足够，过得去；已付款" ],
+  "notes" : [ "自动词，常用「～で済む」表示“用…就能解决”" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7819,
+  "word" : "渋い",
+  "reading" : "しぶい",
+  "romaji" : null,
+  "meaning" : [ "1. 味道涩的；2. （心情）郁闷的，怏怏不乐的；3. （色彩、风格等）素雅的，雅致的；4. （性格、行为）吝啬的，小气的；5. （动作）迟缓的，不敏捷的" ],
+  "notes" : [ "「渋い」是イ形容词，活用形式为「渋かった」「渋く」「渋ければ」「渋さ」等。其含义丰富，根据上下文可表示味觉、心情、风格、性格等不同方面的特征。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7820,
+  "word" : "渋滞",
+  "reading" : "じゅうたい",
+  "romaji" : null,
+  "meaning" : [ "1. （交通）堵塞，拥堵；2. （事物进展）停滞，不顺利，拖延" ],
+  "notes" : [ "可作名词使用，也可后续「する」构成サ变动词使用（渋滞する）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7821,
+  "word" : "渋滞します",
+  "reading" : "じゅうたいします",
+  "romaji" : null,
+  "meaning" : [ "堵车，交通拥堵；停滞，不顺畅" ],
+  "notes" : [ "「渋滞」为名词，「します」为动词「する」的敬体形式，合在一起构成动词性表达。主要用于描述交通堵塞或事物进展不顺利的状态。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7822,
+  "word" : "渚",
+  "reading" : "なぎさ",
+  "romaji" : null,
+  "meaning" : [ "海滨，湖滨，岸边" ],
+  "notes" : [ "常用汉字，指水边陆地，尤指海边或湖边的沙滩、浅滩区域" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7823,
+  "word" : "減らす",
+  "reading" : "へらす",
+  "romaji" : null,
+  "meaning" : [ "减少，降低，缩减，减轻，削减" ],
+  "notes" : [ "他动词，强调人为地使数量、程度等减少。对应的自动词为「減る（へる）」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7824,
+  "word" : "減ります",
+  "reading" : "へります",
+  "romaji" : null,
+  "meaning" : [ "减少，降低，减轻" ],
+  "notes" : [ "「減る」的礼貌形，自动词，表示数量、程度等减少。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7825,
+  "word" : "減る",
+  "reading" : "へる",
+  "romaji" : null,
+  "meaning" : [ "减少，降低；（数量、程度等）变少；（肚子）饿" ],
+  "notes" : [ "自动词，表示事物自身的减少或降低，主语通常为数量、程度、金额等名词。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7826,
+  "word" : "減少",
+  "reading" : "げんしょう",
+  "romaji" : null,
+  "meaning" : [ "减少，降低，下降" ],
+  "notes" : [ "「減少する」はサ変動詞で、自動詞としても他動詞としても使用可能。自動詞の場合は「～が減少する」の形で、他動詞の場合は「～を減少させる」の形で用いる。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7827,
+  "word" : "減点",
+  "reading" : "げんてん",
+  "romaji" : null,
+  "meaning" : [ "减分，扣分（因答案错误、违反规定等从总分中扣除分数）" ],
+  "notes" : [ "可作为名词使用，也可构成「減点する」（动词）的形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7828,
+  "word" : "減給",
+  "reading" : "げんきゅう",
+  "romaji" : null,
+  "meaning" : [ "减薪，降低工资" ],
+  "notes" : [ "「減給」は名詞としても使用され、「サ変動詞」としても活用します。例えば「減給する」「減給になる」などの形で使われます。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7829,
+  "word" : "減退",
+  "reading" : "げんたい",
+  "romaji" : null,
+  "meaning" : [ "减退，衰退，降低，减弱" ],
+  "notes" : [ "「減退」は主に能力、機能、数量、状態などが低下することを表す。動詞として使用する場合は「減退する」の形で用いる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7830,
+  "word" : "減量",
+  "reading" : "げんりょう",
+  "romaji" : null,
+  "meaning" : [ "分量减少；减轻体重，减肥" ],
+  "notes" : [ "「減量する」の形で動詞として使用される。体重を減らす意味でよく使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7831,
+  "word" : "減額",
+  "reading" : "げんがく",
+  "romaji" : null,
+  "meaning" : [ "减少金额，减额" ],
+  "notes" : [ "可作サ変動詞使用，构成「減額する」的形式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7832,
+  "word" : "渡します",
+  "reading" : "わたします",
+  "romaji" : null,
+  "meaning" : [ "交给，传递，渡过，交出" ],
+  "notes" : [ "「渡す」的ます形，他动词。表示将某物交给对方，或从一边移动到另一边。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7833,
+  "word" : "渡す",
+  "reading" : "わたす",
+  "romaji" : null,
+  "meaning" : [ "交给，传递，让渡，渡过" ],
+  "notes" : [ "他动词，基本形为「渡す」，过去式「渡した」，否定形「渡さない」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7834,
+  "word" : "渡ります",
+  "reading" : "わたります",
+  "romaji" : null,
+  "meaning" : [ "过，渡，渡（河、桥等）；传递，交给；度日，生活" ],
+  "notes" : [ "「渡ります」是动词「渡る」的ます形，基本形为「渡る」（わたる）。表示从一方移动到另一方，或传递物品，也可表示生活方式。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7835,
+  "word" : "渡り鳥",
+  "reading" : "わたりどり",
+  "romaji" : null,
+  "meaning" : [ "候鸟，指随季节变化而迁徙的鸟类" ],
+  "notes" : [ "由「渡る」（わたる，迁徙）和「鳥」（とり，鸟）组合而成的复合名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7836,
+  "word" : "渡る",
+  "reading" : "わたる",
+  "romaji" : null,
+  "meaning" : [ "1. 渡，过（河、桥等）；2. 经过，通过（时间、空间）；3. 遍及，达到；4. 交给，传递" ],
+  "notes" : [ "自动词，常用「～を渡る」的形式表示“渡过……”或“遍及……”" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7837,
+  "word" : "渦",
+  "reading" : "うず",
+  "romaji" : null,
+  "meaning" : [ "漩涡；混乱状态，漩涡状的事物" ],
+  "notes" : [ "可用于比喻陷入混乱或复杂的局面" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7838,
+  "word" : "温い",
+  "reading" : "あたたかい",
+  "romaji" : null,
+  "meaning" : [ "微温的，不烫的；温暖的；温和的，亲切的；富裕的，宽裕的" ],
+  "notes" : [ "「温かい」是更常用的表记方式，「温い」为其略写形式，二者意义相同。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7839,
+  "word" : "温まる",
+  "reading" : "あたたまる",
+  "romaji" : null,
+  "meaning" : [ "（自動詞）1. 变得暖和，变暖；2. （身体、心情等）感到温暖，感到暖和" ],
+  "notes" : [ "「温まる」は自動詞で、「暖まる」と同じ意味で使用されることが多い。温度が上がることや、感覚的に暖かくなることを表す。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7840,
+  "word" : "温めます",
+  "reading" : "あたためます",
+  "romaji" : null,
+  "meaning" : [ "加热，温热，使变暖" ],
+  "notes" : [ "「温める」的礼貌形，他动词，用于表示对物体进行加热或使温度升高的动作" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7841,
+  "word" : "温める/暖める",
+  "reading" : "あたためる",
+  "romaji" : null,
+  "meaning" : [ "加热，使温暖，温（酒等），复习（知识等）" ],
+  "notes" : [ "「温める」和「暖める」为同义词，可互换使用。前者更侧重于温度的升高，后者更侧重于带来温暖的感觉。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7842,
+  "word" : "温厚",
+  "reading" : "おんこう",
+  "romaji" : null,
+  "meaning" : [ "温和宽厚，性格温和且待人宽容" ],
+  "notes" : [ "书面语，用于形容人性格温和、待人宽厚" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7843,
+  "word" : "温和",
+  "reading" : "おんわ",
+  "romaji" : null,
+  "meaning" : [ "1. 气温、气候等温暖宜人；2. 性格、态度等温和，不严厉，温柔；3. 政策、措施等平和，不极端" ],
+  "notes" : [ "「温和」是和语形容词，但现代日语中常作为形容动词使用，词尾变化遵循形容动词规则。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7844,
+  "word" : "温室",
+  "reading" : "おんしつ",
+  "romaji" : null,
+  "meaning" : [ "名词 温室，暖房（用于栽培植物等的、能调节温度的建筑物）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7845,
+  "word" : "温室効果ガス",
+  "reading" : "おんしつこうかガス",
+  "romaji" : null,
+  "meaning" : [ "温室效应气体，指大气中能吸收地面反射的长波辐射，并重新发射辐射的一些气体，如水蒸气、二氧化碳、大部分制冷剂等" ],
+  "notes" : [ "「温室効果」（おんしつこうか）指温室效应，加上「ガス」后构成复合名词，指具有温室效应的气体" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7846,
+  "word" : "温度",
+  "reading" : "おんど",
+  "romaji" : null,
+  "meaning" : [ "物体の冷たさや暖かさの程度を表す物理量。単位として摂氏(℃)や華氏(°F)、ケルビン(K)などが用いられる。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7847,
+  "word" : "温暖",
+  "reading" : "おんだん",
+  "romaji" : null,
+  "meaning" : [ "形容動詞。温度や気候が適度に暖かいこと、または人の心や態度が優しく暖かいことを表す。" ],
+  "notes" : [ "「温暖」は主に書き言葉で使用されることが多い。人の心を表す場合は「温かい」よりもややフォーマルな表現。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7848,
+  "word" : "温泉",
+  "reading" : "おんせん",
+  "romaji" : null,
+  "meaning" : [ "温泉，从地下涌出的温度较高的泉水，常被用于泡澡、疗养等" ],
+  "notes" : [ "通常指自然涌出的温泉，人工加热的热水一般不称为温泉" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7849,
+  "word" : "温泉地",
+  "reading" : "おんせんち",
+  "romaji" : null,
+  "meaning" : [ "温泉胜地，有温泉的地方" ],
+  "notes" : [ "指以温泉为主要特色的地区或城镇，通常配备温泉设施和相关旅游服务" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7850,
+  "word" : "測る",
+  "reading" : "はかる",
+  "romaji" : null,
+  "meaning" : [ "测量，测定；推测，揣摩" ],
+  "notes" : [ "「測る」可用于具体的物理量测量，也可用于抽象的心理、意图等的推测。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7851,
+  "word" : "測る/量る",
+  "reading" : "はかる",
+  "romaji" : null,
+  "meaning" : [ "丈量，测量；推测，揣度；衡量，评估" ],
+  "notes" : [ "「測る」多用于测量抽象事物或进行推测，「量る」多用于测量具体的长度、重量等物理量，两者在很多情况下可以互换使用，但存在细微差别。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7852,
+  "word" : "測定",
+  "reading" : "そくてい",
+  "romaji" : null,
+  "meaning" : [ "测定，测量，对物体的长度、重量、温度、速度等进行数值化的测定" ],
+  "notes" : [ "作为名词使用时可构成「測定器」「測定結果」等复合词；作为サ変动词使用时需与「する」结合，如「測定する」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7853,
+  "word" : "港",
+  "reading" : "みなと",
+  "romaji" : null,
+  "meaning" : [ "名词 港口，港湾，码头" ],
+  "notes" : [ "常用汉字，可用于表示具体港口或港湾区域" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7854,
+  "word" : "湖",
+  "reading" : "みずうみ",
+  "romaji" : null,
+  "meaning" : [ "湖泊，湖" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7855,
+  "word" : "湖面",
+  "reading" : "こめん",
+  "romaji" : null,
+  "meaning" : [ "湖水的表面，湖面" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7856,
+  "word" : "湧き上がる",
+  "reading" : "わきあがる",
+  "romaji" : null,
+  "meaning" : [ "（水、泉等）涌出，冒出；（感情、记忆等）涌起，涌现；（人群、声音等）沸腾，高涨" ],
+  "notes" : [ "自动词，强调从下向上的动态过程，可用于具体事物和抽象情感的表达" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7857,
+  "word" : "湧き出る",
+  "reading" : "わきでる",
+  "romaji" : null,
+  "meaning" : [ "（液体、气体、情感等）涌出，冒出，涌现" ],
+  "notes" : [ "自动词，表示从内部向外部自然地流出或涌现的状态" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7858,
+  "word" : "湧く",
+  "reading" : "わく",
+  "romaji" : null,
+  "meaning" : [ "1. 涌现，产生（感情、想法等）；2. 涌出，冒出（液体、气体等）；3. （水等）涌出，喷出" ],
+  "notes" : [ "自动词，主要用于表示抽象事物的产生或具体物质的自然涌出。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7859,
+  "word" : "湯",
+  "reading" : "ゆ",
+  "romaji" : null,
+  "meaning" : [ "热水；开水；洗澡水；浴池，澡堂" ],
+  "notes" : [ "「湯」通常指热水或洗澡相关的水，与「水」（冷水）相对。在温泉相关语境中也常用，如「温泉の湯」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7860,
+  "word" : "湯呑み",
+  "reading" : "ゆのみ",
+  "romaji" : null,
+  "meaning" : [ "茶碗，茶杯（主要指用来喝茶或热水的小杯子）" ],
+  "notes" : [ "通常指没有把手的小茶杯，与有把手的「カップ」有所区别" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7861,
+  "word" : "湯気",
+  "reading" : "ゆげ",
+  "romaji" : null,
+  "meaning" : [ "水蒸气，热气，热水或热饮等产生的白色雾气" ],
+  "notes" : [ "通常指热水、热饮等产生的白色水蒸气，与「水蒸気」相比更侧重于日常可见的热气现象" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7862,
+  "word" : "湯沸かし",
+  "reading" : "ゆわかし",
+  "romaji" : null,
+  "meaning" : [ "烧水壶，煮水器" ],
+  "notes" : [ "通常指电热水壶，也可指其他类型的煮水器具" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7863,
+  "word" : "湯飲み",
+  "reading" : "ゆのみ",
+  "romaji" : null,
+  "meaning" : [ "茶杯，茶碗（用于饮用热水、茶等的杯子）" ],
+  "notes" : [ "通常指无柄的陶瓷茶杯，多用于日式茶道或日常饮用热茶" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7864,
+  "word" : "湿る",
+  "reading" : "しめる",
+  "romaji" : null,
+  "meaning" : [ "变潮湿，受潮，湿润" ],
+  "notes" : [ "自动词，主要表示物体表面或整体变得潮湿的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7865,
+  "word" : "湿原",
+  "reading" : "しつげん",
+  "romaji" : null,
+  "meaning" : [ "沼泽地，湿地，泥炭地" ],
+  "notes" : [ "指地表长期湿润、生长着水生植物的低洼地带，也特指泥炭层较厚的湿地生态系统。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7866,
+  "word" : "湿度",
+  "reading" : "しつど",
+  "romaji" : null,
+  "meaning" : [ "空気中に含まれる水蒸気の量。空気が水蒸気で飽和している割合を示すもの。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7867,
+  "word" : "湿気",
+  "reading" : "しっけ",
+  "romaji" : null,
+  "meaning" : [ "湿气，潮气，湿度" ],
+  "notes" : [ "通常指空气中含有的水分或物体表面的潮湿状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7868,
+  "word" : "湿気る",
+  "reading" : "しめける",
+  "romaji" : null,
+  "meaning" : [ "受潮，变得潮湿；（空气中）湿度增加，变得湿润" ],
+  "notes" : [ "自动词，强调物体自身吸收水分或环境变得潮湿的状态变化。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7869,
+  "word" : "満たす",
+  "reading" : "みたす",
+  "romaji" : null,
+  "meaning" : [ "1. 充满，填满；2. 满足，使满意；3. 履行，完成（义务等）" ],
+  "notes" : [ "他动词，基本形「満たす」，过去式「満たした」，否定形「満たさない」，可能形「満たせる」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7870,
+  "word" : "満ちる",
+  "reading" : "みちる",
+  "romaji" : null,
+  "meaning" : [ "1. 满，充满；2. 到期，期满；3. 月圆，盈满" ],
+  "notes" : [ "自动词，表示自然充满或时间到来，对应的他动词为「満たす」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7871,
+  "word" : "満員",
+  "reading" : "まんいん",
+  "romaji" : null,
+  "meaning" : [ "满员；人员已满；座位全部坐满" ],
+  "notes" : [ "通常指交通工具、会场、座位等空间内人员达到最大容量。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7872,
+  "word" : "満喫",
+  "reading" : "まんきつ",
+  "romaji" : null,
+  "meaning" : [ "1. 充分品尝，饱尝；2. 充分享受，尽情领略" ],
+  "notes" : [ "「満喫する」の形で使用されるサ変動詞。食事や飲み物だけでなく、景色や時間、経験など広く「十分に楽しむ」意味で使われる。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7873,
+  "word" : "満場",
+  "reading" : "まんじょう",
+  "romaji" : null,
+  "meaning" : [ "全场，满场，满堂（指集会、活动等场合中所有在场的人）" ],
+  "notes" : [ "通常与「一致」「拍手」「喝采」等词搭配使用，表示全体在场人员的共同反应或状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7874,
+  "word" : "満室",
+  "reading" : "まんしつ",
+  "romaji" : null,
+  "meaning" : [ "房间已满，无空房间，满员" ],
+  "notes" : [ "通常用于表示酒店、电影院、会议室等场所的房间或座位全部被占用的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7875,
+  "word" : "満席",
+  "reading" : "まんせき",
+  "romaji" : null,
+  "meaning" : [ "满座，没有空座位；所有座位都被占用的状态" ],
+  "notes" : [ "可用于表示电影院、剧院、会场等场所座位全部坐满的情况，常与「だ」「です」等连用构成谓语，或作为定语修饰名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7876,
+  "word" : "満月",
+  "reading" : "まんげつ",
+  "romaji" : null,
+  "meaning" : [ "满月，圆月（指月亮圆满的状态或该时刻的月亮）" ],
+  "notes" : [ "天文学上指月球与太阳处于地球两侧，月面完全被照亮的状态，通常每月一次。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7877,
+  "word" : "満点",
+  "reading" : "まんてん",
+  "romaji" : null,
+  "meaning" : [ "1. 满分；2. 完美无缺，无可挑剔" ],
+  "notes" : [ "常用搭配：満点を取る（得满分）、満点の評価（满分评价）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7878,
+  "word" : "満足",
+  "reading" : "まんぞく",
+  "romaji" : null,
+  "meaning" : [ "名詞：満足感。欲望や要求が十分に満たされた状態。形容動詞：欲望や要求が十分に満たされているさま。満足している。" ],
+  "notes" : [ "「満足」は名詞としても形容動詞としても使用される。形容動詞として使う場合は、「～です」「～な」「～に」などの活用形を取る。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7879,
+  "word" : "満載",
+  "reading" : "まんさい",
+  "romaji" : null,
+  "meaning" : [ "1. （交通工具等）满载，满员；2. （事物）充满，装满" ],
+  "notes" : [ "「満載する」是其动词用法，作为サ変動詞使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7880,
+  "word" : "満開",
+  "reading" : "まんかい",
+  "romaji" : null,
+  "meaning" : [ "（花等）盛开，怒放；（状态等）达到顶峰，全盛" ],
+  "notes" : [ "通常作名词使用，可后续「だ/です」作谓语，或修饰名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7881,
+  "word" : "源",
+  "reading" : "みなもと",
+  "romaji" : null,
+  "meaning" : [ "1. 发源地，源头；2. 起源，根源；3. 源流，水源；4. 家世，门第" ],
+  "notes" : [ "常用汉字，可用于构成复合词如「源流」「源氏」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7882,
+  "word" : "準じる",
+  "reading" : "じゅんじる",
+  "romaji" : null,
+  "meaning" : [ "以……为标准；按照……处理；依照；遵循" ],
+  "notes" : [ "常用「～に準じて」的形式，表示按照前项标准或方式进行处理。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7883,
+  "word" : "準備",
+  "reading" : "じゅんび",
+  "romaji" : null,
+  "meaning" : [ "准备，预备；准备工作，准备好的东西" ],
+  "notes" : [ "可作名词使用，也可构成サ变动词「準備する」（する型活用）。作为名词时常用「～の準備」「準備ができる」等表达方式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7884,
+  "word" : "準備運動",
+  "reading" : "じゅんびうんどう",
+  "romaji" : null,
+  "meaning" : [ "运动前进行的、为了预防受伤和提高运动效果的身体活动" ],
+  "notes" : [ "由「準備」(准备)和「運動」(运动)复合而成的名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7885,
+  "word" : "溜まる",
+  "reading" : "たまる",
+  "romaji" : null,
+  "meaning" : [ "积攒，积存；积压，停滞；（液体等）淤积，潴留" ],
+  "notes" : [ "自动词，表示事物自然积聚或停滞的状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7886,
+  "word" : "溜める",
+  "reading" : "ためる",
+  "romaji" : null,
+  "meaning" : [ "积攒，积蓄；积压，停滞；忍住，憋住" ],
+  "notes" : [ "他动词，「溜まる」（たまる）的他动词形式，基本形「溜める」，ます形「溜めます」，过去式「溜めた」，否定形「溜めない」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7887,
+  "word" : "溝",
+  "reading" : "みぞ",
+  "romaji" : null,
+  "meaning" : [ "水沟，沟渠；槽，沟槽；（人与人之间的）隔阂，鸿沟" ],
+  "notes" : [ "常用汉字，可用于表示物理上的沟或抽象的隔阂" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7888,
+  "word" : "溢れる",
+  "reading" : "あふれる",
+  "romaji" : null,
+  "meaning" : [ "（液体等）溢出，满溢；（人、物等）挤满，充满；洋溢，充满（某种情感或特质）" ],
+  "notes" : [ "自动词，通常表示自然发生的溢出或充满状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7889,
+  "word" : "溶かす",
+  "reading" : "とかす",
+  "romaji" : null,
+  "meaning" : [ "溶解，溶化；使熔化，使融化；使消失，使消除" ],
+  "notes" : [ "他动词，对应的自动词为「溶ける」（とける）" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7890,
+  "word" : "溶く",
+  "reading" : "とく",
+  "romaji" : null,
+  "meaning" : [ "调拌，调开，溶解；使融化，使熔化" ],
+  "notes" : [ "「溶かす」の古い形で、主に液体と混ぜ合わせる意味で使用される。料理の文脈でよく使われる。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7891,
+  "word" : "溶ける",
+  "reading" : "とける",
+  "romaji" : null,
+  "meaning" : [ "1. 融化，溶解；2. 消融，消失；3. 融洽，融入" ],
+  "notes" : [ "自动词，表示固体因受热或遇液体等而变成液体状态，或抽象事物的消失、融入等。对应的他动词为「溶かす」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7892,
+  "word" : "溶け込む",
+  "reading" : "とけこむ",
+  "romaji" : null,
+  "meaning" : [ "1. 溶解，融化；2. 融入，融合，融洽地相处" ],
+  "notes" : [ "自动词，强调自然地融入或溶解的过程" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7893,
+  "word" : "溶岩",
+  "reading" : "ようがん",
+  "romaji" : null,
+  "meaning" : [ "熔岩，从火山口流出的熔融岩石冷却后形成的岩石" ],
+  "notes" : [ "「溶岩」通常指冷却凝固后的岩石，而「マグマ」指地下的熔融状态物质。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7894,
+  "word" : "溶液",
+  "reading" : "ようえき",
+  "romaji" : null,
+  "meaning" : [ "（物理、化学用语）两种或两种以上的物质混合形成的均匀稳定的分散体系，由溶质和溶剂组成" ],
+  "notes" : [ "常用化学术语，指溶质溶解于溶剂后形成的均一混合物" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7895,
+  "word" : "溺れる",
+  "reading" : "おぼれる",
+  "romaji" : null,
+  "meaning" : [ "溺水，淹没；沉溺于，专心致志于" ],
+  "notes" : [ "自动词，「～に溺れる」表示沉溺于某事物" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7896,
+  "word" : "溺愛",
+  "reading" : "できあい",
+  "romaji" : null,
+  "meaning" : [ "过分宠爱，溺爱" ],
+  "notes" : [ "「溺愛する」の形で动词として使用されることが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7897,
+  "word" : "滅びる",
+  "reading" : "ほろびる",
+  "romaji" : null,
+  "meaning" : [ "灭亡，灭绝，消亡，毁灭，消失" ],
+  "notes" : [ "自動詞で、主体が自然にまたは外部の力によって存在しなくなることを表す。「滅ぶ（ほろぶ）」の他動詞形も存在する。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7898,
+  "word" : "滅ぼす",
+  "reading" : "ほろぼす",
+  "romaji" : null,
+  "meaning" : [ "毁灭，使灭亡，消灭，灭绝" ],
+  "notes" : [ "他动词。「滅びる」的他动形式。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7899,
+  "word" : "滅亡",
+  "reading" : "めつぼう",
+  "romaji" : null,
+  "meaning" : [ "灭亡，灭绝，覆灭" ],
+  "notes" : [ "「滅亡する」の形で动词として使用することが多い。主に国家や文明、種族など大きなものが完全に消滅することを表す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7900,
+  "word" : "滑らか",
+  "reading" : "なめらか",
+  "romaji" : null,
+  "meaning" : [ "1. 光滑的，滑溜溜的；2. 流利的，流畅的；3. 顺利的，顺畅的" ],
+  "notes" : [ "「滑らか」是形容詞，主要用于描述表面光滑、动作流畅或过程顺利等状态。其活用形式遵循な形容詞的规则，如否定形为「滑らかではない」，連体形为「滑らかな」等。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+} ]

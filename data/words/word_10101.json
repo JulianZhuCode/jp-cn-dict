@@ -1,0 +1,901 @@
+[ {
+  "id" : 10101,
+  "word" : "試行",
+  "reading" : "しこう",
+  "romaji" : null,
+  "meaning" : [ "试行，试验；尝试，试行某项政策、方法等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10102,
+  "word" : "試食",
+  "reading" : "ししょく",
+  "romaji" : null,
+  "meaning" : [ "品尝；试吃" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10103,
+  "word" : "試飲",
+  "reading" : "しいん",
+  "romaji" : null,
+  "meaning" : [ "尝试饮用；试喝" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10104,
+  "word" : "試飲会",
+  "reading" : "しいんかい",
+  "romaji" : null,
+  "meaning" : [ "品尝会，试饮会" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10105,
+  "word" : "試験",
+  "reading" : "しけん",
+  "romaji" : null,
+  "meaning" : [ "考试，测验；试验，测试" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10106,
+  "word" : "詩",
+  "reading" : "し",
+  "romaji" : null,
+  "meaning" : [ "诗，诗歌" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10107,
+  "word" : "詩人",
+  "reading" : "しじん",
+  "romaji" : null,
+  "meaning" : [ "诗人" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10108,
+  "word" : "詩集",
+  "reading" : "ししゅう",
+  "romaji" : null,
+  "meaning" : [ "诗集，诗歌集" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10109,
+  "word" : "詫びる",
+  "reading" : "わびる",
+  "romaji" : null,
+  "meaning" : [ "道歉；赔不是；谢罪；表示歉意；申辩，辩解" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10110,
+  "word" : "詰まる",
+  "reading" : "つまる",
+  "romaji" : null,
+  "meaning" : [ "1. 塞满，挤满，堆满；2. 堵塞，不通；3. （事情）停顿，停滞；4. 集中，凝聚；5. 花费（时间、金钱等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10111,
+  "word" : "詰めかける",
+  "reading" : "つめかける",
+  "romaji" : null,
+  "meaning" : [ "①拥上来，蜂拥而至；②紧接着，一个接一个地；③逼近，迫近" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10112,
+  "word" : "詰める",
+  "reading" : "つめる",
+  "romaji" : null,
+  "meaning" : [ "1. 装，装填，装入；2. 挤满，塞满；3. 缩短，缩减；4. 整理，收拾；5. 凑齐，凑足" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10113,
+  "word" : "詰め合わせる",
+  "reading" : "つめあわせる",
+  "romaji" : null,
+  "meaning" : [ "1. 混装，把（水果、食品等）混着装在一起；2. 汇集，集合，凑齐" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10114,
+  "word" : "詰め込む",
+  "reading" : "つめこむ",
+  "romaji" : null,
+  "meaning" : [ "1. 塞进，装入，装填；2. 挤满，塞满；3. 灌输，强行教给" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10115,
+  "word" : "詰る",
+  "reading" : "せつる",
+  "romaji" : null,
+  "meaning" : [ "1. 责问，责备，责难；2. 逼问；3. 使陷入困境；4. 结算，清账；5. 填满，塞满" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10116,
+  "word" : "話",
+  "reading" : "はなし",
+  "romaji" : null,
+  "meaning" : [ "话；谈话；话题；故事；传闻" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10117,
+  "word" : "話しかける",
+  "reading" : "はなしかける",
+  "romaji" : null,
+  "meaning" : [ "主动搭话，主动打招呼；开始交谈" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10118,
+  "word" : "話します",
+  "reading" : "はなします",
+  "romaji" : null,
+  "meaning" : [ "讲，说；谈话，交谈；讲述，叙述" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10119,
+  "word" : "話し合い",
+  "reading" : "はなしあい",
+  "romaji" : null,
+  "meaning" : [ "协商，商谈；互相交谈，交流意见" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10120,
+  "word" : "話し合う",
+  "reading" : "はなしあう",
+  "romaji" : null,
+  "meaning" : [ "1. 互相交谈，谈话；2. 商量，协商，讨论" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10121,
+  "word" : "話し声",
+  "reading" : "はなしごえ",
+  "romaji" : null,
+  "meaning" : [ "说话的声音；嗓音" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10122,
+  "word" : "話し掛ける",
+  "reading" : "はなしかける",
+  "romaji" : null,
+  "meaning" : [ "主动搭话，主动打招呼；刚要开口说话" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10123,
+  "word" : "話し相手",
+  "reading" : "はなしあいて",
+  "romaji" : null,
+  "meaning" : [ "说话对象，谈话对象，交谈对象" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10124,
+  "word" : "話し言葉",
+  "reading" : "はなしことば",
+  "romaji" : null,
+  "meaning" : [ "口语；口头语言" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10125,
+  "word" : "話し込む",
+  "reading" : "はなしこむ",
+  "romaji" : null,
+  "meaning" : [ "1. 谈得入迷，说得起劲；2. 深入交谈，详细商量；3. 劝诱，说服" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10126,
+  "word" : "話す",
+  "reading" : "はなす",
+  "romaji" : null,
+  "meaning" : [ "说，讲；谈话，交谈；讲述，叙述；说（某种语言）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10127,
+  "word" : "話題",
+  "reading" : "わだい",
+  "romaji" : null,
+  "meaning" : [ "话题；论题；题目" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10128,
+  "word" : "該当",
+  "reading" : "がいとう",
+  "romaji" : null,
+  "meaning" : [ "符合，适合；相当，相称" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10129,
+  "word" : "詳しい",
+  "reading" : "くわしい",
+  "romaji" : null,
+  "meaning" : [ "详细的；精通的，熟悉的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10130,
+  "word" : "詳細",
+  "reading" : "しょうさい",
+  "romaji" : null,
+  "meaning" : [ "详细；详情" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10131,
+  "word" : "誂える",
+  "reading" : "たのまえる",
+  "romaji" : null,
+  "meaning" : [ "① 定做；定制 ② 邀请；约请" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10132,
+  "word" : "誇り",
+  "reading" : "ほこり",
+  "romaji" : null,
+  "meaning" : [ "骄傲，自豪；自尊心；荣誉，名誉；值得骄傲的人或事物" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10133,
+  "word" : "誇る",
+  "reading" : "ほこる",
+  "romaji" : null,
+  "meaning" : [ "夸耀；以……为荣，为……感到自豪；自吹自擂；显示，展现" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10134,
+  "word" : "誇張",
+  "reading" : "こちょう",
+  "romaji" : null,
+  "meaning" : [ "夸张，夸大；夸张的话，夸大的说法" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10135,
+  "word" : "認める",
+  "reading" : "みとめる",
+  "romaji" : null,
+  "meaning" : [ "承认；认可；认为；断定；赏识；看重" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10136,
+  "word" : "認定",
+  "reading" : "にんてい",
+  "romaji" : null,
+  "meaning" : [ "官方等对资格、能力、事实等的认可、认定" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10137,
+  "word" : "認知症",
+  "reading" : "にんちしょう",
+  "romaji" : null,
+  "meaning" : [ "因脑部器质性病变或机能衰退而导致的认知功能障碍疾病，通常表现为记忆力减退、思考能力下降等，即痴呆症。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10138,
+  "word" : "認識",
+  "reading" : "にんしき",
+  "romaji" : null,
+  "meaning" : [ "认识；认知；了解；识别" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10139,
+  "word" : "誓う",
+  "reading" : "ちかう",
+  "romaji" : null,
+  "meaning" : [ "发誓，立誓；起誓保证；断言，肯定" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10140,
+  "word" : "誓約",
+  "reading" : "せいやく",
+  "romaji" : null,
+  "meaning" : [ "誓约，起誓；约定，契约" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10141,
+  "word" : "誕生",
+  "reading" : "たんじょう",
+  "romaji" : null,
+  "meaning" : [ "出生，诞生；（组织、机构等的）成立，创办" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10142,
+  "word" : "誕生日",
+  "reading" : "たんじょうび",
+  "romaji" : null,
+  "meaning" : [ "生日，诞辰" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10143,
+  "word" : "誕生する",
+  "reading" : "たんじょうする",
+  "romaji" : null,
+  "meaning" : [ "诞生；产生" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10144,
+  "word" : "誘います",
+  "reading" : "さそいます",
+  "romaji" : null,
+  "meaning" : [ "邀请，约请；引诱，诱惑；引起，引发" ],
+  "notes" : [ "「誘う」的ます形。五段动词在变形时需要注意词尾变化。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10145,
+  "word" : "誘い合わせる",
+  "reading" : "さそいあわせる",
+  "romaji" : null,
+  "meaning" : [ "互相邀请；相约" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10146,
+  "word" : "誘う",
+  "reading" : "さそう",
+  "romaji" : null,
+  "meaning" : [ "1. 邀请；2. 引诱，诱发；3. 引起，引发；4. 招引，吸引" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10147,
+  "word" : "誘導",
+  "reading" : "ゆうどう",
+  "romaji" : null,
+  "meaning" : [ "引导，诱导；（物理等领域的）感应；（文章等的）推导，推论；（体育比赛等中的）战术引导" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10148,
+  "word" : "誘惑",
+  "reading" : "ゆうわく",
+  "romaji" : null,
+  "meaning" : [ "诱惑；引诱；诱惑物" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10149,
+  "word" : "誘拐",
+  "reading" : "ゆうかい",
+  "romaji" : null,
+  "meaning" : [ "拐骗，诱拐；绑架" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10150,
+  "word" : "語り合う",
+  "reading" : "かたりあう",
+  "romaji" : null,
+  "meaning" : [ "互相交谈；互相商量；倾诉" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10151,
+  "word" : "語る",
+  "reading" : "かたる",
+  "romaji" : null,
+  "meaning" : [ "讲述，谈；说（某种语言）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10152,
+  "word" : "語句",
+  "reading" : "ごく",
+  "romaji" : null,
+  "meaning" : [ "语句；词句；字词；词语" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10153,
+  "word" : "語学",
+  "reading" : "ごがく",
+  "romaji" : null,
+  "meaning" : [ "语言学；外语" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10154,
+  "word" : "語彙",
+  "reading" : "ごい",
+  "romaji" : null,
+  "meaning" : [ "词汇；语汇" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10155,
+  "word" : "語源",
+  "reading" : "ごげん",
+  "romaji" : null,
+  "meaning" : [ "（词语等的）语源，词源" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10156,
+  "word" : "誠に",
+  "reading" : "まことに",
+  "romaji" : null,
+  "meaning" : [ "实在，的确；非常，十分" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10157,
+  "word" : "誠実",
+  "reading" : "せいじつ",
+  "romaji" : null,
+  "meaning" : [ "诚实，真诚；老实，忠厚" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10158,
+  "word" : "誠意",
+  "reading" : "せいい",
+  "romaji" : null,
+  "meaning" : [ "诚意；诚恳，真心实意" ],
+  "notes" : [ "「誠意」在日语中常用于表达真诚的态度、心意等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10159,
+  "word" : "誤り",
+  "reading" : "あやまり",
+  "romaji" : null,
+  "meaning" : [ "错误；差错；失误" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10160,
+  "word" : "誤る",
+  "reading" : "あやまる",
+  "romaji" : null,
+  "meaning" : [ "错，弄错；失误；耽误，贻误；违背，背离" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10161,
+  "word" : "誤解",
+  "reading" : "ごかい",
+  "romaji" : null,
+  "meaning" : [ "误解，误会" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10162,
+  "word" : "説",
+  "reading" : "せつ",
+  "romaji" : null,
+  "meaning" : [ "1. 学说；2. 说法，论点；3. 主张，意见" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10163,
+  "word" : "説く",
+  "reading" : "せつく",
+  "romaji" : null,
+  "meaning" : [ "①解释，说明；②劝说；③提倡，主张" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10164,
+  "word" : "説得",
+  "reading" : "せっとく",
+  "romaji" : null,
+  "meaning" : [ "说服；劝服；劝导" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10165,
+  "word" : "説教",
+  "reading" : "せっきょう",
+  "romaji" : null,
+  "meaning" : [ "说教；教诲；讲道" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10166,
+  "word" : "説明",
+  "reading" : "せつめい",
+  "romaji" : null,
+  "meaning" : [ "说明，解释；说明内容，解释内容" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10167,
+  "word" : "説明します",
+  "reading" : "せつめいします",
+  "romaji" : null,
+  "meaning" : [ "说明；解释；讲解" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10168,
+  "word" : "説明書",
+  "reading" : "せつめいしょ0",
+  "romaji" : null,
+  "meaning" : [ "说明书；使用手册；解说书" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10169,
+  "word" : "読みます",
+  "reading" : "よみます",
+  "romaji" : null,
+  "meaning" : [ "读；阅读；念；朗读；解读；理解" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10170,
+  "word" : "読み上げる",
+  "reading" : "よみあげる",
+  "romaji" : null,
+  "meaning" : [ "大声朗读；读完，念完；读出（电子设备等以语音形式输出信息）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10171,
+  "word" : "読み取る",
+  "reading" : "よみとる",
+  "romaji" : null,
+  "meaning" : [ "读取；读懂，领会，看明白；听出（某种情感等）；看出（某种迹象等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10172,
+  "word" : "読み方",
+  "reading" : "よみかた",
+  "romaji" : null,
+  "meaning" : [ "念法，读法；（文字等的）读法，念法；（对事物的）理解方式，看法" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10173,
+  "word" : "読み返す",
+  "reading" : "よみかえす",
+  "romaji" : null,
+  "meaning" : [ "重新读；重读；再读；反复读；重新看；回看" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10174,
+  "word" : "読書",
+  "reading" : "どくしょ",
+  "romaji" : null,
+  "meaning" : [ "读书；看书；阅读" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10175,
+  "word" : "読者",
+  "reading" : "どくしゃ",
+  "romaji" : null,
+  "meaning" : [ "读者；（书籍、杂志等的）读者群" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10176,
+  "word" : "読解",
+  "reading" : "どくかい",
+  "romaji" : null,
+  "meaning" : [ "阅读理解；阅读并理解" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10177,
+  "word" : "課する",
+  "reading" : "かする",
+  "romaji" : null,
+  "meaning" : [ "1. 使负担（费用、任务等）；2. 使担任（职务等）；3. 课（税等）；4. 规定，设定（条件等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10178,
+  "word" : "課外",
+  "reading" : "かがい",
+  "romaji" : null,
+  "meaning" : [ "课外，课堂以外" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10179,
+  "word" : "課税",
+  "reading" : "かぜい",
+  "romaji" : null,
+  "meaning" : [ "对物品、所得等课征税金；征税。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10180,
+  "word" : "課長",
+  "reading" : "かちょう",
+  "romaji" : null,
+  "meaning" : [ "课长，科长（企业、政府机关等组织内的中层管理人员职位）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10181,
+  "word" : "課題",
+  "reading" : "かだい",
+  "romaji" : null,
+  "meaning" : [ "1. （学校等布置的）课题，作业；2. （工作等中的）任务，难题" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10182,
+  "word" : "調べます",
+  "reading" : "しらべます",
+  "romaji" : null,
+  "meaning" : [ "调查；查找；打听；查看；研究；调试" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10183,
+  "word" : "調べる",
+  "reading" : "しらべる",
+  "romaji" : null,
+  "meaning" : [ "调查，查找；检查，查看；打听，询问；演奏，弹奏（乐器等）；品尝，尝（味道等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10184,
+  "word" : "調停",
+  "reading" : "ちょうてい",
+  "romaji" : null,
+  "meaning" : [ "调停，调解；仲裁" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10185,
+  "word" : "調印",
+  "reading" : "ちょういん",
+  "romaji" : null,
+  "meaning" : [ "签订，签署（条约、协定等文件）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10186,
+  "word" : "調味料",
+  "reading" : "ちょうみりょう",
+  "romaji" : null,
+  "meaning" : [ "调味品，佐料" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10187,
+  "word" : "調和",
+  "reading" : "ちょうわ",
+  "romaji" : null,
+  "meaning" : [ "协调；调和；和谐；匀称" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10188,
+  "word" : "調子",
+  "reading" : "ちょうし",
+  "romaji" : null,
+  "meaning" : [ "1. 情况，状态；2. 样子，情形；3. 曲调，旋律；4. 语气，口吻；5. 身体状况；6. 行情" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10189,
+  "word" : "調子がいい",
+  "reading" : "ちょうしがいい",
+  "romaji" : null,
+  "meaning" : [ "状态好；情况好；心情好；顺利" ],
+  "notes" : [ "" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10190,
+  "word" : "調子が悪い",
+  "reading" : "ちょうしがわるい",
+  "romaji" : null,
+  "meaning" : [ "身体状况不好；状态不佳；情况不妙" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10191,
+  "word" : "調整",
+  "reading" : "ちょうせい",
+  "romaji" : null,
+  "meaning" : [ "调整，调节；整理，整顿" ],
+  "notes" : [ "「調整」为サ変動詞，后接「する」构成动词，可用于各种语法变形，如「調整します」「調整して」等。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10192,
+  "word" : "調整する",
+  "reading" : "ちょうせいする",
+  "romaji" : null,
+  "meaning" : [ "调整，调节；调配，安排；协商，协调" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10193,
+  "word" : "調査",
+  "reading" : "ちょうさ",
+  "romaji" : null,
+  "meaning" : [ "为了了解情况进行考察、探究。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10194,
+  "word" : "調理",
+  "reading" : "ちょうり",
+  "romaji" : null,
+  "meaning" : [ "1. 烹饪，烹调；2. 调理，处理" ],
+  "notes" : [ "「調理」作为名词时，可表示烹饪、烹调的行为或技术；作为动词时，是サ变动词，常与「する」搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10195,
+  "word" : "調節",
+  "reading" : "ちょうせつ",
+  "romaji" : null,
+  "meaning" : [ "调节；调整；调控" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10196,
+  "word" : "調節",
+  "reading" : "ちょうせつ",
+  "romaji" : null,
+  "meaning" : [ "调节，调剂，调整" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10197,
+  "word" : "調達",
+  "reading" : "ちょうたつ",
+  "romaji" : null,
+  "meaning" : [ "筹措，筹备；采购，购买（物资等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10198,
+  "word" : "請け合う",
+  "reading" : "うけあう",
+  "romaji" : null,
+  "meaning" : [ "1. 承担，负责；2. 保证，担保；3. 约定，应承" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10199,
+  "word" : "請け負う",
+  "reading" : "うけおう",
+  "romaji" : null,
+  "meaning" : [ "承包；承担；负责；答应；保证；包下" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 10200,
+  "word" : "請求",
+  "reading" : "せいきゅう",
+  "romaji" : null,
+  "meaning" : [ "索要，请求，要求，索取；（法律上）请求权，债权" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+} ]

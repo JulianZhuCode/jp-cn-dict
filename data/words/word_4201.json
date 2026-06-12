@@ -1,0 +1,901 @@
+[ {
+  "id" : 4201,
+  "word" : "名前",
+  "reading" : "なまえ",
+  "romaji" : null,
+  "meaning" : [ "名字，姓名；名称，称呼" ],
+  "notes" : [ "可用于指代人、事物的称呼或名称，是日语基础词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4202,
+  "word" : "名字",
+  "reading" : "みょうじ",
+  "romaji" : null,
+  "meaning" : [ "姓，姓氏；日本人的姓（与「名前」不同，「名前」可指全名或名字，「名字」仅指姓）" ],
+  "notes" : [ "在日语中，「名字」特指姓氏，区别于可指代全名或个人名的「名前」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4203,
+  "word" : "名所",
+  "reading" : "めいしょ",
+  "romaji" : null,
+  "meaning" : [ "名胜，著名的景点、场所" ],
+  "notes" : [ "通常指具有历史文化价值或自然景观价值的知名地点，常与「旧跡」「観光地」等词汇关联使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4204,
+  "word" : "名札",
+  "reading" : "なふだ",
+  "romaji" : null,
+  "meaning" : [ "姓名牌，姓名卡，名牌" ],
+  "notes" : [ "一般用于职场、学校等场合，多为佩戴或放置在显眼位置，用于表明身份" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4205,
+  "word" : "名残",
+  "reading" : "なごり",
+  "romaji" : null,
+  "meaning" : [ "1. 惜别之情，依恋不舍的心情；2. 痕迹，残余，余韵；3. （季节、节日等的）尾声，余绪" ],
+  "notes" : [ "「名残」可构成复合词「名残惜しい（なごりおしい）」，意为“恋恋不舍的，惋惜的”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4206,
+  "word" : "名残惜しい",
+  "reading" : "なごりおしい",
+  "romaji" : null,
+  "meaning" : [ "依依不舍的，恋恋不舍的；惋惜的，遗憾的" ],
+  "notes" : [ "多用来表达对人、场所或结束的事物的留恋之情，也可用于对未能完成或错失的事感到遗憾。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4207,
+  "word" : "名物",
+  "reading" : "めいもつ",
+  "romaji" : null,
+  "meaning" : [ "1. 特产，当地有名的特色物品；2. 有名的人，知名人物；3. 著名的事件、典故" ],
+  "notes" : [ "除了表示物品类的特产外，也可用于指代有名的人物或知名事迹，使用场景较为广泛。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4208,
+  "word" : "名産",
+  "reading" : "めいさん",
+  "romaji" : null,
+  "meaning" : [ "特产，名产，指某地区特有的、闻名的产品" ],
+  "notes" : [ "可构成复合词如「名産品（めいさんひん）」，表示特产商品" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4209,
+  "word" : "名産品",
+  "reading" : "めいさんひん",
+  "romaji" : null,
+  "meaning" : [ "特产，名产，当地有名的特色产品" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4210,
+  "word" : "名称",
+  "reading" : "めいしょう",
+  "romaji" : null,
+  "meaning" : [ "名称，称呼，名号" ],
+  "notes" : [ "可用于指代事物、机构、组织等的正式称呼，区别于俗称或简称" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4211,
+  "word" : "名簿",
+  "reading" : "めいぼ",
+  "romaji" : null,
+  "meaning" : [ "名册，名单，登记簿" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4212,
+  "word" : "名誉",
+  "reading" : "めいよ",
+  "romaji" : null,
+  "meaning" : [ "1. 名誉，荣誉，光荣；2. 名誉，名声，声望" ],
+  "notes" : [ "作为ナ形容词使用时，后续可接「だ・で・な」等形式，如「名誉な称号」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4213,
+  "word" : "名词[数量]+动词",
+  "reading" : "めいし[すうりょう]+どうし",
+  "romaji" : null,
+  "meaning" : [ "名詞をが格またはを格で取る動詞の前に、その名詞の数量を限定する数量詞を置く文法構造。数量詞は対象名詞の数量を明確にし、動作の対象の量を示す" ],
+  "notes" : [ "この構造では数量詞は通常、対象となる名詞の直後、または動詞の直前に置かれる。が格名詞の場合は「名詞+が+数量詞+動詞」、を格名詞の場合は「名詞+を+数量詞+動詞」の形が一般的" ],
+  "pos" : "GRAMMAR",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4214,
+  "word" : "名词[時間]+動詞",
+  "reading" : "めいし[じかん]+どうし",
+  "romaji" : null,
+  "meaning" : [ "名詞（時間表現）に持続性のある動詞を続けることで、その動作や状態が一定の時間にわたって継続していることを表す" ],
+  "notes" : [ "使用する動詞は「勉強する」「寝る」「待つ」など継続的な動作や状態を表すものが適しており、一瞬の動作を表す「死ぬ」「壊れる」などの動詞とは組み合わせにくい" ],
+  "pos" : "GRAMMAR",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4215,
+  "word" : "名詞の修飾",
+  "reading" : "めいしのしゅうしょく",
+  "romaji" : null,
+  "meaning" : [ "動詞・い形容詞・動詞文節・い形容詞文節・な形容詞・名詞が名詞を修飾する際に用いる連体形の使い方。具体的なルールは以下の通り：1.動詞：基本形・た形などの简体形を直接名詞の前に置く；2.い形容詞：基本形・た形などの简体形を直接名詞の前に置く；3.な形容詞：語幹の後に「な」を付けて名詞の前に置く；4.名詞：名詞の後に「の」を付けて他の名詞の前に置く" ],
+  "notes" : [ "連体形を用いることで、修飾語と被修飾語の間の関係を明確にし、文の情報を詳細にする役割がある。また、複数の修飾語を組み合わせて名詞を修飾することも可能である。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4216,
+  "word" : "名词谓语形式的简体形",
+  "reading" : "めいしよいごけいしきのかんたいけい",
+  "romaji" : null,
+  "meaning" : [ "日语中名词作谓语时的简体表达形式，具体为：现在肯定形「だ」、现在否定形「ではない」（口语常作「じゃない」）、过去肯定形「だった」、过去否定形「ではなかった」（口语常作「じゃなかった」）" ],
+  "notes" : [ "该形式用于简体句中，可用于书面语及口语的随意场景；名词谓语的敬体形为「です／ではありません／でした／ではありませんでした」" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4217,
+  "word" : "名高い",
+  "reading" : "なだかい",
+  "romaji" : null,
+  "meaning" : [ "有名的，著名的；名声高的" ],
+  "notes" : [ "多用于描述场所、人物的名声，书面语色彩较强" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4218,
+  "word" : "吐き気",
+  "reading" : "はきけ",
+  "romaji" : null,
+  "meaning" : [ "恶心，想吐（的感觉）；反胃" ],
+  "notes" : [ "通常指因晕车、气味、疾病等引发的胃部不适、想要呕吐的感觉，也可用于形容对事物产生的厌恶感（如「その話を聞いて吐き気がした」）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4219,
+  "word" : "吐く",
+  "reading" : "はく",
+  "romaji" : null,
+  "meaning" : [ "1. 吐出，呕吐；2. 吐露，说出；3. 喷出，冒出（烟、火等）；4. 发出（声音、气味等）" ],
+  "notes" : [ "「吐く」还有自动词形式「吐ける（はける）」，表示能吐出、可呕吐的状态；当表示“吐露”含义时，常与「吐き出す（はきだす）」搭配使用，表达更强烈的倾诉感。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4220,
+  "word" : "吐露",
+  "reading" : "とろ",
+  "romaji" : null,
+  "meaning" : [ "吐露，说出（真心话、秘密等难以开口的内容）" ],
+  "notes" : [ "通常用于表达说出内心深处的想法、秘密、烦恼等不易向外人言说的内容，多为书面语或较正式的表达。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4221,
+  "word" : "向かいます",
+  "reading" : "むかいます",
+  "romaji" : null,
+  "meaning" : [ "1. 朝，向，对着；2. 往……去，前往；3. 对抗，反对" ],
+  "notes" : [ "「向かいます」是「向く」的ます形，除上述含义外，还可表示“适合，对路”，如「この靴は足に向かいます。（这双鞋合脚。）」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4222,
+  "word" : "向かい合う",
+  "reading" : "むかいあう",
+  "romaji" : null,
+  "meaning" : [ "1. 面对面、相对；2. （意见、想法等）对立、对峙" ],
+  "notes" : [ "「向かい合う」强调双方主动地面对面，也可用于抽象事物的对立状态" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4223,
+  "word" : "向かう",
+  "reading" : "むかう",
+  "romaji" : null,
+  "meaning" : [ "1. 朝，向，面对；2. 前往，奔赴；3. 对抗，反抗；4. 适合，相称" ],
+  "notes" : [ "常用搭配「～に向かって」表示朝向某个方向或对象；「～に向かう」可表示前往某地或朝着某个目标行动" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4224,
+  "word" : "向く",
+  "reading" : "むく",
+  "romaji" : null,
+  "meaning" : [ "1. 朝向，面向；2. 适合，对路；3. 倾向于，赞成；4. （身份、地位等）相称" ],
+  "notes" : [ "「向く」作为自动词使用，当表示“适合”时常用「～に向いている」的形式" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4225,
+  "word" : "向ける",
+  "reading" : "むける",
+  "romaji" : null,
+  "meaning" : [ "1. 朝向，指向，对着；2. 派遣，派出；3. 挪到，移到；4. 拨出，抽出（时间、金钱等）；5. 献身于，致力于" ],
+  "notes" : [ "「向ける」作为他动词使用，其自动词形式为「向く（むく）」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4226,
+  "word" : "向こう",
+  "reading" : "むこう",
+  "romaji" : null,
+  "meaning" : [ "1. 对面，那边；2. 对方，对手；3. 过去，以前；4. （年龄上的）那一边" ],
+  "notes" : [ "可作为副词使用，意为\"今后，将来\"，例：向こう一週間は忙しいです。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4227,
+  "word" : "向こう岸",
+  "reading" : "むこうぎし",
+  "romaji" : null,
+  "meaning" : [ "对岸，河、湖、海等的另一边" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4228,
+  "word" : "向上",
+  "reading" : "こうじょう",
+  "romaji" : null,
+  "meaning" : [ "1. （能力、水准、状态等的）提高，进步，提升；2. 向上，向好的方向发展" ],
+  "notes" : [ "可作为サ变动词使用，形式为「向上する」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4229,
+  "word" : "向上心",
+  "reading" : "こうじょうしん",
+  "romaji" : null,
+  "meaning" : [ "上进心，进取之心，想要提升自我、取得进步的心态" ],
+  "notes" : [ "通常用于描述积极进取、渴望提升自身能力或地位的心态，是较为正式的表达" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4230,
+  "word" : "君",
+  "reading" : "きみ",
+  "romaji" : null,
+  "meaning" : [ "1. 第二人称代词，用于称呼同辈或晚辈，较为随意亲切；2. 对男性的尊称，可译为“您”“先生”" ],
+  "notes" : [ "使用时需注意场合与对象关系，正式场合对上级或长辈使用会显得不礼貌，此时宜用「あなた」「そちら」等" ],
+  "pos" : "PRON",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4231,
+  "word" : "君子",
+  "reading" : "くんし",
+  "romaji" : null,
+  "meaning" : [ "1. 指有道德、品行高尚的人；2. 古代指地位高的人" ],
+  "notes" : [ "该词常用于书面语，多用来称赞品行端正的人，也常见于古典文学或谚语中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4232,
+  "word" : "吟味",
+  "reading" : "ぎんみ",
+  "romaji" : null,
+  "meaning" : [ "1. 斟酌，仔细考虑，考量；2. 审查，审核，核查；3. 品尝，品味（食物、饮品等）" ],
+  "notes" : [ "作为他动词使用，可搭配抽象事物（如计划、方案）、书面材料、饮食等对象使用，不同含义对应不同的使用场景。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4233,
+  "word" : "吠える",
+  "reading" : "ほえる",
+  "romaji" : null,
+  "meaning" : [ "1.（狗、狼等动物）叫，吼，吠；2.（风声、雷声等）轰鸣，呼啸；3.（人）大声叫喊，叫嚷" ],
+  "notes" : [ "除了动物的叫声外，还可用于形容自然现象的轰鸣以及人的叫嚷，使用场景较广" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4234,
+  "word" : "否めない",
+  "reading" : "いなめない",
+  "romaji" : null,
+  "meaning" : [ "不可否认；不能否定；无法拒绝" ],
+  "notes" : [ "「否めない」是动词「否める（いなめる）」的未然形后续否定助动词「ない」构成的形式，既可以表示对事实、能力等无法否定，也可用于表达难以拒绝他人的请求、要求等情况。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4235,
+  "word" : "否定",
+  "reading" : "ひてい",
+  "romaji" : null,
+  "meaning" : [ "1. 否定，否认，不承认；2. 逻辑学上指与肯定相对的判断" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「否定する」「否定される」等活用形式；作名词时常后续「する」「の」等使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4236,
+  "word" : "否決",
+  "reading" : "ひけつ",
+  "romaji" : null,
+  "meaning" : [ "1. 否决，否定（提案、議案などを認めないこと）；2. 拒绝，驳回（申請などを受け入れないこと）" ],
+  "notes" : [ "「否決」は主に公式な場面で使用される語で、日常会話では「拒む」「反対する」などが使われることが多い。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4237,
+  "word" : "否決する",
+  "reading" : "ひけつする",
+  "romaji" : null,
+  "meaning" : [ "否决；否定，拒绝（提案、议案等）" ],
+  "notes" : [ "「～を否決する」「～が否決される」の形で使用されることが多い。主に公的な提案や計画などに対して用いる。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4238,
+  "word" : "含む",
+  "reading" : "ふくむ",
+  "romaji" : null,
+  "meaning" : [ "1. 包含，含有；2. 带有（某种成分、性质、情感等）；3. 容纳，装得下；4. 含在嘴里，叼着" ],
+  "notes" : [ "「含む」作为他动词使用时，对象语通常用「を」提示；表被动含义时多用「～に含まれている」的形式。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4239,
+  "word" : "含める",
+  "reading" : "ふくめる",
+  "romaji" : null,
+  "meaning" : [ "1. 包括，包含，把…算在内；2. 含有，容纳；3. 心怀，抱有（想法、感情等）" ],
+  "notes" : [ "作为他动词使用，对应的自动词为「含まれる（ふくまれる）」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4240,
+  "word" : "吸います",
+  "reading" : "すいます",
+  "romaji" : null,
+  "meaning" : [ "1. 吸，吸入（空气、烟、饮料等）；2. 吸收（水分、养分等）；3. 吸引（注意力、目光等）" ],
+  "notes" : [ "「吸います」是动词「吸う」的ます形，多用于正式场合或礼貌表达" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4241,
+  "word" : "吸い取る",
+  "reading" : "すいとる",
+  "romaji" : null,
+  "meaning" : [ "1. 摄取、吸收；2. 吮吸、舔吸；3. 吸掉、吸干；4. 理解、领会（话语、要点等）" ],
+  "notes" : [ "作为“理解、领会”义项时，多搭配抽象事物，如要点、知识、氛围等，是较口语化的表达。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4242,
+  "word" : "吸う",
+  "reading" : "すう",
+  "romaji" : null,
+  "meaning" : [ "1.（他動詞）把气体、液体、粉末等通过口或鼻摄入体内，如吸烟、吸饮料、吸气；2.（他動詞）吸附、吸收，如海绵吸水；3.（自動詞）（液体、气体等）被吸入、被吸收；4.（他動詞）吸引，如吸引注意力" ],
+  "notes" : [ "作他动词时主要表示主动吸入、吸附等动作；作自动词时表示被吸入、被吸收的状态。日常使用中作为他动词的情况更为常见。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4243,
+  "word" : "吸収",
+  "reading" : "きゅうしゅう",
+  "romaji" : null,
+  "meaning" : [ "1. 吸收（液体、气体、热量、光线等）；2. 吸取（知识、经验、信息等）；3. 接纳、同化（人员、团体等）；4. 吞并、合并（企业、组织等）" ],
+  "notes" : [ "作为サ变自动词使用时，常以「～を吸収する」的形式出现；部分语境下可作他动词使用，表达主动吸收的动作" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4244,
+  "word" : "吸収源",
+  "reading" : "きゅうしゅうげん",
+  "romaji" : null,
+  "meaning" : [ "指能够吸收特定物质、能量或信息的来源或场所；（环境领域）特指吸收二氧化碳等温室气体的自然或人工设施，如森林、海洋、碳捕捉装置等" ],
+  "notes" : [ "多用于环境科学、物理学、工程学等专业领域，日常对话中较少使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4245,
+  "word" : "吸収する",
+  "reading" : "きゅうしゅうする",
+  "romaji" : null,
+  "meaning" : [ "1. 吸收（液体、气体、热量、营养等）；2. 接纳、吸纳（人员、组织等）；3. 理解、掌握（知识、信息等）" ],
+  "notes" : [ "作为サ变动词，可单独使用「吸収」的名词形式，也可后续「する」构成动词形式" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4246,
+  "word" : "吸殻",
+  "reading" : "すいがら",
+  "romaji" : null,
+  "meaning" : [ "烟蒂，烟头，吸剩下的烟屁股" ],
+  "notes" : [ "指香烟吸食后剩余的部分，通常需要丢弃在指定的烟灰缸或垃圾容器中，属于生活常用词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4247,
+  "word" : "吹きます",
+  "reading" : "ふきます",
+  "romaji" : null,
+  "meaning" : [ "1. 吹，刮；2. 吹（乐器、口哨等）；3. 吹气，吹拂；4. 吹走，刮跑；5. 吹牛，说大话" ],
+  "notes" : [ "「吹きます」是动词「吹く（ふく）」的ます形，除上述含义外，还可引申表示（火势）蔓延、（谣言等）传播等含义。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4248,
+  "word" : "吹き出す",
+  "reading" : "ふきだす",
+  "romaji" : null,
+  "meaning" : [ "1. 开始刮风；2. 吹出、喷出；3. 突然说出（话语、笑声等）；4. （液体）涌出、冒出" ],
+  "notes" : [ "「吹き出す」は自動詞として使用されることが多く、風・液体・声などが自然に外へ出る様子を表すほか、感情的な発言や笑いが突然漏れ出す様子を表す用法もよく見られる。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4249,
+  "word" : "吹き込む",
+  "reading" : "ふきこむ",
+  "romaji" : null,
+  "meaning" : [ "1.（风、雪、雨等）刮进，吹进；2.（向他人）灌输，传授（想法、知识、信念等）；3.（往容器等里）吹入（气体等）" ],
+  "notes" : [ "作为「灌输」义项使用时，多带有主动向他人传递特定内容的语感，对象常为思想、理念、技能等抽象或具体的内容。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4250,
+  "word" : "吹く",
+  "reading" : "ふく",
+  "romaji" : null,
+  "meaning" : [ "1. 吹，刮（风等）；2. 吹送，吹拂；3. 吹奏（乐器）；4. 吹灭；5. 吹嘘，夸口；6. （液体）喷溅，涌出" ],
+  "notes" : [ "1. 作为自动词时多表示自然现象的风吹，作为他动词时可表示吹奏、吹灭等动作；2. 衍生出诸多复合词，如「吹き荒れる」（狂风大作）、「吹き出す」（喷出、发笑）等" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4251,
+  "word" : "吹っ切る",
+  "reading" : "ふっきる",
+  "romaji" : null,
+  "meaning" : [ "1. 吹断，刮断；2. 彻底消除（烦闷、烦恼、隔阂等），想开；3. （把欠款等）一笔勾销" ],
+  "notes" : [ "「吹っ切る」是「吹き切る」的口语缩略形式，更常用于日常会话场景" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4252,
+  "word" : "吹奏",
+  "reading" : "すいそう",
+  "romaji" : null,
+  "meaning" : [ "吹奏，吹奏乐器；（风等）吹刮、呼啸" ],
+  "notes" : [ "作为「サ変動詞」使用时，常与乐器类名词搭配；表示自然现象时多用来描述强风的声响。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4253,
+  "word" : "吹雪",
+  "reading" : "ふぶき",
+  "romaji" : null,
+  "meaning" : [ "暴风雪，风雪；（喻）猛烈的攻击、大量的到来" ],
+  "notes" : [ "除表示自然现象的暴风雪外，还可用于比喻大量事物接连到来的情况" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4254,
+  "word" : "呆ける/惚ける",
+  "reading" : "ぼける",
+  "romaji" : null,
+  "meaning" : [ "1. 头脑迟钝，糊涂，痴呆；2. （因衰老、醉酒等）反应迟钝，发呆；3. （技艺、能力等）退步，生疏" ],
+  "notes" : [ "「呆ける」与「惚ける」为异形词，含义用法基本一致；常用于描述人因年龄、醉酒等导致的精神状态不佳，也可用于描述技能生疏的情况。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4255,
+  "word" : "呆れる",
+  "reading" : "あきれる",
+  "romaji" : null,
+  "meaning" : [ "1. 惊呆，惊愕，吃惊；2. 厌烦，腻烦，无奈；3. 因惊讶或不满而说不出话" ],
+  "notes" : [ "多用来表达因对方的言行荒唐、不合常理而产生的惊讶或厌烦情绪，比「驚く」更带有无语、无奈的语气" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4256,
+  "word" : "呆然",
+  "reading" : "ぼうぜん",
+  "romaji" : null,
+  "meaning" : [ "发呆的，发愣的，茫然不知所措的" ],
+  "notes" : [ "多以「呆然と」的副词形式使用，后接动词，形容因震惊、意外等而失神的状态。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4257,
+  "word" : "告げます",
+  "reading" : "つげます",
+  "romaji" : null,
+  "meaning" : [ "1. 告诉，告知，通知；2. 宣告，公布；3. 诉说，倾诉；4. 吩咐，命令" ],
+  "notes" : [ "「告げます」是「告げる」的ます形，较为正式，多用于书面语或郑重的场合，日常口语中更常用「伝えます」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4258,
+  "word" : "告げる",
+  "reading" : "つげる",
+  "romaji" : null,
+  "meaning" : [ "1. 告知，通知，传达；2. 宣告，宣布，公布；3. 诉说，倾诉；4. 预告，预示" ],
+  "notes" : [ "除了直接告知信息外，还可用于向他人倾诉情绪、自然现象预示时节等抽象场景，常用搭配有「～に告げる」「～を告げる」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4259,
+  "word" : "告白",
+  "reading" : "こくはく",
+  "romaji" : null,
+  "meaning" : [ "1. 表白（爱情）；2. 坦白，自首，告发" ],
+  "notes" : [ "「告白」可用于表达对他人的爱意倾诉，也可指对自己的过错、罪行等进行坦白告发，语境不同含义有区分。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4260,
+  "word" : "告白する",
+  "reading" : "こくはくする",
+  "romaji" : null,
+  "meaning" : [ "1. 坦白，自白；2. （向心仪的人）表白，告白" ],
+  "notes" : [ "「告白」作为名词时读作「こくはく」，后续接「する」构成サ变动词，除了表示对罪行、过错的坦白，更常用的含义是向爱慕的人表达心意。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4261,
+  "word" : "告知",
+  "reading" : "こくち",
+  "romaji" : null,
+  "meaning" : [ "1. 告知，通报，通知；2. （官方、机构等的）正式通知、布告" ],
+  "notes" : [ "作为サ変動詞使用时常以「告知する」的形式出现，多用于较为正式的场景，如官方通知、业务通报等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4262,
+  "word" : "周り",
+  "reading" : "まわり",
+  "romaji" : null,
+  "meaning" : [ "1. 周围、附近；2. 身边的人、周围的人；3. 四周、圆周；4. 大约、左右（用于数量词后）" ],
+  "notes" : [ "可作为接尾词使用，接在名词后表示“……周围、关于……方面”，如「仕事周り」（工作方面）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4263,
+  "word" : "周囲",
+  "reading" : "しゅうい",
+  "romaji" : null,
+  "meaning" : [ "1. 周围，四周，附近；2. 身边的人，周围的人们" ],
+  "notes" : [ "可用于描述物理空间的周边范围，也可指代人际关系中的周遭人群" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4264,
+  "word" : "周知",
+  "reading" : "しゅうち",
+  "romaji" : null,
+  "meaning" : [ "1. （作为名词）众人皆知、普遍知晓的状态；2. （作为ナ形容词）众所周知的、广为人知的" ],
+  "notes" : [ "常以「周知の事実」「周知徹底」等固定搭配形式使用，也可构成动词短语「周知する」（他动词，意为使……众人皆知）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4265,
+  "word" : "周辺",
+  "reading" : "しゅうへん",
+  "romaji" : null,
+  "meaning" : [ "1. 周围，附近，周边；2. 相关领域，周边范围" ],
+  "notes" : [ "可用于表示地理上的周边区域，也可引申指某个核心事物相关的外围领域" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4266,
+  "word" : "味",
+  "reading" : "あじ",
+  "romaji" : null,
+  "meaning" : [ "1. 味道，滋味；2. 风味，韵味；3. 趣味，情趣；4. 体会，感受" ],
+  "notes" : [ "可作为接尾词使用，如「辛味（からあじ）」「美味（おいしあじ）」等，表示相关的味道或特性。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4267,
+  "word" : "味わい",
+  "reading" : "あじわい",
+  "romaji" : null,
+  "meaning" : [ "1. 味道，滋味；2. 趣味，妙处，韵味；3. 体会，感受" ],
+  "notes" : [ "「味わい」除了表示具体的味道外，还常用于表达抽象的趣味、人生感悟等深层含义，可作名词使用，也可后续「がある」「を感じる」等搭配来体现抽象意味" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4268,
+  "word" : "味わう",
+  "reading" : "あじわう",
+  "romaji" : null,
+  "meaning" : [ "1. 品味，品尝，尝味道；2. 体验，感受，体味；3. 玩味，欣赏" ],
+  "notes" : [ "除了表示品尝食物的味道外，还常用于抽象意义上的体验、感受某种情绪或欣赏事物的内涵。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4269,
+  "word" : "味噌",
+  "reading" : "みそ",
+  "romaji" : null,
+  "meaning" : [ "味噌，大豆发酵制成的酱，常用于制作味噌汤等日式料理" ],
+  "notes" : [ "是日本传统发酵调味品，根据原料和发酵方式的不同，可分为白味噌、赤味噌等多种类型" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4270,
+  "word" : "味方",
+  "reading" : "みかた",
+  "romaji" : null,
+  "meaning" : [ "1. 我方，自己人；2. 同伴，伙伴；3. 支持者，拥护者" ],
+  "notes" : [ "可作为名词使用，也可构成「味方にする」「味方をする」等动词短语，表示“支持，站在…一边”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4271,
+  "word" : "味見",
+  "reading" : "あじみ",
+  "romaji" : null,
+  "meaning" : [ "1. 尝味道、试咸淡；2. （食物的）试吃样品，尝味品" ],
+  "notes" : [ "作为名词时可表示试吃的动作或试吃品，作为サ变动词时表示“尝味道、试咸淡”的动作" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4272,
+  "word" : "呼びかける",
+  "reading" : "よびかける",
+  "romaji" : null,
+  "meaning" : [ "1. 招呼，呼唤；2. 呼吁，号召；3. 呼吁（某人做某事）" ],
+  "notes" : [ "除了字面的呼唤动作外，常用于正式场合的呼吁、号召类表达，后可接「～に～を呼びかける」的句式表示呼吁对象和内容。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4273,
+  "word" : "呼びます",
+  "reading" : "よびます",
+  "romaji" : null,
+  "meaning" : [ "呼叫，呼唤；叫来，叫来（人）；称呼，叫（名字）；号召，呼吁" ],
+  "notes" : [ "「呼びます」是一段动词「呼ぶ」的ます形，用于礼貌地表达“呼叫、称呼、号召”等含义，在日常对话和正式场合都可使用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4274,
+  "word" : "呼び出し",
+  "reading" : "よびだし",
+  "romaji" : null,
+  "meaning" : [ "1. 呼叫、传唤、传唤；2. （电话等的）呼入、来电；3. （计算机的）调用、调出" ],
+  "notes" : [ "该词也可作为サ变动词「呼び出す」的连用形名词化形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4275,
+  "word" : "呼び出す",
+  "reading" : "よびだす",
+  "romaji" : null,
+  "meaning" : [ "1. 呼叫，叫出；2. 传唤，召唤；3. 调出（数据、文件等）；4. 使回忆起，唤起" ],
+  "notes" : [ "作为他动词使用，可接を提示动作对象；被动形式「呼び出される」较为常用，多表示被传唤、被叫走的语境" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4276,
+  "word" : "呼び捨て",
+  "reading" : "よびすて",
+  "romaji" : null,
+  "meaning" : [ "1. （不加敬称）直呼其名；2. （对长辈、上司等）不使用敬称直接称呼" ],
+  "notes" : [ "作为名词时表示直呼其名的行为，作为サ変動詞时可构成「～を呼び捨てする」的结构，使用时需注意场合，对长辈、上级等使用会显得不礼貌。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4277,
+  "word" : "呼び掛ける",
+  "reading" : "よびかける",
+  "romaji" : null,
+  "meaning" : [ "1. 打招呼，呼唤；2. 呼吁，号召；3. 邀请，邀约" ],
+  "notes" : [ "该动词可根据语境表达不同含义，日常场景中多用于打招呼，正式场景则常表示呼吁、号召。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4278,
+  "word" : "呼び方",
+  "reading" : "よびかた",
+  "romaji" : null,
+  "meaning" : [ "叫法，称呼方式" ],
+  "notes" : [ "「呼ぶ」の連用形「呼び」に接尾辞「方（かた）」が付いた派生名詞で、動作の方法を表す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4279,
+  "word" : "呼び止める",
+  "reading" : "よびとめる",
+  "romaji" : null,
+  "meaning" : [ "叫住；喊停；叫停（行进中的人、车辆等）" ],
+  "notes" : [ "他动词，通常用于主动叫住他人或叫停移动中的对象，可搭配人物、车辆等名词使用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4280,
+  "word" : "呼ぶ",
+  "reading" : "よぶ",
+  "romaji" : null,
+  "meaning" : [ "1. 叫，呼唤；呼喊；2. 叫来，叫来（人）；传唤；3. 称呼，叫（名字、称号）；4. 邀请，约请；5. 号召，呼吁" ],
+  "notes" : [ "作为他动词使用，可直接接宾语；表示“称呼”时常用「～を～と呼ぶ」的句式。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4281,
+  "word" : "呼吸",
+  "reading" : "こきゅう",
+  "romaji" : null,
+  "meaning" : [ "1. 呼吸；2.（做事、相处的）步调，节奏，默契；3.（事物的）气息，动静" ],
+  "notes" : [ "作为サ変動詞使用时可构成「呼吸をする」「呼吸する」的形式，表达呼吸的动作；作名词时多用来引申描述步调、气息等抽象含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4282,
+  "word" : "命",
+  "reading" : "いのち",
+  "romaji" : null,
+  "meaning" : [ "1. 生命，性命；2. 寿命，一生；3. 命运，运气；4. 重要的事物，要害" ],
+  "notes" : [ "可构成复合词如「命がけ」（拼命、豁出性命）、「命日」（忌日）等，在日常对话和书面语中均常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4283,
+  "word" : "命じる",
+  "reading" : "めいじる",
+  "romaji" : null,
+  "meaning" : [ "1. 命令，下令；2. 任命，委派；3. 命名，称呼" ],
+  "notes" : [ "作为他动词使用，对象通常接助词「に」或「を」；用于命令上级时需注意语气，一般使用更委婉的表达。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4284,
+  "word" : "命中",
+  "reading" : "めいちゅう",
+  "romaji" : null,
+  "meaning" : [ "1. 击中目标；命中。2. （期望、推测等）应验，猜中。" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「命中する」的形式；也可作为名词使用，表达“命中”的状态或结果。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4285,
+  "word" : "命令形",
+  "reading" : "めいれいけい",
+  "romaji" : null,
+  "meaning" : [ "日本語の動詞の活用形の一つ。話し手が相手に動作・行為を強制・指示・依頼する際に用いられる。活用ルールは以下の通り：五段動詞は語尾のう段をえ段に変える（例：「書く」→「書け」）；上一段・下一段動詞は語尾の「る」を消して「ろ」または「よ」を付ける（例：「食べる」→「食べろ」「食べよ」）；カ行変格動詞「来る」は「来(こ)い」に活用；サ行変格動詞「する」は「しろ」または「せよ」に活用。" ],
+  "notes" : [ "丁寧な場面では命令形の代わりに「～てください」「～なさい」などの表現を用いるのが一般的。" ],
+  "pos" : "GRAMMAR",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4286,
+  "word" : "命取り",
+  "reading" : "いのちとり",
+  "romaji" : null,
+  "meaning" : [ "1. 致命的事物，致命伤；2. 导致失败、毁灭的关键因素" ],
+  "notes" : [ "可作为复合词的一部分使用，如「命取りの一撃（致命一击）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4287,
+  "word" : "咆哮",
+  "reading" : "ほうこう",
+  "romaji" : null,
+  "meaning" : [ "1. （人が）激しく怒鳴る、どなる。2. （動物が）うなる、咆哮する。3. （風・波などが）うなり声を上げる。" ],
+  "notes" : [ "「咆哮」は主に書き言葉的な表現で、日常会話では「怒鳴る」「うなる」などがよく使われる。また、自然現象の激しい様子を表す際にも用いられる。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4288,
+  "word" : "和む",
+  "reading" : "なごむ",
+  "romaji" : null,
+  "meaning" : [ "1. 心情、情绪平静下来；2. 气氛、局势缓和；3. （气候、食物等）变得温和、适中" ],
+  "notes" : [ "自动词，常用于描述情绪、氛围、环境状态的缓和变化" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4289,
+  "word" : "和やか",
+  "reading" : "なごやか",
+  "romaji" : null,
+  "meaning" : [ "1. 平静的，温和的；2. 和睦的，平和的；3. 和谐的，融洽的；4. 淡雅的，素净的（用于形容色彩、氛围等）" ],
+  "notes" : [ "作为形容动词使用，修饰名词时用「和やかな」，作谓语时用「和やかだ」「和やかです」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4290,
+  "word" : "和らぐ",
+  "reading" : "やわらぐ",
+  "romaji" : null,
+  "meaning" : [ "1. （心情、气氛、疼痛等）变柔和，缓和，平静下来；2. （态度、语气）变得温和；3. （天气、风势等）转缓和" ],
+  "notes" : [ "该词为自动词，侧重表示事物自身的状态向缓和、柔和的方向变化，无被动含义" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4291,
+  "word" : "和らげる",
+  "reading" : "やわらげる",
+  "romaji" : null,
+  "meaning" : [ "1. 使柔和，使柔软；2. 使缓和，使平静；3. 减轻，缓解（疼痛、紧张等）" ],
+  "notes" : [ "「和らげる」是他动词，其自动词形式为「和らぐ（やわらぐ）」，二者意义对应，需注意区分使用场景。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4292,
+  "word" : "和室",
+  "reading" : "わしつ",
+  "romaji" : null,
+  "meaning" : [ "日式房间，铺有榻榻米的传统日本房间，通常设有壁龛、地炉等传统设施" ],
+  "notes" : [ "和室是日本传统住宅的代表性空间，多用于起居、待客、睡眠等场景，部分和室会配备可收纳的桌椅、被褥等，兼具多种功能" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4293,
+  "word" : "和式",
+  "reading" : "わしき0",
+  "romaji" : null,
+  "meaning" : [ "日式，日本式（指符合日本传统风格、习惯、样式的事物）" ],
+  "notes" : [ "常用来修饰其他名词，构成「和式+名词」的形式，如「和式建築」「和式料理」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4294,
+  "word" : "和服",
+  "reading" : "わふく",
+  "romaji" : null,
+  "meaning" : [ "日式传统服装，通常指具有特定剪裁、纹样的日本民族服饰，常见的有振袖、留袖、浴衣等种类，多用于正式场合、祭典或日常休闲场景。" ],
+  "notes" : [ "「浴衣」是和服的一种，属于夏季穿着的轻便款式，常被误认为独立服饰，实际上归属于和服范畴。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4295,
+  "word" : "和菓子",
+  "reading" : "わがし",
+  "romaji" : null,
+  "meaning" : [ "日式点心，日式糕点。日本传统的甜味食品，多使用糯米、红豆、砂糖等原料制作，常搭配抹茶食用。" ],
+  "notes" : [ "「和菓子」与「洋菓子（ようがし）」相对，指日本本土传统点心，种类丰富，根据季节和场合有不同的品类，比如樱饼、羊羹等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4296,
+  "word" : "和語",
+  "reading" : "わご",
+  "romaji" : null,
+  "meaning" : [ "指日本固有的词汇，与来自汉语的汉语词、来自西洋语的外来语相对，多为反映日本本土生活、自然、情感的词汇，例如「山」「水」「喜ぶ」等。" ],
+  "notes" : [ "和语词汇的读音多为训读，部分和语词也存在音读的情况，但本质仍是日本固有词汇范畴。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4297,
+  "word" : "和風",
+  "reading" : "わふう",
+  "romaji" : null,
+  "meaning" : [ "日式风格；日本风味，特指具有日本传统样式、特色的风格，涵盖饮食、建筑、服饰、装饰等领域" ],
+  "notes" : [ "可构成复合词，如「和風料理」「和風建築」「和風ファッション」等，用于明确具体领域的日式风格" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4298,
+  "word" : "和食",
+  "reading" : "わしょく",
+  "romaji" : null,
+  "meaning" : [ "日式饭菜，日本料理，指日本传统饮食，包含寿司、刺身、天妇罗、味噌汤等品类" ],
+  "notes" : [ "与「洋食（ようしょく）」「中華食（ちゅうかしょく）」相对，是日本传统饮食文化的代表" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4299,
+  "word" : "咎める",
+  "reading" : "とがめる",
+  "romaji" : null,
+  "meaning" : [ "1. 责备，责难，指责；2. （因受伤、过敏等）红肿，发炎" ],
+  "notes" : [ "作为“红肿、发炎”义时，多以「～が咎める」的形式使用，为较口语化的表达。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4300,
+  "word" : "咲きます",
+  "reading" : "さきます",
+  "romaji" : null,
+  "meaning" : [ "（花、樱花等）开放，盛开" ],
+  "notes" : [ "「咲く」的ます形，主要用于描述植物开花的状态，除花朵外，也可用于描述像樱花、梅花这类观赏性花木的盛开。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+} ]

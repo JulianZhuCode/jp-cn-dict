@@ -1,0 +1,901 @@
+[ {
+  "id" : 6201,
+  "word" : "抑制",
+  "reading" : "よくせい",
+  "romaji" : null,
+  "meaning" : [ "抑制，制止；控制，约束。" ],
+  "notes" : [ "作为名词使用时，可直接在句中作主语、宾语等；作为サ変動詞时，常以「～を抑制する」的形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6202,
+  "word" : "抑圧",
+  "reading" : "よくあつ",
+  "romaji" : null,
+  "meaning" : [ "压制，压迫；抑制，压抑" ],
+  "notes" : [ "该词在日语中主要作为名词使用，表达对某种力量、情感等的抑制或压制。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6203,
+  "word" : "抓る",
+  "reading" : "つまる",
+  "romaji" : null,
+  "meaning" : [ "掐，拧；捏；夹；揪" ],
+  "notes" : [ "该词一般用于描述用手指等部位进行掐、拧等动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6204,
+  "word" : "投げやり",
+  "reading" : "なげやり",
+  "romaji" : null,
+  "meaning" : [ "不认真，马虎，敷衍，草率；指做事时缺乏认真负责的态度，随意应付" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾要接「だ」，作定语时直接修饰名词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6205,
+  "word" : "投げる",
+  "reading" : "なげる",
+  "romaji" : null,
+  "meaning" : [ "投，扔，掷；抛弃，放弃；投射（目光等）" ],
+  "notes" : [ "「投げる」是一段动词，词尾「る」前的假名「げ」处于い段。在使用时要注意其不同语境下的含义。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6206,
+  "word" : "投げ出す",
+  "reading" : "なげだす",
+  "romaji" : null,
+  "meaning" : [ "1. 扔出去，抛出去；2. 放弃，抛弃（工作、计划等）；3. 豁出去，不顾一切地去做；4. 突然说出，突然提出" ],
+  "notes" : [ "“投げ出す” 既可以用于具体的动作，如扔东西，也可以用于抽象的概念，如放弃工作、计划等。在使用时需要根据上下文来准确理解其含义。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6207,
+  "word" : "投げ込む",
+  "reading" : "なげこむ",
+  "romaji" : null,
+  "meaning" : [ "1. 投进，投入，扔进；2. 投身于，致力于；3. 陷入，置身于" ],
+  "notes" : [ "「投げ込む」前接的宾语可以是具体的物品，也可以是抽象的事情，如「仕事」等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6208,
+  "word" : "投げ返す",
+  "reading" : "なげかえす",
+  "romaji" : null,
+  "meaning" : [ "1. 扔回去，投回去；2. 反驳，回敬" ],
+  "notes" : [ "该词在不同语境中有不同含义，需根据上下文理解。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6209,
+  "word" : "投下",
+  "reading" : "とうか",
+  "romaji" : null,
+  "meaning" : [ "投下，投掷；投放；投资。例如炸弹、资金等的投放。" ],
+  "notes" : [ "该词为サ变动词，在使用时常见「投下する」的形式。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6210,
+  "word" : "投入",
+  "reading" : "とうにゅう",
+  "romaji" : null,
+  "meaning" : [ "投进去；投入（资本、精力等）；投放；注入" ],
+  "notes" : [ "该词为サ变动词，其词干为“投入”，词尾为“する”，常见用法为“名词+を+投入する”，表示将某物投入到某个事物中。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6211,
+  "word" : "投書",
+  "reading" : "とうしょ",
+  "romaji" : null,
+  "meaning" : [ "投稿，寄稿；（向机关等）写信" ],
+  "notes" : [ "该词为名词，不能像动词一样进行活用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6212,
+  "word" : "投票",
+  "reading" : "とうひょう",
+  "romaji" : null,
+  "meaning" : [ "投票；表决" ],
+  "notes" : [ "该词为音读词汇，常见搭配有「投票する」（进行投票）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6213,
+  "word" : "投資",
+  "reading" : "とうし",
+  "romaji" : null,
+  "meaning" : [ "投资；投入（时间、精力等）" ],
+  "notes" : [ "“投資”作为名词，后续助词“する”可以构成サ变动词形式，表示“进行投资”的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6214,
+  "word" : "抗う",
+  "reading" : "あらがう",
+  "romaji" : null,
+  "meaning" : [ "抵抗，抗争，反抗；对抗，抗衡；挣扎" ],
+  "notes" : [ "该词为五段动词，其词尾为「う」段假名，在日语中使用较为常见，用于表达面对困难、压力、敌人等时的反抗或抵抗行为。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6215,
+  "word" : "抗生物質",
+  "reading" : "こうせいぶっしつ",
+  "romaji" : null,
+  "meaning" : [ "名词，抗生素；抗菌素" ],
+  "notes" : [ "该词是医学领域常用词汇，使用时需注意遵循医嘱使用抗生素。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6216,
+  "word" : "抗議",
+  "reading" : "こうぎ",
+  "romaji" : null,
+  "meaning" : [ "名词，意为抗议、反对。" ],
+  "notes" : [ "该词为音读词汇，在日常交流和书面表达中较为常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6217,
+  "word" : "折",
+  "reading" : "おり",
+  "romaji" : null,
+  "meaning" : [ "名词，意为‘时候、时机’；也可指‘折叠、对折的状态；折断、弯曲的地方’等" ],
+  "notes" : [ "该词在使用中常用于表达特定的时间点或情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6218,
+  "word" : "折り入って",
+  "reading" : "おりいって",
+  "romaji" : null,
+  "meaning" : [ "诚恳；特意；郑重其事地" ],
+  "notes" : [ "该词通常用于描述某人以认真、诚恳的态度去做某事，或为了某件事特意花费精力。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6219,
+  "word" : "折り合う",
+  "reading" : "おりあう",
+  "romaji" : null,
+  "meaning" : [ "① （双方）达成一致；谈妥；商定。② 相处融洽；合得来。③ 相符；吻合。" ],
+  "notes" : [ "该词为五段动词，词尾为「う」段假名，在进行词形变化时遵循五段动词的变化规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6220,
+  "word" : "折り畳む",
+  "reading" : "おりたたむ",
+  "romaji" : null,
+  "meaning" : [ "叠，折叠；折合；使屈服" ],
+  "notes" : [ "该词为五段动词，词尾为「む」，在日语中用于描述将物品折叠起来的动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6221,
+  "word" : "折り返し",
+  "reading" : "おりかえし",
+  "romaji" : null,
+  "meaning" : [ "1. 翻折，折叠；2. 返回，折回；3. 立即，尽快；4. 反复，多次；5. 对折，对开" ],
+  "notes" : [ "该词作为名词使用，常见于日常和商务用语中，在表示‘立即、尽快’之意时，常用于书信、商务信函等书面表达中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6222,
+  "word" : "折り返す",
+  "reading" : "おりかえす",
+  "romaji" : null,
+  "meaning" : [ "1. 折回，返回；2. 对折，折叠；3. 改变，转变" ],
+  "notes" : [ "该词为五段动词，词尾为「す」，在日语中使用较为频繁，需注意其不同含义在不同语境中的运用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6223,
+  "word" : "折る",
+  "reading" : "おる",
+  "romaji" : null,
+  "meaning" : [ "折，折断；折叠；屈服；挫败；中断；停止；拒绝；驳回" ],
+  "notes" : [ "该词为五段动词，词尾在「う」段上，活用变化遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6224,
+  "word" : "折れます",
+  "reading" : "おれます",
+  "romaji" : null,
+  "meaning" : [ "折，断；弯曲；屈服；拐弯；时间流逝。" ],
+  "notes" : [ "「折れます」是自动词，表示物体自身折断、弯曲等状态的变化。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6225,
+  "word" : "折れる",
+  "reading" : "おれる",
+  "romaji" : null,
+  "meaning" : [ "折，折断；弯曲；屈服；倒闭，破产" ],
+  "notes" : [ "自动词，使用时需注意与他动词“折る（おる）”的区别。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6226,
+  "word" : "折衷",
+  "reading" : "せっちゅう",
+  "romaji" : null,
+  "meaning" : [ "折中，调和，取两者之长。" ],
+  "notes" : [ "该词为音读词汇，在使用时通常作名词，与「する」搭配构成サ变动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6227,
+  "word" : "抜かす",
+  "reading" : "ぬかす",
+  "romaji" : null,
+  "meaning" : [ "遗漏，漏掉；跳过；偷出，抽出；省略；摆脱" ],
+  "notes" : [ "该词为五段动词，词尾变化符合五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6228,
+  "word" : "抜きん出る",
+  "reading" : "ぬきんでる",
+  "romaji" : null,
+  "meaning" : [ "出类拔萃；突出；挑选出来" ],
+  "notes" : [ "常用于描述人或事物在某方面表现突出，与周围形成明显差异。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6229,
+  "word" : "抜き出す",
+  "reading" : "ぬきだす",
+  "romaji" : null,
+  "meaning" : [ "拔出，抽出；选拔，挑选；提取，摘录；突出，显眼" ],
+  "notes" : [ "「抜き出す」是五段动词，其词尾变化遵循五段动词的规则。在使用时，要注意其不同含义在具体语境中的运用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6230,
+  "word" : "抜く",
+  "reading" : "ぬく",
+  "romaji" : null,
+  "meaning" : [ "1. 抽出，拔出；2. 除掉，去掉；3. 选出，挑出；4. 超过，超出；5. 省略，略去" ],
+  "notes" : [ "「抜く」是五段动词，在使用时要注意其词尾变化规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6231,
+  "word" : "抜ける",
+  "reading" : "ぬける",
+  "romaji" : null,
+  "meaning" : [ "脱落；漏掉；穿过；退出；摆脱；通过（考试等）" ],
+  "notes" : [ "「抜ける」是自动词，表示自然或被动的动作。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6232,
+  "word" : "抜け出す",
+  "reading" : "ぬけだす",
+  "romaji" : null,
+  "meaning" : [ "悄悄溜走；逃脱；脱离；开始脱落" ],
+  "notes" : [ "该词强调从某个场所、状态、群体等中脱离或逃脱出来。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6233,
+  "word" : "抜け落ちる",
+  "reading" : "ぬけおちる",
+  "romaji" : null,
+  "meaning" : [ "脱落；遗漏；掉队；脱离；漏掉。" ],
+  "notes" : [ "该词为自动词，表示自然的脱落、遗漏等状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6234,
+  "word" : "抜本的",
+  "reading" : "ばっぽんてき",
+  "romaji" : null,
+  "meaning" : [ "根本的，彻底的；治本的" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾要变成「だ」；作定语时，直接修饰名词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6235,
+  "word" : "抜群",
+  "reading" : "ばつぐん",
+  "romaji" : null,
+  "meaning" : [ "超群，突出，出众。表示在某方面远远超过一般水平。" ],
+  "notes" : [ "抜群是形容动词，在句中作谓语时要加「だ」，修饰名词时用「抜群な」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6236,
+  "word" : "披露",
+  "reading" : "ひろう",
+  "romaji" : null,
+  "meaning" : [ "宣布，公布，公开；（在人前）露面、亮相；婚礼、结婚仪式" ],
+  "notes" : [ "「披露」作为名词使用时可表示婚礼、结婚仪式；作为动词使用时是サ变动词，其词干为「披露」，词尾为「する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6237,
+  "word" : "披露宴",
+  "reading" : "ひろうえん",
+  "romaji" : null,
+  "meaning" : [ "名词，指结婚时举行的公开庆祝宴会，即婚宴、喜宴。" ],
+  "notes" : [ "在日本，披露宴是结婚仪式后的重要庆祝活动，通常会邀请亲朋好友共同参加，庆祝新人的结合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6238,
+  "word" : "抱える",
+  "reading" : "かかえる",
+  "romaji" : null,
+  "meaning" : [ "1. 抱，夹，挟；2. 担负，承担；3. 雇佣，聘用；4. 怀有，抱有（某种想法、情感等）" ],
+  "notes" : [ "该词为一段动词，在日语中使用较为频繁，不同语境下含义有所不同。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6239,
+  "word" : "抱き締める",
+  "reading" : "だきしめる",
+  "romaji" : null,
+  "meaning" : [ "紧紧抱住，紧紧搂住；内心强烈地怀有（某种情感）" ],
+  "notes" : [ "该词除了表示身体上的紧密拥抱，还可用于抽象的情感方面，如抱き締める思い（强烈的情感、执着的想法）。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6240,
+  "word" : "抱く",
+  "reading" : "だく",
+  "romaji" : null,
+  "meaning" : [ "抱；怀有（情感、想法等）" ],
+  "notes" : [ "该词为五段动词，词尾为く，变形时遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6241,
+  "word" : "抱っこ",
+  "reading" : "だっこ",
+  "romaji" : null,
+  "meaning" : [ "抱，抱小孩；拥抱" ],
+  "notes" : [ "该词为名词，常与动词「する」搭配使用，表示进行抱的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6242,
+  "word" : "抵抗",
+  "reading" : "ていこう",
+  "romaji" : null,
+  "meaning" : [ "抵抗，反抗；反感；抵御" ],
+  "notes" : [ "该词作为名词使用，常见搭配有「抵抗をする」（进行抵抗）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6243,
+  "word" : "押さえる",
+  "reading" : "おさえる",
+  "romaji" : null,
+  "meaning" : [ "1. 压，按，摁；2. 抑制，控制；3. 抓住，揪住；4. 理解，掌握；5. 决定，确定；6. 预订，预约" ],
+  "notes" : [ "该词为他动词，使用时需注意宾语的搭配。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6244,
+  "word" : "押さえ込む",
+  "reading" : "おさえこむ",
+  "romaji" : null,
+  "meaning" : [ "1. 压住，按住；2. 控制住，压制；3. 平息，抑制；4. 说服，劝服" ],
+  "notes" : [ "该动词为五段动词，活用遵循五段动词的规则，常用形式如 押さえ込め（命令形）、押さえ込んで（连用形）等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6245,
+  "word" : "押しかける",
+  "reading" : "おしかける",
+  "romaji" : null,
+  "meaning" : [ "蜂拥而至，闯进；不请自来；逼近，压过来；（风、浪等）袭来；主动搭话" ],
+  "notes" : [ "该动词使用时需注意其不同语境下含义的变化，“押しかける”常表示人或事物主动朝着某个目标移动或发起动作。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6246,
+  "word" : "押します",
+  "reading" : "おします",
+  "romaji" : null,
+  "meaning" : [ "推；按；压；挤；催促；逼迫等" ],
+  "notes" : [ "该词是动词「押す」的ます形，在日常表达中较为常用，可用于描述多种动作场景。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6247,
+  "word" : "押し上げる",
+  "reading" : "おしあげる",
+  "romaji" : null,
+  "meaning" : [ "1. 推上去，顶上去，往上抬；2. 推举，提拔；3. 提高，抬高；4.（价格等）上涨" ],
+  "notes" : [ "该词为他动词，使用时需注意宾语的搭配。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6248,
+  "word" : "押し付けがましい",
+  "reading" : "おしつけがましい",
+  "romaji" : null,
+  "meaning" : [ "强加于人的，命令式的，强逼着；盛气凌人的，咄咄逼人的" ],
+  "notes" : [ "该词为い形容词，词尾变化遵循い形容词的规则，如过去式为「押し付けがましかった」，否定式为「押し付けがましくない」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6249,
+  "word" : "押し付ける",
+  "reading" : "おしつける",
+  "romaji" : null,
+  "meaning" : [ "1. 压，按；2. 强加于人，强迫接受；3. 硬塞给，硬推销" ],
+  "notes" : [ "「押し付ける」强调一种强行施加的动作或行为，在使用时要注意语境和对象。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6250,
+  "word" : "押し入れ",
+  "reading" : "おしいれ",
+  "romaji" : null,
+  "meaning" : [ "壁橱；壁柜；杂物间" ],
+  "notes" : [ "该词是一个常见的生活词汇，用于描述家中存放物品的壁式空间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6251,
+  "word" : "押し出す",
+  "reading" : "おしだす",
+  "romaji" : null,
+  "meaning" : [ "1. 挤出；推出；使出来。例：人群中押し出して一人を出した。（从人群中推出一个人。）2. 蜂拥而出。例：人々が部屋から押し出して出た。（人们从房间里蜂拥而出。）3. 强加；硬塞。例：自分の意見を相手に押し出す。（把自己的意见强加给对方。）" ],
+  "notes" : [ "该动词为五段动词，词尾为「す」，在进行词形变化时遵循五段动词的变化规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6252,
+  "word" : "押し切る",
+  "reading" : "おしきる",
+  "romaji" : null,
+  "meaning" : [ "切断；（排除困难）坚持到底；用力推开；一口气做完" ],
+  "notes" : [ "该词为五段动词，词尾る前面是き，属于五段动词典型特征。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6253,
+  "word" : "押し合う",
+  "reading" : "おしあう",
+  "romaji" : null,
+  "meaning" : [ "相互推挤、冲撞；互相坚持、互不相让" ],
+  "notes" : [ "该词强调双方或多方之间的相互动作和对抗状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6254,
+  "word" : "押し寄せる",
+  "reading" : "おしよせる",
+  "romaji" : null,
+  "meaning" : [ "涌过来，蜂拥而至；（波浪等）袭来；（困难、问题等）纷至沓来" ],
+  "notes" : [ "该词为自动词，表示事物自发地聚集、靠近或袭来的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6255,
+  "word" : "押し込む",
+  "reading" : "おしこむ",
+  "romaji" : null,
+  "meaning" : [ "1. 硬塞，塞进；2. 硬让接受，强加；3. 闯进，硬挤进去" ],
+  "notes" : [ "该动词为五段动词，其ます形是「押し込みます」，て形是「押し込んで」等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6256,
+  "word" : "押し通す",
+  "reading" : "おしとおす",
+  "romaji" : null,
+  "meaning" : [ "坚持到底，贯彻到底；强行通过；强行推行" ],
+  "notes" : [ "该词常用于描述坚持自己的想法、计划等并使其得以实现的情况。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6257,
+  "word" : "押す",
+  "reading" : "おす",
+  "romaji" : null,
+  "meaning" : [ "压，按；推；挤；催促；逼迫" ],
+  "notes" : [ "该词为五段动词，词尾为「す」，在日语动词变形中有特定的变形规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6258,
+  "word" : "抽象的",
+  "reading" : "ちゅうしょうてき0",
+  "romaji" : null,
+  "meaning" : [ "抽象的；不具体的" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾要变成「だ」，如「抽象的だ」；修饰名词时，词尾要变成「な」，如「抽象的な概念」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6259,
+  "word" : "抽選",
+  "reading" : "ちゅうせん",
+  "romaji" : null,
+  "meaning" : [ "抽签，抓阄；抽奖" ],
+  "notes" : [ "常用于表示通过随机抽取的方式决定结果的行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6260,
+  "word" : "担う",
+  "reading" : "おう",
+  "romaji" : null,
+  "meaning" : [ "1. 担，挑；2. 承担，担负；3. 抱有（某种想法、情感等）" ],
+  "notes" : [ "该词为五段动词，词尾变化遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6261,
+  "word" : "担ぐ",
+  "reading" : "おうぐ",
+  "romaji" : null,
+  "meaning" : [ "扛，挑，背；承担，担负；以……为领袖；抱有（某种想法、感情等）" ],
+  "notes" : [ "五段动词，词尾为「ぐ」，在进行词形变化时需注意，如「担ぐ」的て形是「担いで」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6262,
+  "word" : "担任",
+  "reading" : "たんにん",
+  "romaji" : null,
+  "meaning" : [ "担任，担当；多指担任某个职务、课程等，如班主任、任课教师等。" ],
+  "notes" : [ "该词在使用时，常与具体的职务、工作等搭配。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6263,
+  "word" : "担当",
+  "reading" : "たんとう",
+  "romaji" : null,
+  "meaning" : [ "担任，负责；担当者，负责人" ],
+  "notes" : [ "作为名词使用时可表示担当的人，作为サ变动词使用时，词尾要接「する」构成完整动词形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6264,
+  "word" : "担当します",
+  "reading" : "たんとうします",
+  "romaji" : null,
+  "meaning" : [ "承担；负责。表示承担某项工作、任务或职责。" ],
+  "notes" : [ "“担当する”是三类动词，其未然形、连用形等活用遵循三类动词的规则。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6265,
+  "word" : "担当者",
+  "reading" : "たんとうしゃ",
+  "romaji" : null,
+  "meaning" : [ "负责人，责任人；负责某项工作或事务的人" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6266,
+  "word" : "担架",
+  "reading" : "たんか",
+  "romaji" : null,
+  "meaning" : [ "担架；用于搬运伤病员的工具" ],
+  "notes" : [ "该词为音读词汇，在医疗场景中常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6267,
+  "word" : "拉致",
+  "reading" : "らち",
+  "romaji" : null,
+  "meaning" : [ "强行拉走；绑架" ],
+  "notes" : [ "该词为汉字词汇，在句子中常和助词搭配使用，其动词形式是“拉致する”，属于三类动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6268,
+  "word" : "拍手",
+  "reading" : "はくしゅ",
+  "romaji" : null,
+  "meaning" : [ "鼓掌，拍手；称赞，喝彩" ],
+  "notes" : [ "该词为音读词汇，在日语中常用于表达对表演、演讲等的认可和鼓励。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6269,
+  "word" : "拒む",
+  "reading" : "こばむ",
+  "romaji" : null,
+  "meaning" : [ "拒绝；阻挡，阻止；不接受；抗拒" ],
+  "notes" : [ "该词为五段动词，词尾为「む」，按五段动词规则进行活用变化。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6270,
+  "word" : "拒否",
+  "reading" : "きょひ",
+  "romaji" : null,
+  "meaning" : [ "拒绝，否决；表示对某种请求、提议、要求等予以不接受的态度。" ],
+  "notes" : [ "「拒否」是サ变动词，在使用时前面常接「を」，如「申し出を拒否する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6271,
+  "word" : "拒絶",
+  "reading" : "きょぜつ",
+  "romaji" : null,
+  "meaning" : [ "拒绝；不接受、不答应他人的请求、提议等。" ],
+  "notes" : [ "作为名词使用时，可直接修饰名词，如「拒絶の理由」；作为动词时，使用「拒絶する」的形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6272,
+  "word" : "拗らせる",
+  "reading" : "こじらせる",
+  "romaji" : null,
+  "meaning" : [ "使复杂化，使恶化；故意刁难，使人为难" ],
+  "notes" : [ "「拗らせる」通常用于描述将事情变得复杂、困难，或者故意给他人制造麻烦的行为。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6273,
+  "word" : "拗れる",
+  "reading" : "こじれる",
+  "romaji" : null,
+  "meaning" : [ "别扭；复杂化，恶化；纠缠；拧，扭曲" ],
+  "notes" : [ "该词在使用时要注意其“复杂化、恶化”的含义常用于描述情况、关系等变得复杂或糟糕的场景。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6274,
+  "word" : "拘り",
+  "reading" : "こだわり",
+  "romaji" : null,
+  "meaning" : [ "拘泥；计较，在乎；讲究，注重" ],
+  "notes" : [ "该词为名词，无动词活用形式。常用于表达对事物有执着、在意的态度。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6275,
+  "word" : "拘る",
+  "reading" : "こだわる",
+  "romaji" : null,
+  "meaning" : [ "拘泥；固执；讲究；挑剔；纠缠；揪住（某件事不放）" ],
+  "notes" : [ "该词为五段动词，其否定形式是「拘らない」，过去式是「拘った」。常用于表达对事物有特定的要求、坚持自己的想法等语境。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6276,
+  "word" : "拘束",
+  "reading" : "こうそく",
+  "romaji" : null,
+  "meaning" : [ "1. 束缚，限制，约束。（行動や自由を制限すること。）2. 扣押，拘留。（人や物を取り押さえて自由を奪うこと。）" ],
+  "notes" : [ "作名词时，可直接使用；作动词时，常以「～を拘束する」的形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6277,
+  "word" : "拘留",
+  "reading" : "きゅうりゅう",
+  "romaji" : null,
+  "meaning" : [ "拘留，拘役；扣押" ],
+  "notes" : [ "该词为音读词汇，在法律相关语境中常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6278,
+  "word" : "招き",
+  "reading" : "まねき",
+  "romaji" : null,
+  "meaning" : [ "邀请，招待；招呼；招致，引来" ],
+  "notes" : [ "「招き」是动词「招く（まねく）」的连用形名词化形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6279,
+  "word" : "招く",
+  "reading" : "まねく",
+  "romaji" : null,
+  "meaning" : [ "1. 邀请，招待；2. 招致，引来；3. 吸引，招引" ],
+  "notes" : [ "该动词为五段动词，词尾为「く」，在进行词形变化时遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6280,
+  "word" : "招待",
+  "reading" : "しょうたい",
+  "romaji" : null,
+  "meaning" : [ "名词：招待，款待；邀请。动词：招待，款待；邀请。" ],
+  "notes" : [ "作为动词使用时，常以「招待する」的形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6281,
+  "word" : "招待券",
+  "reading" : "しょうたいけん",
+  "romaji" : null,
+  "meaning" : [ "招待券；请柬；赠券" ],
+  "notes" : [ "常用于表示被邀请参加活动时使用的凭证，也可用于商场等场所的赠券。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6282,
+  "word" : "招致",
+  "reading" : "ちょうし",
+  "romaji" : null,
+  "meaning" : [ "招来，招致；招揽，聘请。通常指引来不好的事情或后果，也可表示招揽人才等。" ],
+  "notes" : [ "该词一般用于较正式的场合，使用时需注意其语境和搭配。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6283,
+  "word" : "拝む",
+  "reading" : "おがむ",
+  "romaji" : null,
+  "meaning" : [ "叩拜；请求，央求；瞻仰，拜读；敬领，拜受" ],
+  "notes" : [ "该词是较为正式、尊敬的表达，常用于宗教仪式、请求他人等场合。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6284,
+  "word" : "拝借",
+  "reading" : "はいしゃく",
+  "romaji" : null,
+  "meaning" : [ "（自谦语）借，向他人借用物品时使用的谦逊表达方式。" ],
+  "notes" : [ "「拝借」是一种礼貌程度较高的表达，通常用于正式场合或对长辈、上级说话时。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6285,
+  "word" : "拝啓",
+  "reading" : "はいけい",
+  "romaji" : null,
+  "meaning" : [ "书信开头的敬语，用于正式信件中，相当于“敬启者”。" ],
+  "notes" : [ "“拝啓”是非常正式的书信用语，常用于商务信函、给长辈或上级的信件等场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6286,
+  "word" : "拝眉",
+  "reading" : "はいび",
+  "romaji" : null,
+  "meaning" : [ "拜谒，拜见，通常用于表示恭敬地拜见长辈、上级等。" ],
+  "notes" : [ "该词为较为正式、书面的表达，常用于传统礼仪或正式场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6287,
+  "word" : "拝見",
+  "reading" : "はいけん",
+  "romaji" : null,
+  "meaning" : [ "拜读；瞻仰；观看（他人的东西时的敬语）" ],
+  "notes" : [ "「拝見」是一个敬语词汇，用于表示对他人的尊敬，通常用于阅读、观看他人的作品、物品等场景。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6288,
+  "word" : "拝見します",
+  "reading" : "はいけんします",
+  "romaji" : null,
+  "meaning" : [ "（自谦语）观看、拜读、拜见等。用于表示自己看别人的东西或拜见别人时的谦逊表达。" ],
+  "notes" : [ "拝見する是自谦语，使用时需注意场合和对象，一般用于对长辈、上级或值得尊敬的人。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6289,
+  "word" : "拠り所",
+  "reading" : "よりどころ",
+  "romaji" : null,
+  "meaning" : [ "根据、依据；依靠、依托；住所、住处" ],
+  "notes" : [ "该词汇常用于表达事物的基础、根源或某人的依靠之处。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6290,
+  "word" : "拠点",
+  "reading" : "きょてん",
+  "romaji" : null,
+  "meaning" : [ "据点，基地；活动的中心场所" ],
+  "notes" : [ "常用于描述某个组织、活动等集中开展的地方。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6291,
+  "word" : "拡大",
+  "reading" : "かくだい",
+  "romaji" : null,
+  "meaning" : [ "名词：扩大，扩展；サ变动词：使扩大，使扩展" ],
+  "notes" : [ "「拡大」作为サ变动词使用时，常以「拡大する」的形式出现，表示使事物的规模、范围等变大。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6292,
+  "word" : "拡張",
+  "reading" : "かくちょう",
+  "romaji" : null,
+  "meaning" : [ "扩充，扩张，扩展；在数学领域可表示展开，如多项式的展开等" ],
+  "notes" : [ "该词为名词，在句子中常与「する」搭配使用来表达动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6293,
+  "word" : "拡散",
+  "reading" : "かくさん",
+  "romaji" : null,
+  "meaning" : [ "扩散；传播；蔓延" ],
+  "notes" : [ "该词为名词，无动词活用形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6294,
+  "word" : "括る",
+  "reading" : "くくる",
+  "romaji" : null,
+  "meaning" : [ "1. 捆扎，捆绑，扎紧；2. 总结，归纳；3. （用括号）括起来；4. 圈定，划定；5. 缔结，订立（条约等）" ],
+  "notes" : [ "该词为五段动词，在日语写作和表达中较为常用，需注意与相似动词区分使用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6295,
+  "word" : "拭く",
+  "reading" : "ふく",
+  "romaji" : null,
+  "meaning" : [ "擦，抹，拭，擦拭；刷去，拂去；消除，去除" ],
+  "notes" : [ "该词为五段动词，其词尾在う段上，活用规则遵循五段动词的变化规律。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6296,
+  "word" : "拳法",
+  "reading" : "けんぽう",
+  "romaji" : null,
+  "meaning" : [ "名词，指拳击、拳术等以拳为主要攻击手段的武术。" ],
+  "notes" : [ "“拳法”在日语中主要用于描述武术相关的拳法技能。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6297,
+  "word" : "拵える",
+  "reading" : "こしらえる",
+  "romaji" : null,
+  "meaning" : [ "做，制造；筹备（物品、资金等）；捏造；打扮，装饰" ],
+  "notes" : [ "「拵える」常用于描述制作物品、筹备事务等行为，在不同语境中有不同的含义。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6298,
+  "word" : "拾います",
+  "reading" : "ひろいます",
+  "romaji" : null,
+  "meaning" : [ "捡，拾；顺便买；顺路接；获得" ],
+  "notes" : [ "「拾います」是自他动词，使用时需注意句子中的搭配和语义。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6299,
+  "word" : "拾う",
+  "reading" : "ひろう",
+  "romaji" : null,
+  "meaning" : [ "拾，捡；选出，挑选；抢救；获得；学会" ],
+  "notes" : [ "该动词的ます形是「拾います」，否定形是「拾わない」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6300,
+  "word" : "持ちます",
+  "reading" : "もちます",
+  "romaji" : null,
+  "meaning" : [ "持有，携带；拿，搬；怀有，抱有；举行，举办" ],
+  "notes" : [ "“持ちます”是“持つ”的礼貌体形式，常用于正式或礼貌的场合。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+} ]

@@ -1,0 +1,901 @@
+[ {
+  "id" : 4401,
+  "word" : "四川料理",
+  "reading" : "しせんりょうり",
+  "romaji" : null,
+  "meaning" : [ "指发源于中国四川省的菜系，以麻、辣、鲜、香为特色，代表性菜品有麻婆豆腐、水煮肉片、回锅肉等。" ],
+  "notes" : [ "在日本的中华料理店中较为常见，部分菜品会根据当地口味进行调整，降低辣度。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4402,
+  "word" : "四捨五入",
+  "reading" : "ししゃごにゅう",
+  "romaji" : null,
+  "meaning" : [ "名词：四舍五入；サ变动词：进行四舍五入" ],
+  "notes" : [ "作为サ变动词使用时，可构成「四捨五入する」的形式，表示执行四舍五入的动作" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4403,
+  "word" : "四方",
+  "reading" : "よほう",
+  "romaji" : null,
+  "meaning" : [ "1. 四方、四周、四面；2. 各个方向、到处；3. 四方（指东、西、南、北四个方位）" ],
+  "notes" : [ "当表示“四方（四个方位）”时，也可读作「しほう」，属于特殊读音，需注意区分使用场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4404,
+  "word" : "四角",
+  "reading" : "しかく",
+  "romaji" : null,
+  "meaning" : [ "1. 四角形，方形；2. （物体的）四角，四个角" ],
+  "notes" : [ "可作为名词使用，也可后续「い」构成形容词「四角い（しかくい）」，表示“方形的，四角的”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4405,
+  "word" : "回します",
+  "reading" : "まわします",
+  "romaji" : null,
+  "meaning" : [ "1. 转动，旋转；2. 传递，传阅；3. 派遣，打发；4. 绕，迂回；5. 周转，流通" ],
+  "notes" : [ "「回します」是「回す（まわす）」的ます形，根据语境不同含义差异较大，需结合具体场景理解。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4406,
+  "word" : "回す",
+  "reading" : "まわす",
+  "romaji" : null,
+  "meaning" : [ "1. 转动，旋转；2. 传递，转交；3. 周转，流通；4. 绕，绕开；5. 使…轮流" ],
+  "notes" : [ "作为他动词使用，对象通常用「を」提示；部分含义可引申为“运作、调度”，比如「人員を回す」表示调配人员。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4407,
+  "word" : "回りくどい",
+  "reading" : "まわりくどい",
+  "romaji" : null,
+  "meaning" : [ "1. 拐弯抹角的，兜圈子的；2. 冗长繁杂的，啰嗦的" ],
+  "notes" : [ "多用来形容说话、行文方式不直接，或者事物结构、流程过于繁杂" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4408,
+  "word" : "回ります",
+  "reading" : "まわります",
+  "romaji" : null,
+  "meaning" : [ "1. 转动，旋转；2. 巡回，走访；3. 绕，绕远；4. 循环，轮流；5. 遍及，传播" ],
+  "notes" : [ "「回ります」是五段动词「回る（まわる）」的ます形，多用于礼貌体表达。不同语境下含义差异较大，需结合上下文判断。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4409,
+  "word" : "回り道",
+  "reading" : "まわりみち",
+  "romaji" : null,
+  "meaning" : [ "1. 绕道，绕远路；2. （人生等的）弯路，曲折经历" ],
+  "notes" : [ "可作为サ変動詞「回り道する」使用，表示“绕道走，绕远”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4410,
+  "word" : "回収",
+  "reading" : "かいしゅう",
+  "romaji" : null,
+  "meaning" : [ "1. 回收、收回（如废弃物、借出物品、资金等）；2. 收回、挽回（如成本、损失等）；3. 收集、收拢（分散的物品、人员等）" ],
+  "notes" : [ "作为サ变动词，可作名词使用，构成「回収する」的动词形式；常用于正式场合或书面语，日常口语中也可使用" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4411,
+  "word" : "回復",
+  "reading" : "かいふく",
+  "romaji" : null,
+  "meaning" : [ "1. 恢复（原来的状态、机能等）；2. 康复，痊愈；3. 收回，取回（失去的东西、权利等）；4. 回升，好转（经济、行情等）" ],
+  "notes" : [ "作为サ变自动词使用时，可构成「～を回復する」的他动词用法，此时表示主动使事物恢复原状" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4412,
+  "word" : "回復する",
+  "reading" : "かいふくする",
+  "romaji" : null,
+  "meaning" : [ "1. 恢复（原状、状态等）；2. 康复，痊愈（身体、伤病）；3. 复原，挽回（失去的事物、地位等）" ],
+  "notes" : [ "作为サ变活用动词，可单独使用「回復」作名词，构成「～の回復」「回復を図る」等表达" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4413,
+  "word" : "回想",
+  "reading" : "かいそう",
+  "romaji" : null,
+  "meaning" : [ "1. 回忆，回想，追忆；2. （文学、艺术等的）回顾，追述" ],
+  "notes" : [ "作为サ変動詞使用时常接「する」，也可作为名词直接使用，如「回想に浸る」（沉浸在回忆中）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4414,
+  "word" : "回数券",
+  "reading" : "かいすうけん",
+  "romaji" : null,
+  "meaning" : [ "多次券，联票；指可使用规定次数的票券，通常为一本多张，使用时撕取或打孔，常见于公共交通、娱乐场所等" ],
+  "notes" : [ "一般为装订成册的形式，使用次数有明确限定，部分回数券设有使用期限" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4415,
+  "word" : "回答",
+  "reading" : "かいとう",
+  "romaji" : null,
+  "meaning" : [ "1. 对提问、要求等给予回应；回答，回复，答复；2. （考试、测验的）答案" ],
+  "notes" : [ "作为サ变他动词使用时，常以「～に回答する」的形式搭配表示对象的助词「に」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4416,
+  "word" : "回覧",
+  "reading" : "かいらん",
+  "romaji" : null,
+  "meaning" : [ "1. 传阅，传看；将文件、书信等依次传递给相关人员阅览。2. （会议等的）传阅审批" ],
+  "notes" : [ "作为名词时可构成「回覧書（传阅文件）」「回覧板（传阅板）」等复合词；作为サ变动词使用时，常搭配「～に回覧する」「～を回覧する」的句式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4417,
+  "word" : "回路",
+  "reading" : "かいろ",
+  "romaji" : null,
+  "meaning" : [ "1. 电路，回路，线路；2.（事物的）循环流程，循环体系" ],
+  "notes" : [ "可用于指代电气领域的电路结构，也可抽象表示事物的循环运作流程" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4418,
+  "word" : "回転",
+  "reading" : "かいてん",
+  "romaji" : null,
+  "meaning" : [ "1. 旋转，回转，转动；2. 周转（资金、商品等）；3. 轮流，交替；4. （事物的）循环，轮回" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「回転する」的动词形式，表达动作意义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4419,
+  "word" : "回送",
+  "reading" : "かいそう",
+  "romaji" : null,
+  "meaning" : [ "1. 转寄、转送（信件、包裹等）；2. （车辆、船舶等空驶）开回、调回；3. （货物、人员等）运送、输送" ],
+  "notes" : [ "作为サ变动词，可构成「回送する」的动词形式；在物流、交通领域使用频率较高" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4420,
+  "word" : "回避",
+  "reading" : "かいひ",
+  "romaji" : null,
+  "meaning" : [ "1. 躲避、避开（不愿面对的人、事物或状况）；2. 法律上指申请法官、陪审员等回避，避免因利害关系影响公正判断" ],
+  "notes" : [ "作为サ変動詞，可构成「回避する」的动词形式，也可作为名词使用" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4421,
+  "word" : "団らん",
+  "reading" : "だんらん",
+  "romaji" : null,
+  "meaning" : [ "1. 团圆，团聚；欢聚，团聚一堂。2.（家人、亲友等的）团圆聚会，联欢会。" ],
+  "notes" : [ "作为名词使用时可后续「する」构成サ变动词型的表达，即「団らんする」，表示进行团聚、欢聚的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4422,
+  "word" : "団体",
+  "reading" : "だんたい",
+  "romaji" : null,
+  "meaning" : [ "1. 团体，集团，组织；2. （体育、文艺等的）代表队" ],
+  "notes" : [ "可构成复合词，如「団体旅行（だんたいりょこう）」（团体旅行）、「団体戦（だんたいせん）」（团体赛）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4423,
+  "word" : "団体行動",
+  "reading" : "だんたいこうどう",
+  "romaji" : null,
+  "meaning" : [ "团体行动，集体行动" ],
+  "notes" : [ "指多人作为一个集体统一进行的活动，常用于强调协作、秩序或安全场景" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4424,
+  "word" : "団地",
+  "reading" : "だんち",
+  "romaji" : null,
+  "meaning" : [ "大规模集中建造的住宅区，公寓住宅区，团地" ],
+  "notes" : [ "通常指由政府或企业统一规划建设的集合住宅，多为多层公寓楼，配套有公园、商店等公共设施" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4425,
+  "word" : "団塊",
+  "reading" : "だんかい",
+  "romaji" : null,
+  "meaning" : [ "1. 团状、块状的物体；2. 特指日本战后1947年至1949年出生的大量人口群体，即“团块世代”" ],
+  "notes" : [ "作为“团块世代”的含义是日本社会特有的说法，使用频率较高。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4426,
+  "word" : "団子",
+  "reading" : "だんご",
+  "romaji" : null,
+  "meaning" : [ "1. 糯米团子，用糯米或米粉制成的圆形点心，常蘸黄豆粉、红豆泥等食用；2. 丸子状的物体" ],
+  "notes" : [ "除食用的糯米团子外，也可用来指代外形类似丸子的其他物体，如「鉄団子（铁球）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4427,
+  "word" : "団扇",
+  "reading" : "うちわ",
+  "romaji" : null,
+  "meaning" : [ "团扇，蒲扇；（日式）扁平团扇" ],
+  "notes" : [ "是日本夏季常见的消暑用品，多为纸质或布面，形状多为圆形或椭圆形，常印有图案、文字，部分祭典活动中会作为道具使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4428,
+  "word" : "団結する",
+  "reading" : "だんけつする",
+  "romaji" : null,
+  "meaning" : [ "为了共同的目标或利益，人们、团体等紧密地联合在一起；同心协力" ],
+  "notes" : [ "常与「～と」「～で」等助词搭配，用于表示团结的对象或范围" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4429,
+  "word" : "困ります",
+  "reading" : "こまります",
+  "romaji" : null,
+  "meaning" : [ "1. 为难，难办，困惑；2. 穷困，窘迫；3. 苦恼，困扰" ],
+  "notes" : [ "是动词「困る」的ます形，用于礼貌表达。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4430,
+  "word" : "困る",
+  "reading" : "こまる",
+  "romaji" : null,
+  "meaning" : [ "1. 为难，困惑，烦恼；2. 穷困，拮据；3. 难办，不好对付；4. （身体）难受，不舒服；5. 不行，不可以" ],
+  "notes" : [ "该动词可接「～て困る」的形式，表示“因…而困扰”；在口语中也可单独使用表示拒绝、否定，如「それは困る」（那可不行）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4431,
+  "word" : "困惑",
+  "reading" : "こんわく",
+  "romaji" : null,
+  "meaning" : [ "1. 因难题、意外等陷入迷茫、不知所措的状态；2. 感到为难、困惑，无法决断" ],
+  "notes" : [ "作为ナ形容词使用时可构成「困惑した顔（困惑的表情）」这类表达；作为サ变动词使用时后续「する」，构成「困惑する」的动词形式。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4432,
+  "word" : "困難",
+  "reading" : "こんなん",
+  "romaji" : null,
+  "meaning" : [ "1. 困难的，艰难的；2. 困境，难题" ],
+  "notes" : [ "作为形容动词使用时，常接「な」修饰名词，接「に」修饰动词；也可作为名词使用，表示困境、难题。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4433,
+  "word" : "囲む",
+  "reading" : "かこむ",
+  "romaji" : null,
+  "meaning" : [ "1. 包围，环绕；2. 围起，圈起；3. 包含，囊括；4. 笼罩，萦绕" ],
+  "notes" : [ "他动词，可用于具体空间的包围，也可用于抽象情绪、范围等的笼罩或涵盖" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4434,
+  "word" : "図",
+  "reading" : "ず",
+  "romaji" : null,
+  "meaning" : [ "1. 图，图表，图形；2. 地图；3. 图画，插图；4. 计划，打算，企图" ],
+  "notes" : [ "作为“计划、企图”之意使用时，多为消极含义，常见于「図をくむ」「図をはかる」等固定搭配中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4435,
+  "word" : "図々しい",
+  "reading" : "ずうずうしい",
+  "romaji" : null,
+  "meaning" : [ "厚脸皮的，无耻的，厚颜无耻的；满不在乎的，毫无顾忌的" ],
+  "notes" : [ "多用来形容人言行举止毫无顾忌、不知羞耻的状态，语气带有贬义。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4436,
+  "word" : "図ります",
+  "reading" : "はかります",
+  "romaji" : null,
+  "meaning" : [ "谋求，设法做到；计划，策划；考虑，斟酌；推测，估计" ],
+  "notes" : [ "「図ります」是「図る（はかる）」的ます形，多用于书面语或较为正式的场合；当表示“推测、估计”时，也可写作「計ります」，二者读音、用法一致。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4437,
+  "word" : "図る",
+  "reading" : "はかる",
+  "romaji" : null,
+  "meaning" : [ "1. 图谋，策划，筹划；2. 谋求，设法获取；3. 计划，打算；4. 推测，估量，估算" ],
+  "notes" : [ "「図る」也可写作「計る」，在表示“推测、估量”含义时两者通用；作为他动词使用，后续宾语时通常用「を」提示。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4438,
+  "word" : "図形",
+  "reading" : "ずけい",
+  "romaji" : null,
+  "meaning" : [ "图形，几何图形" ],
+  "notes" : [ "指由线条、曲线等构成的平面或立体的形状，常用于数学、设计等领域。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4439,
+  "word" : "図書室",
+  "reading" : "としょしつ",
+  "romaji" : null,
+  "meaning" : [ "图书室，图书馆（多指学校、机关等内部的小型藏书借阅场所）" ],
+  "notes" : [ "一般规模小于公共的「図書館（としょかん）」，多设置在学校、企业等特定场所内，供内部人员使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4440,
+  "word" : "図書館",
+  "reading" : "としょかん",
+  "romaji" : null,
+  "meaning" : [ "图书馆，藏书馆；（机关、团体等的）资料室" ],
+  "notes" : [ "指收集、整理书籍、杂志、音像资料等供公众阅览、出借的公共设施，部分高校、企业也设有专属的図書館（资料室）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4441,
+  "word" : "図表",
+  "reading" : "ずひょう",
+  "romaji" : null,
+  "meaning" : [ "图表，指将统计数据、信息等用图形、表格的形式整理呈现的资料" ],
+  "notes" : [ "可用于学术报告、商务文档等正式场景，常见搭配有「図表を作成する（制作图表）」「図表を参照する（参考图表）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4442,
+  "word" : "図鑑",
+  "reading" : "ずかん",
+  "romaji" : null,
+  "meaning" : [ "图鉴；图册，指将各类事物（如动植物、器物、艺术品等）的图片与说明文字汇编而成的参考书籍" ],
+  "notes" : [ "多作为复合词的后半部分使用，构成如「動物図鑑」「植物図鑑」「鉄道図鑑」等具体领域的图鉴名称" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4443,
+  "word" : "図面",
+  "reading" : "ずめん",
+  "romaji" : null,
+  "meaning" : [ "图纸，设计图，工程图" ],
+  "notes" : [ "多用于建筑、机械、设计等专业领域，指用于指导制作、施工的详细图纸。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4444,
+  "word" : "固い",
+  "reading" : "かたい",
+  "romaji" : null,
+  "meaning" : [ "1. 坚硬的、坚固的；2. 牢固的、紧密的；3. 顽固的、固执的；4. 生硬的、不流畅的；5. 坚定的、坚决的" ],
+  "notes" : [ "作为形容词可用于描述物体硬度、人的性格、事物状态等多种场景，其否定形为「固くない」，过去形为「固かった」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4445,
+  "word" : "固まる",
+  "reading" : "かたまる",
+  "romaji" : null,
+  "meaning" : [ "1. 变硬，凝固；2. 固定，稳固；3. 聚集，集中；4. （态度、想法等）变得坚定，固执" ],
+  "notes" : [ "作为自动词，不接宾语，常用于描述事物自然变化或状态形成的过程。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4446,
+  "word" : "固める",
+  "reading" : "かためる",
+  "romaji" : null,
+  "meaning" : [ "1. 使凝固、使变硬；2. 坚定、巩固；3. 固定、加固；4. 凑齐、攒够（钱款等）" ],
+  "notes" : [ "作为他动词使用，可用于物理状态的改变、抽象意志的强化以及物品的加固、资金的筹措等多种场景。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4447,
+  "word" : "固執",
+  "reading" : "こしつ",
+  "romaji" : null,
+  "meaning" : [ "1. 固执己见，执意坚持；2. 拘泥，执着于（某种想法、事物等）" ],
+  "notes" : [ "作为サ変動詞使用时可构成「固執する」的形式，多带有贬义，指不听他人意见、一味坚持自身想法的行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4448,
+  "word" : "固定",
+  "reading" : "こてい",
+  "romaji" : null,
+  "meaning" : [ "1. 固定，使不移动、不变化；2. 确定下来，使成为既定状态；3. 在计算机等领域指将数据、内容等固定保存" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「固定する」的动词形式；同时也可作为名词使用，表示“固定的状态、固定物”" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4449,
+  "word" : "固有",
+  "reading" : "こゆう",
+  "romaji" : null,
+  "meaning" : [ "1. 固有，本来就有的；2. 特有，专属某个事物的" ],
+  "notes" : [ "作为形容动词使用时，常以「固有の」的形式修饰名词，也可构成「～に固有の」的结构表示“为……所特有”。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4450,
+  "word" : "国",
+  "reading" : "くに",
+  "romaji" : null,
+  "meaning" : [ "国家；祖国；故乡；家乡；领地；地区" ],
+  "notes" : [ "可作为接尾词使用，构成如「米国（べいこく）」「中国（ちゅうごく）」等国名，也可用于表示特定地域，如「北国（きたぐに）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4451,
+  "word" : "国々",
+  "reading" : "くにぐに",
+  "romaji" : null,
+  "meaning" : [ "各国，诸国，各个国家" ],
+  "notes" : [ "「国」的重叠形式，用于强调数量多或范围广的多个国家" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4452,
+  "word" : "国交",
+  "reading" : "こうこう",
+  "romaji" : null,
+  "meaning" : [ "邦交，国家之间的正式外交关系" ],
+  "notes" : [ "通常用于表示国家间的官方外交往来相关的关系" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4453,
+  "word" : "国会",
+  "reading" : "こっかい",
+  "romaji" : null,
+  "meaning" : [ "日本等国家的最高立法机关，由众议院和参议院组成；泛指各国的议会" ],
+  "notes" : [ "日本的国会是国家最高权力机关，行使立法权，还拥有对内阁的信任投票权等重要权限" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4454,
+  "word" : "国体",
+  "reading" : "こくたい",
+  "romaji" : null,
+  "meaning" : [ "1. 国家的体制、政体；2. 国家的根本体制（日本特指基于天皇统治的国家体制）；3. 国家的体面、国格" ],
+  "notes" : [ "该词在日本语境中常带有特定的历史政治含义，需结合使用场景理解。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4455,
+  "word" : "国内",
+  "reading" : "こくない",
+  "romaji" : null,
+  "meaning" : [ "1. 本国领土范围之内，国内；2. 特定场所或组织的内部" ],
+  "notes" : [ "可与「国外」构成反义词，常用于政治、经济、社会等领域的表述" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4456,
+  "word" : "国内旅行",
+  "reading" : "こくないりょこう",
+  "romaji" : null,
+  "meaning" : [ "在本国境内进行的旅行" ],
+  "notes" : [ "属于复合名词，由「国内（こくない）」和「旅行（りょこう）」复合而成，指在本国范围内的出行游览活动。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4457,
+  "word" : "国営",
+  "reading" : "こくえい",
+  "romaji" : null,
+  "meaning" : [ "国营，国家经营的" ],
+  "notes" : [ "「国営」は民営（みんえい）に対する概念で、国が所有・運営する施設や事業を指す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4458,
+  "word" : "国土",
+  "reading" : "こくど",
+  "romaji" : null,
+  "meaning" : [ "国家的领土，疆域" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4459,
+  "word" : "国境",
+  "reading" : "こっきょう",
+  "romaji" : null,
+  "meaning" : [ "1. 国与国之间的边界、国境、边境；2. （事物、领域等的）界限、分界" ],
+  "notes" : [ "可用于抽象领域的界限描述，不仅限于地理上的国界线" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4460,
+  "word" : "国外",
+  "reading" : "こくがい",
+  "romaji" : null,
+  "meaning" : [ "外国；海外，国外" ],
+  "notes" : [ "可与「海外（かいがい）」互换使用，「国外」更侧重从本国行政、法律边界角度界定的境外范围" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4461,
+  "word" : "国定",
+  "reading" : "こくてい",
+  "romaji" : null,
+  "meaning" : [ "1. 国家规定的；国家制定的。2. 由国家划定、设定的（如国定公园等）。" ],
+  "notes" : [ "作名词使用时可表示“国家的规定”，作形容动词使用时需后续「の」修饰名词，或后续「だ・です」作谓语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4462,
+  "word" : "国家",
+  "reading" : "こっか",
+  "romaji" : null,
+  "meaning" : [ "1. 拥有主权、领土和人民的政治共同体；2. 本国，自己的国家；3. 指国家政权、国家机构" ],
+  "notes" : [ "作为政治概念时，与「国（くに）」相比更侧重主权、政权层面的含义；日常表述本国时也可使用「国」，二者在多数语境下可通用，但正式场合中「国家」更具庄重感。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4463,
+  "word" : "国旗",
+  "reading" : "こっき",
+  "romaji" : null,
+  "meaning" : [ "国家正式规定的代表本国的旗帜，用于象征国家的主权、尊严与统一，常出现在国家重要仪式、外交场合等场景中" ],
+  "notes" : [ "属于和制汉语词，在正式场合及日常语境中均会使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4464,
+  "word" : "国有",
+  "reading" : "こくゆう",
+  "romaji" : null,
+  "meaning" : [ "国家所有，归国家所有" ],
+  "notes" : [ "作为ナ形容词使用时可后续「だ・です」等，构成「国有だ」「国有である」的形式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4465,
+  "word" : "国民",
+  "reading" : "こくみん",
+  "romaji" : null,
+  "meaning" : [ "1. 国家的人民，国民；2. 具有某国国籍的人" ],
+  "notes" : [ "可构成复合词，如「国民総生産（こくみんそうせいさん）」指国内生产总值（GDP）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4466,
+  "word" : "国王",
+  "reading" : "こくおう",
+  "romaji" : null,
+  "meaning" : [ "君主制国家的国家元首，一国的最高统治者；也可用于指代某些特定领域的权威人物" ],
+  "notes" : [ "作为国家元首时，对应英语的“king”，在日本历史中曾是国家最高统治者，现代日本天皇与之类似但职能不同" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4467,
+  "word" : "国産",
+  "reading" : "こくさん",
+  "romaji" : null,
+  "meaning" : [ "1. 本国生产制造的；国产的（物品）；2. 本国出生、产自本国的（生物）" ],
+  "notes" : [ "可作为连体词使用，后接名词，如「国産品（こくさんひん）」「国産牛（こくさんぎゅう）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4468,
+  "word" : "国立",
+  "reading" : "こくりつ",
+  "romaji" : null,
+  "meaning" : [ "指由国家设立、运营的（机构、设施等），如国立学校、国立博物馆等" ],
+  "notes" : [ "可作为接尾词使用，构成「国立～」的复合词，如「国立病院」「国立図書館」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4469,
+  "word" : "国立大学",
+  "reading" : "こくりつだいがく",
+  "romaji" : null,
+  "meaning" : [ "由国家设立运营的大学，区别于私立大学、公立大学" ],
+  "notes" : [ "日本的国立大学多为学术研究实力较强的院校，部分院校由文部科学省直接管辖。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4470,
+  "word" : "国籍",
+  "reading" : "こくせき",
+  "romaji" : null,
+  "meaning" : [ "指个人属于某个国家的法律上的身份，即国籍；也可指国家的属性、特性" ],
+  "notes" : [ "作为法律术语时，涉及国籍的取得、丧失等相关法律规定；日常使用中多表示个人所属的国家身份" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4471,
+  "word" : "国語",
+  "reading" : "こくご",
+  "romaji" : null,
+  "meaning" : [ "1. 本国语言，母语；2. 日本中小学的语文课程；3. 指日语（在日本语境下）" ],
+  "notes" : [ "在日本通常特指日语，作为学科时指语文课程，涵盖汉字、语法、文学等内容。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4472,
+  "word" : "国際",
+  "reading" : "こくさい",
+  "romaji" : null,
+  "meaning" : [ "1. 国际；世界各国之间的（关系、事务等）；2. 超越国界的" ],
+  "notes" : [ "可构成复合词，如「国際法（こくさいほう）」（国际法）、「国際空港（こくさいくうこう）」（国际机场）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4473,
+  "word" : "国際交流",
+  "reading" : "こくさいこうりゅう",
+  "romaji" : null,
+  "meaning" : [ "国际交流，指不同国家或地区的个人、团体、机构之间开展的文化、学术、经济等多领域的交流活动" ],
+  "notes" : [ "常与「を通じて」「プログラム」「活動」等词汇搭配使用，多用于正式语境" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4474,
+  "word" : "国際会議",
+  "reading" : "こくさいかいぎ",
+  "romaji" : null,
+  "meaning" : [ "国际会议" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4475,
+  "word" : "国際社会",
+  "reading" : "こくさいしゃかい",
+  "romaji" : null,
+  "meaning" : [ "指由世界各国、国际组织等构成的相互联系、相互作用的全球性群体，涵盖政治、经济、文化等各个领域的国际互动体系" ],
+  "notes" : [ "属于复合名词，由「国際（国际）」和「社会（社会）」复合而成，常用于正式的政治、经济、外交类语境中" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4476,
+  "word" : "国際関係",
+  "reading" : "こくさいかんけい",
+  "romaji" : null,
+  "meaning" : [ "国际关系；国家之间的政治、经济、外交等各方面的相互关系" ],
+  "notes" : [ "属于社会科学领域的常用术语，多用于政治、外交、经济等语境中" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4477,
+  "word" : "国際関係学",
+  "reading" : "こくさいかんけいがく",
+  "romaji" : null,
+  "meaning" : [ "研究国家之间、国际组织之间以及跨国主体之间的政治、经济、文化等相互关系及其规律的学科，即国际关系学" ],
+  "notes" : [ "属于社会科学领域的学术用语，常用于大学专业、学术研究场景" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4478,
+  "word" : "園芸",
+  "reading" : "えんげい",
+  "romaji" : null,
+  "meaning" : [ "园艺；园艺学；园艺工作" ],
+  "notes" : [ "除表示园艺活动外，也可指代园艺相关的学科或职业领域" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4479,
+  "word" : "土",
+  "reading" : "つち",
+  "romaji" : null,
+  "meaning" : [ "1. 土壤，泥土；2. 土地，地面；3. 国土，领土；4. （相扑）土俵" ],
+  "notes" : [ "「土」除常见含义外，在相扑语境中特指比赛场地“土俵”；作为接尾词使用时可构成「～土」形式，如「日土（にちど）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4480,
+  "word" : "土俵",
+  "reading" : "どひょう",
+  "romaji" : null,
+  "meaning" : [ "1. 相扑比赛用的方形场地，通常铺有特制的土沙，四周设有边界；2. 引申指相扑界、相扑行业" ],
+  "notes" : [ "土俵是相扑运动的核心场地，其规格和铺设方式有严格规定，也是相扑选手进行比赛、仪式的重要空间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4481,
+  "word" : "土台",
+  "reading" : "どだい",
+  "romaji" : null,
+  "meaning" : [ "1. 建筑物的地基、基础；2. 事物的根基、基础；3. 本来、原本；4. （相扑）土俵的台座" ],
+  "notes" : [ "可作为接頭詞使用，接在名词前表示“原本、本来”，如「土台付き」（附带基座）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4482,
+  "word" : "土地",
+  "reading" : "とち",
+  "romaji" : null,
+  "meaning" : [ "1. 土地，地面；2. 田地，耕地；3. 地区，地方；4. 领土，领地" ],
+  "notes" : [ "可构成复合词如「土地勘（とちかん）」，意为方位感、对当地的熟悉度" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4483,
+  "word" : "土壇場",
+  "reading" : "どだんば",
+  "romaji" : null,
+  "meaning" : [ "1. （相扑台的）土台，土坛；2. 最后关头，紧要关头，绝境" ],
+  "notes" : [ "原本指相扑比赛的土制擂台，后引申为事情发展到最终、无法再拖延的关键节点或绝境" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4484,
+  "word" : "土手",
+  "reading" : "どて",
+  "romaji" : null,
+  "meaning" : [ "堤坝，河堤；土坡，土埂" ],
+  "notes" : [ "除表示水利设施的堤坝、河堤外，也可指农田、道路旁的土坡、土埂" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4485,
+  "word" : "土日",
+  "reading" : "どにち",
+  "romaji" : null,
+  "meaning" : [ "周六和周日，周末" ],
+  "notes" : [ "「土曜日」と「日曜日」の略称で、主に日本の勤労者や学生が休日を指す場合に使用される。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4486,
+  "word" : "土曜日",
+  "reading" : "どようび",
+  "romaji" : null,
+  "meaning" : [ "星期六" ],
+  "notes" : [ "日本の曜日は「日曜日」を週の初めとする場合が多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4487,
+  "word" : "土木",
+  "reading" : "どぼく",
+  "romaji" : null,
+  "meaning" : [ "土木工程；土木建筑（包括道路、桥梁、堤坝、上下水道等公共基础设施的设计、施工、维护等相关工程领域）" ],
+  "notes" : [ "通常用于指代公共基础设施建设相关的工程领域，是「土木工学（どぼくこうがく）」的简称" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4488,
+  "word" : "土産",
+  "reading" : "みやげ",
+  "romaji" : null,
+  "meaning" : [ "1. 特产，当地名产；2. 出门回来时给亲友带的礼物、伴手礼；3. （访问他人时）带去的礼品" ],
+  "notes" : [ "通常写作「お土産」以表礼貌，是日常社交中常用的词汇，涵盖旅行伴手礼、拜访礼品、地方特产等多种场景" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4489,
+  "word" : "土産物屋",
+  "reading" : "みやげものや",
+  "romaji" : null,
+  "meaning" : [ "土特产店，礼品店；土特产店店主" ],
+  "notes" : [ "当表示店铺时侧重售卖当地特产、礼品的店铺；表示店主时指经营此类店铺的人，日常使用中更多用来指代店铺本身。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4490,
+  "word" : "土砂",
+  "reading" : "どしゃ",
+  "romaji" : null,
+  "meaning" : [ "泥砂，沙土，泥沙" ],
+  "notes" : [ "常以「土砂降り」的形式表示倾盆大雨、暴雨" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4491,
+  "word" : "圧倒",
+  "reading" : "あっとう",
+  "romaji" : null,
+  "meaning" : [ "1. 压倒，制服，使屈服；2. 远超，胜过，占绝对优势；3. （情感等）强烈冲击，使深受震撼" ],
+  "notes" : [ "可作为サ変動詞使用，也常以「圧倒的」（あっとうてき）的形式作为形容动词修饰名词，表示“压倒性的”" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4492,
+  "word" : "圧力",
+  "reading" : "あつりょく",
+  "romaji" : null,
+  "meaning" : [ "1. 物理上的压力；2. 精神、社会层面的压迫感、强制力；3. （机械、装置等的）压力" ],
+  "notes" : [ "可构成复合词如「圧力鍋（あつりょくなべ）」（压力锅）、「圧力計（あつりょくけい）」（压力计）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4493,
+  "word" : "圧縮",
+  "reading" : "あっしゅく",
+  "romaji" : null,
+  "meaning" : [ "1. 压缩（体积、空间等）；2. 缩短（长度、时间、内容等）；3. （数据）压缩" ],
+  "notes" : [ "作为名词使用时可后续「する」构成サ变动词，在计算机领域常指数据压缩" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4494,
+  "word" : "圧迫",
+  "reading" : "あっぱく",
+  "romaji" : null,
+  "meaning" : [ "1. 压迫，压制，逼迫；2. （物理上的）挤压，压力；3. （时间、经济等方面的）紧迫，拮据" ],
+  "notes" : [ "作名词时可后续「する」构成サ変動詞，既可以表示物理层面的压力，也可用于抽象的精神、时间、经济等领域的逼迫感" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4495,
+  "word" : "在学",
+  "reading" : "ざいがく",
+  "romaji" : null,
+  "meaning" : [ "在校，上学；就学状态" ],
+  "notes" : [ "可构成复合词「在学中（ざいがくちゅう）」，表示“在校期间”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4496,
+  "word" : "在宅",
+  "reading" : "ざいたく",
+  "romaji" : null,
+  "meaning" : [ "1. 在家，留守；2. 居家（办公、工作等）" ],
+  "notes" : [ "作为名词时可后续「で」表示状态，作为サ変動詞可直接后续「する」构成动词形式，常用于表示居家办公、留守等场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4497,
+  "word" : "在庫",
+  "reading" : "ざいこ",
+  "romaji" : null,
+  "meaning" : [ "库存，存货；库存品，存货量" ],
+  "notes" : [ "可构成复合词如「在庫管理（ざいこかんり）」（库存管理）、「在庫量（ざいこりょう）」（库存量）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4498,
+  "word" : "地",
+  "reading" : "ち",
+  "romaji" : null,
+  "meaning" : [ "1. 土地，地面；陆地；地球；2. 当地，本地；3. 底子，底色；4. 质地，材料；5. 地盘，势力范围" ],
+  "notes" : [ "作为汉字单独使用时多表达土地、本地等基础含义，构成复合词时可引申出底子、质地等多种语义，如「生地（きじ）」表示布料，「地元（じもと）」表示本地。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4499,
+  "word" : "地上",
+  "reading" : "ちじょう",
+  "romaji" : null,
+  "meaning" : [ "1. 地面上，地上；2. 地球上，世间；3. （相对于地下、空中的）地面区域" ],
+  "notes" : [ "可用于表示物理层面的地面空间，也可引申指代人类生活的世间、尘世" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4500,
+  "word" : "地下",
+  "reading" : "ちか",
+  "romaji" : null,
+  "meaning" : [ "1. 地面以下的空间；地下。2. 秘密、不公开的场所或活动。" ],
+  "notes" : [ "作为「秘密的、不公开」含义使用时，多带有负面或隐蔽的语境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

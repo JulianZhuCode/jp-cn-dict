@@ -1,0 +1,901 @@
+[ {
+  "id" : 5201,
+  "word" : "尋ねる",
+  "reading" : "たずねる",
+  "romaji" : null,
+  "meaning" : [ "1. 询问；打听。2. 寻找；探访。" ],
+  "notes" : [ "写作「訪ねる」时，意为「拜访、访问」；写作「尋ねる」时，意为「询问、打听」或「寻找」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5202,
+  "word" : "導き出す",
+  "reading" : "みちびきだす",
+  "romaji" : null,
+  "meaning" : [ "导出，引出，推导；引导出" ],
+  "notes" : [ "由“導く（みちびく）”的连用形“導き”复合动词“出す”而成。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5203,
+  "word" : "導く",
+  "reading" : "みちびく",
+  "romaji" : null,
+  "meaning" : [ "1. 引导，指引；带路。2. 导致，引起；造成。3. 领悟，推导（出理论、结论等）。" ],
+  "notes" : [ "在表示“导致某种结果”时，通常后续接续否定或消极的词汇。也可写作‘みちびく’。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5204,
+  "word" : "導入",
+  "reading" : "どうにゅう",
+  "romaji" : null,
+  "meaning" : [ "引入，导入，引进（新技术、新系统等）；入门，引论" ],
+  "notes" : [ "通常以「導入する」的形式作为动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5205,
+  "word" : "導入する",
+  "reading" : "どうにゅうする",
+  "romaji" : null,
+  "meaning" : [ "引进，引入，导入；采用" ],
+  "notes" : [ "通常指引进新技术、设备或制度等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5206,
+  "word" : "小さい",
+  "reading" : "ちいさい",
+  "romaji" : null,
+  "meaning" : [ "（规模、体积、年龄、数值等）小的，幼小的" ],
+  "notes" : [ "反义词是「大きい（おおきい）」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5207,
+  "word" : "小さじ",
+  "reading" : "こさじ",
+  "romaji" : null,
+  "meaning" : [ "小匙，小勺；小汤匙（通常指约5毫升的计量单位）" ],
+  "notes" : [ "常用于食谱中表示计量单位，对应大汤匙（大さじ）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5208,
+  "word" : "小さな",
+  "reading" : "ちいさな",
+  "romaji" : null,
+  "meaning" : [ "小的；微小的；琐碎的" ],
+  "notes" : [ "连体词，只能修饰名词，不能单独作谓语使用。口语中有时读作 'ちいさいな'，但在标准日语教育中通常读作 'ちいさな'。" ],
+  "pos" : "PRENOM",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5209,
+  "word" : "小児科",
+  "reading" : "しょうにか",
+  "romaji" : null,
+  "meaning" : [ "儿科，小儿科；诊治儿童疾病的医疗科室" ],
+  "notes" : [ "由“小児”（儿童）和“科”（科室）组成的复合词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5210,
+  "word" : "小切手",
+  "reading" : "こぎって",
+  "romaji" : null,
+  "meaning" : [ "支票" ],
+  "notes" : [ "「小切手」は、銀行に一定の金額の支払いを委託する証券です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5211,
+  "word" : "小包",
+  "reading" : "こづつみ",
+  "romaji" : null,
+  "meaning" : [ "包裹，邮包" ],
+  "notes" : [ "通常指通过邮寄或快递方式运输的小件包裹。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5212,
+  "word" : "小型",
+  "reading" : "こがた",
+  "romaji" : null,
+  "meaning" : [ "（名・ナ形）小型；（规模）小；小型计算机的简称" ],
+  "notes" : [ "「小型」は名詞としても、ナ形容詞（形容動詞）としても使用可能。「大型」の対義語。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5213,
+  "word" : "小声",
+  "reading" : "こごえ",
+  "romaji" : null,
+  "meaning" : [ "小声，低声，低语" ],
+  "notes" : [ "常用词，指说话声音很小。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5214,
+  "word" : "小売",
+  "reading" : "こうり",
+  "romaji" : null,
+  "meaning" : [ "零售" ],
+  "notes" : [ "通常与「卸売（おろしうり）」相对，指将商品直接卖给消费者的销售方式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5215,
+  "word" : "小学校",
+  "reading" : "しょうがっこう",
+  "romaji" : null,
+  "meaning" : [ "小学" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5216,
+  "word" : "小学生",
+  "reading" : "しょうがくせい",
+  "romaji" : null,
+  "meaning" : [ "小学生" ],
+  "notes" : [ "指小学1年级到6年级的学生。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5217,
+  "word" : "小屋",
+  "reading" : "こや",
+  "romaji" : null,
+  "meaning" : [ "小房子；棚子；窝；陋屋" ],
+  "notes" : [ "指规模较小、结构简单的建筑物，如棚子、小屋、工棚等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5218,
+  "word" : "小指",
+  "reading" : "こゆび",
+  "romaji" : null,
+  "meaning" : [ "小指" ],
+  "notes" : [ "身体部位名称，属于N5级别基础词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5219,
+  "word" : "小数",
+  "reading" : "しょうすう",
+  "romaji" : null,
+  "meaning" : [ "（数学）小数；数额小；微小的数目" ],
+  "notes" : [ "数学术语，指整数之间的数，通常带有小数点。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5220,
+  "word" : "小数点",
+  "reading" : "しょうすうてん",
+  "romaji" : null,
+  "meaning" : [ "小数点（整数与小数之间的点）" ],
+  "notes" : [ "数学や計算で使用される用語で、整数部分と小数部分を区切る記号を指す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5221,
+  "word" : "小柄",
+  "reading" : "こがら",
+  "romaji" : null,
+  "meaning" : [ "（花纹）小花样，碎花；（身材）矮小，身材小巧" ],
+  "notes" : [ "形容动词（Na-形容词）。既可以指物体的花纹细小，也可以指人的身材矮小。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5222,
+  "word" : "小物",
+  "reading" : "こもの",
+  "romaji" : null,
+  "meaning" : [ "1. 小东西，细小的物品；2. 小道具，小附件；3. 小人物（微不足道的人）" ],
+  "notes" : [ "常用于指代琐碎的物品或配件，也可用于比喻地位低微的人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5223,
+  "word" : "小社",
+  "reading" : "しょうしゃ",
+  "romaji" : null,
+  "meaning" : [ "敝公司；小公司（用于指代自己公司时的谦称）" ],
+  "notes" : [ "“小社”是“当社”（とうしゃ）的谦称，用于对外人提及自己公司时，表示谦虚。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5224,
+  "word" : "小説",
+  "reading" : "しょうせつ",
+  "romaji" : null,
+  "meaning" : [ "小说" ],
+  "notes" : [ "指虚构的故事性文学作品，通常以散文形式写成。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5225,
+  "word" : "小豆",
+  "reading" : "あずき",
+  "romaji" : null,
+  "meaning" : [ "红豆；红小豆（多用于制作红豆馅、羊羹等甜点）" ],
+  "notes" : [ "通常训读为「あずき」，但在植物学或特定语境下也可音读为「しょうず」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5226,
+  "word" : "小遣い",
+  "reading" : "こづかい",
+  "romaji" : null,
+  "meaning" : [ "零花钱，零用钱" ],
+  "notes" : [ "指日常生活中的小额开销费用，通常指父母给孩子或丈夫给妻子的生活零用钱。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5227,
+  "word" : "小銭",
+  "reading" : "こぜに",
+  "romaji" : null,
+  "meaning" : [ "零钱；小额货币" ],
+  "notes" : [ "指金额较小的硬币或零钱。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5228,
+  "word" : "小雨",
+  "reading" : "こさめ",
+  "romaji" : null,
+  "meaning" : [ "小雨，微雨" ],
+  "notes" : [ "指雨量较小、细密的雨。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5229,
+  "word" : "小鳥",
+  "reading" : "ことり",
+  "romaji" : null,
+  "meaning" : [ "小鸟；指体型较小的鸟类，如麻雀、黄莺等" ],
+  "notes" : [ "通常指体型较小的鸟类，常用于形容可爱或娇小的鸟类。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5230,
+  "word" : "小麦",
+  "reading" : "こむぎ",
+  "romaji" : null,
+  "meaning" : [ "小麦" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5231,
+  "word" : "小麦粉",
+  "reading" : "こむぎこ",
+  "romaji" : null,
+  "meaning" : [ "面粉；小麦粉" ],
+  "notes" : [ "通常简称为「粉（こな）」。根据用途不同，可分为薄力粉、中力粉、强力粉等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5232,
+  "word" : "少々",
+  "reading" : "しょうしょう",
+  "romaji" : null,
+  "meaning" : [ "少许，稍微；一点点" ],
+  "notes" : [ "常用于郑重的场合或书面语中，比“少し”更正式。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5233,
+  "word" : "少し",
+  "reading" : "すこし",
+  "romaji" : null,
+  "meaning" : [ "少许，稍微；一点点" ],
+  "notes" : [ "常用副词，用于修饰动词或形容词。在口语中有时读作“すこっし”。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5234,
+  "word" : "少しでも",
+  "reading" : "すこしでも",
+  "romaji" : null,
+  "meaning" : [ "哪怕一点点；尽可能；尽量" ],
+  "notes" : [ "由副词“少し”与提示助词“でも”构成，表示程度虽小但希望能达到某种愿望，常与意愿、希望等表达方式连用。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5235,
+  "word" : "少しも",
+  "reading" : "すこしも",
+  "romaji" : null,
+  "meaning" : [ "一点也（不）；丝毫（不）。通常与否定形式呼应使用。" ],
+  "notes" : [ "通常后接否定语，表示完全否定。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5236,
+  "word" : "少ない",
+  "reading" : "すくない",
+  "romaji" : null,
+  "meaning" : [ "（数量）少，不多；缺乏。" ],
+  "notes" : [ "通常用于描述数量稀少。描述人数时常用“人が少ない”。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5237,
+  "word" : "少なくとも",
+  "reading" : "すくなくとも",
+  "romaji" : null,
+  "meaning" : [ "至少；最低；起码" ],
+  "notes" : [ "表示数量、程度或时间的最低限度。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5238,
+  "word" : "少子化",
+  "reading" : "しょうしか",
+  "romaji" : null,
+  "meaning" : [ "少子化；出生率下降，儿童数量减少的现象" ],
+  "notes" : [ "指生育率下降，儿童人口比例减少的社会现象。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5239,
+  "word" : "少年",
+  "reading" : "しょうねん",
+  "romaji" : null,
+  "meaning" : [ "（1）少年。从儿童到青年的过渡期，通常指约7岁到15岁左右的男性。（2）少年。也用于法律用语中（如少年法）。" ],
+  "notes" : [ "女性の場合は「少女（しょうじょ）」と言う。法律用語では「少年法」に基づき、20歳未満の男女を指すことがある。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5240,
+  "word" : "少数",
+  "reading" : "しょうすう",
+  "romaji" : null,
+  "meaning" : [ "少数；少部分；数量少。" ],
+  "notes" : [ "反义词是“多数（たすう）”。常用惯用语有“少数派（しょうすうは）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5241,
+  "word" : "少量",
+  "reading" : "しょうりょう",
+  "romaji" : null,
+  "meaning" : [ "数量が少ないこと。少しばかりの数量。" ],
+  "notes" : [ "対義語は「多量（たりょう）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5242,
+  "word" : "尖る",
+  "reading" : "とがる",
+  "romaji" : null,
+  "meaning" : [ "1. 变尖，变锐利；（末端）尖锐。2. （神经）紧张，变得敏感；发怒。" ],
+  "notes" : [ "通常写作「尖る」。表示神经紧张时，常用「神経が尖る」的形式。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5243,
+  "word" : "尚",
+  "reading" : "なお",
+  "romaji" : null,
+  "meaning" : [ "还，仍然；尚且，而且；更加" ],
+  "notes" : [ "也可写作「猶」。作为副词使用，表示程度继续或更加。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5244,
+  "word" : "尤も",
+  "reading" : "もっとも",
+  "romaji" : null,
+  "meaning" : [ "话虽如此，不过；诚然，固然" ],
+  "notes" : [ "用于承认前述事项的同时，提出修正、补充或例外的情况。也可以作为形容词表示“合理的”、“正当的”。" ],
+  "pos" : "CONJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5245,
+  "word" : "就く",
+  "reading" : "つく",
+  "romaji" : null,
+  "meaning" : [ "1. 就座，入席（席に着く）。2. 就职，就任（職につく）。3. 师从，跟随（师父）学习（師につく）。4. 从事（某种工作）（業につく）。" ],
+  "notes" : [ "注意与表示“点火/附着”的动词“着く（つく）”书写和读音相同，需根据上下文区分。常以“～に就く”的形式使用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5246,
+  "word" : "就任",
+  "reading" : "しゅうにん",
+  "romaji" : null,
+  "meaning" : [ "就任，赴任；担任职务。" ],
+  "notes" : [ "通常作为サ变动词（就任する）使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5247,
+  "word" : "就活",
+  "reading" : "しゅうかつ",
+  "romaji" : null,
+  "meaning" : [ "求职活动；找工作" ],
+  "notes" : [ "「就職活動（しゅうしょくかつどう）」的缩略语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5248,
+  "word" : "就職",
+  "reading" : "しゅうしょく",
+  "romaji" : null,
+  "meaning" : [ "就业，就职，找到工作" ],
+  "notes" : [ "通常指获得正式工作，常以「就職する」的形式使用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5249,
+  "word" : "就職活動",
+  "reading" : "しゅうしょくかつどう",
+  "romaji" : null,
+  "meaning" : [ "找工作，求职活动（特指应届毕业生寻找工作的过程）" ],
+  "notes" : [ "常缩略为「就活（しゅうかつ）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5250,
+  "word" : "尻尾",
+  "reading" : "しっぽ",
+  "romaji" : null,
+  "meaning" : [ "尾巴；（事物的）末端，结尾" ],
+  "notes" : [ "也可写作「しっぽ」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5251,
+  "word" : "尻込み",
+  "reading" : "しりこみ",
+  "romaji" : null,
+  "meaning" : [ "因恐惧、犹豫或胆怯而畏缩不前；退缩" ],
+  "notes" : [ "通常写作“尻込み”或“尻ごみ”。名词形式也可表示“畏缩”、“犹豫”的状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5252,
+  "word" : "尽きる",
+  "reading" : "つきる",
+  "romaji" : null,
+  "meaning" : [ "1. 用光，穷尽；耗尽。\n2. 完了，结束；终了。\n3. （以...が尽きる的形式表示）到了极限，无以复加。" ],
+  "notes" : [ "通常以「～が尽きる」的形式使用。表示某物没有了或者某事结束了。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5253,
+  "word" : "尽くす",
+  "reading" : "つくす",
+  "romaji" : null,
+  "meaning" : [ "尽力；效劳；竭尽；达到极点" ],
+  "notes" : [ "通常以「～に尽くす」的形式表示“为……尽力/效劳”。也可以表示“用尽”、“达到极限”之意，如「手段を尽くす」（用尽手段）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5254,
+  "word" : "尽力",
+  "reading" : "じんりょく",
+  "romaji" : null,
+  "meaning" : [ "尽力，竭尽全力；努力" ],
+  "notes" : [ "通常以「～に尽力する」的形式使用，表示为某事竭尽全力。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5255,
+  "word" : "尾",
+  "reading" : "お",
+  "romaji" : null,
+  "meaning" : [ "尾巴；（事物的）尾部，末端；山脚" ],
+  "notes" : [ "也可写作「尻」。作为身体部位时属于基础词汇，但在表示抽象的“末端”或固定搭配（如尾を引く）时难度较高。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5256,
+  "word" : "尾行",
+  "reading" : "びこう",
+  "romaji" : null,
+  "meaning" : [ "尾随，跟踪（指跟在某人后面监视其行踪）" ],
+  "notes" : [ "サ変動詞「尾行する」の形でも使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5257,
+  "word" : "居合わせる",
+  "reading" : "いあわせる",
+  "romaji" : null,
+  "meaning" : [ "恰好在场，凑巧在场" ],
+  "notes" : [ "通常写作「居合わせる」，表示某人偶然出现在某处。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5258,
+  "word" : "居座る",
+  "reading" : "いすわる",
+  "romaji" : null,
+  "meaning" : [ "赖着不走；久坐不去；留任，蝉联" ],
+  "notes" : [ "带有消极色彩，指本该离开却赖着不走，或占据某个位置不放。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5259,
+  "word" : "居残る",
+  "reading" : "いのこる",
+  "romaji" : null,
+  "meaning" : [ "（别人走后）留下不走；加班；晚归" ],
+  "notes" : [ "通常指别人离开后独自留下，多用于加班或晚归的语境。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5260,
+  "word" : "居留守",
+  "reading" : "いるす",
+  "romaji" : null,
+  "meaning" : [ "假装不在家；明明在家却装作不在的样子" ],
+  "notes" : [ "常以「居留守をする」或「居留守を使う」的形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5261,
+  "word" : "居眠り",
+  "reading" : "いねむり",
+  "romaji" : null,
+  "meaning" : [ "（名·サ自）打瞌睡，打盹儿" ],
+  "notes" : [ "可作动词「居眠りする」使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5262,
+  "word" : "居酒屋",
+  "reading" : "いざかや",
+  "romaji" : null,
+  "meaning" : [ "日式小酒馆，提供酒类和简单菜肴的餐饮店" ],
+  "notes" : [ "指提供酒类及配菜的小型餐饮店，通常氛围轻松，是日本人社交和聚会的重要场所。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5263,
+  "word" : "居間",
+  "reading" : "いま",
+  "romaji" : null,
+  "meaning" : [ "起居室，客厅" ],
+  "notes" : [ "指家庭中主要用于团聚、休息和接待客人的房间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5264,
+  "word" : "屈する",
+  "reading" : "くっする",
+  "romaji" : null,
+  "meaning" : [ "屈服，屈从；屈膝" ],
+  "notes" : [ "通常以“～に屈する”的形式使用，表示在某种压力或诱惑下放弃自己的立场。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5265,
+  "word" : "屈む",
+  "reading" : "かがむ",
+  "romaji" : null,
+  "meaning" : [ "弯腰；蹲下；（因重量或压力而）弯曲，变形" ],
+  "notes" : [ "多指为了捡东西、进入低处或出于恭敬而弯腰。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5266,
+  "word" : "屈折",
+  "reading" : "くっせつ",
+  "romaji" : null,
+  "meaning" : [ "（光、音等）折射；（性格、行为等）乖僻，扭曲，不正常；（道路等）曲折，弯曲" ],
+  "notes" : [ "常用词。物理学术语指“折射”；描述心理或性格时，常指精神上的扭曲或乖僻。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5267,
+  "word" : "屈指",
+  "reading" : "くっし",
+  "romaji" : null,
+  "meaning" : [ "屈指可数，数一数二；扳着手指头数（表示数量很少）" ],
+  "notes" : [ "常以「屈指の～」的形式出现，表示数量极少或非常优秀。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5268,
+  "word" : "届きます",
+  "reading" : "とどきます",
+  "romaji" : null,
+  "meaning" : [ "1.（货物、信件等）送到，寄到，送达。\n2.（心意、声音等）传达，使...知晓。\n3.（愿望、要求等）达到，实现。" ],
+  "notes" : [ "原型为「届く（とどく）」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5269,
+  "word" : "届く",
+  "reading" : "とどく",
+  "romaji" : null,
+  "meaning" : [ "1.（邮件、货物等）送到，寄到；2.（声音、光线等）传到，达到；3.（愿望、要求等）实现，达到；4.（心意、情感等）传达，被理解" ],
+  "notes" : [ "常以「～に届く」的形式使用。反义词为「届ける（とどける）」，意为主动寄送、传达。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5270,
+  "word" : "届けます",
+  "reading" : "とどけます",
+  "romaji" : null,
+  "meaning" : [ "送到，送去；报告，申报" ],
+  "notes" : [ "原型是「届ける」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5271,
+  "word" : "届ける",
+  "reading" : "とどける",
+  "romaji" : null,
+  "meaning" : [ "1. 送到，送给（将物品送到目的地）；2. 转达，报告（将心意、消息等传达给对方）" ],
+  "notes" : [ "自动词为「届く（とどく）」，意为“收到”、“送达”。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5272,
+  "word" : "屋上",
+  "reading" : "おくじょう",
+  "romaji" : null,
+  "meaning" : [ "屋顶，房顶，楼顶" ],
+  "notes" : [ "指建筑物平坦的顶部，通常指平屋顶。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5273,
+  "word" : "屋台",
+  "reading" : "やたい",
+  "romaji" : null,
+  "meaning" : [ "摊位，售货摊；（有轮的）流动售货车；夜市小吃摊" ],
+  "notes" : [ "通常指在节日或庆典中出现的临时摊位，特指售卖食物的摊位。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5274,
+  "word" : "屋外",
+  "reading" : "おくがい",
+  "romaji" : null,
+  "meaning" : [ "户外，室外" ],
+  "notes" : [ "反义词是屋内（おくない）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5275,
+  "word" : "屋敷",
+  "reading" : "やしき",
+  "romaji" : null,
+  "meaning" : [ "宅邸，住宅；房屋和地产；（带庭院的）大宅院" ],
+  "notes" : [ "通常指带有土地和庭院的住宅，比普通房屋规模大。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5276,
+  "word" : "屋根",
+  "reading" : "やね",
+  "romaji" : null,
+  "meaning" : [ "屋顶；房顶" ],
+  "notes" : [ "指建筑物最上部的覆盖结构。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5277,
+  "word" : "展望",
+  "reading" : "てんぼう",
+  "romaji" : null,
+  "meaning" : [ "眺望，景致；展望，前景，未来预测" ],
+  "notes" : [ "作为名词使用时意为“眺望、景致”；作为动词使用时意为“展望、预测未来”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5278,
+  "word" : "展望台",
+  "reading" : "てんぼうだい",
+  "romaji" : null,
+  "meaning" : [ "瞭望台；观景台；展望台" ],
+  "notes" : [ "通常指为了眺望风景而设置的高台或建筑物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5279,
+  "word" : "展示",
+  "reading" : "てんじ",
+  "romaji" : null,
+  "meaning" : [ "展示，展览；陈列" ],
+  "notes" : [ "既可以作为名词使用，也可以作为サ变动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5280,
+  "word" : "展示会",
+  "reading" : "てんじかい",
+  "romaji" : null,
+  "meaning" : [ "展示会，展览会；博览会" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5281,
+  "word" : "展示品",
+  "reading" : "てんじひん",
+  "romaji" : null,
+  "meaning" : [ "展品，陈列品" ],
+  "notes" : [ "由动词「展示（てんじ）」的连用形与名词「品（ひん）」组合而成。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5282,
+  "word" : "展示場",
+  "reading" : "てんじじょう",
+  "romaji" : null,
+  "meaning" : [ "展示会场；展览厅" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5283,
+  "word" : "展覧会",
+  "reading" : "てんらんかい",
+  "romaji" : null,
+  "meaning" : [ "展览会；美术展；展示会" ],
+  "notes" : [ "指展示美术品、工艺品等供公众参观的场合或活动。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5284,
+  "word" : "展開",
+  "reading" : "てんかい",
+  "romaji" : null,
+  "meaning" : [ "展开，打开；开展，进行；（局势、故事等）发展，演变；（数学）展开" ],
+  "notes" : [ "作为名词使用时表示展开的状态或动作结果；作为サ变动词使用时，意为开展、进行或使事物发展变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5285,
+  "word" : "属する",
+  "reading" : "ぞくする",
+  "romaji" : null,
+  "meaning" : [ "属于；隶属；归类" ],
+  "notes" : [ "通常以“～に属する”的形式出现。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5286,
+  "word" : "履く",
+  "reading" : "はく",
+  "romaji" : null,
+  "meaning" : [ "穿（鞋、袜等下半身衣物）" ],
+  "notes" : [ "通常用于穿鞋、袜、裤裙等下半身衣物，上半身衣物使用“着る（きる）”。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5287,
+  "word" : "履歴",
+  "reading" : "りれき",
+  "romaji" : null,
+  "meaning" : [ "履历，经历；（计算机等的）记录，历史" ],
+  "notes" : [ "常用词，常用于“履歴書（简历）”或计算机语境中的“浏览记录（閲覧履歴）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5288,
+  "word" : "履歴書",
+  "reading" : "りれきしょ",
+  "romaji" : null,
+  "meaning" : [ "简历，履历书；求职时提交的个人经历及技能概要书。" ],
+  "notes" : [ "日语中“履歴書”通常指求职用的标准简历表格格式，包含学历、职历、资格等信息。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5289,
+  "word" : "履物",
+  "reading" : "はきもの",
+  "romaji" : null,
+  "meaning" : [ "（统称）鞋类；足袋（たび）、草履（ぞうり）、下駄（げた）、靴（くつ）等穿在脚上的东西的总称。" ],
+  "notes" : [ "指所有穿在脚上的东西，包括鞋、木屐、草履等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5290,
+  "word" : "山",
+  "reading" : "やま",
+  "romaji" : null,
+  "meaning" : [ "山；山脉；（堆积如山的）大量事物" ],
+  "notes" : [ "最基础的日语词汇之一，属于N5级别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5291,
+  "word" : "山地",
+  "reading" : "さんち",
+  "romaji" : null,
+  "meaning" : [ "山地，山区；多山地带" ],
+  "notes" : [ "指山岳地带，多用于地理或学术语境。日常生活中常用「山（やま）」或「山里（やまざと）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5292,
+  "word" : "山岳",
+  "reading" : "さんがく",
+  "romaji" : null,
+  "meaning" : [ "山岳；高山" ],
+  "notes" : [ "比「山（やま）」更正式，多用于地理、登山等场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5293,
+  "word" : "山崩れ",
+  "reading" : "やまくずれ",
+  "romaji" : null,
+  "meaning" : [ "山体崩塌，山崩，塌方" ],
+  "notes" : [ "指山的一部分因地震、大雨等原因崩塌的现象。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5294,
+  "word" : "山登り",
+  "reading" : "やまのぼり",
+  "romaji" : null,
+  "meaning" : [ "登山，爬山" ],
+  "notes" : [ "也可以写作「山ぼり」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5295,
+  "word" : "山積み",
+  "reading" : "やまづみ",
+  "romaji" : null,
+  "meaning" : [ "1. 堆积如山，堆得像山一样高。2. （问题、工作等）大量积压，搁置未办。" ],
+  "notes" : [ "常以「～が山積みだ」或「～を山積みにする」的形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5296,
+  "word" : "山脈",
+  "reading" : "さんみゃく",
+  "romaji" : null,
+  "meaning" : [ "山脉；连绵的山峰" ],
+  "notes" : [ "指连绵不断的山地，常用于地理名称，如“ヒマラヤ山脈”（喜马拉雅山脉）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5297,
+  "word" : "山腹",
+  "reading" : "さんぷく",
+  "romaji" : null,
+  "meaning" : [ "山腰，山的半山腰" ],
+  "notes" : [ "指山的斜面，通常指半山腰的位置。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5298,
+  "word" : "山頂",
+  "reading" : "さんちょう",
+  "romaji" : null,
+  "meaning" : [ "山顶；山巅" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5299,
+  "word" : "岩",
+  "reading" : "いわ",
+  "romaji" : null,
+  "meaning" : [ "岩石；大石头" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5300,
+  "word" : "岩盤",
+  "reading" : "がんばん",
+  "romaji" : null,
+  "meaning" : [ "岩石盘；基岩；坚固的岩石层。" ],
+  "notes" : [ "通常指大规模、连续且坚硬的岩石层，常用于地质或建筑工程领域。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

@@ -1,0 +1,901 @@
+[ {
+  "id" : 8701,
+  "word" : "知り合う",
+  "reading" : "しりあう",
+  "romaji" : null,
+  "meaning" : [ "相识，结识；认识（某人）；成为熟人关系" ],
+  "notes" : [ "该词强调从互不相识到相互认识的过程" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8702,
+  "word" : "知る",
+  "reading" : "しる",
+  "romaji" : null,
+  "meaning" : [ "知道，懂得；认识；感知，觉察；体验，经历。" ],
+  "notes" : [ "其否定形为知らない。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8703,
+  "word" : "知事",
+  "reading" : "ちじ",
+  "romaji" : null,
+  "meaning" : [ "日本都、道、府、县的行政长官" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8704,
+  "word" : "知人",
+  "reading" : "ちじん",
+  "romaji" : null,
+  "meaning" : [ "相识的人，熟人" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8705,
+  "word" : "知性",
+  "reading" : "ちせい",
+  "romaji" : null,
+  "meaning" : [ "才智，智力；理智；知性（指人的认知能力、知识涵养等）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8706,
+  "word" : "知恵",
+  "reading" : "ちえ",
+  "romaji" : null,
+  "meaning" : [ "智慧；主意，办法；知识，学问" ],
+  "notes" : [ "「知恵を貸す」は、他人にアドバイスや助けをすることを意味する慣用句です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8707,
+  "word" : "知的",
+  "reading" : "ちてき",
+  "romaji" : null,
+  "meaning" : [ "智慧的，智力的；理性的，理智的。指与知识、智力相关的，具有思考、判断等基于理性的特质。" ],
+  "notes" : [ "形容动词，词干为「知的」，词尾为「だ」，在句中常作谓语、定语等。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8708,
+  "word" : "知育",
+  "reading" : "ちいく",
+  "romaji" : null,
+  "meaning" : [ "智育。知識や思考力、判断力などを育てる教育。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8709,
+  "word" : "知能",
+  "reading" : "ちのう",
+  "romaji" : null,
+  "meaning" : [ "智力，智慧；智能。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8710,
+  "word" : "知識",
+  "reading" : "ちしき",
+  "romaji" : null,
+  "meaning" : [ "知识，学问" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8711,
+  "word" : "短い",
+  "reading" : "みじかい",
+  "romaji" : null,
+  "meaning" : [ "长度或时间等方面短的；短暂的" ],
+  "notes" : [ "形容事物在长度、时间等方面相对较短" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8712,
+  "word" : "短所",
+  "reading" : "たんしょ",
+  "romaji" : null,
+  "meaning" : [ "短处，缺点，弱点" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8713,
+  "word" : "短期",
+  "reading" : "たんき",
+  "romaji" : null,
+  "meaning" : [ "短い期間。短期間。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8714,
+  "word" : "短気",
+  "reading" : "たんき",
+  "romaji" : null,
+  "meaning" : [ "性子急，缺乏耐心，容易急躁发怒。" ],
+  "notes" : [ "形容动词，词干为「短気」，词尾为「な」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8715,
+  "word" : "短縮",
+  "reading" : "たんしゅく",
+  "romaji" : null,
+  "meaning" : [ "把长度、距离、时间等缩短；简化。" ],
+  "notes" : [ "作为动词时，是サ变动词，其连用形为「短縮し」，过去式为「短縮した」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8716,
+  "word" : "矯正",
+  "reading" : "きょうせい",
+  "romaji" : null,
+  "meaning" : [ "① 不正や欠陥を正すこと。② 物を曲げたり歪ませたりした状態を直すこと。" ],
+  "notes" : [ "「矯正」は、不正や欠陥を正すことを主に表す言葉です。身体の姿勢や物の形状など、様々な場面で使用されます。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8717,
+  "word" : "石",
+  "reading" : "いし",
+  "romaji" : null,
+  "meaning" : [ "石头，石块；宝石；石碑等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8718,
+  "word" : "石けん",
+  "reading" : "せっけん",
+  "romaji" : null,
+  "meaning" : [ "肥皂" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8719,
+  "word" : "石垣",
+  "reading" : "いしがき",
+  "romaji" : null,
+  "meaning" : [ "石墙，石围墙；城垣。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8720,
+  "word" : "石橋",
+  "reading" : "いしばし",
+  "romaji" : null,
+  "meaning" : [ "石桥" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8721,
+  "word" : "石油",
+  "reading" : "せきゆ",
+  "romaji" : null,
+  "meaning" : [ "石油。从地下开采出来的一种黑色或深棕色的可燃性液体，是重要的能源和化工原料。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8722,
+  "word" : "石炭",
+  "reading" : "せきたん",
+  "romaji" : null,
+  "meaning" : [ "煤，煤炭" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8723,
+  "word" : "石畳",
+  "reading" : "いしびた",
+  "romaji" : null,
+  "meaning" : [ "用石板铺成的地面；石板路。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8724,
+  "word" : "石頭",
+  "reading" : "いしあたま",
+  "romaji" : null,
+  "meaning" : [ "头脑顽固、死脑筋的人" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8725,
+  "word" : "砂",
+  "reading" : "すな①",
+  "romaji" : null,
+  "meaning" : [ "沙，沙子" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8726,
+  "word" : "砂利",
+  "reading" : "じゃり",
+  "romaji" : null,
+  "meaning" : [ "小石头，砂砾" ],
+  "notes" : [ "作为‘小孩子’的含义不常见，一般指小石头、砂砾" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8727,
+  "word" : "砂漠",
+  "reading" : "さばく",
+  "romaji" : null,
+  "meaning" : [ "沙漠。指地面完全被沙所覆盖、植物非常稀少、雨水稀少的荒芜地区。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8728,
+  "word" : "砂糖",
+  "reading" : "さとう",
+  "romaji" : null,
+  "meaning" : [ "糖，砂糖。从甘蔗、甜菜等植物中提取的甜味物质，可用于调味、制作食品等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8729,
+  "word" : "研ぐ",
+  "reading" : "とぐ",
+  "romaji" : null,
+  "meaning" : [ "1. 磨快；磨光亮。例：ナイフを研ぐ（磨快刀）。2. 磨练；钻研；推敲。例：技術を研ぐ（磨练技术）。3. 淘（米等）。例：米を研ぐ（淘米）。" ],
+  "notes" : [ "较为常用的动词，在日常生活和学习中常用来描述对工具的打磨、自身能力的提升以及一些与精细处理相关的动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8730,
+  "word" : "研修",
+  "reading" : "けんしゅう",
+  "romaji" : null,
+  "meaning" : [ "为了提高自身能力而进行的研究、进修、培训等活动。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8731,
+  "word" : "研修生",
+  "reading" : "けんしゅうせい",
+  "romaji" : null,
+  "meaning" : [ "名。以学习技术、技能等为目的，到国外或其他机构进行研修的人员。" ],
+  "notes" : [ "“研修生”制度在日本较为常见，通常是企业或机构接收来自其他国家或地区的人员进行特定技能或知识的培训。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8732,
+  "word" : "研修センター",
+  "reading" : "けんしゅうセンター",
+  "romaji" : null,
+  "meaning" : [ "用于进行研修活动的中心场所" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8733,
+  "word" : "研究",
+  "reading" : "けんきゅう",
+  "romaji" : null,
+  "meaning" : [ "对事物进行深入探讨、钻研，以获取知识或理解其本质等。" ],
+  "notes" : [ "作为名词时表示研究这个行为或活动；作为サ变动词，常见用法如「研究する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8734,
+  "word" : "研究します",
+  "reading" : "けんきゅうします",
+  "romaji" : null,
+  "meaning" : [ "进行研究；钻研" ],
+  "notes" : [ "该词为他动词，常见用法如「～を研究する」（研究……）" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8735,
+  "word" : "研究会",
+  "reading" : "けんきゅうかい",
+  "romaji" : null,
+  "meaning" : [ "为了深入研究某个特定主题而组织的团体或活动，通常会定期举行会议，成员们共同探讨、交流相关知识和经验。也指学术、专业领域等进行研讨的集会。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8736,
+  "word" : "研究員",
+  "reading" : "けんきゅういん",
+  "romaji" : null,
+  "meaning" : [ "从事研究工作的人员" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8737,
+  "word" : "研究室",
+  "reading" : "けんきゅうしつ",
+  "romaji" : null,
+  "meaning" : [ "用于进行研究的房间；研究机构中的特定工作区域" ],
+  "notes" : [ "该词在学术、科研等场景中常用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8738,
+  "word" : "研究所",
+  "reading" : "けんきゅうじょ",
+  "romaji" : null,
+  "meaning" : [ "进行研究的机构场所。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8739,
+  "word" : "研究者",
+  "reading" : "けんきゅうしゃ",
+  "romaji" : null,
+  "meaning" : [ "从事研究工作的人员" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8740,
+  "word" : "研究開発",
+  "reading" : "けんきゅうかいはつ",
+  "romaji" : null,
+  "meaning" : [ "研究与开发。指为了创造新的知识、技术、产品等而进行的系统性探索和努力。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8741,
+  "word" : "研究する",
+  "reading" : "けんきゅうする",
+  "romaji" : null,
+  "meaning" : [ "对事物进行深入探讨、钻研，以获取新知识或解决问题等" ],
+  "notes" : [ "サ变动词，其词干为「研究」，词尾为「する」" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8742,
+  "word" : "砕く",
+  "reading" : "くだく",
+  "romaji" : null,
+  "meaning" : [ "动1 把固体弄碎成小块；敲碎、打碎；使崩溃、瓦解、粉碎（计划、希望等）" ],
+  "notes" : [ "该词为他动词，使用时需注意其对象" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8743,
+  "word" : "砕ける",
+  "reading" : "くだける",
+  "romaji" : null,
+  "meaning" : [ "破碎；破裂；粉碎；（气势、力量等）受挫、减弱" ],
+  "notes" : [ "表示物体破碎时使用自动词形式" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8744,
+  "word" : "破く",
+  "reading" : "やぶく",
+  "romaji" : null,
+  "meaning" : [ "弄破；打破；违反；突破。" ],
+  "notes" : [ "该词为他动词，使用时需注意其对象。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8745,
+  "word" : "破ります",
+  "reading" : "やぶります（yaburimasu）",
+  "romaji" : null,
+  "meaning" : [ "打破；撕破；违背；违反；破坏；冲破等。例如：約束を破ります。（违背约定。）；袋を破ります。（撕破袋子。）" ],
+  "notes" : [ "「破ります」是他动词，其原形为「破る」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8746,
+  "word" : "破る",
+  "reading" : "やぶる",
+  "romaji" : null,
+  "meaning" : [ "破坏，弄破；打破；违反（规则、约定等）；突破（障碍等）" ],
+  "notes" : [ "该词常用的搭配如「破れる」是其自动词形式，表示“被弄破，被打破”等意思" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8747,
+  "word" : "破れる",
+  "reading" : "やぶれる",
+  "romaji" : null,
+  "meaning" : [ "自动词，意为破裂、破碎、撕破、裂开等" ],
+  "notes" : [ "表示物体自身或外力作用导致的破损状态" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8748,
+  "word" : "破壊",
+  "reading" : "はかい",
+  "romaji" : null,
+  "meaning" : [ "物体や組織、秩序などを壊してしまうこと。破損、崩壊させること。" ],
+  "notes" : [ "サ变动词としての活用ができる。また、「破壊する」という動詞形もあり、「～を破壊する」の形で使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8749,
+  "word" : "破局",
+  "reading" : "はっきょく",
+  "romaji" : null,
+  "meaning" : [ "局面が打ち破られ、混乱した状態になること。また、そのような状態に至ること。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8750,
+  "word" : "破損",
+  "reading" : "はそん",
+  "romaji" : null,
+  "meaning" : [ "物体が壊れて損傷を受けること。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8751,
+  "word" : "破格",
+  "reading" : "はっかく",
+  "romaji" : null,
+  "meaning" : [ "打破常规；超出通常的标准、规格等。常指在成绩、待遇、评价等方面与常规不同，有特别优待或特殊情况。" ],
+  "notes" : [ "该词作为名词使用较为常见，也可作为形容动词使用，如「破格的な」，表示“破格的，非同寻常的”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8752,
+  "word" : "破棄",
+  "reading" : "はき",
+  "romaji" : null,
+  "meaning" : [ "废弃，抛弃；撕毁（条约等）；取消，撤销（计划、判决等）" ],
+  "notes" : [ "较为常用的表达‘废弃、取消’等意思的动词" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8753,
+  "word" : "破片",
+  "reading" : "はへん",
+  "romaji" : null,
+  "meaning" : [ "从整体分离出来的小块碎片，常指因破裂、爆炸等产生的碎片。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8754,
+  "word" : "破産",
+  "reading" : "はさん",
+  "romaji" : null,
+  "meaning" : [ "企业、个人等因无法偿还债务等原因而倒闭、破产" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8755,
+  "word" : "破綻",
+  "reading" : "はてん",
+  "romaji" : null,
+  "meaning" : [ "破绽，漏洞；失败，破产；（谈判等）破裂" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8756,
+  "word" : "破裂",
+  "reading" : "はれつ",
+  "romaji" : null,
+  "meaning" : [ "破裂；裂开；（谈判、关系等）破裂" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8757,
+  "word" : "硫黄",
+  "reading" : "いおう",
+  "romaji" : null,
+  "meaning" : [ "硫黄，硫磺。一种非金属元素，呈黄色，有特殊气味，可用于制造硫酸、火药、火柴等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8758,
+  "word" : "硬い",
+  "reading" : "かたい",
+  "romaji" : null,
+  "meaning" : [ "坚硬的；僵硬的；死板的；生硬的" ],
+  "notes" : [ "形容物体坚硬时常用，也可用于形容人的态度、性格等方面缺乏灵活性" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8759,
+  "word" : "硬化",
+  "reading" : "こうか",
+  "romaji" : null,
+  "meaning" : [ "（物质）硬化；（态度等）变得强硬；（市场、价格等）坚挺起来。使物质从柔软或液态变为坚硬状态；使态度、立场等变得强硬、固执；使市场行情等变得坚挺。" ],
+  "notes" : [ "「硬化」は物質や態度などが硬くなることを表す言葉です。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8760,
+  "word" : "硬貨",
+  "reading" : "こうか",
+  "romaji" : null,
+  "meaning" : [ "硬币；货币。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8761,
+  "word" : "碁",
+  "reading" : "ご",
+  "romaji" : null,
+  "meaning" : [ "围棋；棋类游戏的统称" ],
+  "notes" : [ "在日语中，“碁”一般指围棋，也可泛指棋类游戏。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8762,
+  "word" : "碁盤",
+  "reading" : "ごばん",
+  "romaji" : null,
+  "meaning" : [ "用于围棋对局的棋盘，通常为方形，上面有纵横交错的线划分出许多交叉点。" ],
+  "notes" : [ "“碁盤”在日语中专门指围棋棋盘，区别于象棋等其他棋类的棋盘。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8763,
+  "word" : "碗",
+  "reading" : "わん",
+  "romaji" : null,
+  "meaning" : [ "食器の一種で、深くて開口部が広い容器。料理や食べ物を載せるのに使われる。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8764,
+  "word" : "確か",
+  "reading" : "たしか",
+  "romaji" : null,
+  "meaning" : [ "1. 确实，确切。表示对事物的真实性有把握。2. 大概，好像。用于表达不确定但有一定依据的推测。" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8765,
+  "word" : "確かめます",
+  "reading" : "たしかめます",
+  "romaji" : null,
+  "meaning" : [ "确认；查明；核实。通过调查、询问等方式弄清楚事情的真相、情况等" ],
+  "notes" : [ "该词的原形是「確かめる」，「確かめます」是其ます形" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8766,
+  "word" : "確かめる",
+  "reading" : "たしかめる",
+  "romaji" : null,
+  "meaning" : [ "确认；查明；弄清楚；核实" ],
+  "notes" : [ "该词强调通过各种方式来确定某事的真实性或准确性。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8767,
+  "word" : "確たる",
+  "reading" : "たしかたる",
+  "romaji" : null,
+  "meaning" : [ "确切的，确凿的，可靠的" ],
+  "notes" : [ "书面语，较正式" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8768,
+  "word" : "確保",
+  "reading" : "かくほ",
+  "romaji" : null,
+  "meaning" : [ "必要な物や資源を手に入れること。また、それを維持すること。特に、物資や資金、人員などを確実に得ること。" ],
+  "notes" : [ "「確保」は、主に物や資源を得ることを表すが、抽象的な概念や状態をも含めて、確実に手に入れる、維持するという意味で使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8769,
+  "word" : "確保",
+  "reading" : "かくほ",
+  "romaji" : null,
+  "meaning" : [ "确保；保证得到；设法确保；弄到" ],
+  "notes" : [ "他动词，常与各种名词搭配使用，用于表达确保某种事物的实现或获得。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8770,
+  "word" : "確信",
+  "reading" : "かくしん",
+  "romaji" : null,
+  "meaning" : [ "坚信，确信的信念" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8771,
+  "word" : "確定",
+  "reading" : "かくてい",
+  "romaji" : null,
+  "meaning" : [ "明确地决定；使固定；使确定；（病情、结果等）确定下来" ],
+  "notes" : [ "サ变动词，其词干为「確定」，词尾为「する」，按照する型动词的规则进行活用。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8772,
+  "word" : "確実",
+  "reading" : "かくじつ",
+  "romaji" : null,
+  "meaning" : [ "确实，可靠；准确无误" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8773,
+  "word" : "確率",
+  "reading" : "かくりつ",
+  "romaji" : null,
+  "meaning" : [ "某件事情发生的可能性大小的数值表示，即概率。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8774,
+  "word" : "確立",
+  "reading" : "かくりつ",
+  "romaji" : null,
+  "meaning" : [ "1. 明確に定めること。2. 確実に成立させること。" ],
+  "notes" : [ "サ変動詞で、「確立する」ことができる。また、「確立した」形も使える。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8775,
+  "word" : "確認",
+  "reading" : "かくにん",
+  "romaji" : null,
+  "meaning" : [ "① 確かめること。事実や真実を明らかにすること。/确认，核实。② 物事の状態や内容を再度見ること。/查看，检查。" ],
+  "notes" : [ "「確認」は、名詞として使われる場合もあります。例えば、「確認が必要だ」などです。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8776,
+  "word" : "確認する",
+  "reading" : "かくにんする",
+  "romaji" : null,
+  "meaning" : [ "确认，核实；查明，弄清楚" ],
+  "notes" : [ "サ变动词，其词干为「確認」，词尾为「する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8777,
+  "word" : "磁器",
+  "reading" : "じき",
+  "romaji" : null,
+  "meaning" : [ "用瓷土烧制的器具，如碗、盘、花瓶等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8778,
+  "word" : "磨きます",
+  "reading" : "みがきます",
+  "romaji" : null,
+  "meaning" : [ "打磨；擦亮；磨练；提高（技艺、修养等）" ],
+  "notes" : [ "该词原形为「磨く」，「磨きます」是其ます形" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8779,
+  "word" : "磨く",
+  "reading" : "みがく",
+  "romaji" : null,
+  "meaning" : [ "磨；擦；刷；磨练；提高（技能、能力等）" ],
+  "notes" : [ "该词在表示“磨”具体物品时，常与を搭配；表示“磨练”抽象事物时，常与技術、能力等搭配。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8780,
+  "word" : "示す",
+  "reading" : "しめす",
+  "romaji" : null,
+  "meaning" : [ "表现出，表示；出示；指示，指明；显示，表明" ],
+  "notes" : [ "该词较为常用，在表示‘显示’等意思时，常与一些抽象的事物搭配；在表示‘出示’时，常与证件等具体物品搭配。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8781,
+  "word" : "示唆",
+  "reading" : "しさ",
+  "romaji" : null,
+  "meaning" : [ "从旁指点，引起联想，启示，启发" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8782,
+  "word" : "礼",
+  "reading" : "れい",
+  "romaji" : null,
+  "meaning" : [ "谢意、礼仪、礼貌、礼节；礼物；敬神的供品" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8783,
+  "word" : "礼儀",
+  "reading" : "れいぎ",
+  "romaji" : null,
+  "meaning" : [ "礼仪，礼节，礼貌" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8784,
+  "word" : "礼金",
+  "reading" : "れいきん",
+  "romaji" : null,
+  "meaning" : [ "（租房、就职等场合给房东、雇主等的）礼金，谢礼" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8785,
+  "word" : "社",
+  "reading" : "しゃ",
+  "romaji" : null,
+  "meaning" : [ "公司；社团；商号；神社等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8786,
+  "word" : "社交",
+  "reading" : "しゃこう",
+  "romaji" : null,
+  "meaning" : [ "人与人之间进行交往、交际活动。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8787,
+  "word" : "社交ダンス",
+  "reading" : "しゃこう ダンス",
+  "romaji" : null,
+  "meaning" : [ "交际舞，社交舞。指用于社交场合的舞蹈形式，人们通过跳舞进行交流互动。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8788,
+  "word" : "社会",
+  "reading" : "しゃかい",
+  "romaji" : null,
+  "meaning" : [ "人类在一定的地域内，以共同的物质生产活动为基础而结合起来的群体。" ],
+  "notes" : [ "该词为常用词汇，在日常生活和学习中经常会用到。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8789,
+  "word" : "社会人",
+  "reading" : "しゃかいじん",
+  "romaji" : null,
+  "meaning" : [ "指踏入社会，以工作为主要活动的成年人。" ],
+  "notes" : [ "该词常用于描述从学校毕业进入职场后的人群状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8790,
+  "word" : "社内",
+  "reading" : "しゃない",
+  "romaji" : null,
+  "meaning" : [ "公司内部" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8791,
+  "word" : "社員",
+  "reading" : "しゃいん",
+  "romaji" : null,
+  "meaning" : [ "公司、团体等组织中的成员，一般指职员" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8792,
+  "word" : "社員割引制度",
+  "reading" : "しゃいんわりびきせいど",
+  "romaji" : null,
+  "meaning" : [ "公司为员工提供的折扣制度，即员工在购买公司产品或服务时可享受一定比例的价格优惠。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8793,
+  "word" : "社員旅行",
+  "reading" : "しゃいんりょこう",
+  "romaji" : null,
+  "meaning" : [ "公司全体员工的旅行" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8794,
+  "word" : "社員食堂",
+  "reading" : "しゃいんしょくどう",
+  "romaji" : null,
+  "meaning" : [ "公司员工用餐的食堂" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8795,
+  "word" : "社宅",
+  "reading" : "しゃたく",
+  "romaji" : null,
+  "meaning" : [ "公司提供给员工居住的住宅" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8796,
+  "word" : "社説",
+  "reading" : "しゃせつ",
+  "romaji" : null,
+  "meaning" : [ "报纸、杂志等媒体上发表的代表编辑部意见的评论文章，即社论。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8797,
+  "word" : "社長",
+  "reading" : "しゃちょう",
+  "romaji" : null,
+  "meaning" : [ "公司、组织等的最高负责人，即社长、总经理" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8798,
+  "word" : "祈り",
+  "reading" : "いのり",
+  "romaji" : null,
+  "meaning" : [ "祈祷，祷告；祈愿，祝愿" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8799,
+  "word" : "祈る",
+  "reading" : "いのる",
+  "romaji" : null,
+  "meaning" : [ "祈祷；祝愿；祈求。" ],
+  "notes" : [ "该词为他动词，常用搭配如「～を祈る」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8800,
+  "word" : "祈願",
+  "reading" : "きがん",
+  "romaji" : null,
+  "meaning" : [ "祈祷，祈愿，祝愿。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

@@ -1,0 +1,901 @@
+[ {
+  "id" : 6101,
+  "word" : "手あたり次第",
+  "reading" : "てあたりしだい",
+  "romaji" : null,
+  "meaning" : [ "随手抓到什么算什么；碰到什么就做什么；见机行事" ],
+  "notes" : [ "该词常用于描述做事时没有预先计划，根据当时的情况随机应变。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6102,
+  "word" : "手がかかる",
+  "reading" : "てがかかる",
+  "romaji" : null,
+  "meaning" : [ "表示事情需要花费时间、精力，意为麻烦、费事、费工夫" ],
+  "notes" : [ "该惯用语常用来描述某项任务或工作需要投入较多的精力和时间。" ],
+  "pos" : "PHRASE",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6103,
+  "word" : "手がかり",
+  "reading" : "てがかり",
+  "romaji" : null,
+  "meaning" : [ "线索；头绪；提示" ],
+  "notes" : [ "常用于寻找答案、解决问题等场景中，表示有助于找到结果的线索或提示。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6104,
+  "word" : "手がける",
+  "reading" : "てがける",
+  "romaji" : null,
+  "meaning" : [ "亲自动手；亲自处理；亲自制作；亲自培养；负责" ],
+  "notes" : [ "该词常用于描述某人亲自参与或负责某件事情。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6105,
+  "word" : "手こずる",
+  "reading" : "てこずる",
+  "romaji" : null,
+  "meaning" : [ "处理起来棘手，难对付；应付不过来" ],
+  "notes" : [ "主要用于描述在处理事情、应对情况等方面遇到困难，感觉棘手的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6106,
+  "word" : "手ごたえ",
+  "reading" : "てごたえ",
+  "romaji" : null,
+  "meaning" : [ "手感；反应，效果；反馈" ],
+  "notes" : [ "该词常用于描述触摸物体时的感觉，或事情的反馈、效果等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6107,
+  "word" : "手っ取り早い",
+  "reading" : "てっとりばやい",
+  "romaji" : null,
+  "meaning" : [ "直截了当的；简便迅速的；立竿见影的" ],
+  "notes" : [ "常用于描述做事的方式或方法具有直接、快速的特点。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6108,
+  "word" : "手に入れる",
+  "reading" : "てにいれる",
+  "romaji" : null,
+  "meaning" : [ "惯用语，意为获得、得到、拿到手。" ],
+  "notes" : [ "该词汇使用较为常见，通常表示通过一定的方式或努力获取到某事物。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6109,
+  "word" : "手のひら",
+  "reading" : "てのひら",
+  "romaji" : null,
+  "meaning" : [ "手掌" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6110,
+  "word" : "手ぶら",
+  "reading" : "てぶら",
+  "romaji" : null,
+  "meaning" : [ "空着手，赤手空拳；毫无准备，没有任何凭借" ],
+  "notes" : [ "「手ぶら」作为な形容词，修饰名词时要加「な」，如「手ぶらな状態」（空着手的状态）。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6111,
+  "word" : "手ぶり",
+  "reading" : "てぶり",
+  "romaji" : null,
+  "meaning" : [ "手势，手的动作；做事的方式、风格" ],
+  "notes" : [ "该词除了表示手的动作外，还可用于形容做事的方式、风格等抽象概念。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6112,
+  "word" : "手伝います",
+  "reading" : "てつだいます",
+  "romaji" : null,
+  "meaning" : [ "帮忙，帮助。表示为他人提供协助、付出劳动力去完成某项任务或达成某个目的。" ],
+  "notes" : [ "该词的动词原形是「手伝う」，其ます形是「手伝います」，在使用时要注意动词变形规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6113,
+  "word" : "手伝う",
+  "reading" : "てつだう",
+  "romaji" : null,
+  "meaning" : [ "帮忙，帮助；协助；照料" ],
+  "notes" : [ "该词为五段动词，词尾う段假名变为あ段假名后加ない可构成否定形式，如てつだわない。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6114,
+  "word" : "手作り",
+  "reading" : "てづくり",
+  "romaji" : null,
+  "meaning" : [ "自制，亲手做；手工制作的物品" ],
+  "notes" : [ "该词为名词，可表示动作“亲手制作”，也可指手工制作的物品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6115,
+  "word" : "手元",
+  "reading" : "てもと",
+  "romaji" : null,
+  "meaning" : [ "名词，指手边、手头；也可表示眼前、身边；还可指目前、现在的状况" ],
+  "notes" : [ "该词使用时较为口语化，在日常交流中较为常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6116,
+  "word" : "手入れ",
+  "reading" : "ていれ",
+  "romaji" : null,
+  "meaning" : [ "修整，维护；保养；拾掇；收拾；照料" ],
+  "notes" : [ "该词为名词，常与「する」搭配使用，表示进行修整、维护等动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6117,
+  "word" : "手分け",
+  "reading" : "てわけ",
+  "romaji" : null,
+  "meaning" : [ "分头做；分工" ],
+  "notes" : [ "该词为名词，常见搭配有「手分けする」，表示进行分工的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6118,
+  "word" : "手前",
+  "reading" : "てまえ",
+  "romaji" : null,
+  "meaning" : [ "1. 眼前，靠近自己的一边；2. 自己这方面，我方；3. 谦称自己" ],
+  "notes" : [ "在表示谦称自己时，带有一定的谦逊语气。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6119,
+  "word" : "手取り",
+  "reading" : "てどり",
+  "romaji" : null,
+  "meaning" : [ "纯收入，净收入；到手的钱；直接领取；手把手地教" ],
+  "notes" : [ "该词有多种含义，具体意思需根据上下文判断。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6120,
+  "word" : "手口",
+  "reading" : "てぐち",
+  "romaji" : null,
+  "meaning" : [ "（做坏事的）手法，手段；说话方式，口吻" ],
+  "notes" : [ "该词通常用于描述不正当的行为手段。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6121,
+  "word" : "手品",
+  "reading" : "てじな",
+  "romaji" : null,
+  "meaning" : [ "戏法，魔术；骗术，奸计" ],
+  "notes" : [ "‘手品’一般指魔术表演或带有欺骗性质的手段。在日常生活中，常用于描述魔术表演场景或揭露欺骗行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6122,
+  "word" : "手回し",
+  "reading" : "てまわし",
+  "romaji" : null,
+  "meaning" : [ "准备，安排；（用手）转动，摇动；周旋，打点" ],
+  "notes" : [ "该词为名词，在句子中常作宾语等成分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6123,
+  "word" : "手堅い",
+  "reading" : "てがたじい",
+  "romaji" : null,
+  "meaning" : [ "踏实的，靠得住的；（行情）稳定的；做事谨慎、稳妥" ],
+  "notes" : [ "该词主要用于形容人做事风格稳重、可靠，也可用于描述市场行情等处于稳定状态。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6124,
+  "word" : "手帳",
+  "reading" : "てちょう",
+  "romaji" : null,
+  "meaning" : [ "笔记本，记事本；手册；袖珍日记" ],
+  "notes" : [ "常用于记录日程、事项等，是日常生活中常见的物品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6125,
+  "word" : "手引き",
+  "reading" : "てびき",
+  "romaji" : null,
+  "meaning" : [ "入门书；辅导，启蒙；引荐；向导" ],
+  "notes" : [ "该词为名词，无动词活用形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6126,
+  "word" : "手強い",
+  "reading" : "てづよい",
+  "romaji" : null,
+  "meaning" : [ "难对付的，不好对付的；实力强劲的；棘手的" ],
+  "notes" : [ "该词为い形容词，词尾变化遵循い形容词的规则。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6127,
+  "word" : "手当て",
+  "reading" : "てあて",
+  "romaji" : null,
+  "meaning" : [ "1. 津贴，补贴；2. 医疗，治疗；3. 处理，应对" ],
+  "notes" : [ "该词在不同语境中有不同含义，使用时需根据上下文判断。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6128,
+  "word" : "手形",
+  "reading" : "てがた",
+  "romaji" : null,
+  "meaning" : [ "1. 手印；2. 票据；3. 字帖；4. 手的形状" ],
+  "notes" : [ "在商业场景中，“手形”常指票据，如汇票、期票等；在书法相关场景中可指字帖。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6129,
+  "word" : "手抜き",
+  "reading" : "てぬき",
+  "romaji" : null,
+  "meaning" : [ "偷懒；偷工减料；敷衍了事" ],
+  "notes" : [ "该词一般用于描述做事时不认真、不负责，省略必要步骤以图省事的行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6130,
+  "word" : "手掛かり",
+  "reading" : "てがかり",
+  "romaji" : null,
+  "meaning" : [ "线索，头绪；提示，启发" ],
+  "notes" : [ "该词为名词，通常用于表达在寻找事物、解决问题等过程中可作为依据的线索、头绪等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6131,
+  "word" : "手探り",
+  "reading" : "てさぐり",
+  "romaji" : null,
+  "meaning" : [ "摸，摸索；试探；摸着走，暗中摸索" ],
+  "notes" : [ "该词为名词，常搭配动词使用，如「する」，表示进行摸索、试探等动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6132,
+  "word" : "手提げ",
+  "reading" : "てさげ",
+  "romaji" : null,
+  "meaning" : [ "手提包，手提袋" ],
+  "notes" : [ "该词为名词，无词形变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6133,
+  "word" : "手数",
+  "reading" : "てすう",
+  "romaji" : null,
+  "meaning" : [ "麻烦，费事；手续" ],
+  "notes" : [ "常用于表达给他人带来麻烦或办理事情的复杂程度。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6134,
+  "word" : "手数料",
+  "reading" : "てすうりょう",
+  "romaji" : null,
+  "meaning" : [ "手续费；服务费" ],
+  "notes" : [ "常用于金融、商业等交易场景中，表示为办理业务而收取的费用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6135,
+  "word" : "手料理",
+  "reading" : "てりょうり",
+  "romaji" : null,
+  "meaning" : [ "亲手做的菜；家常菜" ],
+  "notes" : [ "该词强调是自己动手制作的菜肴，体现出用心和温暖的感觉。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6136,
+  "word" : "手書き",
+  "reading" : "てがき",
+  "romaji" : null,
+  "meaning" : [ "手写，手抄；手写的东西" ],
+  "notes" : [ "该词由名词“手”和动词“書く”的连用形“書き”构成，常用于表达通过手工书写的方式来记录内容或表示手写的物品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6137,
+  "word" : "手本",
+  "reading" : "てほん",
+  "romaji" : null,
+  "meaning" : [ "字帖，范本；模范，榜样；样本，样品" ],
+  "notes" : [ "该词一般用于表示值得学习、模仿的对象，可用于人或物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6138,
+  "word" : "手段",
+  "reading" : "しゅだん",
+  "romaji" : null,
+  "meaning" : [ "名词，指为达到某种目的而采取的方法、措施等" ],
+  "notes" : [ "该词在日常生活和商务、学术等场景中都较为常用，可与不同动词搭配使用，如「講じる（采取）」「試す（尝试）」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6139,
+  "word" : "手法",
+  "reading" : "しゅほう",
+  "romaji" : null,
+  "meaning" : [ "名词，指方法、手段、技巧、手法；（医学上的）处置方法、治疗方法。" ],
+  "notes" : [ "常用于描述做事情的方式、方法，在不同语境中有不同的侧重点，在医学领域有特定的含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6140,
+  "word" : "手洗い",
+  "reading" : "てあらい",
+  "romaji" : null,
+  "meaning" : [ "名词，洗手；洗手间，厕所" ],
+  "notes" : [ "该词有两种常见含义，一种是动作“洗手”，另一种是场所“洗手间，厕所”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6141,
+  "word" : "手短",
+  "reading" : "てんたん",
+  "romaji" : null,
+  "meaning" : [ "简单的，简略的；直截了当地，干脆地" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾需要接「だ」；作定语时，词尾直接修饰名词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6142,
+  "word" : "手筈",
+  "reading" : "てばく",
+  "romaji" : null,
+  "meaning" : [ "程序，步骤；事前的准备；大致的情形、情况" ],
+  "notes" : [ "该词为名词，无词形变化。常用于描述做事的步骤、准备工作或事情的大致情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6143,
+  "word" : "手紙",
+  "reading" : "てがみ",
+  "romaji" : null,
+  "meaning" : [ "书信；信件" ],
+  "notes" : [ "该词为日常常用词汇，在表达书信相关场景时使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6144,
+  "word" : "手続き",
+  "reading" : "てつづき",
+  "romaji" : null,
+  "meaning" : [ "名词，手续；程序；办理的事务" ],
+  "notes" : [ "常用于描述各种事务的办理流程相关场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6145,
+  "word" : "手芸",
+  "reading" : "てげい",
+  "romaji" : null,
+  "meaning" : [ "手工艺，手艺" ],
+  "notes" : [ "该词用于表示通过手工制作物品的技艺，在日常生活和艺术领域常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6146,
+  "word" : "手荷物係",
+  "reading" : "てにもつがかり",
+  "romaji" : null,
+  "meaning" : [ "名词，指负责搬运、管理行李的工作人员，即行李员" ],
+  "notes" : [ "该词汇常用于机场、酒店等场所，描述专门处理行李相关事务的人员。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6147,
+  "word" : "手薄",
+  "reading" : "てぼう",
+  "romaji" : null,
+  "meaning" : [ "人员较少；人手不足；名单；名簿" ],
+  "notes" : [ "表示“名单”“名簿”之意时，常使用「氏名を手薄に記入する（把姓名写在名单上）」这样的表达。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6148,
+  "word" : "手術",
+  "reading" : "しゅじゅつ",
+  "romaji" : null,
+  "meaning" : [ "名词，指外科医生用医疗器械对病人身体进行的切除、缝合等治疗操作，即手术" ],
+  "notes" : [ "该词一般用于医疗场景，描述医疗行为中的外科手术。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6149,
+  "word" : "手袋",
+  "reading" : "てぶくろ",
+  "romaji" : null,
+  "meaning" : [ "手套。" ],
+  "notes" : [ "该词为日常常用词汇，用于表示戴在手上起保暖、防护等作用的物品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6150,
+  "word" : "手触り",
+  "reading" : "てざわり",
+  "romaji" : null,
+  "meaning" : [ "手感，手摸时的感觉" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6151,
+  "word" : "手話",
+  "reading" : "しゅわ",
+  "romaji" : null,
+  "meaning" : [ "手语，用手的动作和姿势来表达意思的交流方式。" ],
+  "notes" : [ "常用于聋哑人群体的交流，也用于一些特殊场合辅助沟通。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6152,
+  "word" : "手軽",
+  "reading" : "てがる",
+  "romaji" : null,
+  "meaning" : [ "简便，轻易；轻松，不费力" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾要接「だ」；作定语时，直接修饰名词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6153,
+  "word" : "手近",
+  "reading" : "てぢか",
+  "romaji" : null,
+  "meaning" : [ "身边，手边；就近，近便；常见，轻易可得" ],
+  "notes" : [ "二类形容词后续名词时，需要以「手近な」的形式出现。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6154,
+  "word" : "手遅れ",
+  "reading" : "ておくれ",
+  "romaji" : null,
+  "meaning" : [ "为时已晚，耽误；错过时机" ],
+  "notes" : [ "该词一般用于描述事情错过最佳处理时间的情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6155,
+  "word" : "手配",
+  "reading" : "てはい",
+  "romaji" : null,
+  "meaning" : [ "名词。1. 筹备，安排，布置； 2. 部署，调配； 3. （警察）搜捕，通缉" ],
+  "notes" : [ "该词为名词，使用时根据语境搭配不同的动词，当表示'搜捕，通缉'时多用于警方相关语境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6156,
+  "word" : "手錠",
+  "reading" : "てじょう",
+  "romaji" : null,
+  "meaning" : [ "手铐；手镣；脚镣；狱吏往囚人身上加的刑具，现多指束缚手腕的部分；后乐园里观赏鱼的一种形状" ],
+  "notes" : [ "‘手錠’除表示手铐这一常见义外，在特定语境中有其他含义，如后乐园观赏鱼形状这一含义相对不常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6157,
+  "word" : "手間",
+  "reading" : "てま",
+  "romaji" : null,
+  "meaning" : [ "人力、劳力和时间；功夫；周折；麻烦" ],
+  "notes" : [ "该词汇常用来描述完成某事所花费的人力和时间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6158,
+  "word" : "手際",
+  "reading" : "てぎわ",
+  "romaji" : null,
+  "meaning" : [ "（处理事物的）手法，技巧；手腕，本领" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6159,
+  "word" : "手頃",
+  "reading" : "てごろ",
+  "romaji" : null,
+  "meaning" : [ "（大小、粗细）合手；（价格、数量等）适中，合适" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾要接「です」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6160,
+  "word" : "手順",
+  "reading" : "てじゅん",
+  "romaji" : null,
+  "meaning" : [ "次序，程序；步骤" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6161,
+  "word" : "手首",
+  "reading" : "てくび",
+  "romaji" : null,
+  "meaning" : [ "手腕；腕子" ],
+  "notes" : [ "该词为日语基础词汇，用于描述人体部位。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6162,
+  "word" : "才能",
+  "reading" : "さいのう",
+  "romaji" : null,
+  "meaning" : [ "才能，才干，才华" ],
+  "notes" : [ "该词为音读词汇，在日语中使用较为广泛，用于描述人在某方面的天赋和能力。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6163,
+  "word" : "打ち上げ",
+  "reading" : "うちあげ",
+  "romaji" : null,
+  "meaning" : [ "名词。1. 发射；2. 庆祝会，欢送会" ],
+  "notes" : [ "「打ち上げ」作为名词使用，在不同语境中有不同含义，常见用于描述发射物品或举办庆祝活动等场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6164,
+  "word" : "打ち上げる",
+  "reading" : "うちあげる",
+  "romaji" : null,
+  "meaning" : [ "1. 发射；2. 举行庆祝会、宴会；3. 向上抛、扔；4. 做完、完成" ],
+  "notes" : [ "该词在不同语境中有不同含义，使用时需根据上下文理解。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6165,
+  "word" : "打ち上げ花火",
+  "reading" : "うちあげはなび",
+  "romaji" : null,
+  "meaning" : [ "名词，指发射到空中绽放的烟花，也常用于指代烟花大会等烟花表演活动。" ],
+  "notes" : [ "“打ち上げ花火”是一个常见的词汇，在夏季的相关场景中经常出现，如描述夏日的活动等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6166,
+  "word" : "打ち出す",
+  "reading" : "うちだす",
+  "romaji" : null,
+  "meaning" : [ "1. 提出（想法、主张等）；2. 开始从事（某项活动）；3. 打出，敲出；4. 发射，喷射" ],
+  "notes" : [ "该词为五段动词，词尾为“す”，在进行词形变化时遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6167,
+  "word" : "打ち切る",
+  "reading" : "うちきる",
+  "romaji" : null,
+  "meaning" : [ "停止，中止；结束；截止；中断；取消；戒除" ],
+  "notes" : [ "该词为他动词，使用时需注意搭配宾语。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6168,
+  "word" : "打ち合う",
+  "reading" : "うちあう",
+  "romaji" : null,
+  "meaning" : [ "商量，碰头；互相击打" ],
+  "notes" : [ "该词常用在工作、学习等场景中表示交流讨论，“互相击打”含义相对不常用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6169,
+  "word" : "打ち合わせ",
+  "reading" : "うちあわせ",
+  "romaji" : null,
+  "meaning" : [ "事先商量，碰头商议；协调，沟通" ],
+  "notes" : [ "常用于商务或工作场景中，指相关人员就某件事情进行讨论和协调。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6170,
+  "word" : "打ち合わせる",
+  "reading" : "うちあわせる",
+  "romaji" : null,
+  "meaning" : [ "商量，协商；碰头，事先谈妥；核对，对证" ],
+  "notes" : [ "该词常用于工作、学习等场景中，用于描述人们就某件事情进行交流讨论以达成共识。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6171,
+  "word" : "打ち明ける",
+  "reading" : "うちあける",
+  "romaji" : null,
+  "meaning" : [ "坦率说出，开诚布公；倾诉，吐露心声" ],
+  "notes" : [ "该词常用于表达向他人坦诚自己的想法、感受等。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6172,
+  "word" : "打ち消し",
+  "reading" : "うちけし",
+  "romaji" : null,
+  "meaning" : [ "否定，否认；消除，抵消" ],
+  "notes" : [ "该词由动词「打ち消す」的连用形「打ち消し」转成名词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6173,
+  "word" : "打ち消す",
+  "reading" : "うちけす",
+  "romaji" : null,
+  "meaning" : [ "否定，否认；消除；抵消；取消；抹掉" ],
+  "notes" : [ "该词为五段动词，其ます形为「打ち消します」，て形为「打ち消して」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6174,
+  "word" : "打ち破る",
+  "reading" : "うちやぶる",
+  "romaji" : null,
+  "meaning" : [ "打破，破坏；打败，击败；突破（记录、常规等）" ],
+  "notes" : [ "该词为五段动词，词尾变化遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6175,
+  "word" : "打ち解ける",
+  "reading" : "うちとける",
+  "romaji" : null,
+  "meaning" : [ "相互之间消除隔阂，变得亲密、融洽；畅所欲言，无拘无束地交流。" ],
+  "notes" : [ "该词常用于描述人与人之间关系从陌生到熟悉、亲密的转变过程。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6176,
+  "word" : "打つ",
+  "reading" : "うつ",
+  "romaji" : null,
+  "meaning" : [ "1. 敲，打；2. 拍打；3. 击（球）；4. 打（电话）；5. 注射；6. 铸造；7. 制定（计划等）" ],
+  "notes" : [ "该词为五段动词，在不同语境中有多种含义，需根据上下文理解。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6177,
+  "word" : "打撃",
+  "reading" : "だげき",
+  "romaji" : null,
+  "meaning" : [ "打击；冲击；损害；挫折" ],
+  "notes" : [ "常用于描述精神上或物质上受到的不良影响。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6178,
+  "word" : "打診",
+  "reading" : "だしん",
+  "romaji" : null,
+  "meaning" : [ "①（医生）听诊；②打探，试探" ],
+  "notes" : [ "该词作为名词使用，一般和「を」搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6179,
+  "word" : "打開",
+  "reading" : "だかい",
+  "romaji" : null,
+  "meaning" : [ "开辟（途径），解决（问题）；打开；开拓" ],
+  "notes" : [ "该词为音读词汇，在使用时需注意其搭配的对象，常与‘問題’‘局面’等搭配。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6180,
+  "word" : "払います",
+  "reading" : "はらいます",
+  "romaji" : null,
+  "meaning" : [ "支付，付款；缴纳；打发走；赶走；解雇；消除（疑虑等）" ],
+  "notes" : [ "「払います」是「払う」的礼貌体形式。在不同语境中可根据上述含义灵活理解和使用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6181,
+  "word" : "払い戻す",
+  "reading" : "はらいもどす",
+  "romaji" : null,
+  "meaning" : [ "退还，返还；报销；退款" ],
+  "notes" : [ "常用于描述将已支付的金钱等返还的情况。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6182,
+  "word" : "払い込む",
+  "reading" : "はらいこむ",
+  "romaji" : null,
+  "meaning" : [ "缴纳，交纳；存入（款项等）" ],
+  "notes" : [ "该词常用于描述将款项支付给特定的机构或账户等场景。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6183,
+  "word" : "払う",
+  "reading" : "はらう",
+  "romaji" : null,
+  "meaning" : [ "支付；缴纳；付（钱）；拂，掸；拍（灰）；驱散，消除；赶走；打发；支付工资" ],
+  "notes" : [ "该词为五段动词，词尾为「う」段假名，在进行词形变化时遵循五段动词的变化规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6184,
+  "word" : "扱い",
+  "reading" : "あつかい",
+  "romaji" : null,
+  "meaning" : [ "操作；对待；处理；经营；使用；买卖" ],
+  "notes" : [ "该词是动词「扱う」的连用形名词化形式，在句子中可作主语、宾语等成分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6185,
+  "word" : "扱う",
+  "reading" : "あつかう0",
+  "romaji" : null,
+  "meaning" : [ "1. 经营，销售；2. 对待，处理；3. 使用，操作；4. 涉及，论述" ],
+  "notes" : [ "该动词为五段动词，词尾为「う」段假名，在进行词形变化时遵循五段动词的变化规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6186,
+  "word" : "批判",
+  "reading" : "ひはん",
+  "romaji" : null,
+  "meaning" : [ "名词，意为批判、批评、评论" ],
+  "notes" : [ "“批判”常用于表达对事物、行为、观点等的否定性评价。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6187,
+  "word" : "批評",
+  "reading" : "ひひょう",
+  "romaji" : null,
+  "meaning" : [ "批评；评论；影评；对事物进行分析、评判" ],
+  "notes" : [ "该词为名词，在句子中常作宾语等成分，表达对事物的评价等含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6188,
+  "word" : "承る",
+  "reading" : "うけたまわる",
+  "romaji" : null,
+  "meaning" : [ "1. 接受，答应，应允；2. 听说，敬悉；3. 承认，承担" ],
+  "notes" : [ "「承る」是一个尊敬语动词，常用于正式或礼貌的场合。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6189,
+  "word" : "承知",
+  "reading" : "しょうち",
+  "romaji" : null,
+  "meaning" : [ "1. 知道，知晓；2. 同意，答应，允许；3. 领教，认输" ],
+  "notes" : [ "作为サ变动词使用时，常见搭配「～を承知する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6190,
+  "word" : "承知します",
+  "reading" : "しょうちします",
+  "romaji" : null,
+  "meaning" : [ "答应；同意；知晓，知道" ],
+  "notes" : [ "「承知します」是比较正式、礼貌的表达，在商务或正式场合使用较多。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6191,
+  "word" : "承認",
+  "reading" : "しょうにん",
+  "romaji" : null,
+  "meaning" : [ "承认；认可；批准；同意" ],
+  "notes" : [ "该词为音读词汇，常用于正式场合表达对事物的认可或批准。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6192,
+  "word" : "承諾",
+  "reading" : "しょうだく",
+  "romaji" : null,
+  "meaning" : [ "名词，意为同意、答应、应允、承诺。" ],
+  "notes" : [ "常用于正式场合表达同意某事。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6193,
+  "word" : "技",
+  "reading" : "わざ",
+  "romaji" : null,
+  "meaning" : [ "技术，本领；招数；技巧；技能" ],
+  "notes" : [ "该词为音读和训读皆有的词汇，音读为「ぎ」，常见于复合词，如「技术（ぎじゅつ）」；训读为「わざ」，单独使用时常用训读。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6194,
+  "word" : "技巧",
+  "reading" : "ぎこう",
+  "romaji" : null,
+  "meaning" : [ "技巧；技艺；技术。" ],
+  "notes" : [ "该词为音读词汇，常用于描述在某种活动或技能方面所具备的特殊能力和方法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6195,
+  "word" : "技師",
+  "reading" : "ぎし",
+  "romaji" : null,
+  "meaning" : [ "工程师，技师" ],
+  "notes" : [ "该词在日语中主要用于表示具备专业技术能力的工程师或技师这一职业身份。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6196,
+  "word" : "技術",
+  "reading" : "ぎじゅつ",
+  "romaji" : null,
+  "meaning" : [ "技术；技艺；技能" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6197,
+  "word" : "技術開発",
+  "reading" : "ぎじゅつかいはつ",
+  "romaji" : null,
+  "meaning" : [ "技术开发" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6198,
+  "word" : "抉る",
+  "reading" : "ほじる",
+  "romaji" : null,
+  "meaning" : [ "挖，剜；挖掘，追究；深入探究；挖苦，讽刺" ],
+  "notes" : [ "该词为五段动词，在使用时需注意其词尾变化规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6199,
+  "word" : "把握",
+  "reading" : "はあく",
+  "romaji" : null,
+  "meaning" : [ "理解，掌握；抓住，把握住；抓住（机会等）" ],
+  "notes" : [ "作为名词使用时，可直接修饰名词，如「把握能力」；作为サ变动词时，词尾变化遵循サ变动词规则，如「把握する」「把握した」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6200,
+  "word" : "抑える/押さえる",
+  "reading" : "おさえる",
+  "romaji" : null,
+  "meaning" : [ "1. 压住，按住；2. 控制，抑制（感情、情绪、事态等）；3. 忍住（眼泪、哈欠等）；4. 记住，掌握" ],
+  "notes" : [ "「抑える」和「押さえる」在写法虽有不同，但读音和基本含义相近，在很多情况下可以互换使用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+} ]

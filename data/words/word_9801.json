@@ -1,0 +1,901 @@
+[ {
+  "id" : 9801,
+  "word" : "製法",
+  "reading" : "せいほう",
+  "romaji" : null,
+  "meaning" : [ "制造方法；制作方法" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9802,
+  "word" : "製造",
+  "reading" : "せいぞう0",
+  "romaji" : null,
+  "meaning" : [ "制造，生产；制作，生产（物品等）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9803,
+  "word" : "製造します",
+  "reading" : "せいぞうします",
+  "romaji" : null,
+  "meaning" : [ "生产，制造；制作" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9804,
+  "word" : "複写",
+  "reading" : "ふくしゃ",
+  "romaji" : null,
+  "meaning" : [ "抄写，誊写；复印" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9805,
+  "word" : "複合",
+  "reading" : "ふくごう",
+  "romaji" : null,
+  "meaning" : [ "复合；合成；组合" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9806,
+  "word" : "複数",
+  "reading" : "ふくすう",
+  "romaji" : null,
+  "meaning" : [ "1. 复数（两个以上的数）；2. （语法中的）复数" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9807,
+  "word" : "複雑",
+  "reading" : "ふくざつ",
+  "romaji" : null,
+  "meaning" : [ "事物的组成、结构等繁多且交错，不简单" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9808,
+  "word" : "複雑さ",
+  "reading" : "ふくざつさ",
+  "romaji" : null,
+  "meaning" : [ "复杂；复杂性；复杂程度" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9809,
+  "word" : "褒める",
+  "reading" : "ほめる",
+  "romaji" : null,
+  "meaning" : [ "称赞，夸奖；表扬；赞赏" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9810,
+  "word" : "褒め称える",
+  "reading" : "ほめたたえる",
+  "romaji" : null,
+  "meaning" : [ "极力称赞，高度赞扬，盛赞" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9811,
+  "word" : "褒美",
+  "reading" : "ほうび",
+  "romaji" : null,
+  "meaning" : [ "奖赏，奖励；奖品，奖金" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9812,
+  "word" : "褪せる",
+  "reading" : "あせる",
+  "romaji" : null,
+  "meaning" : [ "褪色，掉色；（光泽、颜色等）变暗淡；（记忆、印象等）变得淡薄" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9813,
+  "word" : "襟",
+  "reading" : "えり",
+  "romaji" : null,
+  "meaning" : [ "衣服、衬衫等的领子、衣领；（器物的）边，口" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9814,
+  "word" : "襲う",
+  "reading" : "おそう",
+  "romaji" : null,
+  "meaning" : [ "1. 袭击，攻击；2. 侵袭，突然降临（如疾病等）；3. 继承；4. 扑向，冲向（猎物等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9815,
+  "word" : "襲撃",
+  "reading" : "しゅうげき",
+  "romaji" : null,
+  "meaning" : [ "突然、急に相手を攻撃すること。袭击，攻击。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9816,
+  "word" : "襲来",
+  "reading" : "しゅうらい",
+  "romaji" : null,
+  "meaning" : [ "袭来，来袭；突然来临、到来（多为不好的事物）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9817,
+  "word" : "西",
+  "reading" : "にし",
+  "romaji" : null,
+  "meaning" : [ "西面；西；西方；（日本行政区划中的）西部" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9818,
+  "word" : "西口",
+  "reading" : "にしぐち",
+  "romaji" : null,
+  "meaning" : [ "西侧的出入口" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9819,
+  "word" : "西日",
+  "reading" : "にしび",
+  "romaji" : null,
+  "meaning" : [ "夕阳；西斜的太阳" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9820,
+  "word" : "西暦",
+  "reading" : "せいれき",
+  "romaji" : null,
+  "meaning" : [ "公元，公历，阳历" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9821,
+  "word" : "西洋",
+  "reading" : "せいよう",
+  "romaji" : null,
+  "meaning" : [ "指欧美等西方国家；也可指西方的文化、艺术等方面" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9822,
+  "word" : "要する",
+  "reading" : "ようする",
+  "romaji" : null,
+  "meaning" : [ "1. 需要，必要；2. 总之，总归，概括地说；3. 摘要，归纳" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9823,
+  "word" : "要するに",
+  "reading" : "ようするに",
+  "romaji" : null,
+  "meaning" : [ "总之；总而言之；简而言之" ],
+  "notes" : [ "" ],
+  "pos" : "CONJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9824,
+  "word" : "要ります",
+  "reading" : "いります",
+  "romaji" : null,
+  "meaning" : [ "要，需要；必要，必需" ],
+  "notes" : [ "「要る」的ます形，五段动词中特殊的存在，连用形是「いり」，而不是按常规的「いり+ます」变成「いりります」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9825,
+  "word" : "要る",
+  "reading" : "いる",
+  "romaji" : null,
+  "meaning" : [ "需要；必要；花费（时间等）" ],
+  "notes" : [ "也可写作「需る」，在口语中较为常用" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9826,
+  "word" : "要因",
+  "reading" : "よういん",
+  "romaji" : null,
+  "meaning" : [ "导致某种结果的重要原因、主要因素" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9827,
+  "word" : "要塞",
+  "reading" : "ようさい",
+  "romaji" : null,
+  "meaning" : [ "在军事上具有重要战略意义的、难以攻克的据点或地区" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9828,
+  "word" : "要旨",
+  "reading" : "ようし",
+  "romaji" : null,
+  "meaning" : [ "要点，主要内容；主旨，要义" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9829,
+  "word" : "要望",
+  "reading" : "ようぼう",
+  "romaji" : null,
+  "meaning" : [ "要求；希望；期望" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9830,
+  "word" : "要求",
+  "reading" : "ようきゅう",
+  "romaji" : null,
+  "meaning" : [ "要求，请求；需要" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9831,
+  "word" : "要点",
+  "reading" : "ようてん",
+  "romaji" : null,
+  "meaning" : [ "重要な点、肝要な点。主要な点。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9832,
+  "word" : "要素",
+  "reading" : "ようそ",
+  "romaji" : null,
+  "meaning" : [ "要素；因素；元素" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9833,
+  "word" : "要請",
+  "reading" : "ようせい",
+  "romaji" : null,
+  "meaning" : [ "请求，恳求，要求；要求事项" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9834,
+  "word" : "要領",
+  "reading" : "ようりょう",
+  "romaji" : null,
+  "meaning" : [ "要领，要点；窍门；适当，得宜" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9835,
+  "word" : "覆う",
+  "reading" : "おおう",
+  "romaji" : null,
+  "meaning" : [ "1. 蒙上，盖上；2. 掩盖（事实、缺点等）；3. 覆盖；4. 笼罩" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9836,
+  "word" : "覆す",
+  "reading" : "くつがえす",
+  "romaji" : null,
+  "meaning" : [ "1. 打翻，弄翻（物をひっくり返す。転げ落とす）；2. 推翻，颠覆（制度・政権などをひっくり返す。壊す）；3. 覆盖，遮盖（物を上からかぶせる）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9837,
+  "word" : "覆水",
+  "reading" : "ふくすい",
+  "romaji" : null,
+  "meaning" : [ "覆水，泼出去的水，比喻无法挽回的事物" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9838,
+  "word" : "覆面",
+  "reading" : "ふくめん",
+  "romaji" : null,
+  "meaning" : [ "蒙面；戴假面具；匿名" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9839,
+  "word" : "覇権",
+  "reading" : "はけん",
+  "romaji" : null,
+  "meaning" : [ "霸权；（比赛等中的）绝对优势地位、冠军地位" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9840,
+  "word" : "見えます",
+  "reading" : "みえます",
+  "romaji" : null,
+  "meaning" : [ "能看见；映入眼帘；显得，看起来" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9841,
+  "word" : "見える",
+  "reading" : "みえる",
+  "romaji" : null,
+  "meaning" : [ "1. 看得见，能够看到；2. 显得，看起来；3. （事情等）可以理解，能看出" ],
+  "notes" : [ "自动词，强调自然而然映入眼帘或自然而然呈现出某种状态等。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9842,
+  "word" : "見かける",
+  "reading" : "みかける",
+  "romaji" : null,
+  "meaning" : [ "1. 乍一看，看起来；2. 偶然看到，碰见" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9843,
+  "word" : "見せかける",
+  "reading" : "みせかける",
+  "romaji" : null,
+  "meaning" : [ "假装，伪装；表面上看起来" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9844,
+  "word" : "見せびらかす",
+  "reading" : "みせびらかす",
+  "romaji" : null,
+  "meaning" : [ "炫耀，卖弄；显示，夸示" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9845,
+  "word" : "見せます",
+  "reading" : "みせます",
+  "romaji" : null,
+  "meaning" : [ "出示；给……看；让……看；显示；表现出" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9846,
+  "word" : "見せる",
+  "reading" : "みせる",
+  "romaji" : null,
+  "meaning" : [ "让（别人）看，展示；使呈现出，使显得" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9847,
+  "word" : "見た目",
+  "reading" : "みため",
+  "romaji" : null,
+  "meaning" : [ "外观，外表，外表上看起来的样子" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9848,
+  "word" : "見つかります",
+  "reading" : "みつかります",
+  "romaji" : null,
+  "meaning" : [ "被找到，被发现；（自动词）找到，发现（强调结果）" ],
+  "notes" : [ "自动词，和他动词「見つける」相对，强调事物自己出现、被发现的状态" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9849,
+  "word" : "見つかる",
+  "reading" : "みつかる",
+  "romaji" : null,
+  "meaning" : [ "被找到，被发现；（自然地）找到，发现；偶然遇见" ],
+  "notes" : [ "自动词，强调结果，主语一般为被发现的事物" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9850,
+  "word" : "見つけます",
+  "reading" : "みつけます",
+  "romaji" : null,
+  "meaning" : [ "找到，发现；（有意识地）看见；找到（解决办法等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9851,
+  "word" : "見つめる",
+  "reading" : "みつめる",
+  "romaji" : null,
+  "meaning" : [ "凝视，注视；盯着看" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9852,
+  "word" : "見どころ",
+  "reading" : "みどころ",
+  "romaji" : null,
+  "meaning" : [ "值得看的地方；看点；精彩之处" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9853,
+  "word" : "見なす",
+  "reading" : "みなす",
+  "romaji" : null,
+  "meaning" : [ "把……看作，认为……是；当作，视为" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9854,
+  "word" : "見ます",
+  "reading" : "みます",
+  "romaji" : null,
+  "meaning" : [ "看；看见；观看；看望；查看" ],
+  "notes" : [ "「見る」的ます形" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9855,
+  "word" : "見られる",
+  "reading" : "みられる",
+  "romaji" : null,
+  "meaning" : [ "1. 能看见，看得见；2. 被看见；3. 可以观看；4. 看起来像，显得；5. （敬语）看（他人的行为等）；6. （可能态）能够看，有能力看" ],
+  "notes" : [ "可能态动词，由动词「見る」变化而来。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9856,
+  "word" : "見る",
+  "reading" : "みる",
+  "romaji" : null,
+  "meaning" : [ "看，观看；视为，看作；对待；体验，经历；访问，拜访；诊治，看病" ],
+  "notes" : [ "「見る」是他动词，后接宾语时使用助词「を」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9857,
+  "word" : "見上げる",
+  "reading" : "みあげる",
+  "romaji" : null,
+  "meaning" : [ "向上看，仰望；抬头看；（价格、地位等）上升，上涨；（对某人）尊敬，仰慕" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9858,
+  "word" : "見下ろす",
+  "reading" : "みおろす",
+  "romaji" : null,
+  "meaning" : [ "1. 俯视，从高处往下看；2. 轻视，看不起" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9859,
+  "word" : "見世物",
+  "reading" : "みせもの",
+  "romaji" : null,
+  "meaning" : [ "杂耍，小节目；供观赏的东西，稀奇的事物；出洋相的人，笑柄" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9860,
+  "word" : "見事",
+  "reading" : "みごと",
+  "romaji" : null,
+  "meaning" : [ "精彩，出色；完美，漂亮；完全，彻底" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9861,
+  "word" : "見付ける",
+  "reading" : "みつける",
+  "romaji" : null,
+  "meaning" : [ "找到；发现；看出；觉得" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9862,
+  "word" : "見入る",
+  "reading" : "みいる",
+  "romaji" : null,
+  "meaning" : [ "看得入迷；目不转睛地看；凝视；注视" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9863,
+  "word" : "見出す",
+  "reading" : "みいだす",
+  "romaji" : null,
+  "meaning" : [ "1. 找出，查出；发现。2. 开始出现，呈现出。3. 开头写，在开头注明。4. 突出，显眼。" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9864,
+  "word" : "見分ける",
+  "reading" : "みわける",
+  "romaji" : null,
+  "meaning" : [ "识别；鉴别，辨别；区分，区别" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9865,
+  "word" : "見切る",
+  "reading" : "みきる",
+  "romaji" : null,
+  "meaning" : [ "1. 看到最后，看完；2. 断念，死心，放弃；3. 看透，看穿；4. （在比赛等中）判定（一方）获胜" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9866,
+  "word" : "見劣り",
+  "reading" : "みぎり",
+  "romaji" : null,
+  "meaning" : [ "逊色，相形见绌；（外观等）显得不好看" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9867,
+  "word" : "見合い",
+  "reading" : "みあい",
+  "romaji" : null,
+  "meaning" : [ "相亲；互相看；暂停，搁置；匹配，相称" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9868,
+  "word" : "見合わせる",
+  "reading" : "みあわせる",
+  "romaji" : null,
+  "meaning" : [ "1. 互相看；对视。2. 比较，考量；权衡。3. 暂缓，推迟；暂停。4. （婚姻等的）相亲" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9869,
+  "word" : "見回す",
+  "reading" : "みまわす",
+  "romaji" : null,
+  "meaning" : [ "1. 环视四周；四下张望。2. 察看，查看。3. 照顾，照料" ],
+  "notes" : [ "「見回す」的被动态是「見回される」，使役态是「見回させる」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9870,
+  "word" : "見回る",
+  "reading" : "みまわる",
+  "romaji" : null,
+  "meaning" : [ "环顾，环视；巡视，巡逻；查看，察看" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9871,
+  "word" : "見地",
+  "reading" : "けんち",
+  "romaji" : null,
+  "meaning" : [ "见解，立场，观点；视野，眼界" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9872,
+  "word" : "見学",
+  "reading" : "けんがく",
+  "romaji" : null,
+  "meaning" : [ "参观，观摩；见习" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9873,
+  "word" : "見学します",
+  "reading" : "けんがくします",
+  "romaji" : null,
+  "meaning" : [ "参观；见习" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9874,
+  "word" : "見守る",
+  "reading" : "みまもる",
+  "romaji" : null,
+  "meaning" : [ "注视；守护；照看；关注（发展等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9875,
+  "word" : "見張る",
+  "reading" : "みはる",
+  "romaji" : null,
+  "meaning" : [ "1. 监视，看守；2. 守望，警戒；3. 照看，照料；4. 目不转睛地看，注视" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9876,
+  "word" : "見当",
+  "reading" : "けんとう",
+  "romaji" : null,
+  "meaning" : [ "1. 估计，推测；2. 大致的标准、头绪；3. 方向；4. 大约，左右" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9877,
+  "word" : "見当たる",
+  "reading" : "みあたる",
+  "romaji" : null,
+  "meaning" : [ "能看到；能找到；能发现；看上去像" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9878,
+  "word" : "見慣れる",
+  "reading" : "みなれる",
+  "romaji" : null,
+  "meaning" : [ "看惯，看熟；对……习以为常" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9879,
+  "word" : "見所",
+  "reading" : "みどころ",
+  "romaji" : null,
+  "meaning" : [ "1. 吸引人的地方，看点；2. 长处，优点，可取之处；3.（文章、绘画等的）精彩之处" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9880,
+  "word" : "見抜く",
+  "reading" : "みぬく",
+  "romaji" : null,
+  "meaning" : [ "看穿，看透；识破；预见，预料到" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9881,
+  "word" : "見捨てる",
+  "reading" : "みすてる",
+  "romaji" : null,
+  "meaning" : [ "抛弃，遗弃；不顾，舍弃；放弃" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9882,
+  "word" : "見据える",
+  "reading" : "みさえる",
+  "romaji" : null,
+  "meaning" : [ "1. 目不转睛地看；凝视。2. 看准；考虑到；展望。3. 以…为目标；着眼于。" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9883,
+  "word" : "見掛け",
+  "reading" : "みかけ",
+  "romaji" : null,
+  "meaning" : [ "外观，外表；表面上，看上去" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9884,
+  "word" : "見掛ける",
+  "reading" : "みかける",
+  "romaji" : null,
+  "meaning" : [ "1. 看起来，显得；2. 乍一看；3. 偶然看到，碰见" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9885,
+  "word" : "見損なう",
+  "reading" : "みそこなう",
+  "romaji" : null,
+  "meaning" : [ "看错；错过看的机会；估计错误；错过（时机等）" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9886,
+  "word" : "見方",
+  "reading" : "みかた",
+  "romaji" : null,
+  "meaning" : [ "看法，见解；看待事物的角度、方式" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9887,
+  "word" : "見晴らし",
+  "reading" : "みはらし",
+  "romaji" : null,
+  "meaning" : [ "1. 眺望，远眺；2. 视野；3. 景致，景色" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9888,
+  "word" : "見本",
+  "reading" : "みほん",
+  "romaji" : null,
+  "meaning" : [ "样品，样本；榜样，模范" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9889,
+  "word" : "見栄え",
+  "reading" : "みえ",
+  "romaji" : null,
+  "meaning" : [ "外观，外表；（显得）好看，美观" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9890,
+  "word" : "見極める",
+  "reading" : "みきわめる",
+  "romaji" : null,
+  "meaning" : [ "看清，看透（本质等）；弄清楚，辨别；判断，断定" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9891,
+  "word" : "見渡します",
+  "reading" : "みわたします",
+  "romaji" : null,
+  "meaning" : [ "1. 眺望，远眺；2. 放眼望去，环视；3. 展望，预测" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9892,
+  "word" : "見渡す",
+  "reading" : "みわたす",
+  "romaji" : null,
+  "meaning" : [ "1. 放眼望去，远望；2. 环视，环顾；3. 展望，展望未来；4. 涉及，包括" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9893,
+  "word" : "見渡す限り",
+  "reading" : "みわたすかぎり",
+  "romaji" : null,
+  "meaning" : [ "放眼所及之处；在能看到的范围内；一望无际" ],
+  "notes" : [ "" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9894,
+  "word" : "見物",
+  "reading" : "けんぶつ",
+  "romaji" : null,
+  "meaning" : [ "1. 游览，观光；2. 看热闹；3. 观赏，观看" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9895,
+  "word" : "見直し",
+  "reading" : "みなおし",
+  "romaji" : null,
+  "meaning" : [ "重新审视；重新评价；修改，更改" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9896,
+  "word" : "見直す",
+  "reading" : "みなおす",
+  "romaji" : null,
+  "meaning" : [ "1. 重新看；重阅。2. 重新审查；重新考虑。3. 改变对…的看法；另眼相看。" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9897,
+  "word" : "見破る",
+  "reading" : "みとおる",
+  "romaji" : null,
+  "meaning" : [ "识破，看穿，看透；预见，预料到" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9898,
+  "word" : "見積もり",
+  "reading" : "みつもり",
+  "romaji" : null,
+  "meaning" : [ "估计；估算；估价；预计；预测；概算" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9899,
+  "word" : "見積もる",
+  "reading" : "みつもる",
+  "romaji" : null,
+  "meaning" : [ "① 估计，估算，推测；② 预期，预料；③ 评价，估量" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9900,
+  "word" : "見習う",
+  "reading" : "みならう",
+  "romaji" : null,
+  "meaning" : [ "1. 学习，练习；2. 以……为榜样，效仿；3. 观摩，见习" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+} ]

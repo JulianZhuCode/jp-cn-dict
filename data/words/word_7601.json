@@ -1,0 +1,901 @@
+[ {
+  "id" : 7601,
+  "word" : "没収",
+  "reading" : "ぼっしゅう",
+  "romaji" : null,
+  "meaning" : [ "没收，查抄，收归公有" ],
+  "notes" : [ "他动词，通常用于法律、行政等正式场合，被动语态使用较多" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7602,
+  "word" : "没落",
+  "reading" : "ぼつらく",
+  "romaji" : null,
+  "meaning" : [ "没落，衰败，衰落，败落" ],
+  "notes" : [ "可作名词使用，也可构成动词性短语「没落する」（自动词）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7603,
+  "word" : "河川",
+  "reading" : "かせん",
+  "romaji" : null,
+  "meaning" : [ "河流，河川（天然形成的较大水流）" ],
+  "notes" : [ "正式书面用语，日常口语中更常用「川（かわ）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7604,
+  "word" : "河童",
+  "reading" : "かっぱ",
+  "romaji" : null,
+  "meaning" : [ "（日本民间传说中的水生妖怪）河童；擅长游泳的人" ],
+  "notes" : [ "日本民间传说中的妖怪，通常被描述为有着鸟的喙、青蛙的四肢、乌龟的壳和猴子的身体，头顶有一个装水的盘子，若盘中水干涸则力量减弱。常栖息于河流、湖泊等水域，在日本文化中是广为人知的传说生物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7605,
+  "word" : "沸かす",
+  "reading" : "わかす",
+  "romaji" : null,
+  "meaning" : [ "1. 烧开，烧热；2. 使沸腾；3. 激起，使激动" ],
+  "notes" : [ "「沸かす」是他动词，对应的自动词为「沸く（わく）」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7606,
+  "word" : "沸き上がる",
+  "reading" : "わきあがる",
+  "romaji" : null,
+  "meaning" : [ "1. （液体）沸腾，煮开；2. （感情、声音等）涌现，涌起；3. （人群等）蜂拥而至，涌现出来" ],
+  "notes" : [ "自动词，强调从下往上涌现的动态过程。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7607,
+  "word" : "沸く",
+  "reading" : "わく",
+  "romaji" : null,
+  "meaning" : [ "1. 沸腾，烧开；2. 激动，兴奋；3. 涌现，产生" ],
+  "notes" : [ "自动词，「沸かす」为其他动词形式，表示“使沸腾，加热”" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7608,
+  "word" : "沸騰",
+  "reading" : "ふっとう",
+  "romaji" : null,
+  "meaning" : [ "1. （液体）沸腾；2. （情绪等）高涨，激动，沸腾" ],
+  "notes" : [ "「沸騰する」是サ变动词，由名词「沸騰」+ する构成。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7609,
+  "word" : "油",
+  "reading" : "あぶら",
+  "romaji" : null,
+  "meaning" : [ "油，油脂；石油，煤油" ],
+  "notes" : [ "常用汉字，可指动植物油脂或矿物油" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7610,
+  "word" : "油揚げ",
+  "reading" : "あぶらあげ",
+  "romaji" : null,
+  "meaning" : [ "名词 油炸豆腐（将豆腐切成薄片油炸而成，常用于味噌汤、寿司等）" ],
+  "notes" : [ "由「油（あぶら）」和「揚げ（あげ）」组合而成，特指油炸豆腐，而非泛指所有油炸食品" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7611,
+  "word" : "油断",
+  "reading" : "ゆだん",
+  "romaji" : null,
+  "meaning" : [ "名词：疏忽，麻痹，大意；自动词：疏忽，麻痹大意，放松警惕" ],
+  "notes" : [ "常用搭配：油断する（动词形式）、油断ない（形容词性短语，表示不能疏忽）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7612,
+  "word" : "油条",
+  "reading" : "ヨウティアオ",
+  "romaji" : null,
+  "meaning" : [ "中国の伝統的な揚げ物。小麦粉の生地を細長く伸ばして二つ組み合わせ、油で揚げたもの。朝食としてよく食べられる" ],
+  "notes" : [ "中国語の「油条」(yóutiáo)の音訳。日本ではあまり一般的ではないが、中華料理店などで見られる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7613,
+  "word" : "油絵",
+  "reading" : "あぶらえ",
+  "romaji" : null,
+  "meaning" : [ "油画，用油彩绘制的画" ],
+  "notes" : [ "由「油（あぶら）」和「絵（え）」组成的复合名词，指使用油画颜料在画布等材料上创作的绘画作品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7614,
+  "word" : "治す",
+  "reading" : "なおす",
+  "romaji" : null,
+  "meaning" : [ "医治，治疗；修理，修复；改正，纠正" ],
+  "notes" : [ "他动词，强调通过人为手段使疾病痊愈、物品恢复正常功能或纠正错误行为" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7615,
+  "word" : "治ります",
+  "reading" : "なおります",
+  "romaji" : null,
+  "meaning" : [ "痊愈，治好，恢复健康；修理好，修复" ],
+  "notes" : [ "「治ります」是「治る」的礼貌形，除表示疾病痊愈外，还可用于物品的修理、故障的排除等。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7616,
+  "word" : "治る",
+  "reading" : "なおる",
+  "romaji" : null,
+  "meaning" : [ "治愈，痊愈，病愈；修理好，修复；平息，解决" ],
+  "notes" : [ "自动词，主语通常为疾病、故障、问题等" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7617,
+  "word" : "治安",
+  "reading" : "ちあん",
+  "romaji" : null,
+  "meaning" : [ "社会的な秩序が保たれ、人々が安心して生活できる状態" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7618,
+  "word" : "治療",
+  "reading" : "ちりょう",
+  "romaji" : null,
+  "meaning" : [ "治疗，疗法" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7619,
+  "word" : "沼",
+  "reading" : "ぬま",
+  "romaji" : null,
+  "meaning" : [ "沼泽，泥潭，沼地" ],
+  "notes" : [ "指自然形成的、积水较浅的湿地，通常生长有水生植物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7620,
+  "word" : "沿う",
+  "reading" : "そう",
+  "romaji" : null,
+  "meaning" : [ "沿，顺，按照，遵循" ],
+  "notes" : [ "基本形「沿う」、连用形「沿って」、过去式「沿った」、否定形「沿わない」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7621,
+  "word" : "沿岸",
+  "reading" : "えんがん",
+  "romaji" : null,
+  "meaning" : [ "名词 沿岸，沿海（靠近海岸的地区）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7622,
+  "word" : "沿海",
+  "reading" : "えんかい",
+  "romaji" : null,
+  "meaning" : [ "沿海，海岸附近" ],
+  "notes" : [ "「沿海」は主に名詞として使用され、「沿海の」の形で連体詞的にも用いられる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7623,
+  "word" : "沿線",
+  "reading" : "えんせん",
+  "romaji" : null,
+  "meaning" : [ "（铁路、公路等）沿线，沿途" ],
+  "notes" : [ "指沿着交通线路（如铁路、公路、河流等）的区域或地带" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7624,
+  "word" : "泉",
+  "reading" : "いずみ",
+  "romaji" : null,
+  "meaning" : [ "泉，泉水；源泉，根源" ],
+  "notes" : [ "常用汉字，可用于比喻事物的根源或来源" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7625,
+  "word" : "泊まり",
+  "reading" : "とまり",
+  "romaji" : null,
+  "meaning" : [ "住宿，过夜，投宿" ],
+  "notes" : [ "「泊まる」（とまる）的名词形式，表示住宿的行为或状态" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7626,
+  "word" : "泊まります",
+  "reading" : "とまります",
+  "romaji" : null,
+  "meaning" : [ "住宿，投宿，住下（如酒店、朋友家等）" ],
+  "notes" : [ "「泊まります」是「泊まる」的礼貌形，基本含义为在某处过夜住宿，对象可以是酒店、旅馆、朋友家等。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7627,
+  "word" : "泊まる",
+  "reading" : "とまる",
+  "romaji" : null,
+  "meaning" : [ "住宿，投宿；（船、车等）停泊，停靠" ],
+  "notes" : [ "自动词，对应的他动词为「泊める」（とめる）" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7628,
+  "word" : "法",
+  "reading" : "ほう",
+  "romaji" : null,
+  "meaning" : [ "法律；法规；方法；方式；法则；规律" ],
+  "notes" : [ "常用汉字。「法律」「方法」「法則」などの複合語を形成することが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7629,
+  "word" : "法人",
+  "reading" : "ほうじん",
+  "romaji" : null,
+  "meaning" : [ "法人，指依法成立、具有民事权利能力和民事行为能力，依法独立享有民事权利和承担民事义务的组织" ],
+  "notes" : [ "法律用语，对应英语为'legal person'或'corporation'" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7630,
+  "word" : "法則",
+  "reading" : "ほうそく",
+  "romaji" : null,
+  "meaning" : [ "法则；定律；规律，规则" ],
+  "notes" : [ "指事物运行的基本规律或科学上的定律" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7631,
+  "word" : "法務省",
+  "reading" : "ほうむしょう",
+  "romaji" : null,
+  "meaning" : [ "（日本政府机构）法务省，负责司法行政、民事、刑事、户籍、国籍、人权保护等事务的中央省厅" ],
+  "notes" : [ "日本政府の一省で、法務大臣が長官を務める。東京都千代田区に所在する。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7632,
+  "word" : "法学",
+  "reading" : "ほうがく",
+  "romaji" : null,
+  "meaning" : [ "法学，法律学，研究法律的学问" ],
+  "notes" : [ "大学の学部名としてよく使用される（例：法学部）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7633,
+  "word" : "法廷",
+  "reading" : "ほうてい",
+  "romaji" : null,
+  "meaning" : [ "法庭，法院" ],
+  "notes" : [ "法律用語で、裁判が行われる場所を指す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7634,
+  "word" : "法律",
+  "reading" : "ほうりつ",
+  "romaji" : null,
+  "meaning" : [ "法律，法规" ],
+  "notes" : [ "常用汉字词，指由国家制定或认可的行为规范" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7635,
+  "word" : "法案",
+  "reading" : "ほうあん",
+  "romaji" : null,
+  "meaning" : [ "法律案，法案（立法机关正在审议或已通过的法律草案）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7636,
+  "word" : "法規",
+  "reading" : "ほうき",
+  "romaji" : null,
+  "meaning" : [ "法规，法律和规章的总称" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7637,
+  "word" : "泡",
+  "reading" : "あわ",
+  "romaji" : null,
+  "meaning" : [ "泡，泡沫；水花，气泡" ],
+  "notes" : [ "可用于表示液体表面形成的气泡或泡沫，也可指某些物体中含有的气泡结构。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7638,
+  "word" : "波",
+  "reading" : "なみ",
+  "romaji" : null,
+  "meaning" : [ "波浪；波涛；波动；潮流" ],
+  "notes" : [ "常用汉字，可用于表示自然界的波浪或抽象的波动、趋势" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7639,
+  "word" : "波及",
+  "reading" : "はきゅう",
+  "romaji" : null,
+  "meaning" : [ "波及，影响到，扩展到" ],
+  "notes" : [ "「波及する」の形で使用されるサ変動詞。ある事象が広がって他の範囲や領域に影響を及ぼすことを表す。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7640,
+  "word" : "波線",
+  "reading" : "はせん",
+  "romaji" : null,
+  "meaning" : [ "波浪线，波纹线（呈波浪状的线条，常用于表示强调、删除或代替文字等）" ],
+  "notes" : [ "由「波（は）」（波浪）和「線（せん）」（线）组成的复合名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7641,
+  "word" : "泣きます",
+  "reading" : "なきます",
+  "romaji" : null,
+  "meaning" : [ "哭，哭泣，流泪" ],
+  "notes" : [ "「泣く」的礼貌形，用于正式场合或对长辈、陌生人说话时使用" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7642,
+  "word" : "泣き出す",
+  "reading" : "なきだす",
+  "romaji" : null,
+  "meaning" : [ "开始哭，哭起来，放声大哭" ],
+  "notes" : [ "由「泣く」（哭）和「出す」（开始，发出）构成的复合动词，表示开始哭泣的动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7643,
+  "word" : "泣き声",
+  "reading" : "なきごえ",
+  "romaji" : null,
+  "meaning" : [ "哭声，哭泣声" ],
+  "notes" : [ "复合名词，由动词「泣く」的连用形「泣き」与名词「声」组合而成。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7644,
+  "word" : "泣き虫",
+  "reading" : "なきむし",
+  "romaji" : null,
+  "meaning" : [ "爱哭的人，动不动就哭的人" ],
+  "notes" : [ "由「泣く」（哭）和「虫」（虫子，比喻某种人）构成的复合名词，多用于口语，略带贬义或亲昵意味。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7645,
+  "word" : "泣ける",
+  "reading" : "なける",
+  "romaji" : null,
+  "meaning" : [ "能哭；容易哭；忍不住哭，不禁流泪" ],
+  "notes" : [ "自动词，「泣く」的可能态，除表示“能够哭泣”外，常用来表达因感动、悲伤等情绪而“容易哭”“忍不住哭”的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7646,
+  "word" : "泥",
+  "reading" : "どろ",
+  "romaji" : null,
+  "meaning" : [ "名词 泥，泥土；淤泥，泥浆；小偷，扒手" ],
+  "notes" : [ "「泥棒」の略として「泥」単体でも小偷を意味することがあるが、単独で使用するよりは「泥棒」が一般的。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7647,
+  "word" : "泥仕合",
+  "reading" : "どろしあい",
+  "romaji" : null,
+  "meaning" : [ "互相揭短，互揭疮疤，互相攻击对方的缺点或过去的失败经历" ],
+  "notes" : [ "由「泥（どろ）」和「仕合（しあい）」组成，字面意思为“泥战”，比喻双方互相攻击对方的弱点或不光彩的过去，带有贬义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7648,
+  "word" : "泥棒",
+  "reading" : "どろぼう",
+  "romaji" : null,
+  "meaning" : [ "小偷，盗贼，扒手" ],
+  "notes" : [ "「泥棒」是日语中表示小偷、盗贼的常用名词，属于日常生活中较常见的词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7649,
+  "word" : "泥濘",
+  "reading" : "でいのう",
+  "romaji" : null,
+  "meaning" : [ "泥泞；泥泞的地方；（比喻）困境，泥潭" ],
+  "notes" : [ "「泥」（どろ）と「濘」（のう）の合成語。濘は「のう」と読む。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7650,
+  "word" : "注ぐ",
+  "reading" : "そそぐ",
+  "romaji" : null,
+  "meaning" : [ "注入，倒入；斟（酒等）；集中（目光、注意力等）" ],
+  "notes" : [ "他动词，可用于液体的倾倒、饮品的斟倒以及抽象事物的集中等场景" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7651,
+  "word" : "注射",
+  "reading" : "ちゅうしゃ",
+  "romaji" : null,
+  "meaning" : [ "注射，打针" ],
+  "notes" : [ "可作名词使用，也可构成复合动词「注射する」（サ変動詞）表示“进行注射”的动作" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7652,
+  "word" : "注意",
+  "reading" : "ちゅうい",
+  "romaji" : null,
+  "meaning" : [ "注意，留神，小心；提醒，警告，劝告" ],
+  "notes" : [ "「注意」作为名词时可后续「する」构成サ変动词，使用频率高，日常场景及书面语中均常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7653,
+  "word" : "注意します",
+  "reading" : "ちゅういします",
+  "romaji" : null,
+  "meaning" : [ "注意，留意，小心；提醒，警告" ],
+  "notes" : [ "「注意する」的敬体形式，基本形为「注意する」" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7654,
+  "word" : "注文",
+  "reading" : "ちゅうもん",
+  "romaji" : null,
+  "meaning" : [ "名词：1. 订货，订购；2. 所订的货物，订单；3. 点菜，所点的菜。サ変动词：1. 订货，订购；2. 点菜。" ],
+  "notes" : [ "作为サ変动词使用时，常用「注文する」的形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7655,
+  "word" : "注目",
+  "reading" : "ちゅうもく",
+  "romaji" : null,
+  "meaning" : [ "注视，注目，关注，重视" ],
+  "notes" : [ "「注目する」の形で动词として使用することが多い。名词としても使用可能。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7656,
+  "word" : "泳ぎます",
+  "reading" : "およぎます",
+  "romaji" : null,
+  "meaning" : [ "游泳，游水" ],
+  "notes" : [ "「泳ぐ」的礼貌形（ます形），基本形为「泳ぐ」（およぐ），属于五段动词（一类动词）" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7657,
+  "word" : "泳ぐ",
+  "reading" : "およぐ",
+  "romaji" : null,
+  "meaning" : [ "游泳，游水；（液体）流动，荡漾" ],
+  "notes" : [ "基本形「泳ぐ」，过去式「泳いだ」，否定形「泳がない」，可能形「泳げる」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7658,
+  "word" : "洋室",
+  "reading" : "ようしつ",
+  "romaji" : null,
+  "meaning" : [ "西式房间，采用西方建筑风格和家具布置的房间" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7659,
+  "word" : "洋式",
+  "reading" : "ようしき",
+  "romaji" : null,
+  "meaning" : [ "西式，西洋式（指建筑、家具、服装等的风格或样式）" ],
+  "notes" : [ "通常指与日本传统样式（和式）相对的西洋风格" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7660,
+  "word" : "洋服",
+  "reading" : "ようふく",
+  "romaji" : null,
+  "meaning" : [ "西服，西装，西式服装" ],
+  "notes" : [ "指西式服装，与和服相对，包括西装、连衣裙等西式服装的总称" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7661,
+  "word" : "洋菓子",
+  "reading" : "ようがし",
+  "romaji" : null,
+  "meaning" : [ "西式糕点，指从西方传入日本的糕点，与和菓子（日式传统糕点）相对" ],
+  "notes" : [ "常见的洋菓子包括ケーキ（蛋糕）、クッキー（饼干）、パイ（派）等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7662,
+  "word" : "洋酒",
+  "reading" : "ようしゅ",
+  "romaji" : null,
+  "meaning" : [ "西洋の酒類の総称。主にワイン、ウイスキー、ブランデー、焼酎（一部）などを指す。" ],
+  "notes" : [ "日本酒に対する西洋系の酒を指す総称。日本では度数の高い蒸留酒を指すことも多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7663,
+  "word" : "洋風",
+  "reading" : "ようふう",
+  "romaji" : null,
+  "meaning" : [ "西式风格，西洋式" ],
+  "notes" : [ "指受西方文化影响形成的风格，常用于建筑、饮食、服饰等领域。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7664,
+  "word" : "洋食",
+  "reading" : "ようしょく0",
+  "romaji" : null,
+  "meaning" : [ "西餐，西式料理" ],
+  "notes" : [ "指源自欧美等西方国家的饮食，与和食（日本传统饮食）相对" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7665,
+  "word" : "洒落る",
+  "reading" : "しゃれる",
+  "romaji" : null,
+  "meaning" : [ "1. 打扮得漂亮，讲究穿着；2. 说俏皮话，开玩笑；3. （事物）别致，有风趣" ],
+  "notes" : [ "「洒落る」是自动词，其对应的他动词形式为「洒落（しゃれ）る」（五段动词），表示“使……别致，点缀”。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7666,
+  "word" : "洗います",
+  "reading" : "あらいます",
+  "romaji" : null,
+  "meaning" : [ "洗，洗涤" ],
+  "notes" : [ "「洗う」（あらう）的礼貌形，基本形为五段动词。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7667,
+  "word" : "洗う",
+  "reading" : "あらう",
+  "romaji" : null,
+  "meaning" : [ "洗，清洗，洗涤；冲刷，冲洗；洗刷（耻辱等）" ],
+  "notes" : [ "「洗う」是他动词，需要带宾语使用。其活用形包括：未然形「洗わ」、連用形「洗い/洗って」、終止形「洗う」、連体形「洗う」、仮定形「洗え」、命令形「洗え」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7668,
+  "word" : "洗剤",
+  "reading" : "せんざい",
+  "romaji" : null,
+  "meaning" : [ "洗涤剂，清洗剂" ],
+  "notes" : [ "用于清洗衣物、餐具等的清洁用品" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7669,
+  "word" : "洗濯",
+  "reading" : "せんたく",
+  "romaji" : null,
+  "meaning" : [ "洗涤，洗衣，洗的衣物" ],
+  "notes" : [ "「洗濯する」作为サ変動詞使用，可单独作名词表示洗衣这一行为或洗好的衣物" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7670,
+  "word" : "洗濯します",
+  "reading" : "せんたくします",
+  "romaji" : null,
+  "meaning" : [ "洗涤，洗衣服" ],
+  "notes" : [ "「洗濯する」的敬体形式，对应简体为「洗濯する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7671,
+  "word" : "洗濯機",
+  "reading" : "せんたくき",
+  "romaji" : null,
+  "meaning" : [ "洗衣机，用于洗涤衣物的家用电器" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7672,
+  "word" : "洗濯物",
+  "reading" : "せんたくもの",
+  "romaji" : null,
+  "meaning" : [ "要洗的衣物；洗好的衣物，待晾晒或已晾晒的衣物" ],
+  "notes" : [ "可指待洗的脏衣服或已洗好的干净衣物，具体含义需根据上下文判断" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7673,
+  "word" : "洗濯する",
+  "reading" : "せんたくする",
+  "romaji" : null,
+  "meaning" : [ "洗涤，清洗，洗（衣物等）" ],
+  "notes" : [ "「洗濯」是名词，加上「する」构成サ变动词。表示清洗衣物等物品的行为。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7674,
+  "word" : "洗練",
+  "reading" : "せんれん",
+  "romaji" : null,
+  "meaning" : [ "1. 洗练，精炼，千锤百炼（指经过反复推敲、加工使事物变得精致、完美）；2. 讲究，考究（指在品味、风格等方面追求精致高雅）" ],
+  "notes" : [ "「洗練」作为名词时可单独使用，作为サ变动词时常用「洗練する」「洗練される」等形式。表示事物经过加工变得精致，或人的品味、行为等高雅考究。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7675,
+  "word" : "洗練します",
+  "reading" : "せんれんします",
+  "romaji" : null,
+  "meaning" : [ "精炼，洗练，使精致，使高雅" ],
+  "notes" : [ "「洗練する」の敬体形。基本形は「洗練する」です。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7676,
+  "word" : "津波",
+  "reading" : "つなみ",
+  "romaji" : null,
+  "meaning" : [ "海啸，由海底地震、火山爆发等引起的巨大海浪" ],
+  "notes" : [ "通常指由海底地震、火山活动或海底滑坡等引发的具有强大破坏力的海浪现象" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7677,
+  "word" : "洪水",
+  "reading" : "こうずい",
+  "romaji" : null,
+  "meaning" : [ "名词 洪水，大水" ],
+  "notes" : [ "通常指因暴雨、融雪等导致的大规模水灾" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7678,
+  "word" : "活力",
+  "reading" : "かつりょく",
+  "romaji" : null,
+  "meaning" : [ "活力，生命力，精力" ],
+  "notes" : [ "通常用于积极表达，指身体或精神上的能量与生命力" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7679,
+  "word" : "活動",
+  "reading" : "かつどう",
+  "romaji" : null,
+  "meaning" : [ "活动，指有组织、有目的的行动或运动；也指身体或精神的活动" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7680,
+  "word" : "活字",
+  "reading" : "かつじ",
+  "romaji" : null,
+  "meaning" : [ "活字；铅字；活字印刷品" ],
+  "notes" : [ "「活字離れ」（かつじばなれ）は、活字や印刷物を使わなくなることを指す慣用表現です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7681,
+  "word" : "活性化",
+  "reading" : "かっせいか",
+  "romaji" : null,
+  "meaning" : [ "名词：振兴，激活，使具有活力；サ変动词：使振兴，使激活，使具有活力" ],
+  "notes" : [ "「活性化」は名词として使用されることが多く、サ変动词としても用いられる。「活性化する」の形で动词的に使用する場合、対象を活性化させる意味を表す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7682,
+  "word" : "活性炭",
+  "reading" : "かっせいたん",
+  "romaji" : null,
+  "meaning" : [ "活性炭，一种具有强吸附能力的炭，用于净化空气、水等" ],
+  "notes" : [ "由木材、煤等经高温处理制成，具有多孔结构，吸附性能强" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7683,
+  "word" : "活気",
+  "reading" : "かっき",
+  "romaji" : null,
+  "meaning" : [ "活力，生气，朝气，生命力" ],
+  "notes" : [ "常用汉字词，可用于形容人、场所或事物充满生命力的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7684,
+  "word" : "活気づける",
+  "reading" : "かっきづける",
+  "romaji" : null,
+  "meaning" : [ "使...充满活力，使...活跃起来" ],
+  "notes" : [ "「活気」(かっき)是名词，意为“活力、生气”，此词为其使役形式。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7685,
+  "word" : "活用",
+  "reading" : "かつよう",
+  "romaji" : null,
+  "meaning" : [ "1. 灵活运用，有效利用；2. （语法）词尾变化，活用" ],
+  "notes" : [ "作为语法术语时，指日语动词、形容词等的词尾变化形式，如「連用形」「終止形」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7686,
+  "word" : "活発",
+  "reading" : "かっぱつ",
+  "romaji" : null,
+  "meaning" : [ "形容动词，指充满活力、积极行动的样子；或指事物进行得热烈、频繁。" ],
+  "notes" : [ "「活発」は主に人の行動や性格、あるいはイベントや議論などの様子を表す形容動詞です。否定形は「活発ではない」、連用形は「活発に」などが一般的です。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7687,
+  "word" : "活躍",
+  "reading" : "かつやく",
+  "romaji" : null,
+  "meaning" : [ "活跃，发挥作用，表现出色" ],
+  "notes" : [ "「活躍する」の形でよく使用される。主に人前で目立って力を発揮することを表す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7688,
+  "word" : "活躍する",
+  "reading" : "かつやくする",
+  "romaji" : null,
+  "meaning" : [ "大显身手，活跃，发挥作用" ],
+  "notes" : [ "「活躍」は名詞としても使用可能（例：国際舞台での活躍）" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7689,
+  "word" : "派手",
+  "reading" : "はで",
+  "romaji" : null,
+  "meaning" : [ "华丽，花哨，鲜艳；张扬，高调，引人注目" ],
+  "notes" : [ "「派手」的反义词是「地味（じみ）」（朴素，低调）。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7690,
+  "word" : "派遣",
+  "reading" : "はけん",
+  "romaji" : null,
+  "meaning" : [ "派遣，派出（指将人员派往特定地点或单位执行任务）" ],
+  "notes" : [ "作为动词使用时通常以「派遣する」形式出现，名词形式可构成「派遣社員」（派遣员工）等复合词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7691,
+  "word" : "派遣する",
+  "reading" : "はけんする",
+  "romaji" : null,
+  "meaning" : [ "派遣，派出（将人员或事物派往特定地点或岗位执行任务）" ],
+  "notes" : [ "「派遣」は名詞としても使用可能。例：「派遣社員」（はけんしゃいん）" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7692,
+  "word" : "流す",
+  "reading" : "ながす",
+  "romaji" : null,
+  "meaning" : [ "1. 冲走，冲掉；2. 流放，放逐；3. 播放（声音、影像等）；4. 流鼻涕，流眼泪；5. 使……流动，使……流淌" ],
+  "notes" : [ "他动词，基本形为「流す」，过去式「流した」，否定形「流さない」，可能形「流せる」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7693,
+  "word" : "流れる",
+  "reading" : "ながれる",
+  "romaji" : null,
+  "meaning" : [ "流动，流淌；流逝，过去；流传，传播；倾向于，趋向于" ],
+  "notes" : [ "自动词，表示自然流动或时间、信息等的传播流逝" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7694,
+  "word" : "流れ星",
+  "reading" : "ながれぼし",
+  "romaji" : null,
+  "meaning" : [ "流星，指宇宙中的小天体进入地球大气层时因摩擦燃烧而产生的光迹" ],
+  "notes" : [ "「流れ星」是复合词，由「流れる」（流动）和「星」（星星）构成，通常用于描述夜空中短暂出现的流星现象，常与「願いをかける」（许愿）搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7695,
+  "word" : "流れ込む",
+  "reading" : "ながれこむ",
+  "romaji" : null,
+  "meaning" : [ "流入，流进；大量进入，涌入" ],
+  "notes" : [ "自动词，强调从外部向内部流动的过程" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7696,
+  "word" : "流域",
+  "reading" : "りゅういき",
+  "romaji" : null,
+  "meaning" : [ "河流及其支流所流经的区域，流域" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7697,
+  "word" : "流暢",
+  "reading" : "りゅうちょう",
+  "romaji" : null,
+  "meaning" : [ "流畅的，流利的，通顺的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7698,
+  "word" : "流行",
+  "reading" : "りゅうこう",
+  "romaji" : null,
+  "meaning" : [ "流行，时髦；（疾病等）蔓延，传播" ],
+  "notes" : [ "「流行」作为名词时可单独使用，作为动词时需以「流行する」形式出现，其活用遵循サ変動詞（suru verb）规则。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7699,
+  "word" : "流行します",
+  "reading" : "りゅうこうします",
+  "romaji" : null,
+  "meaning" : [ "流行，时兴，时髦" ],
+  "notes" : [ "「流行する」の丁寧形。基本形は「流行する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7700,
+  "word" : "流行る",
+  "reading" : "はやる",
+  "romaji" : null,
+  "meaning" : [ "1. 流行，时髦，时兴；2. （疾病、谣言等）蔓延，传播" ],
+  "notes" : [ "自动词，主语多为事物。表示疾病蔓延时可与「蔓延する」替换使用，但「流行る」更口语化。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+} ]

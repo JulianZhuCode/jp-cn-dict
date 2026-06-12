@@ -1,0 +1,901 @@
+[ {
+  "id" : 3801,
+  "word" : "動かす",
+  "reading" : "うごかす",
+  "romaji" : null,
+  "meaning" : [ "1. 移动，挪动；2. 摇动，晃动；3. 开动，启动（机器、车辆等）；4. 调动，变动（人员、职位等）；5. 打动，感动；6. 使活动，使运转" ],
+  "notes" : [ "作为他动词使用，可接宾语表示使对象产生移动、运转或情感上的变化" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3802,
+  "word" : "動き",
+  "reading" : "うごき",
+  "romaji" : null,
+  "meaning" : [ "1. 动作，活动；2. 动向，动态；3. 移动，转动；4. 变化，变动" ],
+  "notes" : [ "可作为「動く」的名词形使用，除表示具体动作外，也常用于形容抽象的趋势、变化" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3803,
+  "word" : "動きます",
+  "reading" : "うごきます",
+  "romaji" : null,
+  "meaning" : [ "1. 移动，活动；2. 转动，运转；3. 行动，动作；4. 变动，变化" ],
+  "notes" : [ "「動きます」是「動く（うごく）」的ます形，属于五段动词的ます形变化，实际活用原型为五段动词「動く」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3804,
+  "word" : "動く",
+  "reading" : "うごく",
+  "romaji" : null,
+  "meaning" : [ "1. 移动，活动；2. 转动，运转；3. 动摇，变动；4. 生效，起作用；5. 感动，动心" ],
+  "notes" : [ "「動く」作为自动词使用，对应的他动词为「動かす」（うごかす）；在表示“运转、生效”等抽象含义时，常用于描述机械、药物、市场等对象。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3805,
+  "word" : "動作",
+  "reading" : "どうさ",
+  "romaji" : null,
+  "meaning" : [ "1. 动作，行为，举止；2. （机器、装置等的）运转，操作；3. （体育、武术等的）动作，招式" ],
+  "notes" : [ "作为名词使用，可后续「する」构成サ变动词「動作する」，表示进行动作、操作运转等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3806,
+  "word" : "動向",
+  "reading" : "どうこう",
+  "romaji" : null,
+  "meaning" : [ "1. 事物发展的方向、趋势；2. 人的行动方向、动向" ],
+  "notes" : [ "多用于关注、分析特定对象的发展趋势或行动方向，常见于新闻、商务、情报等场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3807,
+  "word" : "動員",
+  "reading" : "どういん",
+  "romaji" : null,
+  "meaning" : [ "1. 动员，发动（人员、物资等）；2. 调动（积极性、力量等）；3. 征召（入伍）" ],
+  "notes" : [ "作为サ变他动词使用时，可构成「動員する」的形式；作名词时可直接接在名词后使用，如「動員体制」「動員計画」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3808,
+  "word" : "動揺",
+  "reading" : "どうよう",
+  "romaji" : null,
+  "meaning" : [ "1. 物理上的摇晃、颠簸；2. 内心的动摇、不安、慌乱，指情绪或立场不稳定" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「動揺する」「動揺させる」等活用形式，多用于描述因外部刺激引发的身体晃动或心理波动" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3809,
+  "word" : "動機",
+  "reading" : "どうき",
+  "romaji" : null,
+  "meaning" : [ "动机，意图；（促使行动的）起因，缘由" ],
+  "notes" : [ "通常用于描述引发行为、事件的内在原因或心理意图，可用于正式场合及日常对话" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3810,
+  "word" : "動物",
+  "reading" : "どうぶつ",
+  "romaji" : null,
+  "meaning" : [ "动物，兽类" ],
+  "notes" : [ "可构成复合词，如「動物園（どうぶつえん）」、「保護動物（ほごどうぶつ）」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3811,
+  "word" : "動物園",
+  "reading" : "どうぶつえん",
+  "romaji" : null,
+  "meaning" : [ "动物园，饲养、展示各种动物供人观赏的场所" ],
+  "notes" : [ "属于场所类名词，通常后续に、で等格助词使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3812,
+  "word" : "動画",
+  "reading" : "どうが",
+  "romaji" : null,
+  "meaning" : [ "1. 动画；卡通片 2. 视频，录像" ],
+  "notes" : [ "在现代日语中，除了传统的动画含义外，也广泛用于指代各类拍摄的视频内容，与「ビデオ」含义有重叠" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3813,
+  "word" : "動的",
+  "reading" : "どうてき",
+  "romaji" : null,
+  "meaning" : [ "1. 动态的；变动的，非固定的。2. 具有动感的，生动活泼的。3. 力学上的运动的" ],
+  "notes" : [ "作为形容动词使用时，修饰名词需加「な」，修饰动词需加「に」" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3814,
+  "word" : "動脈",
+  "reading" : "どうみゃく",
+  "romaji" : null,
+  "meaning" : [ "动脉；（事物的）主要通道、干线" ],
+  "notes" : [ "医学术语，也可用于比喻事物的核心流通渠道" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3815,
+  "word" : "動詞",
+  "reading" : "どうし",
+  "romaji" : null,
+  "meaning" : [ "动词，日语中表示动作、作用、存在、状态等的品词" ],
+  "notes" : [ "日语动词有独立的活用规则，根据活用形式可分为四大类，在句子中常作谓语成分" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3816,
+  "word" : "勘",
+  "reading" : "かん",
+  "romaji" : null,
+  "meaning" : [ "直觉，第六感；判断力，洞察力；推测，猜测" ],
+  "notes" : [ "常以「勘が鋭い（直觉敏锐）」「勘に頼る（依赖直觉）」等固定搭配使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3817,
+  "word" : "勘ぐる",
+  "reading" : "かんぐる",
+  "romaji" : null,
+  "meaning" : [ "1. 猜疑，揣测，胡乱猜测他人的心思或意图；2. （凭直觉）推测，判断" ],
+  "notes" : [ "多带有负面色彩，常指毫无根据地怀疑他人，也可用于基于少量信息的直觉推测。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3818,
+  "word" : "勘定",
+  "reading" : "かんじょう",
+  "romaji" : null,
+  "meaning" : [ "1. 计算，核算；2. 账目，账单；3. 结账，付款；4. 考虑，估量" ],
+  "notes" : [ "作为サ变动词使用时，常以「勘定をする」「勘定する」形式出现；日常会话中也常用「勘定！」表示“结账！”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3819,
+  "word" : "勘弁",
+  "reading" : "かんべん",
+  "romaji" : null,
+  "meaning" : [ "1. 原谅，饶恕，宽恕；2. 容忍，忍受；3. 怜惜，体恤" ],
+  "notes" : [ "常以「～を勘弁する」「～を勘弁してください」的形式使用，口语中也可单独使用「勘弁！」表示“饶了我吧！”的意思。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3820,
+  "word" : "勘当",
+  "reading" : "かんとう",
+  "romaji" : null,
+  "meaning" : [ "1. 断绝父子、师徒等亲属或亲密关系；2. （对晚辈、下属等）斥责、训斥" ],
+  "notes" : [ "该词多用于长辈对晚辈、上级对下级的关系断绝或斥责，在现代日常会话中使用频率较低，更多出现在小说、新闻等书面语场景。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3821,
+  "word" : "勘違い",
+  "reading" : "かんちがい",
+  "romaji" : null,
+  "meaning" : [ "1. 判断错误，错觉；2. 误会，误解，对事物的错误理解" ],
+  "notes" : [ "作为サ变动词使用时，可构成「勘違いする」「勘違いした」等活用形式；日常对话中也常单独作为名词使用，后续接「をする」表达动作含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3822,
+  "word" : "務める",
+  "reading" : "つとめる",
+  "romaji" : null,
+  "meaning" : [ "1. 担任，就任；2. 扮演，担当（角色）；3. 尽力，效劳，履行（职责）" ],
+  "notes" : [ "除作为动词使用外，还可构成「務め」（名词，意为职务、工作）等相关词汇" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3823,
+  "word" : "勝ち",
+  "reading" : "かち",
+  "romaji" : null,
+  "meaning" : [ "1. 胜利，赢；2. 获胜的一方，胜者；3. 成功，顺利" ],
+  "notes" : [ "「勝ち」是动词「勝つ」的名词形式，也可作为接头词或接尾词使用，如「勝ち組」「必勝」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3824,
+  "word" : "勝ちます",
+  "reading" : "かちます",
+  "romaji" : null,
+  "meaning" : [ "赢，得胜；获胜，战胜；（比赛、竞争等中）取得胜利；（在某方面）占优势" ],
+  "notes" : [ "「勝ちます」是动词「勝つ」的ます形，用于礼貌表达，可用于各类竞技、竞争场景，也可引申为在某一领域或事情上取得成功。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3825,
+  "word" : "勝ち負け",
+  "reading" : "かちまけ",
+  "romaji" : null,
+  "meaning" : [ "1. 胜负，输赢；2. 比赛的结果" ],
+  "notes" : [ "可构成复合词「勝ち負けを争う」（争夺胜负），多用来指各类竞技、比赛的结果或输赢的概念。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3826,
+  "word" : "勝つ",
+  "reading" : "かつ",
+  "romaji" : null,
+  "meaning" : [ "1. 赢，获胜，战胜；2. 胜过，超过；3. 克服，抵御" ],
+  "notes" : [ "作为他动词使用时，可接宾语表示战胜对象；自动词用法时多表示状态性的胜出。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3827,
+  "word" : "勝る",
+  "reading" : "まさる",
+  "romaji" : null,
+  "meaning" : [ "1. 胜过，强过，优于；2. 超过，超出；3. （接在否定后）再好不过，无比" ],
+  "notes" : [ "1. 通常用于比较两者间的优劣，多接在「～に」「～より」之后；2. 「～に勝る」的否定形式「～に勝らない」常表达“不亚于……”的含义；3. 书面语中也可写作「優る」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3828,
+  "word" : "勝利",
+  "reading" : "しょうり",
+  "romaji" : null,
+  "meaning" : [ "胜利，获胜；战胜，击败（对手）；成功，达到目标" ],
+  "notes" : [ "可作为サ変動詞「勝利する」使用，表示“取得胜利，获胜”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3829,
+  "word" : "勝手",
+  "reading" : "かって",
+  "romaji" : null,
+  "meaning" : [ "1. （作为名词）生活情况，生活方式；家庭；厨房；2. （作为形容动词）任意，随便，擅自；为所欲为" ],
+  "notes" : [ "「勝手」兼具名词和形容动词的词性，作名词时多表示与生活、家庭相关的场所或状态，作形容动词时侧重指行为不受约束、随意的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3830,
+  "word" : "勝敗",
+  "reading" : "しょうはい",
+  "romaji" : null,
+  "meaning" : [ "胜败，输赢；（比赛、竞争等的）胜负结果" ],
+  "notes" : [ "可用于各类竞争、对抗场景的胜负表述，既指具体比赛的输赢结果，也可引申为事业、竞争等的成败" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3831,
+  "word" : "勝算",
+  "reading" : "しょうさん",
+  "romaji" : null,
+  "meaning" : [ "获胜的把握，胜算，赢面" ],
+  "notes" : [ "通常用于表示在竞争、比赛、博弈等场景中获胜的可能性或把握" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3832,
+  "word" : "勝負",
+  "reading" : "しょうぶ",
+  "romaji" : null,
+  "meaning" : [ "1. 胜负，输赢，比赛结果；2. 较量，比试，对决；3. 赌博，赌局" ],
+  "notes" : [ "作为サ变自动词使用时可构成「勝負する」的形式，意为进行比试、对决；部分语境下带有赌博相关的引申义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3833,
+  "word" : "募る",
+  "reading" : "つのる",
+  "romaji" : null,
+  "meaning" : [ "1. （欲望、感情等）越发强烈，加深，加剧；2. 招募，征募，募集" ],
+  "notes" : [ "该词有两种含义，需根据语境区分：表示抽象情绪加深时为自动词，表示招募行为时为他动词。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3834,
+  "word" : "募金",
+  "reading" : "ぼきん",
+  "romaji" : null,
+  "meaning" : [ "募捐，捐款；募得的款项" ],
+  "notes" : [ "可作サ变动词使用，形式为「募金する」，意为进行募捐、捐款" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3835,
+  "word" : "募集",
+  "reading" : "ぼしゅう",
+  "romaji" : null,
+  "meaning" : [ "征集，招募，募集；招收" ],
+  "notes" : [ "作为名词使用时常后续「をする」「を行う」等表达，作为サ变动词可直接活用，如「募集する」「募集した」「募集している」等形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3836,
+  "word" : "勢い",
+  "reading" : "いきおい",
+  "romaji" : null,
+  "meaning" : [ "1. 气势，劲头；2. 势力，威力；3. 趋势，形势；4. 势头，冲力" ],
+  "notes" : [ "可构成复合词如「勢い余る（いきおいあまる）」，表示劲头过猛、势头过大。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3837,
+  "word" : "勢力",
+  "reading" : "せいりょく",
+  "romaji" : null,
+  "meaning" : [ "1. 势力，权势；2. 力量，实力；3. （特定范围内的）影响力，支配力" ],
+  "notes" : [ "可构成常用短语「勢力を伸ばす（扩大势力）」「勢力団（势力集团）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3838,
+  "word" : "勤まる/務まる",
+  "reading" : "つとまる",
+  "romaji" : null,
+  "meaning" : [ "1. 胜任，能担任，干得来；2. 工作，任职；3. 适合，适用" ],
+  "notes" : [ "「勤まる」侧重表示胜任工作、任职的状态；「務まる」除胜任义外，还可表示规则、方法等适用的含义，二者在胜任工作的语境下可通用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3839,
+  "word" : "勤め",
+  "reading" : "つとめ",
+  "romaji" : null,
+  "meaning" : [ "1. 工作，职业；2. 任职，就职；3. 勤务，上班" ],
+  "notes" : [ "作为名词时，常与「で」搭配表示工作地点；对应的动词为「勤める（つとめる）」，属于一段动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3840,
+  "word" : "勤める",
+  "reading" : "つとめる",
+  "romaji" : null,
+  "meaning" : [ "1. 工作，任职，供职；2. 勤勉，努力做；3. （为神佛、他人）效劳，效力" ],
+  "notes" : [ "「勤める」侧重在某单位固定任职的状态，相比「働く」更正式；当表示为神佛、权贵效劳时，带有敬意或传统语境色彩。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3841,
+  "word" : "勤め先",
+  "reading" : "つとめさき",
+  "romaji" : null,
+  "meaning" : [ "工作单位，供职的场所" ],
+  "notes" : [ "通常用于指长期供职的固定工作场所，临时兼职的场所一般较少使用该词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3842,
+  "word" : "勤勉",
+  "reading" : "きんべん",
+  "romaji" : null,
+  "meaning" : [ "勤勉，勤劳，勤奋，努力不懈" ],
+  "notes" : [ "作为形容动词使用时，常以「勤勉な+名詞」「勤勉に+動詞」的形式出现，属于书面性较强的词汇。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3843,
+  "word" : "勤務",
+  "reading" : "きんむ",
+  "romaji" : null,
+  "meaning" : [ "1. 工作，上班，任职；2. 勤务，执勤" ],
+  "notes" : [ "作为サ変動词使用时，常以「勤務する」的形式出现；作为名词可与「～で」「～に」等助词搭配表示工作地点或岗位。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3844,
+  "word" : "勤務する",
+  "reading" : "きんむする",
+  "romaji" : null,
+  "meaning" : [ "工作，上班，任职，供职" ],
+  "notes" : [ "多用于正式场合或书面语，指在特定的单位、岗位进行工作任职。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3845,
+  "word" : "勤続",
+  "reading" : "きんぞく",
+  "romaji" : null,
+  "meaning" : [ "工龄，连续工作（的年限）；在职期间" ],
+  "notes" : [ "可构成复合词「勤続年数（きんぞくねんすう）」，表示连续工作年限、工龄。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3846,
+  "word" : "勧める",
+  "reading" : "すすめる",
+  "romaji" : null,
+  "meaning" : [ "1. 劝告，劝诱；2. 推荐，介绍；3. 提议，建议" ],
+  "notes" : [ "「勧める」可用于针对他人的行为、选择给出积极的引导或建议，对象可以是具体的事物也可以是行为，在推荐商品、场所或提出生活建议的场景中常用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3847,
+  "word" : "勧告",
+  "reading" : "かんこく",
+  "romaji" : null,
+  "meaning" : [ "1. 劝告，规劝；2. 忠告，建议；3. （官方的）警告，通告" ],
+  "notes" : [ "作为サ变动词使用时可作「勧告する」形式，官方场合使用时多带有正式警告、通告的意味。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3848,
+  "word" : "勧誘",
+  "reading" : "かんゆう",
+  "romaji" : null,
+  "meaning" : [ "1. 劝诱，劝说，邀请；2. 招揽（顾客、会员等）" ],
+  "notes" : [ "作为サ変动词使用时，可构成「勧誘する」的动词形式，多用于正式场合或商业、组织相关的招揽行为" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3849,
+  "word" : "勾配",
+  "reading" : "こうばい",
+  "romaji" : null,
+  "meaning" : [ "1. 斜坡，坡度；2. （图表等的）斜率，倾斜度；3. （价格、数量等的）增减幅度" ],
+  "notes" : [ "可用于表示物理层面的倾斜状态，也可用于抽象的数值变化幅度" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3850,
+  "word" : "勿体無い",
+  "reading" : "もったいない",
+  "romaji" : null,
+  "meaning" : [ "1. 可惜的，浪费的；2. 不胜感激的，过意不去的；3. 过分的，奢侈的" ],
+  "notes" : [ "「勿体無い」在口语中常被缩略为「もったいない」，也可写作「勿体無い」的简化形式「勿体無い」，在表达“不胜感激”时多用于对他人赠予的贵重物品或厚待感到过意不去的场景。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3851,
+  "word" : "匂い",
+  "reading" : "におい",
+  "romaji" : null,
+  "meaning" : [ "1. 气味，气息，香味；2. 气息，氛围，情调；3. 苗头，迹象" ],
+  "notes" : [ "作为名词时后续「がする」表达“有……气味”；作为自动词时可直接使用，如「匂い立つ」（散发气味）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3852,
+  "word" : "匂う",
+  "reading" : "におう",
+  "romaji" : null,
+  "meaning" : [ "1. 散发气味、发出香气；2. 带有某种气息、氛围；3. （隐约）觉得、嗅出" ],
+  "notes" : [ "可用于描述具体气味，也可引申为抽象的气息、预感；作自动词使用，偶尔可接を作他动词表示“使…散发气味”" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3853,
+  "word" : "包み",
+  "reading" : "つつみ",
+  "romaji" : null,
+  "meaning" : [ "1. 包裹，包袱；2. 包裹物，包装好的东西；3. 包，裹的动作或状态" ],
+  "notes" : [ "「包み」是动词「包む（つつむ）」的ます形名词化形式，也可作为独立名词使用，除表示实体包裹外，还可引申表示抽象的“包含、蕴含”的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3854,
+  "word" : "包みます",
+  "reading" : "つつみます",
+  "romaji" : null,
+  "meaning" : [ "包裹，包装；笼罩，覆盖；包含，涵盖" ],
+  "notes" : [ "「包みます」是动词「包む（つつむ）」的ます形，除了具象的包裹动作外，也可用于抽象事物的笼罩、包含等语义场景。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3855,
+  "word" : "包み紙",
+  "reading" : "つつみがみ",
+  "romaji" : null,
+  "meaning" : [ "包装纸，用于包裹物品的纸张" ],
+  "notes" : [ "可缩写为「包紙（つつみがみ）」，日常使用中两种表述均常见" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3856,
+  "word" : "包む",
+  "reading" : "つつむ",
+  "romaji" : null,
+  "meaning" : [ "1. 包，裹，缠绕；2. 笼罩，覆盖，遮蔽；3. 隐藏，隐瞒；4. 包含，容纳" ],
+  "notes" : [ "「包む」作为他动词使用时，对象通常用「を」提示；表示笼罩、覆盖等抽象含义时，也可自动词化使用" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3857,
+  "word" : "包丁",
+  "reading" : "ほうちょう",
+  "romaji" : null,
+  "meaning" : [ "菜刀，厨刀；（相扑）把对方摔出场地的技巧" ],
+  "notes" : [ "作为厨具时是日常生活常用词，作为相扑术语时属于专业领域词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3858,
+  "word" : "包容",
+  "reading" : "ほうよう",
+  "romaji" : null,
+  "meaning" : [ "1. （对他人的缺点、错误等）包容，宽容，宽恕；2. （容纳不同的事物、意见等）包含，涵盖" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「包容する」的动词形式；日常使用中更侧重对他人的宽容、谅解，也可用于描述组织、体系对多元事物的接纳。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3859,
+  "word" : "包帯",
+  "reading" : "ほうたい",
+  "romaji" : null,
+  "meaning" : [ "绷带，包扎用的布条" ],
+  "notes" : [ "可作サ変動詞「包帯する」使用，意为“用绷带包扎”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3860,
+  "word" : "包括的",
+  "reading" : "ほうかくてき",
+  "romaji" : null,
+  "meaning" : [ "总括的，综合的；包含所有相关内容的，涵盖性的" ],
+  "notes" : [ "形容动词，常接「な」修饰名词，接「に」作状语使用，多用于正式场合的书面语或演讲等场景。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3861,
+  "word" : "化ける",
+  "reading" : "ばける",
+  "romaji" : null,
+  "meaning" : [ "1. 变化，变形，变成别的东西；2. 乔装，伪装，扮成他人或其他事物；3. （因惊讶、愤怒等）脸色大变，神情突变；4. （妖怪）幻化，变身" ],
+  "notes" : [ "该词常用于描述妖怪、幽灵等的幻化变身，也可用于表达事物外观、人的神情发生显著变化的场景" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3862,
+  "word" : "化学",
+  "reading" : "かがく",
+  "romaji" : null,
+  "meaning" : [ "研究物质的组成、结构、性质、变化规律以及应用的自然科学；化学学科" ],
+  "notes" : [ "作为学科名称时可单独使用，在专业语境中也可用于指代化学相关的物质、反应等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3863,
+  "word" : "化石",
+  "reading" : "かせき",
+  "romaji" : null,
+  "meaning" : [ "1. 地质学术语，指古代生物的遗体、遗物或遗迹经过长期地质作用形成的石头状物质；2. 比喻因长期不变而显得陈旧、落后的人或事物" ],
+  "notes" : [ "可作为比喻词使用，用来形容守旧、跟不上时代的人或事物" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3864,
+  "word" : "化粧",
+  "reading" : "けしょう",
+  "romaji" : null,
+  "meaning" : [ "1. 化妆，修饰容貌；2. （器物、建筑等的）装饰，装潢；3. （烹饪的）摆盘，外观修饰" ],
+  "notes" : [ "作为サ变动词使用时，可构成「化粧する」的形式，表示“化妆，装饰”的动作" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3865,
+  "word" : "化粧品",
+  "reading" : "けしょうひん",
+  "romaji" : null,
+  "meaning" : [ "化妆品，彩妆用品，护肤用品" ],
+  "notes" : [ "涵盖护肤、彩妆、美发等各类用于美化仪容、保养肌肤的用品" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3866,
+  "word" : "北口",
+  "reading" : "きたぐち",
+  "romaji" : null,
+  "meaning" : [ "北侧的出入口；特指车站、建筑物等位于北侧的入口或出口" ],
+  "notes" : [ "作为复合名词，由「北（きた）」和「口（ぐち）」构成，常用于标识公共设施、商业建筑等的方位出入口" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3867,
+  "word" : "北東",
+  "reading" : "ほくとう",
+  "romaji" : null,
+  "meaning" : [ "1. 东北（方向、方位）；2. 日本的东北地方，指青森、岩手、宫城、秋田、山形、福岛六县的总称" ],
+  "notes" : [ "作为方位词使用时，可与「の」连接后续名词，如「北東の空」（东北方向的天空）；指代日本地域时，一般称为「東北地方（とうほくちほう）」，「北東」也可用于该指代，但相对口语化" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3868,
+  "word" : "北西",
+  "reading" : "ほくせい",
+  "romaji" : null,
+  "meaning" : [ "西北，西北方向" ],
+  "notes" : [ "可作为复合词的构成要素，如「北西風（ほくせいふう）」意为西北风" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3869,
+  "word" : "匙",
+  "reading" : "さじ",
+  "romaji" : null,
+  "meaning" : [ "勺子，汤匙；（量东西的）匙，勺（量词）" ],
+  "notes" : [ "作为量词使用时，通常读作「さじ」，也可读作「し」（如「一匙（いっし）」），日常会话中更常用「さじ」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3870,
+  "word" : "匹敵",
+  "reading" : "ひってき",
+  "romaji" : null,
+  "meaning" : [ "1. 匹敌，比得上，与……不相上下；2. 同等，相当" ],
+  "notes" : [ "通常用于书面语，多以「～に匹敵する」的形式使用，指在能力、价值、性能等方面达到同等水平。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3871,
+  "word" : "区分",
+  "reading" : "くぶん",
+  "romaji" : null,
+  "meaning" : [ "1. 分开、分割、划分；2. 分类、区分；3. 辨别、区分开不同事物" ],
+  "notes" : [ "作为名词使用时可构成「区分け」（くぶんけ）的形式，更强调具体的区分结果或分类方式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3872,
+  "word" : "区切り",
+  "reading" : "くぎり",
+  "romaji" : null,
+  "meaning" : [ "1.（文章、话语等的）段落，停顿处；2.（事情、时间等的）阶段，分界点，段落；3.（数量等的）划分单位，分段" ],
+  "notes" : [ "可构成复合词「区切り文字（くぎりもじ）」，意为分隔符；也可作接尾词使用，接在数量词后表示“每……为一段/一组”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3873,
+  "word" : "区切る",
+  "reading" : "くぎる",
+  "romaji" : null,
+  "meaning" : [ "1. （文章、话语等）分段，分节；2. 隔开，划分，分隔；3. （事物）告一段落，中断" ],
+  "notes" : [ "除了用于具体的物理分隔、文本分段外，也常用于表示将某一阶段的工作、事项等划分为一个段落，强调阶段性的完结" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3874,
+  "word" : "区別",
+  "reading" : "くべつ",
+  "romaji" : null,
+  "meaning" : [ "1. 区分，辨别，区别；2. 差别，差异" ],
+  "notes" : [ "作为サ变动词使用时，可后续「する」构成「区別する」，表示进行区分的动作；作为名词时可表示事物间的差异本身。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3875,
+  "word" : "区域",
+  "reading" : "くいき",
+  "romaji" : null,
+  "meaning" : [ "区域，地区；管辖范围；（特定的）领域、范围" ],
+  "notes" : [ "可用于表示地理区域、行政管辖范围、特定业务或活动的领域等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3876,
+  "word" : "区画",
+  "reading" : "くかく",
+  "romaji" : null,
+  "meaning" : [ "1. 区划，划分，指将一定范围的区域分割成多个部分；2. 划分出来的区域、地块" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「区画する」的动词形式，多用于土地、区域的划分场景" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3877,
+  "word" : "区間",
+  "reading" : "くかん",
+  "romaji" : null,
+  "meaning" : [ "1. （空间、时间、线路等的）区间，段；2. （铁路、公交等的）路段；3. （比赛、行程等的）阶段，段落" ],
+  "notes" : [ "可用于表示空间范围、时间阶段或特定线路的分段，在交通、赛事等场景中使用频率较高" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3878,
+  "word" : "医学",
+  "reading" : "いがく",
+  "romaji" : null,
+  "meaning" : [ "医学；医术，医疗技术" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3879,
+  "word" : "医師",
+  "reading" : "いし",
+  "romaji" : null,
+  "meaning" : [ "医生，医师，在日本指通过国家医师资格考试并取得执照，从事医疗、诊断、治疗等工作的专业人员" ],
+  "notes" : [ "日本的「医師」需具备国家认可的资格，与普通的医疗从业者（如看護師）职责不同，主要负责诊断和治疗" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3880,
+  "word" : "医療",
+  "reading" : "いりょう",
+  "romaji" : null,
+  "meaning" : [ "医疗，医疗工作" ],
+  "notes" : [ "该词单独表示医疗相关的整体概念，若要表达“医疗事故”需使用「医療過誤（いりょうかご）」或「医療事故（いりょうじこ）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3881,
+  "word" : "医者",
+  "reading" : "いしゃ",
+  "romaji" : null,
+  "meaning" : [ "医生，医师，大夫" ],
+  "notes" : [ "可用于称呼或指代从事医疗工作的专业人员，口语中也可简称为「いし」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3882,
+  "word" : "十",
+  "reading" : "じゅう、とお",
+  "romaji" : null,
+  "meaning" : [ "数目字，用于表示数量为10；也可用于构成序数、年龄、日期等" ],
+  "notes" : [ "「じゅう」是音读，用于汉语词构成或单独计数；「とお」是训读，主要用于年龄、日期（如「十日」读作「とおか」）等场景" ],
+  "pos" : "NUM",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3883,
+  "word" : "十分",
+  "reading" : "じゅうぶん",
+  "romaji" : null,
+  "meaning" : [ "1. 足够，充分，充足；2. 十分，完全，彻底" ],
+  "notes" : [ "作形容动词使用时常接「に」修饰动词，接「だ・で・な」作谓语或定语；作名词时可表示足够的数量或程度。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3884,
+  "word" : "千",
+  "reading" : "せん",
+  "romaji" : null,
+  "meaning" : [ "1. 数字，一千；2. 表示数量多" ],
+  "notes" : [ "作数字使用时，后续接量词时有时会发生浊音变，如「千匹（せんぴき）」「千本（せんぼん）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3885,
+  "word" : "千差万別",
+  "reading" : "せんさまんべつ",
+  "romaji" : null,
+  "meaning" : [ "形容事物之间存在各种各样的差异，各不相同" ],
+  "notes" : [ "常用来强调同类事物在形态、性质、想法等方面的多样性与差异性" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3886,
+  "word" : "午前",
+  "reading" : "ごぜん",
+  "romaji" : null,
+  "meaning" : [ "上午，午前，通常指从凌晨0点到中午12点的时间段" ],
+  "notes" : [ "常与具体时刻结合使用，也可与「中」组成「午前中」表示整个上午" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3887,
+  "word" : "午前中",
+  "reading" : "ごぜんちゅう",
+  "romaji" : null,
+  "meaning" : [ "上午，午前，整个上午" ],
+  "notes" : [ "指从凌晨到正午之前的时间段，也可特指整个上午的时段" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3888,
+  "word" : "午前",
+  "reading" : "ごぜん",
+  "romaji" : null,
+  "meaning" : [ "上午，午前（通常指从零点到正午的时间段，日常也常指早晨到中午的时段）" ],
+  "notes" : [ "常与具体时间或「中」「前半」等词搭配使用，对应的反义词是「午後」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3889,
+  "word" : "午後",
+  "reading" : "ごご",
+  "romaji" : null,
+  "meaning" : [ "下午，午后，一天中正午到傍晚的时间段" ],
+  "notes" : [ "通常与具体时间搭配使用，如「午後2時」；也可单独使用表示整个下午时段" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3890,
+  "word" : "半",
+  "reading" : "はん",
+  "romaji" : null,
+  "meaning" : [ "1. 一半，二分之一；2. 中途，一半；3. 半个（表示时间、数量等的一半）；4. 不完全的，部分的" ],
+  "notes" : [ "常用搭配有「半分（はんぶん）」「半額（はんがく）」「半ば（なかば）」等，部分搭配读音会发生变化，需注意区分" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3891,
+  "word" : "半々",
+  "reading" : "はんはん",
+  "romaji" : null,
+  "meaning" : [ "1. 名词：各一半，均等的份额；2. 副词：各占一半地，平均地，大致一半的程度" ],
+  "notes" : [ "作为名词使用时可后续「に」「の」等助词，作为副词直接修饰动词、形容词等，常用于表示分配、比例、概率等均等的情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3892,
+  "word" : "半ば",
+  "reading" : "なかば",
+  "romaji" : null,
+  "meaning" : [ "1. 中间，中部；2. 一半，中途；3. 过半，将近一半" ],
+  "notes" : [ "可作为副词使用，修饰动词，意为“大致，将近”，如「半ば完成した」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3893,
+  "word" : "半人前",
+  "reading" : "はんにんまえ",
+  "romaji" : null,
+  "meaning" : [ "1. 半份（食物等的分量）；2. 半吊子，不够格的人，不成熟的人；3. 半个人的劳动力" ],
+  "notes" : [ "多用来表示能力、分量未达到完整标准，用于形容人时多带有贬义或客观评价其能力不足的意味。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3894,
+  "word" : "半分",
+  "reading" : "はんぶん",
+  "romaji" : null,
+  "meaning" : [ "1. 一半，二分之一；2. 中间，中途；3. 部分，不完全" ],
+  "notes" : [ "作为名词时可后续「に」「を」等助词使用；作为副词时直接修饰动词或形容词，表示程度上的不完全或部分" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3895,
+  "word" : "半島",
+  "reading" : "はんとう",
+  "romaji" : null,
+  "meaning" : [ "半岛" ],
+  "notes" : [ "指陆地一部分伸入海洋或湖泊，另一部分与大陆或更大的岛屿相连的地貌形态" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3896,
+  "word" : "半年",
+  "reading" : "はんとし",
+  "romaji" : null,
+  "meaning" : [ "半年，六个月" ],
+  "notes" : [ "「半年」也可读作「なんとし」，属于文语读法，现代日语中主要使用「はんとし」的读法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3897,
+  "word" : "半径",
+  "reading" : "はんけい",
+  "romaji" : null,
+  "meaning" : [ "1. 从圆心到圆周的直线距离；2. 球体中心到表面的距离；3. 比喻范围、势力圈的半径" ],
+  "notes" : [ "可用于数学、地理等专业领域，也可用于日常生活中表示范围" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3898,
+  "word" : "半数",
+  "reading" : "はんすう",
+  "romaji" : null,
+  "meaning" : [ "半数，一半（指整体数量的二分之一）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3899,
+  "word" : "半月",
+  "reading" : "はんげつ",
+  "romaji" : null,
+  "meaning" : [ "1. 半个月；2. 新月或残月（月亮的上弦、下弦状态）" ],
+  "notes" : [ "当表示时间时，通常指14天或15天的时长；表示天体时指月亮呈现半圆形态的阶段" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3900,
+  "word" : "半端",
+  "reading" : "はんぱ",
+  "romaji" : null,
+  "meaning" : [ "1. 零头，零碎部分；2. 不彻底，半途而废；3. 无用的人，不成器的人；4. 不完整，不齐全" ],
+  "notes" : [ "作为形容动词使用时，需后续「だ・で・な」等词尾变化；常用搭配有「半端な」「半端にする」「半端者（はんぱもの）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

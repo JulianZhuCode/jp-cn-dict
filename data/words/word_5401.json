@@ -1,0 +1,901 @@
+[ {
+  "id" : 5401,
+  "word" : "常に",
+  "reading" : "つねに",
+  "romaji" : null,
+  "meaning" : [ "总是，经常，平时，时常" ],
+  "notes" : [ "书面语，比“いつも”更正式。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5402,
+  "word" : "常務",
+  "reading" : "じょうむ",
+  "romaji" : null,
+  "meaning" : [ "1. 日常事务，日常工作；2. 常务董事" ],
+  "notes" : [ "作为公司职位时，通常指仅次于专务董事的高级管理人员。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5403,
+  "word" : "常夏",
+  "reading" : "とこなつ",
+  "romaji" : null,
+  "meaning" : [ "1. 四季如夏，终年温暖如夏。2. 喻指热情、激情的状态。" ],
+  "notes" : [ "常用作形容名词，形容气候温暖或充满热情的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5404,
+  "word" : "常用",
+  "reading" : "じょうよう",
+  "romaji" : null,
+  "meaning" : [ "常用，经常使用；普通，一般" ],
+  "notes" : [ "也可作为サ变动词使用，如「常用する。」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5405,
+  "word" : "常識",
+  "reading" : "じょうしき",
+  "romaji" : null,
+  "meaning" : [ "常识；常情；通晓事理" ],
+  "notes" : [ "也可用作形容动词（如：常識的な考え），表示“常识性的”、“普通的”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5406,
+  "word" : "帽子",
+  "reading" : "ぼうし",
+  "romaji" : null,
+  "meaning" : [ "帽子" ],
+  "notes" : [ "None" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5407,
+  "word" : "幅広い",
+  "reading" : "はばひろい",
+  "romaji" : null,
+  "meaning" : [ "宽广的；广泛的；涉及多方面的" ],
+  "notes" : [ "表示范围、种类、幅度等很大。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5408,
+  "word" : "幕",
+  "reading" : "まく",
+  "romaji" : null,
+  "meaning" : [ "1. 幕，帷帐，帐幕。2. （戏剧、歌剧等的）幕。3. 场面，时期，时代。" ],
+  "notes" : [ "常用作比喻，表示某件事的开始或结束。如“幕開け”（开始）、“幕切れ”（结束）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5409,
+  "word" : "幕開け",
+  "reading" : "まくあけ",
+  "romaji" : null,
+  "meaning" : [ "开幕，拉开序幕；事物的开始" ],
+  "notes" : [ "也可写作「幕明け」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5410,
+  "word" : "幣",
+  "reading" : "へい",
+  "romaji" : null,
+  "meaning" : [ "1.供神佛用的布帛或纸条（御幣）。2.（谦称）敝人、鄙人。" ],
+  "notes" : [ "注意与表示“弊病、害处”的“弊（へい）”及表示“货币”的“幣（へい）”的区别。作为接头辞使用时读作“へい”，表示自谦（如：弊社、弊国）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5411,
+  "word" : "干しブドウ",
+  "reading" : "ほしブドウ",
+  "romaji" : null,
+  "meaning" : [ "葡萄干" ],
+  "notes" : [ "“干し”表示干燥，“ブドウ”表示葡萄。也可写作“レーズン”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5412,
+  "word" : "干す",
+  "reading" : "ほす",
+  "romaji" : null,
+  "meaning" : [ "（把衣物等）晒干，晾干；（把鱼、海带等）风干；把水沥干；（喝）干，（喝）完" ],
+  "notes" : [ "动词活用为五段活用。通常写作汉字“干す”，但在表示“沥干水分”时也可写作“干す”。反义词为“濡らす（濡らす）”。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5413,
+  "word" : "干ばつ",
+  "reading" : "かんばつ",
+  "romaji" : null,
+  "meaning" : [ "干旱；旱灾" ],
+  "notes" : [ "指长期无雨或少雨，导致水分不足、河水干涸的现象。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5414,
+  "word" : "干渉",
+  "reading" : "かんしょう",
+  "romaji" : null,
+  "meaning" : [ "干涉；干预；（物理）干扰" ],
+  "notes" : [ "物理学的な意味では、二つ以上の波が重なり合って、互いに強め合ったり弱め合ったりする現象を指す。日常的には「お節介を焼く」「口出しをする」というニュアンスで使われることが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5415,
+  "word" : "平たい",
+  "reading" : "ひたい",
+  "romaji" : null,
+  "meaning" : [ "扁平的，平坦的；（比喻）浅显易懂的，平易的" ],
+  "notes" : [ "常用汉字为“平たい”，也可以写作“扁たい”。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5416,
+  "word" : "平ら",
+  "reading" : "たいら",
+  "romaji" : null,
+  "meaning" : [ "平坦的，平的，扁平的；平静的（指心情或海面）" ],
+  "notes" : [ "通常写作汉字“平ら”，也可以写作假名“たいら”。形容物体表面没有凹凸不平，或者形容心情、海面等平静的状态。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5417,
+  "word" : "平仮名",
+  "reading" : "ひらがな",
+  "romaji" : null,
+  "meaning" : [ "平假名（日语表音文字的一种，源于汉字草书，用于表示日语固有词汇及语法成分）" ],
+  "notes" : [ "与片假名相对，主要用于日语本土词汇、助词、动词词尾等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5418,
+  "word" : "平凡",
+  "reading" : "へいぼん",
+  "romaji" : null,
+  "meaning" : [ "平凡，普通，平常；庸碌。指没有什么特色或值得注意之处。" ],
+  "notes" : [ "通常作为形容动词（Na形容词）使用，常用于描述事物缺乏特色或趣味。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5419,
+  "word" : "平原",
+  "reading" : "へいげん",
+  "romaji" : null,
+  "meaning" : [ "平原" ],
+  "notes" : [ "指地势平坦且开阔的地形。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5420,
+  "word" : "平和",
+  "reading" : "へいわ",
+  "romaji" : null,
+  "meaning" : [ "和平；平稳；温和" ],
+  "notes" : [ "常用词。可作名词或形容动词（ナ形容词）使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5421,
+  "word" : "平和活動",
+  "reading" : "へいわかつどう",
+  "romaji" : null,
+  "meaning" : [ "为维护和实现和平而进行的各种活动，包括维和行动、和平建设等。" ],
+  "notes" : [ "常用于联合国或非政府组织的相关语境中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5422,
+  "word" : "平均",
+  "reading" : "へいきん",
+  "romaji" : null,
+  "meaning" : [ "平均；平衡" ],
+  "notes" : [ "可用作名词或サ变动词（平均する），表示将数值均匀分配或求平均值。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5423,
+  "word" : "平均年齢",
+  "reading" : "へいきんねんれい",
+  "romaji" : null,
+  "meaning" : [ "平均年龄" ],
+  "notes" : [ "由“平均”（平均）和“年齢”（年龄）组成的复合词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5424,
+  "word" : "平均気温",
+  "reading" : "へいきんきおん",
+  "romaji" : null,
+  "meaning" : [ "平均气温" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5425,
+  "word" : "平均点",
+  "reading" : "へいきんてん",
+  "romaji" : null,
+  "meaning" : [ "平均分，平均分数" ],
+  "notes" : [ "由“平均”（平均）和“点”（分数）组成的复合词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5426,
+  "word" : "平常",
+  "reading" : "へいじょう",
+  "romaji" : null,
+  "meaning" : [ "平常，平时，往常" ],
+  "notes" : [ "常用语搭配“平常通り（へいじょうどおり）”，意为“照常、像往常一样”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5427,
+  "word" : "平年",
+  "reading" : "へいねん",
+  "romaji" : null,
+  "meaning" : [ "平年，常年（指没有异常的普通年份；也指非闰年的年份）" ],
+  "notes" : [ "在历法中指非闰年（365天）；在日常生活中也指没有异常、通常的年份。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5428,
+  "word" : "平方メートル",
+  "reading" : "へいほうメートル",
+  "romaji" : null,
+  "meaning" : [ "平方米（面积单位）" ],
+  "notes" : [ "也可写作「㎡」，是国际通用的面积单位。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5429,
+  "word" : "平日",
+  "reading" : "へいじつ",
+  "romaji" : null,
+  "meaning" : [ "工作日；平日，平时；普通的日子" ],
+  "notes" : [ "通常指星期一到星期五，相对于周末或节假日而言。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5430,
+  "word" : "平気",
+  "reading" : "へいき",
+  "romaji" : null,
+  "meaning" : [ "沉着，冷静；不在乎，不介意，无动于衷" ],
+  "notes" : [ "常以「平気で」的形式修饰动词，表示毫无顾忌地做某事。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5431,
+  "word" : "平穏",
+  "reading" : "へいおん",
+  "romaji" : null,
+  "meaning" : [ "平稳；平静；平安；太平无事" ],
+  "notes" : [ "形容动词（ナ形容词）。指没有动荡、安静平稳的状态。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5432,
+  "word" : "平等",
+  "reading" : "びょうどう",
+  "romaji" : null,
+  "meaning" : [ "平等，同等；不分上下，没有差别" ],
+  "notes" : [ "常用汉字。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5433,
+  "word" : "平行",
+  "reading" : "へいこう",
+  "romaji" : null,
+  "meaning" : [ "1. （直线或平面等）平行。2. 并行，同时进行。" ],
+  "notes" : [ "通常以「～に平行する」的形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5434,
+  "word" : "平行線",
+  "reading" : "へいこうせん",
+  "romaji" : null,
+  "meaning" : [ "平行线；两条永不相交的直线；比喻互不相干的事物或没有交集的关系" ],
+  "notes" : [ "数学用语，也常用于比喻意见、想法等完全没有交集的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5435,
+  "word" : "平衡",
+  "reading" : "へいこう",
+  "romaji" : null,
+  "meaning" : [ "平衡，均衡" ],
+  "notes" : [ "也可以写作「均衡（きんこう）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5436,
+  "word" : "平野",
+  "reading" : "へいや",
+  "romaji" : null,
+  "meaning" : [ "平原" ],
+  "notes" : [ "指广阔平坦的土地，通常用于地理学术语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5437,
+  "word" : "年",
+  "reading" : "とし",
+  "romaji" : null,
+  "meaning" : [ "1. 年龄，岁数；2. 年，年份；3. 时间，岁月" ],
+  "notes" : [ "读作「とし」时主要表示年龄或岁月；读作「ねん」时主要用于复合词（如：去年、来年、毎年）或表示年份。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5438,
+  "word" : "年々",
+  "reading" : "ねんねん",
+  "romaji" : null,
+  "meaning" : [ "逐年；一年比一年；每年" ],
+  "notes" : [ "也可写作「年年」" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5439,
+  "word" : "年上",
+  "reading" : "としうえ",
+  "romaji" : null,
+  "meaning" : [ "年长；比自己年纪大的人" ],
+  "notes" : [ "通常指比自己年纪大的人，常用于恋爱或人际关系语境。反义词是「年下（としした）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5440,
+  "word" : "年中",
+  "reading" : "ねんちゅう",
+  "romaji" : null,
+  "meaning" : [ "全年，整年；一年到头，经常地" ],
+  "notes" : [ "表示一年到头持续某种状态或在整个期间内。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5441,
+  "word" : "年代",
+  "reading" : "ねんだい",
+  "romaji" : null,
+  "meaning" : [ "年代；时代；年代（指大约的年份）" ],
+  "notes" : [ "指特定的时代或大约的年份，常与具体的数字搭配使用，如「90年代」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5442,
+  "word" : "年休",
+  "reading" : "ねんきゅう",
+  "romaji" : null,
+  "meaning" : [ "年假，带薪休假（有給休暇的简称）" ],
+  "notes" : [ "是“有給休暇（ゆうきゅうきゅうか）”的常用缩略语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5443,
+  "word" : "年功序列",
+  "reading" : "ねんこうじょれつ",
+  "romaji" : null,
+  "meaning" : [ "（日本的工资、晋升制度）随着年龄和工龄的增长，地位和工资也随之提高的制度。论资排辈。" ],
+  "notes" : [ "通常指日本传统的人事管理制度，强调资历和年龄。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5444,
+  "word" : "年収",
+  "reading" : "ねんしゅう",
+  "romaji" : null,
+  "meaning" : [ "一年的总收入，年薪。" ],
+  "notes" : [ "通常指税前的年度总收入。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5445,
+  "word" : "年号",
+  "reading" : "ねんごう",
+  "romaji" : null,
+  "meaning" : [ "年号；纪年法（如明治、大正、昭和、平成、令和等）" ],
+  "notes" : [ "指日本用于纪年的名称，通常在天皇即位时更改。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5446,
+  "word" : "年寄り",
+  "reading" : "としより",
+  "romaji" : null,
+  "meaning" : [ "老年人，老人；长辈" ],
+  "notes" : [ "尊敬语通常使用“お年寄り”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5447,
+  "word" : "年少",
+  "reading" : "ねんしょう",
+  "romaji" : null,
+  "meaning" : [ "年少，年轻；（同辈中）年纪较小" ],
+  "notes" : [ "常用作名词或“な”形容词。常用于比较年龄，指同辈中年纪较小的人，或泛指年轻。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5448,
+  "word" : "年度",
+  "reading" : "ねんど",
+  "romaji" : null,
+  "meaning" : [ "年度；会计年度；财政年度" ],
+  "notes" : [ "通常指学校或机关等的年度，日本一般从4月1日开始到次年3月31日结束。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5449,
+  "word" : "年月",
+  "reading" : "ねんげつ",
+  "romaji" : null,
+  "meaning" : [ "年月；岁月；光阴；时间" ],
+  "notes" : [ "通常以“長い年月”等形式使用，表示较长的一段时间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5450,
+  "word" : "年末",
+  "reading" : "ねんまつ",
+  "romaji" : null,
+  "meaning" : [ "年底，年末；一年的结束时期" ],
+  "notes" : [ "通常指12月，与“年初（ねんしょ）”相对。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5451,
+  "word" : "年次",
+  "reading" : "ねんじ",
+  "romaji" : null,
+  "meaning" : [ "按年；每年；年度" ],
+  "notes" : [ "通常用于表示“每年一次”或“按年度”的正式场合，如“年次报告”（年度报告）、“年次大会”（年度大会）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5452,
+  "word" : "年賀状",
+  "reading" : "ねんがじょう",
+  "romaji" : null,
+  "meaning" : [ "贺年卡，贺年片（日本在新年期间寄出的明信片）" ],
+  "notes" : [ "通常在12月中旬寄出，元旦送达。日语中指专门用于新年问候的明信片。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5453,
+  "word" : "年配",
+  "reading" : "ねんぱい",
+  "romaji" : null,
+  "meaning" : [ "相当大的年龄；年纪（通常指中老年）" ],
+  "notes" : [ "指年纪较大的人时，通常作为礼貌用语使用，意为“年长者”、“上了年纪的人”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5454,
+  "word" : "年金",
+  "reading" : "ねんきん",
+  "romaji" : null,
+  "meaning" : [ "养老金，年金（指定期支付的养老金、抚恤金等）" ],
+  "notes" : [ "指为了保障年老、残疾或死亡后的生活，国家或公共团体定期支付的金额。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5455,
+  "word" : "年鑑",
+  "reading" : "ねんかん",
+  "romaji" : null,
+  "meaning" : [ "年鉴；按年度编辑的参考书" ],
+  "notes" : [ "通常指汇集某一领域或全面情况，按年度出版的资料性参考书。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5456,
+  "word" : "年間",
+  "reading" : "ねんかん",
+  "romaji" : null,
+  "meaning" : [ "一年；年间，年代（表示一年的期间或每一年）" ],
+  "notes" : [ "常作为后缀使用，表示时间跨度，如“来年間（两年的时间）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5457,
+  "word" : "年頃",
+  "reading" : "としごろ",
+  "romaji" : null,
+  "meaning" : [ "适龄；适婚年龄；大约的年龄；该有的年纪" ],
+  "notes" : [ "指适合结婚或做某事的年龄，或指大约的年纪。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5458,
+  "word" : "年初",
+  "reading" : "ねんしゅう",
+  "romaji" : null,
+  "meaning" : [ "一年的开始，年初" ],
+  "notes" : [ "常与「年末（ねんまつ）」对应使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5459,
+  "word" : "年齢",
+  "reading" : "ねんれい",
+  "romaji" : null,
+  "meaning" : [ "年龄，年纪" ],
+  "notes" : [ "书写时也可使用汉字“年令”，但“年齢”更为常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5460,
+  "word" : "幸い",
+  "reading" : "さいわい",
+  "romaji" : null,
+  "meaning" : [ "1. 幸运，侥幸，幸福；2. 幸好，多亏；3. （用作副词）好在，幸亏" ],
+  "notes" : [ "也可以作为名词使用，表示幸福。作为副词使用时，常修饰后续的谓语，表示'幸好、多亏'的意思。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5461,
+  "word" : "幸せ",
+  "reading" : "しあわせ",
+  "romaji" : null,
+  "meaning" : [ "幸福，幸运；运气好" ],
+  "notes" : [ "常用作形容动词（な形容词），也可作名词使用。书写时也可以使用假名“しあわせ”。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5462,
+  "word" : "幸運",
+  "reading" : "こううん",
+  "romaji" : null,
+  "meaning" : [ "幸运；好运；侥幸" ],
+  "notes" : [ "形容动词形式：幸運な（な形容词用法）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5463,
+  "word" : "幹",
+  "reading" : "みき",
+  "romaji" : null,
+  "meaning" : [ "树干；（事物的）主干，骨干；重要部分" ],
+  "notes" : [ "可作比喻用法，指组织、计划等的骨干或主要部分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5464,
+  "word" : "幹部",
+  "reading" : "かんぶ",
+  "romaji" : null,
+  "meaning" : [ "干部，领导；核心成员" ],
+  "notes" : [ "指团体、组织中的领导核心人物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5465,
+  "word" : "幻想",
+  "reading" : "げんそう",
+  "romaji" : null,
+  "meaning" : [ "幻想，空想；虚构" ],
+  "notes" : [ "既可以作为名词使用，也可以作为サ变动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5466,
+  "word" : "幼い",
+  "reading" : "おさない",
+  "romaji" : null,
+  "meaning" : [ "（年纪）幼小的，年幼的；（心智）幼稚的，孩子气的" ],
+  "notes" : [ "既可以指年龄小，也可以指精神不成熟、幼稚。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5467,
+  "word" : "幼児",
+  "reading" : "ようじ",
+  "romaji" : null,
+  "meaning" : [ "幼儿，幼童；通常指1岁到小学入学前的儿童" ],
+  "notes" : [ "比“婴儿（あかちゃん）”范围稍大，指刚学会走路到学龄前的儿童。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5468,
+  "word" : "幼少",
+  "reading" : "ようしょう",
+  "romaji" : null,
+  "meaning" : [ "年幼，幼年时期。指年纪很小的时候。" ],
+  "notes" : [ "常以「幼少の頃」「幼少時代」的形式使用。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5469,
+  "word" : "幼稚園",
+  "reading" : "ようちえん",
+  "romaji" : null,
+  "meaning" : [ "幼儿园；供3至6岁儿童进行学前教育的机构" ],
+  "notes" : [ "指日本学制中属于学校教育的一部分，通常招收3岁至小学入学前的儿童。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5470,
+  "word" : "幼馴染",
+  "reading" : "おさななじみ",
+  "romaji" : null,
+  "meaning" : [ "青梅竹马；从小一起长大的朋友" ],
+  "notes" : [ "通常指从孩提时代就认识并一直保持亲密关系的朋友。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5471,
+  "word" : "幽霊",
+  "reading" : "ゆうれい",
+  "romaji" : null,
+  "meaning" : [ "1. 幽灵，鬼魂（死者的灵魂）。2. 形同虚设的人或事物（如由于离职、缺席等造成空缺的职位）；有名无实。" ],
+  "notes" : [ "由“幽”（隐微、幽暗）和“霊”（灵魂、鬼神）组成。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5472,
+  "word" : "幾分",
+  "reading" : "いくぶん",
+  "romaji" : null,
+  "meaning" : [ "多少；稍微；几分；一部分" ],
+  "notes" : [ "表示程度或数量，意为“有点儿”、“多少”。也可以作为名词使用，表示“一部分”。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5473,
+  "word" : "幾多",
+  "reading" : "いくた",
+  "romaji" : null,
+  "meaning" : [ "许多，无数，好多。表示数量很多。" ],
+  "notes" : [ "多用于书面语或较为正式的场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5474,
+  "word" : "広い",
+  "reading" : "ひろい",
+  "romaji" : null,
+  "meaning" : [ "宽广的；宽敞的；广泛的；辽阔的" ],
+  "notes" : [ "反义词は「狭い（せまい）」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5475,
+  "word" : "広がります",
+  "reading" : "ひろがります",
+  "romaji" : null,
+  "meaning" : [ "变宽；展开；蔓延；扩大" ],
+  "notes" : [ "原形为「広がる」。表示范围、面积、宽度等变大，或者事物向四周扩散。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5476,
+  "word" : "広がる",
+  "reading" : "ひろがる",
+  "romaji" : null,
+  "meaning" : [ "变宽；展开；扩大；（范围、规模等）扩大；（疾病、火灾等）蔓延；（消息等）传开" ],
+  "notes" : [ "自动词。对应的他动词是「広げる」（ひろげる）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5477,
+  "word" : "広げる",
+  "reading" : "ひろげる",
+  "romaji" : null,
+  "meaning" : [ "1. 展开，打开，张开。\n2. 扩大，扩展，扩展（范围、规模等）。\n3. 摆开，陈列。" ],
+  "notes" : [ "他动词。对应的自动词为「広がる」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5478,
+  "word" : "広さ",
+  "reading" : "ひろさ",
+  "romaji" : null,
+  "meaning" : [ "面积；宽度；宽广的程度" ],
+  "notes" : [ "由形容词「広い」的词干「広」接接尾词「さ」构成，表示性质的名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5479,
+  "word" : "広まる",
+  "reading" : "ひろまる",
+  "romaji" : null,
+  "meaning" : [ "1. 变宽；（范围）扩大。2. 传播，扩散，遍及。" ],
+  "notes" : [ "表示状态的变化或范围的扩大。其对应的他动词是「広める（ひろめる）」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5480,
+  "word" : "広める",
+  "reading" : "ひろめる",
+  "romaji" : null,
+  "meaning" : [ "推广；普及；扩大；扩展" ],
+  "notes" : [ "下一段动词。使某事物变得广泛，多用于知识、技术、影响等的传播。反义词は「広げる」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5481,
+  "word" : "広告",
+  "reading" : "こうこく",
+  "romaji" : null,
+  "meaning" : [ "广告，宣传" ],
+  "notes" : [ "名词，表示为了宣传商品、服务或意见而进行的公告活动。作动词使用时通常以サ变动词「広告（こうこく）する」的形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5482,
+  "word" : "広告主",
+  "reading" : "こうこくぬし",
+  "romaji" : null,
+  "meaning" : [ "广告出资人，出资做广告的人；广告客户" ],
+  "notes" : [ "注意“ku”是促音，后面的“ko”读清音，不要读成浊音。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5483,
+  "word" : "広告代理店",
+  "reading" : "こうこくだいりてん",
+  "romaji" : null,
+  "meaning" : [ "广告公司；广告代理商" ],
+  "notes" : [ "「広告代理店」は、クライアントから広告業務を受託し、媒体社へ広告枠を購入する仲介業者を指す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5484,
+  "word" : "広告収入",
+  "reading" : "こうこくしゅうにゅう",
+  "romaji" : null,
+  "meaning" : [ "广告收入；指通过在媒体上投放广告而获得的收益。" ],
+  "notes" : [ "由「広告」（こうこく）和「収入」（しゅうにゅう）组成的复合词。常见于商业和媒体相关语境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5485,
+  "word" : "広場",
+  "reading" : "ひろば",
+  "romaji" : null,
+  "meaning" : [ "广场；空地" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5486,
+  "word" : "庇う",
+  "reading" : "かばう",
+  "romaji" : null,
+  "meaning" : [ "保护，庇护，袒护；掩护" ],
+  "notes" : [ "通常写作汉字“庇う”，也可写作“被う”。表示保护某人免受伤害或攻击，有时也带有包庇错误的含义。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5487,
+  "word" : "床の間",
+  "reading" : "とこのま",
+  "romaji" : null,
+  "meaning" : [ "壁龛，日式客厅中挂画轴、摆设装饰品（如花瓶、香炉）的高出地面的凹间；用于体现和室（日式房间）的传统美学" ],
+  "notes" : [ "日本传统建筑和室的一部分，通常位于上座（かみざ）位置，是房间中最尊贵的空间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5488,
+  "word" : "床屋",
+  "reading" : "とこや",
+  "romaji" : null,
+  "meaning" : [ "理发店，理发师" ],
+  "notes" : [ "通常指传统的理发店，主要服务对象为男性，多包含刮脸等服务。现代美容院通常称为「美容院（びよういん）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5489,
+  "word" : "底",
+  "reading" : "そこ",
+  "romaji" : null,
+  "meaning" : [ "底部；底儿；深处（如心底、海底）；最低限度" ],
+  "notes" : [ "可作接头词使用，如「底力（そこぢから）」意为潜在的实力、实力。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5490,
+  "word" : "店",
+  "reading" : "みせ",
+  "romaji" : null,
+  "meaning" : [ "商店，店铺；铺子" ],
+  "notes" : [ "在日语中，也可以读作「てん」，如「喫茶店（きっさてん）」、「商店（しょうてん）」等复合词中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5491,
+  "word" : "店内",
+  "reading" : "てんない",
+  "romaji" : null,
+  "meaning" : [ "店内，店里；商店内部" ],
+  "notes" : [ "通常指商店、餐厅等营业场所的内部空间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5492,
+  "word" : "店員",
+  "reading" : "てんいん",
+  "romaji" : null,
+  "meaning" : [ "店员，售货员" ],
+  "notes" : [ "指在商店、餐厅等场所工作的职员。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5493,
+  "word" : "度",
+  "reading" : "ど",
+  "romaji" : null,
+  "meaning" : [ "（接在动词连用形后）表示动作的次数、回数；次，回" ],
+  "notes" : [ "主要作为接尾词使用，接在动词连用形（ます形去掉ます）之后，表示动作进行的次数。" ],
+  "pos" : "SUFFIX",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5494,
+  "word" : "度々",
+  "reading" : "たびたび",
+  "romaji" : null,
+  "meaning" : [ "屡次，再三，常常，一再" ],
+  "notes" : [ "也可以写作“屡々”。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5495,
+  "word" : "度忘れ",
+  "reading" : "どわすれ",
+  "romaji" : null,
+  "meaning" : [ "一時的に忘れること。うっかり忘れること。" ],
+  "notes" : [ "「度忘れする」のようにサ変動詞として用いられることも多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5496,
+  "word" : "度胸",
+  "reading" : "どきょう",
+  "romaji" : null,
+  "meaning" : [ "胆量，胆子，勇气" ],
+  "notes" : [ "常用汉字表内词语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5497,
+  "word" : "座ります",
+  "reading" : "すわります",
+  "romaji" : null,
+  "meaning" : [ "坐" ],
+  "notes" : [ "书写时也可以写作“居ります”，但“座ります”更常用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5498,
+  "word" : "座り込む",
+  "reading" : "すわりこむ",
+  "romaji" : null,
+  "meaning" : [ "坐下；坐下来（指坐到地上或椅子上，且带有坐着不动的含义）；颓废地坐着" ],
+  "notes" : [ "通常指因为疲劳、沮丧或休息而坐下，且往往暗示坐着不动或不愿意起来的状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5499,
+  "word" : "座る",
+  "reading" : "すわる",
+  "romaji" : null,
+  "meaning" : [ "坐，落座；就任（职位）" ],
+  "notes" : [ "表示坐下或处于某种位置。也可用于比喻担任某个职位。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 5500,
+  "word" : "座布団",
+  "reading" : "ざぶとん",
+  "romaji" : null,
+  "meaning" : [ "日式坐垫，指放在榻榻米上供人坐用的方形垫子。" ],
+  "notes" : [ "通常为棉质填充物，外有布套，是日本传统和室中不可或缺的家居用品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

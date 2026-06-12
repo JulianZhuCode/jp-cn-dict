@@ -1,0 +1,901 @@
+[ {
+  "id" : 7901,
+  "word" : "滑ります",
+  "reading" : "すべります",
+  "romaji" : null,
+  "meaning" : [ "滑，滑行，滑落，打滑" ],
+  "notes" : [ "「滑る」的礼貌形，基本形为「滑る（すべる）」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7902,
+  "word" : "滑り落ちる",
+  "reading" : "すべりおちる",
+  "romaji" : null,
+  "meaning" : [ "滑落，滑下；（地位、状态等）下降，跌落" ],
+  "notes" : [ "自动词，由「滑る」（すべる）和「落ちる」（おちる）复合而成，表示因滑动而向下移动的动作或状态变化。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7903,
+  "word" : "滑る",
+  "reading" : "すべる",
+  "romaji" : null,
+  "meaning" : [ "1. 滑，打滑；2. 滑行，滑动；3. （时间等）流逝，悄悄过去；4. （机会等）错过，溜走" ],
+  "notes" : [ "自动词，主要表示物体或人在表面上失去摩擦力而移动的状态，也可用于抽象意义的“流逝”“错过”等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7904,
+  "word" : "滑稽",
+  "reading" : "こっけい",
+  "romaji" : null,
+  "meaning" : [ "滑稽的，可笑的，诙谐的" ],
+  "notes" : [ "「滑稽」は主に人の動作や言葉、物事の様子などがおかしくて笑わせる様子を表す形容詞です。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7905,
+  "word" : "滝",
+  "reading" : "たき",
+  "romaji" : null,
+  "meaning" : [ "瀑布，从高处落下的水流" ],
+  "notes" : [ "常用汉字，也可写作「瀑布」，但「滝」更为常用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7906,
+  "word" : "滞る",
+  "reading" : "とどこおる",
+  "romaji" : null,
+  "meaning" : [ "1. 堵塞，停滞；2. 拖延，延误；3. 拖欠，未支付" ],
+  "notes" : [ "自动词，强调状态的持续。「滞る」与「遅れる」都有延误之意，但「滞る」更侧重于因阻塞或阻碍导致的停滞状态，而「遅れる」主要指时间上的迟到。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7907,
+  "word" : "滞在",
+  "reading" : "たいざい",
+  "romaji" : null,
+  "meaning" : [ "停留，逗留，居住（指在某地暂时居住或停留的状态）" ],
+  "notes" : [ "可与「する」结合构成サ変動詞「滞在する」使用，此时词性为动词，活用类型为サ変動詞" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7908,
+  "word" : "滞在します",
+  "reading" : "たいざいします",
+  "romaji" : null,
+  "meaning" : [ "停留，逗留，居住（在某地一段时间）" ],
+  "notes" : [ "「滞在する」的敬体形式，用于礼貌表达。自谦时常用「おとまりします」等。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7909,
+  "word" : "滞納",
+  "reading" : "たいのう",
+  "romaji" : null,
+  "meaning" : [ "滞纳，拖欠（税金、费用等），逾期未缴" ],
+  "notes" : [ "「滞納」は名詞としても使用可能で、例えば「滞納金」（拖欠款）、「滞納処分」（滞纳处分）のように用いられる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7910,
+  "word" : "滲む",
+  "reading" : "にじむ",
+  "romaji" : null,
+  "meaning" : [ "（颜色、墨水等）洇，渗；（液体、水分等）渗出，浸出；（情感、感觉等）流露，显露" ],
+  "notes" : [ "自动词，主要表示液体或颜色等自然扩散、渗出的状态，也可用于抽象情感的自然流露。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7911,
+  "word" : "滴",
+  "reading" : "しずく",
+  "romaji" : null,
+  "meaning" : [ "水滴，水珠；微量，少量" ],
+  "notes" : [ "常用汉字，可用于比喻少量的液体或抽象事物" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7912,
+  "word" : "漁師",
+  "reading" : "りょうし",
+  "romaji" : null,
+  "meaning" : [ "渔夫，渔民（以捕鱼为职业的人）" ],
+  "notes" : [ "指以捕鱼为主要职业的人，通常在沿海或河流从事渔业工作" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7913,
+  "word" : "漁業",
+  "reading" : "ぎょぎょう",
+  "romaji" : null,
+  "meaning" : [ "渔业，水产业（指捕捞、养殖鱼类及其他水生生物的产业）" ],
+  "notes" : [ "常用汉字词汇，可用于表示产业领域或相关活动" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7914,
+  "word" : "漂う",
+  "reading" : "ただよう",
+  "romaji" : null,
+  "meaning" : [ "1. 漂浮，漂流；2. 洋溢，充满；3. 徘徊，萦绕" ],
+  "notes" : [ "自动词，强调在液体或空气中自然地浮动或扩散的状态" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7915,
+  "word" : "漆",
+  "reading" : "うるし0",
+  "romaji" : null,
+  "meaning" : [ "名词 生漆，漆；漆器" ],
+  "notes" : [ "「漆」は植物の汁から取る天然の塗料で、漆器の材料として使われる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7916,
+  "word" : "漏らす",
+  "reading" : "もらす",
+  "romaji" : null,
+  "meaning" : [ "漏；泄露；遗漏；流露，发泄" ],
+  "notes" : [ "他动词，强调主动使某物漏出或泄露的动作" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7917,
+  "word" : "漏る",
+  "reading" : "もる",
+  "romaji" : null,
+  "meaning" : [ "漏，漏出，渗出，透出；泄露，暴露" ],
+  "notes" : [ "自动词，强调自然漏出的状态。对应的他动词为「漏らす」（もらす）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7918,
+  "word" : "漏れます",
+  "reading" : "もれます",
+  "romaji" : null,
+  "meaning" : [ "漏，泄漏；遗漏，漏掉；泄露，走漏" ],
+  "notes" : [ "「漏れる」的敬体形式，基本形为「漏れる（もれる）」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7919,
+  "word" : "漏れる",
+  "reading" : "もれる",
+  "romaji" : null,
+  "meaning" : [ "漏；泄露；遗漏；溢出；被淘汰" ],
+  "notes" : [ "自动词，强调状态或结果。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7920,
+  "word" : "演じる",
+  "reading" : "えんじる",
+  "romaji" : null,
+  "meaning" : [ "扮演，表演；发挥，表现；造成，引起" ],
+  "notes" : [ "「演じる」表示扮演角色时，对象通常是戏剧、电影等中的角色；表示造成、引起时，多与不好的结果搭配使用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7921,
+  "word" : "演出",
+  "reading" : "えんしゅつ",
+  "romaji" : null,
+  "meaning" : [ "导演；演出；表演；策划，组织安排" ],
+  "notes" : [ "作为サ変動詞使用时，常用「演出する」的形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7922,
+  "word" : "演劇",
+  "reading" : "えんげき",
+  "romaji" : null,
+  "meaning" : [ "戏剧；戏剧艺术；演剧" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7923,
+  "word" : "演壇",
+  "reading" : "えんだん",
+  "romaji" : null,
+  "meaning" : [ "讲台，讲坛；演讲台，发表意见的场所" ],
+  "notes" : [ "一般指正式场合使用的演讲台，也可用于比喻发表意见的场合或立场。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7924,
+  "word" : "演奏",
+  "reading" : "えんそう",
+  "romaji" : null,
+  "meaning" : [ "演奏，弹奏，吹奏" ],
+  "notes" : [ "「演奏する」の形で使用されるサ変動詞。名詞としても使用可能。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7925,
+  "word" : "演奏会",
+  "reading" : "えんそうかい",
+  "romaji" : null,
+  "meaning" : [ "名词 演奏会，音乐会" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7926,
+  "word" : "演技",
+  "reading" : "えんぎ",
+  "romaji" : null,
+  "meaning" : [ "1. 演技，表演；2. 花招，把戏，假装" ],
+  "notes" : [ "「演技」作为名词使用，若表示“表演”之意时，可与动词「する」搭配构成「演技する」（进行表演）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7927,
+  "word" : "演芸",
+  "reading" : "えんげい",
+  "romaji" : null,
+  "meaning" : [ "文艺表演，演艺（包括歌舞、戏剧、曲艺等各种表演艺术的总称）" ],
+  "notes" : [ "指舞台上的各种表演艺术形式，涵盖范围较广" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7928,
+  "word" : "演説",
+  "reading" : "えんぜつ",
+  "romaji" : null,
+  "meaning" : [ "演说，演讲，发言" ],
+  "notes" : [ "「演説をする」の形で动词的に使用されることが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7929,
+  "word" : "漕ぐ",
+  "reading" : "こぐ",
+  "romaji" : null,
+  "meaning" : [ "1. 划（船）；2. 蹬（自行车）；3. 荡（秋千）；4. （用手）搓，揉" ],
+  "notes" : [ "「漕ぐ」是一个多义词，根据对象不同表示不同的动作。除了常见的划船、蹬自行车、荡秋千外，还可以表示用手搓揉布料等动作。作为五段动词，其活用形式为「漕ぐ→漕いで→漕いだ→漕げる」等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7930,
+  "word" : "漠然",
+  "reading" : "ばくぜん",
+  "romaji" : null,
+  "meaning" : [ "含糊的，笼统的，不明确的，模糊的" ],
+  "notes" : [ "「漠然」は形容動詞で、「漠然と」の形で副詞的にも使用されることが多い。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7931,
+  "word" : "漢字",
+  "reading" : "かんじ",
+  "romaji" : null,
+  "meaning" : [ "汉字，日本汉字（源于中国的文字，在日本使用的表意文字）" ],
+  "notes" : [ "日语中的汉字部分保留了中文原意，但部分汉字在日本有独特的读音和意义，称为「熟字訓」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7932,
+  "word" : "漢方薬",
+  "reading" : "かんぽうやく",
+  "romaji" : null,
+  "meaning" : [ "中药，汉方药（基于中医理论使用的药物，多为植物、动物、矿物等天然材料制成）" ],
+  "notes" : [ "由“漢方”（中医）和“薬”（药物）组成的复合词，是日本对中药的称呼，在日本汉方医学中使用广泛。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7933,
+  "word" : "漢語",
+  "reading" : "かんご0",
+  "romaji" : null,
+  "meaning" : [ "日语中来源于汉语的词汇，通常由汉字组成，音读" ],
+  "notes" : [ "与「和語」（日本固有词汇）、「外来語」（来自西方语言的词汇）共同构成日语词汇的三大来源" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7934,
+  "word" : "漫才",
+  "reading" : "まんざい",
+  "romaji" : null,
+  "meaning" : [ "日本传统喜剧形式，由两人搭档表演，通过对话和滑稽动作引人发笑，类似于中国的相声" ],
+  "notes" : [ "「漫才コンビ」指相声搭档，由「漫才」（相声）和「コンビ」（组合）构成" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7935,
+  "word" : "漫画",
+  "reading" : "まんが",
+  "romaji" : null,
+  "meaning" : [ "漫画，连环画" ],
+  "notes" : [ "外来语「comic」に由来するが、日本では独特の発展を遂げた表现形式を指すことが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7936,
+  "word" : "漬かる",
+  "reading" : "つかる",
+  "romaji" : null,
+  "meaning" : [ "1. （被）浸泡，腌渍；2. 沉浸，深陷（某种状态）" ],
+  "notes" : [ "自动词，强调被动或自然的浸泡状态。「漬ける」（つける）是其对应的他动词，表示主动腌制或浸泡。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7937,
+  "word" : "漬ける",
+  "reading" : "つける",
+  "romaji" : null,
+  "meaning" : [ "腌，浸泡，腌渍；使沉浸，使陷入" ],
+  "notes" : [ "表示将物品放入液体或调味料中腌制，或比喻沉浸于某种状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7938,
+  "word" : "漬物",
+  "reading" : "つけもの",
+  "romaji" : null,
+  "meaning" : [ "腌菜，咸菜，用盐、酱油、醋、味噌等腌制的蔬菜" ],
+  "notes" : [ "日本饮食中常见的配菜，通常与米饭一起食用，有保存食物的作用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7939,
+  "word" : "漲る",
+  "reading" : "みなぎる",
+  "romaji" : null,
+  "meaning" : [ "1. 涨满，上涨（指水等液体）；2. 充满，洋溢（指情感、力量等）" ],
+  "notes" : [ "自动词，主语多为液体、情感、力量等抽象或具体事物" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7940,
+  "word" : "漸次",
+  "reading" : "ぜんじ",
+  "romaji" : null,
+  "meaning" : [ "逐渐，逐步，渐渐（表示事物按顺序或阶段缓慢地变化）" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7941,
+  "word" : "潔い",
+  "reading" : "いさぎよい",
+  "romaji" : null,
+  "meaning" : [ "清高的，纯洁的；勇敢的，果断的，痛快的；（行为）正当的，光明磊落的" ],
+  "notes" : [ "「潔い」通常用于形容人的品格、行为或态度，强调正直、不拖泥带水的特质。其反义词为「汚い」「卑怯な」等。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7942,
+  "word" : "潜む",
+  "reading" : "ひそむ",
+  "romaji" : null,
+  "meaning" : [ "隐藏，潜藏；（事物、情感等）潜在，隐含" ],
+  "notes" : [ "自动词，表示在不易被发现的地方存在或隐藏；也可用于抽象事物如情感、意义等的潜在存在。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7943,
+  "word" : "潜める",
+  "reading" : "ひそめる",
+  "romaji" : null,
+  "meaning" : [ "隐藏，潜藏；隐瞒，掩盖；抑制（感情等）；不作声，沉默" ],
+  "notes" : [ "他动词，「潜る」（自動詞）の他動詞形。対象を内部や隠れた場所に収める意を表す。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7944,
+  "word" : "潜り込む",
+  "reading" : "もぐりこむ",
+  "romaji" : null,
+  "meaning" : [ "1. 潜入，钻入；2. 躲入，藏进；3. 深入，钻研" ],
+  "notes" : [ "「潜る（もぐる）」の複合動詞で、「込む」が補助的な意味を加える。方向や深さを強調する。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7945,
+  "word" : "潜る",
+  "reading" : "もぐる",
+  "romaji" : null,
+  "meaning" : [ "1. 潜入，钻进，钻进水里；2. 钻入，钻进狭窄的空间；3. 潜藏，隐匿" ],
+  "notes" : [ "「潜る」是自动词，主要表示身体进入水中或狭小空间的动作，也可用于抽象意义的潜藏。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7946,
+  "word" : "潜入",
+  "reading" : "せんにゅう",
+  "romaji" : null,
+  "meaning" : [ "潜入，秘密进入；钻进，钻进深处" ],
+  "notes" : [ "「潜入」は主に人が秘密裏に場所に入る場合や、物体が深い所に入り込む場合に使用される。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7947,
+  "word" : "潜水",
+  "reading" : "せんすい",
+  "romaji" : null,
+  "meaning" : [ "潜水，潜入水中；秘密调查，暗中活动" ],
+  "notes" : [ "「潜水艦」（せんすいかん）は潜水艇を意味する名詞です。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7948,
+  "word" : "潤う",
+  "reading" : "うるおう",
+  "romaji" : null,
+  "meaning" : [ "1. 湿润，润泽；2. 得到滋润，受益；3. （经济上）宽裕，充裕" ],
+  "notes" : [ "自动词，表示自然地变得湿润或得到滋润的状态，不可用于表示人为使某物湿润的动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7949,
+  "word" : "潰す",
+  "reading" : "つぶす",
+  "romaji" : null,
+  "meaning" : [ "1. 压碎，捣碎，碾碎；2. 毁坏，弄坏，弄碎；3. 使破产，使倒闭；4. 消磨（时间），打发（时间）；5. 打败，击溃（对手等）；6. 使（希望、计划等）破灭，使落空" ],
+  "notes" : [ "他动词。「潰す」与「潰れる」（自动词）对应，前者表示主动使某物破碎、破产等，后者表示状态的自然变化。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7950,
+  "word" : "潰れる",
+  "reading" : "つぶれる",
+  "romaji" : null,
+  "meaning" : [ "1. 压坏，挤破，压碎；2. （房屋、物体等）倒塌，坍塌；3. （组织、公司等）倒闭，破产；4. （计划、希望等）落空，化为泡影；5. （身体、精神等）垮掉，崩溃" ],
+  "notes" : [ "自动词，强调事物自身的状态变化。其对应的他动词为「潰す（つぶす）」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7951,
+  "word" : "澄ます/清ます",
+  "reading" : "すます",
+  "romaji" : null,
+  "meaning" : [ "1. 使清澈，澄清；2. 集中注意力，凝神；3. 装模作样，摆架子" ],
+  "notes" : [ "「澄ます」和「清ます」为同源词，现代日语中「澄ます」更为常用。表示“澄清”时两者均可使用；表示“集中注意力”时通常用「澄ます」；表示“装模作样”时为口语用法，略带贬义。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7952,
+  "word" : "澄む",
+  "reading" : "すむ",
+  "romaji" : null,
+  "meaning" : [ "1. 清澈，澄清；2. （声音）清晰悦耳；3. （心情）平静，宁静；4. （天色）明朗" ],
+  "notes" : [ "自动词，基本形为「澄む」，过去式「澄んだ」，否定形「澄まない」，可能形「澄める」（注意：「澄める」同时也是他动词，表示“使清澈”）" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7953,
+  "word" : "激しい",
+  "reading" : "はげしい",
+  "romaji" : null,
+  "meaning" : [ "激烈的，剧烈的，强烈的，猛烈的；厉害的，严重的，凶猛的" ],
+  "notes" : [ "「激しい」是イ形容词，用于形容程度非常高的状态，可修饰自然现象、动作、情感等。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7954,
+  "word" : "激励",
+  "reading" : "げきれい",
+  "romaji" : null,
+  "meaning" : [ "激励，鼓励，激发干劲" ],
+  "notes" : [ "「激励する」の形で動詞として使用される。名詞としても単独で使用可能。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7955,
+  "word" : "激化",
+  "reading" : "げきか",
+  "romaji" : null,
+  "meaning" : [ "激化，加剧，变得激烈；使激化，使加剧" ],
+  "notes" : [ "「激化する」是自动词，表示状态的变化；「激化させる」是他动词，表示使某种状态加剧。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7956,
+  "word" : "激増",
+  "reading" : "げきぞう",
+  "romaji" : null,
+  "meaning" : [ "急剧增加，猛增，激增" ],
+  "notes" : [ "「激」（げき）+「増」（ぞう）の複合語。主に数値や数量が急激に増加することを表す。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7957,
+  "word" : "激安",
+  "reading" : "げきやす",
+  "romaji" : null,
+  "meaning" : [ "价格极其低廉，非常便宜" ],
+  "notes" : [ "「激」(非常)と「安い」(便宜)を組み合わせた複合形容動詞。主に商品やサービスの価格が非常に低いことを表す。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7958,
+  "word" : "激減",
+  "reading" : "げきげん",
+  "romaji" : null,
+  "meaning" : [ "骤减，锐减，急剧减少" ],
+  "notes" : [ "「激」（げき）と「減」（げん）の複合語。主に数値や数量が急激に減少することを表す。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7959,
+  "word" : "激減する",
+  "reading" : "げきげんする",
+  "romaji" : null,
+  "meaning" : [ "骤减，急剧减少" ],
+  "notes" : [ "「激減」はサ変動詞で「激減する」の形で使用される。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7960,
+  "word" : "濁す",
+  "reading" : "にごす",
+  "romaji" : null,
+  "meaning" : [ "1. 弄脏，弄混浊；2. 使声音等含糊不清；3. （将清音）变成浊音；4. 含糊其辞，支吾搪塞" ],
+  "notes" : [ "他动词。对应的自动词为「濁る（にごる）」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7961,
+  "word" : "濁る",
+  "reading" : "にごる",
+  "romaji" : null,
+  "meaning" : [ "1. 混浊，污浊；2. 变得不清晰，模糊；3. （声音）嘶哑；4. （水）变浑" ],
+  "notes" : [ "自动词，主要表示液体、空气等变得混浊不清，也可用于声音嘶哑等抽象意义。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7962,
+  "word" : "濃い",
+  "reading" : "こい",
+  "romaji" : null,
+  "meaning" : [ "（颜色）浓的；（味道）浓郁的；（密度）大的；（程度）深的" ],
+  "notes" : [ "イ形容詞。否定形「濃くない」、過去形「濃かった」、連用形「濃く」。" ],
+  "pos" : "UNKNOWN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7963,
+  "word" : "濃厚",
+  "reading" : "のうこう",
+  "romaji" : null,
+  "meaning" : [ "形容动词。1.（味道、颜色等）浓厚，浓郁；2.（关系、兴趣等）深厚，浓厚；3.（内容等）充实，丰富" ],
+  "notes" : [ "「濃厚」作为形容动词，后续修饰名词时用「～な」，结句时用「～だ」，连用形用「～に」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7964,
+  "word" : "濃度",
+  "reading" : "のうど",
+  "romaji" : null,
+  "meaning" : [ "浓度，指单位体积或质量中所含某种成分的量" ],
+  "notes" : [ "化学、生物学等领域常用词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7965,
+  "word" : "濡らす",
+  "reading" : "ぬらす",
+  "romaji" : null,
+  "meaning" : [ "弄湿，沾湿，浸湿" ],
+  "notes" : [ "他动词，对应的自动词为「濡れる」(ぬれる)" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7966,
+  "word" : "濡れる",
+  "reading" : "ぬれる",
+  "romaji" : null,
+  "meaning" : [ "淋湿，沾湿，浸湿；潮湿，湿润" ],
+  "notes" : [ "自动词，强调状态的变化或持续状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7967,
+  "word" : "濫用/乱用",
+  "reading" : "らんよう",
+  "romaji" : null,
+  "meaning" : [ "滥用，胡乱使用，过度使用" ],
+  "notes" : [ "「濫用」と「乱用」はほぼ同義ですが、「濫用」の方がやや正式な表現です。主に権力、薬物、言葉などに対して使用されます。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7968,
+  "word" : "濯ぐ",
+  "reading" : "すすぐ",
+  "romaji" : null,
+  "meaning" : [ "洗，涮；漱口；冲洗掉，洗刷掉" ],
+  "notes" : [ "基本形「濯ぐ」，过去式「濯いだ」，否定形「濯がない」，可能形「濯げる」" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7969,
+  "word" : "濾す/漉す",
+  "reading" : "こす",
+  "romaji" : null,
+  "meaning" : [ "过滤，筛，滤除杂质" ],
+  "notes" : [ "「濾す」和「漉す」为同源同义词，现代日语中「濾す」更常用，尤其在化学、烹饪等正式场合；「漉す」多用于传统工艺或日常口语中。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7970,
+  "word" : "神社",
+  "reading" : "じんじゃ",
+  "romaji" : null,
+  "meaning" : [ "神社，神道教的宗教设施，用于供奉神灵" ],
+  "notes" : [ "原词「瀋庁」不存在，推测为「神社」的误写。「牌楼」对应的日语通常为「鳥居（とりい）」，是神社入口处的标志性建筑" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7971,
+  "word" : "瀕する",
+  "reading" : "ひんする",
+  "romaji" : null,
+  "meaning" : [ "濒临，面临，接近（危险、死亡、极限等）" ],
+  "notes" : [ "「瀕する」は書き言葉であり、主に困難な状況や危機的な状態に直面することを表す。「瀕死（ひんし）」は名詞としても使用され、「瀕死の状態」のように用いる。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7972,
+  "word" : "瀬戸際",
+  "reading" : "せとぎわ",
+  "romaji" : null,
+  "meaning" : [ "紧要关头，关键时刻，濒临某种状态的边缘" ],
+  "notes" : [ "通常使用「～の瀬戸際」「瀬戸際に立つ」等表达方式" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7973,
+  "word" : "火",
+  "reading" : "ひ",
+  "romaji" : null,
+  "meaning" : [ "火；火焰；火灾；火候；热情" ],
+  "notes" : [ "常用汉字，基本词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7974,
+  "word" : "火事",
+  "reading" : "かじ",
+  "romaji" : null,
+  "meaning" : [ "火灾，失火" ],
+  "notes" : [ "常用汉字词，指因失火等原因引发的火灾事故。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7975,
+  "word" : "火傷",
+  "reading" : "やけど",
+  "romaji" : null,
+  "meaning" : [ "1. 烫伤，烧伤；2. （因过失等）遭受的损失，吃亏，遭殃" ],
+  "notes" : [ "作为名词使用，表达“烫伤”时可构成复合动词「火傷する」（自動詞），表示“被烫伤”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7976,
+  "word" : "火傷します",
+  "reading" : "やけどします",
+  "romaji" : null,
+  "meaning" : [ "烫伤，烧伤" ],
+  "notes" : [ "「火傷する」の敬体形。基本形は「火傷する」（やけどする）。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7977,
+  "word" : "火力",
+  "reading" : "かりょく",
+  "romaji" : null,
+  "meaning" : [ "火力，燃烧时产生的热量；火力（如火力发电、火力武器等的能量）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7978,
+  "word" : "火加減",
+  "reading" : "ひかげん",
+  "romaji" : null,
+  "meaning" : [ "火候，火的大小；调味的浓淡，咸淡程度" ],
+  "notes" : [ "常用汉字词，由「火」和「加減」组合而成，既可以指烹饪时火的大小控制，也可以指调味料的用量调节。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7979,
+  "word" : "火山",
+  "reading" : "かざん",
+  "romaji" : null,
+  "meaning" : [ "火山，指地球表面因岩浆、火山灰等喷出而形成的山状地形" ],
+  "notes" : [ "一般指由岩浆活动形成的山体，可分为活火山、休火山、死火山等类型" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7980,
+  "word" : "火星",
+  "reading" : "かせい",
+  "romaji" : null,
+  "meaning" : [ "名词 火星（太阳系第四颗行星）" ],
+  "notes" : [ "天文学用語" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7981,
+  "word" : "火曜日",
+  "reading" : "かようび",
+  "romaji" : null,
+  "meaning" : [ "星期二" ],
+  "notes" : [ "曜日名称之一，一周的第二天（日本通常将星期日视为一周的第一天）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7982,
+  "word" : "火気厳禁",
+  "reading" : "かきげんきん",
+  "romaji" : null,
+  "meaning" : [ "名 严禁烟火，禁止使用明火" ],
+  "notes" : [ "公共施設や危険物取り扱い場所などでよく見られる標識用語。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7983,
+  "word" : "火災",
+  "reading" : "かさい",
+  "romaji" : null,
+  "meaning" : [ "火灾，失火" ],
+  "notes" : [ "指因火焰或高温引起的灾害，通常涉及建筑物、物品等的燃烧和损坏。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7984,
+  "word" : "灯",
+  "reading" : "あかり",
+  "romaji" : null,
+  "meaning" : [ "名词 灯；灯光，光线；灯火" ],
+  "notes" : [ "「灯」は主に照明や光を指す名词で、「明かり」と同义ですが、书面语的な表现としても使用されます。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7985,
+  "word" : "灯台",
+  "reading" : "とうだい",
+  "romaji" : null,
+  "meaning" : [ "灯塔；烛台，灯台" ],
+  "notes" : [ "「灯台」は主に「海上を照らす建造物（灯塔）」と「室内で使用する照明器具（烛台、灯台）」の二つの意味があります。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7986,
+  "word" : "灰",
+  "reading" : "はい",
+  "romaji" : null,
+  "meaning" : [ "灰，灰烬；灰色" ],
+  "notes" : [ "常用汉字，可用于表示燃烧后的残留物或颜色。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7987,
+  "word" : "灰皿",
+  "reading" : "はいざら",
+  "romaji" : null,
+  "meaning" : [ "烟灰缸" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7988,
+  "word" : "灰色",
+  "reading" : "はいいろ",
+  "romaji" : null,
+  "meaning" : [ "名词 灰色；（比喻）暗淡，不鲜明，模糊不清" ],
+  "notes" : [ "「灰色」可用于形容颜色，也可用于比喻事物不明确、模糊的状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7989,
+  "word" : "災い",
+  "reading" : "わざわい",
+  "romaji" : null,
+  "meaning" : [ "灾难，灾害，灾祸；不幸，倒霉" ],
+  "notes" : [ "常用汉字，可用于表示自然灾害或个人不幸" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7990,
+  "word" : "災害",
+  "reading" : "さいがい",
+  "romaji" : null,
+  "meaning" : [ "灾害，灾难（自然或人为因素造成的危害）" ],
+  "notes" : [ "常用汉字词汇，可与「自然」「人為」等词组合构成复合词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7991,
+  "word" : "災難",
+  "reading" : "さいなん",
+  "romaji" : null,
+  "meaning" : [ "灾难，灾祸，不幸" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7992,
+  "word" : "炊く",
+  "reading" : "たく",
+  "romaji" : null,
+  "meaning" : [ "煮（饭），烧（开水等）" ],
+  "notes" : [ "主要用于烹饪米饭或烧开水等液体类，不用于炒菜。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7993,
+  "word" : "炊ける",
+  "reading" : "たける",
+  "romaji" : null,
+  "meaning" : [ "（饭等）煮熟，煮好；能煮，会煮" ],
+  "notes" : [ "「炊く」（たく）的可能形及自动词用法，表示饭等被煮熟或具备煮的能力" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7994,
+  "word" : "炊事",
+  "reading" : "すいじ",
+  "romaji" : null,
+  "meaning" : [ "做饭，烹调，炊事" ],
+  "notes" : [ "可作名词使用，也可构成复合动词如「炊事する」（する动词）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7995,
+  "word" : "炎",
+  "reading" : "ほのお",
+  "romaji" : null,
+  "meaning" : [ "火焰；烈火；（内心的）激情，怒火" ],
+  "notes" : [ "常用汉字，可用于比喻内心强烈的情感" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7996,
+  "word" : "炎症",
+  "reading" : "えんしょう",
+  "romaji" : null,
+  "meaning" : [ "炎症，身体组织因感染、外伤等引起的发红、肿胀、发热、疼痛等局部反应" ],
+  "notes" : [ "医学用语，可用于描述各种组织或器官的炎症状态" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7997,
+  "word" : "炒める",
+  "reading" : "いためる",
+  "romaji" : null,
+  "meaning" : [ "炒，煎，爆" ],
+  "notes" : [ "他动词，基本形为「炒める」，过去式「炒めた」，否定形「炒めない」" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7998,
+  "word" : "炙る",
+  "reading" : "あぶる",
+  "romaji" : null,
+  "meaning" : [ "烤，炙；晒，暴晒；烘干，烤干" ],
+  "notes" : [ "「炙る」通常指直接用火或高温加热使物体表面变色或干燥，可用于食物、皮肤、衣物等场景。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 7999,
+  "word" : "点",
+  "reading" : "てん",
+  "romaji" : null,
+  "meaning" : [ "1. 点，圆点；2. 分数，得分；3. 点，方面；4. 小数点" ],
+  "notes" : [ "常用汉字，多义名词，可用于数学、评分、问题分析等多种场景" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8000,
+  "word" : "点々",
+  "reading" : "てんてん",
+  "romaji" : null,
+  "meaning" : [ "星星点点；稀疏地；点点滴滴；断断续续" ],
+  "notes" : [ "通常用于描述分布稀疏的状态或动作的断断续续" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+} ]

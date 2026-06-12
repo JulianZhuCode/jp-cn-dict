@@ -1,0 +1,901 @@
+[ {
+  "id" : 1801,
+  "word" : "チャーハン",
+  "reading" : "チャーハン",
+  "romaji" : null,
+  "meaning" : [ "炒饭，源自中文“炒饭”，是日式中华料理的经典菜品" ],
+  "notes" : [ "也可表记为「炒飯」，为和制外来词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1802,
+  "word" : "チャーミング",
+  "reading" : "ちゃーみんぐ",
+  "romaji" : null,
+  "meaning" : [ "可爱的；有魅力的，迷人的" ],
+  "notes" : [ "来源于英语单词\"charming\"的外来语，词性为ナ形容词，修饰名词时需要后续「な」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1803,
+  "word" : "チューブ",
+  "reading" : "チューブ",
+  "romaji" : null,
+  "meaning" : [ "1. 软管，管子，筒，管筒；2. <电子>电子管，真空管；3. <体育>（轮胎的）内胎；4. 地铁（英式英语用法的音译）" ],
+  "notes" : [ "来自英语单词\"tube\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1804,
+  "word" : "チョコレート",
+  "reading" : "ちょこれーと",
+  "romaji" : null,
+  "meaning" : [ "巧克力（原产于美洲的可可豆加工制成的甜品）" ],
+  "notes" : [ "外来语，源自英语\"chocolate\"，口语中也常简称作チョコ" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1805,
+  "word" : "チョーク",
+  "reading" : "ちょーく",
+  "romaji" : null,
+  "meaning" : [ "粉笔；白垩" ],
+  "notes" : [ "源自英语单词\"chalk\"，外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1806,
+  "word" : "チーズ",
+  "reading" : "チーズ",
+  "romaji" : null,
+  "meaning" : [ "源自英语cheese，指奶酪，干酪" ],
+  "notes" : [ "中文“茄子（拍照喊音）”对应的日语是「チーズ」，属于谐音用法，和本词的核心含义奶酪并不冲突" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1807,
+  "word" : "チーム",
+  "reading" : "ちーむ",
+  "romaji" : null,
+  "meaning" : [ "队，组，团队，（体育）球队" ],
+  "notes" : [ "来源于英语单词\"team\"，是日语中的外来词，常用于组织、体育、工作等场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1808,
+  "word" : "チームワーク",
+  "reading" : "ちーむわーく",
+  "romaji" : null,
+  "meaning" : [ "团队合作，协同配合，指团队成员为达成共同目标相互配合协作的工作方式" ],
+  "notes" : [ "源自英语「teamwork」的外来语，日语中多作为名词使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1809,
+  "word" : "ツアー",
+  "reading" : "ツアー",
+  "romaji" : null,
+  "meaning" : [ "1. 旅行，游览，（团队组织的）观光旅行；2. （演艺人员等的）巡回演出、巡回活动" ],
+  "notes" : [ "来源于英语单词\"tour\"，是日语外来词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1810,
+  "word" : "ツインルーム",
+  "reading" : "ついんるーむ",
+  "romaji" : null,
+  "meaning" : [ "(宾馆的)双床间，区别于摆设有一张大床的ダブルルーム（大床房）" ],
+  "notes" : [ "该词是源自英语\"twin room\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1811,
+  "word" : "ツバメ",
+  "reading" : "ツバメ①",
+  "romaji" : null,
+  "meaning" : [ "1. 鸟类 燕子，家燕；2. （江户时代隐语）职业杂技表演者；3. （隐语）扒手，小偷" ],
+  "notes" : [ "标准语中最常用义为鸟类燕子，后两个义项为古隐语用法，现代不常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1812,
+  "word" : "ツリー",
+  "reading" : "つりー",
+  "romaji" : null,
+  "meaning" : [ "1.（英文「tree」的日语音译）树；2.（毛衣等的）树形花纹；3.（数据结构、商品分类等的）树形结构，层级结构" ],
+  "notes" : [ "来自英语外来词，对应单词tree，日常使用中多指代圣诞树、树形结构，原生日语表示「树」的单词是「木（き）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1813,
+  "word" : "ツール",
+  "reading" : "つーる",
+  "romaji" : null,
+  "meaning" : [ "工具，用具，道具；（软件等的）工具" ],
+  "notes" : [ "源自英语「tool」的外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1814,
+  "word" : "ティッシュ",
+  "reading" : "ティッシュ",
+  "romaji" : null,
+  "meaning" : [ "纸巾，面巾纸，擦脸纸，源自英语\"tissue\"" ],
+  "notes" : [ "全称为「ティッシュペーパー」，日常使用中多省略为「ティッシュ」，属于日语外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1815,
+  "word" : "ティーバッグ",
+  "reading" : "ティーバッグ",
+  "romaji" : null,
+  "meaning" : [ "袋泡茶，茶包，指封装茶叶的纤维小袋，冲泡时直接放入水中即可" ],
+  "notes" : [ "源自英语单词\"teabag\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1816,
+  "word" : "テキスト",
+  "reading" : "てきすと",
+  "romaji" : null,
+  "meaning" : [ "文本；课文，课本，教科书；原稿，原文" ],
+  "notes" : [ "该词是英语「text」的外来语，除表示教材类含义外，还可泛指电子或书面的文本内容。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1817,
+  "word" : "テクニック",
+  "reading" : "テクニック",
+  "romaji" : null,
+  "meaning" : [ "技巧，技艺；（艺术、体育等领域的）表现手法、技术技法" ],
+  "notes" : [ "源自英语单词\"technique\"的外来语，多用于指具体的技术手法、技巧。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1818,
+  "word" : "テクノロジー",
+  "reading" : "tekunorojī",
+  "romaji" : null,
+  "meaning" : [ "（源自英语technology）科学技术，工业技术，工艺技术" ],
+  "notes" : [ "外来语，是英语technology的音译，对应汉语的科技、技术，常指现代科学应用层面的技术" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1819,
+  "word" : "テスト",
+  "reading" : "テスト",
+  "romaji" : null,
+  "meaning" : [ "1. 考试，测验；2. 测试，试验，检验" ],
+  "notes" : [ "来源于英语单词\"test\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1820,
+  "word" : "テニス",
+  "reading" : "てにす",
+  "romaji" : null,
+  "meaning" : [ "网球（tennis），球类运动的一种" ],
+  "notes" : [ "日语外来语，源自英语单词\"tennis\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1821,
+  "word" : "テニスコート",
+  "reading" : "てにすこーと",
+  "romaji" : null,
+  "meaning" : [ "网球场" ],
+  "notes" : [ "日语外来语，源自英语\"tennis court\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1822,
+  "word" : "テレビ",
+  "reading" : "てれび",
+  "romaji" : null,
+  "meaning" : [ "日语外来词，源自英语television，含义为：1. 电视机；2. 电视，电视广播、电视行业" ],
+  "notes" : [ "正式全称为テレビジョン，日常使用中通常省略为テレビ，是生活常用外来词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1823,
+  "word" : "テレビ講座",
+  "reading" : "テレビこうざ",
+  "romaji" : null,
+  "meaning" : [ "电视讲座，指通过电视媒体播出的教学讲座节目" ],
+  "notes" : [ "由「テレビ」（电视）和「講座」（讲座）复合而成的名词，重音为4型。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1824,
+  "word" : "テロ",
+  "reading" : "てろ",
+  "romaji" : null,
+  "meaning" : [ "恐怖主义，是「テロリズム（terrorism）」的省略说法" ],
+  "notes" : [ "来源于英语「terrorism」的外来语，日常多作为名词使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1825,
+  "word" : "テンション",
+  "reading" : "てんしょん",
+  "romaji" : null,
+  "meaning" : [ "源自英语tension，本义为紧张、张力；日语中常用引申义：情绪状态，精神状态，（尤指）兴奋程度、干劲" ],
+  "notes" : [ "日本日常口语中多用来指人的情绪兴奋度、干劲高低，较少单独使用表示「紧张」的原始含义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1826,
+  "word" : "テント",
+  "reading" : "てんと",
+  "romaji" : null,
+  "meaning" : [ "帐篷，帐棚；（露营用的）帐幕" ],
+  "notes" : [ "来自英语单词“tent”的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1827,
+  "word" : "テーブル",
+  "reading" : "てーぶる",
+  "romaji" : null,
+  "meaning" : [ "桌子，饭桌；（计算机的）表格" ],
+  "notes" : [ "来源于英语单词\"table\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1828,
+  "word" : "テーブルクロス",
+  "reading" : "テーブルクロス",
+  "romaji" : null,
+  "meaning" : [ "桌布，台布，覆盖于餐桌的装饰防护布" ],
+  "notes" : [ "源自英语\"tablecloth\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1829,
+  "word" : "テープ",
+  "reading" : "てーぷ",
+  "romaji" : null,
+  "meaning" : [ "磁带，录音带；胶带，胶布；录像带" ],
+  "notes" : [ "源自英语单词\"tape\"的外来语，除录音带外，还可指代胶带、录像带等带状带芯物品" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1830,
+  "word" : "テープレコーダー",
+  "reading" : "てーぷれこーだー",
+  "romaji" : null,
+  "meaning" : [ "磁带录音机，是用于录制和播放磁带音频的设备" ],
+  "notes" : [ "源自英语tape recorder，是外来语名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1831,
+  "word" : "テーマ",
+  "reading" : "テーマ",
+  "romaji" : null,
+  "meaning" : [ "主题；题目；中心思想；（作文、演讲等的）议题；（艺术创作等的）主题" ],
+  "notes" : [ "来源于英语单词\"theme\"的外来语，是日语中常用的名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1832,
+  "word" : "テーマパーク",
+  "reading" : "テーマパーク",
+  "romaji" : null,
+  "meaning" : [ "主题乐园，主题公园，指围绕特定主题打造的综合性休闲娱乐园区" ],
+  "notes" : [ "源自英语「theme park」的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1833,
+  "word" : "ディスプレー",
+  "reading" : "でぃすぷれー",
+  "romaji" : null,
+  "meaning" : [ "1. 陈列，展示；2.（电子设备的）显示器，显示屏" ],
+  "notes" : [ "也可写作ディスプレイ，是英语display的外来语，既可以表示陈列展示的动作或行为，也可以指电子设备的显示装置。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1834,
+  "word" : "デコレーション",
+  "reading" : "でこれーしょん",
+  "romaji" : null,
+  "meaning" : [ "装饰，装潢；（食品的）点缀，裱花；（对物品的）装饰加工" ],
+  "notes" : [ "来源于英语单词\"decoration\"，是日语外来词，日常使用范围广泛，除空间装潢外，也常用于食品、手作等领域的装饰相关表述。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1835,
+  "word" : "デザイナー",
+  "reading" : "でざいなー",
+  "romaji" : null,
+  "meaning" : [ "源自英语designer，指从事设计工作的人，可细分为服装设计师、平面设计师、工业设计师等" ],
+  "notes" : [ "外来语，片假名拼写，对应英语单词designer" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1836,
+  "word" : "デザイン",
+  "reading" : "でざいん",
+  "romaji" : null,
+  "meaning" : [ "1. 作名词：设计，图案，构思；2. 作动词：设计，构思，规划" ],
+  "notes" : [ "来自英语design的外来语，可作名词使用，也可后续「する」构成サ変变动词" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1837,
+  "word" : "デザート",
+  "reading" : "デザート",
+  "romaji" : null,
+  "meaning" : [ "餐后甜点，餐后点心" ],
+  "notes" : [ "该词来自英语单词\"dessert\"的日语外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1838,
+  "word" : "デジカメ",
+  "reading" : "でじかめ",
+  "romaji" : null,
+  "meaning" : [ "数码相机，是「デジタルカメラ」的缩略说法" ],
+  "notes" : [ "デジタルカメラ（digital camera）的缩略语，是日语中常用的和制外来语缩略词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1839,
+  "word" : "デジタル",
+  "reading" : "デジタル",
+  "romaji" : null,
+  "meaning" : [ "1. 名词，数码，数字（指数字化的、使用数字技术的，对应英文digital）；2. 也可作形容动词，表数字化的" ],
+  "notes" : [ "该词是源自英文\"digital\"的外来语，除名词用法外，也可作为ナ形容词修饰名词使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1840,
+  "word" : "デジタルオーディオ",
+  "reading" : "デジタルオーディオ",
+  "romaji" : null,
+  "meaning" : [ "数字音频，数码音频" ],
+  "notes" : [ "源自英语“digital audio”的外来语，指采用数字技术处理的音频信号或相关音频设备/产品" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1841,
+  "word" : "デジタルカメラ",
+  "reading" : "デジタルカメラ",
+  "romaji" : null,
+  "meaning" : [ "数码相机，是数码照相机的简称，指利用数字化传感器将光学影像转换成数字数据的照相设备" ],
+  "notes" : [ "是英语\"digital camera\"的外来语借词，常简称作デジカメ" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1842,
+  "word" : "デジタルライフ",
+  "reading" : "デジタルライフ",
+  "romaji" : null,
+  "meaning" : [ "数码生活，指依托数字信息技术展开的现代生活形态" ],
+  "notes" : [ "该词是英语「digital life」的外来语借词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1843,
+  "word" : "デッサン",
+  "reading" : "でっさん",
+  "romaji" : null,
+  "meaning" : [ "源自法语「dessin」，指绘画创作前的素描、速写、草图，也可指素描作品" ],
+  "notes" : [ "外来语，和「スケッチ」语义相近，デッサン更偏向于对物体结构、明暗的基础素描练习" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1844,
+  "word" : "デパート",
+  "reading" : "でぱーと",
+  "romaji" : null,
+  "meaning" : [ "百货商店，商场" ],
+  "notes" : [ "是日语「デパートメントストア（department store）」的省略形，来源于英语外来词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1845,
+  "word" : "デビュー",
+  "reading" : "でびゅー",
+  "romaji" : null,
+  "meaning" : [ "（艺人等）初次登台，首次亮相", "（新产品）新上市，首次推出", "（新人）初次登场，出道" ],
+  "notes" : [ "デビュー是来自法语\"début\"的外来语，可作为サ変動詞使用，接「する」构成动词谓语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1846,
+  "word" : "デモ",
+  "reading" : "でも",
+  "romaji" : null,
+  "meaning" : [ "1. デモンストレーションの略称；游行示威，示威运动；2. （商品等的）演示，展示" ],
+  "notes" : [ "是「デモンストレーション（demonstration）」的缩略外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1847,
+  "word" : "デリケート",
+  "reading" : "デリケート",
+  "romaji" : null,
+  "meaning" : [ "精致的，纤细的；微妙的，棘手的；敏感的，脆弱的；（皮肤）易过敏的" ],
+  "notes" : [ "来源于英语单词\"delicate\"，形容动词（ナ形容词），作定语修饰名词时需要后续「な」，作谓语时需要后续「です/だ」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1848,
+  "word" : "データ",
+  "reading" : "データ",
+  "romaji" : null,
+  "meaning" : [ "数据，资料，材料，论据" ],
+  "notes" : [ "源自英语“data”，是日语常用外来语，日语中原本也有「資料」「データ」的说法，该词为现代信息技术领域常用词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1849,
+  "word" : "デート",
+  "reading" : "デート",
+  "romaji" : null,
+  "meaning" : [ "1. （男女异性间的）约会，幽会；2. 日期，年月日；3. （社交性的）约会，约定会面" ],
+  "notes" : [ "外来语，源自英语date，原本也可指“约会对象”，但现代日语中该用法较少见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1850,
+  "word" : "トイレ",
+  "reading" : "トイレ",
+  "romaji" : null,
+  "meaning" : [ "洗手间，厕所，卫生间；（日式建筑中的）盥洗室" ],
+  "notes" : [ "来源于英语\"toilet\"，是日语中最常用的对洗手间/厕所的称呼，属于礼貌用语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1851,
+  "word" : "トイレ（お手洗い）",
+  "reading" : "トイレ（おてあらい）",
+  "romaji" : null,
+  "meaning" : [ "厕所，洗手间，盥洗室；也可委婉指代如厕行为" ],
+  "notes" : [ "「トイレ」是外来语，日常使用广泛；「お手洗い」是礼貌委婉说法，多用于正式场合或对长辈、上级使用；二者都指洗手间，是日语中对该场所最常用的两种表述。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1852,
+  "word" : "トキ",
+  "reading" : "トキ",
+  "romaji" : null,
+  "meaning" : [ "1. 名词：朱鹮，日本冠鹮（鹳形目鹮科的鸟类，为日本国家特别天然纪念物）；2. 名词：（围棋）读秒；3. 名词：土器时代的略称" ],
+  "notes" : [ "该词还可对应汉字「時」「土器」，此处为外来语/固有词含义标注，最广为人知的含义是朱鹮。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1853,
+  "word" : "トップ",
+  "reading" : "トップ",
+  "romaji" : null,
+  "meaning" : [ "1. 第一位，首位，第一名，榜首；2. 顶部，顶端，上端；3. （某领域的）头号人物，顶级人物；4. （报纸等的）头条，头版头条；5. （比赛的）开端，开场" ],
+  "notes" : [ "来源于英语单词\"top\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1854,
+  "word" : "トピック",
+  "reading" : "とぴっく",
+  "romaji" : null,
+  "meaning" : [ "话题，主题，题目" ],
+  "notes" : [ "来源于英语单词\"topic\"，是日语中的外来语名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1855,
+  "word" : "トマト",
+  "reading" : "トマト",
+  "romaji" : null,
+  "meaning" : [ "番茄，西红柿（原产美洲的茄科一年生草本植物的果实，可作蔬菜食用）" ],
+  "notes" : [ "来自英语单词\"tomato\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1856,
+  "word" : "トライ",
+  "reading" : "とらい",
+  "romaji" : null,
+  "meaning" : [ "1. 尝试，试一试；2.（橄榄球）达阵得分" ],
+  "notes" : [ "源自英语单词\"try\"，作动词使用时通常后续する构成サ変活用动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1857,
+  "word" : "トライアル",
+  "reading" : "とらいある",
+  "romaji" : null,
+  "meaning" : [ "1. 尝试，试行；试车，试运行；2. 预赛，选拔赛；3. （滑雪、摩托车等的）越野赛" ],
+  "notes" : [ "源自英语单词\"trial\"，是日语外来语，常用于商业、体育领域" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1858,
+  "word" : "トラウマ",
+  "reading" : "とらうま",
+  "romaji" : null,
+  "meaning" : [ "1. （心理学）创伤、精神创伤；2. 引申为心灵创伤、心理阴影" ],
+  "notes" : [ "源自英语单词「trauma」的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1859,
+  "word" : "トラック",
+  "reading" : "トラック",
+  "romaji" : null,
+  "meaning" : [ "1. 卡车，载重汽车；2. （比赛的）跑道，田径跑道；3. 轨道，音轨" ],
+  "notes" : [ "该词是源自英语“truck”的外来词，除表示交通工具卡车外，还有跑道、音轨等常用义项。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1860,
+  "word" : "トラブル",
+  "reading" : "とらぶる",
+  "romaji" : null,
+  "meaning" : [ "来源于英语“trouble”，含义为：纠纷，纷争；麻烦，困扰；故障，事故" ],
+  "notes" : [ "外来语，日语中使用频率很高，日常可泛指各类麻烦、问题或故障" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1861,
+  "word" : "トランプ",
+  "reading" : "とらんぷ",
+  "romaji" : null,
+  "meaning" : [ "1. 扑克牌；2. 特朗普（特指美国前总统唐纳德·特朗普）" ],
+  "notes" : [ "该词源自英语\"trump\"，除扑克牌含义外，常作为人名\"Trump（特朗普）\"的音译使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1862,
+  "word" : "トレーニング",
+  "reading" : "とれーにんぐ",
+  "romaji" : null,
+  "meaning" : [ "训练，练习，锻炼" ],
+  "notes" : [ "来自英语单词\"training\"，可作サ変活用名词使用，即构词「トレーニングする」作为动词使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1863,
+  "word" : "トレーニングする",
+  "reading" : "とれーにんぐする",
+  "romaji" : null,
+  "meaning" : [ "训练，练习，锻炼，指为提升特定能力、技能或体能进行系统性练习" ],
+  "notes" : [ "该词是来自英语「training」的日语外来语サ变活用动词，在日语能力考N3范围，除体育体能训练外，也可用于技能、能力的练习训练场景" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1864,
+  "word" : "トン",
+  "reading" : "とん",
+  "romaji" : null,
+  "meaning" : [ "1. 质量单位，吨；2. 体积、容积单位，登记吨；3. 压力单位，吨力" ],
+  "notes" : [ "来源于英语单位\"ton\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1865,
+  "word" : "トンネル",
+  "reading" : "トンネル",
+  "romaji" : null,
+  "meaning" : [ "1. 隧道，隧洞，地道；2.（高尔夫球的）球洞隧道；3.（汽车、火车等的）风洞；4. 动物的洞穴地道" ],
+  "notes" : [ "来自英语借词\"tunnel\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1866,
+  "word" : "トーク",
+  "reading" : "とーく",
+  "romaji" : null,
+  "meaning" : [ "谈话，闲谈；演讲，脱口秀；（球类比赛中的）交流配合" ],
+  "notes" : [ "源自英语单词\"talk\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1867,
+  "word" : "トータル",
+  "reading" : "とーたる",
+  "romaji" : null,
+  "meaning" : [ "总计，合计，共计；整体，总体；全部的，全面的" ],
+  "notes" : [ "来源于英语单词\"total\"，是日语的外来语词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1868,
+  "word" : "トーン",
+  "reading" : "とーん",
+  "romaji" : null,
+  "meaning" : [ "音调，音色；色调，明暗；语气，气氛，风格；（健身中的）肌肉紧实度" ],
+  "notes" : [ "来自英语单词\"tone\"的外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1869,
+  "word" : "ドア",
+  "reading" : "どあ",
+  "romaji" : null,
+  "meaning" : [ "来自英语door，指建筑物、车辆、家具等的门，也可指引申义的门户、门路" ],
+  "notes" : [ "外来语，是日语中对门最常用的说法之一，区别于和语的「扉（とびら）」，使用范围更广" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1870,
+  "word" : "ドクター",
+  "reading" : "どくたー",
+  "romaji" : null,
+  "meaning" : [ "医生；博士，也可指旅店、船等的管理员，或用于称呼军医" ],
+  "notes" : [ "该词是英语\"doctor\"的日语外来语音译词，正式场合和日常口语中都常用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1871,
+  "word" : "ドライ",
+  "reading" : "どらい",
+  "romaji" : null,
+  "meaning" : [ "干燥的；（性格/处事）理智的，冷冰冰的，不掺杂感情的；（酒类）干的，无糖的" ],
+  "notes" : [ "源自英语单词\"dry\"，是日语外来语，作ナ形容词使用，也可直接作名词使用" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1872,
+  "word" : "ドライバー",
+  "reading" : "どらいばー",
+  "romaji" : null,
+  "meaning" : [ "1. 司机，驾驶员；2. 螺丝刀，改锥；3.（高尔夫）一号木杆，发球杆；4. 驱动程序" ],
+  "notes" : [ "该词为英语\"driver\"的音译外来词，有多个常用含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1873,
+  "word" : "ドライブ",
+  "reading" : "どらいぶ",
+  "romaji" : null,
+  "meaning" : [ "1. 开车兜风，驾车出游；2.（网球、高尔夫等的）抽球，猛击；3. 驱动，传动（计算机、机械领域）" ],
+  "notes" : [ "这是英语\"drive\"的外来语，作动词使用时需接「する」构成サ変動詞「ドライブする」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1874,
+  "word" : "ドライブイン",
+  "reading" : "どらいぶいん",
+  "romaji" : null,
+  "meaning" : [ "路旁餐厅，公路服务站；免下车服务设施（顾客无需下车即可接受服务的设施）" ],
+  "notes" : [ "源自英文drive-in，主要指设置在公路沿线，供自驾车游客停靠休息、用餐的服务设施，也可指免下车影院、免下车餐厅这类无需下车即可获得服务的场所。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1875,
+  "word" : "ドライヤー",
+  "reading" : "どらいやー",
+  "romaji" : null,
+  "meaning" : [ "吹风机；干燥剂；烘干机；（滑雪后的）干雪滑行" ],
+  "notes" : [ "源自英语\"dryer\"，也可写作「ドライアー」，日常使用中最常指头发用的电吹风。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1876,
+  "word" : "ドラッグストア",
+  "reading" : "どらっぐすとあ",
+  "romaji" : null,
+  "meaning" : [ "药店，兼售化妆品、日用品、零食杂货的药妆店" ],
+  "notes" : [ "源自英语\"drug store\"，日本的ドラッグストア通常除药品外还售卖化妆品、日用品、零食杂货等，和中文语境下单纯的药店有所区别，常被称为药妆店。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1877,
+  "word" : "ドラマ",
+  "reading" : "どらま",
+  "romaji" : null,
+  "meaning" : [ "电视剧；（广播、电视的）戏剧节目；戏剧，剧本；（人生、事件中的）戏剧性情节，戏剧性场面" ],
+  "notes" : [ "源自英语“drama”，日语中多特指电视连续剧。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1878,
+  "word" : "ドリル",
+  "reading" : "どりる",
+  "romaji" : null,
+  "meaning" : [ "1. 钢钻，钻孔器，钻头（电钻、手摇钻等钻孔工具）；2. （军事操练的）训练；3. （教育）反复练习，习题训练，练习册" ],
+  "notes" : [ "该词源自英语\"drill\"，除工具含义外，在教育领域常指用于巩固知识的配套练习册或反复训练。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1879,
+  "word" : "ドレス",
+  "reading" : "どれす",
+  "romaji" : null,
+  "meaning" : [ "1. 女士礼服，连衣裙；2. （泛指正式的）礼服，盛装" ],
+  "notes" : [ "源自英语\"dress\"的外来语，主要指女士正式场合穿着的礼服或连衣裙。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1880,
+  "word" : "ドレッシング",
+  "reading" : "どれっしんぐ",
+  "romaji" : null,
+  "meaning" : [ "1. （西餐的）调味汁，沙拉酱；2. 穿戴，打扮；加工，装饰" ],
+  "notes" : [ "源自英语单词\"dressing\"的外来语，最常用义为沙拉调味酱" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1881,
+  "word" : "ナイター",
+  "reading" : "ないたー",
+  "romaji" : null,
+  "meaning" : [ "1.（棒球、足球等体育运动的）夜间比赛，夜场；2.日语中特指棒球夜场比赛" ],
+  "notes" : [ "该词是和制英语，来源于英文\"night game\"的缩略改造。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1882,
+  "word" : "ナイト",
+  "reading" : "ないと",
+  "romaji" : null,
+  "meaning" : [ "1. 夜晚，夜间；晚间活动；2.（国际象棋中的）马；3.（亚瑟王传说中的）骑士；4.（日本娱乐行业对男公关的称呼）男公关" ],
+  "notes" : [ "该词是英语「night」和「knight」的音译借词，不同来源含义不同，最常用义为夜晚，也常用作骑士、男公关的含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1883,
+  "word" : "ナイトクルージング",
+  "reading" : "ナイトクルージング",
+  "romaji" : null,
+  "meaning" : [ "夜间巡航，指在夜间乘坐邮轮或观光船航行游览，通常会观赏城市沿岸夜景，是休闲观光活动的一种" ],
+  "notes" : [ "源自英文「night cruising」的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1884,
+  "word" : "ナイフ",
+  "reading" : "ナイフ",
+  "romaji" : null,
+  "meaning" : [ "刀，刀子，小刀，餐刀，水果刀，刀具" ],
+  "notes" : [ "源自英语单词\"knife\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1885,
+  "word" : "ナイロン",
+  "reading" : "ナイロン",
+  "romaji" : null,
+  "meaning" : [ "尼龙，锦纶，聚酰胺纤维" ],
+  "notes" : [ "外来语，源自英语\"nylon\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1886,
+  "word" : "ナプキン",
+  "reading" : "なぷきん",
+  "romaji" : null,
+  "meaning" : [ "餐巾；纸巾；（女性生理用）卫生巾" ],
+  "notes" : [ "该词源自英语\"napkin\"，除了常用的「餐巾」含义外，在日语日常使用中也常指代女性生理用卫生巾。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1887,
+  "word" : "ナンセンス",
+  "reading" : "ナンセンス",
+  "romaji" : null,
+  "meaning" : [ "1. （名詞）无意义的话，荒谬的言论；废话 2. （形容動詞）无意义的，荒谬的，无聊的，荒唐的" ],
+  "notes" : [ "该词源自英语单词\"nonsense\"，属于日语外来语，可作为名词使用，也可作为形容动词修饰名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1888,
+  "word" : "ナンバー",
+  "reading" : "なんばー",
+  "romaji" : null,
+  "meaning" : [ "1. 数字，号码；2.（车辆的）号码牌，牌照；3.（书刊等的）期，号；4.（演出等的）曲目，节目" ],
+  "notes" : [ "该词是英语\"number\"的外来语，也可缩写为「ナンバ」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1889,
+  "word" : "ニックネーム",
+  "reading" : "にっくねーむ",
+  "romaji" : null,
+  "meaning" : [ "昵称；外号，绰号" ],
+  "notes" : [ "来源于英文“nickname”的外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1890,
+  "word" : "ニュアンス",
+  "reading" : "にゅあんす",
+  "romaji" : null,
+  "meaning" : [ "（言葉・表情などの）微妙な意味合い、雰囲気；语气，语感，细微差别，韵味" ],
+  "notes" : [ "来源于法语单词nuance，是日语常用外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1891,
+  "word" : "ニュース",
+  "reading" : "にゅーす",
+  "romaji" : null,
+  "meaning" : [ "新闻；消息；报道" ],
+  "notes" : [ "来自英语单词\"news\"的外来语，属于サ変活用名词，后接动词时通常使用「ニュースをする」的搭配" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1892,
+  "word" : "ニンニク",
+  "reading" : "ニンニク",
+  "romaji" : null,
+  "meaning" : [ "大蒜，蒜" ],
+  "notes" : [ "汉字可写作「大蒜」，是常见的香辛料食材。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1893,
+  "word" : "ニーハオ",
+  "reading" : "ニーハオ",
+  "romaji" : null,
+  "meaning" : [ "源自汉语「你好」的日语借词，日语中用作问候语，意为你好" ],
+  "notes" : [ "这是中文「你好」传入日语形成的外来语问候词，不属于日语原生词汇，多用于非正式场合对中文使用者的问候" ],
+  "pos" : "INTERJ",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1894,
+  "word" : "二度と",
+  "reading" : "にどと",
+  "romaji" : null,
+  "meaning" : [ "（后接否定表达）再也（不），再度（不），两次，二度" ],
+  "notes" : [ "也可写作片假名形式「ニ度と」，日常使用中多以汉字写法「二度と」为主，核心用法是后续搭配否定表达，表示不会再有第二次。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1895,
+  "word" : "ネクタイ",
+  "reading" : "ねくたい",
+  "romaji" : null,
+  "meaning" : [ "领带" ],
+  "notes" : [ "源自英语单词\"necktie\"的外来语，衬衫领口佩戴的服饰用品" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1896,
+  "word" : "ネズミ",
+  "reading" : "ねずみ",
+  "romaji" : null,
+  "meaning" : [ "1. 老鼠，耗子（啮齿目鼠科动物的统称）；2. 〈俚语〉鼠标（=マウス，旧称）" ],
+  "notes" : [ "现代日语中表示电脑鼠标时常用外来语マウス，ネズミ为旧用法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1897,
+  "word" : "ネック",
+  "reading" : "ねっく",
+  "romaji" : null,
+  "meaning" : [ "颈部；衣领；（事物的）瓶颈，障碍，棘手问题；（吉他等弦乐器的）琴颈" ],
+  "notes" : [ "源自英语单词\"neck\"的外来语，多在日语中使用引申义表示瓶颈、障碍" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1898,
+  "word" : "ネックレス",
+  "reading" : "ねっくれす",
+  "romaji" : null,
+  "meaning" : [ "项链（源自英语necklace，指佩戴在颈部的饰品）" ],
+  "notes" : [ "外来语，是日语对英语\"necklace\"的音译转写" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1899,
+  "word" : "ネット",
+  "reading" : "ねっと",
+  "romaji" : null,
+  "meaning" : [ "网；球网；互联网（internet的略称）；净（重量、价格等用语）" ],
+  "notes" : [ "外来语，来源于英语\"net\"，日常除本义外，最常用来指代互联网。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 1900,
+  "word" : "ネットワーク",
+  "reading" : "ねっとわーく",
+  "romaji" : null,
+  "meaning" : [ "1. （计算机、通信领域的）网络；2. 网状系统，网状组织；3. 人际网络，关系网" ],
+  "notes" : [ "来源于英语单词\"network\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

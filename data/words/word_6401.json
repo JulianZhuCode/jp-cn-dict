@@ -1,0 +1,901 @@
+[ {
+  "id" : 6401,
+  "word" : "掘る",
+  "reading" : "ほる",
+  "romaji" : null,
+  "meaning" : [ "挖，挖掘，刨；钻研；打听，探听" ],
+  "notes" : [ "该词为五段动词，词尾变化遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6402,
+  "word" : "掛かります",
+  "reading" : "かかります",
+  "romaji" : null,
+  "meaning" : [ "1. 挂，悬挂；2. 花费（时间、金钱等）；3. 需要（时间、精力等）；4. 涉及，关系到；5. 开始，着手" ],
+  "notes" : [ "「掛かります」是「掛かる」的敬体形式，在使用时要注意其不同含义在语境中的运用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6403,
+  "word" : "掛かる",
+  "reading" : "かかる",
+  "romaji" : null,
+  "meaning" : [ "悬挂；花费；需要（时间、精力等）；笼罩；涉及；挂电话；遭受；上锁等" ],
+  "notes" : [ "该动词有多种含义，具体意思需要根据上下文来判断。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6404,
+  "word" : "掛け",
+  "reading" : "かけ",
+  "romaji" : null,
+  "meaning" : [ "悬挂物；赊账；欠款；（动作的）尝试、做（某事）的机会；乘法运算中的乘数" ],
+  "notes" : [ "「掛け」有多种含义，具体意思需要根据语境判断。在表示悬挂物时，常指挂在墙上或其他地方的物品；表示赊账、欠款时，是商业用语；表示尝试时，常与「する」等动词搭配使用；在数学语境中表示乘数。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6405,
+  "word" : "掛けます",
+  "reading" : "かけます",
+  "romaji" : null,
+  "meaning" : [ "挂；戴；花费（时间、金钱等）；放；给（电话）等" ],
+  "notes" : [ "「掛けます」是动词「掛ける」的礼貌形，其原形为五段动词，ます形词尾变为「けます」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6406,
+  "word" : "掛ける",
+  "reading" : "かける",
+  "romaji" : null,
+  "meaning" : [ "悬挂；戴上；浇（水）；花费；开动（机器）；施加；覆盖；乘以；使……处于某种状态等" ],
+  "notes" : [ "「掛ける」是他动词，使用时需要注意其宾语的搭配。在不同语境中可能有不同的含义，需要根据上下文理解。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6407,
+  "word" : "掛け算",
+  "reading" : "かけざん",
+  "romaji" : null,
+  "meaning" : [ "（数学）乘法" ],
+  "notes" : [ "在数学计算场景中常用的词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6408,
+  "word" : "掠る",
+  "reading" : "かすめる",
+  "romaji" : null,
+  "meaning" : [ "擦过，掠过；掠夺，抢劫；轻易地做，敷衍了事" ],
+  "notes" : [ "该词在不同语境中有不同的含义，需根据上下文准确理解。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6409,
+  "word" : "採る",
+  "reading" : "とる",
+  "romaji" : null,
+  "meaning" : [ "采用；录用；招收；招生；采摘；选取；获取等" ],
+  "notes" : [ "该动词是五段动词，其词尾变化遵循五段动词的规则，如ます形为「採ります」，て形为「採って」等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6410,
+  "word" : "採択",
+  "reading" : "さいたく",
+  "romaji" : null,
+  "meaning" : [ "采纳，通过；选择，选定" ],
+  "notes" : [ "作为サ变动词使用时，词干“採択”后续“する”构成动词形式，如“採択する”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6411,
+  "word" : "採掘",
+  "reading" : "さいくつ",
+  "romaji" : null,
+  "meaning" : [ "开采；采掘；采矿。指从地下或其他地方挖掘、获取矿物等资源的行为。" ],
+  "notes" : [ "该词为名词，在句子中常作主语、宾语等成分。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6412,
+  "word" : "採決",
+  "reading" : "さいけつ",
+  "romaji" : null,
+  "meaning" : [ "表决；投票决定" ],
+  "notes" : [ "该词为名词，使用时需搭配适当的动词，如「行う」等表示进行表决的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6413,
+  "word" : "採点",
+  "reading" : "さいてん",
+  "romaji" : null,
+  "meaning" : [ "打分，判分，判卷" ],
+  "notes" : [ "「採点」是サ变动词，使用时一般后续「する」构成完整谓语形式。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6414,
+  "word" : "採用",
+  "reading" : "さいよう",
+  "romaji" : null,
+  "meaning" : [ "采用，采纳；录用；选用；采用某种方法、技术等；选拔任用人员等" ],
+  "notes" : [ "作为名词时，在句子中可作主语、宾语等；作为サ变动词时，词尾接「する」构成动词形式，其活用遵循サ变动词的规则。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6415,
+  "word" : "採用試験",
+  "reading" : "さいようしけん",
+  "romaji" : null,
+  "meaning" : [ "录用考试，招聘考试" ],
+  "notes" : [ "用于描述企业、学校等机构为选拔人员而进行的考试。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6416,
+  "word" : "採算",
+  "reading" : "さいさん",
+  "romaji" : null,
+  "meaning" : [ "（收支）核算；盈亏计算" ],
+  "notes" : [ "常用于商业、经济领域，表示对收支情况的计算和评估。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6417,
+  "word" : "探します",
+  "reading" : "さがします",
+  "romaji" : null,
+  "meaning" : [ "找，寻找，寻求；探寻，探索；查找，搜索" ],
+  "notes" : [ "该词为一类动词，其基本形是「探す」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6418,
+  "word" : "探し出す",
+  "reading" : "さがしだす",
+  "romaji" : null,
+  "meaning" : [ "找出，找到，发现；经过一番寻找后把目标物找出来" ],
+  "notes" : [ "该词强调经过寻找的过程最终得到目标物。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6419,
+  "word" : "探す",
+  "reading" : "さがす",
+  "romaji" : null,
+  "meaning" : [ "寻找，搜寻；探求，寻求；查找" ],
+  "notes" : [ "该词为五段动词，其否定形式是「探さない」，过去式是「探した」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6420,
+  "word" : "探る",
+  "reading" : "さぐる",
+  "romaji" : null,
+  "meaning" : [ "1. 寻找；探寻，如寻找失物、探寻真相。2. 试探；探听，如试探对方的心意。" ],
+  "notes" : [ "该词是五段动词，其词尾变化遵循五段动词的规则，如否定形是「探らない」，过去形是「探った」等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6421,
+  "word" : "探偵",
+  "reading" : "たんてい",
+  "romaji" : null,
+  "meaning" : [ "侦探；侦查" ],
+  "notes" : [ "该词为音读词汇，在日语中常用于描述从事侦探职业的人或相关的侦查活动。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6422,
+  "word" : "探検/探険",
+  "reading" : "たんけん",
+  "romaji" : null,
+  "meaning" : [ "探险；勘探；考察" ],
+  "notes" : [ "“探検”使用更为普遍，“探険”相对少用，二者意思相同。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6423,
+  "word" : "探求心",
+  "reading" : "たんきゅうしん",
+  "romaji" : null,
+  "meaning" : [ "求知欲；探索精神；追求真理的心态" ],
+  "notes" : [ "该词用于描述人对未知事物的好奇、追求和探索的心理状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6424,
+  "word" : "探究",
+  "reading" : "たんきゅう",
+  "romaji" : null,
+  "meaning" : [ "深入地探求、研究。" ],
+  "notes" : [ "该词为音读词汇，在句中常作宾语，搭配动词如「する」等使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6425,
+  "word" : "接する",
+  "reading" : "せっする",
+  "romaji" : null,
+  "meaning" : [ "接触；相邻；接待，对待；连接；接上；交接，衔接；遭受、面临某种情况" ],
+  "notes" : [ "「接する」是サ变动词，其词干是「接」，词尾「する」。在口语和书面语中都较为常用，可用于描述空间上的相邻、人际关系中的接待等多种场景。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6426,
+  "word" : "接待",
+  "reading" : "せったい",
+  "romaji" : null,
+  "meaning" : [ "接待，招待；指公司等为了业务等目的对客户等进行的款待活动" ],
+  "notes" : [ "该词汇一般作为名词使用，在商务场合较为常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6427,
+  "word" : "接点",
+  "reading" : "せってん",
+  "romaji" : null,
+  "meaning" : [ "接点，接触点；（人际关系等的）接触、联系点" ],
+  "notes" : [ "常用于电气、机械等领域描述物体接触的部位，也可用于抽象的人际关系等方面。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6428,
+  "word" : "接種",
+  "reading" : "せっしゅ",
+  "romaji" : null,
+  "meaning" : [ "接种，注射；（疫苗等的）接种" ],
+  "notes" : [ "「接種」是名词，常与「する」搭配使用，表示“进行接种”的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6429,
+  "word" : "接続",
+  "reading" : "せつぞく",
+  "romaji" : null,
+  "meaning" : [ "接续；连接；衔接" ],
+  "notes" : [ "常用于描述事物之间的连接关系，如语法中的词与词的接续等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6430,
+  "word" : "接触",
+  "reading" : "せっしょく",
+  "romaji" : null,
+  "meaning" : [ "1. 物体同士が触れること。（物体相互接触）；2. 人や物と交流し、関係を持つこと。（与人或事物交往、打交道）" ],
+  "notes" : [ "「接触」作为名词使用时可直接修饰后续成分；作为サ変動詞时，常见形式为「接触する」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6431,
+  "word" : "接近",
+  "reading" : "せっきん",
+  "romaji" : null,
+  "meaning" : [ "接近；靠近；关系密切；亲近" ],
+  "notes" : [ "该词为汉字词，在使用时多用其サ変动词词性。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6432,
+  "word" : "控えめ",
+  "reading" : "ひかえめ",
+  "romaji" : null,
+  "meaning" : [ "保守，谨慎；节制；朴素，不张扬" ],
+  "notes" : [ "形容动词在句中作谓语时，词尾要加「です」；作定语时，词尾变为「な」来修饰名词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6433,
+  "word" : "控える",
+  "reading" : "ひかえる",
+  "romaji" : null,
+  "meaning" : [ "1. 抑制，控制，节制；2. 记录，记下；3. 靠近，临近；4. 等候，待命；5. 准备，预备" ],
+  "notes" : [ "该动词的否定形式是「控えない」，过去式是「控えた」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6434,
+  "word" : "控訴",
+  "reading" : "こうそ",
+  "romaji" : null,
+  "meaning" : [ "上诉；控诉" ],
+  "notes" : [ "该词源自法律领域，在法律相关场景中较为常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6435,
+  "word" : "控除",
+  "reading" : "こうじょ",
+  "romaji" : null,
+  "meaning" : [ "扣除；减去。指从总数中减去一定的数额。" ],
+  "notes" : [ "该词为名词，常与「する」搭配使用，表示扣除的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6436,
+  "word" : "推し進める",
+  "reading" : "おしすすめる",
+  "romaji" : null,
+  "meaning" : [ "推进；推动；推行；促进。" ],
+  "notes" : [ "该词为他动词，在使用时需注意其宾语的搭配。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6437,
+  "word" : "推定",
+  "reading" : "すいてい",
+  "romaji" : null,
+  "meaning" : [ "推断，推算；设想；推测、假定" ],
+  "notes" : [ "该词作为名词使用，常与「する」搭配构成动宾结构表达动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6438,
+  "word" : "推測",
+  "reading" : "すいそく",
+  "romaji" : null,
+  "meaning" : [ "推测，猜测；根据已知情况对未知事物的状态或发展进行想象和判断。" ],
+  "notes" : [ "该词为音读词汇，由汉语词汇演变而来。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6439,
+  "word" : "推理",
+  "reading" : "すいり",
+  "romaji" : null,
+  "meaning" : [ "推理，推断；逻辑推理，通过已知信息得出结论的过程" ],
+  "notes" : [ "该词为音读词汇，在日语中主要作为名词使用，用于表达逻辑思考和推断的行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6440,
+  "word" : "推移",
+  "reading" : "すいい",
+  "romaji" : null,
+  "meaning" : [ "推移；变迁；演变" ],
+  "notes" : [ "该词为名词，在句子中常与「に伴って」等搭配使用，表示随着事物的发展变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6441,
+  "word" : "推薦",
+  "reading" : "すいせん",
+  "romaji" : null,
+  "meaning" : [ "推荐、举荐；推选" ],
+  "notes" : [ "该词为音读词汇，在日语中常用来表达推荐某人或某物的意思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6442,
+  "word" : "推薦する",
+  "reading" : "すいせんする",
+  "romaji" : null,
+  "meaning" : [ "推荐；举荐" ],
+  "notes" : [ "「推薦する」是较为正式的表达，常用于书面语或正式场合。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6443,
+  "word" : "推進",
+  "reading" : "すいしん",
+  "romaji" : null,
+  "meaning" : [ "推广；促进；推进。" ],
+  "notes" : [ "“推進”是サ变动词，使用时通常以“推進する”的形式出现，表达推进、促进某事物的意思。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6444,
+  "word" : "措置",
+  "reading" : "そち",
+  "romaji" : null,
+  "meaning" : [ "措施；处理；处置。" ],
+  "notes" : [ "常用于正式场合，描述针对特定情况采取的行动或安排。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6445,
+  "word" : "掬う",
+  "reading" : "すくう",
+  "romaji" : null,
+  "meaning" : [ "掬，捞，捧；舀；捧起水等液体；收集、汇集；获得、得到" ],
+  "notes" : [ "该词为五段动词，其词尾变化遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6446,
+  "word" : "掲げる",
+  "reading" : "かかげる",
+  "romaji" : null,
+  "meaning" : [ "高举，悬挂；刊登，登载；提出；宣扬，提倡" ],
+  "notes" : [ "「掲げる」是他动词，使用时需注意宾语的搭配。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6447,
+  "word" : "掲示",
+  "reading" : "けいじ",
+  "romaji" : null,
+  "meaning" : [ "布告，公布；张贴（通知、告示等）" ],
+  "notes" : [ "该词为名词，常与「する」搭配使用，表示张贴、公布的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6448,
+  "word" : "掲示板",
+  "reading" : "けいじばん",
+  "romaji" : null,
+  "meaning" : [ "布告板，告示牌，告示栏，公告栏" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6449,
+  "word" : "掲載",
+  "reading" : "けいさい",
+  "romaji" : null,
+  "meaning" : [ "登载，刊登；把文章、广告、照片等印在报纸、杂志等媒体上展示" ],
+  "notes" : [ "「掲載」是サ変動詞，使用时常见形式为「掲載する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6450,
+  "word" : "掴み取る",
+  "reading" : "つかみとる",
+  "romaji" : null,
+  "meaning" : [ "抓取，拿到；掌握，理解；抓住（机会等）" ],
+  "notes" : [ "“掴み取る”强调通过一定动作抓取或掌握某物，比单纯的“掴む”更具主动性和动态感。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6451,
+  "word" : "掴む",
+  "reading" : "つかむ",
+  "romaji" : null,
+  "meaning" : [ "抓住；掌握，理解；领会；揪住；逮捕" ],
+  "notes" : [ "该词为五段动词，词尾变化遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6452,
+  "word" : "掻き回す",
+  "reading" : "かきまわす",
+  "romaji" : null,
+  "meaning" : [ "搅拌；乱翻，乱弄；搅乱；煽动，挑拨" ],
+  "notes" : [ "该词为五段动词，词尾为す，在日语中使用较为常见，可用于描述实际的搅拌动作，也可用于抽象意义上的煽动、搅乱等情况。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6453,
+  "word" : "掻く",
+  "reading" : "かく",
+  "romaji" : null,
+  "meaning" : [ "挠；抓；擦；搔；出（汗）；搅和；搅拌" ],
+  "notes" : [ "该词为五段动词，词尾是「く」，在日语中使用较为常见，用于描述用手抓、挠等动作，也可以形容出汗的状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6454,
+  "word" : "揃い",
+  "reading" : "そろい",
+  "romaji" : null,
+  "meaning" : [ "成套，成组；（多人）聚在一起；齐全，完备" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6455,
+  "word" : "揃う",
+  "reading" : "そろう",
+  "romaji" : null,
+  "meaning" : [ "集齐，到齐；一致；齐全，完备；排列整齐" ],
+  "notes" : [ "该词为自动词，使用时要注意句子的语法结构。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6456,
+  "word" : "揃える",
+  "reading" : "そろえる",
+  "romaji" : null,
+  "meaning" : [ "凑齐；使……一致；备齐；使排列整齐" ],
+  "notes" : [ "该词强调通过人为的动作使事物达到整齐、齐全或一致的状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6457,
+  "word" : "揉む",
+  "reading" : "もむ",
+  "romaji" : null,
+  "meaning" : [ "揉，搓；按摩（肩、腰等部位）；争论，争执；推敲（文章等）" ],
+  "notes" : [ "该词在不同语境下有不同含义，使用时需根据上下文理解。在表示按摩时，常搭配身体部位使用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6458,
+  "word" : "揉める",
+  "reading" : "もめる",
+  "romaji" : null,
+  "meaning" : [ "发生争执；吵架；关系不和；心神不定" ],
+  "notes" : [ "该词常用于描述人与人之间产生矛盾、冲突的场景，也可用于表达内心的不安。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6459,
+  "word" : "描く",
+  "reading" : "えがく",
+  "romaji" : null,
+  "meaning" : [ "画；描绘；描写；勾勒" ],
+  "notes" : [ "该词是五段动词，词尾为「く」，在进行词形变化时遵循五段动词的变化规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6460,
+  "word" : "描写",
+  "reading" : "びょうしゃ",
+  "romaji" : null,
+  "meaning" : [ "描写，描绘；对事物的形象、特征等进行具体的描述" ],
+  "notes" : [ "该词为音读词汇，常用于文学创作、艺术等领域中表达对事物的刻画描述。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6461,
+  "word" : "提げる",
+  "reading" : "さげる",
+  "romaji" : null,
+  "meaning" : [ "提，挎；下垂，放下；降低，减低；使……下降" ],
+  "notes" : [ "该词为他动词，使用时要注意其宾语的搭配。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6462,
+  "word" : "提供",
+  "reading" : "ていきょうする",
+  "romaji" : null,
+  "meaning" : [ "提供；供给" ],
+  "notes" : [ "三类动词，词尾为「する」，在使用时遵循三类动词的活用规则。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6463,
+  "word" : "提出",
+  "reading" : "ていしゅつ",
+  "romaji" : null,
+  "meaning" : [ "上交，提交；提出（意见、方案等）" ],
+  "notes" : [ "该词为サ变动词，其词干是“提出”，后续接“する”构成动词形式。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6464,
+  "word" : "提出します",
+  "reading" : "ていしゅつします",
+  "romaji" : null,
+  "meaning" : [ "提交，提出；呈交；申报" ],
+  "notes" : [ "“提出します”是“提出する”的礼貌体形式，常用于正式场合表达提交或提出某种事物。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6465,
+  "word" : "提携",
+  "reading" : "ていけい",
+  "romaji" : null,
+  "meaning" : [ "合作，协作；携手，联合" ],
+  "notes" : [ "该词为名词，在句子中常和「する」搭配使用，表示合作的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6466,
+  "word" : "提案",
+  "reading" : "ていあん",
+  "romaji" : null,
+  "meaning" : [ "提案，建议；提出方案" ],
+  "notes" : [ "该词为音读词汇，在商务、会议等场景中常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6467,
+  "word" : "提案します",
+  "reading" : "ていあんします",
+  "romaji" : null,
+  "meaning" : [ "提出建议；提出提案" ],
+  "notes" : [ "「提案する」是三类动词，其ます形为「提案します」，用于正式或书面表达提出建议、方案等。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6468,
+  "word" : "提示",
+  "reading" : "ていじ",
+  "romaji" : null,
+  "meaning" : [ "出示；提示；提供。" ],
+  "notes" : [ "该词在日语中作为名词使用，通常用于表示给出某种信息或指示。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6469,
+  "word" : "揚げます",
+  "reading" : "あげます0",
+  "romaji" : null,
+  "meaning" : [ "举起；扬起；升起；炸；放（风筝等）；提高；提拔；使扬名等" ],
+  "notes" : [ "该动词是一段动词，其基本形为「揚げる」，在使用时需注意动词的变形规则。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6470,
+  "word" : "揚げる",
+  "reading" : "あげる",
+  "romaji" : null,
+  "meaning" : [ "举起；抬起；提高；提拔；扬起；油炸；扬起（灰尘等）；钓起；扬起（帆等）；举起（杯子等）干杯；扬名；发扬；抚养大；收获；解除（禁令等）" ],
+  "notes" : [ "该词常见搭配有手を揚げる（举手） 、油で揚げる（油炸）等。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6471,
+  "word" : "換えます",
+  "reading" : "かえます",
+  "romaji" : null,
+  "meaning" : [ "交换，更换；兑换；改变，转变" ],
+  "notes" : [ "该词是“換える”的礼貌体形式，常用于日常交流中表达交换、更换等动作。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6472,
+  "word" : "換える",
+  "reading" : "かえる",
+  "romaji" : null,
+  "meaning" : [ "更换，交换；改变，更改；兑换" ],
+  "notes" : [ "该词是一段动词，词尾为「える」。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6473,
+  "word" : "換気",
+  "reading" : "かんき",
+  "romaji" : null,
+  "meaning" : [ "换气，通风；特指通过空气的流通来更新室内空气的行为" ],
+  "notes" : [ "该词通常后接助词「を」，与动词「する」搭配使用，表示进行换气的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6474,
+  "word" : "換算",
+  "reading" : "かんさん",
+  "romaji" : null,
+  "meaning" : [ "换算，折合；将一种单位、数值等按照一定的比率转换为另一种单位、数值。" ],
+  "notes" : [ "该词主要用于数学、金融、计量等领域，进行不同单位或数值之间的转换计算。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6475,
+  "word" : "換算します",
+  "reading" : "かんさんします",
+  "romaji" : null,
+  "meaning" : [ "换算；折合。将一种单位、数量、价值等转换为另一种单位、数量或价值。" ],
+  "notes" : [ "该词为サ变动词，其基本型是「換算する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6476,
+  "word" : "握り寿司",
+  "reading" : "にぎりずし",
+  "romaji" : null,
+  "meaning" : [ "名词，指用手将米饭攥成小块，再加上生鱼片等食材制成的寿司，即手攥寿司。" ],
+  "notes" : [ "这是日本传统美食之一，常见于寿司店。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6477,
+  "word" : "握る",
+  "reading" : "にぎる",
+  "romaji" : null,
+  "meaning" : [ "抓，握；掌握；攥（饭团、寿司）；抓住（机会等）" ],
+  "notes" : [ "该词为五段动词，在进行词形变化时遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6478,
+  "word" : "握手",
+  "reading" : "あくしゅ",
+  "romaji" : null,
+  "meaning" : [ "握手；和好；妥协" ],
+  "notes" : [ "该词为名词，在使用时需搭配合适的动词，如「する」等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6479,
+  "word" : "援助",
+  "reading" : "えんじょ",
+  "romaji" : null,
+  "meaning" : [ "帮助，援助，支持" ],
+  "notes" : [ "该词为サ变动词，使用时通常后续「する」构成动词形态，表示行为动作。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6480,
+  "word" : "揺さぶる",
+  "reading" : "ゆさぶる",
+  "romaji" : null,
+  "meaning" : [ "摇动，晃动；震撼，震惊；鼓动，煽动" ],
+  "notes" : [ "该词为五段动词，词尾为「る」，但不属于一段动词，在变形时遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6481,
+  "word" : "揺らぐ",
+  "reading" : "ゆらぐ",
+  "romaji" : null,
+  "meaning" : [ "摇晃；摇曳；动摇；不稳定" ],
+  "notes" : [ "该词为自动词，表示物体自身的摇晃或人的意志、态度等的动摇。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6482,
+  "word" : "揺らす",
+  "reading" : "ゆらす",
+  "romaji" : null,
+  "meaning" : [ "摇晃，晃动；使动摇；使不稳定" ],
+  "notes" : [ "该词为他动词，强调使物体产生摇晃、动摇的动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6483,
+  "word" : "揺るがす",
+  "reading" : "ゆるがす",
+  "romaji" : null,
+  "meaning" : [ "摇动；使动摇；颤动；使震动；使不稳定；使不坚定；使改变。" ],
+  "notes" : [ "该词为他动词，强调使事物发生动摇的动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6484,
+  "word" : "揺れ",
+  "reading" : "ゆれ",
+  "romaji" : null,
+  "meaning" : [ "晃动，摇晃，震动；动摇，波动" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6485,
+  "word" : "揺れる",
+  "reading" : "ゆれる",
+  "romaji" : null,
+  "meaning" : [ "摇晃；摆动；摇动；晃动；动摇；摇摆；犹豫；波动；震动；颤动" ],
+  "notes" : [ "「揺れる」是自动词，表示物体自身的摇晃、摆动等状态。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6486,
+  "word" : "損",
+  "reading" : "そん",
+  "romaji" : null,
+  "meaning" : [ "亏损；吃亏，不利" ],
+  "notes" : [ "「損」作为名词使用，常与「する」等动词搭配，表示出现损失的情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6487,
+  "word" : "損なう",
+  "reading" : "そんなう",
+  "romaji" : null,
+  "meaning" : [ "损坏（物品）；伤害，损害（健康、感情等）；减少，降低（价值、效果等）" ],
+  "notes" : [ "该词为五段动词，词尾变化遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6488,
+  "word" : "損失",
+  "reading" : "そんしつ",
+  "romaji" : null,
+  "meaning" : [ "损失；亏损。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6489,
+  "word" : "損害",
+  "reading" : "そんがい",
+  "romaji" : null,
+  "meaning" : [ "损害，损失；特指因自然灾害、事故、他人的错误行为等导致的财物、健康、名誉等方面的损失" ],
+  "notes" : [ "该词常用于描述各种损失情况，在法律、保险等领域也经常使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6490,
+  "word" : "損得",
+  "reading" : "そんとく",
+  "romaji" : null,
+  "meaning" : [ "得失；盈亏；利害" ],
+  "notes" : [ "该词常用于商业、经济等领域，表示利益和损失的情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6491,
+  "word" : "搔き乱す",
+  "reading" : "かきみだす",
+  "romaji" : null,
+  "meaning" : [ "搅乱，弄乱；扰乱，制造混乱；使（情绪等）不平静" ],
+  "notes" : [ "该词中‘搔き’的汉字也可写作‘掻き’。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6492,
+  "word" : "携える",
+  "reading" : "たずさえる",
+  "romaji" : null,
+  "meaning" : [ "携带，拿；携手，偕同；带领，率领" ],
+  "notes" : [ "该词为他动词，使用时需要注意宾语的搭配。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6493,
+  "word" : "携わる",
+  "reading" : "たずさわる",
+  "romaji" : null,
+  "meaning" : [ "参与，从事；牵涉，关联" ],
+  "notes" : [ "该词是自动词，使用时需注意搭配。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6494,
+  "word" : "携帯",
+  "reading" : "けいたい",
+  "romaji" : null,
+  "meaning" : [ "携带；便携式；手机" ],
+  "notes" : [ "“携帯”常见用来表示“手机”，在日常交流中很常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6495,
+  "word" : "携帯小説",
+  "reading" : "けいたいしょうせつ",
+  "romaji" : null,
+  "meaning" : [ "手机小说，指主要通过手机阅读或创作的小说" ],
+  "notes" : [ "这是一个现代社会产生的新词汇，反映了随着手机普及而出现的一种文学形式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6496,
+  "word" : "携帯電話",
+  "reading" : "けいたいでんわ",
+  "romaji" : null,
+  "meaning" : [ "手机；移动电话" ],
+  "notes" : [ "“携帯”较口语化，在日常交流中也可直接用“携帯”表示手机。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6497,
+  "word" : "摂取",
+  "reading" : "せっしゅ",
+  "romaji" : null,
+  "meaning" : [ "摄取（营养、水分等物质）；吸收（知识、文化等抽象事物）" ],
+  "notes" : [ "该词为サ变动词，在句中常与“を”搭配使用，表示摄取的对象。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6498,
+  "word" : "摘む",
+  "reading" : "つむ",
+  "romaji" : null,
+  "meaning" : [ "摘，采，掐；揪；挑剔，找毛病" ],
+  "notes" : [ "该词为五段动词，词尾为「む」，在进行词形变化时遵循五段动词的规则。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6499,
+  "word" : "摘出",
+  "reading" : "てきしゅつ",
+  "romaji" : null,
+  "meaning" : [ "摘除，取出；指出；提取；选出" ],
+  "notes" : [ "常用于医学领域表示摘除物体，也可用于抽象概念如指出问题等。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 6500,
+  "word" : "摩る",
+  "reading" : "する",
+  "romaji" : null,
+  "meaning" : [ "摸，抚摸；搓；摩擦；研磨；钻研" ],
+  "notes" : [ "该词在不同语境中有不同的侧重点，如表示抚摸时多用于对待动物或柔软物体；表示摩擦、研磨时多用于物体之间的动作；表示钻研时多用于学习、技艺等方面。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+} ]

@@ -1,0 +1,901 @@
+[ {
+  "id" : 3401,
+  "word" : "公衆電話",
+  "reading" : "こうしゅうでんわ",
+  "romaji" : null,
+  "meaning" : [ "公用电话。设置在公共场所供公众使用的付费电话。" ],
+  "notes" : [ "是日本语能力测试（JLPT）N4级别的常见词汇。虽然现代使用频率下降，但作为基础词汇和公共标识的一部分仍然重要。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3402,
+  "word" : "公表",
+  "reading" : "こうひょう",
+  "romaji" : null,
+  "meaning" : [ "向公众或社会公布、发表（信息、结果、意见等）。" ],
+  "notes" : [ "作为サ变动词使用时，词干「公表」与助动词「する」结合构成动词。常见搭配有「～を公表する」。在正式场合和书面语中常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3403,
+  "word" : "公言",
+  "reading" : "こうげん",
+  "romaji" : null,
+  "meaning" : [ "公开声明，公开宣称" ],
+  "notes" : [ "「公言する」是常见的动词形式。这是一个比较正式的词，通常用于公开场合或正式声明。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3404,
+  "word" : "公認",
+  "reading" : "こうにん",
+  "romaji" : null,
+  "meaning" : [ "官方承认；公认" ],
+  "notes" : [ "作为名词或サ变动词使用，表示由权威机构或社会普遍给予的正式承认。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3405,
+  "word" : "公開",
+  "reading" : "こうかい",
+  "romaji" : null,
+  "meaning" : [ "1. 公之于众，公开（信息、作品等）。2. 对公众开放，允许公众进入（设施、场所等）。3. （电影）公映，上映。" ],
+  "notes" : [ "作为名词和サ变动词使用。当表示“电影上映”时，是常用义项。其对应的自动词形式为「公開される」。在表示“公开信息”时，与「公表」意思相近，但「公開」更侧重于使信息可被公众获取的状态，而「公表」更侧重于宣布、发表这一行为本身。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3406,
+  "word" : "六",
+  "reading" : "ろく",
+  "romaji" : null,
+  "meaning" : [ "数字的6；六。" ],
+  "notes" : [ "作为基数词使用。在表示数量时，常与助数词结合，如「六個（ろっこ）」、「六本（ろっぽん）」等，此时会发生促音便。也可用于表示顺序，如「六番（ろくばん）」。" ],
+  "pos" : "NUM",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3407,
+  "word" : "六つ",
+  "reading" : "むっつ",
+  "romaji" : null,
+  "meaning" : [ "六个；六岁" ],
+  "notes" : [ "「六つ」是日语中表示数量6的传统说法，用于计数物品或年龄。在表示年龄时，通常用于儿童。现代日语中计数物品也常用「六個（ろっこ）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3408,
+  "word" : "共に",
+  "reading" : "ともに",
+  "romaji" : null,
+  "meaning" : [ "一緒に、同時に、両方とも。ある事柄が複数のものに共通していることを表す。" ],
+  "notes" : [ "「ともに」と表記されることも多い。書き言葉的で、やや硬い表現。日常会話では「一緒に」がより一般的に使われる。名詞を修飾する場合は「～と共に」の形を取る（例：家族と共に過ごす時間）。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3409,
+  "word" : "共働き",
+  "reading" : "ともばたらき",
+  "romaji" : null,
+  "meaning" : [ "夫婦が共に働くこと。共稼ぎ。" ],
+  "notes" : [ "「ともばたらき」が一般的な読み方。「きょうどうき」と読むこともあるが稀。日常会話では「共働き」と言うことが多いが、公式文書などでは「共稼ぎ（ともかせぎ）」も用いられる。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3410,
+  "word" : "共同",
+  "reading" : "きょうどう",
+  "romaji" : null,
+  "meaning" : [ "複数の人や団体が、同じ事柄を共に行ったり、同じ状態にあること。共有。" ],
+  "notes" : [ "「共同で」の形で副詞的に用いられることが多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3411,
+  "word" : "共存",
+  "reading" : "きょうぞん",
+  "romaji" : null,
+  "meaning" : [ "共存，共处" ],
+  "notes" : [ "虽然「共存する」可以作为动词使用，但「共存」本身是一个名词。在动词用法中，它属于サ行変格活用（サ変動詞）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3412,
+  "word" : "共感",
+  "reading" : "きょうかん",
+  "romaji" : null,
+  "meaning" : [ "同感，共鸣，同情" ],
+  "notes" : [ "常作为サ变动词「共感する」使用，表示对某人的感情、意见等产生共鸣或同情。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3413,
+  "word" : "共通",
+  "reading" : "きょうつう",
+  "romaji" : null,
+  "meaning" : [ "名词：共同，共通；形容动词：共同的，共通的" ],
+  "notes" : [ "作为形容动词使用时，活用形式为「共通だ・共通な・共通に」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3414,
+  "word" : "共通点",
+  "reading" : "きょうつうてん",
+  "romaji" : null,
+  "meaning" : [ "共同点，共通之处" ],
+  "notes" : [ "「共通点」是名词，表示两个或多个事物之间共同具有的特点、性质或要素。注意其发音为「きょうつうてん」，不是「きょうつうでん」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3415,
+  "word" : "共通語",
+  "reading" : "きょうつうご",
+  "romaji" : null,
+  "meaning" : [ "1. 通用语，共同语（一个地区或社群内不同人群共同使用的语言）。2. 特指在日本，以东京方言为基础形成的标准日本语。" ],
+  "notes" : [ "在日语语境中，「共通語」通常与「標準語」（标准语）同义，但严格来说，「共通語」更强调其作为沟通工具的功能，而「標準語」更强调其规范地位。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3416,
+  "word" : "共食い",
+  "reading" : "ともぐい",
+  "romaji" : null,
+  "meaning" : [ "1. 同種の生物が互いに捕食すること。 2. 同類や仲間が互いに争って利益を奪い合うこと。" ],
+  "notes" : [ "「共喰い」とも書く。比喩的な意味（意味2）で使われることも多い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3417,
+  "word" : "共鳴",
+  "reading" : "きょうめい",
+  "romaji" : null,
+  "meaning" : [ "1. 共鸣，共振；2. 同感，赞同" ],
+  "notes" : [ "可作为サ变动词使用，如「共鳴する」。在物理学和情感/思想领域均有使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3418,
+  "word" : "兵",
+  "reading" : "へい",
+  "romaji" : null,
+  "meaning" : [ "1. 兵士，士兵。2. 军队，军事力量。" ],
+  "notes" : [ "该词主要作为书面语使用，在口语中更常用「兵士（へいし）」来指代士兵。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3419,
+  "word" : "兵器",
+  "reading" : "へいき",
+  "romaji" : null,
+  "meaning" : [ "兵器，武器，特指军事用途的武器、装备" ],
+  "notes" : [ "“兵器”一词通常用于军事、战争等正式或规模较大的语境，区别于日常生活中的“武器（ぶき）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3420,
+  "word" : "兵隊",
+  "reading" : "へいたい",
+  "romaji" : null,
+  "meaning" : [ "军队；士兵；军人" ],
+  "notes" : [ "口语中常用，有时略带轻视或亲昵的语气。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3421,
+  "word" : "具",
+  "reading" : "ぐ",
+  "romaji" : null,
+  "meaning" : [ "1. 器具，工具。2. 材料，配料。3. 手段，方法。" ],
+  "notes" : [ "通常不单独使用，多作为复合词的组成部分，如「道具」、「用具」、「具合」、「具材」等。作为“配料”义时，常以「具（ぐ）」或「具（ぐ）」的形式出现。在JLPT考试中，其作为独立单词的考察频率相对较低，但相关复合词（如「道具」、「用具」）在N4-N3级别常见。因此将独立词条“具”的级别定为N2。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3422,
+  "word" : "具体",
+  "reading" : "ぐたい",
+  "romaji" : null,
+  "meaning" : [ "具体的；详细而明确的样子。" ],
+  "notes" : [ "作为形容动词使用时，其连用形为「具体に」，连体形为「具体な」。常与「抽象」一词相对使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3423,
+  "word" : "具体的",
+  "reading" : "ぐたいてき",
+  "romaji" : null,
+  "meaning" : [ "具体的な（形動） 具体的に（副） 具体的だ（終止形）" ],
+  "notes" : [ "「的」で終わる形容動詞の一つ。否定形は「具体的ではない」、過去形は「具体的だった」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3424,
+  "word" : "具合",
+  "reading" : "ぐあい",
+  "romaji" : null,
+  "meaning" : [ "1. 身体、事物等的状态、情况、样子。2. 时机、方便、合适。" ],
+  "notes" : [ "多指身体、机械等的具体状态或情况。在表示“时机/方便”时，常以“具合がいい/悪い”的形式使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3425,
+  "word" : "典型",
+  "reading" : "てんけい",
+  "romaji" : null,
+  "meaning" : [ "典型；模范；代表性的事物" ],
+  "notes" : [ "作为名词使用。有时也写作‘典型（てんけい）’。在口语中也可说‘典型的（てんけいてき）な’作为形容动词使用，表示‘典型的’。其难度级别通常高于N3。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3426,
+  "word" : "兼ねる",
+  "reading" : "かねる",
+  "romaji" : null,
+  "meaning" : [ "① 一つのものが二つ以上の役割や機能を果たす。兼務する、兼任する。② （動詞の連用形に接続して）～することを困難に感じる、～することができない。" ],
+  "notes" : [ "「②」の用法では、主に「～かねる」の形で、婉曲的な否定表現として用いられる。硬い表現で、ビジネスや公式な場面でよく使われる。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3427,
+  "word" : "兼ね備える",
+  "reading" : "かねそなえる",
+  "romaji" : null,
+  "meaning" : [ "同時に二つ以上の性質や機能を持っていること。両方備えていること。" ],
+  "notes" : [ "「兼ね備える」は「兼ねる」と「備える」が複合した動詞で、よりフォーマルな表現です。口語では「両方持っている」と言い換えることも多いです。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3428,
+  "word" : "兼備",
+  "reading" : "けんび",
+  "romaji" : null,
+  "meaning" : [ "兼备，兼具" ],
+  "notes" : [ "作为サ变动词（する动词）使用，常用形式为「～を兼備する」。虽然有时被标注为N3，但实际使用频率和正式度较高，更符合N1级别词汇的特征。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3429,
+  "word" : "兼業",
+  "reading" : "けんぎょう",
+  "romaji" : null,
+  "meaning" : [ "副业，兼职；兼营（指同时从事两种或两种以上的职业或业务）" ],
+  "notes" : [ "「兼業」是一个名词，但常以「兼業する」的形式作为サ变动词使用。作为名词使用时，可以指「兼業主婦」等复合词。该词更常出现在商业或正式语境中，日常会话中「副業（ふくぎょう）」更常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3430,
+  "word" : "内",
+  "reading" : "うち",
+  "romaji" : null,
+  "meaning" : [ "内部；里面；自己人；家庭；自己所属的团体或组织；在...之内（表示时间、范围、数量等）" ],
+  "notes" : [ "作为名词时，常与「の」连用，构成「〜の内」的形式，表示“...的内部”。也常以「内に」的形式作副词使用，表示“在...之内”。其反义词是「外（そと）」。在表示“家庭”、“自己人”等含义时，属于较为口语化的用法。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3431,
+  "word" : "内乱",
+  "reading" : "ないらん",
+  "romaji" : null,
+  "meaning" : [ "内战，内乱。指一个国家内部发生的武装冲突或叛乱。" ],
+  "notes" : [ "「内乱」是一个书面语感较强的词，常用于政治、历史领域。在日语中，更口语化的表达可以是「内戦（ないせん）」。这是一个不常变化的普通名词，不属于动词，因此没有活用类型。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3432,
+  "word" : "内側",
+  "reading" : "うちがわ",
+  "romaji" : null,
+  "meaning" : [ "内侧，里面" ],
+  "notes" : [ "与「外側（そとがわ）」相对。也可读作「ないそく」，但作为常用词时读作「うちがわ」更为普遍。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3433,
+  "word" : "内向的",
+  "reading" : "ないこうてき",
+  "romaji" : null,
+  "meaning" : [ "内気で、自分の内面の世界に意識が向く性質や傾向。外向的の反対。" ],
+  "notes" : [ "「的」が付いているが、英語の‘-ic’などの訳語としての形容動詞。活用は「な・に・だ・な・なら」のナリ活用に従う。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3434,
+  "word" : "内定",
+  "reading" : "ないてい",
+  "romaji" : null,
+  "meaning" : [ "1. 内部决定；内定（尤指录用、入学等的非正式但已确定的决定）。" ],
+  "notes" : [ "该词通常指在正式公布或通知前，在组织内部已经做出的决定。在求职语境中最为常见，表示“录用内定”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3435,
+  "word" : "内容",
+  "reading" : "ないよう",
+  "romaji" : null,
+  "meaning" : [ "内容；内含物；事项；目录" ],
+  "notes" : [ "这是一个名词，通常用来表示事物内部包含的东西、具体的事项或目录。作为名词，没有活用变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3436,
+  "word" : "内幕",
+  "reading" : "うちまく",
+  "romaji" : null,
+  "meaning" : [ "内幕，内情，内部不为人知的实情" ],
+  "notes" : [ "该词多用于指组织、事件等内部不公开或不为人知的详细情况，常带有负面或隐秘的语感。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3437,
+  "word" : "内心",
+  "reading" : "ないしん",
+  "romaji" : null,
+  "meaning" : [ "内心，心中，真实想法" ],
+  "notes" : [ "这是一个名词，指内心深处的想法或真实感受，与外在表现（本音）相对，有时也与“外見”（外表）相对。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3438,
+  "word" : "内気",
+  "reading" : "うちき",
+  "romaji" : null,
+  "meaning" : [ "性格が内向的で、恥ずかしがり屋なさま。人見知りが激しく、人前で自分を出せない様子。" ],
+  "notes" : [ "「内気」は名詞としても用いられるが、形容動詞（な形容詞）として使用されることが多い。漢字表記は「内気」が一般的。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3439,
+  "word" : "内科",
+  "reading" : "ないか",
+  "romaji" : null,
+  "meaning" : [ "内科（医学的一个分支，负责诊断和治疗不通过手术干预的疾病，如感冒、高血压、糖尿病、消化系统疾病等）；也指医院的内科部门。" ],
+  "notes" : [ "作为医学领域的专业术语，在JLPT考试中常作为词汇出现。与表示外科的「外科（げか）」相对。通常不进行活用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3440,
+  "word" : "内緒",
+  "reading" : "ないしょ",
+  "romaji" : null,
+  "meaning" : [ "秘密，不公开；私下，背着人" ],
+  "notes" : [ "常用表达有「内緒にする」（保密）、「内緒の話」（秘密谈话）。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3441,
+  "word" : "内線",
+  "reading" : "ないせん",
+  "romaji" : null,
+  "meaning" : [ "内线电话；公司或机构内部的电话线路" ],
+  "notes" : [ "常用短语有「内線電話（ないせんでんわ）」。作为名词，没有活用变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3442,
+  "word" : "内縁",
+  "reading" : "ないえん",
+  "romaji" : null,
+  "meaning" : [ "法律上の婚姻手続きを経ていないが、事実上婚姻関係と同様の状態にあること。事実婚。" ],
+  "notes" : [ "法律用語であり、日常会話では「事実婚（じじつこん）」と言うことが多い。法律上の権利（相続、税金、社会保障など）が正式な婚姻と異なる点に注意。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3443,
+  "word" : "内職",
+  "reading" : "ないしょく",
+  "romaji" : null,
+  "meaning" : [ "(1) 副业；兼职 (指在主要工作或学习之外从事的工作) (2) (在上课时) 做别的事；开小差" ],
+  "notes" : [ "作为名词和サ变动词使用。含义(2)带有贬义，多指在课堂、会议等正式场合不专心而做其他事情。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3444,
+  "word" : "内臓",
+  "reading" : "ないぞう",
+  "romaji" : null,
+  "meaning" : [ "内脏。指位于生物体内部的器官，如心、肝、胃、肠等。" ],
+  "notes" : [ "通常指人和动物体内的器官。在生物学和医学中常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3445,
+  "word" : "内訳",
+  "reading" : "うちわけ",
+  "romaji" : null,
+  "meaning" : [ "明细，详细内容；按项目细分后的内容" ],
+  "notes" : [ "常用短语为「～の内訳」，表示“…的明细”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3446,
+  "word" : "内閣",
+  "reading" : "ないかく",
+  "romaji" : null,
+  "meaning" : [ "内阁；日本等国家的最高行政机关。" ],
+  "notes" : [ "作为政治术语，属于正式书面语。在日语中，特指日本内阁时，常直接使用「内閣」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3447,
+  "word" : "内陸",
+  "reading" : "ないりく",
+  "romaji" : null,
+  "meaning" : [ "内陆，远离海岸的地区。" ],
+  "notes" : [ "这是一个常用名词，没有复杂的活用形式。其反义词是「沿岸」或「海岸」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3448,
+  "word" : "内需",
+  "reading" : "ないじゅ",
+  "romaji" : null,
+  "meaning" : [ "国内需要。国内の消費や投資など、国内経済を支える需要のこと。" ],
+  "notes" : [ "「内需」は、対義語の「外需（がいじゅ）」と対比して使われることが多い。経済やビジネスの文脈で使用される専門用語に近い。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3449,
+  "word" : "円",
+  "reading" : "えん",
+  "romaji" : null,
+  "meaning" : [ "①圆形；②日元（日本的货币单位）" ],
+  "notes" : [ "作为货币单位时，常与数字一起使用，如「一円（いちえん）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3450,
+  "word" : "円周",
+  "reading" : "えんしゅう",
+  "romaji" : null,
+  "meaning" : [ "（数学）圆周。" ],
+  "notes" : [ "数学用语。与「円周率（えんしゅうりつ）」等词组合使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3451,
+  "word" : "円安",
+  "reading" : "えんやす",
+  "romaji" : null,
+  "meaning" : [ "日元贬值（指日元相对于其他货币的汇率下降）" ],
+  "notes" : [ "経済・金融関連の専門用語。対義語は「円高」。通常、他の通貨に対して円の価値が下がることを指す。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3452,
+  "word" : "円形",
+  "reading" : "えんけい",
+  "romaji" : null,
+  "meaning" : [ "圆形" ],
+  "notes" : [ "是一个表示形状的名词，没有活用变化。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3453,
+  "word" : "円満",
+  "reading" : "えんまん",
+  "romaji" : null,
+  "meaning" : [ "圆满，美满；和谐，没有纷争。形容人际关系、事情进展等顺利、完美。" ],
+  "notes" : [ "作为形容动词使用时，连体形为「円満な」，连用形为「円満に」。常用搭配有「円満な家庭」、「円満な解決」、「性格が円満」等。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3454,
+  "word" : "円滑",
+  "reading" : "えんかつ",
+  "romaji" : null,
+  "meaning" : [ "1. 顺利，顺畅，没有阻碍。 2. 圆滑，圆融，善于交际。" ],
+  "notes" : [ "作为な形容词（形容动词）使用，在修饰名词时，词干后接「な」，如「円滑な関係」。在构成谓语时，词干后接「だ・です・である」，如「関係は円滑だ」。虽然有时在中文中翻译为“圆滑”，但在日语中通常无贬义，主要指事情进展顺利或人际关系处理得当。考虑到其使用频率和语法特性，其难度级别更接近N2。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3455,
+  "word" : "円高",
+  "reading" : "えんだか",
+  "romaji" : null,
+  "meaning" : [ "日元升值（相对于其他货币，日元的价值上升）" ],
+  "notes" : [ "反义词是「円安（えんやす）」。通常用于描述外汇市场中日元汇率的上升。虽然是一个经济术语，但在日常生活中也较为常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3456,
+  "word" : "再び",
+  "reading" : "ふたたび",
+  "romaji" : null,
+  "meaning" : [ "再次，又一次。表示相同或类似的事情再次发生。" ],
+  "notes" : [ "书面语感较强，口语中常用「また」。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3457,
+  "word" : "再会",
+  "reading" : "さいかい",
+  "romaji" : null,
+  "meaning" : [ "再会，重逢" ],
+  "notes" : [ "虽然「再会する」可以作为サ变动词使用，但作为独立词条时，其基本形式更常被视为名词。表示偶然相遇时，多用「偶然の再会」；表示期待重逢时，多用「再会を楽しみにする」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3458,
+  "word" : "再利用",
+  "reading" : "さいりよう",
+  "romaji" : null,
+  "meaning" : [ "对已经使用过的物品进行加工处理，使其能够再次使用的过程或行为；循环利用。" ],
+  "notes" : [ "常与「する」连用，构成サ变动词「再利用する」。作为名词和动词使用都很常见。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3459,
+  "word" : "再度",
+  "reading" : "さいど",
+  "romaji" : null,
+  "meaning" : [ "再次，再一次" ],
+  "notes" : [ "作为名词使用，常以「再度～する」的形式修饰动词，表示动作的重复。比「もう一度」更正式，多用于书面语或正式场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3460,
+  "word" : "再建",
+  "reading" : "さいけん",
+  "romaji" : null,
+  "meaning" : [ "重建，再建。指被破坏的建筑物、组织、制度等重新建立起来。" ],
+  "notes" : [ "「再建」可以作为サ变动词使用，如「再建する」。其名词形式更常用，动词用法通常以「再建する」的形式出现。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3461,
+  "word" : "再建する",
+  "reading" : "さいけんする",
+  "romaji" : null,
+  "meaning" : [ "重新建设，重建（尤指建筑物、组织或制度等）" ],
+  "notes" : [ "「再建」本身是名词，但常以「再建する」的形式作为动词使用。属于サ变动词（サ行変格活用动词）。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3462,
+  "word" : "再来年",
+  "reading" : "さらいねん",
+  "romaji" : null,
+  "meaning" : [ "后年，明年的下一年" ],
+  "notes" : [ "该词用于表示从当前年份算起的第三年。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3463,
+  "word" : "再来月",
+  "reading" : "さらいげつ",
+  "romaji" : null,
+  "meaning" : [ "下下个月，两个月后" ],
+  "notes" : [ "该词是表示时间的名词，在口语和书面语中都常用。与“再来週”（下下周）、“再来年”（后年）的构词方式相同。相对于“再来月”，更口语化或模糊的说法可以是“二月後”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3464,
+  "word" : "再来週",
+  "reading" : "さらいしゅう",
+  "romaji" : null,
+  "meaning" : [ "下下周，下下个星期" ],
+  "notes" : [ "表示当前所在星期之后第二个星期的常用时间名词。其对应的“上周”为“先々週（せんせんしゅう）”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3465,
+  "word" : "再現",
+  "reading" : "さいげん",
+  "romaji" : null,
+  "meaning" : [ "1. （过去的事物、情景等）再现，重现；2. （艺术、技术等）复制，复原，重现" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「再現する」的动词形式，也可作为名词单独使用，常用于场景复原、艺术重现等语境。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3466,
+  "word" : "再生",
+  "reading" : "さいせい",
+  "romaji" : null,
+  "meaning" : [ "1. 再生，重生，复活；2. （生物的）再生（现象）；3. （录音、影像等的）重放，播放；4. 回收再利用" ],
+  "notes" : [ "作为サ变他动词使用时，可接「を」构成他动词句；作名词时可后续「する」构成动词用法，含义根据语境区分" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3467,
+  "word" : "再発",
+  "reading" : "さいはつ",
+  "romaji" : null,
+  "meaning" : [ "1. 再发生，复发；2.（疾病、事故等）重新发作、再次出现；3.（出版物等）再版、重印" ],
+  "notes" : [ "可作为サ変動詞使用，形式为「再発する」，表示“复发、再发生”的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3468,
+  "word" : "再選",
+  "reading" : "さいせんする",
+  "romaji" : null,
+  "meaning" : [ "再选，重新选举；再次当选" ],
+  "notes" : [ "该词可用于表示再次进行选举的行为，也可表示当选者获得连任的状态。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3469,
+  "word" : "再開",
+  "reading" : "さいかい",
+  "romaji" : null,
+  "meaning" : [ "1. （中断后）重新开始，重新进行；2. （活动、业务等）恢复" ],
+  "notes" : [ "作为サ変动词使用时，常以「再開する」「再開される」的形式出现，多用于正式场合，指中断的事物恢复运作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3470,
+  "word" : "冒す",
+  "reading" : "おかす",
+  "romaji" : null,
+  "meaning" : [ "1. 冒着（风险、危险等）；2. 侵袭，染上（疾病）；3. 冒充，假冒；4. 冒犯，亵渎" ],
+  "notes" : [ "「冒す」作为他动词使用，对象多为抽象的风险、疾病、权威等概念，在表示“患病”时，常见搭配为「風邪を冒す」「病気を冒す」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3471,
+  "word" : "冒険",
+  "reading" : "ぼうけん",
+  "romaji" : null,
+  "meaning" : [ "1. 冒险，探险；2. 投机，碰运气" ],
+  "notes" : [ "作为サ变动词使用时，可构成「冒険する」的形式，表示进行冒险行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3472,
+  "word" : "冒頭",
+  "reading" : "ぼうとう",
+  "romaji" : null,
+  "meaning" : [ "（文章、讲话、影视、活动等的）开头部分，开端，起始" ],
+  "notes" : [ "可用于表示各类事物的起始阶段，不仅局限于文章和讲话" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3473,
+  "word" : "冗談",
+  "reading" : "じょうだん",
+  "romaji" : null,
+  "meaning" : [ "玩笑；戏言；笑话；打趣" ],
+  "notes" : [ "可构成常用短语「冗談半分（じょうだんはんぶん）」，意为半开玩笑地" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3474,
+  "word" : "写し",
+  "reading" : "うつし",
+  "romaji" : null,
+  "meaning" : [ "1. 副本，抄本；2. 复印件，影印件；3. 摹本，临摹品" ],
+  "notes" : [ "作为名词使用，也可构成复合词如「写し取り（うつしとり）」表示抄写、誊写的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3475,
+  "word" : "写す",
+  "reading" : "うつす",
+  "romaji" : null,
+  "meaning" : [ "1. 抄写，誊写；2. 拍摄，照相；3. 描写，描绘；4. 复制，复印；5. 映出，映照" ],
+  "notes" : [ "「写す」还有引申义，可表示将信息、印象等传递或留存下来；作为他动词使用，需接宾语。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3476,
+  "word" : "写る",
+  "reading" : "うつる",
+  "romaji" : null,
+  "meaning" : [ "1. 映照，映出；2. 拍照，摄影；3. 抄写，誊写；4. 描写，描绘；5. 模仿，效仿" ],
+  "notes" : [ "「写る」是自动词，对应的他动词为「写す（うつす）」；在表示“拍照”含义时，也可使用「撮る（とる）」，但「写る」更侧重画面被记录下来的状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3477,
+  "word" : "写生",
+  "reading" : "しゃせい",
+  "romaji" : null,
+  "meaning" : [ "1. 写生，对着实物描绘；2. 速写，快速描绘事物的形态" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「写生する」的动词形式；也可作为名词指写生作品或写生行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3478,
+  "word" : "写真",
+  "reading" : "しゃしん",
+  "romaji" : null,
+  "meaning" : [ "1. 照片，相片；2. 写真，写实" ],
+  "notes" : [ "可构成复合词，如「写真機（しゃしんき）」（照相机）、「写真館（しゃしんかん）」（照相馆）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3479,
+  "word" : "写真展",
+  "reading" : "しゃしんてん",
+  "romaji" : null,
+  "meaning" : [ "摄影展览，照片展览" ],
+  "notes" : [ "由「写真（照片、摄影）」和「展（展览）」复合而成的名词，常用于表示以摄影作品为展示内容的展会活动。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3480,
+  "word" : "写真集",
+  "reading" : "しゃしんしゅう",
+  "romaji" : null,
+  "meaning" : [ "1. 影集，相册；2. 照片集，摄影集" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3481,
+  "word" : "冠",
+  "reading" : "かんむり",
+  "romaji" : null,
+  "meaning" : [ "1. 冠，帽子；2. 冠部（汉字的偏旁部首）；3. 首位，第一" ],
+  "notes" : [ "当表示汉字偏旁时，也可写作「冠（かんむり）部」，属于常用汉字偏旁之一。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3482,
+  "word" : "冬",
+  "reading" : "ふゆ",
+  "romaji" : null,
+  "meaning" : [ "冬季，冬天；岁末，年终" ],
+  "notes" : [ "可构成复合词如「冬服（ふゆふく）」（冬装）、「冬支度（ふゆしたく）」（过冬准备）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3483,
+  "word" : "冬休み",
+  "reading" : "ふゆやすみ",
+  "romaji" : null,
+  "meaning" : [ "寒假，冬季假期" ],
+  "notes" : [ "通常指日本学校在12月末到1月初左右的冬季假期，时长因学校不同有所差异" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3484,
+  "word" : "冴える",
+  "reading" : "さえる",
+  "romaji" : null,
+  "meaning" : [ "1.（光、声音、色彩等）鲜明，清晰，透亮；2.（头脑）清醒，敏锐；3.（技艺、能力等）纯熟，精湛，高超；4.（天气）晴朗" ],
+  "notes" : [ "该词可作自动词使用，其使役形「冴えさせる」较为常用，可表示使头脑清醒、使事物鲜明等含义。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3485,
+  "word" : "冷えます",
+  "reading" : "ひえます",
+  "romaji" : null,
+  "meaning" : [ "1. 变冷，变凉；2. （身体、部分肢体）感觉发冷，发凉；3. （热情、关系等）冷淡下来" ],
+  "notes" : [ "该词为「冷える」的ます形，多用于描述温度下降、身体部位发冷或人际关系变淡等场景" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3486,
+  "word" : "冷える",
+  "reading" : "ひえる",
+  "romaji" : null,
+  "meaning" : [ "1.（温度）变冷，变凉；2.（身体部位）发冷，感觉冷；3.（热情、关系等）变淡，降温" ],
+  "notes" : [ "作为自动词使用，不直接接宾语；可用于描述温度、身体状态以及人际关系等多种场景。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3487,
+  "word" : "冷たい",
+  "reading" : "つめたい",
+  "romaji" : null,
+  "meaning" : [ "1. 冰冷的，凉的；2. 冷淡的，冷漠的；3. 无情的，冷酷的" ],
+  "notes" : [ "「冷たい」除了表示温度低，还常用于形容人的态度、情感以及抽象的事物，如现实、目光等。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3488,
+  "word" : "冷ます",
+  "reading" : "さます",
+  "romaji" : null,
+  "meaning" : [ "1. 使物体温度降低，冷却、弄凉；2. 打消积极性、泼冷水、扫兴致；3. 暂停工作、活动，使停滞" ],
+  "notes" : [ "「冷ます」作为他动词，需带宾语使用；其自动词形式为「冷まる（さまる）」，表示物体自身冷却或气氛变冷淡。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3489,
+  "word" : "冷める",
+  "reading" : "さめる",
+  "romaji" : null,
+  "meaning" : [ "1.（温度）变凉，变冷；2.（热情、兴趣、感情等）减退，变淡；3.（食物）放凉，冷却" ],
+  "notes" : [ "作为自动词使用，不能带宾语；当表示“热情减退”时，常用搭配有「熱が冷める」「興味が冷める」等" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3490,
+  "word" : "冷やかす",
+  "reading" : "ひやかす",
+  "romaji" : null,
+  "meaning" : [ "1. 戏弄，嘲弄，调侃；2. （在商店）只逛不买，蹭看；3. 冰镇，使变凉" ],
+  "notes" : [ "「冷やかす」的含义根据语境不同有所区分，日常对话中“只逛不买”的用法较为常见；作“冰镇”义时，对象多为饮品、食材等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3491,
+  "word" : "冷やします",
+  "reading" : "ひやします",
+  "romaji" : null,
+  "meaning" : [ "1. 冰镇、冷却（使物品温度降低）；2. 弄凉（食物、饮品等使其变冷）；3. 使冷静、平息（情绪、怒气等）" ],
+  "notes" : [ "「冷やします」是「冷やす」的ます形，作为他动词可作用于具体物品或抽象情绪；对应的自动词为「冷める（さめる）」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3492,
+  "word" : "冷やす",
+  "reading" : "ひやす",
+  "romaji" : null,
+  "meaning" : [ "1. 冰镇、冷却（使物体温度降低）；2. 使冷静、使镇定（平复情绪）；3. 使扫兴、泼冷水" ],
+  "notes" : [ "作为「冷却」义时，对象多为饮品、食物等；作为「使冷静」义时，常搭配「頭」「心」等词；「使扫兴」义多用于口语场景。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3493,
+  "word" : "冷ややか",
+  "reading" : "ひややか",
+  "romaji" : null,
+  "meaning" : [ "1. 凉爽的，凉快的；2. 冷淡的，冷冰冰的，冷漠的；3. 冷静的，沉着的，清醒的" ],
+  "notes" : [ "形容動詞，作「凉爽的」含义时多用来描述天气、风等环境状态；作「冷静的」含义时侧重指面对状况时的心态沉稳。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3494,
+  "word" : "冷凍",
+  "reading" : "れいとう",
+  "romaji" : null,
+  "meaning" : [ "1. 冷冻，使物体温度降低到冰点以下，使其凝固保存；2. （资金、资产等）冻结" ],
+  "notes" : [ "作为サ变自动词使用时，可构成「冷凍する」的动词形式，既可以表示物理上的冷冻保存，也可用于抽象的经济、法律领域的冻结行为。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3495,
+  "word" : "冷凍食品",
+  "reading" : "れいとうしょくひん",
+  "romaji" : null,
+  "meaning" : [ "冷冻食品，经过冷冻处理以长期保存的加工食品" ],
+  "notes" : [ "可缩写为「冷食（れいしょく）」，多作为便利食品用于快速烹饪，常见种类有冷冻饺子、冷冻蔬菜等" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3496,
+  "word" : "冷害",
+  "reading" : "れいがい",
+  "romaji" : null,
+  "meaning" : [ "因低温、霜冻等异常低温天气导致农作物受损、减产甚至绝收的灾害，也可指低温对其他行业或设施造成的损害" ],
+  "notes" : [ "属于气象灾害的一种，在农业领域使用频率较高" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3497,
+  "word" : "冷戦",
+  "reading" : "れいせん",
+  "romaji" : null,
+  "meaning" : [ "1. （国际关系上的）冷战；2. （人际关系、团体间的）冷战，僵持状态" ],
+  "notes" : [ "既可以指国际间非武力对抗的冷战格局，也可用于日常人际关系中双方互不交流的僵持情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3498,
+  "word" : "冷房",
+  "reading" : "れいぼう",
+  "romaji" : null,
+  "meaning" : [ "1. 冷气设备，空调设备；2. 制冷，冷气供应" ],
+  "notes" : [ "可作为サ变动词使用，形式为「冷房する」，意为开冷气、制冷" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3499,
+  "word" : "冷暖房",
+  "reading" : "れいだんぼう",
+  "romaji" : null,
+  "meaning" : [ "冷暖气设备，冷暖空调系统，兼具制冷和制热功能的空气调节装置" ],
+  "notes" : [ "「冷暖房」是「冷房（れいぼう）」和「暖房（だんぼう）」的复合词，指同时具备制冷和制热两种功能的空调设备或系统，在日常场景中常用来指代家用或商用的冷暖空调。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3500,
+  "word" : "冷蔵庫",
+  "reading" : "れいぞうこ",
+  "romaji" : null,
+  "meaning" : [ "冰箱，冷藏库" ],
+  "notes" : [ "家庭用の冷蔵庫は一般的に冷凍室も併せ持つ場合が多いが、広義には冷凍機能のないものも含む。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

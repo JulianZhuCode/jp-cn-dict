@@ -1,0 +1,901 @@
+[ {
+  "id" : 8901,
+  "word" : "空手",
+  "reading" : "からて（karate）",
+  "romaji" : null,
+  "meaning" : [ "空手道；空手，赤手空拳" ],
+  "notes" : [ "空手道は日本の伝統的な格闘技です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8902,
+  "word" : "空模様",
+  "reading" : "そらもよう",
+  "romaji" : null,
+  "meaning" : [ "天气状况；形势，局势" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8903,
+  "word" : "空気",
+  "reading" : "くうき",
+  "romaji" : null,
+  "meaning" : [ "空气；气氛；氛围；样子；神色。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8904,
+  "word" : "空港",
+  "reading" : "こうこう",
+  "romaji" : null,
+  "meaning" : [ "飞机起飞、降落以及停放的场所，即机场" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8905,
+  "word" : "空爆",
+  "reading" : "くうばく",
+  "romaji" : null,
+  "meaning" : [ "在空中爆炸；空袭" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8906,
+  "word" : "空白",
+  "reading" : "くうぱく",
+  "romaji" : null,
+  "meaning" : [ "① 没有书写、印刷、记录等内容的部分；空白处 ② 事物之间的间隔；空隙 ③ 没有活动或内容的时间段；空白期 ④ 内心感到空虚、没有充实感的状态" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8907,
+  "word" : "空腹",
+  "reading" : "くうふく",
+  "romaji" : null,
+  "meaning" : [ "肚子饿，空腹的状态" ],
+  "notes" : [ "较为基础的日语词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8908,
+  "word" : "突きつける",
+  "reading" : "つきつける",
+  "romaji" : null,
+  "meaning" : [ "1. 把…拿到（某人）面前给人看；摆在（某人）面前。2. （以强硬的态度）向…提出；把…强加给…；当面指责。" ],
+  "notes" : [ "表示强硬地将某物呈现给对方或提出某种要求、问题等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8909,
+  "word" : "突き上げる",
+  "reading" : "つきあげる",
+  "romaji" : null,
+  "meaning" : [ "1. 从下往上顶，向上推；2. （下级对上级）顶撞，反抗；3. 抬高（价格等）；4. 使（声音等）提高" ],
+  "notes" : [ "该词为他动词，使用时需注意其对象。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8910,
+  "word" : "突き出す",
+  "reading" : "つきだす",
+  "romaji" : null,
+  "meaning" : [ "1. 推出去；2. 伸出，探出；3. 使突出；4. 扭送；5. 提出（意见等）" ],
+  "notes" : [ "表示“伸出”时，常与身体部位搭配使用；表示“推出去”时，常与物体搭配使用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8911,
+  "word" : "突き合わせる",
+  "reading" : "つきあわせる",
+  "romaji" : null,
+  "meaning" : [ "将两个东西相互抵靠、对齐；对照、核对；面对面、对峙" ],
+  "notes" : [ "该词强调使两个物体或事物相互接触、对比以确认或发现差异等" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8912,
+  "word" : "突き当たり",
+  "reading" : "つきあたり",
+  "romaji" : null,
+  "meaning" : [ "撞上，碰上；（事情等）陷入僵局；（道路等的）尽头；对面" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8913,
+  "word" : "突き当たる",
+  "reading" : "つきあたる",
+  "romaji" : null,
+  "meaning" : [ "撞上，碰上；走到尽头；遇到（问题）；对面是；正面是" ],
+  "notes" : [ "该词还可表示空间上的尽头，如道路的尽头等，也可表示面对某种情况或问题" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8914,
+  "word" : "突き放す",
+  "reading" : "つきはなす",
+  "romaji" : null,
+  "meaning" : [ "用力推开；甩开，抛弃；拒绝，驳回" ],
+  "notes" : [ "该词强调突然、用力地推开或甩开的动作" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8915,
+  "word" : "突き詰める",
+  "reading" : "つきつめる",
+  "romaji" : null,
+  "meaning" : [ "1. 追究到底；追查到底；彻底弄清楚。2. 塞进；挤入；推到底。3. 深入思考；反复琢磨。" ],
+  "notes" : [ "该词强调深入、彻底地进行某种行为。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8916,
+  "word" : "突き飛ばす",
+  "reading" : "つきとばす",
+  "romaji" : null,
+  "meaning" : [ "用力将物体撞出很远，撞到一旁或用力猛撞；突然驱赶、撵走；突然解雇；突然摒弃、排除（某种想法等）" ],
+  "notes" : [ "该词强调突然且用力地使物体移动或驱赶某人等动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8917,
+  "word" : "突く",
+  "reading" : "つく",
+  "romaji" : null,
+  "meaning" : [ "1. 扎，刺；2. 戳，捅；3. 撞，碰；4. 顶；5. 突出；6. 坚持；7. 插嘴" ],
+  "notes" : [ "较为常用的动词，在日常生活和书面语中都可能出现。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8918,
+  "word" : "突っかかる",
+  "reading" : "つっかかる",
+  "romaji" : null,
+  "meaning" : [ "1. 「突っ込んでかかる」という意味で、物や人に向かって勢いよく進み、突き当たること。猛扑；撞上。2. 口論を始めて相手に向き合うこと。顶撞，抬杠。3. 物に足をつけて転ぶこと。绊倒。" ],
+  "notes" : [ "「突っかかる」は、動作や行為が勢いよく行われることを表す。自動詞としては、物や人に向かって進む意味があり、他動詞としては、相手に向かって口論を始める意味がある。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8919,
+  "word" : "突っ張る",
+  "reading" : "つっぱる",
+  "romaji" : null,
+  "meaning" : [ "1. 用力推，顶，撑；2. 坚持己见，固执；3. 鼓起，挺起；4. （经济等）吃紧，勉强维持；5. （因生气等）撅嘴，板着脸" ],
+  "notes" : [ "该词在不同语境下含义有所不同，使用时需根据上下文准确理解。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8920,
+  "word" : "突っ込む",
+  "reading" : "つっこむ",
+  "romaji" : null,
+  "meaning" : [ "闯入；钻进；深究；追究；投身于；插嘴；插入" ],
+  "notes" : [ "较为常用的动词，在日常生活和书面语中都可能出现。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8921,
+  "word" : "突入",
+  "reading" : "とつにゅう",
+  "romaji" : null,
+  "meaning" : [ "突然闯进某个场所；进入（重大事态、局面等）" ],
+  "notes" : [ "该词强调突然性和进入某个空间或状态" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8922,
+  "word" : "突如",
+  "reading" : "とつじょ",
+  "romaji" : null,
+  "meaning" : [ "突然，忽然，意想不到地" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8923,
+  "word" : "突拍子もない",
+  "reading" : "とっぴょうしもない",
+  "romaji" : null,
+  "meaning" : [ "越出常轨，出奇，异常，极其荒谬" ],
+  "notes" : [ "用于形容事物不符合常理，超出一般想象的情况" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8924,
+  "word" : "突然",
+  "reading" : "とつぜん",
+  "romaji" : null,
+  "meaning" : [ "在没有任何预兆的情况下，事情迅速发生或变化，强调意外性。" ],
+  "notes" : [ "常用来描述行为、事件等发生的意外性。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8925,
+  "word" : "突破",
+  "reading" : "とっぱ",
+  "romaji" : null,
+  "meaning" : [ "突破，冲破；超过；打破（记录等）" ],
+  "notes" : [ "较为常用的动词，在描述打破障碍、超越界限等场景时使用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8926,
+  "word" : "突破",
+  "reading" : "とっぱ",
+  "romaji" : null,
+  "meaning" : [ "突破；冲破；打破（记录、界限等）" ],
+  "notes" : [ "サ变动词，其词干为「突破」，词尾变化规则与一般サ变动词相同。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8927,
+  "word" : "突飛",
+  "reading" : "とっぴ",
+  "romaji" : null,
+  "meaning" : [ "想法、行为等过于离奇、古怪，不符合常理" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8928,
+  "word" : "窃盗",
+  "reading" : "せっとう",
+  "romaji" : null,
+  "meaning" : [ "盗窃，偷盗行为或事件" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8929,
+  "word" : "窒息",
+  "reading" : "ちっそく",
+  "romaji" : null,
+  "meaning" : [ "呼吸ができなくなること。また、物事がうまく行かなくて息が詰まる状態を表す。" ],
+  "notes" : [ "医学用語としても使用される。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8930,
+  "word" : "窓",
+  "reading" : "まど",
+  "romaji" : null,
+  "meaning" : [ "窗户，窗子；（房屋等的）采光口；（飞机、船等的）舷窗" ],
+  "notes" : [ "该词为和语词，较为常用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8931,
+  "word" : "窓口",
+  "reading" : "まどぐち",
+  "romaji" : null,
+  "meaning" : [ "窗口；窗口服务处；（事情的）头绪，线索" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8932,
+  "word" : "窓辺",
+  "reading" : "まどがわ",
+  "romaji" : null,
+  "meaning" : [ "窗边，窗户附近" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8933,
+  "word" : "窓際",
+  "reading" : "まどぎわ",
+  "romaji" : null,
+  "meaning" : [ "窗边，靠窗的地方" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8934,
+  "word" : "窮乏",
+  "reading" : "きゅうぼう",
+  "romaji" : null,
+  "meaning" : [ "贫穷，贫困；穷困，窘困" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8935,
+  "word" : "窮地",
+  "reading" : "きゅうち",
+  "romaji" : null,
+  "meaning" : [ "困境，窘境；绝境" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8936,
+  "word" : "窮屈",
+  "reading" : "きゅうくつ",
+  "romaji" : null,
+  "meaning" : [ "空间狭窄；因受到限制而感到不自由、受束缚；（规则、想法等）死板、缺乏灵活性" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8937,
+  "word" : "立ちすくむ",
+  "reading" : "たちすくむ",
+  "romaji" : null,
+  "meaning" : [ "（因吃惊、害怕、困惑等）呆立不动，伫立" ],
+  "notes" : [ "该词强调因外界刺激而瞬间静止站立的状态" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8938,
+  "word" : "立ちます",
+  "reading" : "たちます",
+  "romaji" : null,
+  "meaning" : [ "站，站立；建立；成立等。" ],
+  "notes" : [ "该词是自动词，其原形为「立つ」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8939,
+  "word" : "立ち上がる",
+  "reading" : "たちあがる",
+  "romaji" : null,
+  "meaning" : [ "1. 站起来。2. 升起；涌起；发生。3. 开始；兴起。" ],
+  "notes" : [ "该词为自动词，强调主体自身的动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8940,
+  "word" : "立ち会う",
+  "reading" : "たちあう",
+  "romaji" : null,
+  "meaning" : [ "1. 在场，到场；列席；参加。例：会議に立ち会う。（参加会议。）2. 目睹；看到。例：事故を立ち会う。（目睹事故。）3. 对峙；对抗。例：相手と立ち会う。（与对方对峙。）" ],
+  "notes" : [ "该词常用的是“在场，到场”这一含义，在不同语境中含义会有所变化。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8941,
+  "word" : "立ち寄る",
+  "reading" : "たちよる",
+  "romaji" : null,
+  "meaning" : [ "1. 顺路到，顺便到；2. 走近；3. 顺便访问；4. 偶然到（某地）" ],
+  "notes" : [ "该词为他动词，其宾语用に表示" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8942,
+  "word" : "立ち往生",
+  "reading" : "たちおうせい",
+  "romaji" : null,
+  "meaning" : [ "陷入困境，无法前进或后退，动弹不得。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8943,
+  "word" : "立ち止まる",
+  "reading" : "たちどまる",
+  "romaji" : null,
+  "meaning" : [ "站住，停下，止步；停止，停顿；停留，逗留" ],
+  "notes" : [ "该词强调动作的瞬间性，常表示突然停下的状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8944,
+  "word" : "立ち直る",
+  "reading" : "たちなおる",
+  "romaji" : null,
+  "meaning" : [ "恢复，复原；重新站起；（经济形势等）好转，回升" ],
+  "notes" : [ "该词强调从不好的状态恢复到正常状态" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8945,
+  "word" : "立ち退き",
+  "reading" : "たちのび",
+  "romaji" : null,
+  "meaning" : [ "名词。1. 搬迁，搬走；2. 离开，撤离。" ],
+  "notes" : [ "「立ち退き」は「立ち退く」の名词形です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8946,
+  "word" : "立ち退く",
+  "reading" : "たちのぼる",
+  "romaji" : null,
+  "meaning" : [ "走开，离开；（从居住的地方）搬走；退出，让开位置；（从某个职位、场所等）退下，辞去。" ],
+  "notes" : [ "该词强调从某个地方或位置离开，通常是因为某种原因而主动或被动地移动到其他地方。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8947,
+  "word" : "立つ",
+  "reading" : "たつ",
+  "romaji" : null,
+  "meaning" : [ "站立；起身；直立；耸立；出发；离开；成立；建立；站得住脚；有效" ],
+  "notes" : [ "作为自动词使用时较多见，如表示站立的动作等。在一些习惯用语或特定语境中有不同含义，如‘立ち上がる’表示站起身等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8948,
+  "word" : "立てる",
+  "reading" : "たてる",
+  "romaji" : null,
+  "meaning" : [ "1. 弄响，扬起；例如：鐘を立てる（敲响钟）。2. 立，竖；例如：旗を立てる（竖起旗帜）。3. 制定；例如：規則を立てる（制定规则）。" ],
+  "notes" : [ "该词为他动词，使用时需注意宾语的搭配。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8949,
+  "word" : "立て替える",
+  "reading" : "たてかえる",
+  "romaji" : null,
+  "meaning" : [ "垫付，代付；临时充当；抢先说；竖起；重新安排等。" ],
+  "notes" : [ "常用的他动词，在经济等场景中表示垫付费用。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8950,
+  "word" : "立て直す",
+  "reading" : "たてなおす",
+  "romaji" : null,
+  "meaning" : [ "1. 重新竖起，扶起。2. 重新整顿，重建，恢复。3. 重新振作，重新恢复精神状态。" ],
+  "notes" : [ "该词强调从不好的状态恢复到原来或更好的状态" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8951,
+  "word" : "立体",
+  "reading" : "りったい",
+  "romaji" : null,
+  "meaning" : [ "三维空间的物体形态，具有长、宽、高三个维度，区别于平面。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8952,
+  "word" : "立候補",
+  "reading" : "りっこうほ",
+  "romaji" : null,
+  "meaning" : [ "参加竞选，作为候选人；报名应试" ],
+  "notes" : [ "「立候補」は、政治的な選挙や試験などで、候補者として出馬することを意味します。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8953,
+  "word" : "立入禁止",
+  "reading" : "たちいりきんし",
+  "romaji" : null,
+  "meaning" : [ "表示禁止进入的意思。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8954,
+  "word" : "立場",
+  "reading" : "たちば",
+  "romaji" : null,
+  "meaning" : [ "立场；地位；处境。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8955,
+  "word" : "立法",
+  "reading" : "りっぽう",
+  "romaji" : null,
+  "meaning" : [ "国家や地方公共団体などが、法律や条例などの法規を制定すること。" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8956,
+  "word" : "立派",
+  "reading" : "りっぱ",
+  "romaji" : null,
+  "meaning" : [ "漂亮的；壮丽的；出色的；优秀的；了不起的" ],
+  "notes" : [ "形容事物外观、程度等方面令人满意、出色" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8957,
+  "word" : "竜巻",
+  "reading" : "たつまき",
+  "romaji" : null,
+  "meaning" : [ "龙卷风；旋风" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8958,
+  "word" : "童話",
+  "reading" : "どうわ",
+  "romaji" : null,
+  "meaning" : [ "儿童文学的一种体裁，通过讲述虚构的故事，通常包含奇幻元素、人物和情节，以娱乐和教育儿童为目的。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8959,
+  "word" : "童謡",
+  "reading" : "どうよう",
+  "romaji" : null,
+  "meaning" : [ "儿童时代に唱えられる歌。子供向けの歌。特に、歌詞が単純で繰り返しが多く、子供たちが楽しく歌えるように作られた歌。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8960,
+  "word" : "端",
+  "reading" : "はし",
+  "romaji" : null,
+  "meaning" : [ "1. 端，头儿，边缘。例：紙の端（纸的边缘）。2. 开端。例：事件の端（事件的开端）。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8961,
+  "word" : "端的",
+  "reading" : "たんてき",
+  "romaji" : null,
+  "meaning" : [ "1. 直率的，直截了当的；2. 明显的，清楚的；3. 概括性的，简洁明了的" ],
+  "notes" : [ "形容動詞で、語幹「端的」、語尾は「だ」で活用する。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8962,
+  "word" : "競う",
+  "reading" : "きそう",
+  "romaji" : null,
+  "meaning" : [ "竞争；竞赛；争夺；比得上" ],
+  "notes" : [ "该词较为常用，在描述竞争、竞赛等场景时经常会用到。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8963,
+  "word" : "競争",
+  "reading" : "きょうそう",
+  "romaji" : null,
+  "meaning" : [ "竞争；竞赛。通过互相比较、对抗来争取优势或胜利的行为或状态。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8964,
+  "word" : "競合",
+  "reading" : "きょうごう",
+  "romaji" : null,
+  "meaning" : [ "竞争；角逐；对抗。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8965,
+  "word" : "競売",
+  "reading" : "きょうばい",
+  "romaji" : null,
+  "meaning" : [ "通过出价竞争的方式出售物品，即拍卖" ],
+  "notes" : [ "在商务场合或特定活动中常用的词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8966,
+  "word" : "競技",
+  "reading" : "きょうぎ",
+  "romaji" : null,
+  "meaning" : [ "各种体育比赛、竞技活动等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8967,
+  "word" : "競走",
+  "reading" : "きょうそう",
+  "romaji" : null,
+  "meaning" : [ "赛跑；竞走。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8968,
+  "word" : "競馬",
+  "reading" : "けいば",
+  "romaji" : null,
+  "meaning" : [ "赛马运动。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8969,
+  "word" : "竹",
+  "reading" : "たけ",
+  "romaji" : null,
+  "meaning" : [ "竹子。竹类植物的统称。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8970,
+  "word" : "竿",
+  "reading" : "ざお",
+  "romaji" : null,
+  "meaning" : [ "竿子；船篙；钓竿；衡量的标准等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8971,
+  "word" : "笑い",
+  "reading" : "わらい",
+  "romaji" : null,
+  "meaning" : [ "名词。笑，笑声。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8972,
+  "word" : "笑います",
+  "reading" : "わらいます",
+  "romaji" : null,
+  "meaning" : [ "笑。通常表示发出愉悦、开心的声音和表情。" ],
+  "notes" : [ "该词为自动词，强调自身发出笑的动作。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8973,
+  "word" : "笑い声",
+  "reading" : "わらいごえ0",
+  "romaji" : null,
+  "meaning" : [ "笑声" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8974,
+  "word" : "笑う",
+  "reading" : "わらう",
+  "romaji" : null,
+  "meaning" : [ "笑；嘲笑；因…而笑。" ],
+  "notes" : [ "该词为他动词，常用搭配如「~を笑う」（嘲笑…） ，自动词用法如「~で笑う」（因…而笑）等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8975,
+  "word" : "笑える",
+  "reading" : "わらえる",
+  "romaji" : null,
+  "meaning" : [ "能够笑；可以笑；值得一笑；不由得笑起来" ],
+  "notes" : [ "自动词" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8976,
+  "word" : "笑顔",
+  "reading" : "えがお",
+  "romaji" : null,
+  "meaning" : [ "笑脸，笑颜" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8977,
+  "word" : "笛",
+  "reading" : "ふえ",
+  "romaji" : null,
+  "meaning" : [ "笛子；哨子；警笛；（乐器的）管；（某些鸟、兽的）鸣叫声" ],
+  "notes" : [ "作为音乐器具的笛子时，可用于演奏各种曲调。警笛通常在紧急情况下发出警报声。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8978,
+  "word" : "第一",
+  "reading" : "だいいち",
+  "romaji" : null,
+  "meaning" : [ "表示顺序上的第一；最重要的事物或地位等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8979,
+  "word" : "第一印象",
+  "reading" : "だいいちいんしょう",
+  "romaji" : null,
+  "meaning" : [ "初次见面时得到的对人的或事物的最初的印象。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8980,
+  "word" : "笹",
+  "reading" : "ささ",
+  "romaji" : null,
+  "meaning" : [ "细竹，小竹子；竹叶" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8981,
+  "word" : "筆",
+  "reading" : "ひつ",
+  "romaji" : null,
+  "meaning" : [ "笔；毛笔；笔迹；笔法；文笔" ],
+  "notes" : [ "较为基础的词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8982,
+  "word" : "筆記",
+  "reading" : "ひっき",
+  "romaji" : null,
+  "meaning" : [ "笔记；记录。用笔记录文字、信息等行为或结果。" ],
+  "notes" : [ "该词是名词，通常不单独作谓语使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8983,
+  "word" : "等しい",
+  "reading" : "ひとしい",
+  "romaji" : null,
+  "meaning" : [ "相等的，相同的，一样的；等同的，同等的；公平的，公正的" ],
+  "notes" : [ "该词为形容动词，词干为「等し」，词尾为「い」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8984,
+  "word" : "等分",
+  "reading" : "とうぶん",
+  "romaji" : null,
+  "meaning" : [ "将整体分成相等的部分；平均分配。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8985,
+  "word" : "等級",
+  "reading" : "とうきゅう",
+  "romaji" : null,
+  "meaning" : [ "事物を比較してその程度を表すために定めた区分。階級やレベルを表す語。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8986,
+  "word" : "筋",
+  "reading" : "すじ",
+  "romaji" : null,
+  "meaning" : [ "1. 筋，肌肉；2. 线条，纹路；3. 条理，逻辑；4. 情节；5. 做法，手段。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8987,
+  "word" : "筋肉",
+  "reading" : "きんにく",
+  "romaji" : null,
+  "meaning" : [ "肌肉。人体或动物体内由肌纤维组成的组织，能收缩和舒张，产生运动。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8988,
+  "word" : "筋道",
+  "reading" : "すじどう",
+  "romaji" : null,
+  "meaning" : [ "1. 理由，道理；2. 条理，逻辑；3. 手续，程序；4. （织物等的）纹理，纹路" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8989,
+  "word" : "筒",
+  "reading" : "つつ",
+  "romaji" : null,
+  "meaning" : [ "圆筒状的容器；管子等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8990,
+  "word" : "答え",
+  "reading" : "こたえ",
+  "romaji" : null,
+  "meaning" : [ "回答；答案；解答；回音；响应" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8991,
+  "word" : "答えます",
+  "reading" : "こたえます",
+  "romaji" : null,
+  "meaning" : [ "回答；响应；解答。" ],
+  "notes" : [ "该词是他动词，其对应的自动词是「答える」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8992,
+  "word" : "答える",
+  "reading" : "こたえる",
+  "romaji" : null,
+  "meaning" : [ "回答，应答；解答；响应；符合（要求、期待等）" ],
+  "notes" : [ "该词为他动词，常见用法为对问题、询问等进行回应。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8993,
+  "word" : "答案",
+  "reading" : "とうあん",
+  "romaji" : null,
+  "meaning" : [ "答案；对问题等的回答" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8994,
+  "word" : "简体形",
+  "reading" : "かんたいけい",
+  "romaji" : null,
+  "meaning" : [ "日语中句子的一种形式，与敬体相对。指各种词类做谓语时所呈现的简洁形式，不带有敬语表达。" ],
+  "notes" : [ "简体形常用于日常对话、书写文章等较为随意的场合。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8995,
+  "word" : "箇所",
+  "reading" : "かしょ",
+  "romaji" : null,
+  "meaning" : [ "地方，场所；部位；点（表示事项等的特定部分）" ],
+  "notes" : [ "较为常用的名词，在描述地点、身体部位等场景时会经常使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8996,
+  "word" : "箒",
+  "reading" : "ほうき",
+  "romaji" : null,
+  "meaning" : [ "扫帚" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8997,
+  "word" : "算数",
+  "reading" : "さんすう",
+  "romaji" : null,
+  "meaning" : [ "数学。尤指小学数学课程中涉及的加、减、乘、除等基础运算知识。" ],
+  "notes" : [ "在日语中，“算数”主要用于指小学数学相关内容，与“数学（すうがく）”相比，范围更窄。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8998,
+  "word" : "算盤",
+  "reading" : "さんばん",
+  "romaji" : null,
+  "meaning" : [ "算盘；用于计算利害得失等情况的工具或行为" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 8999,
+  "word" : "管理",
+  "reading" : "かんり",
+  "romaji" : null,
+  "meaning" : [ "経営、管理すること。物を保管すること。" ],
+  "notes" : [ "「管理」は、サ变动词として活用します。また、名词としても使用できます。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9000,
+  "word" : "管理します",
+  "reading" : "かんりします",
+  "romaji" : null,
+  "meaning" : [ "进行管理；经营；处理。" ],
+  "notes" : [ "该词为他动词，其原形为「管理する」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+} ]

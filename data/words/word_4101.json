@@ -1,0 +1,901 @@
+[ {
+  "id" : 4101,
+  "word" : "口コミ",
+  "reading" : "くちこみ",
+  "romaji" : null,
+  "meaning" : [ "口碑，口头评价，口耳相传的信息" ],
+  "notes" : [ "「口コミ」是「口伝えコミュニケーション」的缩写，除了表示非官方的口头信息，也常指网络上的用户评价、口碑" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4102,
+  "word" : "口元",
+  "reading" : "くちもと",
+  "romaji" : null,
+  "meaning" : [ "1. 嘴边，嘴角；2. 说话的语气、口吻" ],
+  "notes" : [ "可用于指面部的嘴角部位，也可引申表示说话的语气、腔调。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4103,
+  "word" : "口先",
+  "reading" : "くちさき",
+  "romaji" : null,
+  "meaning" : [ "1. 嘴边，嘴角；2. 口头上，嘴上（多指不付诸行动的话语）" ],
+  "notes" : [ "多带有“只停留在嘴上、不实际行动”的贬义色彩，常用于描述虚浮的承诺或话语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4104,
+  "word" : "口外",
+  "reading" : "こうがい",
+  "romaji" : null,
+  "meaning" : [ "1. 说出（秘密、隐私等不该对外公开的内容）；泄露。2. 向别人说起，外传" ],
+  "notes" : [ "多用来表示泄露、外传秘密类的内容，带有不该说却说出的语感，通常与否定形式搭配使用以要求保密。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4105,
+  "word" : "口実",
+  "reading" : "くじつ",
+  "romaji" : null,
+  "meaning" : [ "1. 借口，托词；2. 辩解，申辩" ],
+  "notes" : [ "多带有为掩盖真实原因而编造理由的贬义色彩，书面语、口语中均常用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4106,
+  "word" : "口座",
+  "reading" : "こうざ",
+  "romaji" : null,
+  "meaning" : [ "（银行、邮局等金融机构的）账户，账号；户头" ],
+  "notes" : [ "除银行外，也可用于邮局等其他金融机构的账户" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4107,
+  "word" : "口紅",
+  "reading" : "くちべに",
+  "romaji" : null,
+  "meaning" : [ "口红，唇膏" ],
+  "notes" : [ "可简称为「くちべ」，是女性化妆常用物品，也可用于形容类似口红颜色的事物。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4108,
+  "word" : "口調",
+  "reading" : "くちょう",
+  "romaji" : null,
+  "meaning" : [ "声调，语调；腔调，语气" ],
+  "notes" : [ "可用于描述说话时的语气、语调特征，也可指具有特定风格的说话腔调" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4109,
+  "word" : "口走る",
+  "reading" : "くちばしる",
+  "romaji" : null,
+  "meaning" : [ "1. 说漏嘴，顺口说出本不该说的话；2. 说胡话，神志不清时随口乱说" ],
+  "notes" : [ "多因疏忽、冲动或意识不清而说出不当话语，通常带有懊悔、失控的语境" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4110,
+  "word" : "口述",
+  "reading" : "こうじゅつ",
+  "romaji" : null,
+  "meaning" : [ "1. 口述，口头叙述；2.（法律、行政等场合的）口头陈述" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「口述する」的动词形式，常用于正式场合或需要口头传达内容的场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4111,
+  "word" : "口コミ",
+  "reading" : "くちこみ",
+  "romaji" : null,
+  "meaning" : [ "口碑，口头传播，口头推荐，口耳相传的信息" ],
+  "notes" : [ "由「口（くち）」和「伝（つた）える」的连用形「伝（つた）」的音便形式「コミ」构成，是「口伝え（くちつたえ）」的略称" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4112,
+  "word" : "古い",
+  "reading" : "ふるい",
+  "romaji" : null,
+  "meaning" : [ "1. 旧的，古老的，年代久远的；2. 陈旧的，过时的；3. 年老的，年纪大的；4. 熟悉的，老交情的" ],
+  "notes" : [ "作为い形容词，活用遵循い形容词的规则，否定形为「古くない」，过去形为「古かった」" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4113,
+  "word" : "古く",
+  "reading" : "ふるく",
+  "romaji" : null,
+  "meaning" : [ "1. 以前，从前；2. 很早，许久；3. （事物）年代久远，古老" ],
+  "notes" : [ "「古く」是形容词「古い（ふるい）」的连用形，常作为副词使用，多用来修饰动词，强调时间的久远或事物的古老属性。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4114,
+  "word" : "古めかしい",
+  "reading" : "ふるめかしい",
+  "romaji" : null,
+  "meaning" : [ "古色古香的；陈旧过时的；老派的" ],
+  "notes" : [ "多用来形容物品、建筑、言行风格等带有旧时的韵味，也可略带贬义地表示不合时宜的陈旧感。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4115,
+  "word" : "古今",
+  "reading" : "ここん",
+  "romaji" : null,
+  "meaning" : [ "古今，从古至今；古代和现代" ],
+  "notes" : [ "常与「を通じて」「東西」等搭配使用，多用于书面语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4116,
+  "word" : "古代",
+  "reading" : "こだい",
+  "romaji" : null,
+  "meaning" : [ "1. 古代，远古时代；2. 古时，从前（相对于现代的较早时期）" ],
+  "notes" : [ "可用于指代世界各国的远古时期，也可用于日本历史上的古代（一般指律令国家成立到平安时代前期）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4117,
+  "word" : "古典",
+  "reading" : "こてん",
+  "romaji" : null,
+  "meaning" : [ "1. 古代的典籍、古籍；2. 具有典范性的古典文学、音乐、艺术等作品；3. 古代流传下来的规范、传统" ],
+  "notes" : [ "除了表示具体的古籍、古典作品外，也可用于指代传统的、具有权威性的规范体系" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4118,
+  "word" : "古都",
+  "reading" : "こと",
+  "romaji" : null,
+  "meaning" : [ "古代的都城，历史悠久的城市" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4119,
+  "word" : "古鎮",
+  "reading" : "こちん",
+  "romaji" : null,
+  "meaning" : [ "历史悠久的城镇；古老的市镇" ],
+  "notes" : [ "多用于指代具有悠久历史、保留传统风貌的城镇，在中文语境中常对应“古镇”的概念" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4120,
+  "word" : "句点",
+  "reading" : "くてん",
+  "romaji" : null,
+  "meaning" : [ "句号，用于句子末尾表示结束的标点符号" ],
+  "notes" : [ "在日语书写中，句点通常为「。」，与中文句号形态一致，用于标示一句话的完结。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4121,
+  "word" : "句読点",
+  "reading" : "くとうてん",
+  "romaji" : null,
+  "meaning" : [ "标点符号（特指日语中的句号「。」、逗号「、」等句读用标点）" ],
+  "notes" : [ "日语的句読点主要包括表示句末停顿的「。」和句中停顿的「、」，此外还有用于引用的「「」」等也属于广义的句読点范畴。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4122,
+  "word" : "叩く",
+  "reading" : "たたく",
+  "romaji" : null,
+  "meaning" : [ "1. 敲，叩，打；2. 拍，击；3. 询问，打听；4. 攻击，抨击；5. （在经济上）敲竹杠，榨取" ],
+  "notes" : [ "该动词为多义词，不同语境下含义差异较大，需结合上下文理解；作为「五段动词」，其活用规则为词尾「く」按五段动词规律变化，如ます形为「叩きます」、た形为「叩いた」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4123,
+  "word" : "叫び",
+  "reading" : "さけび",
+  "romaji" : null,
+  "meaning" : [ "1. 叫喊，呼喊；2. 呼声，呼吁；3. （动物的）叫声" ],
+  "notes" : [ "该词是动词「叫ぶ（さけぶ）」的连用形名词化形式，可作为名词单独使用，也常与「上げる」「あげる」等动词搭配构成复合动词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4124,
+  "word" : "叫び声",
+  "reading" : "さけごえ",
+  "romaji" : null,
+  "meaning" : [ "呼喊声、喊叫声、呼救声" ],
+  "notes" : [ "由动词「叫ぶ（さけぶ）」的连用形「叫び」加上名词「声（こえ）」构成的复合名词，多用来表达因惊讶、恐惧、求救等情绪发出的呼喊。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4125,
+  "word" : "叫ぶ",
+  "reading" : "さけぶ",
+  "romaji" : null,
+  "meaning" : [ "1. 喊叫，大声呼喊；2. 呼吁，呼吁主张；3. 叫苦，喊疼" ],
+  "notes" : [ "当表示“呼吁、主张”时，多搭配抽象名词使用，如「自由」「正義」等；作为五段动词，其ます形为「叫びます」，て形为「叫んで」，た形为「叫んだ」。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4126,
+  "word" : "召し上がります",
+  "reading" : "めしあがります",
+  "romaji" : null,
+  "meaning" : [ "（尊他语）吃，喝，用餐；（尊敬语）享用，品尝" ],
+  "notes" : [ "「食べる・飲む」的尊敬语形式，用于对长辈、上司、客人等需要表示尊敬的对象，也可用于表示对食物的珍视。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4127,
+  "word" : "可愛がる",
+  "reading" : "かわいがる",
+  "romaji" : null,
+  "meaning" : [ "1. 疼爱、喜爱、宠爱（对孩子、宠物等倾注感情地喜爱）；2. 爱惜、珍惜（对物品等爱惜使用）" ],
+  "notes" : [ "通常用于对比自己弱小的对象或珍视的事物表达喜爱、爱惜之情，是他动词，需要接宾语。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4128,
+  "word" : "可愛らしい",
+  "reading" : "かわいらしい",
+  "romaji" : null,
+  "meaning" : [ "1. 可爱的，讨人喜欢的；2. 小巧玲珑的，玲珑别致的；3. 稚嫩的，天真烂漫的" ],
+  "notes" : [ "多用于形容小巧玲珑、带有稚气感的人或事物，相比「可愛い」更强调天真烂漫、惹人怜爱的特质。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4129,
+  "word" : "可決",
+  "reading" : "かけつ",
+  "romaji" : null,
+  "meaning" : [ "1. （议会等）表决通过，批准；2. （提案、议案等）获得通过" ],
+  "notes" : [ "作为名词使用时可后续「する」构成サ变自动词，主要用于正式场合，多指议案、提案等在审议场合获得通过" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4130,
+  "word" : "可能",
+  "reading" : "かのう",
+  "romaji" : null,
+  "meaning" : [ "1. 名词：可能性；可以做到的状态。2. ナ形容词：可能的，办得到的" ],
+  "notes" : [ "作为ナ形容词使用时，可后续「だ/です」「な」「に」等进行活用，如「可能な方法（可行的方法）」「可能にする（使成为可能）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4131,
+  "word" : "可能形式",
+  "reading" : "かのうけいしき",
+  "romaji" : null,
+  "meaning" : [ "動詞の活用形の一種で、能力・状況による許可・可能性を表す形式。\n・五段動詞（動1）：基本形の「う」段を「え」段に変えて「る」を付ける（例：書く→書ける）\n・一段動詞（動2）：基本形の「る」の前に「られ」を挿入する（例：食べる→食べられる）\n・サ変動詞（動3）：「する」→「できる」\n・カ変動詞（動3）：「来る」→「来られる（こられる）」\nまた、「～ことができます」と意味的に同等である。" ],
+  "notes" : [ "五段動詞の可能形は自動詞的に扱われ、対象を表す場合は「が」を用いることが多い。また、一段動詞・カ変動詞の可能形は敬語の受け身と形が一致するため、文脈から区別する必要がある。" ],
+  "pos" : "GRAMMAR",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4132,
+  "word" : "可能性",
+  "reading" : "かのうせい",
+  "romaji" : null,
+  "meaning" : [ "1. 可能发生的情况、概率；2. 事物具备的可以实现某种状态或结果的能力、潜力" ],
+  "notes" : [ "可接「がある/がない」「が高い/が低い」等短语，用于描述概率或潜力的有无、高低。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4133,
+  "word" : "台所",
+  "reading" : "だいどころ",
+  "romaji" : null,
+  "meaning" : [ "厨房，伙房" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4134,
+  "word" : "台数",
+  "reading" : "だいすう",
+  "romaji" : null,
+  "meaning" : [ "数量词，用于计算机器、车辆、电器等有台座或机械设备类物品的数量，即“台数、台量”" ],
+  "notes" : [ "通常与具体数字搭配使用，后续常接「台」作为量词，例如「3台数」的表述错误，正确用法为「3台」，当强调统计数量时使用「台数」，如「販売台数」「生産台数」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4135,
+  "word" : "台本",
+  "reading" : "だいほん",
+  "romaji" : null,
+  "meaning" : [ "脚本，剧本；（演讲、广播等的）底稿，台本" ],
+  "notes" : [ "除影视、戏剧的剧本外，也可指演讲、广播、主持等使用的书面底稿" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4136,
+  "word" : "台無し",
+  "reading" : "だいなし",
+  "romaji" : null,
+  "meaning" : [ "1. 名词：搞砸，弄坏，糟蹋，毁坏；白费，泡汤。2. ナ形容词：搞坏的，糟蹋了的，白费的" ],
+  "notes" : [ "作为ナ形容词使用时，后续可接「になる」「にする」等表达状态变化或使役的形式，也可直接修饰名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4137,
+  "word" : "台詞",
+  "reading" : "せりふ",
+  "romaji" : null,
+  "meaning" : [ "1. 戏剧、电影、电视剧等中角色所说的台词；2. （日常中）预先准备好的套话、说辞" ],
+  "notes" : [ "作为「台词」义时是常用的文艺相关词汇；作为「套话」义时多带有略带负面的语感，指缺乏诚意的固定说辞。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4138,
+  "word" : "台頭",
+  "reading" : "たいとう",
+  "romaji" : null,
+  "meaning" : [ "1. 抬头，扬起；2.（势力、地位等）上升，崛起，得势，兴起；3.（物价、数量等）上涨，上升" ],
+  "notes" : [ "作为动词使用时常以「台頭する」的形式出现，多用来描述势力、经济、地位等向上发展的状态" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4139,
+  "word" : "台風",
+  "reading" : "たいふう",
+  "romaji" : null,
+  "meaning" : [ "发生在西北太平洋和南海的热带气旋，是一种伴随强风、暴雨的灾害性天气" ],
+  "notes" : [ "日语中「台風」特指西北太平洋海域生成的热带气旋，与气象学定义范围略有差异" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4140,
+  "word" : "叱る",
+  "reading" : "しかる",
+  "romaji" : null,
+  "meaning" : [ "1. 责备，训斥，斥责；2. 批评，指责；3. 告诫，劝诫" ],
+  "notes" : [ "当表示上级对下级、长辈对晚辈的斥责时使用较多，也可用于对他人不当行为的指责，语气可根据语境从温和告诫到严厉斥责不等。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4141,
+  "word" : "史実",
+  "reading" : "しじつ",
+  "romaji" : null,
+  "meaning" : [ "史实，历史事实" ],
+  "notes" : [ "指经过考证确认的真实历史事件、情况，多用于与虚构创作、传闻等相对比的语境中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4142,
+  "word" : "右",
+  "reading" : "みぎ",
+  "romaji" : null,
+  "meaning" : [ "1. 右边，右侧；2. （方位、顺序上的）右边；3. （政治立场上的）右派；4. （围棋等的）右手方向" ],
+  "notes" : [ "作为方位词使用时，常与「左（ひだり）」对应；在惯用表达「右に出る者はいない」中表示“无人能及，首屈一指”。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4143,
+  "word" : "右側",
+  "reading" : "みぎがわ",
+  "romaji" : null,
+  "meaning" : [ "右侧，右边；（道路、行进方向的）右侧；（事物的）右边部分" ],
+  "notes" : [ "可用于表示方位、位置，在交通场景中常指行进方向的右侧" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4144,
+  "word" : "右手",
+  "reading" : "みぎて",
+  "romaji" : null,
+  "meaning" : [ "1. 右手；2. 右侧，右边；3. （在某个领域中）擅长的一方，优势的一侧" ],
+  "notes" : [ "当表示「优势的一侧」时，多用于体育、技能等领域的语境中。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4145,
+  "word" : "右折",
+  "reading" : "うせつ",
+  "romaji" : null,
+  "meaning" : [ "向右转弯，右转（指车辆、行人等向右侧改变行进方向的动作）" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「右折する」「右折した」等活用形式；多用于交通场景描述。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4146,
+  "word" : "叶う",
+  "reading" : "かなう",
+  "romaji" : null,
+  "meaning" : [ "1. 实现，如愿以偿；2. 符合，满足；3. （愿望、希望等）达成" ],
+  "notes" : [ "常用搭配「願いが叶う」（愿望实现），自动词，主语多为愿望、梦想等抽象事物。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4147,
+  "word" : "司る/掌る",
+  "reading" : "つかさどる",
+  "romaji" : null,
+  "meaning" : [ "1. 掌管，管理，主持；2. 担任（职务、工作等）；3. 主持（仪式、活动等）" ],
+  "notes" : [ "「司る」和「掌る」为同义汉字写法，使用场景基本一致，前者更偏向书面语，后者在正式场合也可使用。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4148,
+  "word" : "司会",
+  "reading" : "しかい",
+  "romaji" : null,
+  "meaning" : [ "1. （会议、活动等的）主持，司仪工作；2. 主持人，司仪" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「司会する」的动词形式，指进行主持的动作" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4149,
+  "word" : "司法",
+  "reading" : "しほう",
+  "romaji" : null,
+  "meaning" : [ "司法；指行使审判权，维护法律秩序的国家职能，与立法、行政并列为国家的三大权力" ],
+  "notes" : [ "属于法律领域常用词汇，常与「独立」「制度」「手続き」等词汇搭配使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4150,
+  "word" : "各々",
+  "reading" : "おのおの",
+  "romaji" : null,
+  "meaning" : [ "各个；各自；每人" ],
+  "notes" : [ "可作为副词使用，修饰动词、形容词等，表达每个个体的状态或动作" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4151,
+  "word" : "各人",
+  "reading" : "かくじん",
+  "romaji" : null,
+  "meaning" : [ "每个人，各人，各自" ],
+  "notes" : [ "多用于正式场合或书面语，强调个体的独立性" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4152,
+  "word" : "各国",
+  "reading" : "かっこく",
+  "romaji" : null,
+  "meaning" : [ "各个国家，世界各国" ],
+  "notes" : [ "常用作定语，如「各国の事情」（各国的情况）、「各国の産品」（各国的产品）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4153,
+  "word" : "各地",
+  "reading" : "かくち",
+  "romaji" : null,
+  "meaning" : [ "各地，各处，各个地方" ],
+  "notes" : [ "可接「～各地」构成复合词，如「全国各地」「海外各地」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4154,
+  "word" : "各自",
+  "reading" : "かくじ",
+  "romaji" : null,
+  "meaning" : [ "各自，每个人，各个" ],
+  "notes" : [ "常用来强调个体的独立性，后可接「の」修饰名词，也可直接作状语使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4155,
+  "word" : "各駅停車",
+  "reading" : "かくえきていしゃ",
+  "romaji" : null,
+  "meaning" : [ "各站停车列车，慢车（与“急行”“特急”等快车相对，依次停靠线路上所有车站的列车）" ],
+  "notes" : [ "常作为列车类型的标识使用，在口语中也可简略称为「各停（かくてい）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4156,
+  "word" : "合います",
+  "reading" : "あいます",
+  "romaji" : null,
+  "meaning" : [ "1. 合适，适合，相配；2. 一致，符合；3. 会合，遇见；4. 对得上，吻合" ],
+  "notes" : [ "「合います」是动词「合う（あう）」的ます形，除上述含义外，还可用于表示时间、条件等匹配，如「時間が合います」表示时间合适。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4157,
+  "word" : "合う",
+  "reading" : "あう",
+  "romaji" : null,
+  "meaning" : [ "1. 合适，合身；一致，符合；2. 协调，相称；3. 相遇，碰见；4. 对得上，猜中；5. 合算，划算" ],
+  "notes" : [ "「合う」是使用频率极高的基础动词，除常见的“合适、一致”含义外，还可表示相遇、猜中等多种引申义，需结合语境理解。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4158,
+  "word" : "合わす",
+  "reading" : "あわす",
+  "romaji" : null,
+  "meaning" : [ "1. 使合在一起，拼接；2. 配合，协调；3. 核对，校对；4. 凑齐，凑足；5. 合并，混合" ],
+  "notes" : [ "他动词，对应自动词为「合う（あう）」，在表示“核对”含义时也可写作「合わせる」，两者语义相近但「合わす」更侧重动作的简洁性。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4159,
+  "word" : "合わせて",
+  "reading" : "あわせて",
+  "romaji" : null,
+  "meaning" : [ "1. 共计，合计；2. 同时，一起；3. 加上，连同" ],
+  "notes" : [ "除副词用法外，「合わせて」也可作为动词「合わせる」的て形使用，表示动作的伴随或相继发生，需根据语境区分词性" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4160,
+  "word" : "合わせる",
+  "reading" : "あわせる",
+  "romaji" : null,
+  "meaning" : [ "1. 合计、加起来；2. 合并、汇总；3. 配合、调和；4. 对准、对齐；5. 凑在一起、聚集；6. 适应、迎合" ],
+  "notes" : [ "「合わせる」是他动词，对应的自动词为「合う（あう）」，使用时需注意自他动词的区分" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4161,
+  "word" : "合併",
+  "reading" : "がっぺいする",
+  "romaji" : null,
+  "meaning" : [ "两个及以上的事物合并成一个；企业、团体等的合并" ],
+  "notes" : [ "作为サ変動詞，可构成「合併をする」「合併する」两种表达，多用于组织、机构、地域等正式场合的合并。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4162,
+  "word" : "合同",
+  "reading" : "ごうどう",
+  "romaji" : null,
+  "meaning" : [ "1. 联合，结合；2. 合并，合并为一体；3. （法律上的）合同，契约" ],
+  "notes" : [ "作为名词使用时可表示“合同、契约”，作为サ变动词使用时多表示“联合、合并”的动作" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4163,
+  "word" : "合否",
+  "reading" : "ごうひ",
+  "romaji" : null,
+  "meaning" : [ "合格与不合格，录取与否，通过与否" ],
+  "notes" : [ "多用来表示考试、选拔等的结果判定" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4164,
+  "word" : "合唱",
+  "reading" : "がっしょう",
+  "romaji" : null,
+  "meaning" : [ "1. 合唱，齐声歌唱；2. 合唱曲" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「合唱する」的形式，表达进行合唱的动作" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4165,
+  "word" : "合図",
+  "reading" : "あいず",
+  "romaji" : null,
+  "meaning" : [ "1. 信号，暗号；2. 暗号，示意；3. （事先约定好的）信号、暗号；4. 发信号，递暗号" ],
+  "notes" : [ "作为サ変動詞使用时，可变形为「合図する」「合図した」等形式，常用于通过动作、声音等传递事先约定好的信息。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4166,
+  "word" : "合弁",
+  "reading" : "ごうべん",
+  "romaji" : null,
+  "meaning" : [ "合资，合办；合资企业，合营公司" ],
+  "notes" : [ "可构成复合词「合弁企業（ごうべんきぎょう）」表示合资企业，作为名词可后续「する」构成サ変动词「合弁する」使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4167,
+  "word" : "合弁会社",
+  "reading" : "ごうべんがいしゃ",
+  "romaji" : null,
+  "meaning" : [ "合资公司、合营公司" ],
+  "notes" : [ "指由两家或两家以上不同国籍的企业共同投资、共同经营、共担风险、共负盈亏的企业形态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4168,
+  "word" : "合意",
+  "reading" : "ごうい",
+  "romaji" : null,
+  "meaning" : [ "1. 同意，赞成；2. （双方或多方）达成一致意见，达成协议" ],
+  "notes" : [ "作为名词使用时可构成「合意書（ごういしょ）」「合意形成（ごういけいせい）」等复合词；作为サ变自动词使用时，常与「について」「を」等助词搭配。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4169,
+  "word" : "合格",
+  "reading" : "ごうかく",
+  "romaji" : null,
+  "meaning" : [ "1. （考试、审查等）合格，及格；2. 符合标准，达到要求" ],
+  "notes" : [ "作为サ変動詞使用时，常以「～に合格する」的形式出现，表示通过某类考核或符合某项标准。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4170,
+  "word" : "合格します",
+  "reading" : "ごうかくします",
+  "romaji" : null,
+  "meaning" : [ "及格，合格；通过（考试、审查等）" ],
+  "notes" : [ "「合格します」是「合格する」的ます形，多用于正式场合或礼貌表达，主语通常为参加考试、审查的人。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4171,
+  "word" : "合点",
+  "reading" : "がてん",
+  "romaji" : null,
+  "meaning" : [ "1. 认可，同意，赞成；2. 理解，领会，明白；3. （围棋、将棋等）使对方棋子无法活动的点" ],
+  "notes" : [ "作为动词使用时多以「合点する」的形式出现；含义3为围棋、将棋等特定领域的用法" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4172,
+  "word" : "合理",
+  "reading" : "ごうり",
+  "romaji" : null,
+  "meaning" : [ "1. 合乎道理、事理；合理。2. 逻辑学中指推理、论证符合逻辑规则，具有正确性。" ],
+  "notes" : [ "可构成复合形容词「合理的（ごうりてき）」，使用频率较高。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4173,
+  "word" : "合致",
+  "reading" : "ごうち",
+  "romaji" : null,
+  "meaning" : [ "1. （意见、想法、条件等）一致，吻合，符合；2. （物品等）匹配，契合" ],
+  "notes" : [ "「合致する」多用于比较抽象的事物（如条件、意见、事实等）或需要精准匹配的事物（如图纸、规格等），日常口语中表达普通的一致更常用「一致する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4174,
+  "word" : "合計",
+  "reading" : "ごうけい",
+  "romaji" : null,
+  "meaning" : [ "1. 名词：合计、总计、总数；2. サ変動詞：合计、总计、把…加起来" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「合計する」的形式，用于计算总数的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4175,
+  "word" : "合間",
+  "reading" : "あいま",
+  "romaji" : null,
+  "meaning" : [ "1. 空闲时间，间歇，空隙；2. （事物的）中间，间隔" ],
+  "notes" : [ "可构成复合词，如「合間時間（あいまじかん）」表示零碎的空闲时间" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4176,
+  "word" : "吉日",
+  "reading" : "きちじつ",
+  "romaji" : null,
+  "meaning" : [ "吉日，宜办事的好日子，通常指适合举办婚礼、祭祀、开业等重要仪式或活动的吉利日子" ],
+  "notes" : [ "常与「選ぶ」「挙げる」「定める」等动词搭配使用，在传统习俗中会参考历法来确定吉日" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4177,
+  "word" : "吊す",
+  "reading" : "つるす",
+  "romaji" : null,
+  "meaning" : [ "1. 吊，悬，挂；2. 绞死，吊死；3. 提，拎" ],
+  "notes" : [ "该词除了表示普通的悬挂动作外，还包含绞杀的含义，使用时需根据语境区分" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4178,
+  "word" : "吊る",
+  "reading" : "つる",
+  "romaji" : null,
+  "meaning" : [ "1. 吊，悬，挂；2. 悬挂（以示示众、处分）；3. 拖欠，挂账" ],
+  "notes" : [ "该词的他动词形式「吊るす（つるす）」更为常用，本词多作为古语或书面语使用，日常会话中较少单独出现。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4179,
+  "word" : "吊革",
+  "reading" : "つりかわ",
+  "romaji" : null,
+  "meaning" : [ "吊环，拉手（多指电车、巴士等公共交通工具内供乘客抓握的环状扶手）" ],
+  "notes" : [ "多用于轨道交通或巴士等公共交通工具场景，是日常出行相关的常用词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4180,
+  "word" : "同い年",
+  "reading" : "おないどし",
+  "romaji" : null,
+  "meaning" : [ "同年，同岁，年龄相同的人" ],
+  "notes" : [ "「同い年」也可写作「同年代」，但「同い年」更侧重年龄完全相同，「同年代」指年龄处于同一区间。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4181,
+  "word" : "同じ",
+  "reading" : "おなじ",
+  "romaji" : null,
+  "meaning" : [ "1. 相同的，同样的；2. 同一个，同一的；3. 一样的，相等的" ],
+  "notes" : [ "作为形容动词使用时，常后续「〜です」「〜だ」，修饰名词时用「同じ+名词」的形式，无需加「な」" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4182,
+  "word" : "同一",
+  "reading" : "どういつ",
+  "romaji" : null,
+  "meaning" : [ "1. 同样，相同，没有区别；2. 同一个，同一的" ],
+  "notes" : [ "作为形容动词使用时，常后续「だ・です」「な（连体形）」「に（连用形）」进行活用，多用于书面语" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4183,
+  "word" : "同乗",
+  "reading" : "どうじょう",
+  "romaji" : null,
+  "meaning" : [ "1. 同乘、同坐（交通工具）；2. （与他人）共乘同一辆车、船、飞机等交通工具" ],
+  "notes" : [ "作为サ変動詞，可构成「同乗する」的动词形式，也可作名词使用，如「同乗者」（同乘者）。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4184,
+  "word" : "同僚",
+  "reading" : "どうりょう",
+  "romaji" : null,
+  "meaning" : [ "同事，同僚，同寅（指在同一单位、同一职场工作的人）" ],
+  "notes" : [ "多用于正式场合或书面语，口语中也可使用，相比「ともだち（朋友）」更强调职场共事关系" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4185,
+  "word" : "同封",
+  "reading" : "どうふう",
+  "romaji" : null,
+  "meaning" : [ "1. 随信件、包裹等一同装入；附寄，同封。2. （把若干物品）装入同一容器" ],
+  "notes" : [ "「同封」作为サ変動詞，常以「～を同封する」「同封のうえ」的形式使用，多用于商务文书、正式书信等场景。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4186,
+  "word" : "同居",
+  "reading" : "どうきょ",
+  "romaji" : null,
+  "meaning" : [ "1. 共同居住，同住；2. （男女）同居，未婚同居" ],
+  "notes" : [ "作为サ変动词使用时可后续する构成动词形式，既指家族、亲友间的共同居住，也常指未婚男女的共同生活" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4187,
+  "word" : "同情",
+  "reading" : "どうじょう",
+  "romaji" : null,
+  "meaning" : [ "1. 对他人的不幸、痛苦等感同身受，心生怜悯；2. 赞同、认可他人的心情或意见" ],
+  "notes" : [ "作为サ変動词使用时可作「同情する」，同时也可作为形容动词作「同情だ」「同情な」的活用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4188,
+  "word" : "同意",
+  "reading" : "どうい",
+  "romaji" : null,
+  "meaning" : [ "1. 同意，赞成，认可；2. 意见一致，看法相同" ],
+  "notes" : [ "作为サ変動詞使用时，常以「同意する」的形式出现；可构成短语「同意書（どういしょ）」，意为同意书。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4189,
+  "word" : "同感",
+  "reading" : "どうかん",
+  "romaji" : null,
+  "meaning" : [ "1. 同感，相同的感想；2. 同意，赞同" ],
+  "notes" : [ "可作サ変動詞使用，形式为「同感する」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4190,
+  "word" : "同時",
+  "reading" : "どうじ",
+  "romaji" : null,
+  "meaning" : [ "1. 名词：同一时间；2. 副词：同时，一块儿，一齐" ],
+  "notes" : [ "作副词使用时，常以「同時に」的形式出现，可用于连接两个并列的动作、状态或事项。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4191,
+  "word" : "同様",
+  "reading" : "どうよう",
+  "romaji" : null,
+  "meaning" : [ "同样的，同等的；类似的，相仿的；一样地，同样地" ],
+  "notes" : [ "作为形容动词使用时，修饰名词需加「の」，作状语需加「に」；也可单独作名词使用，意为“同样的事物、情况”。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4192,
+  "word" : "同盟",
+  "reading" : "どうめい",
+  "romaji" : null,
+  "meaning" : [ "1. 同盟，结盟，指多个国家、团体或个人为共同目标结成的合作关系；2. 盟约，同盟条约" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「同盟する」的形式，表示进行结盟的动作。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4193,
+  "word" : "同等",
+  "reading" : "どうとう",
+  "romaji" : null,
+  "meaning" : [ "同等，同等的；同等级，同资格；相同程度" ],
+  "notes" : [ "作为形容动词使用时，常以「同等だ」「同等の」「同等に」的形式出现，用于表示事物在等级、资格、程度等方面一致。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4194,
+  "word" : "同級生",
+  "reading" : "どうきゅうせい",
+  "romaji" : null,
+  "meaning" : [ "同年级的学生，同班同学" ],
+  "notes" : [ "可用于指小学、中学、高中、大学等同一学年的同学，也可宽泛指同期入学的校友" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4195,
+  "word" : "同行",
+  "reading" : "どうこう",
+  "romaji" : null,
+  "meaning" : [ "1. 同行，同去，结伴同行；2. （与文件等）一同附上，一并提交" ],
+  "notes" : [ "作为サ变他动词使用时，可接「を」表示同行的对象；作为名词使用时，可构成「同行者（どうこうしゃ）」等复合词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4196,
+  "word" : "同調",
+  "reading" : "どうちょう",
+  "romaji" : null,
+  "meaning" : [ "1. （思想、行动等）赞同，附和；2. （动作、节奏等）步调一致，同步" ],
+  "notes" : [ "作为サ変动词使用时，可构成「同調する」的动词形式，常见搭配有「～に同調する」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4197,
+  "word" : "名",
+  "reading" : "な0",
+  "romaji" : null,
+  "meaning" : [ "1. 名字，姓名；2. 名称，称呼；3. 名声，名望；4. 名义，名分；5. （语法）名词" ],
+  "notes" : [ "作为语法术语时，常和「詞」组成「名詞（めいし）」使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4198,
+  "word" : "名付ける",
+  "reading" : "なづける",
+  "romaji" : null,
+  "meaning" : [ "1. 命名，起名，给……取名；2. 称呼，叫做；3. 指名，指定" ],
+  "notes" : [ "「名付ける」是他动词，可接を表示被命名的对象，也常以「～と名付ける」的形式使用；其被动态「名付けられる」常用于表示事物被赋予的名称" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4199,
+  "word" : "名作",
+  "reading" : "めいさく",
+  "romaji" : null,
+  "meaning" : [ "1. 名作、杰作；指在艺术、文学、影视等领域受到广泛认可、具有较高艺术价值与影响力的作品。2. 著名的作品" ],
+  "notes" : [ "可用于指代文学、绘画、音乐、影视等多种艺术领域的经典作品，也可用于日常语境中称赞某一优秀作品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4200,
+  "word" : "名刺",
+  "reading" : "めいし",
+  "romaji" : null,
+  "meaning" : [ "名片，姓名卡片，上面印有姓名、职务、所属单位、联系方式等信息的卡片" ],
+  "notes" : [ "商务场合或正式社交场合中常用的物品，是自我介绍、建立联系的重要工具" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

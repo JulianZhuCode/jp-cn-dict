@@ -1,0 +1,901 @@
+[ {
+  "id" : 9501,
+  "word" : "自覚",
+  "reading" : "じかく",
+  "romaji" : null,
+  "meaning" : [ "自己が何をしているか、何を感じているかを知ること。また、社会や周囲の状況に対する自らの意識や理解。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9502,
+  "word" : "自谦語",
+  "reading" : "じけんご",
+  "romaji" : null,
+  "meaning" : [ "自分を貶めることで、相対的に動作の受け手や動作に関与する対象に敬意を表す言葉。" ],
+  "notes" : [ "自谦语是日语中一种重要的语言表达方式，使用时需注意语境和对象，恰当使用可体现对他人的尊重。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9503,
+  "word" : "自販機",
+  "reading" : "じばんき",
+  "romaji" : null,
+  "meaning" : [ "自动售货机，可自动售卖饮料、食品、香烟等商品的机器。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9504,
+  "word" : "自身",
+  "reading" : "じしん",
+  "romaji" : null,
+  "meaning" : [ "自己，自身" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9505,
+  "word" : "自転",
+  "reading" : "じてん",
+  "romaji" : null,
+  "meaning" : [ "自转；自行车" ],
+  "notes" : [ "作为名词时常见的含义有自转和自行车，在表示自行车时，也可写作「自転車」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9506,
+  "word" : "自転車",
+  "reading" : "じてんしゃ",
+  "romaji" : null,
+  "meaning" : [ "两轮的人力交通工具，通常由车架、车把、车轮、链条、坐垫等部分组成，依靠脚蹬驱动前行。" ],
+  "notes" : [ "常见的交通工具词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9507,
+  "word" : "自転車置き場",
+  "reading" : "じてんしゃおきば",
+  "romaji" : null,
+  "meaning" : [ "存放自行车的地方" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9508,
+  "word" : "臭い",
+  "reading" : "くさい",
+  "romaji" : null,
+  "meaning" : [ "有臭味；有不好的气味；难闻。" ],
+  "notes" : [ "「臭い」是形容词，以「い」结尾，其否定形式是「臭くない」，过去式是「臭かった」等。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9509,
+  "word" : "至って",
+  "reading" : "いたって",
+  "romaji" : null,
+  "meaning" : [ "极其，非常，很" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9510,
+  "word" : "至る",
+  "reading" : "いたる",
+  "romaji" : null,
+  "meaning" : [ "到达；达到；至；到；及；至于；涉及；关乎" ],
+  "notes" : [ "该词为他动词，常用的搭配如「～に至る」表示到达某个地点或达到某种状态等" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9511,
+  "word" : "至る",
+  "reading" : "いたる",
+  "romaji" : null,
+  "meaning" : [ "到达；至；到；及；至於" ],
+  "notes" : [ "表示到达某个地点或程度等意思" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9512,
+  "word" : "至る所",
+  "reading" : "いたるところ",
+  "romaji" : null,
+  "meaning" : [ "到处，各处；所有地方" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9513,
+  "word" : "至れり尽くせり",
+  "reading" : "いたれり つくせり",
+  "romaji" : null,
+  "meaning" : [ "极尽所能，达到极致，尽善尽美。表示程度达到了最高限度。" ],
+  "notes" : [ "古语表达，现代日语中较少使用。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9514,
+  "word" : "至急",
+  "reading" : "しきゅう",
+  "romaji" : null,
+  "meaning" : [ "火速，赶快；急，加急。表示需要立刻、马上做某事。" ],
+  "notes" : [ "" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9515,
+  "word" : "致す",
+  "reading" : "いたす",
+  "romaji" : null,
+  "meaning" : [ "（する的自谦语）做；行う；なす。 また、「～させていただく」の形で、他人に何かをさせてもらう意を表す。" ],
+  "notes" : [ "「致す」は、自谦语として频繁に使われます。日常会话や手纸などでもよく用いられます。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9516,
+  "word" : "致命的",
+  "reading" : "ちめいてき",
+  "romaji" : null,
+  "meaning" : [ "与生命相关的事物产生严重危害，导致死亡或极其严重后果的。致命的，要命的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9517,
+  "word" : "舅",
+  "reading" : "おじ",
+  "romaji" : null,
+  "meaning" : [ "公公；岳父；舅父；姑父；姨夫" ],
+  "notes" : [ "在日语中，一个词可能有多种含义，使用时需根据上下文判断具体所指。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9518,
+  "word" : "興じる",
+  "reading" : "きょうじる",
+  "romaji" : null,
+  "meaning" : [ "1. 感兴趣，对……有兴致；2. 引起兴趣，使感兴趣；3. 起哄，闹着玩儿" ],
+  "notes" : [ "自動詞の場合は、主語が興味を持つ対象になります。他動詞の場合は、対象を興味を持たせる主体になります。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9519,
+  "word" : "興味",
+  "reading" : "きょうみ",
+  "romaji" : null,
+  "meaning" : [ "对事物感到好奇并想要关注、了解的情绪或倾向；兴趣。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9520,
+  "word" : "興味深い",
+  "reading" : "きょうみぶかい",
+  "romaji" : null,
+  "meaning" : [ "形容事物非常有趣，能引起强烈的兴趣。" ],
+  "notes" : [ "该词为形容词，常用来描述事物具有吸引力，能让人产生浓厚兴趣。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9521,
+  "word" : "興奮",
+  "reading" : "きょうふん",
+  "romaji" : null,
+  "meaning" : [ "兴奋，激动；（身体、感情等）奋起，兴奋状态" ],
+  "notes" : [ "常用作サ变动词「興奮する」，表示人的情绪激动、兴奋的状态" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9522,
+  "word" : "興奮する",
+  "reading" : "こうふんする",
+  "romaji" : null,
+  "meaning" : [ "变得兴奋、激动" ],
+  "notes" : [ "表示人或事物处于兴奋、激动的状态" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9523,
+  "word" : "興業",
+  "reading" : "こうぎょう",
+  "romaji" : null,
+  "meaning" : [ "振兴事业；经营事业；企业" ],
+  "notes" : [ "「興業」は、主に商業や産業などの活動を指します。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9524,
+  "word" : "興行",
+  "reading" : "こうぎょう",
+  "romaji" : null,
+  "meaning" : [ "名词。1. 演出；公演；上映；2. （戏剧、电影等的）票房收入" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9525,
+  "word" : "舌",
+  "reading" : "した",
+  "romaji" : null,
+  "meaning" : [ "舌头" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9526,
+  "word" : "舗装",
+  "reading" : "ほそう",
+  "romaji" : null,
+  "meaning" : [ "铺设路面；铺砌；敷设（管道、线路等）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9527,
+  "word" : "舞い上がる",
+  "reading" : "まいあがる",
+  "romaji" : null,
+  "meaning" : [ "1. 飞舞，飞扬。例：花が舞い上がる。（花朵飞舞。）2. 高涨，沸腾。例：喜びが舞い上がる。（喜悦之情高涨。）3. 忘乎所以，得意忘形。例：成功で舞い上がっている。（因成功而忘乎所以。）" ],
+  "notes" : [ "该词为自动词，常用于描述物体向上飞舞或人的情绪高涨等情景。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9528,
+  "word" : "舞台",
+  "reading" : "ぶたい",
+  "romaji" : null,
+  "meaning" : [ "在剧院、礼堂等场所，演员表演节目时所站立的平台。也可引申为在某个领域展示才华、进行重要活动的场合。" ],
+  "notes" : [ "“舞台”是日语中的常用词汇，用法较为广泛。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9529,
+  "word" : "航空",
+  "reading" : "こうくう",
+  "romaji" : null,
+  "meaning" : [ "飞机在空中飞行或通过飞机进行的交通运输等相关活动" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9530,
+  "word" : "航空会社",
+  "reading" : "こうくうがいしゃ",
+  "romaji" : null,
+  "meaning" : [ "航空公司" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9531,
+  "word" : "航空便",
+  "reading" : "こうくうびん",
+  "romaji" : null,
+  "meaning" : [ "通过航空运输的邮件或货物；航空邮件；航空货运" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9532,
+  "word" : "航空券",
+  "reading" : "こうくうけん",
+  "romaji" : null,
+  "meaning" : [ "飞机票" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9533,
+  "word" : "船",
+  "reading" : "ふね",
+  "romaji" : null,
+  "meaning" : [ "船；舟楫。水上行驶的交通工具。" ],
+  "notes" : [ "常见的复合词有：汽船（きせん：轮船）、帆船（ほうせん：帆船）等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9534,
+  "word" : "船便",
+  "reading" : "ふなびん",
+  "romaji" : null,
+  "meaning" : [ "通过船进行的运输方式，即船运" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9535,
+  "word" : "船頭",
+  "reading" : "せんとう",
+  "romaji" : null,
+  "meaning" : [ "船家，船老大，船夫；（木工等行业中）技术熟练的人，头儿" ],
+  "notes" : [ "该词在日常生活中使用频率较低，是较为传统的词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9536,
+  "word" : "良い",
+  "reading" : "いい",
+  "romaji" : null,
+  "meaning" : [ "好的；出色的；合适的；良好的等意思。" ],
+  "notes" : [ "比较特殊的形容詞，没有词尾变化。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9537,
+  "word" : "良し悪し",
+  "reading" : "よしあし",
+  "romaji" : null,
+  "meaning" : [ "善恶，好坏；有利有弊。判断事物的优劣、正误等情况。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9538,
+  "word" : "良好",
+  "reading" : "りょうこう",
+  "romaji" : null,
+  "meaning" : [ "状態や品質が良く、不具合や問題がないこと。また、順調であること。" ],
+  "notes" : [ "形容動詞で、連体形は「良好な」となる。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9539,
+  "word" : "良心",
+  "reading" : "りょうしん",
+  "romaji" : null,
+  "meaning" : [ "良心，本心。指个人内心对善恶、是非等的判断标准和道德意识。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9540,
+  "word" : "良識",
+  "reading" : "りょうしき",
+  "romaji" : null,
+  "meaning" : [ "明智，正确的判断力；常识" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9541,
+  "word" : "色",
+  "reading" : "いろ",
+  "romaji" : null,
+  "meaning" : [ "颜色；色彩；脸色；神色；种类" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9542,
+  "word" : "色合い",
+  "reading" : "いろあい",
+  "romaji" : null,
+  "meaning" : [ "色调，配色；色彩倾向；氛围，感觉" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9543,
+  "word" : "色彩",
+  "reading" : "しきさい",
+  "romaji" : null,
+  "meaning" : [ "色彩；倾向，特色；（在某方面表现出的）氛围、格调" ],
+  "notes" : [ "该词在日常生活和书面语中都较为常用，可用于描述画面、事物等的颜色特征，也可用于比喻事物所具有的某种倾向或特色。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9544,
+  "word" : "色濃い",
+  "reading" : "いろぎい",
+  "romaji" : null,
+  "meaning" : [ "颜色浓重；色彩浓郁；浓厚；强烈" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9545,
+  "word" : "色直し",
+  "reading" : "いろなおし",
+  "romaji" : null,
+  "meaning" : [ "更换颜色；改变模样、外观等。另外在婚礼等场合，也可指换衣服。" ],
+  "notes" : [ "该词原本指改变颜色，后来也用于婚礼等场合换衣服的意思。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9546,
+  "word" : "色眼鏡",
+  "reading" : "いろめがね",
+  "romaji" : null,
+  "meaning" : [ "1. 有色眼镜，墨镜。2. 偏见。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9547,
+  "word" : "色紙",
+  "reading" : "いろがみ0",
+  "romaji" : null,
+  "meaning" : [ "彩色纸，有颜色的折纸。通常用于书写、绘画、装饰等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9548,
+  "word" : "色鉛筆",
+  "reading" : "いろえんぴつ",
+  "romaji" : null,
+  "meaning" : [ "彩色铅笔" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9549,
+  "word" : "艶",
+  "reading" : "つや",
+  "romaji" : null,
+  "meaning" : [ "光泽，光亮，润泽；艳丽，华丽；吸引人，富有魅力" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9550,
+  "word" : "芝",
+  "reading" : "しば",
+  "romaji" : null,
+  "meaning" : [ "草坪，草地；（草坪里的）草" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9551,
+  "word" : "芝居",
+  "reading" : "しばい",
+  "romaji" : null,
+  "meaning" : [ "戏剧，话剧；表演，演技" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9552,
+  "word" : "芝生",
+  "reading" : "しばふ",
+  "romaji" : null,
+  "meaning" : [ "草坪，草地。通常指经过人工修剪整理的草地。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9553,
+  "word" : "花",
+  "reading" : "はな",
+  "romaji" : null,
+  "meaning" : [ "花朵；花纹；精华；声望等。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9554,
+  "word" : "花壇",
+  "reading" : "かだん",
+  "romaji" : null,
+  "meaning" : [ "种植花卉等植物的土台，花坛" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9555,
+  "word" : "花婿",
+  "reading" : "はなむこ",
+  "romaji" : null,
+  "meaning" : [ "新郎。婚礼上女方称呼男方的用语。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9556,
+  "word" : "花嫁",
+  "reading" : "はなよめ",
+  "romaji" : null,
+  "meaning" : [ "新娘；新嫁娘" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9557,
+  "word" : "花屋",
+  "reading" : "はなや",
+  "romaji" : null,
+  "meaning" : [ "名词。花店。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9558,
+  "word" : "花束",
+  "reading" : "はなたば",
+  "romaji" : null,
+  "meaning" : [ "将各种鲜花组合在一起，用绳子或包装纸等包扎好的物品。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9559,
+  "word" : "花火",
+  "reading" : "はなび",
+  "romaji" : null,
+  "meaning" : [ "焰火，烟花；火花；烟火（用于祭祀等活动）" ],
+  "notes" : [ "该词较为常见，在日常生活中经常用于描述各种烟花表演等场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9560,
+  "word" : "花瓶",
+  "reading" : "かびん",
+  "romaji" : null,
+  "meaning" : [ "用于插花等装饰的容器，通常为陶瓷、玻璃等材质制成的瓶子。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9561,
+  "word" : "花茶",
+  "reading" : "はなちゃ",
+  "romaji" : null,
+  "meaning" : [ "花茶（用花熏制的茶）" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9562,
+  "word" : "花見",
+  "reading" : "はなみ",
+  "romaji" : null,
+  "meaning" : [ "赏花，看花的活动" ],
+  "notes" : [ "这是一个描述赏花行为或活动的名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9563,
+  "word" : "芳しい",
+  "reading" : "よさしい",
+  "romaji" : null,
+  "meaning" : [ "芬芳的；令人愉快的；不错的；良好的；优秀的，声誉好的" ],
+  "notes" : [ "该词为书面语，在日常口语中较少使用" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9564,
+  "word" : "芸能",
+  "reading" : "げいのう",
+  "romaji" : null,
+  "meaning" : [ "演艺、文艺、曲艺等艺术领域的统称。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9565,
+  "word" : "芸能人",
+  "reading" : "げいのうじん",
+  "romaji" : null,
+  "meaning" : [ "从事演艺、艺术等方面工作的人，包括演员、歌手、舞者、艺人等" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9566,
+  "word" : "芸術",
+  "reading" : "げいじゅつ",
+  "romaji" : null,
+  "meaning" : [ "通过各种手段创造出来的具有审美价值的作品、活动等，涵盖文学、绘画、音乐、舞蹈、戏剧等多个领域" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9567,
+  "word" : "芽",
+  "reading" : "め",
+  "romaji" : null,
+  "meaning" : [ "植物刚长出来的嫩茎、嫩叶；事物发展的开端或迹象" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9568,
+  "word" : "苗",
+  "reading" : "なえ",
+  "romaji" : null,
+  "meaning" : [ "幼苗；秧苗；稻秧；树苗；花苗等各种即将成长为成熟植株的初期草木" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9569,
+  "word" : "苛め",
+  "reading" : "いじめ",
+  "romaji" : null,
+  "meaning" : [ "欺负，霸凌；虐待；刁难" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9570,
+  "word" : "苛立つ",
+  "reading" : "いらだつ",
+  "romaji" : null,
+  "meaning" : [ "着急，焦急，不耐烦，烦躁不安" ],
+  "notes" : [ "该词表示因等待、情况不如意等而产生的负面情绪。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9571,
+  "word" : "若々しい",
+  "reading" : "わかわかしい",
+  "romaji" : null,
+  "meaning" : [ "充满青春活力的样子；朝气蓬勃的；稚嫩的" ],
+  "notes" : [ "该词用于形容人或事物呈现出年轻、有活力的状态" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9572,
+  "word" : "若い",
+  "reading" : "わかい",
+  "romaji" : null,
+  "meaning" : [ "年轻的；年纪小的；朝气蓬勃的；幼稚的；没有经验的" ],
+  "notes" : [ "该词为形容词，词干为「若」，词尾为「い」。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9573,
+  "word" : "若さ",
+  "reading" : "わかさ",
+  "romaji" : null,
+  "meaning" : [ "年轻；青春；朝气" ],
+  "notes" : [ "该词表示年轻的状态或青春时期，也可引申为活力、朝气等含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9574,
+  "word" : "若干",
+  "reading" : "ジャカン",
+  "romaji" : null,
+  "meaning" : [ "数量が少ないこと。また、不定の少量を表す語。" ],
+  "notes" : [ "「若干」は、数量を表す場合に使われる言葉です。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9575,
+  "word" : "若者",
+  "reading" : "わかもの",
+  "romaji" : null,
+  "meaning" : [ "年轻人；青年；小伙子" ],
+  "notes" : [ "该词较为常用，用于指代年轻的人群体。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9576,
+  "word" : "若葉",
+  "reading" : "わかば",
+  "romaji" : null,
+  "meaning" : [ "嫩叶，新叶；青春，朝气" ],
+  "notes" : [ "“若葉”常见义为嫩叶、新叶，也可引申为青春、朝气等含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9577,
+  "word" : "苦々しい",
+  "reading" : "くるくるしい",
+  "romaji" : null,
+  "meaning" : [ "令人难受的；令人痛苦的；郁闷的" ],
+  "notes" : [ "" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9578,
+  "word" : "苦い",
+  "reading" : "くるい",
+  "romaji" : null,
+  "meaning" : [ "（味道）苦的；痛苦的；难受的；严酷的" ],
+  "notes" : [ "形容詞「苦い」は、味や感覚を表す際に用いられます。味に関しては、苦い味を持つ物を形容するのに使用されます。また、感覚や状況に関しては、苦しみや辛さを表すために使われます。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9579,
+  "word" : "苦しい",
+  "reading" : "くるしい",
+  "romaji" : null,
+  "meaning" : [ "痛苦的，难受的，艰苦的" ],
+  "notes" : [ "该词为形容词，词尾变化规则符合形容词的一般规律。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9580,
+  "word" : "苦しむ",
+  "reading" : "くるしむ",
+  "romaji" : null,
+  "meaning" : [ "感到痛苦；烦恼；苦于，难以。常用于描述身体上的疼痛、精神上的苦恼或面临困难等情况。" ],
+  "notes" : [ "该词为自动词，通常表示主语自身的感受或状态。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9581,
+  "word" : "苦しめる",
+  "reading" : "くるしめる",
+  "romaji" : null,
+  "meaning" : [ "①使痛苦，折磨。②使为难，使操心，使烦恼。" ],
+  "notes" : [ "该词常用的语法形式有「～を苦しめる」，表示使某人痛苦、为难等。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9582,
+  "word" : "苦み",
+  "reading" : "くみ",
+  "romaji" : null,
+  "meaning" : [ "苦味；痛苦；苦难" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9583,
+  "word" : "苦労",
+  "reading" : "くろう",
+  "romaji" : null,
+  "meaning" : [ "辛苦，操劳，劳苦。指为了达成某个目的而付出艰辛的努力，经历困难和疲惫。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9584,
+  "word" : "苦労する",
+  "reading" : "くろうする",
+  "romaji" : null,
+  "meaning" : [ "辛苦，辛劳；费劲，费周折" ],
+  "notes" : [ "表示因做某事而感到辛苦、费劲" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9585,
+  "word" : "苦心",
+  "reading" : "くしん",
+  "romaji" : null,
+  "meaning" : [ "为了达成目标等而费尽心思、煞费苦心。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9586,
+  "word" : "苦情",
+  "reading" : "くじょう",
+  "romaji" : null,
+  "meaning" : [ "不满、怨言、投诉。指对事物、服务等不满意而提出的抱怨或意见。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9587,
+  "word" : "苦手",
+  "reading" : "にがて",
+  "romaji" : null,
+  "meaning" : [ "不擅长，对……棘手；讨厌，不喜欢" ],
+  "notes" : [ "表示“不擅长”时，常与“が”搭配；表示“讨厌”时，常与“を”搭配。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9588,
+  "word" : "苦渋",
+  "reading" : "くじゅう",
+  "romaji" : null,
+  "meaning" : [ "苦涩；痛苦，苦恼" ],
+  "notes" : [ "形容动词，常用来描述味道或心情等" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9589,
+  "word" : "苦痛",
+  "reading" : "くつう",
+  "romaji" : null,
+  "meaning" : [ "肉体や精神に与える苦しみ。" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9590,
+  "word" : "苦難",
+  "reading" : "くなん",
+  "romaji" : null,
+  "meaning" : [ "「苦しみや困難な状況」。具体的には、生活や仕事などにおいて直面する辛さや難しさを指す。" ],
+  "notes" : [ "「苦難」は、困難や辛さを表す際によく使われる言葉である。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9591,
+  "word" : "英会話",
+  "reading" : "えいかいわ",
+  "romaji" : null,
+  "meaning" : [ "用英语进行的会话" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9592,
+  "word" : "英字",
+  "reading" : "えいじ",
+  "romaji" : null,
+  "meaning" : [ "用罗马字母书写的文字，即英文" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9593,
+  "word" : "英字新聞",
+  "reading" : "えいじしんぶん",
+  "romaji" : null,
+  "meaning" : [ "英文报纸" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9594,
+  "word" : "英文",
+  "reading" : "えいぶん",
+  "romaji" : null,
+  "meaning" : [ "英语；用英文书写的文章" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9595,
+  "word" : "英語",
+  "reading" : "えいご",
+  "romaji" : null,
+  "meaning" : [ "英语；英国语言" ],
+  "notes" : [ "表示国际通用语言之一的英语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9596,
+  "word" : "英雄",
+  "reading" : "えいゆう",
+  "romaji" : null,
+  "meaning" : [ "为社会做出杰出贡献、具有英勇品质和行为的人；在某个领域或事件中表现出色、令人钦佩的人物" ],
+  "notes" : [ "“英雄”在日语中是常用词汇，可用于描述各种领域的杰出人物" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9597,
+  "word" : "苺",
+  "reading" : "いちご",
+  "romaji" : null,
+  "meaning" : [ "草莓；莓" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9598,
+  "word" : "茂る",
+  "reading" : "しげる",
+  "romaji" : null,
+  "meaning" : [ "（植物等）繁茂，茂盛；（头发、胡须等）浓密" ],
+  "notes" : [ "" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9599,
+  "word" : "茄子",
+  "reading" : "なす",
+  "romaji" : null,
+  "meaning" : [ "茄子；紫茄子色，深紫色" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 9600,
+  "word" : "茶さじ",
+  "reading" : "ちゃさじ",
+  "romaji" : null,
+  "meaning" : [ "茶匙；小汤匙" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

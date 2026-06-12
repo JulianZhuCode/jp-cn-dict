@@ -1,0 +1,901 @@
+[ {
+  "id" : 2101,
+  "word" : "ペースト",
+  "reading" : "ペースト",
+  "romaji" : null,
+  "meaning" : [ "1. 糊，膏，酱，糊状物（加工制成的泥状、糊状混合物）；2. 糊状食品；3. （电脑）粘贴（来自paste的外来语，指将复制的内容插入到目标位置的操作）" ],
+  "notes" : [ "来自英语外来语paste，原有义项涵盖食品与工业等领域的糊状制品，后引申出电脑操作的「粘贴」含义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2102,
+  "word" : "ホステス",
+  "reading" : "ほすてす",
+  "romaji" : null,
+  "meaning" : [ "1.（宴会、聚会等的）女主人；2.（俱乐部、酒吧等的）女招待、女公关；3.飞机等的女乘务员（旧称）" ],
+  "notes" : [ "该词是英语\"hostess\"的音译外来语，和中文汉字的\"主持\"含义不同，主要指服务场所的女性服务人员或活动的女主人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2103,
+  "word" : "ホッチキス",
+  "reading" : "ほっちきす",
+  "romaji" : null,
+  "meaning" : [ "订书机（源自商标名Hotchkiss，是日语中对订书机的常用称呼）" ],
+  "notes" : [ "来源于美国制造商E·H·Hotchkiss的姓氏，作为外来语进入日语后成为订书机的通用称呼，部分地区也会使用「ステープラー」称呼电动或大型订书机。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2104,
+  "word" : "ホテル",
+  "reading" : "ほてる",
+  "romaji" : null,
+  "meaning" : [ "（西式）宾馆，酒店" ],
+  "notes" : [ "来源于英语\"hotel\"，通常指西式的规模较大的住宿设施，区别于日式传统住宿「旅館」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2105,
+  "word" : "ホラー",
+  "reading" : "ホラー",
+  "romaji" : null,
+  "meaning" : [ "恐怖；惊骇；恐怖片，惊悚题材作品" ],
+  "notes" : [ "源自英语\"horror\"，是日语外来词，常用来指代恐怖惊悚类的影视、文学等创作题材。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2106,
+  "word" : "ホルモン",
+  "reading" : "ほるもん",
+  "romaji" : null,
+  "meaning" : [ "荷尔蒙，激素；（日式烧烤中的）内脏（肉类）" ],
+  "notes" : [ "该词是英语「hormone」的音译词，除生物学含义外，在日本饮食文化中特指用于烧烤的动物内脏，是常见的烧烤食材。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2107,
+  "word" : "ホース",
+  "reading" : "ほーす",
+  "romaji" : null,
+  "meaning" : [ "1. 软管，胶皮管，橡皮管，输水管；2. <服装>长筒袜，统袜；3. （马等的）内寄生虫" ],
+  "notes" : [ "该词是源自英语\"hose\"的外来语，在不同语境下可表示不同含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2108,
+  "word" : "ホーム",
+  "reading" : "ほーむ",
+  "romaji" : null,
+  "meaning" : [ "家，住宅；家庭，本籍；疗养院，养老院；（火车站的）站台，月台；（媒体的）主场，本部门，本部" ],
+  "notes" : [ "英语借词，源自\"home\"，除一般含义外，铁路领域常用表示站台，也常构成「老人ホーム」等复合词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2109,
+  "word" : "ホームシック",
+  "reading" : "ほーむしっく",
+  "romaji" : null,
+  "meaning" : [ "思乡病，怀乡病，想家" ],
+  "notes" : [ "源自英语单词homesick，属于外来语名词，指离开家乡后因思念家乡产生的忧郁情绪" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2110,
+  "word" : "ホームステイ",
+  "reading" : "ほーむすてい",
+  "romaji" : null,
+  "meaning" : [ "指外国人在留学或旅行期间，住在当地普通居民家庭中体验生活的住宿方式，即寄宿家庭、住家寄宿" ],
+  "notes" : [ "源自英语单词homestay，是日语外来语词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2111,
+  "word" : "ホームセンター",
+  "reading" : "ほーむせんたー",
+  "romaji" : null,
+  "meaning" : [ "大型家居建材购物中心，主营家居装修、建材、园艺、日用杂货等品类的大型综合零售商店，对应英文home center" ],
+  "notes" : [ "该词是来自英语\"home center\"的外来语，属于日本常见的零售业态" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2112,
+  "word" : "ホームページ",
+  "reading" : "ほーむぺーじ",
+  "romaji" : null,
+  "meaning" : [ "指网站的主页，也可泛指网页、网站" ],
+  "notes" : [ "该词是源自英语\"home page\"的外来语，日常使用中既可以特指网站的首页，也可泛指整个网站或单个网页。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2113,
+  "word" : "ホームレス",
+  "reading" : "ほーむれす",
+  "romaji" : null,
+  "meaning" : [ "无家可归者，流浪者；也可指无固定住所的状态" ],
+  "notes" : [ "源自英语“homeless”的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2114,
+  "word" : "ホール",
+  "reading" : "ほーる",
+  "romaji" : null,
+  "meaning" : [ "1. 大厅，礼堂，会堂；2. （建筑的）门厅，门厅大厅；3. 保龄球等运动的球馆；4. （舞台的）观众席，演出大厅" ],
+  "notes" : [ "源自英语单词\"hall\"的外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2115,
+  "word" : "ボイコット",
+  "reading" : "ぼいこっと",
+  "romaji" : null,
+  "meaning" : [ "1. 原指工人对抗雇主的罢工行动；2. （团体性的）联合抵制，拒绝合作、交易" ],
+  "notes" : [ "来源于英语单词\"boycott\"，可作为名词使用，作动词使用时一般后续「する」构成サ変活用动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2116,
+  "word" : "ボタン",
+  "reading" : "ぼたん",
+  "romaji" : null,
+  "meaning" : [ "纽扣；按钮，（機械・電子機器等の）操作按键" ],
+  "notes" : [ "来自葡萄牙语「botão」的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2117,
+  "word" : "ボディ",
+  "reading" : "ぼでぃ",
+  "romaji" : null,
+  "meaning" : [ "身体；车身，机身，（物体的）主体；（服装的）躯干部分" ],
+  "notes" : [ "源自英语单词\"body\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2118,
+  "word" : "ボトル",
+  "reading" : "ボトル",
+  "romaji" : null,
+  "meaning" : [ "瓶子；（盛饮料、酒的）塑料瓶、玻璃瓶" ],
+  "notes" : [ "源自英语单词\"bottle\"，是日语外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2119,
+  "word" : "ボランティア",
+  "reading" : "ボランティア",
+  "romaji" : null,
+  "meaning" : [ "1. 志愿者，志愿活动参与者；2. 志愿活动，义工活动" ],
+  "notes" : [ "来源于英语单词\"volunteer\"的外来语，也可指志愿活动本身。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2120,
+  "word" : "ボリューム",
+  "reading" : "ぼりゅーむ",
+  "romaji" : null,
+  "meaning" : [ "体积，容积，容量；音量，响度；份量，数量；（发型的）蓬松感" ],
+  "notes" : [ "源自英语单词\"volume\"，日语中也可写作「容量」「音量」，外来语，日常生活常用词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2121,
+  "word" : "ボーイ",
+  "reading" : "ぼーい",
+  "romaji" : null,
+  "meaning" : [ "男孩；男服务生，男侍者（西餐厅等场所的男性服务人员）；男朋友，男伴" ],
+  "notes" : [ "来源于英语单词\"boy\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2122,
+  "word" : "ボート",
+  "reading" : "ぼーと",
+  "romaji" : null,
+  "meaning" : [ "小船；小艇；（划船运动用的）赛艇，舟" ],
+  "notes" : [ "英语\"boat\"的外来语，属于日语常用外来语词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2123,
+  "word" : "ボーナス",
+  "reading" : "ぼーなす",
+  "romaji" : null,
+  "meaning" : [ "奖金，额外津贴；（游戏等的）额外奖励，红利" ],
+  "notes" : [ "词源为英语bonus，是日语外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2124,
+  "word" : "ボーリング",
+  "reading" : "ぼーりんぐ",
+  "romaji" : null,
+  "meaning" : [ "1. 保龄球（运动，对应英文bowling）；2. 钻孔，钻探（对应英文boring，工程地质学用语）" ],
+  "notes" : [ "该词是日语外来语，常被混淆两种含义：日常语境中多表示保龄球运动，工程领域表示钻探、钻孔作业。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2125,
+  "word" : "ボール",
+  "reading" : "ぼーる",
+  "romaji" : null,
+  "meaning" : [ "球，球体；球类运动；舞会" ],
+  "notes" : [ "来自英语单词\"ball\"的外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2126,
+  "word" : "ボールペン",
+  "reading" : "ぼーるぺん",
+  "romaji" : null,
+  "meaning" : [ "圆珠笔，源自英文ballpoint pen，是笔尖带滚珠的油性书写笔" ],
+  "notes" : [ "「ボールペン」是和制外来语，区别于水性滚珠笔一般称为「ゲルインクボールペン」，传统油性滚珠笔直接使用该词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2127,
+  "word" : "ポイント",
+  "reading" : "ポイント",
+  "romaji" : null,
+  "meaning" : [ "1. 点，得分，点数；2. 要点，重点，核心；3. 观点，论点；4. （购物等的）积分；5. 地点，位置" ],
+  "notes" : [ "来自英语单词\"point\"的外来语，是日语中非常常用的外来名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2128,
+  "word" : "ポケット",
+  "reading" : "ぽけっと",
+  "romaji" : null,
+  "meaning" : [ "1. 衣服等的口袋；2. （小型物品的）收纳处、凹处；3. （高尔夫等的）球袋，穴；4. 袖珍型的，小型的" ],
+  "notes" : [ "该词是英语\"pocket\"的外来语，词性为日语名词，属于日语能力考N4级别基础词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2129,
+  "word" : "ポジション",
+  "reading" : "ぽじしょん",
+  "romaji" : null,
+  "meaning" : [ "地位，职位；位置，站位；立场，定位" ],
+  "notes" : [ "源自英语单词\"position\"，是日语常用外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2130,
+  "word" : "ポスター",
+  "reading" : "ぽすたー",
+  "romaji" : null,
+  "meaning" : [ "海报，宣传画，招贴画" ],
+  "notes" : [ "源自英语单词\"poster\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2131,
+  "word" : "ポスト",
+  "reading" : "ぽすと",
+  "romaji" : null,
+  "meaning" : [ "邮筒，信箱；（电子邮件的）邮箱；岗位，职位；（体育比赛的）柱，门柱" ],
+  "notes" : [ "来源于英语单词\"post\"，是外来语名词，在不同语境下有多个常用含义" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2132,
+  "word" : "ポピュラー",
+  "reading" : "ぽぴゅらー",
+  "romaji" : null,
+  "meaning" : [ "1. 受欢迎的，大众化的；2. 流行的，通俗的；3. 大众的，民众的" ],
+  "notes" : [ "这是来自英语\"popular\"的外来语，属于ナ形容词，修饰名词时需要后续「な」，如「ポピュラーな曲」" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2133,
+  "word" : "ポリシー",
+  "reading" : "ぽりしー",
+  "romaji" : null,
+  "meaning" : [ "方针，政策；策略，（个人的）原则、行事准则" ],
+  "notes" : [ "该词是英语policy的外来语，对应日语汉字「政策」，日常使用频率较高，除官方方针政策外，也可指个人的行事原则。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2134,
+  "word" : "ポルトガル語",
+  "reading" : "ポルトガルご",
+  "romaji" : null,
+  "meaning" : [ "葡萄牙语（葡萄牙、巴西等国的官方语言）" ],
+  "notes" : [ "「ポルトガル」是Portugal的音译，后续接「語」表示该国家的语言，重音在第4音节（对应原来的0调标注，即尾高型）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2135,
+  "word" : "ポンプ",
+  "reading" : "ぽんぷ",
+  "romaji" : null,
+  "meaning" : [ "泵，水泵，抽水机；油泵" ],
+  "notes" : [ "该词是英语「pump」的外来语，除水泵外也可指各类泵类装置，如油泵、气泵等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2136,
+  "word" : "ポーズ",
+  "reading" : "ぽーず",
+  "romaji" : null,
+  "meaning" : [ "1.（摄影、绘画、表演等的）姿势，姿态；2.（为给他人留下印象而摆出的）姿态，架势；3.暂停，停顿（音乐、演讲等的中断，也对应英语pause的含义）" ],
+  "notes" : [ "源自英语词汇\"pose\"和\"pause\"，在日语中两种含义都常用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2137,
+  "word" : "マイク",
+  "reading" : "マイク",
+  "romaji" : null,
+  "meaning" : [ "1. 麦克风，话筒（microphone的略称）；2. 微米（micron的外来语）" ],
+  "notes" : [ "该词是英语「microphone」的日语略称，正式全称为「マイクロフォン」。也可作为长度单位微米（micron）的外来语使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2138,
+  "word" : "マイク",
+  "reading" : "まいく",
+  "romaji" : null,
+  "meaning" : [ "麦克风，话筒，扩音器；也可指「マイクロフォン」的略称，衍生义可指麦克风输入功能" ],
+  "notes" : [ "外来语，是英语\"microphone\"的略称，完整形式为「マイクロフォン」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2139,
+  "word" : "マイクロホン",
+  "reading" : "まいくろほん",
+  "romaji" : null,
+  "meaning" : [ "麦克风，传声器，话筒（英语microphone的外来语，简称マイク）" ],
+  "notes" : [ "日常口语中多省略为「マイク」使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2140,
+  "word" : "マイナス",
+  "reading" : "マイナス",
+  "romaji" : null,
+  "meaning" : [ "1. （温度）零下；2. （数学）负，负数；3. 缺点，负面因素，消极影响；4. 亏损，赤字；5. （电）负极，阴极；6. 消极的，负面的" ],
+  "notes" : [ "源自英语“minus”，可作名词使用，也可作形容动词修饰名词等，是日语中常用的外来语词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2141,
+  "word" : "マイペース",
+  "reading" : "まいぺーす",
+  "romaji" : null,
+  "meaning" : [ "原本指自己的步调、自己的节奏，引申为按照自己的想法做事、不受周围影响的行事风格，即我行我素" ],
+  "notes" : [ "源自日语和制英语，是\"my pace\"的片假名转写，是日语中非常常用的外来语词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2142,
+  "word" : "マウス",
+  "reading" : "まうす",
+  "romaji" : null,
+  "meaning" : [ "老鼠（生物）；鼠标（计算机输入设备）" ],
+  "notes" : [ "来源于英语单词\"mouse\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2143,
+  "word" : "マグロ",
+  "reading" : "マグロ",
+  "romaji" : null,
+  "meaning" : [ "金枪鱼，鲔，一种常见的大型海水食用鱼类，常用于制作寿司、生鱼片等日本料理" ],
+  "notes" : [ "日语中也可表记为汉字「鮪」，是日本料理中非常常见的食材" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2144,
+  "word" : "マスク",
+  "reading" : "マスク",
+  "romaji" : null,
+  "meaning" : [ "面具；口罩；（计算机等的）掩码，屏蔽码" ],
+  "notes" : [ "源自英语「mask」，日语中常用义为口罩和面具。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2145,
+  "word" : "マスコミ",
+  "reading" : "マスコミ",
+  "romaji" : null,
+  "meaning" : [ "大众传播媒体，宣传媒介，是「マス・コミュニケーション（mass communication）」的缩略语" ],
+  "notes" : [ "来源于英语mass communication的日语缩略，日常使用频率很高，泛指报纸、电视台、广播等各类大众传媒" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2146,
+  "word" : "マスコミ",
+  "reading" : "ますこみ",
+  "romaji" : null,
+  "meaning" : [ "大众传媒，大众传播，是「マスコミュニケーション（mass communication）」的省略说法" ],
+  "notes" : [ "外来语，是英语「mass communication」的日语缩略形式，日常使用频率很高" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2147,
+  "word" : "マスター",
+  "reading" : "ますたー",
+  "romaji" : null,
+  "meaning" : [ "1.（店铺、酒吧等的）老板，店主，店长；2.  master（高尔夫的）名人赛；3. 掌握，精通（技能、知识等）；4. 硕士，硕士学位；5. 主人（对仆从、奴隶的称呼）；6. 原声唱片，母带" ],
+  "notes" : [ "マスター是英语\"master\"的外来语，兼具名词和サ変动词用法，不同场景下有多种含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2148,
+  "word" : "マタニティー",
+  "reading" : "マタニティー",
+  "romaji" : null,
+  "meaning" : [ "怀孕；孕期；孕妇；孕产妇" ],
+  "notes" : [ "源自英语单词\"maternity\"，多用来指代怀孕、孕期，也可引申指孕妇相关用品或孕妇群体。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2149,
+  "word" : "マッサージ",
+  "reading" : "マッサージ",
+  "romaji" : null,
+  "meaning" : [ "1. 按摩，推拿（对身体肌肉、穴位等进行按揉揉捏来放松舒缓、舒缓疲劳的保健或医疗行为）；2.（对数据等的）篡改，粉饰" ],
+  "notes" : [ "该词源自英语\"massage\"，也可作为サ変動詞使用，即「マッサージする」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2150,
+  "word" : "マッチ",
+  "reading" : "マッチ",
+  "romaji" : null,
+  "meaning" : [ "1. 火柴；2. 匹配，相称，般配；3. 比赛，竞赛" ],
+  "notes" : [ "该词来自英语\"match\"，作动词时为サ変動詞，「マッチする」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2151,
+  "word" : "マナー",
+  "reading" : "マナー",
+  "romaji" : null,
+  "meaning" : [ "礼节，礼仪，规矩，礼貌，社交礼仪" ],
+  "notes" : [ "该词源自英语单词\"manner\"，是日语中的外来语名词，多用于指代社会交往中需要遵守的礼仪规范。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2152,
+  "word" : "マニア",
+  "reading" : "マニア",
+  "romaji" : null,
+  "meaning" : [ "狂热爱好者，迷；对特定事物抱有极度狂热喜好的人" ],
+  "notes" : [ "源自英语“mania”，多用来指对特定小众领域有深度狂热爱好的群体" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2153,
+  "word" : "マニュアル",
+  "reading" : "まにゅある",
+  "romaji" : null,
+  "meaning" : [ "1. 手册，说明书，操作指南；2. 手动，人工操作" ],
+  "notes" : [ "该词源自英语单词\"manual\"，是日语外来语，除表示说明类手册外，也可表示手动操作模式。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2154,
+  "word" : "マフラー",
+  "reading" : "マフラー",
+  "romaji" : null,
+  "meaning" : [ "1. 围巾；2.（汽车发动机的）消音器，排气管" ],
+  "notes" : [ "该词为英语\"muffler\"的外来语，有服饰和机械两个常用义项。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2155,
+  "word" : "ママ",
+  "reading" : "ママ",
+  "romaji" : null,
+  "meaning" : [ "1. 妈妈（幼儿对母亲的称呼，也为成年女性日常亲昵称呼）；2. (儿语)奶奶；3. 酒吧等场所的女主人" ],
+  "notes" : [ "来源于英语\"mama\"，属于外来语，多用于口语，比「母（はは）」更亲昵随意" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2156,
+  "word" : "マラソン",
+  "reading" : "まらそん",
+  "romaji" : null,
+  "meaning" : [ "1. 马拉松长跑；2. 比喻长时间持续开展的活动、马拉松式活动" ],
+  "notes" : [ "该词是源自英语marathon的外来语，属于日语常用外来语词汇" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2157,
+  "word" : "マラソン大会",
+  "reading" : "マラソンたいかい",
+  "romaji" : null,
+  "meaning" : [ "马拉松大赛，马拉松运动会" ],
+  "notes" : [ "由「マラソン（马拉松）」和「大会（大型集会、赛事）」构成的复合名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2158,
+  "word" : "マンゴー",
+  "reading" : "まんごー",
+  "romaji" : null,
+  "meaning" : [ "芒果，原产于印度的热带常绿乔木果实，学名Mangifera indica" ],
+  "notes" : [ "来自英语单词\"mango\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2159,
+  "word" : "マンション",
+  "reading" : "まんしょん",
+  "romaji" : null,
+  "meaning" : [ "日本指钢筋混凝土结构的公寓住宅，在国内常被译为高级公寓" ],
+  "notes" : [ "注意和日语「アパート」的区别：アパート一般指木质等低层老旧公寓，マンション多为中高层钢筋混凝土结构的公寓，不一定特指“高级”公寓。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2160,
+  "word" : "マンネリ",
+  "reading" : "まんねり",
+  "romaji" : null,
+  "meaning" : [ "因循守旧，墨守成规，千篇一律，老一套；（多指恋爱、人际关系等陷入）单调一成不变的状态" ],
+  "notes" : [ "「マンネリ」是「マンネリズム（mannerism）」的略语，常用搭配「マンネリ化する」表示变得一成不变、千篇一律。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2161,
+  "word" : "マーク",
+  "reading" : "まーく",
+  "romaji" : null,
+  "meaning" : [ "1. 标记、标识；记号、符号；2. （比赛等的）得分、分数；3. （对选手的）盯防、标记；4. 做标记，标上记号；5. （考试、审查中）打分、评分；" ],
+  "notes" : [ "源自英语单词\"mark\"，也可作为外来语名词和サ変动词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2162,
+  "word" : "マーケット",
+  "reading" : "マーケット",
+  "romaji" : null,
+  "meaning" : [ "市场；商场，集市；（经济学领域的）市场" ],
+  "notes" : [ "来源于英语单词\"market\"的外来语，日常也常用「市場（しじょう）」表示相同含义，「マーケット」更偏向外来商业场景使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2163,
+  "word" : "ミサイル",
+  "reading" : "みさいる",
+  "romaji" : null,
+  "meaning" : [ "导弹，飞弹" ],
+  "notes" : [ "该词是英语missile的外来语，属于日语常用军事/科技外来词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2164,
+  "word" : "ミス",
+  "reading" : "ミス",
+  "romaji" : null,
+  "meaning" : [ "1. 失误，错误，差错；2. （接名词前）错误的，失败的" ],
+  "notes" : [ "该词是英语「miss」的外来语，在日语中使用频率极高，日常场景常用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2165,
+  "word" : "ミステリー",
+  "reading" : "みすてりー",
+  "romaji" : null,
+  "meaning" : [ "1. 神秘，不可思议的事物；2. 推理小说，悬疑作品" ],
+  "notes" : [ "源自英语单词\"mystery\"，也可写作「ミステリ」，是日语外来语名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2166,
+  "word" : "ミステリーツアー",
+  "reading" : "ミステリーツアー",
+  "romaji" : null,
+  "meaning" : [ "神秘之旅，探秘旅行，指行程内容提前不全部公开，给参与者带来惊喜和探索体验的特色旅行" ],
+  "notes" : [ "来源于英语\"mystery tour\"的外来语，多作为名词使用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2167,
+  "word" : "ミネラル",
+  "reading" : "ミネラル",
+  "romaji" : null,
+  "meaning" : [ "矿物质；（来自英文mineral，也可指）无机营养素，矿泉" ],
+  "notes" : [ "该词是源自英语\"mineral\"的外来语，原义还可表示矿石，在日语日常使用中多用于指代矿物质、无机营养素" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2168,
+  "word" : "ミネラルウォーター",
+  "reading" : "ミネラルウォーター",
+  "romaji" : null,
+  "meaning" : [ "矿泉水，源自英文mineral water，指含有矿物质的饮用水" ],
+  "notes" : [ "外来语，也可略称ミネラル" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2169,
+  "word" : "ミュージック",
+  "reading" : "みゅーじっく",
+  "romaji" : null,
+  "meaning" : [ "音乐，英文\"music\"的日语外来语，对应日语本土词「音楽（おんがく）」" ],
+  "notes" : [ "外来语，源自英语music，日常使用中常和「音楽」互换使用，在复合词中使用频率更高，如「ミュージックビデオ（MV）」等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2170,
+  "word" : "ミルク",
+  "reading" : "ミルク",
+  "romaji" : null,
+  "meaning" : [ "牛奶；奶，乳；奶粉" ],
+  "notes" : [ "来源于英语单词\"milk\"的外来语，除表示牛奶外，也可泛指其他动物的奶，以及奶粉类制品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2171,
+  "word" : "ミーティング",
+  "reading" : "みーてぃんぐ",
+  "romaji" : null,
+  "meaning" : [ "会议，集会，（源自英语meeting，指为讨论问题、交换意见等举行的聚会或会议）" ],
+  "notes" : [ "外来语，源自英语\"meeting\"，是日语中常用的表示会议的词汇，偏口语和现代商务场合使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2172,
+  "word" : "ムスク",
+  "reading" : "ムスク",
+  "romaji" : null,
+  "meaning" : [ "麝香；麝香香料" ],
+  "notes" : [ "原词条含义错误，「口罩・面具」对应的日语是「マスク（masuku）」，「ムスク（musuku）」源自英语musk，义为麝香。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2173,
+  "word" : "メカニズム",
+  "reading" : "めかにずむ",
+  "romaji" : null,
+  "meaning" : [ "机制，构造；（机械）装置；机构，组织" ],
+  "notes" : [ "源自英语「mechanism」，是日语外来语。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2174,
+  "word" : "メス",
+  "reading" : "めす",
+  "romaji" : null,
+  "meaning" : [ "手术刀（医学手术工具）", "雌性（用于表示动植物的雌性）" ],
+  "notes" : [ "该词来自荷兰语「mes」，表示手术刀义为医学常用外来语，表示雌性义为生物学常用说法，对应雄性的「オス」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2175,
+  "word" : "メダル",
+  "reading" : "めだる",
+  "romaji" : null,
+  "meaning" : [ "奖牌，奖章；勋章，纪念章" ],
+  "notes" : [ "源自英语单词\"medal\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2176,
+  "word" : "メッセージ",
+  "reading" : "メッセージ",
+  "romaji" : null,
+  "meaning" : [ "信息；短信；口信；（演讲、作品等传达的）主旨，寓意" ],
+  "notes" : [ "来自英语单词\"message\"的外来语，是日语日常常用词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2177,
+  "word" : "メディア",
+  "reading" : "めでぃあ",
+  "romaji" : null,
+  "meaning" : [ "1. 媒体，传媒（指传播信息的报刊、电视、广播、网络等）；2. 媒介，介质，手段" ],
+  "notes" : [ "源自英语单词\"media\"，是日语外来语，单数复数同形。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2178,
+  "word" : "メニュー",
+  "reading" : "メニュー",
+  "romaji" : null,
+  "meaning" : [ "1. （餐厅等的）菜单，菜谱；2. （电脑、软件等的）菜单，功能列表；3. （整体提供的）菜品，餐单" ],
+  "notes" : [ "该词是来源于英语\"menu\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2179,
+  "word" : "メモ",
+  "reading" : "めも",
+  "romaji" : null,
+  "meaning" : [ "作为名词表示：笔记，备忘录；作为动词表示：记笔记，做记录" ],
+  "notes" : [ "源自英语单词\"memo\"，是日语外来词，既可以作为名词使用，也可以后续「する」构成サ変活用动词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2180,
+  "word" : "メモする",
+  "reading" : "メモする",
+  "romaji" : null,
+  "meaning" : [ "记录，记笔记，做备忘录" ],
+  "notes" : [ "「メモ」来自英语单词\"memo\"，是サ変活用动词，即三类动词（动3），属于他动词，用于记录简短信息。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2181,
+  "word" : "メモリカード",
+  "reading" : "メモリカード",
+  "romaji" : null,
+  "meaning" : [ "存储卡，记忆卡（用于存储电子数据的便携存储介质）" ],
+  "notes" : [ "来源于英语“memory card”的外来语，数码电子领域常用词汇。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2182,
+  "word" : "メメモリー",
+  "reading" : "memorī",
+  "romaji" : null,
+  "meaning" : [ "1. 记忆，回忆；2.（计算机等电子设备的）存储器，内存；3. 存储卡" ],
+  "notes" : [ "来源于英语单词\"memory\"，也可略写为メモリ，两种写法通用" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2183,
+  "word" : "メリット",
+  "reading" : "めりっと",
+  "romaji" : null,
+  "meaning" : [ "长处，优点，可取之处；利益，好处（源自英语merit，对应反义词是デメリット）" ],
+  "notes" : [ "外来语，来自英语单词\"merit\"，日常使用频率很高，多用于和利弊相关的讨论场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2184,
+  "word" : "メロディ",
+  "reading" : "メロディー",
+  "romaji" : null,
+  "meaning" : [ "旋律，曲调；主旋律" ],
+  "notes" : [ "来源于英语单词\"melody\"，也可写作メロヂイ，长音符号可省略，标准读音为メロディー。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2185,
+  "word" : "メロディー",
+  "reading" : "めろでぃー",
+  "romaji" : null,
+  "meaning" : [ "旋律，曲调，旋律线，来自英语melody" ],
+  "notes" : [ "也可表记为メロヂー，是英语外来词，对应中文的旋律、曲调" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2186,
+  "word" : "メロン",
+  "reading" : "メロン",
+  "romaji" : null,
+  "meaning" : [ "甜瓜，白兰瓜，哈密瓜" ],
+  "notes" : [ "源自英语单词\"melon\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2187,
+  "word" : "メンバー",
+  "reading" : "メンバー",
+  "romaji" : null,
+  "meaning" : [ "成员，队员，会员" ],
+  "notes" : [ "来自英语单词\"member\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2188,
+  "word" : "メーカー",
+  "reading" : "めーかー",
+  "romaji" : null,
+  "meaning" : [ "制造商，制造者；（品牌）厂商" ],
+  "notes" : [ "源自英语单词\"maker\"的外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2189,
+  "word" : "メーター",
+  "reading" : "めーたー",
+  "romaji" : null,
+  "meaning" : [ "计量仪表，计量器；（ parking meter 的简称）停车计时器；米，公尺（长度单位，同メートル）" ],
+  "notes" : [ "源自英语单词\"meter\"，是日语外来语" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2190,
+  "word" : "メール",
+  "reading" : "めーる",
+  "romaji" : null,
+  "meaning" : [ "主要指电子邮件；也可表示邮件（邮政邮件），还可作为动词表示发邮件" ],
+  "notes" : [ "来源于英语\"mail\"，是日语中常用的外来语，日常生活中多用来指代电子邮件，作动词使用时多为「メールする」（サ変活用）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2191,
+  "word" : "モダン",
+  "reading" : "もだん",
+  "romaji" : null,
+  "meaning" : [ "现代的；摩登的；新式的；流行的" ],
+  "notes" : [ "该词是来自英语\"modern\"的外来语，作为ナ形容词使用，修饰名词时需要后续「な」。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2192,
+  "word" : "モニター",
+  "reading" : "もにたー",
+  "romaji" : null,
+  "meaning" : [ "1. 显示器，监视器（电子设备）；2. 监控器，监测装置；3. 评论员，监督员，监察员；4.（广告、商品的）试听员，试用户，意见反馈员；5. 监控，监测，监听" ],
+  "notes" : [ "来源于英语单词\"monitor\"，作动词使用时采用サ変活用形式「モニターする」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2193,
+  "word" : "モーター",
+  "reading" : "モーター",
+  "romaji" : null,
+  "meaning" : [ "发动机，引擎；马达，电动机" ],
+  "notes" : [ "源自英语单词\"motor\"，是日语外来语，可指代内燃机发动机，也可指电力驱动的马达、电动机。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2194,
+  "word" : "モーテル",
+  "reading" : "もーてる",
+  "romaji" : null,
+  "meaning" : [ "汽车旅馆，是由motor hotel合成而来的外来语，指为自驾旅行者提供食宿、多带有停车场的廉价旅馆" ],
+  "notes" : [ "英语\"motel\"的日语音译外来语，区别于高档酒店ホテル，通常价格更低，配套设施更简单，主要面向自驾出行的旅客" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2195,
+  "word" : "モード",
+  "reading" : "モード",
+  "romaji" : null,
+  "meaning" : [ "1. 模式，状态；2. 形式，方式，方法；3. 时尚，流行风尚；4.（统计学）众数" ],
+  "notes" : [ "该词是源自英语\"mode\"的外来语，日常生活中常用于电子设备功能模式相关场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2196,
+  "word" : "ヤング",
+  "reading" : "やんぐ",
+  "romaji" : null,
+  "meaning" : [ "年轻人，年轻一代；也可指年轻的、青年的" ],
+  "notes" : [ "来源于英语单词\"young\"的外来语，也常用作复合词构词成分，如ヤングマン、ヤングファッション等。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2197,
+  "word" : "ユニフォーム",
+  "reading" : "ゆにふぉーむ",
+  "romaji" : null,
+  "meaning" : [ "制服；队服，运动服（特指团队统一设计制作的着装）" ],
+  "notes" : [ "来源于英语单词\"uniform\"，除了泛指统一制服外，常特指体育团队的队服。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2198,
+  "word" : "ユーモア",
+  "reading" : "ゆーもあ",
+  "romaji" : null,
+  "meaning" : [ "幽默，诙谐；幽默感" ],
+  "notes" : [ "源自英语单词\"humor\"，是常用的外来语名词。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2199,
+  "word" : "ヨット",
+  "reading" : "ヨット",
+  "romaji" : null,
+  "meaning" : [ "游艇，帆船（源自英语yacht，指带帆或动力的小型休闲航海船只）" ],
+  "notes" : [ "外来语，来自英语\"yacht\"" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 2200,
+  "word" : "ヨーグルト",
+  "reading" : "ヨーグルト",
+  "romaji" : null,
+  "meaning" : [ "酸奶，酵母乳" ],
+  "notes" : [ "来源于英语单词\"yogurt\"，是日语外来语词汇，指经乳酸菌发酵制成的乳制品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+} ]

@@ -1,0 +1,901 @@
+[ {
+  "id" : 3901,
+  "word" : "半額",
+  "reading" : "はんがく",
+  "romaji" : null,
+  "meaning" : [ "半价，对折价格" ],
+  "notes" : [ "多用来表示商品、票务等价格为原价的二分之一，常见于促销场景" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3902,
+  "word" : "卑しい",
+  "reading" : "いやしい",
+  "romaji" : null,
+  "meaning" : [ "1. 卑鄙的，卑劣的；2. 低贱的，卑微的；3. 破旧的，简陋的；4. 吝啬的，小气的" ],
+  "notes" : [ "该词可用于形容人的品性、身份地位、物品状态以及为人处事的风格，语义范围较广。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3903,
+  "word" : "卑怯",
+  "reading" : "ひきょう",
+  "romaji" : null,
+  "meaning" : [ "1. 胆怯，懦弱，没有勇气；2. 卑鄙，无耻，不讲道义" ],
+  "notes" : [ "可作为名词使用，表达“卑鄙的行为、胆怯的态度”等含义，如「卑怯を働く」（行卑鄙之事）。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3904,
+  "word" : "卒業",
+  "reading" : "そつぎょう",
+  "romaji" : null,
+  "meaning" : [ "1. 学校等教育机构的学业结束，取得毕业资格；2. 完成某个阶段的学习、训练或任务，达到结业标准" ],
+  "notes" : [ "作为サ変動詞使用时，常用「～を卒業する」的形式；作名词时可构成「卒業式」「卒業証書」等复合词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3905,
+  "word" : "卒業式",
+  "reading" : "そつぎょうしき",
+  "romaji" : null,
+  "meaning" : [ "毕业典礼，结业仪式" ],
+  "notes" : [ "指学校等机构为完成学业的学生举办的仪式，通常会颁发毕业证书、进行致辞等环节。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3906,
+  "word" : "卒業論文",
+  "reading" : "そつぎょうろんぶん",
+  "romaji" : null,
+  "meaning" : [ "毕业论文，毕业时提交的用于评定学业完成情况的学术性论文" ],
+  "notes" : [ "日本的大学、高等专门学校等的学生在毕业前需完成的学术论文，是毕业考核的重要环节之一" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3907,
+  "word" : "卒業する",
+  "reading" : "そつぎょうする",
+  "romaji" : null,
+  "meaning" : [ "毕业；结业；完成学业；结束（某项学习、训练等）" ],
+  "notes" : [ "「卒業～」是词缀形式，完整动词为「卒業する」，可接在名词后构成复合动词，如「課程を卒業する」。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3908,
+  "word" : "卓球",
+  "reading" : "たっきゅう",
+  "romaji" : null,
+  "meaning" : [ "乒乓球（运动）" ],
+  "notes" : [ "也可作为サ变动词使用，形式为「卓球をする」，表示打乒乓球。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3909,
+  "word" : "卓球台",
+  "reading" : "たっきゅうだい",
+  "romaji" : null,
+  "meaning" : [ "乒乓球桌，乒乓球台" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3910,
+  "word" : "協会",
+  "reading" : "きょうかい",
+  "romaji" : null,
+  "meaning" : [ "由具有共同目的、兴趣或职业的人组成的团体；协会，学会，联合会" ],
+  "notes" : [ "多为基于特定宗旨成立的正式团体，常带有行业、专业或公益性质" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3911,
+  "word" : "協力",
+  "reading" : "きょうりょく",
+  "romaji" : null,
+  "meaning" : [ "1. 合作，协作，配合；2. 协助，帮忙" ],
+  "notes" : [ "作为サ变动词使用时，可后续「する」构成动词形「協力する」，其ます形为「協力します」，て形为「協力して」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3912,
+  "word" : "協定",
+  "reading" : "きょうてい",
+  "romaji" : null,
+  "meaning" : [ "1. 协定，协议，约定；2.（国际）条约，公约" ],
+  "notes" : [ "作为名词时可后续「を締結する」「に達する」等搭配；作为サ变他动词时可接宾语，如「条件を協定する」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3913,
+  "word" : "協調",
+  "reading" : "きょうちょう",
+  "romaji" : null,
+  "meaning" : [ "1. 协调，配合；2. 协作，合作；3. （声音、色彩等的）调和，和谐" ],
+  "notes" : [ "作为サ变动词使用时，多以「協調する」「協調して」的形式出现，常搭配「〜と協調する」「〜との協調を図る」等表达" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3914,
+  "word" : "協議",
+  "reading" : "きょうぎ",
+  "romaji" : null,
+  "meaning" : [ "1. 协议，协商，磋商；2. 共同讨论后达成一致意见" ],
+  "notes" : [ "作为サ変動詞使用时，可构成「協議する」的动词形式，多用于正式场合的讨论协商。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3915,
+  "word" : "南",
+  "reading" : "みなみ",
+  "romaji" : null,
+  "meaning" : [ "南，南边；南部；南风；（罗盘、地图上的）南方向" ],
+  "notes" : [ "可作为方位名词使用，也可构成复合词，如「南東（なんとう）」「南西（なんせい）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3916,
+  "word" : "南北",
+  "reading" : "なんぼく",
+  "romaji" : null,
+  "meaning" : [ "南北；南北方向" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3917,
+  "word" : "南半球",
+  "reading" : "なんきゅうはん",
+  "romaji" : null,
+  "meaning" : [ "地球赤道以南的半球，包括南极洲、南美洲大部分、非洲南部、澳大利亚、新西兰等区域" ],
+  "notes" : [ "与「北半球（きたきゅうはん）」相对应，常用于地理、气象相关语境" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3918,
+  "word" : "南口",
+  "reading" : "みなみぐち",
+  "romaji" : null,
+  "meaning" : [ "南侧的出入口，多指车站、建筑等场所的南边入口/出口" ],
+  "notes" : [ "常见于车站、商场、公共场馆等大型设施的标识中，是方位+出入口构成的复合名词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3919,
+  "word" : "南岸",
+  "reading" : "なんがん",
+  "romaji" : null,
+  "meaning" : [ "河流、湖泊、海洋等的南边的岸；南侧的岸边" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3920,
+  "word" : "南東",
+  "reading" : "なんとう",
+  "romaji" : null,
+  "meaning" : [ "东南，东南方向" ],
+  "notes" : [ "用于表示方位，可与「の」「を」等助词搭配使用，指地理上的东南方位或相对位置的东南方向" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3921,
+  "word" : "南西",
+  "reading" : "なんせい",
+  "romaji" : null,
+  "meaning" : [ "西南；西南方向" ],
+  "notes" : [ "可用于表示方位、方向，也可构成「南西寄り」（偏西南）等复合表达" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3922,
+  "word" : "単なる",
+  "reading" : "たんなる",
+  "romaji" : null,
+  "meaning" : [ "仅仅，只不过，只是（用于修饰名词，强调事物并非具有更高价值、更深含义或更重要性质）" ],
+  "notes" : [ "只能直接接在名词前作定语，不能单独使用，也不能后接助词" ],
+  "pos" : "PRENOM",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3923,
+  "word" : "単に",
+  "reading" : "たんに",
+  "romaji" : null,
+  "meaning" : [ "仅，只，只不过" ],
+  "notes" : [ "多用来限定范围、程度，常与「だけ」「過ぎない」等搭配使用，表达“并非其他情况，只是如此”的语气" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3924,
+  "word" : "単一",
+  "reading" : "たんいち",
+  "romaji" : null,
+  "meaning" : [ "单一的，单独的；唯一的" ],
+  "notes" : [ "作为形容动词使用时，后续接「な」修饰名词，接「に」修饰动词；也可直接作为名词使用，指单一的事物或状态。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3925,
+  "word" : "単位",
+  "reading" : "たんい",
+  "romaji" : null,
+  "meaning" : [ "1.（计量、计数的）单位；2.学校的学分；3.构成整体的要素、成分" ],
+  "notes" : [ "作为「学分」义项使用时，多在学校相关场景出现；表示「构成要素」时，可用于描述社会、组织等结构体的基础组成部分" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3926,
+  "word" : "単数",
+  "reading" : "たんすう",
+  "romaji" : null,
+  "meaning" : [ "1. 数学上指单个的数，与“复数”相对；2. 语法上指表示单个事物的形式，与“複数”相对" ],
+  "notes" : [ "在语法领域主要用于表述名词、代词等的数量形式，在数学领域表示单个数值概念" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3927,
+  "word" : "単独",
+  "reading" : "たんどく",
+  "romaji" : null,
+  "meaning" : [ "1. （名词）单独，独自，一个人（或一方）的状态；2. （形容动词）单独的，独自的，非共同的" ],
+  "notes" : [ "作为形容动词使用时，常以「単独な+名词」「単独で+动词」的形式出现；可用于描述人或事物的独自状态，也可用于商务、工作等场景表示独立承担任务等含义。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3928,
+  "word" : "単純",
+  "reading" : "たんじゅん",
+  "romaji" : null,
+  "meaning" : [ "1. 不复杂、简明易懂的；2. 思想、想法直白，没有心机；3. 单一、不掺杂其他成分的" ],
+  "notes" : [ "作为ナ形容词使用，修饰名词时需加「な」，作谓语时为「単純だ/です」形式" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3929,
+  "word" : "単語",
+  "reading" : "たんご",
+  "romaji" : null,
+  "meaning" : [ "词汇，单词；（语言的）词" ],
+  "notes" : [ "一般指构成语言的最小表意单位，可分为名词、动词等各类词性的词" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3930,
+  "word" : "単調",
+  "reading" : "たんちょう",
+  "romaji" : null,
+  "meaning" : [ "单调、乏味，缺乏变化；平庸、无新意" ],
+  "notes" : [ "可作名词使用，如「単調を極める」（极其单调）" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3931,
+  "word" : "単身",
+  "reading" : "たんしん",
+  "romaji" : null,
+  "meaning" : [ "1. 单身，独身；2. 只身，独自一人（不带家属同行）" ],
+  "notes" : [ "通常用于描述独自出行、赴任等不带家属的状态，也可指未婚独身的状态" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3932,
+  "word" : "単身赴任",
+  "reading" : "たんしんふにん",
+  "romaji" : null,
+  "meaning" : [ "1. （因工作调动）单身前往外地工作，不带家属赴任；2. 指这种单身赴任的状态或行为" ],
+  "notes" : [ "作为サ変動詞使用时可构成「単身赴任する」的动词形式，在日本职场文化中是较为常见的现象，通常是由于工作地点调动但家属因学业、工作等原因无法随行的情况" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3933,
+  "word" : "博する",
+  "reading" : "はくする",
+  "romaji" : null,
+  "meaning" : [ "1. 博得，获得，取得（人の信頼、賞賛などを得る）；2. 广泛涉猎，博览（広く学問や知識を学ぶ）" ],
+  "notes" : [ "「博する」は主に書き言葉で使用され、口語では「得る」「獲得する」などがよく用いられる。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3934,
+  "word" : "博士",
+  "reading" : "はかせ",
+  "romaji" : null,
+  "meaning" : [ "1. 博士（日本的学位称号，对应博士学位）；2. 学者、专家；3. 对有学识者的尊称" ],
+  "notes" : [ "当表示“博士学位”时，常后续「号（ごう）」构成「博士号」；在口语中也可用于调侃学识丰富的人。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3935,
+  "word" : "博物館",
+  "reading" : "はくぶつかん",
+  "romaji" : null,
+  "meaning" : [ "博物馆，博物院" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3936,
+  "word" : "占う",
+  "reading" : "うらなう",
+  "romaji" : null,
+  "meaning" : [ "1. 占卜，算卦，预测（命运、吉凶、未来等）；2. 推测，猜测，估计（事物的情况、结果等）" ],
+  "notes" : [ "「占う」除了用于传统的占卜行为外，还可用于对非超自然事物的推测、预估场景，使用范围较广。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3937,
+  "word" : "占める",
+  "reading" : "しめる",
+  "romaji" : null,
+  "meaning" : [ "1. 占据，占有（空间、位置等）；2. 占领，占据（地域、场所等）；3. 占（比例、数量等）；4. 占居（地位、职位等）" ],
+  "notes" : [ "该动词除了主动态「占める」外，还有被动态「占められる」，常用于表示比例、份额的占比描述。" ],
+  "pos" : "VERB_II",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3938,
+  "word" : "占領",
+  "reading" : "せんりょう",
+  "romaji" : null,
+  "meaning" : [ "1. 军事上以武力占领他国领土；2. 占据、占有（场所、地位、市场等）" ],
+  "notes" : [ "作为サ变他动词使用时，可构成「占領する」的动词形式，既用于实际的军事占领场景，也可用于抽象领域的占据情况。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3939,
+  "word" : "印",
+  "reading" : "しるし",
+  "romaji" : null,
+  "meaning" : [ "1. 符号，记号；2. 标记，标识；3. 象征，标志；4. 证据，凭证；5. 痕迹，印记" ],
+  "notes" : [ "该词作为名词使用，除上述含义外，在部分固定表达中可表示「印章」，如「印を押す（盖章）」。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3940,
+  "word" : "印刷",
+  "reading" : "いんさつ",
+  "romaji" : null,
+  "meaning" : [ "1. 印刷，把文字、图像等印到纸张或其他介质上；2. 印刷品" ],
+  "notes" : [ "作为サ变他动词使用时，可构成「印刷する」的动词形式；作为名词时可指代印刷行为或印刷成品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3941,
+  "word" : "印象",
+  "reading" : "いんしょう",
+  "romaji" : null,
+  "meaning" : [ "1. 印象，感想；2. （绘画、雕刻等的）轮廓，概略" ],
+  "notes" : [ "作为名词使用，可构成「印象的（いんしょうてき）」这一形容动词，表示“给人深刻印象的”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3942,
+  "word" : "印鑑",
+  "reading" : "いんかん",
+  "romaji" : null,
+  "meaning" : [ "印章，图章，公章" ],
+  "notes" : [ "一般指用于正式场合（如银行业务、合同签署等）的硬质印章，区别于日常使用的「スタンプ」（软质印章、印章式文具）" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3943,
+  "word" : "危うい",
+  "reading" : "あやうい",
+  "romaji" : null,
+  "meaning" : [ "1. 危险的，危急的；2. 险些，差点；3. 不确定的，可疑的" ],
+  "notes" : [ "可用于描述状态的危险，也可表达险些发生某件事的情况，还能形容事物的可信度低。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3944,
+  "word" : "危うく",
+  "reading" : "あやうく",
+  "romaji" : null,
+  "meaning" : [ "1. 险些，差一点儿就（发生危险、不幸的事情）；2. 好不容易，勉勉强强（才避免了不好的结果）" ],
+  "notes" : [ "多用来描述与危险、失败等负面结果擦肩而过的场景，后续常接「～ところだった」「～ところを」等表达" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3945,
+  "word" : "危ない",
+  "reading" : "あぶない",
+  "romaji" : null,
+  "meaning" : [ "1. 危险的，不安全的；2. 危急的，惊险的；3. 险些出事的，差一点的；4. 可疑的，靠不住的" ],
+  "notes" : [ "口语中常缩略为「あぶねー」；可构成惯用句「危ない桥を渡る」，意为铤而走险" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3946,
+  "word" : "危なげない",
+  "reading" : "あぶなげない",
+  "romaji" : null,
+  "meaning" : [ "没有危险的，安全的；（事情）没问题的，有把握的，十拿九稳的" ],
+  "notes" : [ "「危ない」の形容動詞的活用形「危なげ」に「ない」を付けた形で、口語的に使用されることが多い。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3947,
+  "word" : "危ぶむ",
+  "reading" : "あぶむ",
+  "romaji" : null,
+  "meaning" : [ "1. 担心，担忧，忧虑；2. 怀疑，不信任，质疑" ],
+  "notes" : [ "「危ぶむ」多针对可能发生的危险、不确定的情况或他人的言行表达担忧或怀疑，可用于书面语和口语场景。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3948,
+  "word" : "危害",
+  "reading" : "きがい",
+  "romaji" : null,
+  "meaning" : [ "危害，损害；灾祸，灾害" ],
+  "notes" : [ "可构成常用短语「危害を及ぼす」，意为“造成危害、带来损害”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3949,
+  "word" : "危惧",
+  "reading" : "きぐ",
+  "romaji" : null,
+  "meaning" : [ "1. 畏惧，恐惧；2. 担忧，担心，忧虑" ],
+  "notes" : [ "作为サ変動詞使用时可作「危惧する」的形式，多用于书面语，表达对潜在危险或不良事态的担忧、恐惧。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3950,
+  "word" : "危機",
+  "reading" : "きき",
+  "romaji" : null,
+  "meaning" : [ "危机，危急关头；转机，关键时刻" ],
+  "notes" : [ "可用于表示经济、人生等各类领域的危急状况，部分语境下也可指事物发展的关键转折点" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3951,
+  "word" : "危険",
+  "reading" : "きけん",
+  "romaji" : null,
+  "meaning" : [ "危险的；有风险的；危急的" ],
+  "notes" : [ "作为形容动词使用时，修饰名词需加「な」，作谓语时用「です/である」形式" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3952,
+  "word" : "即す",
+  "reading" : "そくす",
+  "romaji" : null,
+  "meaning" : [ "1. 适应，符合；2. 结合，使一致；3. 当即，立刻（做某事）" ],
+  "notes" : [ "「即す」は書き言葉的な表現が多く、日常会話では「対応する」「合わせる」などの言い換えが使われることもある。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3953,
+  "word" : "即する",
+  "reading" : "そくする",
+  "romaji" : null,
+  "meaning" : [ "1. 立即做，即刻行动；2. 符合，适合，结合（情况、场合等）；3. 就任，就职" ],
+  "notes" : [ "「即する」作为「符合、适合」的含义使用时，常以「～に即して」「～に即した」的形式出现，用于表达结合实际情况进行相应的行动或判断。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3954,
+  "word" : "即座に",
+  "reading" : "そくざに",
+  "romaji" : null,
+  "meaning" : [ "立即，马上，当场" ],
+  "notes" : [ "多用于正式场合或书面语，强调动作的即时性，无活用变化。" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3955,
+  "word" : "即時",
+  "reading" : "そくじ",
+  "romaji" : null,
+  "meaning" : [ "1. 立刻，马上，即刻；2. 即时，实时（与事件发生同步）" ],
+  "notes" : [ "可后续接に构成「即時に」使用，在书面语和正式场景中较为常用" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3956,
+  "word" : "却って",
+  "reading" : "かえって",
+  "romaji" : null,
+  "meaning" : [ "反倒，反而，反倒不如" ],
+  "notes" : [ "多用于表达与预期相反的结果，常接在表示转折或意外的语境中" ],
+  "pos" : "ADV",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3957,
+  "word" : "却下",
+  "reading" : "きゃっか",
+  "romaji" : null,
+  "meaning" : [ "1. （申请、提案、诉讼等）驳回，不受理；2. （比赛、选拔等）淘汰，落选" ],
+  "notes" : [ "「却下」作为サ変動词使用时，常用被动态「却下される」形式表达被动的语义，多搭配申請・訴え・提案・意見等名词使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3958,
+  "word" : "卵",
+  "reading" : "たまご",
+  "romaji" : null,
+  "meaning" : [ "鸡蛋；卵，蛋；卵形物" ],
+  "notes" : [ "除表示鸡蛋外，还可泛指各种鸟类、爬虫类等的卵，也可用来指代卵形的物品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3959,
+  "word" : "卵焼き",
+  "reading" : "たまごやき",
+  "romaji" : null,
+  "meaning" : [ "煎蛋卷，日式厚煎蛋" ],
+  "notes" : [ "日本料理中常见的料理，通常是将鸡蛋调味后煎制而成的厚蛋卷，常作为早餐或便当的配菜" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3960,
+  "word" : "卸す",
+  "reading" : "おろす",
+  "romaji" : null,
+  "meaning" : [ "1. 批发，批售；2. 卸下，取下；3. 降低，降下；4. 抄写，誊写；5. 脱掉（衣物等）" ],
+  "notes" : [ "该词为多义词，不同含义对应的使用场景差异较大，需结合上下文判断具体语义。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3961,
+  "word" : "卸売り",
+  "reading" : "おろうり",
+  "romaji" : null,
+  "meaning" : [ "批发，批售；（向零售商等）大宗销售" ],
+  "notes" : [ "可构成复合词「卸売り業（おろうりぎょう）」，意为批发业。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3962,
+  "word" : "厚い",
+  "reading" : "あつい",
+  "romaji" : null,
+  "meaning" : [ "1. （物体）厚的；2. （密度、浓度）浓的，稠的；3. （感情、关系）深厚的；4. （脸皮）厚的，厚颜无耻的；5. （声音）低沉浑厚的" ],
+  "notes" : [ "作为多义词使用时，需根据上下文判断具体含义；属于一类形容词（イ形容詞），活用遵循一类形容词规则。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3963,
+  "word" : "厚かましい",
+  "reading" : "あつかましい",
+  "romaji" : null,
+  "meaning" : [ "厚脸皮的，无耻的，厚颜无耻的" ],
+  "notes" : [ "多用于表达对他人厚颜行为的不满、斥责，是带有负面情绪的形容词" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3964,
+  "word" : "厚さ",
+  "reading" : "あつさ",
+  "romaji" : null,
+  "meaning" : [ "厚度；厚薄；浓淡" ],
+  "notes" : [ "可用于描述物体的物理厚度，也可引申用于描述液体、涂层等的浓稠程度" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3965,
+  "word" : "厚生",
+  "reading" : "こうせい",
+  "romaji" : null,
+  "meaning" : [ "福利，保健，卫生；（国家、团体等为改善民众生活、保障健康而实施的）民生福祉事业" ],
+  "notes" : [ "常以「厚生労働省」「厚生施設」「厚生年金」等复合词形式出现，多用于公共、职场等正式场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3966,
+  "word" : "原",
+  "reading" : "はら",
+  "romaji" : null,
+  "meaning" : [ "平原；原野，旷野；原（化学元素“铀”等的旧称）" ],
+  "notes" : [ "作为地名或特定术语使用时可能有特殊读音，如「高原（こうげん）」「原子（げんし）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3967,
+  "word" : "原作",
+  "reading" : "げんさく",
+  "romaji" : null,
+  "meaning" : [ "1. 原著，原作（文学、艺术等最初创作的作品）；2. 原作（影视、动漫等改编前的原始作品）" ],
+  "notes" : [ "常用于指被改编为影视、动漫、戏剧等作品的原始创作，也可泛指最初的文学、艺术作品。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3968,
+  "word" : "原則",
+  "reading" : "げんそく",
+  "romaji" : null,
+  "meaning" : [ "1. 原则，准则，基本方针；2. 原理，定律" ],
+  "notes" : [ "可构成惯用表达「原則として」，意为“原则上、基本上”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3969,
+  "word" : "原動力",
+  "reading" : "げんどうりょく",
+  "romaji" : null,
+  "meaning" : [ "1. 原动力，动力源；2. 根本动因，驱动力" ],
+  "notes" : [ "可用于物理层面的动力来源，也可用于抽象层面推动事物发展的核心因素" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3970,
+  "word" : "原因",
+  "reading" : "げんいん",
+  "romaji" : null,
+  "meaning" : [ "1. 造成某种结果或事件的缘由、起因；2. 物理学、哲学等领域中指引发现象变化的要素" ],
+  "notes" : [ "可构成复合词「原因不明（げんいんふめい）」「原因追究（げんいんついきゅう）」等，常与「～の原因」「原因が～だ」「～が原因で」等句式搭配使用。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3971,
+  "word" : "原型",
+  "reading" : "げんけい",
+  "romaji" : null,
+  "meaning" : [ "1. 原型、模型；2. （语言）词的原形；3. 原样、原本的形态" ],
+  "notes" : [ "在日语语法中特指动词、形容词等未发生活用变化的基本形式，也可指事物最初的形态、模型。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3972,
+  "word" : "原始",
+  "reading" : "げんし",
+  "romaji" : null,
+  "meaning" : [ "1. 原始，最初；2. 原始社会，未开化的状态；3. （地质学）古生代以前的时代" ],
+  "notes" : [ "可构成复合词「原始的（げんしてき）」，作为形容词使用，表示“原始的、落后的”" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3973,
+  "word" : "原形",
+  "reading" : "げんけい",
+  "romaji" : null,
+  "meaning" : [ "1. 原来的形状、样子；原样，原状；2. 语法中指动词、形容词等未发生活用变化的基本形式" ],
+  "notes" : [ "作为语法术语时，特指日语中活用语的基本形式，是活用变化的基础" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3974,
+  "word" : "原文",
+  "reading" : "げんぶん",
+  "romaji" : null,
+  "meaning" : [ "1. 书籍、文章等的原本文字；原作的原文。2. 翻译前的原文。" ],
+  "notes" : [ "常用于文学、翻译、学术等场景，指代未经修改或翻译的原始文本。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3975,
+  "word" : "原料",
+  "reading" : "げんりょう",
+  "romaji" : null,
+  "meaning" : [ "原材料，指制造产品、进行生产或加工时最初使用的基础材料" ],
+  "notes" : [ "「原料」侧重指未经加工或仅经初步加工、用于生产制造基础环节的材料，与侧重中间加工品的「素材」有所区别。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3976,
+  "word" : "原材料",
+  "reading" : "げんざいりょう",
+  "romaji" : null,
+  "meaning" : [ "原材料，原料；生产制作某种物品时最初使用的材料" ],
+  "notes" : [ "可用于工业、食品制造等多个领域，是生产流程的基础要素" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3977,
+  "word" : "原油",
+  "reading" : "げんゆ",
+  "romaji" : null,
+  "meaning" : [ "未经加工的天然石油，从油田开采出来后未经过精炼处理的石油" ],
+  "notes" : [ "" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3978,
+  "word" : "原点",
+  "reading" : "げんてん",
+  "romaji" : null,
+  "meaning" : [ "1. 坐标的原点；2. 事物的出发点、起源；3. 判断事物的基准点、根本" ],
+  "notes" : [ "可用于抽象的概念引申，如回到事业的出发点等场景" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3979,
+  "word" : "原爆",
+  "reading" : "げんばく",
+  "romaji" : null,
+  "meaning" : [ "原子弹爆炸；原子弹" ],
+  "notes" : [ "「原爆」是「原子爆弾（げんしばくだん）」的口语缩略形式，既可以指代原子弹本身，也可以指代原子弹爆炸这一事件。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3980,
+  "word" : "原理",
+  "reading" : "げんり",
+  "romaji" : null,
+  "meaning" : [ "1. 事物运行、成立的根本法则；2. 学术、技术领域中作为基础的基本理论" ],
+  "notes" : [ "通常用于学术、技术、自然现象等领域，多为抽象的基础规则" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3981,
+  "word" : "原産",
+  "reading" : "げんさん",
+  "romaji" : null,
+  "meaning" : [ "原产；原产地" ],
+  "notes" : [ "通常与「地（ち）」搭配构成「原産地」，表示原产地" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3982,
+  "word" : "原稿",
+  "reading" : "げんこう",
+  "romaji" : null,
+  "meaning" : [ "1. 原稿，底稿；2. 草稿，初稿" ],
+  "notes" : [ "多指用于出版、发表的正式底稿，也可指个人创作的草稿" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3983,
+  "word" : "厨房",
+  "reading" : "ちゅうぼう",
+  "romaji" : null,
+  "meaning" : [ "厨房，伙房；（餐馆、食堂的）后厨" ],
+  "notes" : [ "除指家庭厨房外，也常用于指代餐饮场所的专业后厨区域" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3984,
+  "word" : "厳か",
+  "reading" : "おごそか",
+  "romaji" : null,
+  "meaning" : [ "庄严的，庄重的；严肃的，肃穆的；隆重的" ],
+  "notes" : [ "「厳か」是形容动词，常用来形容氛围、仪式、态度等带有庄重感的事物或状态，其连用形「厳かに」可修饰动词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3985,
+  "word" : "厳しい",
+  "reading" : "きびしい",
+  "romaji" : null,
+  "meaning" : [ "1. 严格的，严厉的；2. 严峻的，苛刻的；3. 强烈的，厉害的（指自然现象等）；4. 紧的，绷得紧的" ],
+  "notes" : [ "作为い形容词，遵循い形容词的活用规则；含义丰富，需根据语境区分使用场景。" ],
+  "pos" : "ADJ_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3986,
+  "word" : "厳重",
+  "reading" : "げんじゅう",
+  "romaji" : null,
+  "meaning" : [ "1. 森严，严密；2. 严格，严厉" ],
+  "notes" : [ "形容動詞「厳重」通常作連体修飾（厳重な～）或述語（～は厳重だ）使用，多搭配規則、検査、警備等表示制度、措施类的名词。" ],
+  "pos" : "ADJ_NA",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3987,
+  "word" : "去る",
+  "reading" : "さる",
+  "romaji" : null,
+  "meaning" : [ "1. 离开，离去；2. 过去，消逝；3. 去掉，消除；4. 断绝（关系）；5. 死亡（委婉表达）" ],
+  "notes" : [ "作为“死亡”的含义使用时属于较为委婉的表达，常用于书面语或正式场合。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3988,
+  "word" : "去年",
+  "reading" : "きょねん",
+  "romaji" : null,
+  "meaning" : [ "去年，上一年" ],
+  "notes" : [ "指相对于当前年份的前一年，口语中也可说成「きょねん」，书面语中有时会使用「昨年（さくねん）」" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3989,
+  "word" : "参りました",
+  "reading" : "まいりました",
+  "romaji" : null,
+  "meaning" : [ "1. 来、去（「来る」「行く」的自谦语）；2. 认输、败北；3. （俗语）糟糕、倒霉" ],
+  "notes" : [ "作为自谦语使用时，用于向长辈、上级等表示敬意；作「糟糕、倒霉」义时为口语用法" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3990,
+  "word" : "参ります",
+  "reading" : "まいります",
+  "romaji" : null,
+  "meaning" : [ "（自谦语）来，去；前往；拜访；参加；（用于道歉或致谢时的郑重表达）实在抱歉，非常感谢" ],
+  "notes" : [ "「参る」的ます形，是「来る」「行く」的自谦表达，也可用于道歉、致谢的郑重场合，体现说话人谦逊的态度。" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3991,
+  "word" : "参る",
+  "reading" : "まいる",
+  "romaji" : null,
+  "meaning" : [ "1.（自谦语）去，来；2.（自谦语）拜访，访问；3.认输，投降；4.（表示动作完成）完了，尽了；5.（用于道歉）实在对不起" ],
+  "notes" : [ "1. 作为自谦语使用时，用于表述自己或己方人员的前往、来访等动作，以向对方表示敬意；2. 「参った」可作为口语表达，常用于表示无奈、认输或道歉的语境" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3992,
+  "word" : "参上",
+  "reading" : "さんじょう",
+  "romaji" : null,
+  "meaning" : [ "拜访，造访；（多用于书信或正式场合）前来，抵达" ],
+  "notes" : [ "自谦语动词，用于表达以谦逊的态度前往对方所在场所拜访，比「訪ねる」「伺う」更具正式感，常用于商务书信、正式拜访等场景。" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3993,
+  "word" : "参入",
+  "reading" : "さんにゅう",
+  "romaji" : null,
+  "meaning" : [ "1. 进入，闯入；2. （新的企业、团体等）加入，涉足（某领域、市场）；3. （比赛、竞争等）参与，介入" ],
+  "notes" : [ "作为サ变自动词使用时，常搭配「に」表示进入的对象领域、场所等；多用于商业、社会活动等正式场景。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3994,
+  "word" : "参加",
+  "reading" : "さんか",
+  "romaji" : null,
+  "meaning" : [ "加入某个组织、活动、会议等，参与其中；参与某项工作、讨论等，成为其中一员或参与进行" ],
+  "notes" : [ "可作为サ変動詞单独使用，也可构成「参加する」的动词形式；常与「に」搭配表示参加的对象" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3995,
+  "word" : "参加します",
+  "reading" : "さんかします",
+  "romaji" : null,
+  "meaning" : [ "参加，加入（会议、活动、比赛等）" ],
+  "notes" : [ "「参加します」是「参加する」的ます形，常用于正式或礼貌的语境中，对象通常为有组织的集体活动" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3996,
+  "word" : "参加者",
+  "reading" : "さんかしゃ",
+  "romaji" : null,
+  "meaning" : [ "参加者，参与者" ],
+  "notes" : [ "可用于各类活动、会议、赛事等场合的参与者表述" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3997,
+  "word" : "参照",
+  "reading" : "さんしょう",
+  "romaji" : null,
+  "meaning" : [ "1. 参照，参阅，参考；2. 比照，对照" ],
+  "notes" : [ "可作为サ変動詞单独使用，也可构成「～を参照する」的动词短语，常用于书面语或正式场合" ],
+  "pos" : "VERB_III",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3998,
+  "word" : "参考",
+  "reading" : "さんこう",
+  "romaji" : null,
+  "meaning" : [ "1. 参考，借鉴；2. 供参考，作为参考；3. 有参考价值" ],
+  "notes" : [ "作为サ変動詞使用时，常以「〜を参考にする」「〜を参考にして」的形式出现，表达借鉴、参考某物的含义；单独作名词时可表示参考价值或供参考的内容。" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 3999,
+  "word" : "参議院",
+  "reading" : "さんぎいん",
+  "romaji" : null,
+  "meaning" : [ "参议院；上院（日本国会的两院之一，与众议院共同构成国会，主要负责审议众议院通过的法案、审批内阁人事等）" ],
+  "notes" : [ "日本国会实行两院制，参议院议员任期6年，每3年改选半数，相较于众议院，参议院更侧重对立法的制衡与审查" ],
+  "pos" : "NOUN",
+  "isManualConfirmed" : false
+}, {
+  "id" : 4000,
+  "word" : "及ぶ",
+  "reading" : "およぶ",
+  "romaji" : null,
+  "meaning" : [ "1. 达到，及，到；2. 涉及，波及；3. 比得上，赶得上" ],
+  "notes" : [ "「及ぶ」作为自动词使用，常见搭配「～に及ぶ」表示达到某范围，「～に及ばない」用于表达比不上、不及的含义" ],
+  "pos" : "VERB_I",
+  "isManualConfirmed" : false
+} ]
