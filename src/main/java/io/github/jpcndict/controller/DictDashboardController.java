@@ -5,11 +5,7 @@ import io.github.springwhale.framework.core.exception.BusinessException;
 import jakarta.servlet.http.HttpServletResponse;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;
@@ -27,6 +23,16 @@ import java.util.List;
 public class DictDashboardController {
 
     private final DictImportService dictImportService;
+
+    private static List<InputStream> extractStreams(MultipartFile[] files) throws IOException {
+        List<InputStream> streams = new ArrayList<>();
+        for (MultipartFile f : files) {
+            if (f != null && !f.isEmpty()) {
+                streams.add(f.getInputStream());
+            }
+        }
+        return streams;
+    }
 
     @PostMapping("/import/words")
     public Integer importWords(@RequestParam("files") MultipartFile[] files) {
@@ -46,16 +52,6 @@ public class DictDashboardController {
             log.error("grammars 文件导入失败", e);
             throw BusinessException.create("IMPORT_ERROR", "导入失败，请检查文件内容与格式");
         }
-    }
-
-    private static List<InputStream> extractStreams(MultipartFile[] files) throws IOException {
-        List<InputStream> streams = new ArrayList<>();
-        for (MultipartFile f : files) {
-            if (f != null && !f.isEmpty()) {
-                streams.add(f.getInputStream());
-            }
-        }
-        return streams;
     }
 
     @GetMapping("/export/words")

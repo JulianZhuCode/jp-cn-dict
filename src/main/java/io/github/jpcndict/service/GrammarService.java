@@ -1,11 +1,11 @@
 package io.github.jpcndict.service;
 
-import io.github.springwhale.framework.core.exception.BusinessException;
 import io.github.jpcndict.dto.request.GrammarRequest;
 import io.github.jpcndict.dto.vo.GrammarVO;
 import io.github.jpcndict.entity.GrammarEntity;
 import io.github.jpcndict.mapper.GrammarMapper;
 import io.github.jpcndict.repository.GrammarRepository;
+import io.github.springwhale.framework.core.exception.BusinessException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

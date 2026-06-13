@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html xmlns:th="http://www.thymeleaf.org"
+<html layout:decorate="~{admin/layout}"
       xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
-      layout:decorate="~{admin/layout}">
+      xmlns:th="http://www.thymeleaf.org">
 
 <head>
     <title>Grammars</title>
@@ -37,58 +37,61 @@
             <td><strong th:text="${item.word}">〜たい</strong></td>
             <td th:text="${item.reading}">〜たい</td>
             <td>
-                <span th:if="${item.meaning != null and #arrays.length(item.meaning) > 0}"
-                      th:each="m,iterStat : ${item.meaning}"
+                <span th:each="m,iterStat : ${item.meaning}"
+                      th:if="${item.meaning != null and #arrays.length(item.meaning) > 0}"
                       th:text="${m + (iterStat.last ? '' : ', ')}">want to</span>
                 <span th:unless="${item.meaning != null and #arrays.length(item.meaning) > 0}">-</span>
             </td>
             <td>
-                <span th:if="${item.notes != null and #arrays.length(item.notes) > 0}"
-                      th:each="n,iterStat : ${item.notes}"
+                <span th:each="n,iterStat : ${item.notes}"
+                      th:if="${item.notes != null and #arrays.length(item.notes) > 0}"
                       th:text="${n + (iterStat.last ? '' : ', ')}">attached to masu-stem</span>
                 <span th:unless="${item.notes != null and #arrays.length(item.notes) > 0}">-</span>
             </td>
             <td class="d-flex gap-2">
-                <button th:if="${#sets.contains(userAuthorities, '*') or #sets.contains(userAuthorities, 'dict:grammar:update')}"
-                        data-modal="grammar-modal" th:attr="data-edit-id=${item.id}" class="btn btn-outline-primary btn-sm">Edit</button>
+                <button class="btn btn-outline-primary btn-sm"
+                        data-modal="grammar-modal" th:attr="data-edit-id=${item.id}"
+                        th:if="${#sets.contains(userAuthorities, '*') or #sets.contains(userAuthorities, 'dict:grammar:update')}">
+                    Edit
+                </button>
             </td>
         </th:block>
     </th:block>
 
     <!-- Grammar Modal (Bootstrap 5) -->
-    <div class="modal fade" id="grammar-modal" tabindex="-1" aria-hidden="true">
+    <div aria-hidden="true" class="modal fade" id="grammar-modal" tabindex="-1">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
                     <h5 class="modal-title">Create Grammar</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <button aria-label="Close" class="btn-close" data-bs-dismiss="modal" type="button"></button>
                 </div>
                 <form class="dict-modal-form" data-api-base="/api/grammars">
                     <div class="modal-body">
                         <div class="mb-3">
                             <label class="form-label" for="grammar-word">Word</label>
-                            <input type="text" id="grammar-word" name="word" class="form-control" required>
+                            <input class="form-control" id="grammar-word" name="word" required type="text">
                             <div class="invalid-feedback" data-field="word"></div>
                         </div>
                         <div class="mb-3">
                             <label class="form-label" for="grammar-reading">Reading</label>
-                            <input type="text" id="grammar-reading" name="reading" class="form-control">
+                            <input class="form-control" id="grammar-reading" name="reading" type="text">
                             <div class="invalid-feedback" data-field="reading"></div>
                         </div>
                         <div class="mb-3">
                             <label class="form-label" for="grammar-meaning">Meaning (comma separated)</label>
-                            <input type="text" id="grammar-meaning" name="meaning" class="form-control">
+                            <input class="form-control" id="grammar-meaning" name="meaning" type="text">
                             <div class="invalid-feedback" data-field="meaning"></div>
                         </div>
                         <div class="mb-3">
                             <label class="form-label" for="grammar-notes">Notes (comma separated)</label>
-                            <input type="text" id="grammar-notes" name="notes" class="form-control">
+                            <input class="form-control" id="grammar-notes" name="notes" type="text">
                             <div class="invalid-feedback" data-field="notes"></div>
                         </div>
                     </div>
                     <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
-                        <button type="button" class="btn btn-primary modal-submit">Save</button>
+                        <button class="btn btn-secondary" data-bs-dismiss="modal" type="button">Cancel</button>
+                        <button class="btn btn-primary modal-submit" type="button">Save</button>
                     </div>
                 </form>
             </div>

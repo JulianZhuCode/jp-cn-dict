@@ -8,10 +8,10 @@ import lombok.Data;
  */
 @Data
 public class WordRequest {
-    
+
     @NotBlank(message = "单词不能为空")
     private String word;
-    
+
     private String reading;
     private String romaji;
     private String[] meaning;

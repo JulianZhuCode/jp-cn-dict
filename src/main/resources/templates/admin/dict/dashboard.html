@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html xmlns:th="http://www.thymeleaf.org"
+<html layout:decorate="~{admin/layout}"
       xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
-      layout:decorate="~{admin/layout}">
+      xmlns:th="http://www.thymeleaf.org">
 
 <head>
     <title>Dict Dashboard</title>
@@ -73,17 +73,21 @@
             </h5>
         </div>
         <div class="card-body">
-            <p class="text-secondary mb-3">Select the data directory containing <code>word_1.json</code>, <code>word_2.json</code>… and <code>grammar_1.json</code>… then click Import. Already imported data will be skipped.</p>
+            <p class="text-secondary mb-3">Select the data directory containing <code>word_1.json</code>, <code>word_2.json</code>…
+                and <code>grammar_1.json</code>… then click Import. Already imported data will be skipped.</p>
             <div class="mb-3">
                 <label class="form-label">Select Data Directory</label>
                 <div class="input-group">
-                    <input type="text" class="form-control" id="dataDirDisplay" readonly placeholder="No directory selected...">
-                    <button class="btn btn-outline-secondary" type="button" id="btnBrowseDir">
+                    <input class="form-control" id="dataDirDisplay" placeholder="No directory selected..." readonly
+                           type="text">
+                    <button class="btn btn-outline-secondary" id="btnBrowseDir" type="button">
                         <i class="bi bi-folder2-open me-1"></i> Browse...
                     </button>
                 </div>
-                <div class="form-text">Select the folder that contains <code>word_*.json</code> and <code>grammar_*.json</code>.</div>
-                <input type="file" id="dirPicker" webkitdirectory hidden>
+                <div class="form-text">Select the folder that contains <code>word_*.json</code> and
+                    <code>grammar_*.json</code>.
+                </div>
+                <input hidden id="dirPicker" type="file" webkitdirectory>
             </div>
             <div class="d-flex gap-2" id="importButtons" style="display:none">
                 <button class="btn btn-primary import-btn" data-type="words" id="importWordsBtn">
@@ -93,7 +97,7 @@
                     <i class="bi bi-file-earmark-arrow-up me-1"></i> Import Grammars
                 </button>
             </div>
-            <div id="importStatus" class="mt-3" style="display:none"></div>
+            <div class="mt-3" id="importStatus" style="display:none"></div>
         </div>
     </div>
 
@@ -105,7 +109,8 @@
             </h5>
         </div>
         <div class="card-body">
-            <p class="text-secondary mb-3">Export all data into zip archives. Each file covers an ID range of 100 (e.g. 1-100, 101-200).</p>
+            <p class="text-secondary mb-3">Export all data into zip archives. Each file covers an ID range of 100 (e.g.
+                1-100, 101-200).</p>
             <div class="d-flex gap-2">
                 <a class="btn btn-primary" href="/api/dict/export/words">
                     <i class="bi bi-file-earmark-zip me-1"></i> Export Words
@@ -127,7 +132,7 @@
         <div class="card-body">
             <div class="row g-3">
                 <div class="col-md-4">
-                    <a th:href="@{/admin/dict/words}" class="text-decoration-none">
+                    <a class="text-decoration-none" th:href="@{/admin/dict/words}">
                         <div class="card bg-light border-0 h-100 quick-link-card">
                             <div class="card-body text-center py-4">
                                 <i class="bi bi-book fs-2 text-primary mb-2 d-block"></i>
@@ -138,7 +143,7 @@
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a th:href="@{/admin/dict/grammars}" class="text-decoration-none">
+                    <a class="text-decoration-none" th:href="@{/admin/dict/grammars}">
                         <div class="card bg-light border-0 h-100 quick-link-card">
                             <div class="card-body text-center py-4">
                                 <i class="bi bi-journal-code fs-2 text-success mb-2 d-block"></i>
@@ -149,7 +154,7 @@
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a th:href="@{/admin/dict/examples}" class="text-decoration-none">
+                    <a class="text-decoration-none" th:href="@{/admin/dict/examples}">
                         <div class="card bg-light border-0 h-100 quick-link-card">
                             <div class="card-body text-center py-4">
                                 <i class="bi bi-chat-square-text fs-2 text-warning mb-2 d-block"></i>
@@ -163,92 +168,92 @@
         </div>
     </div>
 
-<script th:inline="javascript">
-/*<![CDATA[*/
-(function () {
-    const statusEl = document.getElementById('importStatus');
-    const dirDisplay = document.getElementById('dataDirDisplay');
-    const dirPicker = document.getElementById('dirPicker');
-    const importButtons = document.getElementById('importButtons');
-    let wordFiles = [];
-    let grammarFiles = [];
+    <script th:inline="javascript">
+        /*<![CDATA[*/
+        (function () {
+            const statusEl = document.getElementById('importStatus');
+            const dirDisplay = document.getElementById('dataDirDisplay');
+            const dirPicker = document.getElementById('dirPicker');
+            const importButtons = document.getElementById('importButtons');
+            let wordFiles = [];
+            let grammarFiles = [];
 
-    document.getElementById('btnBrowseDir').addEventListener('click', function () {
-        dirPicker.value = '';
-        dirPicker.click();
-    });
+            document.getElementById('btnBrowseDir').addEventListener('click', function () {
+                dirPicker.value = '';
+                dirPicker.click();
+            });
 
-    dirPicker.addEventListener('change', function () {
-        if (this.files.length > 0) {
-            const path = this.files[0].webkitRelativePath;
-            const dirName = path.substring(0, path.indexOf('/'));
-            dirDisplay.value = dirName;
-            const all = Array.from(this.files);
-            wordFiles = all.filter(f => /^word_\d+\.json$/.test(f.name));
-            grammarFiles = all.filter(f => /^grammar_\d+\.json$/.test(f.name));
-            if (wordFiles.length > 0 || grammarFiles.length > 0) {
-                importButtons.style.display = '';
-            } else {
-                importButtons.style.display = 'none';
-                statusEl.style.display = '';
-                statusEl.className = 'alert alert-warning mt-3';
-                statusEl.textContent = 'Selected folder does not contain word_*.json or grammar_*.json';
-            }
-        }
-    });
-
-    document.querySelectorAll('.import-btn').forEach(btn => {
-        btn.addEventListener('click', function () {
-            const type = this.dataset.type;
-            const files = type === 'words' ? wordFiles : grammarFiles;
-            if (files.length === 0) {
-                statusEl.style.display = '';
-                statusEl.className = 'alert alert-danger mt-3';
-                statusEl.textContent = 'No matching ' + type + ' files found in selected folder';
-                return;
-            }
-
-            const originalHtml = this.innerHTML;
-            this.disabled = true;
-            this.innerHTML = '<span class="spinner-border spinner-border-sm me-1"></span> Importing...';
-            statusEl.style.display = 'none';
-
-            const formData = new FormData();
-            files.forEach(f => formData.append('files', f));
-
-            fetch('/api/dict/import/' + type, { method: 'POST', body: formData })
-                .then(r => r.json())
-                .then(data => {
-                    statusEl.style.display = '';
-                    if (data.code === '200') {
-                        const count = data.data;
-                        if (count > 0) {
-                            statusEl.className = 'alert alert-success mt-3';
-                            statusEl.textContent = 'Import complete: ' + count + ' records';
-                        } else {
-                            statusEl.className = 'alert alert-info mt-3';
-                            statusEl.textContent = data.message || 'Data already imported, skipped';
-                        }
-                        location.reload();
+            dirPicker.addEventListener('change', function () {
+                if (this.files.length > 0) {
+                    const path = this.files[0].webkitRelativePath;
+                    const dirName = path.substring(0, path.indexOf('/'));
+                    dirDisplay.value = dirName;
+                    const all = Array.from(this.files);
+                    wordFiles = all.filter(f => /^word_\d+\.json$/.test(f.name));
+                    grammarFiles = all.filter(f => /^grammar_\d+\.json$/.test(f.name));
+                    if (wordFiles.length > 0 || grammarFiles.length > 0) {
+                        importButtons.style.display = '';
                     } else {
-                        statusEl.className = 'alert alert-danger mt-3';
-                        statusEl.textContent = data.message || 'Import failed';
+                        importButtons.style.display = 'none';
+                        statusEl.style.display = '';
+                        statusEl.className = 'alert alert-warning mt-3';
+                        statusEl.textContent = 'Selected folder does not contain word_*.json or grammar_*.json';
                     }
-                })
-                .catch(err => {
-                    statusEl.style.display = '';
-                    statusEl.className = 'alert alert-danger mt-3';
-                    statusEl.textContent = 'Import error: ' + err.message;
-                })
-                .finally(() => {
-                    this.disabled = false;
-                    this.innerHTML = originalHtml;
+                }
+            });
+
+            document.querySelectorAll('.import-btn').forEach(btn => {
+                btn.addEventListener('click', function () {
+                    const type = this.dataset.type;
+                    const files = type === 'words' ? wordFiles : grammarFiles;
+                    if (files.length === 0) {
+                        statusEl.style.display = '';
+                        statusEl.className = 'alert alert-danger mt-3';
+                        statusEl.textContent = 'No matching ' + type + ' files found in selected folder';
+                        return;
+                    }
+
+                    const originalHtml = this.innerHTML;
+                    this.disabled = true;
+                    this.innerHTML = '<span class="spinner-border spinner-border-sm me-1"></span> Importing...';
+                    statusEl.style.display = 'none';
+
+                    const formData = new FormData();
+                    files.forEach(f => formData.append('files', f));
+
+                    fetch('/api/dict/import/' + type, {method: 'POST', body: formData})
+                        .then(r => r.json())
+                        .then(data => {
+                            statusEl.style.display = '';
+                            if (data.code === '200') {
+                                const count = data.data;
+                                if (count > 0) {
+                                    statusEl.className = 'alert alert-success mt-3';
+                                    statusEl.textContent = 'Import complete: ' + count + ' records';
+                                } else {
+                                    statusEl.className = 'alert alert-info mt-3';
+                                    statusEl.textContent = data.message || 'Data already imported, skipped';
+                                }
+                                location.reload();
+                            } else {
+                                statusEl.className = 'alert alert-danger mt-3';
+                                statusEl.textContent = data.message || 'Import failed';
+                            }
+                        })
+                        .catch(err => {
+                            statusEl.style.display = '';
+                            statusEl.className = 'alert alert-danger mt-3';
+                            statusEl.textContent = 'Import error: ' + err.message;
+                        })
+                        .finally(() => {
+                            this.disabled = false;
+                            this.innerHTML = originalHtml;
+                        });
                 });
-        });
-    });
-})();
-/*]]>*/
-</script>
+            });
+        })();
+        /*]]>*/
+    </script>
 
 </body>
 </html>

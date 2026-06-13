@@ -30,6 +30,7 @@ public enum WordPos {
 
     @Getter
     private final String remark;
+
     WordPos(String remark) {
         this.remark = remark;
     }

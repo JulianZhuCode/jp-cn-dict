@@ -58,7 +58,8 @@
             <td class="d-flex gap-2">
                 <button class="btn btn-outline-primary btn-sm"
                         data-modal="word-modal" th:attr="data-edit-id=${item.id}"
-                        th:if="${#sets.contains(userAuthorities, '*') or #sets.contains(userAuthorities, 'dict:word:update')}">Edit
+                        th:if="${#sets.contains(userAuthorities, '*') or #sets.contains(userAuthorities, 'dict:word:update')}">
+                    Edit
                 </button>
             </td>
         </th:block>
@@ -93,7 +94,8 @@
                             <label class="form-label" for="word-pos">Part of Speech</label>
                             <select class="form-select" id="word-pos" name="pos">
                                 <option value="">-- Select --</option>
-                                <option th:each="p : ${allPos}" th:value="${p.name()}" th:text="${p.remark}">名词</option>
+                                <option th:each="p : ${allPos}" th:text="${p.remark}" th:value="${p.name()}">名词
+                                </option>
                             </select>
                             <div class="invalid-feedback" data-field="pos"></div>
                         </div>

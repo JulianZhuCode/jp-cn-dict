@@ -73,7 +73,7 @@ public class DictInitializer implements CommandLineRunner {
     }
 
     private void ensureMenuExists(MenuEntity parent, String code, String name,
-                                   String path, int sort) {
+                                  String path, int sort) {
         if (menuRepository.findByCode(code).isEmpty()) {
             createMenu(parent.getId(), code, name, RbacConstants.MENU_TYPE_MENU,
                     path, null, null, "file-text", sort);
@@ -81,7 +81,7 @@ public class DictInitializer implements CommandLineRunner {
     }
 
     private void ensureMenuWithButtonsExists(MenuEntity parent, String baseCode, String name,
-                                              String path, int sort) {
+                                             String path, int sort) {
         MenuEntity menu = menuRepository.findByCode(baseCode)
                 .orElseGet(() -> createMenu(parent.getId(), baseCode, name, RbacConstants.MENU_TYPE_MENU,
                         path, null, null, "file-text", sort));
@@ -100,8 +100,8 @@ public class DictInitializer implements CommandLineRunner {
     }
 
     private MenuEntity createMenu(Integer parentId, String code, String name, int type,
-                                   String path, String component, String permission,
-                                   String icon, int sort) {
+                                  String path, String component, String permission,
+                                  String icon, int sort) {
         MenuEntity menu = new MenuEntity();
         menu.setParentId(parentId);
         menu.setCode(code);

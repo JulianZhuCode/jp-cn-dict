@@ -8,10 +8,10 @@ import lombok.Data;
  */
 @Data
 public class ExamplesRequest {
-    
+
     @NotBlank(message = "日语例句不能为空")
     private String jp;
-    
+
     @NotBlank(message = "中文翻译不能为空")
     private String cn;
 }

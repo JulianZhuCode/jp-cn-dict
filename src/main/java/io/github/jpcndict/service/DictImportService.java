@@ -41,6 +41,13 @@ public class DictImportService {
 
     // ---- Import (upsert by id) ----
 
+    private static Integer toInt(Object value) {
+        if (value instanceof Number n) {
+            return n.intValue();
+        }
+        return null;
+    }
+
     @Transactional
     public int importWords(List<InputStream> inputStreams) throws IOException {
         long before = wordRepository.count();
@@ -97,13 +104,6 @@ public class DictImportService {
         entity.setNotes(notes != null ? notes.toArray(new String[0]) : null);
         entity.setIsManualConfirmed(Boolean.TRUE.equals(raw.get("isManualConfirmed")));
         return entity;
-    }
-
-    private static Integer toInt(Object value) {
-        if (value instanceof Number n) {
-            return n.intValue();
-        }
-        return null;
     }
 
     private <T> int importJsonArray(InputStream inputStream,
