@@ -3,6 +3,7 @@ package io.github.jpcndict.controller;
 import io.github.jpcndict.dto.request.WordRequest;
 import io.github.jpcndict.dto.vo.WordVO;
 import io.github.jpcndict.service.WordService;
+import io.github.springwhale.framework.webmvc.advice.AdviceIgnore;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
@@ -75,6 +76,7 @@ public class WordController {
      * 搜索单词（模糊查询）
      * GET /api/words/search?keyword=日本
      */
+    @AdviceIgnore
     @GetMapping("/search")
     public List<WordVO> search(@RequestParam String keyword) {
         return wordService.search(keyword);

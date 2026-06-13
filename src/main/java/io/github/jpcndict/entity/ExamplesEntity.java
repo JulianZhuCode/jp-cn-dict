@@ -23,6 +23,16 @@ public class ExamplesEntity extends BaseEntity {
     @Column(columnDefinition = "text")
     private String cn;
     /**
+     * 关联单词ID
+     */
+    @Column(columnDefinition = "integer[]")
+    private Integer[] relatedWords;
+    /**
+     * 关联语法ID
+     */
+    @Column(columnDefinition = "integer[]")
+    private Integer[] relatedGrammars;
+    /**
      * 是否人工确认
      */
     private Boolean isManualConfirmed;

@@ -3,6 +3,7 @@ package io.github.jpcndict.controller;
 import io.github.jpcndict.dto.request.GrammarRequest;
 import io.github.jpcndict.dto.vo.GrammarVO;
 import io.github.jpcndict.service.GrammarService;
+import io.github.springwhale.framework.webmvc.advice.AdviceIgnore;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
@@ -55,6 +56,7 @@ public class GrammarController {
      * 搜索语法（模糊查询）
      * GET /api/grammars/search?keyword=～て
      */
+    @AdviceIgnore
     @GetMapping("/search")
     public List<GrammarVO> search(@RequestParam String keyword) {
         return grammarService.search(keyword);

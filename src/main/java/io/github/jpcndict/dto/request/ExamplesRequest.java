@@ -14,4 +14,14 @@ public class ExamplesRequest {
 
     @NotBlank(message = "中文翻译不能为空")
     private String cn;
+
+    /**
+     * 关联单词ID（逗号分隔）
+     */
+    private Integer[] relatedWords;
+
+    /**
+     * 关联语法ID（逗号分隔）
+     */
+    private Integer[] relatedGrammars;
 }

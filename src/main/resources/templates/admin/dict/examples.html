@@ -20,7 +20,7 @@
         emptyMessage='No examples found',
         baseUrl='/admin/dict/examples',
         page=${page},
-        colspan=4,
+        colspan=6,
         headers=~{::#example-headers},
         rows=~{::#example-row}
     )}">
@@ -28,12 +28,34 @@
             <th>ID</th>
             <th>Japanese</th>
             <th>Chinese</th>
+            <th style="min-width:160px">Related Words</th>
+            <th style="min-width:140px">Related Grammars</th>
             <th>Actions</th>
         </th:block>
         <th:block id="example-row">
             <td th:text="${item.id}">1</td>
             <td th:text="${item.jp}">私は学生です。</td>
             <td th:text="${item.cn}">我是学生。</td>
+            <td>
+                <span class="d-flex flex-wrap gap-1"
+                      th:if="${item.relatedWordItems != null and !item.relatedWordItems.isEmpty()}">
+                    <span class="badge bg-primary text-decoration-none"
+                          style="font-size:.78rem" th:each="w : ${item.relatedWordItems}"
+                          th:text="${w.word + (w.reading != null ? '（' + w.reading + '）' : '')}">食べる（たべる）</span>
+                </span>
+                <span class="text-muted"
+                      th:unless="${item.relatedWordItems != null and !item.relatedWordItems.isEmpty()}">-</span>
+            </td>
+            <td>
+                <span class="d-flex flex-wrap gap-1"
+                      th:if="${item.relatedGrammarItems != null and !item.relatedGrammarItems.isEmpty()}">
+                    <span class="badge bg-info text-decoration-none"
+                          style="font-size:.78rem" th:each="g : ${item.relatedGrammarItems}"
+                          th:text="${g.word + (g.reading != null ? '（' + g.reading + '）' : '')}">〜たい（〜たい）</span>
+                </span>
+                <span class="text-muted"
+                      th:unless="${item.relatedGrammarItems != null and !item.relatedGrammarItems.isEmpty()}">-</span>
+            </td>
             <td class="d-flex gap-2">
                 <button class="btn btn-outline-primary btn-sm"
                         data-modal="example-modal" th:attr="data-edit-id=${item.id}"
@@ -46,13 +68,16 @@
 
     <!-- Example Modal (Bootstrap 5) -->
     <div aria-hidden="true" class="modal fade" id="example-modal" tabindex="-1">
-        <div class="modal-dialog">
+        <div class="modal-dialog modal-lg">
             <div class="modal-content">
                 <div class="modal-header">
                     <h5 class="modal-title">Create Example</h5>
                     <button aria-label="Close" class="btn-close" data-bs-dismiss="modal" type="button"></button>
                 </div>
                 <form class="dict-modal-form" data-api-base="/api/examples">
+                    <!-- Hidden fields for tag selector IDs -->
+                    <input name="relatedWords" type="hidden" value="">
+                    <input name="relatedGrammars" type="hidden" value="">
                     <div class="modal-body">
                         <div class="mb-3">
                             <label class="form-label" for="example-jp">Japanese</label>
@@ -64,6 +89,38 @@
                             <input class="form-control" id="example-cn" name="cn" required type="text">
                             <div class="invalid-feedback" data-field="cn"></div>
                         </div>
+
+                        <!-- Related Words Tag Selector -->
+                        <div class="mb-3">
+                            <label class="form-label">Related Words</label>
+                            <div class="tag-selector"
+                                 data-field="relatedWords"
+                                 data-placeholder="Type to search words..."
+                                 data-search-url="/api/words/search?keyword=">
+                                <div class="tag-list d-flex flex-wrap gap-1 mb-2"></div>
+                                <div class="tag-input-wrap">
+                                    <input autocomplete="off" class="tag-input" placeholder="" type="text">
+                                    <div class="tag-dropdown"></div>
+                                </div>
+                            </div>
+                            <div class="invalid-feedback" data-field="relatedWords"></div>
+                        </div>
+
+                        <!-- Related Grammars Tag Selector -->
+                        <div class="mb-3">
+                            <label class="form-label">Related Grammars</label>
+                            <div class="tag-selector"
+                                 data-field="relatedGrammars"
+                                 data-placeholder="Type to search grammars..."
+                                 data-search-url="/api/grammars/search?keyword=">
+                                <div class="tag-list d-flex flex-wrap gap-1 mb-2"></div>
+                                <div class="tag-input-wrap">
+                                    <input autocomplete="off" class="tag-input" placeholder="" type="text">
+                                    <div class="tag-dropdown"></div>
+                                </div>
+                            </div>
+                            <div class="invalid-feedback" data-field="relatedGrammars"></div>
+                        </div>
                     </div>
                     <div class="modal-footer">
                         <button class="btn btn-secondary" data-bs-dismiss="modal" type="button">Cancel</button>
@@ -73,6 +130,374 @@
             </div>
         </div>
     </div>
+
+    <!-- Tag Selector Styles & Script (must stay inside layout:fragment) -->
+    <style>
+        /* Container */
+        .tag-selector {
+            border: 1px solid #ced4da;
+            border-radius: 0.375rem;
+            padding: 0.4rem;
+            background-color: #fff;
+            transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+            cursor: text;
+        }
+
+        .tag-selector:focus-within {
+            border-color: #86b7fe;
+            box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.15);
+        }
+
+        /* Tag badges */
+        .tag-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.35rem;
+            padding: 0.2rem 0.55rem;
+            font-size: 0.8rem;
+            color: #fff;
+            border-radius: 0.25rem;
+            user-select: none;
+            animation: tagIn 0.12s ease-out;
+        }
+
+        .tag-item[data-field="relatedWords"] {
+            background-color: #0d6efd;
+        }
+
+        .tag-item[data-field="relatedGrammars"] {
+            background-color: #0dcaf0;
+            color: #212529;
+        }
+
+        .tag-item .tag-remove {
+            cursor: pointer;
+            opacity: 0.75;
+            font-size: 0.85em;
+            line-height: 1;
+            transition: opacity 0.15s;
+        }
+
+        .tag-item .tag-remove:hover {
+            opacity: 1;
+        }
+
+        /* Input area */
+        .tag-input-wrap {
+            position: relative;
+        }
+
+        .tag-input {
+            display: block;
+            width: 100%;
+            border: none !important;
+            outline: none !important;
+            box-shadow: none !important;
+            padding: 0.15rem 0 !important;
+            margin: 0 !important;
+            min-width: 120px;
+            font-size: 0.9rem;
+            line-height: 1.5;
+            background: transparent;
+        }
+
+        /* Dropdown */
+        .tag-dropdown {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            z-index: 1060;
+            max-height: 220px;
+            overflow-y: auto;
+            margin-top: 2px;
+            background-color: #fff;
+            border: 1px solid rgba(0, 0, 0, .15);
+            border-radius: 0.375rem;
+            box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .175);
+        }
+
+        .tag-dropdown.show {
+            display: block;
+        }
+
+        .tag-dropdown-item {
+            display: block;
+            width: 100%;
+            padding: 0.45rem 0.85rem;
+            font-size: 0.87rem;
+            color: #212529;
+            cursor: pointer;
+            transition: background-color 0.1s;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .tag-dropdown-item:hover,
+        .tag-dropdown-item.active {
+            background-color: #e9ecef;
+        }
+
+        .tag-dropdown-item strong {
+            font-weight: 600;
+        }
+
+        .tag-dropdown-item .dd-sub {
+            font-size: 0.78rem;
+            color: #6c757d;
+            margin-left: 0.4rem;
+        }
+
+        .tag-dropdown-empty {
+            padding: 0.55rem 0.85rem;
+            font-size: 0.82rem;
+            color: #6c757d;
+        }
+
+        @keyframes tagIn {
+            from {
+                transform: scale(0.9);
+                opacity: 0;
+            }
+            to {
+                transform: scale(1);
+                opacity: 1;
+            }
+        }
+    </style>
+
+    <script th:inline="javascript">
+        (function () {
+            var DEBOUNCE_MS = 300;
+
+            // ── Init on modal open ──
+            document.addEventListener('shown.bs.modal', function (e) {
+                if (e.target.id !== 'example-modal') return;
+                initTagSelectors();
+            });
+            document.addEventListener('DOMContentLoaded', initTagSelectors);
+            window.initTagSelectors = initTagSelectors;
+
+            function initTagSelectors() {
+                var selectors = document.querySelectorAll('#example-modal .tag-selector');
+                for (var s = 0; s < selectors.length; s++) {
+                    initOne(selectors[s]);
+                }
+            }
+
+            function initOne(container) {
+                if (container._inited) return;
+                container._inited = true;
+
+                var field = container.dataset.field;
+                var searchUrl = container.dataset.searchUrl;
+                var listEl = container.querySelector('.tag-list');
+                var input = container.querySelector('.tag-input');
+                var dropdown = container.querySelector('.tag-dropdown');
+                var hiddenInput = document.querySelector('form.dict-modal-form input[name="' + field + '"]');
+
+                var selected = {};
+                var activeIndex = -1;
+                var abortController = null;
+
+                input.placeholder = container.dataset.placeholder || '';
+
+                // ── Events ──
+                input.addEventListener('focus', function () {
+                    container.classList.add('focused');
+                });
+                input.addEventListener('blur', function () {
+                    setTimeout(hideDropdown, 150);
+                    container.classList.remove('focused');
+                });
+                input.addEventListener('keydown', handleKeydown);
+                input.addEventListener('input', function () {
+                    activeIndex = -1;
+                    var q = this.value.trim();
+                    if (!q) {
+                        hideDropdown();
+                        return;
+                    }
+                    debounceSearch(q);
+                });
+
+                // ── Search ──
+                function debounceSearch(query) {
+                    if (abortController) abortController.abort();
+                    var ac = new AbortController();
+                    abortController = ac;
+                    setTimeout(function () {
+                        doSearch(query, ac);
+                    }, DEBOUNCE_MS);
+                }
+
+                async function doSearch(query, controller) {
+                    try {
+                        var resp = await fetch(searchUrl + encodeURIComponent(query), {signal: controller.signal});
+                        var items = await resp.json();
+                        // Unwrap ApiResult wrapper
+                        if (items && typeof items === 'object' && !Array.isArray(items) && items.data) {
+                            items = items.data;
+                        }
+                        if (!Array.isArray(items) || items.length === 0) {
+                            dropdown.innerHTML = '<div class="tag-dropdown-empty">No results found</div>';
+                            showDropdown();
+                            return;
+                        }
+                        var filtered = [];
+                        for (var f = 0; f < items.length; f++) {
+                            if (!selected[items[f].id]) filtered.push(items[f]);
+                        }
+                        if (filtered.length === 0) {
+                            dropdown.innerHTML = '<div class="tag-dropdown-empty">All matching items selected</div>';
+                            showDropdown();
+                            return;
+                        }
+                        renderDropdown(filtered);
+                    } catch (e) {
+                        if (e.name !== 'AbortError') console.warn('Tag search error:', e);
+                    }
+                }
+
+                function renderDropdown(items) {
+                    dropdown.innerHTML = '';
+                    for (var i = 0; i < items.length; i++) {
+                        (function (it, idx) {
+                            var el = document.createElement('div');
+                            el.className = 'tag-dropdown-item';
+                            el.innerHTML = '<strong>' + esc(it.word || '') + '</strong>'
+                                + '<span class="dd-sub">' + esc(it.reading || '') + '</span>';
+                            el.onmousedown = function (ev) {
+                                ev.preventDefault();
+                                selectItem(it);
+                            };
+                            el.onmouseenter = function () {
+                                setActive(idx);
+                            };
+                            dropdown.appendChild(el);
+                        })(items[i], i);
+                    }
+                    showDropdown();
+                }
+
+                function setActive(idx) {
+                    activeIndex = idx;
+                    var els = dropdown.querySelectorAll('.tag-dropdown-item');
+                    for (var e = 0; e < els.length; e++) {
+                        els[e].classList.toggle('active', e === idx);
+                    }
+                }
+
+                // ── Keyboard ──
+                function handleKeydown(ev) {
+                    var items = dropdown.querySelectorAll('.tag-dropdown-item');
+                    if (ev.key === 'ArrowDown') {
+                        ev.preventDefault();
+                        if (items.length > 0) activeIndex = Math.min(activeIndex + 1, items.length - 1);
+                        else activeIndex = 0;
+                        setActive(activeIndex);
+                        scrollToActive(items);
+                    } else if (ev.key === 'ArrowUp') {
+                        ev.preventDefault();
+                        activeIndex = Math.max(activeIndex - 1, 0);
+                        setActive(activeIndex);
+                        scrollToActive(items);
+                    } else if (ev.key === 'Enter') {
+                        ev.preventDefault();
+                        if (activeIndex >= 0 && activeIndex < items.length) {
+                            items[activeIndex].click();
+                        } else if (input.value.trim()) {
+                            debounceSearch(input.value.trim());
+                        }
+                    } else if (ev.key === 'Escape') {
+                        hideDropdown();
+                        input.blur();
+                    } else if (ev.key === 'Backspace' && !input.value && Object.keys(selected).length > 0) {
+                        var ids = Object.keys(selected);
+                        removeItem(ids[ids.length - 1]);
+                    }
+                }
+
+                function scrollToActive(items) {
+                    if (items[activeIndex]) items[activeIndex].scrollIntoView({block: 'nearest'});
+                }
+
+                // ── Select / Remove ──
+                function selectItem(item) {
+                    selected[item.id] = item;
+                    addBadge(item);
+                    syncHidden();
+                    input.value = '';
+                    hideDropdown();
+                    input.focus();
+                }
+
+                function removeItem(id) {
+                    delete selected[id];
+                    var badge = listEl.querySelector('.tag-badge[data-id="' + id + '"]');
+                    if (badge) badge.remove();
+                    syncHidden();
+                }
+
+                function addBadge(item) {
+                    var badge = document.createElement('span');
+                    badge.className = 'tag-item tag-badge';
+                    badge.dataset.id = item.id;
+                    badge.setAttribute('data-field', field);
+                    badge.innerHTML = esc(item.word)
+                        + (item.reading ? ' <small>(' + esc(item.reading) + ')</small>' : '')
+                        + ' <span class="tag-remove">&times;</span>';
+                    badge.querySelector('.tag-remove').onclick = function () {
+                        removeItem(item.id);
+                    };
+                    listEl.appendChild(badge);
+                }
+
+                function syncHidden() {
+                    hiddenInput.value = Object.keys(selected).join(',');
+                }
+
+                function showDropdown() {
+                    dropdown.classList.add('show');
+                }
+
+                function hideDropdown() {
+                    dropdown.classList.remove('show');
+                    activeIndex = -1;
+                }
+
+                // ── Public API ──
+                container.setTagData = function (items) {
+                    clearAll();
+                    if (!Array.isArray(items)) return;
+                    for (var i = 0; i < items.length; i++) selectItem(items[i]);
+                };
+                container.getTagIds = function () {
+                    var keys = Object.keys(selected);
+                    var arr = [];
+                    for (var i = 0; i < keys.length; i++) arr.push(Number(keys[i]));
+                    return arr;
+                };
+                container.clearTags = clearAll;
+
+                function clearAll() {
+                    selected = {};
+                    listEl.innerHTML = '';
+                    syncHidden();
+                }
+            }
+
+            // ── Utility ──
+            function esc(str) {
+                if (!str) return '';
+                var d = document.createElement('div');
+                d.textContent = str;
+                return d.innerHTML;
+            }
+        })();
+    </script>
 </main>
 
 </body>
