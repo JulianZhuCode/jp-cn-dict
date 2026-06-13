@@ -82,6 +82,7 @@
                         <div class="mb-3">
                             <label class="form-label" for="example-jp">Japanese</label>
                             <input class="form-control" id="example-jp" name="jp" required type="text">
+                            <div class="example-exists-warning" style="display:none"></div>
                             <div class="invalid-feedback" data-field="jp"></div>
                         </div>
                         <div class="mb-3">
@@ -254,6 +255,22 @@
             padding: 0.55rem 0.85rem;
             font-size: 0.82rem;
             color: #6c757d;
+        }
+
+        /* Exists warning */
+        .example-exists-warning {
+            margin-top: 0.3rem;
+            font-size: 0.82rem;
+            color: #dc3545;
+            display: flex;
+            align-items: center;
+            gap: 0.3rem;
+            animation: fadeIn 0.2s ease-out;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-4px); }
+            to { opacity: 1; transform: translateY(0); }
         }
 
         @keyframes tagIn {
@@ -487,6 +504,64 @@
                     listEl.innerHTML = '';
                     syncHidden();
                 }
+            }
+
+            // ── Existence Check ──
+            var existsCheckTimer = null;
+            var existsCheckAbort = null;
+            var jpInput = document.getElementById('example-jp');
+            var existsWarning = document.querySelector('#example-modal .example-exists-warning');
+
+            if (jpInput) {
+                jpInput.addEventListener('input', function () {
+                    clearTimeout(existsCheckTimer);
+                    if (existsCheckAbort) existsCheckAbort.abort();
+                    existsWarning.style.display = 'none';
+                    existsWarning.textContent = '';
+
+                    var jp = this.value.trim();
+                    if (!jp) return;
+
+                    existsCheckTimer = setTimeout(function () {
+                        checkExampleExists(jp);
+                    }, DEBOUNCE_MS);
+                });
+
+                // When modal opens for editing, clear warning
+                document.addEventListener('shown.bs.modal', function (e) {
+                    if (e.target.id !== 'example-modal') return;
+                    existsWarning.style.display = 'none';
+                    existsWarning.textContent = '';
+                });
+            }
+
+            function checkExampleExists(jp) {
+                var form = document.querySelector('#example-modal .dict-modal-form');
+                var editId = form ? form.getAttribute('data-edit-id') : null;
+                var url = '/api/examples/exists?jp=' + encodeURIComponent(jp);
+                if (editId) url += '&excludeId=' + editId;
+
+                if (existsCheckAbort) existsCheckAbort.abort();
+                var ac = new AbortController();
+                existsCheckAbort = ac;
+
+                fetch(url, { signal: ac.signal })
+                    .then(function (resp) {
+                        if (!resp.ok) throw new Error('HTTP ' + resp.status);
+                        return resp.json();
+                    })
+                    .then(function (data) {
+                        if (data && data.exists) {
+                            existsWarning.textContent = '\u26A0 This example sentence already exists (ID: ' + (data.existingId || '?') + ')';
+                            existsWarning.style.display = 'flex';
+                        } else {
+                            existsWarning.style.display = 'none';
+                            existsWarning.textContent = '';
+                        }
+                    })
+                    .catch(function (e) {
+                        if (e.name !== 'AbortError') console.warn('Existence check error:', e);
+                    });
             }
 
             // ── Utility ──

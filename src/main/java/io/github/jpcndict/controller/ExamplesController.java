@@ -3,6 +3,7 @@ package io.github.jpcndict.controller;
 import io.github.jpcndict.dto.request.ExamplesRequest;
 import io.github.jpcndict.dto.vo.ExamplesVO;
 import io.github.jpcndict.service.ExamplesService;
+import io.github.springwhale.framework.webmvc.advice.AdviceIgnore;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
@@ -42,12 +43,19 @@ public class ExamplesController {
     }
 
     /**
-     * 搜索例句（模糊查询）
-     * GET /api/examples/search?keyword=取引
+     * 检查例句是否已存在
+     * GET /api/examples/exists?jp=私は学生です。&excludeId=1
      */
-    @GetMapping("/search")
-    public List<ExamplesVO> search(@RequestParam String keyword) {
-        return examplesService.search(keyword);
+    @AdviceIgnore
+    @GetMapping("/exists")
+    public java.util.Map<String, Object> checkExists(
+            @RequestParam String jp,
+            @RequestParam(required = false) Integer excludeId) {
+        Integer existingId = examplesService.checkExists(jp, excludeId);
+        if (existingId != null) {
+            return java.util.Map.of("exists", true, "existingId", existingId);
+        }
+        return java.util.Map.of("exists", false);
     }
 
     /**

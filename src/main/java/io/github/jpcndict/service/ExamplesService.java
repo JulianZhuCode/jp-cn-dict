@@ -65,10 +65,32 @@ public class ExamplesService {
     }
 
     /**
+     * 检查例句是否已存在
+     * @param jp 日语例句
+     * @param excludeId 排除的ID（编辑时排除自身）
+     * @return 已存在时返回该记录ID，否则返回null
+     */
+    public Integer checkExists(String jp, Integer excludeId) {
+        if (jp == null || jp.trim().isEmpty()) {
+            return null;
+        }
+        if (excludeId != null) {
+            if (examplesRepository.existsByJpAndIdNot(jp.trim(), excludeId)) {
+                return examplesRepository.findByJp(jp.trim()).map(ExamplesEntity::getId).orElse(null);
+            }
+            return null;
+        }
+        return examplesRepository.findByJp(jp.trim()).map(ExamplesEntity::getId).orElse(null);
+    }
+
+    /**
      * 创建例句
      */
     @Transactional
     public ExamplesVO create(ExamplesRequest request) {
+        if (checkExists(request.getJp(), null) != null) {
+            throw BusinessException.create("EXAMPLE_EXISTS", "该日语例句已存在");
+        }
         ExamplesEntity entity = new ExamplesEntity();
         entity.setJp(request.getJp());
         entity.setCn(request.getCn());
@@ -87,6 +109,10 @@ public class ExamplesService {
     public ExamplesVO update(Integer id, ExamplesRequest request) {
         ExamplesEntity example = examplesRepository.findById(id)
                 .orElseThrow(() -> BusinessException.create("EXAMPLE_NOT_FOUND", "例句不存在，ID: " + id));
+
+        if (checkExists(request.getJp(), id) != null) {
+            throw BusinessException.create("EXAMPLE_EXISTS", "该日语例句已存在");
+        }
 
         example.setJp(request.getJp());
         example.setCn(request.getCn());
