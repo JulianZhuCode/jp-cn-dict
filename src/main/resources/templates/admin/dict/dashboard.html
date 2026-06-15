@@ -73,8 +73,8 @@
             </h5>
         </div>
         <div class="card-body">
-            <p class="text-secondary mb-3">Select the data directory containing <code>word_1.json</code>, <code>word_2.json</code>…
-                and <code>grammar_1.json</code>… then click Import. Already imported data will be skipped.</p>
+            <p class="text-secondary mb-3">Select the data directory containing <code>word_1.json</code>, <code>grammar_1.json</code>,
+                <code>example_1.json</code>… then click Import. Already imported data will be skipped.</p>
             <div class="mb-3">
                 <label class="form-label">Select Data Directory</label>
                 <div class="input-group">
@@ -84,8 +84,8 @@
                         <i class="bi bi-folder2-open me-1"></i> Browse...
                     </button>
                 </div>
-                <div class="form-text">Select the folder that contains <code>word_*.json</code> and
-                    <code>grammar_*.json</code>.
+                <div class="form-text">Select the folder that contains <code>word_*.json</code>,
+                    <code>grammar_*.json</code> and <code>example_*.json</code>.
                 </div>
                 <input hidden id="dirPicker" type="file" webkitdirectory>
             </div>
@@ -95,6 +95,9 @@
                 </button>
                 <button class="btn btn-success import-btn" data-type="grammars" id="importGrammarsBtn">
                     <i class="bi bi-file-earmark-arrow-up me-1"></i> Import Grammars
+                </button>
+                <button class="btn btn-warning import-btn" data-type="examples" id="importExamplesBtn">
+                    <i class="bi bi-file-earmark-arrow-up me-1"></i> Import Examples
                 </button>
             </div>
             <div class="mt-3" id="importStatus" style="display:none"></div>
@@ -117,6 +120,9 @@
                 </a>
                 <a class="btn btn-success" href="/api/dict/export/grammars">
                     <i class="bi bi-file-earmark-zip me-1"></i> Export Grammars
+                </a>
+                <a class="btn btn-warning" href="/api/dict/export/examples">
+                    <i class="bi bi-file-earmark-zip me-1"></i> Export Examples
                 </a>
             </div>
         </div>
@@ -177,6 +183,7 @@
             const importButtons = document.getElementById('importButtons');
             let wordFiles = [];
             let grammarFiles = [];
+            let exampleFiles = [];
 
             document.getElementById('btnBrowseDir').addEventListener('click', function () {
                 dirPicker.value = '';
@@ -191,13 +198,14 @@
                     const all = Array.from(this.files);
                     wordFiles = all.filter(f => /^word_\d+\.json$/.test(f.name));
                     grammarFiles = all.filter(f => /^grammar_\d+\.json$/.test(f.name));
-                    if (wordFiles.length > 0 || grammarFiles.length > 0) {
+                    exampleFiles = all.filter(f => /^example_\d+\.json$/.test(f.name));
+                    if (wordFiles.length > 0 || grammarFiles.length > 0 || exampleFiles.length > 0) {
                         importButtons.style.display = '';
                     } else {
                         importButtons.style.display = 'none';
                         statusEl.style.display = '';
                         statusEl.className = 'alert alert-warning mt-3';
-                        statusEl.textContent = 'Selected folder does not contain word_*.json or grammar_*.json';
+                        statusEl.textContent = 'Selected folder does not contain word_*.json, grammar_*.json or example_*.json';
                     }
                 }
             });
@@ -205,7 +213,7 @@
             document.querySelectorAll('.import-btn').forEach(btn => {
                 btn.addEventListener('click', function () {
                     const type = this.dataset.type;
-                    const files = type === 'words' ? wordFiles : grammarFiles;
+                    const files = type === 'words' ? wordFiles : (type === 'grammars' ? grammarFiles : exampleFiles);
                     if (files.length === 0) {
                         statusEl.style.display = '';
                         statusEl.className = 'alert alert-danger mt-3';

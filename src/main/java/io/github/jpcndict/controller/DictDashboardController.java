@@ -54,6 +54,16 @@ public class DictDashboardController {
         }
     }
 
+    @PostMapping("/import/examples")
+    public Integer importExamples(@RequestParam("files") MultipartFile[] files) {
+        try {
+            return dictImportService.importExamples(extractStreams(files));
+        } catch (Exception e) {
+            log.error("examples 文件导入失败", e);
+            throw BusinessException.create("IMPORT_ERROR", "导入失败，请检查文件内容与格式");
+        }
+    }
+
     @GetMapping("/export/words")
     public void exportWords(HttpServletResponse response) {
         try {
@@ -76,6 +86,19 @@ public class DictDashboardController {
             response.getOutputStream().write(zipData);
         } catch (IOException e) {
             log.error("grammars 导出失败", e);
+            throw BusinessException.create("EXPORT_ERROR", "导出失败");
+        }
+    }
+
+    @GetMapping("/export/examples")
+    public void exportExamples(HttpServletResponse response) {
+        try {
+            byte[] zipData = dictImportService.exportExamples();
+            response.setContentType("application/zip");
+            response.setHeader("Content-Disposition", "attachment; filename=examples.zip");
+            response.getOutputStream().write(zipData);
+        } catch (IOException e) {
+            log.error("examples 导出失败", e);
             throw BusinessException.create("EXPORT_ERROR", "导出失败");
         }
     }

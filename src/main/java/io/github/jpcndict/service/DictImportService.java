@@ -1,7 +1,9 @@
 package io.github.jpcndict.service;
 
+import io.github.jpcndict.entity.ExamplesEntity;
 import io.github.jpcndict.entity.GrammarEntity;
 import io.github.jpcndict.entity.WordEntity;
+import io.github.jpcndict.repository.ExamplesRepository;
 import io.github.jpcndict.repository.GrammarRepository;
 import io.github.jpcndict.repository.WordRepository;
 import lombok.RequiredArgsConstructor;
@@ -35,6 +37,7 @@ public class DictImportService {
     private static final int BATCH_SIZE = 500;
     private final WordRepository wordRepository;
     private final GrammarRepository grammarRepository;
+    private final ExamplesRepository examplesRepository;
     private final ObjectMapper objectMapper = new ObjectMapper();
     private final ObjectReader mapReader = objectMapper.readerFor(Map.class)
             .without(DeserializationFeature.FAIL_ON_TRAILING_TOKENS);
@@ -74,6 +77,19 @@ public class DictImportService {
         return total;
     }
 
+    @Transactional
+    public int importExamples(List<InputStream> inputStreams) throws IOException {
+        long before = examplesRepository.count();
+        int total = 0;
+        for (InputStream is : inputStreams) {
+            total += importJsonArray(is, this::toExamplesEntity, examplesRepository::saveAll);
+        }
+        long after = examplesRepository.count();
+        log.info("Examples import complete: {} processed, {} new inserted, {} updated",
+                total, after - before, total - (after - before));
+        return total;
+    }
+
     private WordEntity toWordEntity(Map<String, Object> raw) {
         WordEntity entity = new WordEntity();
         entity.setId(toInt(raw.get("id")));
@@ -102,6 +118,21 @@ public class DictImportService {
         @SuppressWarnings("unchecked")
         List<String> notes = (List<String>) raw.get("notes");
         entity.setNotes(notes != null ? notes.toArray(new String[0]) : null);
+        entity.setIsManualConfirmed(Boolean.TRUE.equals(raw.get("isManualConfirmed")));
+        return entity;
+    }
+
+    private ExamplesEntity toExamplesEntity(Map<String, Object> raw) {
+        ExamplesEntity entity = new ExamplesEntity();
+        entity.setId(toInt(raw.get("id")));
+        entity.setJp((String) raw.get("jp"));
+        entity.setCn((String) raw.get("cn"));
+        @SuppressWarnings("unchecked")
+        List<Integer> relatedWords = (List<Integer>) raw.get("relatedWords");
+        entity.setRelatedWords(relatedWords != null ? relatedWords.toArray(new Integer[0]) : null);
+        @SuppressWarnings("unchecked")
+        List<Integer> relatedGrammars = (List<Integer>) raw.get("relatedGrammars");
+        entity.setRelatedGrammars(relatedGrammars != null ? relatedGrammars.toArray(new Integer[0]) : null);
         entity.setIsManualConfirmed(Boolean.TRUE.equals(raw.get("isManualConfirmed")));
         return entity;
     }
@@ -165,6 +196,18 @@ public class DictImportService {
         return baos.toByteArray();
     }
 
+    public byte[] exportExamples() throws IOException {
+        List<ExamplesEntity> all = examplesRepository.findAll(Sort.by("id"));
+        Map<Integer, List<Map<String, Object>>> groups = new TreeMap<>();
+        for (ExamplesEntity e : all) {
+            int start = ((e.getId() - 1) / 100) * 100 + 1;
+            groups.computeIfAbsent(start, _ -> new ArrayList<>()).add(toExamplesExportMap(e));
+        }
+        ByteArrayOutputStream baos = new ByteArrayOutputStream();
+        writeZip(baos, "example_", groups);
+        return baos.toByteArray();
+    }
+
     private Map<String, Object> toWordExportMap(WordEntity e) {
         Map<String, Object> map = new LinkedHashMap<>();
         map.put("id", e.getId());
@@ -185,6 +228,17 @@ public class DictImportService {
         map.put("reading", e.getReading());
         map.put("meaning", e.getMeaning());
         map.put("notes", e.getNotes());
+        map.put("isManualConfirmed", e.getIsManualConfirmed());
+        return map;
+    }
+
+    private Map<String, Object> toExamplesExportMap(ExamplesEntity e) {
+        Map<String, Object> map = new LinkedHashMap<>();
+        map.put("id", e.getId());
+        map.put("jp", e.getJp());
+        map.put("cn", e.getCn());
+        map.put("relatedWords", e.getRelatedWords());
+        map.put("relatedGrammars", e.getRelatedGrammars());
         map.put("isManualConfirmed", e.getIsManualConfirmed());
         return map;
     }
