@@ -4,20 +4,20 @@
       xmlns:th="http://www.thymeleaf.org">
 
 <head>
-    <title>Examples</title>
+    <title>例句管理</title>
 </head>
 
 <body>
 
 <main layout:fragment="content">
     <th:block th:replace="~{admin/fragments/data-table :: table(
-        title='Examples',
-        description='Manage Japanese-Chinese example sentences',
+        title='例句',
+        description='管理日汉例句',
         createUrl='#',
         createModal='example-modal',
         createPermission='dict:example:create',
         items=${examples},
-        emptyMessage='No examples found',
+        emptyMessage='未找到例句',
         baseUrl='/admin/dict/examples',
         page=${page},
         colspan=6,
@@ -26,11 +26,11 @@
     )}">
         <th:block id="example-headers">
             <th>ID</th>
-            <th>Japanese</th>
-            <th>Chinese</th>
-            <th style="min-width:160px">Related Words</th>
-            <th style="min-width:140px">Related Grammars</th>
-            <th>Actions</th>
+            <th>日语</th>
+            <th>中文</th>
+            <th style="min-width:160px">关联单词</th>
+            <th style="min-width:140px">关联语法</th>
+            <th>操作</th>
         </th:block>
         <th:block id="example-row">
             <td th:text="${item.id}">1</td>
@@ -60,7 +60,7 @@
                 <button class="btn btn-outline-primary btn-sm"
                         data-modal="example-modal" th:attr="data-edit-id=${item.id}"
                         th:if="${#sets.contains(userAuthorities, '*') or #sets.contains(userAuthorities, 'dict:example:update')}">
-                    Edit
+                    编辑
                 </button>
             </td>
         </th:block>
@@ -71,7 +71,7 @@
         <div class="modal-dialog modal-lg">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title">Create Example</h5>
+                    <h5 class="modal-title">创建例句</h5>
                     <button aria-label="Close" class="btn-close" data-bs-dismiss="modal" type="button"></button>
                 </div>
                 <form class="dict-modal-form" data-api-base="/api/examples">
@@ -80,23 +80,23 @@
                     <input name="relatedGrammars" type="hidden" value="">
                     <div class="modal-body">
                         <div class="mb-3">
-                            <label class="form-label" for="example-jp">Japanese</label>
+                            <label class="form-label" for="example-jp">日语</label>
                             <input class="form-control" id="example-jp" name="jp" required type="text">
                             <div class="example-exists-warning" style="display:none"></div>
                             <div class="invalid-feedback" data-field="jp"></div>
                         </div>
                         <div class="mb-3">
-                            <label class="form-label" for="example-cn">Chinese</label>
+                            <label class="form-label" for="example-cn">中文</label>
                             <input class="form-control" id="example-cn" name="cn" required type="text">
                             <div class="invalid-feedback" data-field="cn"></div>
                         </div>
 
                         <!-- Related Words Tag Selector -->
                         <div class="mb-3">
-                            <label class="form-label">Related Words</label>
+                            <label class="form-label">关联单词</label>
                             <div class="tag-selector"
                                  data-field="relatedWords"
-                                 data-placeholder="Type to search words..."
+                                 data-placeholder="输入关键词搜索单词..."
                                  data-search-url="/api/words/search?keyword=">
                                 <div class="tag-list d-flex flex-wrap gap-1 mb-2"></div>
                                 <div class="tag-input-wrap">
@@ -109,10 +109,10 @@
 
                         <!-- Related Grammars Tag Selector -->
                         <div class="mb-3">
-                            <label class="form-label">Related Grammars</label>
+                            <label class="form-label">关联语法</label>
                             <div class="tag-selector"
                                  data-field="relatedGrammars"
-                                 data-placeholder="Type to search grammars..."
+                                 data-placeholder="输入关键词搜索语法..."
                                  data-search-url="/api/grammars/search?keyword=">
                                 <div class="tag-list d-flex flex-wrap gap-1 mb-2"></div>
                                 <div class="tag-input-wrap">
@@ -124,8 +124,8 @@
                         </div>
                     </div>
                     <div class="modal-footer">
-                        <button class="btn btn-secondary" data-bs-dismiss="modal" type="button">Cancel</button>
-                        <button class="btn btn-primary modal-submit" type="button">Save</button>
+                        <button class="btn btn-secondary" data-bs-dismiss="modal" type="button">取消</button>
+                        <button class="btn btn-primary modal-submit" type="button">保存</button>
                     </div>
                 </form>
             </div>
@@ -359,7 +359,7 @@
                             items = items.data;
                         }
                         if (!Array.isArray(items) || items.length === 0) {
-                            dropdown.innerHTML = '<div class="tag-dropdown-empty">No results found</div>';
+                            dropdown.innerHTML = '<div class="tag-dropdown-empty">未找到结果</div>';
                             showDropdown();
                             return;
                         }
@@ -368,7 +368,7 @@
                             if (!selected[items[f].id]) filtered.push(items[f]);
                         }
                         if (filtered.length === 0) {
-                            dropdown.innerHTML = '<div class="tag-dropdown-empty">All matching items selected</div>';
+                            dropdown.innerHTML = '<div class="tag-dropdown-empty">所有匹配项已选中</div>';
                             showDropdown();
                             return;
                         }
@@ -552,7 +552,7 @@
                     })
                     .then(function (data) {
                         if (data && data.exists) {
-                            existsWarning.textContent = '\u26A0 This example sentence already exists (ID: ' + (data.existingId || '?') + ')';
+                            existsWarning.textContent = '\u26A0 该例句已存在（ID：' + (data.existingId || '?') + '）';
                             existsWarning.style.display = 'flex';
                         } else {
                             existsWarning.style.display = 'none';

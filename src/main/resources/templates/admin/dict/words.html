@@ -4,20 +4,20 @@
       xmlns:th="http://www.thymeleaf.org">
 
 <head>
-    <title>Words</title>
+    <title>单词管理</title>
 </head>
 
 <body>
 
 <main layout:fragment="content">
     <th:block th:replace="~{admin/fragments/data-table :: table(
-        title='Words',
-        description='Manage Japanese-Chinese dictionary words',
+        title='单词',
+        description='管理日汉词典单词',
         createUrl='#',
         createModal='word-modal',
         createPermission='dict:word:create',
         items=${words},
-        emptyMessage='No words found',
+        emptyMessage='未找到单词',
         baseUrl='/admin/dict/words',
         page=${page},
         colspan=8,
@@ -26,13 +26,13 @@
     )}">
         <th:block id="word-headers">
             <th>ID</th>
-            <th>Word</th>
-            <th>Reading</th>
-            <th>Romaji</th>
-            <th>Meaning</th>
-            <th>POS</th>
-            <th>Notes</th>
-            <th>Actions</th>
+            <th>单词</th>
+            <th>读音</th>
+            <th>罗马音</th>
+            <th>含义</th>
+            <th>词性</th>
+            <th>备注</th>
+            <th>操作</th>
         </th:block>
         <th:block id="word-row">
             <td th:text="${item.id}">1</td>
@@ -59,7 +59,7 @@
                 <button class="btn btn-outline-primary btn-sm"
                         data-modal="word-modal" th:attr="data-edit-id=${item.id}"
                         th:if="${#sets.contains(userAuthorities, '*') or #sets.contains(userAuthorities, 'dict:word:update')}">
-                    Edit
+                    编辑
                 </button>
             </td>
         </th:block>
@@ -70,49 +70,49 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title">Create Word</h5>
+                    <h5 class="modal-title">创建单词</h5>
                     <button aria-label="Close" class="btn-close" data-bs-dismiss="modal" type="button"></button>
                 </div>
                 <form class="dict-modal-form" data-api-base="/api/words">
                     <div class="modal-body">
                         <div class="mb-3">
-                            <label class="form-label" for="word-word">Word</label>
+                            <label class="form-label" for="word-word">单词</label>
                             <input class="form-control" id="word-word" name="word" required type="text">
                             <div class="invalid-feedback" data-field="word"></div>
                         </div>
                         <div class="mb-3">
-                            <label class="form-label" for="word-reading">Reading</label>
+                            <label class="form-label" for="word-reading">读音</label>
                             <input class="form-control" id="word-reading" name="reading" type="text">
                             <div class="invalid-feedback" data-field="reading"></div>
                         </div>
                         <div class="mb-3">
-                            <label class="form-label" for="word-romaji">Romaji</label>
+                            <label class="form-label" for="word-romaji">罗马音</label>
                             <input class="form-control" id="word-romaji" name="romaji" type="text">
                             <div class="invalid-feedback" data-field="romaji"></div>
                         </div>
                         <div class="mb-3">
-                            <label class="form-label" for="word-pos">Part of Speech</label>
+                            <label class="form-label" for="word-pos">词性</label>
                             <select class="form-select" id="word-pos" name="pos">
-                                <option value="">-- Select --</option>
+                                <option value="">-- 请选择 --</option>
                                 <option th:each="p : ${allPos}" th:text="${p.remark}" th:value="${p.name()}">名词
                                 </option>
                             </select>
                             <div class="invalid-feedback" data-field="pos"></div>
                         </div>
                         <div class="mb-3">
-                            <label class="form-label" for="word-meaning">Meaning (comma separated)</label>
+                            <label class="form-label" for="word-meaning">含义（逗号分隔）</label>
                             <input class="form-control" id="word-meaning" name="meaning" type="text">
                             <div class="invalid-feedback" data-field="meaning"></div>
                         </div>
                         <div class="mb-3">
-                            <label class="form-label" for="word-notes">Notes (comma separated)</label>
+                            <label class="form-label" for="word-notes">备注（逗号分隔）</label>
                             <input class="form-control" id="word-notes" name="notes" type="text">
                             <div class="invalid-feedback" data-field="notes"></div>
                         </div>
                     </div>
                     <div class="modal-footer">
-                        <button class="btn btn-secondary" data-bs-dismiss="modal" type="button">Cancel</button>
-                        <button class="btn btn-primary modal-submit" type="button">Save</button>
+                        <button class="btn btn-secondary" data-bs-dismiss="modal" type="button">取消</button>
+                        <button class="btn btn-primary modal-submit" type="button">保存</button>
                     </div>
                 </form>
             </div>

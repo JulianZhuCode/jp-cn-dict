@@ -4,20 +4,20 @@
       xmlns:th="http://www.thymeleaf.org">
 
 <head>
-    <title>Grammars</title>
+    <title>语法管理</title>
 </head>
 
 <body>
 
 <main layout:fragment="content">
     <th:block th:replace="~{admin/fragments/data-table :: table(
-        title='Grammars',
-        description='Manage Japanese grammar entries',
+        title='语法',
+        description='管理日语语法条目',
         createUrl='#',
         createModal='grammar-modal',
         createPermission='dict:grammar:create',
         items=${grammars},
-        emptyMessage='No grammars found',
+        emptyMessage='未找到语法',
         baseUrl='/admin/dict/grammars',
         page=${page},
         colspan=6,
@@ -26,11 +26,11 @@
     )}">
         <th:block id="grammar-headers">
             <th>ID</th>
-            <th>Word</th>
-            <th>Reading</th>
-            <th>Meaning</th>
-            <th>Notes</th>
-            <th>Actions</th>
+            <th>语法条目</th>
+            <th>读音</th>
+            <th>含义</th>
+            <th>备注</th>
+            <th>操作</th>
         </th:block>
         <th:block id="grammar-row">
             <td th:text="${item.id}">1</td>
@@ -52,7 +52,7 @@
                 <button class="btn btn-outline-primary btn-sm"
                         data-modal="grammar-modal" th:attr="data-edit-id=${item.id}"
                         th:if="${#sets.contains(userAuthorities, '*') or #sets.contains(userAuthorities, 'dict:grammar:update')}">
-                    Edit
+                    编辑
                 </button>
             </td>
         </th:block>
@@ -63,35 +63,35 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title">Create Grammar</h5>
+                    <h5 class="modal-title">创建语法</h5>
                     <button aria-label="Close" class="btn-close" data-bs-dismiss="modal" type="button"></button>
                 </div>
                 <form class="dict-modal-form" data-api-base="/api/grammars">
                     <div class="modal-body">
                         <div class="mb-3">
-                            <label class="form-label" for="grammar-word">Word</label>
+                            <label class="form-label" for="grammar-word">语法条目</label>
                             <input class="form-control" id="grammar-word" name="word" required type="text">
                             <div class="invalid-feedback" data-field="word"></div>
                         </div>
                         <div class="mb-3">
-                            <label class="form-label" for="grammar-reading">Reading</label>
+                            <label class="form-label" for="grammar-reading">读音</label>
                             <input class="form-control" id="grammar-reading" name="reading" type="text">
                             <div class="invalid-feedback" data-field="reading"></div>
                         </div>
                         <div class="mb-3">
-                            <label class="form-label" for="grammar-meaning">Meaning (comma separated)</label>
+                            <label class="form-label" for="grammar-meaning">含义（逗号分隔）</label>
                             <input class="form-control" id="grammar-meaning" name="meaning" type="text">
                             <div class="invalid-feedback" data-field="meaning"></div>
                         </div>
                         <div class="mb-3">
-                            <label class="form-label" for="grammar-notes">Notes (comma separated)</label>
+                            <label class="form-label" for="grammar-notes">备注（逗号分隔）</label>
                             <input class="form-control" id="grammar-notes" name="notes" type="text">
                             <div class="invalid-feedback" data-field="notes"></div>
                         </div>
                     </div>
                     <div class="modal-footer">
-                        <button class="btn btn-secondary" data-bs-dismiss="modal" type="button">Cancel</button>
-                        <button class="btn btn-primary modal-submit" type="button">Save</button>
+                        <button class="btn btn-secondary" data-bs-dismiss="modal" type="button">取消</button>
+                        <button class="btn btn-primary modal-submit" type="button">保存</button>
                     </div>
                 </form>
             </div>
