@@ -79,6 +79,11 @@
                         th:if="${#sets.contains(userAuthorities, '*') or #sets.contains(userAuthorities, 'dict:example:update')}">
                     编辑
                 </button>
+                <button class="btn btn-outline-danger btn-sm"
+                        th:attr="data-delete-api='/api/examples',data-delete-id=${item.id},data-delete-name=${item.jp}"
+                        th:if="${#sets.contains(userAuthorities, '*') or #sets.contains(userAuthorities, 'dict:example:delete')}">
+                    删除
+                </button>
             </td>
         </th:block>
     </th:block>
