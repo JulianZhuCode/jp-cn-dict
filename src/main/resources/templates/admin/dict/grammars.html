@@ -22,8 +22,25 @@
         page=${page},
         colspan=6,
         headers=~{::#grammar-headers},
-        rows=~{::#grammar-row}
+        rows=~{::#grammar-row},
+        beforeTable=~{::#grammar-search}
     )}">
+        <th:block id="grammar-search">
+            <div class="row g-2 mb-3">
+                <div class="col-md-5">
+                    <div class="input-group">
+                        <span class="input-group-text"><i class="bi bi-search"></i></span>
+                        <input class="form-control dict-search-input" id="grammarSearchInput"
+                               placeholder="搜索语法条目、读音..."
+                               th:value="${keyword}" type="text">
+                        <button class="btn btn-outline-secondary" id="grammarSearchClear" style="display:none"
+                                type="button">
+                            <i class="bi bi-x-lg"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </th:block>
         <th:block id="grammar-headers">
             <th>ID</th>
             <th>语法条目</th>
@@ -97,6 +114,52 @@
             </div>
         </div>
     </div>
+
+    <script th:inline="javascript">
+        (function () {
+            var searchInput = document.getElementById('grammarSearchInput');
+            var clearBtn = document.getElementById('grammarSearchClear');
+            var DEBOUNCE_MS = 400;
+            var searchTimer = null;
+
+            function doSearch() {
+                var keyword = searchInput ? searchInput.value.trim() : '';
+                var url = '/admin/dict/grammars';
+                if (keyword) url += '?keyword=' + encodeURIComponent(keyword);
+                window.location.href = url;
+            }
+
+            function updateClearBtn() {
+                if (clearBtn) {
+                    clearBtn.style.display = searchInput.value ? '' : 'none';
+                }
+            }
+
+            if (searchInput) {
+                updateClearBtn();
+                searchInput.addEventListener('input', function () {
+                    updateClearBtn();
+                    clearTimeout(searchTimer);
+                    searchTimer = setTimeout(doSearch, DEBOUNCE_MS);
+                });
+                searchInput.addEventListener('keydown', function (e) {
+                    if (e.key === 'Enter') {
+                        clearTimeout(searchTimer);
+                        doSearch();
+                    }
+                });
+            }
+
+            if (clearBtn) {
+                clearBtn.addEventListener('click', function () {
+                    searchInput.value = '';
+                    updateClearBtn();
+                    clearTimeout(searchTimer);
+                    doSearch();
+                });
+            }
+        })();
+    </script>
 </main>
 
 </body>

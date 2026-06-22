@@ -55,6 +55,16 @@ public class GrammarService {
     }
 
     /**
+     * 分页搜索语法（支持关键字模糊搜索）
+     */
+    public Page<GrammarVO> search(String keyword, Pageable pageable) {
+        if (keyword != null && !keyword.trim().isEmpty()) {
+            return grammarRepository.search(keyword.trim(), pageable).map(grammarMapper::toVO);
+        }
+        return findAll(pageable);
+    }
+
+    /**
      * 创建语法
      */
     @Transactional

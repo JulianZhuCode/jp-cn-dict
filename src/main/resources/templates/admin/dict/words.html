@@ -22,8 +22,34 @@
         page=${page},
         colspan=8,
         headers=~{::#word-headers},
-        rows=~{::#word-row}
+        rows=~{::#word-row},
+        beforeTable=~{::#word-search}
     )}">
+        <th:block id="word-search">
+            <div class="row g-2 mb-3">
+                <div class="col-md-5">
+                    <div class="input-group">
+                        <span class="input-group-text"><i class="bi bi-search"></i></span>
+                        <input class="form-control dict-search-input" id="wordSearchInput"
+                               placeholder="搜索单词、读音、罗马音..."
+                               th:value="${keyword}" type="text">
+                        <button class="btn btn-outline-secondary" id="wordSearchClear" style="display:none"
+                                type="button">
+                            <i class="bi bi-x-lg"></i>
+                        </button>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <select class="form-select dict-pos-filter" id="wordPosFilter">
+                        <option value="">全部词性</option>
+                        <option th:each="p : ${allPos}" th:selected="${selectedPos != null and selectedPos == p.name()}"
+                                th:text="${p.remark}"
+                                th:value="${p.name()}">名词
+                        </option>
+                    </select>
+                </div>
+            </div>
+        </th:block>
         <th:block id="word-headers">
             <th>ID</th>
             <th>单词</th>
@@ -118,6 +144,65 @@
             </div>
         </div>
     </div>
+
+    <script th:inline="javascript">
+        (function () {
+            var searchInput = document.getElementById('wordSearchInput');
+            var posFilter = document.getElementById('wordPosFilter');
+            var clearBtn = document.getElementById('wordSearchClear');
+            var DEBOUNCE_MS = 400;
+            var searchTimer = null;
+
+            function doSearch() {
+                var keyword = searchInput ? searchInput.value.trim() : '';
+                var pos = posFilter ? posFilter.value : '';
+                var params = new URLSearchParams();
+                if (keyword) params.set('keyword', keyword);
+                if (pos) params.set('pos', pos);
+                var url = '/admin/dict/words';
+                var qs = params.toString();
+                if (qs) url += '?' + qs;
+                window.location.href = url;
+            }
+
+            function updateClearBtn() {
+                if (clearBtn) {
+                    clearBtn.style.display = searchInput.value ? '' : 'none';
+                }
+            }
+
+            if (searchInput) {
+                updateClearBtn();
+                searchInput.addEventListener('input', function () {
+                    updateClearBtn();
+                    clearTimeout(searchTimer);
+                    searchTimer = setTimeout(doSearch, DEBOUNCE_MS);
+                });
+                searchInput.addEventListener('keydown', function (e) {
+                    if (e.key === 'Enter') {
+                        clearTimeout(searchTimer);
+                        doSearch();
+                    }
+                });
+            }
+
+            if (clearBtn) {
+                clearBtn.addEventListener('click', function () {
+                    searchInput.value = '';
+                    updateClearBtn();
+                    clearTimeout(searchTimer);
+                    doSearch();
+                });
+            }
+
+            if (posFilter) {
+                posFilter.addEventListener('change', function () {
+                    clearTimeout(searchTimer);
+                    doSearch();
+                });
+            }
+        })();
+    </script>
 </main>
 
 </body>

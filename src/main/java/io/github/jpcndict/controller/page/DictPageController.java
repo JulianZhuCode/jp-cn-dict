@@ -55,11 +55,15 @@ public class DictPageController {
     @GetMapping("/words")
     public String words(@RequestParam(defaultValue = "0") int page,
                         @RequestParam(defaultValue = "10") int size,
+                        @RequestParam(required = false) String keyword,
+                        @RequestParam(required = false) String pos,
                         Model model) {
-        Page<WordVO> wordPage = wordService.findAll(PageRequest.of(page, size));
+        Page<WordVO> wordPage = wordService.search(keyword, pos, PageRequest.of(page, size));
         model.addAttribute("words", wordPage.getContent());
         model.addAttribute("page", wordPage);
         model.addAttribute("allPos", WordPos.values());
+        model.addAttribute("keyword", keyword);
+        model.addAttribute("selectedPos", pos);
         return "admin/dict/words";
     }
 
@@ -68,10 +72,12 @@ public class DictPageController {
     @GetMapping("/grammars")
     public String grammars(@RequestParam(defaultValue = "0") int page,
                            @RequestParam(defaultValue = "10") int size,
+                           @RequestParam(required = false) String keyword,
                            Model model) {
-        Page<GrammarVO> grammarPage = grammarService.findAll(PageRequest.of(page, size));
+        Page<GrammarVO> grammarPage = grammarService.search(keyword, PageRequest.of(page, size));
         model.addAttribute("grammars", grammarPage.getContent());
         model.addAttribute("page", grammarPage);
+        model.addAttribute("keyword", keyword);
         return "admin/dict/grammars";
     }
 
@@ -80,10 +86,12 @@ public class DictPageController {
     @GetMapping("/examples")
     public String examples(@RequestParam(defaultValue = "0") int page,
                            @RequestParam(defaultValue = "10") int size,
+                           @RequestParam(required = false) String keyword,
                            Model model) {
-        Page<ExamplesVO> examplePage = examplesService.findAll(PageRequest.of(page, size));
+        Page<ExamplesVO> examplePage = examplesService.search(keyword, PageRequest.of(page, size));
         model.addAttribute("examples", examplePage.getContent());
         model.addAttribute("page", examplePage);
+        model.addAttribute("keyword", keyword);
         return "admin/dict/examples";
     }
 

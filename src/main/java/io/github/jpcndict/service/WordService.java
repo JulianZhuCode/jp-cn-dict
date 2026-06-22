@@ -76,6 +76,22 @@ public class WordService {
     }
 
     /**
+     * 分页搜索单词（支持关键字模糊搜索 + 词性筛选）
+     */
+    public Page<WordVO> search(String keyword, String pos, Pageable pageable) {
+        boolean hasKeyword = keyword != null && !keyword.trim().isEmpty();
+        boolean hasPos = pos != null && !pos.trim().isEmpty();
+
+        if (hasKeyword || hasPos) {
+            return wordRepository.searchWithPos(
+                    hasKeyword ? keyword.trim() : null,
+                    hasPos ? pos.trim() : null,
+                    pageable).map(wordMapper::toVO);
+        }
+        return findAll(pageable);
+    }
+
+    /**
      * 创建单词
      */
     @Transactional

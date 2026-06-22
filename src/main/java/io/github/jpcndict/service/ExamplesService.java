@@ -65,6 +65,20 @@ public class ExamplesService {
     }
 
     /**
+     * 分页搜索例句（支持关键字模糊搜索）
+     */
+    public Page<ExamplesVO> search(String keyword, Pageable pageable) {
+        if (keyword != null && !keyword.trim().isEmpty()) {
+            return examplesRepository.search(keyword.trim(), pageable).map(entity -> {
+                ExamplesVO vo = examplesMapper.toVO(entity);
+                enrichRelatedDetails(vo);
+                return vo;
+            });
+        }
+        return findAll(pageable);
+    }
+
+    /**
      * 检查例句是否已存在
      * @param jp 日语例句
      * @param excludeId 排除的ID（编辑时排除自身）

@@ -22,8 +22,25 @@
         page=${page},
         colspan=6,
         headers=~{::#example-headers},
-        rows=~{::#example-row}
+        rows=~{::#example-row},
+        beforeTable=~{::#example-search}
     )}">
+        <th:block id="example-search">
+            <div class="row g-2 mb-3">
+                <div class="col-md-5">
+                    <div class="input-group">
+                        <span class="input-group-text"><i class="bi bi-search"></i></span>
+                        <input class="form-control dict-search-input" id="exampleSearchInput"
+                               placeholder="搜索日语例句、中文翻译..."
+                               th:value="${keyword}" type="text">
+                        <button class="btn btn-outline-secondary" id="exampleSearchClear" style="display:none"
+                                type="button">
+                            <i class="bi bi-x-lg"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </th:block>
         <th:block id="example-headers">
             <th>ID</th>
             <th>日语</th>
@@ -269,8 +286,14 @@
         }
 
         @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(-4px); }
-            to { opacity: 1; transform: translateY(0); }
+            from {
+                opacity: 0;
+                transform: translateY(-4px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
 
         @keyframes tagIn {
@@ -284,6 +307,52 @@
             }
         }
     </style>
+
+    <script th:inline="javascript">
+        (function () {
+            var searchInput = document.getElementById('exampleSearchInput');
+            var clearBtn = document.getElementById('exampleSearchClear');
+            var DEBOUNCE_MS = 400;
+            var searchTimer = null;
+
+            function doSearch() {
+                var keyword = searchInput ? searchInput.value.trim() : '';
+                var url = '/admin/dict/examples';
+                if (keyword) url += '?keyword=' + encodeURIComponent(keyword);
+                window.location.href = url;
+            }
+
+            function updateClearBtn() {
+                if (clearBtn) {
+                    clearBtn.style.display = searchInput.value ? '' : 'none';
+                }
+            }
+
+            if (searchInput) {
+                updateClearBtn();
+                searchInput.addEventListener('input', function () {
+                    updateClearBtn();
+                    clearTimeout(searchTimer);
+                    searchTimer = setTimeout(doSearch, DEBOUNCE_MS);
+                });
+                searchInput.addEventListener('keydown', function (e) {
+                    if (e.key === 'Enter') {
+                        clearTimeout(searchTimer);
+                        doSearch();
+                    }
+                });
+            }
+
+            if (clearBtn) {
+                clearBtn.addEventListener('click', function () {
+                    searchInput.value = '';
+                    updateClearBtn();
+                    clearTimeout(searchTimer);
+                    doSearch();
+                });
+            }
+        })();
+    </script>
 
     <script th:inline="javascript">
         (function () {
@@ -545,7 +614,7 @@
                 var ac = new AbortController();
                 existsCheckAbort = ac;
 
-                fetch(url, { signal: ac.signal })
+                fetch(url, {signal: ac.signal})
                     .then(function (resp) {
                         if (!resp.ok) throw new Error('HTTP ' + resp.status);
                         return resp.json();
