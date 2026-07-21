@@ -5,12 +5,14 @@ import io.github.jpcndict.dto.vo.WordVO;
 import io.github.jpcndict.entity.WordEntity;
 import io.github.jpcndict.mapper.WordMapper;
 import io.github.jpcndict.repository.WordRepository;
+import io.github.springwhale.database.JpaQueryWrapper;
 import io.github.springwhale.framework.core.exception.BusinessException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+import org.springframework.util.ObjectUtils;
 
 import java.util.List;
 import java.util.Optional;
@@ -79,16 +81,14 @@ public class WordService {
      * 分页搜索单词（支持关键字模糊搜索 + 词性筛选）
      */
     public Page<WordVO> search(String keyword, String pos, Pageable pageable) {
-        boolean hasKeyword = keyword != null && !keyword.trim().isEmpty();
-        boolean hasPos = pos != null && !pos.trim().isEmpty();
-
-        if (hasKeyword || hasPos) {
-            return wordRepository.searchWithPos(
-                    hasKeyword ? keyword.trim() : null,
-                    hasPos ? pos.trim() : null,
-                    pageable).map(wordMapper::toVO);
-        }
-        return findAll(pageable);
+        var spec = JpaQueryWrapper.of(WordEntity.class)
+                .or(!ObjectUtils.isEmpty(keyword), w -> w
+                        .likeIgnoreCase(WordEntity::getWord, keyword)
+                        .likeIgnoreCase(WordEntity::getReading, keyword)
+                        .likeIgnoreCase(WordEntity::getRomaji, keyword))
+                .eq(!ObjectUtils.isEmpty(pos), WordEntity::getPos, pos)
+                .buildSpec();
+        return wordRepository.findAll(spec, pageable).map(wordMapper::toVO);
     }
 
     /**

@@ -21,15 +21,17 @@ public class WordController {
     private final WordService wordService;
 
     /**
-     * 分页查询所有单词
-     * GET /api/words?page=0&size=20
+     * 分页查询所有单词（支持筛选）
+     * GET /api/words?page=0&size=20&keyword=&pos=
      */
     @GetMapping
     public Page<WordVO> findAll(
             @RequestParam(defaultValue = "0") int page,
-            @RequestParam(defaultValue = "10") int size) {
+            @RequestParam(defaultValue = "10") int size,
+            @RequestParam(required = false) String keyword,
+            @RequestParam(required = false) String pos) {
         Pageable pageable = PageRequest.of(page, size);
-        return wordService.findAll(pageable);
+        return wordService.search(keyword, pos, pageable);
     }
 
     /**

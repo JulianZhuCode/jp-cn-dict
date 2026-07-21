@@ -21,15 +21,16 @@ public class GrammarController {
     private final GrammarService grammarService;
 
     /**
-     * 分页查询所有语法
-     * GET /api/grammars?page=0&size=20
+     * 分页查询所有语法（支持筛选）
+     * GET /api/grammars?page=0&size=20&keyword=
      */
     @GetMapping
     public Page<GrammarVO> findAll(
             @RequestParam(defaultValue = "0") int page,
-            @RequestParam(defaultValue = "10") int size) {
+            @RequestParam(defaultValue = "10") int size,
+            @RequestParam(required = false) String keyword) {
         Pageable pageable = PageRequest.of(page, size);
-        return grammarService.findAll(pageable);
+        return grammarService.search(keyword, pageable);
     }
 
     /**

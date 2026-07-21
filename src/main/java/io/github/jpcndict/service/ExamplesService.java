@@ -9,12 +9,14 @@ import io.github.jpcndict.mapper.ExamplesMapper;
 import io.github.jpcndict.repository.ExamplesRepository;
 import io.github.jpcndict.repository.GrammarRepository;
 import io.github.jpcndict.repository.WordRepository;
+import io.github.springwhale.database.JpaQueryWrapper;
 import io.github.springwhale.framework.core.exception.BusinessException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+import org.springframework.util.ObjectUtils;
 
 import java.util.Arrays;
 import java.util.List;
@@ -68,19 +70,22 @@ public class ExamplesService {
      * 分页搜索例句（支持关键字模糊搜索）
      */
     public Page<ExamplesVO> search(String keyword, Pageable pageable) {
-        if (keyword != null && !keyword.trim().isEmpty()) {
-            return examplesRepository.search(keyword.trim(), pageable).map(entity -> {
-                ExamplesVO vo = examplesMapper.toVO(entity);
-                enrichRelatedDetails(vo);
-                return vo;
-            });
-        }
-        return findAll(pageable);
+        var spec = JpaQueryWrapper.of(ExamplesEntity.class)
+                .or(!ObjectUtils.isEmpty(keyword), w -> w
+                        .likeIgnoreCase(ExamplesEntity::getJp, keyword)
+                        .likeIgnoreCase(ExamplesEntity::getCn, keyword))
+                .buildSpec();
+        return examplesRepository.findAll(spec, pageable).map(entity -> {
+            ExamplesVO vo = examplesMapper.toVO(entity);
+            enrichRelatedDetails(vo);
+            return vo;
+        });
     }
 
     /**
      * 检查例句是否已存在
-     * @param jp 日语例句
+     *
+     * @param jp        日语例句
      * @param excludeId 排除的ID（编辑时排除自身）
      * @return 已存在时返回该记录ID，否则返回null
      */

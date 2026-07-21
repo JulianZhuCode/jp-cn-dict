@@ -5,12 +5,14 @@ import io.github.jpcndict.dto.vo.GrammarVO;
 import io.github.jpcndict.entity.GrammarEntity;
 import io.github.jpcndict.mapper.GrammarMapper;
 import io.github.jpcndict.repository.GrammarRepository;
+import io.github.springwhale.database.JpaQueryWrapper;
 import io.github.springwhale.framework.core.exception.BusinessException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+import org.springframework.util.ObjectUtils;
 
 import java.util.List;
 import java.util.Optional;
@@ -58,10 +60,12 @@ public class GrammarService {
      * 分页搜索语法（支持关键字模糊搜索）
      */
     public Page<GrammarVO> search(String keyword, Pageable pageable) {
-        if (keyword != null && !keyword.trim().isEmpty()) {
-            return grammarRepository.search(keyword.trim(), pageable).map(grammarMapper::toVO);
-        }
-        return findAll(pageable);
+        var spec = JpaQueryWrapper.of(GrammarEntity.class)
+                .or(!ObjectUtils.isEmpty(keyword), w -> w
+                        .likeIgnoreCase(GrammarEntity::getWord, keyword)
+                        .likeIgnoreCase(GrammarEntity::getReading, keyword))
+                .buildSpec();
+        return grammarRepository.findAll(spec, pageable).map(grammarMapper::toVO);
     }
 
     /**

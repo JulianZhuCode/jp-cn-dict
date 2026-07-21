@@ -21,15 +21,16 @@ public class ExamplesController {
     private final ExamplesService examplesService;
 
     /**
-     * 分页查询所有例句
-     * GET /api/examples?page=0&size=20
+     * 分页查询所有例句（支持筛选）
+     * GET /api/examples?page=0&size=20&keyword=
      */
     @GetMapping
     public Page<ExamplesVO> findAll(
             @RequestParam(defaultValue = "0") int page,
-            @RequestParam(defaultValue = "10") int size) {
+            @RequestParam(defaultValue = "10") int size,
+            @RequestParam(required = false) String keyword) {
         Pageable pageable = PageRequest.of(page, size);
-        return examplesService.findAll(pageable);
+        return examplesService.search(keyword, pageable);
     }
 
     /**
