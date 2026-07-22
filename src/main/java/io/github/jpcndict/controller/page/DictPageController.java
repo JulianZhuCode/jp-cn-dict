@@ -10,10 +10,12 @@ import io.github.jpcndict.repository.WordRepository;
 import io.github.jpcndict.service.ExamplesService;
 import io.github.jpcndict.service.GrammarService;
 import io.github.jpcndict.service.WordService;
+import io.github.springwhale.database.SortUtils;
 import io.github.springwhale.framework.thymeleaf.controller.AdminPage;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
+import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -57,13 +59,17 @@ public class DictPageController {
                         @RequestParam(defaultValue = "10") int size,
                         @RequestParam(required = false) String keyword,
                         @RequestParam(required = false) String pos,
+                        @RequestParam(required = false) String sort,
                         Model model) {
-        Page<WordVO> wordPage = wordService.search(keyword, pos, PageRequest.of(page, size));
+        Sort sortObj = SortUtils.buildSort(sort);
+        Page<WordVO> wordPage = wordService.search(keyword, pos, PageRequest.of(page, size, sortObj));
         model.addAttribute("words", wordPage.getContent());
         model.addAttribute("page", wordPage);
         model.addAttribute("allPos", WordPos.values());
         model.addAttribute("keyword", keyword);
         model.addAttribute("selectedPos", pos);
+        model.addAttribute("sortField", SortUtils.getSortField(sortObj));
+        model.addAttribute("sortDirection", SortUtils.getSortDirection(sortObj));
         return "admin/dict/words";
     }
 
@@ -73,11 +79,15 @@ public class DictPageController {
     public String grammars(@RequestParam(defaultValue = "0") int page,
                            @RequestParam(defaultValue = "10") int size,
                            @RequestParam(required = false) String keyword,
+                           @RequestParam(required = false) String sort,
                            Model model) {
-        Page<GrammarVO> grammarPage = grammarService.search(keyword, PageRequest.of(page, size));
+        Sort sortObj = SortUtils.buildSort(sort);
+        Page<GrammarVO> grammarPage = grammarService.search(keyword, PageRequest.of(page, size, sortObj));
         model.addAttribute("grammars", grammarPage.getContent());
         model.addAttribute("page", grammarPage);
         model.addAttribute("keyword", keyword);
+        model.addAttribute("sortField", SortUtils.getSortField(sortObj));
+        model.addAttribute("sortDirection", SortUtils.getSortDirection(sortObj));
         return "admin/dict/grammars";
     }
 
@@ -87,11 +97,15 @@ public class DictPageController {
     public String examples(@RequestParam(defaultValue = "0") int page,
                            @RequestParam(defaultValue = "10") int size,
                            @RequestParam(required = false) String keyword,
+                           @RequestParam(required = false) String sort,
                            Model model) {
-        Page<ExamplesVO> examplePage = examplesService.search(keyword, PageRequest.of(page, size));
+        Sort sortObj = SortUtils.buildSort(sort);
+        Page<ExamplesVO> examplePage = examplesService.search(keyword, PageRequest.of(page, size, sortObj));
         model.addAttribute("examples", examplePage.getContent());
         model.addAttribute("page", examplePage);
         model.addAttribute("keyword", keyword);
+        model.addAttribute("sortField", SortUtils.getSortField(sortObj));
+        model.addAttribute("sortDirection", SortUtils.getSortDirection(sortObj));
         return "admin/dict/examples";
     }
 

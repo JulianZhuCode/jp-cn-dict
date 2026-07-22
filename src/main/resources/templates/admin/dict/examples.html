@@ -20,7 +20,7 @@
         emptyMessage='未找到例句',
         baseUrl='/admin/dict/examples',
         page=${page},
-        colspan=6,
+        colspan=5,
         headers=~{::#example-headers},
         rows=~{::#example-row},
         filter=~{::#example-filter}
@@ -42,7 +42,6 @@
             </div>
         </th:block>
         <th:block id="example-headers">
-            <th>ID</th>
             <th>日语</th>
             <th>中文</th>
             <th style="min-width:160px">关联单词</th>
@@ -50,7 +49,6 @@
             <th>操作</th>
         </th:block>
         <th:block id="example-row">
-            <td th:text="${item.id}">1</td>
             <td th:text="${item.jp}">私は学生です。</td>
             <td th:text="${item.cn}">我是学生。</td>
             <td>
@@ -322,9 +320,11 @@
 
             function doSearch() {
                 var keyword = searchInput ? searchInput.value.trim() : '';
-                var url = '/admin/dict/examples';
-                if (keyword) url += '?keyword=' + encodeURIComponent(keyword);
-                window.location.href = url;
+                var params = new URLSearchParams(window.location.search);
+                if (keyword) params.set('keyword', keyword);
+                else params.delete('keyword');
+                params.delete('page');
+                window.location.href = '/admin/dict/examples?' + params.toString();
             }
 
             function updateClearBtn() {

@@ -20,7 +20,7 @@
         emptyMessage='未找到单词',
         baseUrl='/admin/dict/words',
         page=${page},
-        colspan=8,
+        colspan=7,
         headers=~{::#word-headers},
         rows=~{::#word-row},
         filter=~{::#word-filter}
@@ -51,7 +51,6 @@
             </div>
         </th:block>
         <th:block id="word-headers">
-            <th>ID</th>
             <th>单词</th>
             <th>读音</th>
             <th>罗马音</th>
@@ -61,7 +60,6 @@
             <th>操作</th>
         </th:block>
         <th:block id="word-row">
-            <td th:text="${item.id}">1</td>
             <td><strong th:text="${item.word}">食べる</strong></td>
             <td th:text="${item.reading}">たべる</td>
             <td th:text="${item.romaji}">taberu</td>
@@ -161,13 +159,13 @@
             function doSearch() {
                 var keyword = searchInput ? searchInput.value.trim() : '';
                 var pos = posFilter ? posFilter.value : '';
-                var params = new URLSearchParams();
+                var params = new URLSearchParams(window.location.search);
                 if (keyword) params.set('keyword', keyword);
+                else params.delete('keyword');
                 if (pos) params.set('pos', pos);
-                var url = '/admin/dict/words';
-                var qs = params.toString();
-                if (qs) url += '?' + qs;
-                window.location.href = url;
+                else params.delete('pos');
+                params.delete('page');
+                window.location.href = '/admin/dict/words?' + params.toString();
             }
 
             function updateClearBtn() {
