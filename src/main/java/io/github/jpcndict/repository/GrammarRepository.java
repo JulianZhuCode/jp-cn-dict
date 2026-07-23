@@ -11,13 +11,13 @@ import java.util.Optional;
 @Repository
 public interface GrammarRepository extends JpaRepository<GrammarEntity, Integer>, JpaSpecificationExecutor<GrammarEntity> {
 
-    Optional<GrammarEntity> findByWord(String word);
+    Optional<GrammarEntity> findByPattern(String pattern);
 
     Optional<GrammarEntity> findByReading(String reading);
 
-    List<GrammarEntity> findByWordContaining(String word);
+    List<GrammarEntity> findByPatternContaining(String pattern);
 
     List<GrammarEntity> findByReadingContaining(String reading);
 
-    List<GrammarEntity> findByWordContainingOrReadingContaining(String word, String reading);
+    List<GrammarEntity> findByPatternContainingOrReadingContaining(String pattern, String reading);
 }

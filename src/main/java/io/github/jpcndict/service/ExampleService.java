@@ -1,12 +1,12 @@
 package io.github.jpcndict.service;
 
-import io.github.jpcndict.dto.request.ExamplesRequest;
-import io.github.jpcndict.dto.vo.ExamplesVO;
+import io.github.jpcndict.dto.request.ExampleRequest;
+import io.github.jpcndict.dto.vo.ExampleVO;
 import io.github.jpcndict.dto.vo.GrammarVO;
 import io.github.jpcndict.dto.vo.WordVO;
-import io.github.jpcndict.entity.ExamplesEntity;
-import io.github.jpcndict.mapper.ExamplesMapper;
-import io.github.jpcndict.repository.ExamplesRepository;
+import io.github.jpcndict.entity.ExampleEntity;
+import io.github.jpcndict.mapper.ExampleMapper;
+import io.github.jpcndict.repository.ExampleRepository;
 import io.github.jpcndict.repository.GrammarRepository;
 import io.github.jpcndict.repository.WordRepository;
 import io.github.springwhale.database.JpaQueryWrapper;
@@ -25,19 +25,19 @@ import java.util.Optional;
 @Service
 @RequiredArgsConstructor
 @Transactional(readOnly = true)
-public class ExamplesService {
+public class ExampleService {
 
-    private final ExamplesRepository examplesRepository;
-    private final ExamplesMapper examplesMapper;
+    private final ExampleRepository exampleRepository;
+    private final ExampleMapper exampleMapper;
     private final WordRepository wordRepository;
     private final GrammarRepository grammarRepository;
 
     /**
      * 分页查询所有例句
      */
-    public Page<ExamplesVO> findAll(Pageable pageable) {
-        return examplesRepository.findAll(pageable).map(entity -> {
-            ExamplesVO vo = examplesMapper.toVO(entity);
+    public Page<ExampleVO> findAll(Pageable pageable) {
+        return exampleRepository.findAll(pageable).map(entity -> {
+            ExampleVO vo = exampleMapper.toVO(entity);
             enrichRelatedDetails(vo);
             return vo;
         });
@@ -46,9 +46,9 @@ public class ExamplesService {
     /**
      * 根据ID查询例句
      */
-    public Optional<ExamplesVO> findById(Integer id) {
-        return examplesRepository.findById(id).map(entity -> {
-            ExamplesVO vo = examplesMapper.toVO(entity);
+    public Optional<ExampleVO> findById(Integer id) {
+        return exampleRepository.findById(id).map(entity -> {
+            ExampleVO vo = exampleMapper.toVO(entity);
             enrichRelatedDetails(vo);
             return vo;
         });
@@ -57,11 +57,11 @@ public class ExamplesService {
     /**
      * 搜索例句（支持日语或中文模糊查询）
      */
-    public List<ExamplesVO> search(String keyword) {
+    public List<ExampleVO> search(String keyword) {
         if (keyword == null || keyword.trim().isEmpty()) {
             return List.of();
         }
-        List<ExamplesVO> vos = examplesMapper.toVOList(examplesRepository.findByJpContainingOrCnContaining(keyword, keyword));
+        List<ExampleVO> vos = exampleMapper.toVOList(exampleRepository.findByJpContainingOrCnContaining(keyword, keyword));
         vos.forEach(this::enrichRelatedDetails);
         return vos;
     }
@@ -69,14 +69,14 @@ public class ExamplesService {
     /**
      * 分页搜索例句（支持关键字模糊搜索）
      */
-    public Page<ExamplesVO> search(String keyword, Pageable pageable) {
-        var spec = JpaQueryWrapper.of(ExamplesEntity.class)
+    public Page<ExampleVO> search(String keyword, Pageable pageable) {
+        var spec = JpaQueryWrapper.of(ExampleEntity.class)
                 .or(!ObjectUtils.isEmpty(keyword), w -> w
-                        .likeIgnoreCase(ExamplesEntity::getJp, keyword)
-                        .likeIgnoreCase(ExamplesEntity::getCn, keyword))
+                        .likeIgnoreCase(ExampleEntity::getJp, keyword)
+                        .likeIgnoreCase(ExampleEntity::getCn, keyword))
                 .buildSpec();
-        return examplesRepository.findAll(spec, pageable).map(entity -> {
-            ExamplesVO vo = examplesMapper.toVO(entity);
+        return exampleRepository.findAll(spec, pageable).map(entity -> {
+            ExampleVO vo = exampleMapper.toVO(entity);
             enrichRelatedDetails(vo);
             return vo;
         });
@@ -94,29 +94,29 @@ public class ExamplesService {
             return null;
         }
         if (excludeId != null) {
-            if (examplesRepository.existsByJpAndIdNot(jp.trim(), excludeId)) {
-                return examplesRepository.findByJp(jp.trim()).map(ExamplesEntity::getId).orElse(null);
+            if (exampleRepository.existsByJpAndIdNot(jp.trim(), excludeId)) {
+                return exampleRepository.findByJp(jp.trim()).map(ExampleEntity::getId).orElse(null);
             }
             return null;
         }
-        return examplesRepository.findByJp(jp.trim()).map(ExamplesEntity::getId).orElse(null);
+        return exampleRepository.findByJp(jp.trim()).map(ExampleEntity::getId).orElse(null);
     }
 
     /**
      * 创建例句
      */
     @Transactional
-    public ExamplesVO create(ExamplesRequest request) {
+    public ExampleVO create(ExampleRequest request) {
         if (checkExists(request.getJp(), null) != null) {
             throw BusinessException.create("EXAMPLE_EXISTS", "该日语例句已存在");
         }
-        ExamplesEntity entity = new ExamplesEntity();
+        ExampleEntity entity = new ExampleEntity();
         entity.setJp(request.getJp());
         entity.setCn(request.getCn());
         entity.setRelatedWords(request.getRelatedWords());
         entity.setRelatedGrammars(request.getRelatedGrammars());
-        ExamplesEntity saved = examplesRepository.save(entity);
-        ExamplesVO vo = examplesMapper.toVO(saved);
+        ExampleEntity saved = exampleRepository.save(entity);
+        ExampleVO vo = exampleMapper.toVO(saved);
         enrichRelatedDetails(vo);
         return vo;
     }
@@ -125,8 +125,8 @@ public class ExamplesService {
      * 更新例句
      */
     @Transactional
-    public ExamplesVO update(Integer id, ExamplesRequest request) {
-        ExamplesEntity example = examplesRepository.findById(id)
+    public ExampleVO update(Integer id, ExampleRequest request) {
+        ExampleEntity example = exampleRepository.findById(id)
                 .orElseThrow(() -> BusinessException.create("EXAMPLE_NOT_FOUND", "例句不存在，ID: " + id));
 
         if (checkExists(request.getJp(), id) != null) {
@@ -138,7 +138,7 @@ public class ExamplesService {
         example.setRelatedWords(request.getRelatedWords());
         example.setRelatedGrammars(request.getRelatedGrammars());
 
-        ExamplesVO vo = examplesMapper.toVO(examplesRepository.save(example));
+        ExampleVO vo = exampleMapper.toVO(exampleRepository.save(example));
         enrichRelatedDetails(vo);
         return vo;
     }
@@ -148,15 +148,15 @@ public class ExamplesService {
      */
     @Transactional
     public void delete(Integer id) {
-        ExamplesEntity example = examplesRepository.findById(id)
+        ExampleEntity example = exampleRepository.findById(id)
                 .orElseThrow(() -> BusinessException.create("EXAMPLE_NOT_FOUND", "例句不存在，ID: " + id));
-        examplesRepository.delete(example);
+        exampleRepository.delete(example);
     }
 
     /**
      * 填充关联单词和语法的详情信息（用于前端展示）
      */
-    private void enrichRelatedDetails(ExamplesVO vo) {
+    private void enrichRelatedDetails(ExampleVO vo) {
         if (vo.getRelatedWords() != null && vo.getRelatedWords().length > 0) {
             List<Integer> wordIds = Arrays.asList(vo.getRelatedWords());
             vo.setRelatedWordItems(wordRepository.findAllById(wordIds).stream()
@@ -175,7 +175,7 @@ public class ExamplesService {
                     .map(g -> {
                         GrammarVO gv = new GrammarVO();
                         gv.setId(g.getId());
-                        gv.setWord(g.getWord());
+                        gv.setPattern(g.getPattern());
                         gv.setReading(g.getReading());
                         return gv;
                     })

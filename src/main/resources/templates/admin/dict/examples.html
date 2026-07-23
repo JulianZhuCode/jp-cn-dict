@@ -66,7 +66,7 @@
                       th:if="${item.relatedGrammarItems != null and !item.relatedGrammarItems.isEmpty()}">
                     <span class="badge bg-info text-decoration-none"
                           style="font-size:.78rem" th:each="g : ${item.relatedGrammarItems}"
-                          th:text="${g.word + (g.reading != null ? '（' + g.reading + '）' : '')}">〜たい（〜たい）</span>
+                          th:text="${g.pattern + (g.reading != null ? '（' + g.reading + '）' : '')}">〜たい（〜たい）</span>
                 </span>
                 <span class="text-muted"
                       th:unless="${item.relatedGrammarItems != null and !item.relatedGrammarItems.isEmpty()}">-</span>

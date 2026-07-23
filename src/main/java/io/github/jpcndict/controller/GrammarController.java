@@ -48,9 +48,9 @@ public class GrammarController {
      * GET /api/grammars/search/by-word?word=～ている
      */
     @GetMapping("/search/by-word")
-    public GrammarVO findByWord(@RequestParam String word) {
-        return grammarService.findByWord(word)
-                .orElseThrow(() -> new IllegalArgumentException("语法不存在: " + word));
+    public GrammarVO findByWord(@RequestParam String pattern) {
+        return grammarService.findByPattern(pattern)
+                .orElseThrow(() -> new IllegalArgumentException("语法不存在: " + pattern));
     }
 
     /**

@@ -9,9 +9,9 @@ import lombok.EqualsAndHashCode;
 
 @EqualsAndHashCode(callSuper = true)
 @Entity
-@Table(name = "examples", schema = "dict")
+@Table(name = "example", schema = "dict")
 @Data
-public class ExamplesEntity extends BaseEntity {
+public class ExampleEntity extends BaseEntity {
     /**
      * 日语例句
      */

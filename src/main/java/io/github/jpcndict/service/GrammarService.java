@@ -42,8 +42,8 @@ public class GrammarService {
     /**
      * 根据语法条目精确查询
      */
-    public Optional<GrammarVO> findByWord(String word) {
-        return grammarRepository.findByWord(word).map(grammarMapper::toVO);
+    public Optional<GrammarVO> findByPattern(String pattern) {
+        return grammarRepository.findByPattern(pattern).map(grammarMapper::toVO);
     }
 
     /**
@@ -53,7 +53,7 @@ public class GrammarService {
         if (keyword == null || keyword.trim().isEmpty()) {
             return List.of();
         }
-        return grammarMapper.toVOList(grammarRepository.findByWordContainingOrReadingContaining(keyword, keyword));
+        return grammarMapper.toVOList(grammarRepository.findByPatternContainingOrReadingContaining(keyword, keyword));
     }
 
     /**
@@ -62,7 +62,7 @@ public class GrammarService {
     public Page<GrammarVO> search(String keyword, Pageable pageable) {
         var spec = JpaQueryWrapper.of(GrammarEntity.class)
                 .or(!ObjectUtils.isEmpty(keyword), w -> w
-                        .likeIgnoreCase(GrammarEntity::getWord, keyword)
+                        .likeIgnoreCase(GrammarEntity::getPattern, keyword)
                         .likeIgnoreCase(GrammarEntity::getReading, keyword))
                 .buildSpec();
         return grammarRepository.findAll(spec, pageable).map(grammarMapper::toVO);
@@ -74,7 +74,7 @@ public class GrammarService {
     @Transactional
     public GrammarVO create(GrammarRequest request) {
         GrammarEntity entity = new GrammarEntity();
-        entity.setWord(request.getWord());
+        entity.setPattern(request.getPattern());
         entity.setReading(request.getReading());
         entity.setMeaning(request.getMeaning());
         entity.setNotes(request.getNotes());
@@ -89,7 +89,7 @@ public class GrammarService {
         GrammarEntity grammar = grammarRepository.findById(id)
                 .orElseThrow(() -> BusinessException.create("GRAMMAR_NOT_FOUND", "语法不存在，ID: " + id));
 
-        grammar.setWord(request.getWord());
+        grammar.setPattern(request.getPattern());
         grammar.setReading(request.getReading());
         grammar.setMeaning(request.getMeaning());
         grammar.setNotes(request.getNotes());

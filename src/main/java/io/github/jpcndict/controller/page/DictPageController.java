@@ -1,13 +1,13 @@
 package io.github.jpcndict.controller.page;
 
-import io.github.jpcndict.dto.vo.ExamplesVO;
+import io.github.jpcndict.dto.vo.ExampleVO;
 import io.github.jpcndict.dto.vo.GrammarVO;
 import io.github.jpcndict.dto.vo.WordVO;
 import io.github.jpcndict.enums.WordPos;
-import io.github.jpcndict.repository.ExamplesRepository;
+import io.github.jpcndict.repository.ExampleRepository;
 import io.github.jpcndict.repository.GrammarRepository;
 import io.github.jpcndict.repository.WordRepository;
-import io.github.jpcndict.service.ExamplesService;
+import io.github.jpcndict.service.ExampleService;
 import io.github.jpcndict.service.GrammarService;
 import io.github.jpcndict.service.WordService;
 import io.github.springwhale.database.SortUtils;
@@ -37,10 +37,10 @@ public class DictPageController {
 
     private final WordService wordService;
     private final GrammarService grammarService;
-    private final ExamplesService examplesService;
+    private final ExampleService exampleService;
     private final WordRepository wordRepository;
     private final GrammarRepository grammarRepository;
-    private final ExamplesRepository examplesRepository;
+    private final ExampleRepository exampleRepository;
 
     // ---- Dashboard ----
 
@@ -48,7 +48,7 @@ public class DictPageController {
     public String dashboard(Model model) {
         model.addAttribute("wordCount", wordRepository.count());
         model.addAttribute("grammarCount", grammarRepository.count());
-        model.addAttribute("exampleCount", examplesRepository.count());
+        model.addAttribute("exampleCount", exampleRepository.count());
         return "admin/dict/dashboard";
     }
 
@@ -100,7 +100,7 @@ public class DictPageController {
                            @RequestParam(required = false) String sort,
                            Model model) {
         Sort sortObj = SortUtils.buildSort(sort);
-        Page<ExamplesVO> examplePage = examplesService.search(keyword, PageRequest.of(page, size, sortObj));
+        Page<ExampleVO> examplePage = exampleService.search(keyword, PageRequest.of(page, size, sortObj));
         model.addAttribute("examples", examplePage.getContent());
         model.addAttribute("page", examplePage);
         model.addAttribute("keyword", keyword);

@@ -8,7 +8,7 @@ import lombok.Data;
 @Data
 public class GrammarVO {
     private Integer id;
-    private String word;
+    private String pattern;
     private String reading;
     private String[] meaning;
     private String[] notes;

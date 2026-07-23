@@ -1,8 +1,8 @@
 package io.github.jpcndict.controller;
 
-import io.github.jpcndict.dto.request.ExamplesRequest;
-import io.github.jpcndict.dto.vo.ExamplesVO;
-import io.github.jpcndict.service.ExamplesService;
+import io.github.jpcndict.dto.request.ExampleRequest;
+import io.github.jpcndict.dto.vo.ExampleVO;
+import io.github.jpcndict.service.ExampleService;
 import io.github.springwhale.framework.webmvc.advice.AdviceIgnore;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
@@ -16,21 +16,21 @@ import java.util.List;
 @RestController
 @RequestMapping("/api/examples")
 @RequiredArgsConstructor
-public class ExamplesController {
+public class ExampleController {
 
-    private final ExamplesService examplesService;
+    private final ExampleService exampleService;
 
     /**
      * 分页查询所有例句（支持筛选）
      * GET /api/examples?page=0&size=20&keyword=
      */
     @GetMapping
-    public Page<ExamplesVO> findAll(
+    public Page<ExampleVO> findAll(
             @RequestParam(defaultValue = "0") int page,
             @RequestParam(defaultValue = "10") int size,
             @RequestParam(required = false) String keyword) {
         Pageable pageable = PageRequest.of(page, size);
-        return examplesService.search(keyword, pageable);
+        return exampleService.search(keyword, pageable);
     }
 
     /**
@@ -38,8 +38,8 @@ public class ExamplesController {
      * GET /api/examples/{id}
      */
     @GetMapping("/{id}")
-    public ExamplesVO findById(@PathVariable Integer id) {
-        return examplesService.findById(id)
+    public ExampleVO findById(@PathVariable Integer id) {
+        return exampleService.findById(id)
                 .orElseThrow(() -> new IllegalArgumentException("例句不存在: " + id));
     }
 
@@ -52,7 +52,7 @@ public class ExamplesController {
     public java.util.Map<String, Object> checkExists(
             @RequestParam String jp,
             @RequestParam(required = false) Integer excludeId) {
-        Integer existingId = examplesService.checkExists(jp, excludeId);
+        Integer existingId = exampleService.checkExists(jp, excludeId);
         if (existingId != null) {
             return java.util.Map.of("exists", true, "existingId", existingId);
         }
@@ -64,8 +64,8 @@ public class ExamplesController {
      * POST /api/examples
      */
     @PostMapping
-    public ExamplesVO create(@Valid @RequestBody ExamplesRequest request) {
-        return examplesService.create(request);
+    public ExampleVO create(@Valid @RequestBody ExampleRequest request) {
+        return exampleService.create(request);
     }
 
     /**
@@ -73,8 +73,8 @@ public class ExamplesController {
      * PUT /api/examples/{id}
      */
     @PutMapping("/{id}")
-    public ExamplesVO update(@PathVariable Integer id, @Valid @RequestBody ExamplesRequest request) {
-        return examplesService.update(id, request);
+    public ExampleVO update(@PathVariable Integer id, @Valid @RequestBody ExampleRequest request) {
+        return exampleService.update(id, request);
     }
 
     /**
@@ -83,6 +83,6 @@ public class ExamplesController {
      */
     @DeleteMapping("/{id}")
     public void delete(@PathVariable Integer id) {
-        examplesService.delete(id);
+        exampleService.delete(id);
     }
 }

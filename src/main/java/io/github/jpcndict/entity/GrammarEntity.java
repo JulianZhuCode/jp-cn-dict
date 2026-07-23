@@ -11,7 +11,7 @@ import lombok.EqualsAndHashCode;
 @EqualsAndHashCode(callSuper = true)
 @Entity
 @Table(name = "grammar", schema = "dict", indexes = {
-        @Index(name = "idx_grammar_word", columnList = "word"),
+        @Index(name = "idx_grammar_pattern", columnList = "pattern"),
         @Index(name = "idx_grammar_reading", columnList = "reading")
 })
 @Data
@@ -19,7 +19,7 @@ public class GrammarEntity extends BaseEntity {
     /**
      * 语法条目
      */
-    private String word;
+    private String pattern;
     /**
      * 读音
      */

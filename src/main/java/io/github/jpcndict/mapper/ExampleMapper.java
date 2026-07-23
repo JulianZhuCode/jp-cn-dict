@@ -1,7 +1,7 @@
 package io.github.jpcndict.mapper;
 
-import io.github.jpcndict.dto.vo.ExamplesVO;
-import io.github.jpcndict.entity.ExamplesEntity;
+import io.github.jpcndict.dto.vo.ExampleVO;
+import io.github.jpcndict.entity.ExampleEntity;
 import org.mapstruct.Mapper;
 
 import java.util.List;
@@ -10,20 +10,20 @@ import java.util.List;
  * 例句实体与VO转换器（MapStruct）
  */
 @Mapper(componentModel = "spring")
-public interface ExamplesMapper {
+public interface ExampleMapper {
 
     /**
      * Entity → VO
      */
-    ExamplesVO toVO(ExamplesEntity entity);
+    ExampleVO toVO(ExampleEntity entity);
 
     /**
      * VO → Entity
      */
-    ExamplesEntity toEntity(ExamplesVO vo);
+    ExampleEntity toEntity(ExampleVO vo);
 
     /**
      * Entity列表 → VO列表
      */
-    List<ExamplesVO> toVOList(List<ExamplesEntity> entities);
+    List<ExampleVO> toVOList(List<ExampleEntity> entities);
 }

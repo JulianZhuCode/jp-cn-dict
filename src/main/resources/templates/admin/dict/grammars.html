@@ -49,7 +49,7 @@
             <th>操作</th>
         </th:block>
         <th:block id="grammar-row">
-            <td><strong th:text="${item.word}">〜たい</strong></td>
+            <td><strong th:text="${item.pattern}">〜たい</strong></td>
             <td th:text="${item.reading}">〜たい</td>
             <td>
                 <span th:each="m,iterStat : ${item.meaning}"
@@ -70,7 +70,7 @@
                     编辑
                 </button>
                 <button class="btn btn-outline-danger btn-sm"
-                        th:attr="data-delete-api='/api/grammars',data-delete-id=${item.id},data-delete-name=${item.word}"
+                        th:attr="data-delete-api='/api/grammars',data-delete-id=${item.id},data-delete-name=${item.pattern}"
                         th:if="${#sets.contains(userAuthorities, '*') or #sets.contains(userAuthorities, 'dict:grammar:delete')}">
                     删除
                 </button>
@@ -89,9 +89,9 @@
                 <form class="dict-modal-form" data-api-base="/api/grammars">
                     <div class="modal-body">
                         <div class="mb-3">
-                            <label class="form-label" for="grammar-word">语法条目</label>
-                            <input class="form-control" id="grammar-word" name="word" required type="text">
-                            <div class="invalid-feedback" data-field="word"></div>
+                            <label class="form-label" for="grammar-pattern">语法条目</label>
+                            <input class="form-control" id="grammar-pattern" name="pattern" required type="text">
+                            <div class="invalid-feedback" data-field="pattern"></div>
                         </div>
                         <div class="mb-3">
                             <label class="form-label" for="grammar-reading">读音</label>

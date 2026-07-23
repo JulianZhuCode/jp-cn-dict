@@ -1,9 +1,9 @@
 package io.github.jpcndict.service;
 
-import io.github.jpcndict.entity.ExamplesEntity;
+import io.github.jpcndict.entity.ExampleEntity;
 import io.github.jpcndict.entity.GrammarEntity;
 import io.github.jpcndict.entity.WordEntity;
-import io.github.jpcndict.repository.ExamplesRepository;
+import io.github.jpcndict.repository.ExampleRepository;
 import io.github.jpcndict.repository.GrammarRepository;
 import io.github.jpcndict.repository.WordRepository;
 import lombok.RequiredArgsConstructor;
@@ -37,7 +37,7 @@ public class DictImportService {
     private static final int BATCH_SIZE = 500;
     private final WordRepository wordRepository;
     private final GrammarRepository grammarRepository;
-    private final ExamplesRepository examplesRepository;
+    private final ExampleRepository exampleRepository;
     private final ObjectMapper objectMapper = new ObjectMapper();
     private final ObjectReader mapReader = objectMapper.readerFor(Map.class)
             .without(DeserializationFeature.FAIL_ON_TRAILING_TOKENS);
@@ -79,12 +79,12 @@ public class DictImportService {
 
     @Transactional
     public int importExamples(List<InputStream> inputStreams) throws IOException {
-        long before = examplesRepository.count();
+        long before = exampleRepository.count();
         int total = 0;
         for (InputStream is : inputStreams) {
-            total += importJsonArray(is, this::toExamplesEntity, examplesRepository::saveAll);
+            total += importJsonArray(is, this::toExampleEntity, exampleRepository::saveAll);
         }
-        long after = examplesRepository.count();
+        long after = exampleRepository.count();
         log.info("Examples import complete: {} processed, {} new inserted, {} updated",
                 total, after - before, total - (after - before));
         return total;
@@ -110,7 +110,12 @@ public class DictImportService {
     private GrammarEntity toGrammarEntity(Map<String, Object> raw) {
         GrammarEntity entity = new GrammarEntity();
         entity.setId(toInt(raw.get("id")));
-        entity.setWord((String) raw.get("word"));
+        // 兼容旧格式 word 和新格式 pattern
+        String pattern = (String) raw.get("pattern");
+        if (pattern == null) {
+            pattern = (String) raw.get("word");
+        }
+        entity.setPattern(pattern);
         entity.setReading((String) raw.get("reading"));
         @SuppressWarnings("unchecked")
         List<String> meaning = (List<String>) raw.get("meaning");
@@ -122,8 +127,8 @@ public class DictImportService {
         return entity;
     }
 
-    private ExamplesEntity toExamplesEntity(Map<String, Object> raw) {
-        ExamplesEntity entity = new ExamplesEntity();
+    private ExampleEntity toExampleEntity(Map<String, Object> raw) {
+        ExampleEntity entity = new ExampleEntity();
         entity.setId(toInt(raw.get("id")));
         entity.setJp((String) raw.get("jp"));
         entity.setCn((String) raw.get("cn"));
@@ -197,11 +202,11 @@ public class DictImportService {
     }
 
     public byte[] exportExamples() throws IOException {
-        List<ExamplesEntity> all = examplesRepository.findAll(Sort.by("id"));
+        List<ExampleEntity> all = exampleRepository.findAll(Sort.by("id"));
         Map<Integer, List<Map<String, Object>>> groups = new TreeMap<>();
-        for (ExamplesEntity e : all) {
+        for (ExampleEntity e : all) {
             int start = ((e.getId() - 1) / 100) * 100 + 1;
-            groups.computeIfAbsent(start, _ -> new ArrayList<>()).add(toExamplesExportMap(e));
+            groups.computeIfAbsent(start, _ -> new ArrayList<>()).add(toExampleExportMap(e));
         }
         ByteArrayOutputStream baos = new ByteArrayOutputStream();
         writeZip(baos, "example_", groups);
@@ -224,7 +229,7 @@ public class DictImportService {
     private Map<String, Object> toGrammarExportMap(GrammarEntity e) {
         Map<String, Object> map = new LinkedHashMap<>();
         map.put("id", e.getId());
-        map.put("word", e.getWord());
+        map.put("pattern", e.getPattern());
         map.put("reading", e.getReading());
         map.put("meaning", e.getMeaning());
         map.put("notes", e.getNotes());
@@ -232,7 +237,7 @@ public class DictImportService {
         return map;
     }
 
-    private Map<String, Object> toExamplesExportMap(ExamplesEntity e) {
+    private Map<String, Object> toExampleExportMap(ExampleEntity e) {
         Map<String, Object> map = new LinkedHashMap<>();
         map.put("id", e.getId());
         map.put("jp", e.getJp());

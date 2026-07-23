@@ -8,7 +8,7 @@ import java.util.List;
  * 例句视图对象
  */
 @Data
-public class ExamplesVO {
+public class ExampleVO {
     private Integer id;
     private String jp;
     private String cn;

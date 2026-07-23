@@ -10,7 +10,7 @@ import lombok.Data;
 public class GrammarRequest {
 
     @NotBlank(message = "语法条目不能为空")
-    private String word;
+    private String pattern;
 
     private String reading;
     private String[] meaning;
