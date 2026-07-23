@@ -66,7 +66,7 @@ public class DictInitializer implements CommandLineRunner {
         ensureMenuWithButtonsExists(dictDir, "dict:grammar", "Grammar Management",
                 "/admin/dict/grammars", 2);
 
-        ensureMenuWithButtonsExists(dictDir, "dict:example", "Example Management",
+        ensureMenuWithButtonsExists(dictDir, "dict:examples", "Example Management",
                 "/admin/dict/examples", 3);
 
         log.info("Dict menus initialized successfully");

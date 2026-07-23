@@ -1,7 +1,10 @@
 package io.github.jpcndict.controller;
 
+import io.github.jpcndict.dto.request.AiAnalyzeRequest;
 import io.github.jpcndict.dto.request.ExampleRequest;
+import io.github.jpcndict.dto.vo.AiAnalyzeResult;
 import io.github.jpcndict.dto.vo.ExampleVO;
+import io.github.jpcndict.service.ExampleAiService;
 import io.github.jpcndict.service.ExampleService;
 import io.github.springwhale.framework.webmvc.advice.AdviceIgnore;
 import jakarta.validation.Valid;
@@ -19,6 +22,7 @@ import java.util.List;
 public class ExampleController {
 
     private final ExampleService exampleService;
+    private final ExampleAiService exampleAiService;
 
     /**
      * 分页查询所有例句（支持筛选）
@@ -57,6 +61,15 @@ public class ExampleController {
             return java.util.Map.of("exists", true, "existingId", existingId);
         }
         return java.util.Map.of("exists", false);
+    }
+
+    /**
+     * AI分析日语例句，自动创建不存在的单词和语法
+     * POST /api/examples/ai-analyze
+     */
+    @PostMapping("/ai-analyze")
+    public AiAnalyzeResult aiAnalyze(@Valid @RequestBody AiAnalyzeRequest request) {
+        return exampleAiService.analyze(request.getJp());
     }
 
     /**

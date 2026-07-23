@@ -15,7 +15,7 @@
         description='管理日汉例句',
         createUrl='#',
         createModal='example-modal',
-        createPermission='dict:example:create',
+        createPermission='dict:examples:create',
         items=${examples},
         emptyMessage='未找到例句',
         baseUrl='/admin/dict/examples',
@@ -74,12 +74,12 @@
             <td class="d-flex gap-2">
                 <button class="btn btn-outline-primary btn-sm"
                         data-modal="example-modal" th:attr="data-edit-id=${item.id}"
-                        th:if="${#sets.contains(userAuthorities, '*') or #sets.contains(userAuthorities, 'dict:example:update')}">
+                        th:if="${#sets.contains(userAuthorities, '*') or #sets.contains(userAuthorities, 'dict:examples:update')}">
                     编辑
                 </button>
                 <button class="btn btn-outline-danger btn-sm"
-                        th:attr="data-delete-api='/api/examples',data-delete-id=${item.id},data-delete-name=${item.jp}"
-                        th:if="${#sets.contains(userAuthorities, '*') or #sets.contains(userAuthorities, 'dict:example:delete')}">
+                        data-modal="example-modal" th:attr="data-delete-id=${item.id}"
+                        th:if="${#sets.contains(userAuthorities, '*') or #sets.contains(userAuthorities, 'dict:examples:delete')}">
                     删除
                 </button>
             </td>
@@ -101,7 +101,13 @@
                     <div class="modal-body">
                         <div class="mb-3">
                             <label class="form-label" for="example-jp">日语</label>
-                            <input class="form-control" id="example-jp" name="jp" required type="text">
+                            <div class="d-flex gap-2">
+                                <input class="form-control" id="example-jp" name="jp" required type="text">
+                                <button class="btn btn-outline-primary ai-analyze-btn" type="button">
+                                    <span class="ai-btn-icon"><i class="bi bi-robot"></i></span>
+                                    <span class="ai-btn-text">AI分析</span>
+                                </button>
+                            </div>
                             <div class="example-exists-warning" style="display:none"></div>
                             <div class="invalid-feedback" data-field="jp"></div>
                         </div>
@@ -275,6 +281,27 @@
             padding: 0.55rem 0.85rem;
             font-size: 0.82rem;
             color: #6c757d;
+        }
+
+        /* AI Analyze Button */
+        .ai-analyze-btn {
+            white-space: nowrap;
+            padding-left: 0.75rem;
+            padding-right: 0.75rem;
+        }
+        .ai-analyze-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+        .ai-analyze-btn.loading .ai-btn-icon {
+            animation: spin 1s linear infinite;
+        }
+        .ai-analyze-btn.loading .ai-btn-text {
+            opacity: 0.7;
+        }
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
         }
 
         /* Exists warning */
@@ -577,6 +604,101 @@
                     selected = {};
                     listEl.innerHTML = '';
                     syncHidden();
+                }
+            }
+
+            // ── AI Analyze ──
+            var aiBtn = document.querySelector('#example-modal .ai-analyze-btn');
+            var aiAbort = null;
+
+            if (aiBtn) {
+                aiBtn.addEventListener('click', function () {
+                    var jp = jpInput ? jpInput.value.trim() : '';
+                    if (!jp) {
+                        jpInput.focus();
+                        jpInput.classList.add('is-invalid');
+                        return;
+                    }
+                    doAiAnalyze(jp);
+                });
+            }
+
+            async function doAiAnalyze(jp) {
+                if (aiAbort) aiAbort.abort();
+                var ac = new AbortController();
+                aiAbort = ac;
+
+                // Show loading state
+                aiBtn.classList.add('loading');
+                aiBtn.disabled = true;
+
+                try {
+                    var resp = await fetch('/api/examples/ai-analyze', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ jp: jp }),
+                        signal: ac.signal
+                    });
+
+                    var result = await resp.json();
+                    // Unwrap ApiResult wrapper
+                    if (result && typeof result === 'object' && !Array.isArray(result) && result.data) {
+                        result = result.data;
+                    }
+
+                    if (!result.success) {
+                        alert('AI分析失败: ' + (result.error || '未知错误'));
+                        return;
+                    }
+
+                    // Fill CN translation
+                    var cnInput = document.getElementById('example-cn');
+                    if (cnInput && result.cn) {
+                        cnInput.value = result.cn;
+                    }
+
+                    // Fill related words
+                    var wordSelector = document.querySelector('#example-modal .tag-selector[data-field="relatedWords"]');
+                    if (wordSelector && result.words && result.words.length > 0) {
+                        // Convert to format expected by tag selector
+                        var wordItems = result.words.map(function (w) {
+                            return {
+                                id: w.id,
+                                word: w.word,
+                                reading: w.reading
+                            };
+                        });
+                        if (wordSelector.setTagData) {
+                            wordSelector.setTagData(wordItems);
+                        }
+                    }
+
+                    // Fill related grammars
+                    var grammarSelector = document.querySelector('#example-modal .tag-selector[data-field="relatedGrammars"]');
+                    if (grammarSelector && result.grammars && result.grammars.length > 0) {
+                        // Convert to format expected by tag selector
+                        var grammarItems = result.grammars.map(function (g) {
+                            return {
+                                id: g.id,
+                                word: g.pattern,  // tag selector uses 'word' property
+                                reading: g.reading
+                            };
+                        });
+                        if (grammarSelector.setTagData) {
+                            grammarSelector.setTagData(grammarItems);
+                        }
+                    }
+
+                    alert('AI分析完成！');
+
+                } catch (e) {
+                    if (e.name !== 'AbortError') {
+                        console.error('AI analyze error:', e);
+                        alert('AI分析失败: ' + e.message);
+                    }
+                } finally {
+                    aiBtn.classList.remove('loading');
+                    aiBtn.disabled = false;
                 }
             }
 
