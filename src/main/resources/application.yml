@@ -40,7 +40,6 @@ spring:
         enabled: true
         login-username: admin
         login-password: 123456
-
   jpa:
     hibernate:
       ddl-auto: update
@@ -49,3 +48,14 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.PostgreSQLDialect
         format_sql: true
+  ai:
+    deepseek:
+      api-key: ${ARK_API_KEY:}
+      base-url: https://ark.cn-beijing.volces.com/api/v3
+      chat:
+        options:
+          model: deepseek-v4-flash-260425
+          temperature: 0.1 # 降低随机性，抽取结果稳定
+          timeout: 60000 # 60秒超时释放连接
+          top-p: 0.3 # 进一步压缩采样范围，减少自由发挥
+          max-tokens: 4096 # 限制单次返回长度，避免超长冗余内容
