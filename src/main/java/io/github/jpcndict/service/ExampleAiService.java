@@ -51,6 +51,7 @@ public class ExampleAiService {
                             .id(e.getId())
                             .word(e.getWord())
                             .reading(e.getReading())
+                            .pos(e.getPos())
                             .meaning(e.getMeaning() != null ? List.of(e.getMeaning()) : List.of())
                             .build());
                 } else {
@@ -58,6 +59,7 @@ public class ExampleAiService {
                     WordEntity entity = new WordEntity();
                     entity.setWord(word.getWord());
                     entity.setReading(word.getReading());
+                    entity.setPos(word.getPos());
                     entity.setMeaning(word.getMeaning() != null ? word.getMeaning().toArray(new String[0]) : null);
                     entity.setIsManualConfirmed(false);
                     WordEntity saved = wordRepository.save(entity);
@@ -66,6 +68,7 @@ public class ExampleAiService {
                             .id(saved.getId())
                             .word(saved.getWord())
                             .reading(saved.getReading())
+                            .pos(saved.getPos())
                             .meaning(saved.getMeaning() != null ? List.of(saved.getMeaning()) : List.of())
                             .build());
                 }
@@ -119,30 +122,16 @@ public class ExampleAiService {
      */
     private AiAnalyzeResult callAi(String jp) {
         String systemPrompt = """
-                你是一个日语学习助手，擅长分析日语句子结构。请分析用户输入的日语句子，提取其中的单词和语法，并给出中文翻译。
+                日语句子分析助手。请分析日语句子，提取单词和语法，给出中文翻译。
                 
-                分析规则：
-                1. 单词提取：提取句子中的主要名词、动词原形、形容词等实词，每个单词包含：单词、读音、含义。单词是有独立语义的完整词汇。
-                2. 语法提取：提取句子中的语法结构、助词（如は、が、を、の等）、助动词（如ます、た、ない、です等）、以及语法用法模式。语法模式必须使用「〜」作为占位符表示变化部分，例如：〜て、〜た、〜ない、〜ます、〜かもしれない、〜によって、〜ていく。语法不应该与单词重复，同一内容只出现在单词或语法中的一方。
-                3. 中文翻译：给出准确的中文翻译。
-                4. 互斥原则：如果一个内容既可以作为单词又可以作为语法，请根据其在句子中的主要功能判断归属，确保不重复。
+                规则：
+                1. 单词：名词、动词原形、形容词等实词，含word/reading/pos/meaning。pos枚举：NOUN、VERB_I、VERB_II、VERB_III、VERB_TRANS、ADJ_I、ADJ_NA、ADV、PART、AUX、CONJ、PRON、INTERJ、PHRASE、PRENOM、PREFIX、SUFFIX、NUM、COUNTER、GREET、SENTENCE、GRAMMAR、UNKNOWN。
+                2. 语法：助词、助动词、语法模式，pattern用「〜」占位（如〜て、〜た、〜ます）。含义需包含接续规则、用法、场景，不与单词重复。
+                3. 中文翻译准确。
                 
-                请严格按照以下JSON格式返回结果，不要包含任何其他文本：
-                {
-                    "success": true,
-                    "cn": "中文翻译",
-                    "words": [
-                        {"word": "单词", "reading": "读音", "meaning": ["含义1", "含义2"]}
-                    ],
-                    "grammars": [
-                        {"pattern": "〜て", "reading": "〜て", "meaning": ["表示动作的进行或并列"]},
-                        {"pattern": "の", "reading": "の", "meaning": ["领格助词，表示所属或修饰"]}
-                    ],
-                    "model": "deepseek-v4-flash-260425"
-                }
-                
-                如果分析失败，请返回：
-                {"success": false, "error": "错误原因"}
+                返回JSON（无其他文本）：
+                {"success":true,"cn":"翻译","words":[{"word":"词","reading":"音","pos":"NOUN","meaning":["义"]}],"grammars":[{"pattern":"〜て","reading":"〜て","meaning":["接动词连用形，表示动作进行"]}],"model":"deepseek-v4-flash-260425"}
+                失败返回：{"success":false,"error":"原因"}
                 """;
 
         String userPrompt = "请分析以下日语句子：\n" + jp;

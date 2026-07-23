@@ -91,6 +91,10 @@ public class AiAnalyzeResult {
          */
         private String reading;
         /**
+         * 词性（枚举值：NOUN、VERB_I、VERB_II、VERB_III、ADJ_I、ADJ_NA、ADV、PART、AUX、CONJ、PRON、INTERJ、PHRASE、UNKNOWN等）
+         */
+        private String pos;
+        /**
          * 含义
          */
         private List<String> meaning;
