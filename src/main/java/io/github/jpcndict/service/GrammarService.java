@@ -1,6 +1,7 @@
 package io.github.jpcndict.service;
 
 import io.github.jpcndict.dto.request.GrammarRequest;
+import io.github.jpcndict.dto.vo.AiAnalyzeResult;
 import io.github.jpcndict.dto.vo.GrammarVO;
 import io.github.jpcndict.entity.GrammarEntity;
 import io.github.jpcndict.mapper.GrammarMapper;
@@ -105,5 +106,38 @@ public class GrammarService {
         GrammarEntity grammar = grammarRepository.findById(id)
                 .orElseThrow(() -> BusinessException.create("GRAMMAR_NOT_FOUND", "语法不存在，ID: " + id));
         grammarRepository.delete(grammar);
+    }
+
+    /**
+     * 查找或创建语法（用于AI分析场景）
+     * 如果语法已存在则返回已有的，否则创建新语法
+     */
+    @Transactional
+    public AiAnalyzeResult.GrammarAnalysis findOrCreate(AiAnalyzeResult.GrammarAnalysis grammarAnalysis) {
+        Optional<GrammarEntity> existing = grammarRepository.findByPattern(grammarAnalysis.getPattern());
+        if (existing.isPresent()) {
+            GrammarEntity e = existing.get();
+            return AiAnalyzeResult.GrammarAnalysis.builder()
+                    .id(e.getId())
+                    .pattern(e.getPattern())
+                    .reading(e.getReading())
+                    .meaning(e.getMeaning() != null ? List.of(e.getMeaning()) : List.of())
+                    .build();
+        }
+
+        // 创建新语法
+        GrammarEntity entity = new GrammarEntity();
+        entity.setPattern(grammarAnalysis.getPattern());
+        entity.setReading(grammarAnalysis.getReading());
+        entity.setMeaning(grammarAnalysis.getMeaning() != null ? grammarAnalysis.getMeaning().toArray(new String[0]) : null);
+        entity.setIsManualConfirmed(false);
+        GrammarEntity saved = grammarRepository.save(entity);
+
+        return AiAnalyzeResult.GrammarAnalysis.builder()
+                .id(saved.getId())
+                .pattern(saved.getPattern())
+                .reading(saved.getReading())
+                .meaning(saved.getMeaning() != null ? List.of(saved.getMeaning()) : List.of())
+                .build();
     }
 }

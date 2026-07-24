@@ -2,10 +2,6 @@ package io.github.jpcndict.service;
 
 import io.github.jpcndict.dto.vo.AiAnalyzeResult;
 import io.github.jpcndict.dto.vo.AiPromptConfigVO;
-import io.github.jpcndict.entity.GrammarEntity;
-import io.github.jpcndict.entity.WordEntity;
-import io.github.jpcndict.repository.GrammarRepository;
-import io.github.jpcndict.repository.WordRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.ai.chat.client.ChatClient;
@@ -13,9 +9,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import tools.jackson.databind.ObjectMapper;
 
-import java.util.ArrayList;
 import java.util.List;
-import java.util.Optional;
 
 /**
  * AI分析例句服务
@@ -28,8 +22,8 @@ public class ExampleAiService {
     private static final String PROMPT_KEY_EXAMPLE_ANALYSIS = "example_analysis";
 
     private final ChatClient chatClient;
-    private final WordRepository wordRepository;
-    private final GrammarRepository grammarRepository;
+    private final WordService wordService;
+    private final GrammarService grammarService;
     private final AiPromptConfigService aiPromptConfigService;
     private final ObjectMapper objectMapper;
 
@@ -45,68 +39,15 @@ public class ExampleAiService {
                 return analysis;
             }
 
-            // 处理单词：查找或创建
-            List<AiAnalyzeResult.WordAnalysis> wordResults = new ArrayList<>();
-            for (var word : analysis.getWords()) {
-                Optional<WordEntity> existing = wordRepository.findByWord(word.getWord());
-                if (existing.isPresent()) {
-                    WordEntity e = existing.get();
-                    wordResults.add(AiAnalyzeResult.WordAnalysis.builder()
-                            .id(e.getId())
-                            .word(e.getWord())
-                            .reading(e.getReading())
-                            .pos(e.getPos())
-                            .meaning(e.getMeaning() != null ? List.of(e.getMeaning()) : List.of())
-                            .build());
-                } else {
-                    // 创建新单词
-                    WordEntity entity = new WordEntity();
-                    entity.setWord(word.getWord());
-                    entity.setReading(word.getReading());
-                    entity.setPos(word.getPos());
-                    entity.setMeaning(word.getMeaning() != null ? word.getMeaning().toArray(new String[0]) : null);
-                    entity.setIsManualConfirmed(false);
-                    WordEntity saved = wordRepository.save(entity);
+            // 处理单词：查找或创建（委托给WordService）
+            List<AiAnalyzeResult.WordAnalysis> wordResults = analysis.getWords().stream()
+                    .map(wordService::findOrCreate)
+                    .toList();
 
-                    wordResults.add(AiAnalyzeResult.WordAnalysis.builder()
-                            .id(saved.getId())
-                            .word(saved.getWord())
-                            .reading(saved.getReading())
-                            .pos(saved.getPos())
-                            .meaning(saved.getMeaning() != null ? List.of(saved.getMeaning()) : List.of())
-                            .build());
-                }
-            }
-
-            // 处理语法：查找或创建
-            List<AiAnalyzeResult.GrammarAnalysis> grammarResults = new ArrayList<>();
-            for (var grammar : analysis.getGrammars()) {
-                Optional<GrammarEntity> existing = grammarRepository.findByPattern(grammar.getPattern());
-                if (existing.isPresent()) {
-                    GrammarEntity e = existing.get();
-                    grammarResults.add(AiAnalyzeResult.GrammarAnalysis.builder()
-                            .id(e.getId())
-                            .pattern(e.getPattern())
-                            .reading(e.getReading())
-                            .meaning(e.getMeaning() != null ? List.of(e.getMeaning()) : List.of())
-                            .build());
-                } else {
-                    // 创建新语法
-                    GrammarEntity entity = new GrammarEntity();
-                    entity.setPattern(grammar.getPattern());
-                    entity.setReading(grammar.getReading());
-                    entity.setMeaning(grammar.getMeaning() != null ? grammar.getMeaning().toArray(new String[0]) : null);
-                    entity.setIsManualConfirmed(false);
-                    GrammarEntity saved = grammarRepository.save(entity);
-
-                    grammarResults.add(AiAnalyzeResult.GrammarAnalysis.builder()
-                            .id(saved.getId())
-                            .pattern(saved.getPattern())
-                            .reading(saved.getReading())
-                            .meaning(saved.getMeaning() != null ? List.of(saved.getMeaning()) : List.of())
-                            .build());
-                }
-            }
+            // 处理语法：查找或创建（委托给GrammarService）
+            List<AiAnalyzeResult.GrammarAnalysis> grammarResults = analysis.getGrammars().stream()
+                    .map(grammarService::findOrCreate)
+                    .toList();
 
             return AiAnalyzeResult.success(
                     analysis.getCn(),

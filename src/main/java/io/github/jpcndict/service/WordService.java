@@ -1,6 +1,7 @@
 package io.github.jpcndict.service;
 
 import io.github.jpcndict.dto.request.WordRequest;
+import io.github.jpcndict.dto.vo.AiAnalyzeResult;
 import io.github.jpcndict.dto.vo.WordVO;
 import io.github.jpcndict.entity.WordEntity;
 import io.github.jpcndict.mapper.WordMapper;
@@ -132,5 +133,41 @@ public class WordService {
         WordEntity word = wordRepository.findById(id)
                 .orElseThrow(() -> BusinessException.create("WORD_NOT_FOUND", "单词不存在，ID: " + id));
         wordRepository.delete(word);
+    }
+
+    /**
+     * 查找或创建单词（用于AI分析场景）
+     * 如果单词已存在则返回已有的，否则创建新单词
+     */
+    @Transactional
+    public AiAnalyzeResult.WordAnalysis findOrCreate(AiAnalyzeResult.WordAnalysis wordAnalysis) {
+        Optional<WordEntity> existing = wordRepository.findByWord(wordAnalysis.getWord());
+        if (existing.isPresent()) {
+            WordEntity e = existing.get();
+            return AiAnalyzeResult.WordAnalysis.builder()
+                    .id(e.getId())
+                    .word(e.getWord())
+                    .reading(e.getReading())
+                    .pos(e.getPos())
+                    .meaning(e.getMeaning() != null ? List.of(e.getMeaning()) : List.of())
+                    .build();
+        }
+
+        // 创建新单词
+        WordEntity entity = new WordEntity();
+        entity.setWord(wordAnalysis.getWord());
+        entity.setReading(wordAnalysis.getReading());
+        entity.setPos(wordAnalysis.getPos());
+        entity.setMeaning(wordAnalysis.getMeaning() != null ? wordAnalysis.getMeaning().toArray(new String[0]) : null);
+        entity.setIsManualConfirmed(false);
+        WordEntity saved = wordRepository.save(entity);
+
+        return AiAnalyzeResult.WordAnalysis.builder()
+                .id(saved.getId())
+                .word(saved.getWord())
+                .reading(saved.getReading())
+                .pos(saved.getPos())
+                .meaning(saved.getMeaning() != null ? List.of(saved.getMeaning()) : List.of())
+                .build();
     }
 }
