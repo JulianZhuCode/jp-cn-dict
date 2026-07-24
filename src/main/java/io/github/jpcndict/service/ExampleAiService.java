@@ -1,6 +1,7 @@
 package io.github.jpcndict.service;
 
 import io.github.jpcndict.dto.vo.AiAnalyzeResult;
+import io.github.jpcndict.dto.vo.AiPromptConfigVO;
 import io.github.jpcndict.entity.GrammarEntity;
 import io.github.jpcndict.entity.WordEntity;
 import io.github.jpcndict.repository.GrammarRepository;
@@ -24,9 +25,12 @@ import java.util.Optional;
 @Slf4j
 public class ExampleAiService {
 
+    private static final String PROMPT_KEY_EXAMPLE_ANALYSIS = "example_analysis";
+
     private final ChatClient chatClient;
     private final WordRepository wordRepository;
     private final GrammarRepository grammarRepository;
+    private final AiPromptConfigService aiPromptConfigService;
     private final ObjectMapper objectMapper;
 
     /**
@@ -121,20 +125,26 @@ public class ExampleAiService {
      * 调用AI模型分析日语句子
      */
     private AiAnalyzeResult callAi(String jp) {
-        String systemPrompt = """
-                日语句子分析助手。请分析日语句子，提取单词和语法，给出中文翻译。
-                
-                规则：
-                1. 单词：名词、动词原形、形容词等实词，含word/reading/pos/meaning。pos枚举：NOUN、VERB_I、VERB_II、VERB_III、VERB_TRANS、ADJ_I、ADJ_NA、ADV、PART、AUX、CONJ、PRON、INTERJ、PHRASE、PRENOM、PREFIX、SUFFIX、NUM、COUNTER、GREET、SENTENCE、GRAMMAR、UNKNOWN。
-                2. 语法：助词、助动词、语法模式，pattern用「〜」占位（如〜て、〜た、〜ます）。含义需包含接续规则、用法、场景，不与单词重复。
-                3. 中文翻译准确。
-                
-                返回JSON（无其他文本）：
-                {"success":true,"cn":"翻译","words":[{"word":"词","reading":"音","pos":"NOUN","meaning":["义"]}],"grammars":[{"pattern":"〜て","reading":"〜て","meaning":["接动词连用形，表示动作进行"]}],"model":"deepseek-v4-flash-260425"}
-                失败返回：{"success":false,"error":"原因"}
-                """;
+        // 从配置服务读取提示词，若无配置则提示用户去配置
+        AiPromptConfigVO config = aiPromptConfigService.findByKey(PROMPT_KEY_EXAMPLE_ANALYSIS)
+                .orElse(null);
 
-        String userPrompt = "请分析以下日语句子：\n" + jp;
+        if (config == null) {
+            log.warn("未找到AI提示词配置: {}", PROMPT_KEY_EXAMPLE_ANALYSIS);
+            return AiAnalyzeResult.failure("AI提示词未配置，请先在「词典管理 > AI配置」中配置提示词");
+        }
+
+        if (!Boolean.TRUE.equals(config.getEnabled())) {
+            log.warn("AI提示词配置已禁用: {}", PROMPT_KEY_EXAMPLE_ANALYSIS);
+            return AiAnalyzeResult.failure("AI提示词配置已禁用，请在「词典管理 > AI配置」中启用");
+        }
+
+        String systemPrompt = config.getSystemPrompt();
+        String userPromptTemplate = config.getUserPromptTemplate();
+        log.info("使用配置的提示词: {}", PROMPT_KEY_EXAMPLE_ANALYSIS);
+
+        // 替换用户提示词模板中的变量
+        String userPrompt = userPromptTemplate != null ? userPromptTemplate.replace("{jp}", jp) : "请分析以下日语句子：\n" + jp;
 
         try {
             String content = chatClient.prompt()

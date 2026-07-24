@@ -1,5 +1,6 @@
 package io.github.jpcndict.controller.page;
 
+import io.github.jpcndict.dto.vo.AiPromptConfigVO;
 import io.github.jpcndict.dto.vo.ExampleVO;
 import io.github.jpcndict.dto.vo.GrammarVO;
 import io.github.jpcndict.dto.vo.WordVO;
@@ -7,6 +8,7 @@ import io.github.jpcndict.enums.WordPos;
 import io.github.jpcndict.repository.ExampleRepository;
 import io.github.jpcndict.repository.GrammarRepository;
 import io.github.jpcndict.repository.WordRepository;
+import io.github.jpcndict.service.AiPromptConfigService;
 import io.github.jpcndict.service.ExampleService;
 import io.github.jpcndict.service.GrammarService;
 import io.github.jpcndict.service.WordService;
@@ -38,6 +40,7 @@ public class DictPageController {
     private final WordService wordService;
     private final GrammarService grammarService;
     private final ExampleService exampleService;
+    private final AiPromptConfigService aiPromptConfigService;
     private final WordRepository wordRepository;
     private final GrammarRepository grammarRepository;
     private final ExampleRepository exampleRepository;
@@ -107,6 +110,24 @@ public class DictPageController {
         model.addAttribute("sortField", SortUtils.getSortField(sortObj));
         model.addAttribute("sortDirection", SortUtils.getSortDirection(sortObj));
         return "admin/dict/examples";
+    }
+
+    // ---- AI Prompt Config ----
+
+    @GetMapping("/ai-config")
+    public String aiConfig(@RequestParam(defaultValue = "0") int page,
+                           @RequestParam(defaultValue = "10") int size,
+                           @RequestParam(required = false) String keyword,
+                           @RequestParam(required = false) String sort,
+                           Model model) {
+        Sort sortObj = SortUtils.buildSort(sort);
+        Page<AiPromptConfigVO> configPage = aiPromptConfigService.search(keyword, PageRequest.of(page, size, sortObj));
+        model.addAttribute("configs", configPage.getContent());
+        model.addAttribute("page", configPage);
+        model.addAttribute("keyword", keyword);
+        model.addAttribute("sortField", SortUtils.getSortField(sortObj));
+        model.addAttribute("sortDirection", SortUtils.getSortDirection(sortObj));
+        return "admin/dict/ai-config";
     }
 
 }

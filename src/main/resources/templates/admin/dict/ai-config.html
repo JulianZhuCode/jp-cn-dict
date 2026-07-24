@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html layout:decorate="~{admin/layout}"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <title>AI配置</title>
+</head>
+
+<body>
+
+<main layout:fragment="content">
+    <th:block th:replace="~{admin/fragments/data-table :: table(
+        title='AI提示词配置',
+        description='管理AI分析使用的提示词配置，支持数据库存储与本地缓存',
+        createUrl='#',
+        createModal='ai-config-modal',
+        createPermission='dict:ai-config:create',
+        items=${configs},
+        emptyMessage='未找到AI提示词配置',
+        baseUrl='/admin/dict/ai-config',
+        page=${page},
+        colspan=6,
+        headers=~{::#config-headers},
+        rows=~{::#config-row},
+        filter=~{::#config-filter}
+    )}">
+        <th:block id="config-filter">
+            <div class="row g-2">
+                <div class="col-md-5">
+                    <div class="input-group">
+                        <span class="input-group-text"><i class="bi bi-search"></i></span>
+                        <input class="form-control dict-search-input" id="configSearchInput"
+                               placeholder="搜索提示词标识、名称..."
+                               th:value="${keyword}" type="text">
+                        <button class="btn btn-outline-secondary" id="configSearchClear" style="display:none"
+                                type="button">
+                            <i class="bi bi-x-lg"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </th:block>
+        <th:block id="config-headers">
+            <th>标识</th>
+            <th>名称</th>
+            <th>模型</th>
+            <th>状态</th>
+            <th>更新时间</th>
+            <th>操作</th>
+        </th:block>
+        <th:block id="config-row">
+            <td><code class="text-muted" th:text="${item.promptKey}">example_analysis</code></td>
+            <td><strong th:text="${item.promptName}">例句分析</strong></td>
+            <td th:text="${item.modelName != null ? item.modelName : '-'}">deepseek-v4-flash-260425</td>
+            <td>
+                <span th:if="${item.enabled}" class="badge bg-success">启用</span>
+                <span th:unless="${item.enabled}" class="badge bg-secondary">禁用</span>
+            </td>
+            <td th:text="${#temporals.format(item.updateTime, 'yyyy-MM-dd HH:mm')}">2024-01-01 12:00</td>
+            <td class="d-flex gap-2">
+                <button class="btn btn-outline-primary btn-sm"
+                        data-modal="ai-config-modal" th:attr="data-edit-id=${item.id}"
+                        th:if="${#sets.contains(userAuthorities, '*') or #sets.contains(userAuthorities, 'dict:ai-config:update')}">
+                    编辑
+                </button>
+                <button class="btn btn-outline-danger btn-sm"
+                        th:attr="data-delete-api='/api/ai-prompt-configs',data-delete-id=${item.id},data-delete-name=${item.promptName}"
+                        th:if="${#sets.contains(userAuthorities, '*') or #sets.contains(userAuthorities, 'dict:ai-config:delete')}">
+                    删除
+                </button>
+            </td>
+        </th:block>
+    </th:block>
+
+    <!-- AI Config Modal (Bootstrap 5) -->
+    <div aria-hidden="true" class="modal fade" id="ai-config-modal" tabindex="-1">
+        <div class="modal-dialog modal-xl">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">AI提示词配置</h5>
+                    <button aria-label="Close" class="btn-close" data-bs-dismiss="modal" type="button"></button>
+                </div>
+                <form class="dict-modal-form" data-api-base="/api/ai-prompt-configs">
+                    <div class="modal-body">
+                        <div class="row g-3">
+                            <div class="col-md-6">
+                                <label class="form-label" for="config-promptKey">提示词标识 <span class="text-danger">*</span></label>
+                                <input class="form-control" id="config-promptKey" name="promptKey" required type="text"
+                                       placeholder="如: example_analysis" data-edit-readonly>
+                                <div class="invalid-feedback" data-field="promptKey"></div>
+                            </div>
+                            <div class="col-md-6">
+                                <label class="form-label" for="config-promptName">提示词名称 <span class="text-danger">*</span></label>
+                                <input class="form-control" id="config-promptName" name="promptName" required type="text"
+                                       placeholder="如: 例句分析">
+                                <div class="invalid-feedback" data-field="promptName"></div>
+                            </div>
+                            <div class="col-md-6">
+                                <label class="form-label" for="config-modelName">模型名称</label>
+                                <input class="form-control" id="config-modelName" name="modelName" type="text"
+                                       placeholder="如: deepseek-v4-flash-260425">
+                                <div class="invalid-feedback" data-field="modelName"></div>
+                            </div>
+                            <div class="col-md-6">
+                                <label class="form-label" for="config-enabled">状态</label>
+                                <div class="pt-2">
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" id="config-enabled-yes" name="enabled"
+                                               type="radio" value="true" checked>
+                                        <label class="form-check-label" for="config-enabled-yes">启用</label>
+                                    </div>
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" id="config-enabled-no" name="enabled"
+                                               type="radio" value="false">
+                                        <label class="form-check-label" for="config-enabled-no">禁用</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <label class="form-label" for="config-systemPrompt">系统提示词 <span class="text-danger">*</span></label>
+                                <textarea class="form-control" id="config-systemPrompt" name="systemPrompt" required
+                                          rows="8" placeholder="输入系统提示词内容..."></textarea>
+                                <div class="invalid-feedback" data-field="systemPrompt"></div>
+                            </div>
+                            <div class="col-md-12">
+                                <label class="form-label" for="config-userPromptTemplate">用户提示词模板</label>
+                                <textarea class="form-control" id="config-userPromptTemplate" name="userPromptTemplate"
+                                          rows="4" placeholder="支持变量替换，如: 请分析以下日语句子：{jp}"></textarea>
+                                <div class="invalid-feedback" data-field="userPromptTemplate"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn-secondary" data-bs-dismiss="modal" type="button">取消</button>
+                        <button class="btn btn-primary modal-submit" type="button">保存</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script th:inline="javascript">
+        (function () {
+            var searchInput = document.getElementById('configSearchInput');
+            var clearBtn = document.getElementById('configSearchClear');
+            var DEBOUNCE_MS = 400;
+            var searchTimer = null;
+
+            function doSearch() {
+                var keyword = searchInput ? searchInput.value.trim() : '';
+                var params = new URLSearchParams(window.location.search);
+                if (keyword) params.set('keyword', keyword);
+                else params.delete('keyword');
+                params.delete('page');
+                window.location.href = '/admin/dict/ai-config?' + params.toString();
+            }
+
+            function updateClearBtn() {
+                if (clearBtn) {
+                    clearBtn.style.display = searchInput.value ? '' : 'none';
+                }
+            }
+
+            if (searchInput) {
+                updateClearBtn();
+                searchInput.addEventListener('input', function () {
+                    updateClearBtn();
+                    clearTimeout(searchTimer);
+                    searchTimer = setTimeout(doSearch, DEBOUNCE_MS);
+                });
+                searchInput.addEventListener('keydown', function (e) {
+                    if (e.key === 'Enter') {
+                        clearTimeout(searchTimer);
+                        doSearch();
+                    }
+                });
+            }
+
+            if (clearBtn) {
+                clearBtn.addEventListener('click', function () {
+                    searchInput.value = '';
+                    updateClearBtn();
+                    clearTimeout(searchTimer);
+                    doSearch();
+                });
+            }
+
+            // Modal data population for edit
+            document.addEventListener('shown.bs.modal', function (e) {
+                if (e.target.id !== 'ai-config-modal') return;
+                var modal = e.target;
+                var editId = modal.getAttribute('data-edit-id');
+                var form = modal.querySelector('.dict-modal-form');
+                var promptKeyInput = document.getElementById('config-promptKey');
+
+                if (!editId) {
+                    form.removeAttribute('data-edit-id');
+                    form.querySelector('.modal-title').textContent = '创建AI提示词配置';
+                    form.reset();
+                    // Enable promptKey for create, set default enabled
+                    if (promptKeyInput) promptKeyInput.disabled = false;
+                    document.getElementById('config-enabled-yes').checked = true;
+                    return;
+                }
+
+                form.setAttribute('data-edit-id', editId);
+                form.querySelector('.modal-title').textContent = '编辑AI提示词配置';
+                // Disable promptKey for edit to prevent breaking service constants
+                if (promptKeyInput) promptKeyInput.disabled = true;
+
+                fetch('/api/ai-prompt-configs/' + editId)
+                    .then(function (resp) {
+                        if (!resp.ok) throw new Error('HTTP ' + resp.status);
+                        return resp.json();
+                    })
+                    .then(function (data) {
+                        // Unwrap ApiResult wrapper
+                        if (data && typeof data === 'object' && !Array.isArray(data) && data.data) {
+                            data = data.data;
+                        }
+                        document.getElementById('config-promptKey').value = data.promptKey || '';
+                        document.getElementById('config-promptName').value = data.promptName || '';
+                        document.getElementById('config-modelName').value = data.modelName || '';
+                        document.getElementById('config-systemPrompt').value = data.systemPrompt || '';
+                        document.getElementById('config-userPromptTemplate').value = data.userPromptTemplate || '';
+                        if (data.enabled !== undefined) {
+                            document.getElementById('config-enabled-yes').checked = data.enabled;
+                            document.getElementById('config-enabled-no').checked = !data.enabled;
+                        } else {
+                            document.getElementById('config-enabled-yes').checked = true;
+                        }
+                    })
+                    .catch(function (e) {
+                        console.error('Load config error:', e);
+                        alert('加载配置失败: ' + e.message);
+                    });
+            });
+
+            // Handle enabled radio button values for form submission
+            document.addEventListener('submit', function(e) {
+                if (!e.target.classList.contains('dict-modal-form')) return;
+                var enabledYes = document.getElementById('config-enabled-yes');
+                var enabledNo = document.getElementById('config-enabled-no');
+                if (enabledYes && enabledNo) {
+                    enabledYes.value = 'true';
+                    enabledNo.value = 'false';
+                }
+            });
+        })();
+    </script>
+</main>
+
+</body>
+</html>
