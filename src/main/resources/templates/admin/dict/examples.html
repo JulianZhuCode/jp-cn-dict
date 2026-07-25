@@ -54,9 +54,11 @@
             <td>
                 <span class="d-flex flex-wrap gap-1"
                       th:if="${item.relatedWordItems != null and !item.relatedWordItems.isEmpty()}">
-                    <span class="badge bg-primary text-decoration-none"
-                          style="font-size:.78rem" th:each="w : ${item.relatedWordItems}"
-                          th:text="${w.word + (w.reading != null ? '（' + w.reading + '）' : '')}">食べる（たべる）</span>
+                    <button class="badge bg-primary text-decoration-none word-detail-btn"
+                            style="font-size:.78rem; cursor:pointer; border:none;"
+                            th:each="w : ${item.relatedWordItems}"
+                            th:data-id="${w.id}"
+                            th:text="${w.word + (w.reading != null ? '（' + w.reading + '）' : '')}">食べる（たべる）</button>
                 </span>
                 <span class="text-muted"
                       th:unless="${item.relatedWordItems != null and !item.relatedWordItems.isEmpty()}">-</span>
@@ -64,9 +66,11 @@
             <td>
                 <span class="d-flex flex-wrap gap-1"
                       th:if="${item.relatedGrammarItems != null and !item.relatedGrammarItems.isEmpty()}">
-                    <span class="badge bg-info text-decoration-none"
-                          style="font-size:.78rem" th:each="g : ${item.relatedGrammarItems}"
-                          th:text="${g.pattern + (g.reading != null ? '（' + g.reading + '）' : '')}">〜たい（〜たい）</span>
+                    <button class="badge bg-info text-decoration-none grammar-detail-btn"
+                            style="font-size:.78rem; cursor:pointer; border:none; color:#212529;"
+                            th:each="g : ${item.relatedGrammarItems}"
+                            th:data-id="${g.id}"
+                            th:text="${g.pattern + (g.reading != null ? '（' + g.reading + '）' : '')}">〜たい（〜たい）</button>
                 </span>
                 <span class="text-muted"
                       th:unless="${item.relatedGrammarItems != null and !item.relatedGrammarItems.isEmpty()}">-</span>
@@ -159,6 +163,19 @@
     </div>
 
     <!-- Tag Selector Styles & Script (must stay inside layout:fragment) -->
+    <!-- Detail Card Container -->
+    <div class="detail-card-overlay" id="detailCardOverlay"></div>
+    <div class="detail-card" id="detailCard">
+        <div class="detail-card-header">
+            <span>
+                <span class="detail-title" id="detailTitle"></span>
+                <span class="detail-reading" id="detailReading"></span>
+            </span>
+            <span class="detail-close" id="detailClose">&times;</span>
+        </div>
+        <div class="detail-card-body" id="detailBody"></div>
+    </div>
+
     <style>
         /* Container */
         .tag-selector {
@@ -335,6 +352,173 @@
                 transform: scale(1);
                 opacity: 1;
             }
+        }
+
+        /* Detail Card Styles */
+        .detail-card-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 9998;
+            background-color: rgba(0, 0, 0, 0);
+            display: none;
+        }
+
+        .detail-card-overlay.active {
+            display: block;
+        }
+
+        .detail-card {
+            position: fixed;
+            z-index: 9999;
+            background: #fff;
+            border-radius: 0.5rem;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(0, 0, 0, 0.06);
+            padding: 0;
+            min-width: 280px;
+            max-width: 420px;
+            max-height: 70vh;
+            overflow-y: auto;
+            display: none;
+            animation: cardIn 0.2s ease-out;
+            border: 1px solid #e9ecef;
+        }
+
+        .detail-card.active {
+            display: block;
+        }
+
+        .detail-card-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0.75rem 1rem;
+            border-bottom: 1px solid #e9ecef;
+            background-color: #f8f9fa;
+            border-radius: 0.5rem 0.5rem 0 0;
+        }
+
+        .detail-card-header .detail-title {
+            font-weight: 600;
+            font-size: 0.95rem;
+            color: #212529;
+        }
+
+        .detail-card-header .detail-reading {
+            font-size: 0.85rem;
+            color: #6c757d;
+            margin-left: 0.5rem;
+        }
+
+        .detail-card-header .detail-close {
+            cursor: pointer;
+            width: 24px;
+            height: 24px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            transition: background-color 0.15s;
+            font-size: 0.85rem;
+            color: #6c757d;
+        }
+
+        .detail-card-header .detail-close:hover {
+            background-color: #e9ecef;
+            color: #212529;
+        }
+
+        .detail-card-body {
+            padding: 0.85rem 1rem;
+        }
+
+        .detail-item {
+            margin-bottom: 0.6rem;
+        }
+
+        .detail-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .detail-label {
+            font-size: 0.75rem;
+            font-weight: 500;
+            color: #6c757d;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.25rem;
+            display: block;
+        }
+
+        .detail-value {
+            font-size: 0.87rem;
+            color: #212529;
+            line-height: 1.5;
+        }
+
+        .detail-value .meaning-item {
+            display: block;
+            padding: 0.15rem 0;
+            position: relative;
+            padding-left: 0.75rem;
+        }
+
+        .detail-value .meaning-item::before {
+            content: '•';
+            position: absolute;
+            left: 0;
+            color: #0d6efd;
+            font-size: 0.65rem;
+        }
+
+        .detail-value .note-item {
+            display: block;
+            padding: 0.15rem 0;
+            font-size: 0.82rem;
+            color: #6c757d;
+            font-style: italic;
+        }
+
+        .detail-card.word-card .detail-card-header {
+            border-top: 3px solid #0d6efd;
+        }
+
+        .detail-card.word-card .detail-label.pos-label {
+            color: #0d6efd;
+        }
+
+        .detail-card.grammar-card .detail-card-header {
+            border-top: 3px solid #0dcaf0;
+        }
+
+        .detail-card.grammar-card .detail-label.pattern-label {
+            color: #0dcaf0;
+        }
+
+        @keyframes cardIn {
+            from {
+                opacity: 0;
+                transform: translateY(-8px) scale(0.98);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0) scale(1);
+            }
+        }
+
+        /* Badge hover effect */
+        .word-detail-btn:hover,
+        .grammar-detail-btn:hover {
+            opacity: 0.9;
+            transform: translateY(-1px);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+        }
+
+        .word-detail-btn:active,
+        .grammar-detail-btn:active {
+            transform: translateY(0);
         }
     </style>
 
@@ -760,12 +944,303 @@
                     });
             }
 
+                    })();
+    </script>
+
+    <script th:inline="javascript">
+        (function () {
             // ── Utility ──
             function esc(str) {
                 if (!str) return '';
                 var d = document.createElement('div');
                 d.textContent = str;
                 return d.innerHTML;
+            }
+
+            // ── Word POS Mapping ──
+            var posMapping = {
+                'ADJ_I': 'い形容词',
+                'ADJ_NA': 'ナ形容词',
+                'ADV': '副词',
+                'AUX': '助动词',
+                'CONJ': '接续词',
+                'COUNTER': '量词',
+                'GRAMMAR': '语法',
+                'GREET': '寒暄语',
+                'INTERJ': '感叹词',
+                'NOUN': '名词',
+                'NUM': '数词',
+                'PART': '助词',
+                'PHRASE': '惯用句、词组',
+                'PREFIX': '接头词',
+                'PRENOM': '连体词',
+                'PRON': '代词',
+                'SENTENCE': '句子',
+                'SUFFIX': '接尾词',
+                'UNKNOWN': '未知',
+                'VERB_I': '动词-I类',
+                'VERB_II': '动词-II类',
+                'VERB_III': '动词-III类',
+                'VERB_TRANS': '动词-自他两用'
+            };
+
+            function getPosLabel(pos) {
+                return posMapping[pos] || pos || '';
+            }
+
+            // ── Detail Card Logic ──
+            var detailCard = document.getElementById('detailCard');
+            var detailOverlay = document.getElementById('detailCardOverlay');
+            var detailTitle = document.getElementById('detailTitle');
+            var detailReading = document.getElementById('detailReading');
+            var detailBody = document.getElementById('detailBody');
+            var detailClose = document.getElementById('detailClose');
+
+            var currentBtn = null;
+
+            // ── Word Detail Buttons ──
+            document.addEventListener('click', function (e) {
+                var btn = e.target.closest('.word-detail-btn');
+                if (btn) {
+                    e.preventDefault();
+                    toggleWordDetail(btn);
+                    return;
+                }
+
+                var grammarBtn = e.target.closest('.grammar-detail-btn');
+                if (grammarBtn) {
+                    e.preventDefault();
+                    toggleGrammarDetail(grammarBtn);
+                    return;
+                }
+
+                // Close if clicking outside
+                if (!detailCard.contains(e.target) && !e.target.closest('.word-detail-btn') && !e.target.closest('.grammar-detail-btn')) {
+                    closeDetail();
+                }
+            });
+
+            // Close button
+            if (detailClose) {
+                detailClose.addEventListener('click', closeDetail);
+            }
+
+            // Escape key
+            document.addEventListener('keydown', function (e) {
+                if (e.key === 'Escape') {
+                    closeDetail();
+                }
+            });
+
+            function toggleWordDetail(btn) {
+                if (currentBtn === btn && detailCard.classList.contains('active')) {
+                    closeDetail();
+                    return;
+                }
+
+                var wordId = btn.dataset.id;
+                if (!wordId) return;
+
+                // Show loading state
+                detailTitle.textContent = '加载中...';
+                detailReading.textContent = '';
+                detailBody.innerHTML = '<div class="detail-value" style="color:#6c757d;">正在获取详情...</div>';
+                detailCard.className = 'detail-card word-card';
+                showCard(btn);
+                currentBtn = btn;
+
+                // Fetch word detail from API
+                fetch('/api/words/' + wordId)
+                    .then(function (resp) {
+                        if (!resp.ok) throw new Error('HTTP ' + resp.status);
+                        return resp.json();
+                    })
+                    .then(function (data) {
+                        // Unwrap ApiResult wrapper
+                        if (data && typeof data === 'object' && !Array.isArray(data) && data.data) {
+                            data = data.data;
+                        }
+                        renderWordDetail(data);
+                    })
+                    .catch(function (e) {
+                        console.error('Fetch word detail error:', e);
+                        detailBody.innerHTML = '<div class="detail-value" style="color:#dc3545;">加载失败: ' + e.message + '</div>';
+                    });
+            }
+
+            function renderWordDetail(data) {
+                if (!data) {
+                    detailBody.innerHTML = '<div class="detail-value" style="color:#6c757d;">暂无详细信息</div>';
+                    return;
+                }
+
+                var word = data.word || '';
+                var reading = data.reading || '';
+                var pos = data.pos || '';
+                var romaji = data.romaji || '';
+                var meanings = Array.isArray(data.meaning) ? data.meaning.filter(function(m) { return m && m.trim(); }) : [];
+                var notes = Array.isArray(data.notes) ? data.notes.filter(function(n) { return n && n.trim(); }) : [];
+
+                // Build body HTML
+                var bodyHtml = '';
+
+                // Part of speech
+                if (pos) {
+                    bodyHtml += '<div class="detail-item">' +
+                        '<span class="detail-label pos-label">词性</span>' +
+                        '<span class="detail-value">' + esc(getPosLabel(pos)) + '</span>' +
+                        '</div>';
+                }
+
+                // Romaji
+                if (romaji) {
+                    bodyHtml += '<div class="detail-item">' +
+                        '<span class="detail-label">罗马音</span>' +
+                        '<span class="detail-value">' + esc(romaji) + '</span>' +
+                        '</div>';
+                }
+
+                // Meanings
+                if (meanings.length > 0) {
+                    bodyHtml += '<div class="detail-item">' +
+                        '<span class="detail-label">含义</span>' +
+                        '<span class="detail-value">';
+                    for (var i = 0; i < meanings.length; i++) {
+                        bodyHtml += '<span class="meaning-item">' + esc(meanings[i]) + '</span>';
+                    }
+                    bodyHtml += '</span></div>';
+                }
+
+                // Notes
+                if (notes.length > 0) {
+                    bodyHtml += '<div class="detail-item">' +
+                        '<span class="detail-label">备注</span>' +
+                        '<span class="detail-value">';
+                    for (var j = 0; j < notes.length; j++) {
+                        bodyHtml += '<span class="note-item">' + esc(notes[j]) + '</span>';
+                    }
+                    bodyHtml += '</span></div>';
+                }
+
+                // Set content
+                detailTitle.textContent = word;
+                detailReading.textContent = reading ? '（' + reading + '）' : '';
+                detailBody.innerHTML = bodyHtml || '<div class="detail-value" style="color:#6c757d;">暂无详细信息</div>';
+            }
+
+            function toggleGrammarDetail(btn) {
+                if (currentBtn === btn && detailCard.classList.contains('active')) {
+                    closeDetail();
+                    return;
+                }
+
+                var grammarId = btn.dataset.id;
+                if (!grammarId) return;
+
+                // Show loading state
+                detailTitle.textContent = '加载中...';
+                detailReading.textContent = '';
+                detailBody.innerHTML = '<div class="detail-value" style="color:#6c757d;">正在获取详情...</div>';
+                detailCard.className = 'detail-card grammar-card';
+                showCard(btn);
+                currentBtn = btn;
+
+                // Fetch grammar detail from API
+                fetch('/api/grammars/' + grammarId)
+                    .then(function (resp) {
+                        if (!resp.ok) throw new Error('HTTP ' + resp.status);
+                        return resp.json();
+                    })
+                    .then(function (data) {
+                        // Unwrap ApiResult wrapper
+                        if (data && typeof data === 'object' && !Array.isArray(data) && data.data) {
+                            data = data.data;
+                        }
+                        renderGrammarDetail(data);
+                    })
+                    .catch(function (e) {
+                        console.error('Fetch grammar detail error:', e);
+                        detailBody.innerHTML = '<div class="detail-value" style="color:#dc3545;">加载失败: ' + e.message + '</div>';
+                    });
+            }
+
+            function renderGrammarDetail(data) {
+                if (!data) {
+                    detailBody.innerHTML = '<div class="detail-value" style="color:#6c757d;">暂无详细信息</div>';
+                    return;
+                }
+
+                var pattern = data.pattern || '';
+                var reading = data.reading || '';
+                var meanings = Array.isArray(data.meaning) ? data.meaning.filter(function(m) { return m && m.trim(); }) : [];
+                var notes = Array.isArray(data.notes) ? data.notes.filter(function(n) { return n && n.trim(); }) : [];
+
+                // Build body HTML
+                var bodyHtml = '';
+
+                // Pattern (for grammar, show as label)
+                bodyHtml += '<div class="detail-item">' +
+                    '<span class="detail-label pattern-label">语法模式</span>' +
+                    '<span class="detail-value">' + esc(pattern) + '</span>' +
+                    '</div>';
+
+                // Meanings
+                if (meanings.length > 0) {
+                    bodyHtml += '<div class="detail-item">' +
+                        '<span class="detail-label">含义</span>' +
+                        '<span class="detail-value">';
+                    for (var i = 0; i < meanings.length; i++) {
+                        bodyHtml += '<span class="meaning-item">' + esc(meanings[i]) + '</span>';
+                    }
+                    bodyHtml += '</span></div>';
+                }
+
+                // Notes
+                if (notes.length > 0) {
+                    bodyHtml += '<div class="detail-item">' +
+                        '<span class="detail-label">备注</span>' +
+                        '<span class="detail-value">';
+                    for (var j = 0; j < notes.length; j++) {
+                        bodyHtml += '<span class="note-item">' + esc(notes[j]) + '</span>';
+                    }
+                    bodyHtml += '</span></div>';
+                }
+
+                // Set content
+                detailTitle.textContent = pattern;
+                detailReading.textContent = reading ? '（' + reading + '）' : '';
+                detailBody.innerHTML = bodyHtml || '<div class="detail-value" style="color:#6c757d;">暂无详细信息</div>';
+            }
+
+            function showCard(btn) {
+                var rect = btn.getBoundingClientRect();
+                var cardWidth = Math.min(360, window.innerWidth - 40);
+                var cardHeight = detailCard.offsetHeight;
+
+                // Calculate position - show below the button
+                var top = rect.bottom + 8;
+                var left = rect.left;
+
+                // Adjust if card would go off screen
+                if (left + cardWidth > window.innerWidth - 10) {
+                    left = window.innerWidth - cardWidth - 10;
+                }
+                if (top + cardHeight > window.innerHeight - 10) {
+                    top = rect.top - cardHeight - 8;
+                }
+
+                detailCard.style.width = cardWidth + 'px';
+                detailCard.style.top = top + 'px';
+                detailCard.style.left = left + 'px';
+
+                detailCard.classList.add('active');
+                detailOverlay.classList.add('active');
+            }
+
+            function closeDetail() {
+                detailCard.classList.remove('active');
+                detailOverlay.classList.remove('active');
+                currentBtn = null;
             }
         })();
     </script>
