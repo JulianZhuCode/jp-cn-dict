@@ -1,7 +1,6 @@
 package io.github.jpcndict.service;
 
 import io.github.jpcndict.dto.request.GrammarRequest;
-import io.github.jpcndict.dto.vo.AiAnalyzeResult;
 import io.github.jpcndict.dto.vo.GrammarVO;
 import io.github.jpcndict.entity.GrammarEntity;
 import io.github.jpcndict.mapper.GrammarMapper;
@@ -15,7 +14,9 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.util.ObjectUtils;
 
+import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 import java.util.Optional;
 
 @Service
@@ -109,35 +110,92 @@ public class GrammarService {
     }
 
     /**
-     * 查找或创建语法（用于AI分析场景）
+     * 查找或创建语法（通用方法）
      * 如果语法已存在则返回已有的，否则创建新语法
      */
     @Transactional
-    public AiAnalyzeResult.GrammarAnalysis findOrCreate(AiAnalyzeResult.GrammarAnalysis grammarAnalysis) {
-        Optional<GrammarEntity> existing = grammarRepository.findByPattern(grammarAnalysis.getPattern());
-        if (existing.isPresent()) {
-            GrammarEntity e = existing.get();
-            return AiAnalyzeResult.GrammarAnalysis.builder()
-                    .id(e.getId())
-                    .pattern(e.getPattern())
-                    .reading(e.getReading())
-                    .meaning(e.getMeaning() != null ? List.of(e.getMeaning()) : List.of())
-                    .build();
+    public GrammarEntity findOrCreate(GrammarEntity entity) {
+        if (entity.getPattern() == null || entity.getPattern().trim().isEmpty()) {
+            throw new IllegalArgumentException("语法模式不能为空");
         }
 
-        // 创建新语法
-        GrammarEntity entity = new GrammarEntity();
-        entity.setPattern(grammarAnalysis.getPattern());
-        entity.setReading(grammarAnalysis.getReading());
-        entity.setMeaning(grammarAnalysis.getMeaning() != null ? grammarAnalysis.getMeaning().toArray(new String[0]) : null);
-        entity.setIsManualConfirmed(false);
-        GrammarEntity saved = grammarRepository.save(entity);
+        Optional<GrammarEntity> existing = grammarRepository.findByPattern(entity.getPattern());
+        if (existing.isPresent()) {
+            return existing.get();
+        }
 
-        return AiAnalyzeResult.GrammarAnalysis.builder()
-                .id(saved.getId())
-                .pattern(saved.getPattern())
-                .reading(saved.getReading())
-                .meaning(saved.getMeaning() != null ? List.of(saved.getMeaning()) : List.of())
-                .build();
+        // 创建新语法，设置默认值
+        GrammarEntity newEntity = new GrammarEntity();
+        newEntity.setPattern(entity.getPattern());
+        newEntity.setReading(entity.getReading());
+        newEntity.setMeaning(entity.getMeaning());
+        newEntity.setNotes(entity.getNotes());
+        newEntity.setIsManualConfirmed(false);
+
+        return grammarRepository.save(newEntity);
+    }
+
+    /**
+     * 批量查找或创建语法（通用方法）
+     * 优化：1次批量查询 + 1次批量插入
+     */
+    @Transactional
+    public List<GrammarEntity> findOrCreateBatch(List<GrammarEntity> entities) {
+        if (entities == null || entities.isEmpty()) {
+            return List.of();
+        }
+
+        // 1. 提取所有语法模式
+        List<String> patterns = entities.stream()
+                .map(GrammarEntity::getPattern)
+                .filter(pattern -> pattern != null && !pattern.trim().isEmpty())
+                .toList();
+
+        if (patterns.isEmpty()) {
+            return List.of();
+        }
+
+        // 2. 一次批量查询所有已存在的语法
+        List<GrammarEntity> existingGrammars = grammarRepository.findByPatternIn(patterns);
+
+        // 3. 构建已存在语法的映射（pattern -> GrammarEntity）
+        Map<String, GrammarEntity> existingMap = existingGrammars.stream()
+                .collect(java.util.stream.Collectors.toMap(
+                        GrammarEntity::getPattern,
+                        e -> e,
+                        (e1, e2) -> e1 // 如果有重复，保留第一个
+                ));
+
+        // 4. 分离出需要创建的新语法
+        List<GrammarEntity> newEntities = new ArrayList<>();
+        for (var entity : entities) {
+            if (entity.getPattern() != null && !entity.getPattern().trim().isEmpty()) {
+                if (!existingMap.containsKey(entity.getPattern())) {
+                    GrammarEntity newEntity = new GrammarEntity();
+                    newEntity.setPattern(entity.getPattern());
+                    newEntity.setReading(entity.getReading());
+                    newEntity.setMeaning(entity.getMeaning());
+                    newEntity.setNotes(entity.getNotes());
+                    newEntity.setIsManualConfirmed(false);
+                    newEntities.add(newEntity);
+                }
+            }
+        }
+
+        // 5. 批量保存新语法
+        if (!newEntities.isEmpty()) {
+            List<GrammarEntity> savedEntities = grammarRepository.saveAll(newEntities);
+            // 将新保存的语法加入映射
+            for (var saved : savedEntities) {
+                existingMap.put(saved.getPattern(), saved);
+            }
+        }
+
+        // 6. 构建结果列表（保持原顺序）
+        return entities.stream()
+                .filter(entity -> entity.getPattern() != null && !entity.getPattern().trim().isEmpty())
+                .map(entity -> existingMap.get(entity.getPattern()))
+                .filter(java.util.Objects::nonNull)
+                .toList();
     }
 }

@@ -20,4 +20,9 @@ public interface GrammarRepository extends JpaRepository<GrammarEntity, Integer>
     List<GrammarEntity> findByReadingContaining(String reading);
 
     List<GrammarEntity> findByPatternContainingOrReadingContaining(String pattern, String reading);
+
+    /**
+     * 批量查询语法（用于AI分析场景）
+     */
+    List<GrammarEntity> findByPatternIn(List<String> patterns);
 }

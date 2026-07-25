@@ -2,6 +2,8 @@ package io.github.jpcndict.service;
 
 import io.github.jpcndict.dto.vo.AiAnalyzeResult;
 import io.github.jpcndict.dto.vo.AiPromptConfigVO;
+import io.github.jpcndict.entity.GrammarEntity;
+import io.github.jpcndict.entity.WordEntity;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.ai.chat.client.ChatClient;
@@ -9,6 +11,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import tools.jackson.databind.ObjectMapper;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -39,14 +42,26 @@ public class ExampleAiService {
                 return analysis;
             }
 
-            // 处理单词：查找或创建（委托给WordService）
-            List<AiAnalyzeResult.WordAnalysis> wordResults = analysis.getWords().stream()
-                    .map(wordService::findOrCreate)
+            // 将AI分析结果转换为实体列表
+            List<WordEntity> wordEntities = analysis.getWords().stream()
+                    .map(this::toWordEntity)
                     .toList();
 
-            // 处理语法：查找或创建（委托给GrammarService）
-            List<AiAnalyzeResult.GrammarAnalysis> grammarResults = analysis.getGrammars().stream()
-                    .map(grammarService::findOrCreate)
+            List<GrammarEntity> grammarEntities = analysis.getGrammars().stream()
+                    .map(this::toGrammarEntity)
+                    .toList();
+
+            // 调用通用服务：批量查找或创建（1次查询+1次插入）
+            List<WordEntity> savedWords = wordService.findOrCreateBatch(wordEntities);
+            List<GrammarEntity> savedGrammars = grammarService.findOrCreateBatch(grammarEntities);
+
+            // 将实体转换回AI分析结果格式
+            List<AiAnalyzeResult.WordAnalysis> wordResults = savedWords.stream()
+                    .map(this::toWordAnalysis)
+                    .toList();
+
+            List<AiAnalyzeResult.GrammarAnalysis> grammarResults = savedGrammars.stream()
+                    .map(this::toGrammarAnalysis)
                     .toList();
 
             return AiAnalyzeResult.success(
@@ -93,10 +108,23 @@ public class ExampleAiService {
                     .user(userPrompt)
                     .call()
                     .content();
+
+            // 检查AI返回内容是否为空
+            if (content == null || content.trim().isEmpty()) {
+                log.error("AI返回内容为空");
+                return AiAnalyzeResult.failure("AI返回内容为空，请稍后重试");
+            }
+
             log.info("AI分析结果: {}", content);
 
             // 提取JSON部分（处理AI可能返回的markdown代码块）
             String jsonStr = extractJson(content);
+
+            // 再次检查提取后的JSON是否为空
+            if (jsonStr.trim().isEmpty()) {
+                log.error("提取JSON内容为空，原始内容: {}", content);
+                return AiAnalyzeResult.failure("AI返回格式错误，无法解析结果");
+            }
 
             // 使用Jackson解析
             return objectMapper.readValue(jsonStr, AiAnalyzeResult.class);
@@ -112,7 +140,7 @@ public class ExampleAiService {
      */
     private String extractJson(String content) {
         if (content == null) {
-            return "{}";
+            return "";
         }
         // 移除可能的markdown代码块标记
         content = content.replaceAll("```json\\s*", "")
@@ -127,5 +155,65 @@ public class ExampleAiService {
             return content.substring(jsonStart, jsonEnd + 1);
         }
         return content;
+    }
+
+    /**
+     * 将 WordAnalysis 转换为 WordEntity（用于调用通用服务）
+     */
+    private WordEntity toWordEntity(AiAnalyzeResult.WordAnalysis analysis) {
+        if (analysis == null) {
+            return null;
+        }
+        WordEntity entity = new WordEntity();
+        entity.setWord(analysis.getWord());
+        entity.setReading(analysis.getReading());
+        entity.setPos(analysis.getPos());
+        entity.setMeaning(analysis.getMeaning() != null ? analysis.getMeaning().toArray(new String[0]) : null);
+        return entity;
+    }
+
+    /**
+     * 将 WordEntity 转换为 WordAnalysis（用于返回结果）
+     */
+    private AiAnalyzeResult.WordAnalysis toWordAnalysis(WordEntity entity) {
+        if (entity == null) {
+            return null;
+        }
+        return AiAnalyzeResult.WordAnalysis.builder()
+                .id(entity.getId())
+                .word(entity.getWord())
+                .reading(entity.getReading())
+                .pos(entity.getPos())
+                .meaning(entity.getMeaning() != null ? List.of(entity.getMeaning()) : new ArrayList<>())
+                .build();
+    }
+
+    /**
+     * 将 GrammarAnalysis 转换为 GrammarEntity（用于调用通用服务）
+     */
+    private GrammarEntity toGrammarEntity(AiAnalyzeResult.GrammarAnalysis analysis) {
+        if (analysis == null) {
+            return null;
+        }
+        GrammarEntity entity = new GrammarEntity();
+        entity.setPattern(analysis.getPattern());
+        entity.setReading(analysis.getReading());
+        entity.setMeaning(analysis.getMeaning() != null ? analysis.getMeaning().toArray(new String[0]) : null);
+        return entity;
+    }
+
+    /**
+     * 将 GrammarEntity 转换为 GrammarAnalysis（用于返回结果）
+     */
+    private AiAnalyzeResult.GrammarAnalysis toGrammarAnalysis(GrammarEntity entity) {
+        if (entity == null) {
+            return null;
+        }
+        return AiAnalyzeResult.GrammarAnalysis.builder()
+                .id(entity.getId())
+                .pattern(entity.getPattern())
+                .reading(entity.getReading())
+                .meaning(entity.getMeaning() != null ? List.of(entity.getMeaning()) : new ArrayList<>())
+                .build();
     }
 }

@@ -24,4 +24,9 @@ public interface WordRepository extends JpaRepository<WordEntity, Integer>, JpaS
     List<WordEntity> findByPos(String pos);
 
     List<WordEntity> findByWordContainingOrReadingContaining(String word, String reading);
+
+    /**
+     * 批量查询单词（用于AI分析场景）
+     */
+    List<WordEntity> findByWordIn(List<String> words);
 }

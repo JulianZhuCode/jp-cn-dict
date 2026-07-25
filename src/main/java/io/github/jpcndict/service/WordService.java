@@ -1,7 +1,6 @@
 package io.github.jpcndict.service;
 
 import io.github.jpcndict.dto.request.WordRequest;
-import io.github.jpcndict.dto.vo.AiAnalyzeResult;
 import io.github.jpcndict.dto.vo.WordVO;
 import io.github.jpcndict.entity.WordEntity;
 import io.github.jpcndict.mapper.WordMapper;
@@ -15,7 +14,9 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.util.ObjectUtils;
 
+import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 import java.util.Optional;
 
 @Service
@@ -136,38 +137,96 @@ public class WordService {
     }
 
     /**
-     * 查找或创建单词（用于AI分析场景）
+     * 查找或创建单词（通用方法）
      * 如果单词已存在则返回已有的，否则创建新单词
      */
     @Transactional
-    public AiAnalyzeResult.WordAnalysis findOrCreate(AiAnalyzeResult.WordAnalysis wordAnalysis) {
-        Optional<WordEntity> existing = wordRepository.findByWord(wordAnalysis.getWord());
-        if (existing.isPresent()) {
-            WordEntity e = existing.get();
-            return AiAnalyzeResult.WordAnalysis.builder()
-                    .id(e.getId())
-                    .word(e.getWord())
-                    .reading(e.getReading())
-                    .pos(e.getPos())
-                    .meaning(e.getMeaning() != null ? List.of(e.getMeaning()) : List.of())
-                    .build();
+    public WordEntity findOrCreate(WordEntity entity) {
+        if (entity.getWord() == null || entity.getWord().trim().isEmpty()) {
+            throw new IllegalArgumentException("单词不能为空");
         }
 
-        // 创建新单词
-        WordEntity entity = new WordEntity();
-        entity.setWord(wordAnalysis.getWord());
-        entity.setReading(wordAnalysis.getReading());
-        entity.setPos(wordAnalysis.getPos());
-        entity.setMeaning(wordAnalysis.getMeaning() != null ? wordAnalysis.getMeaning().toArray(new String[0]) : null);
-        entity.setIsManualConfirmed(false);
-        WordEntity saved = wordRepository.save(entity);
+        Optional<WordEntity> existing = wordRepository.findByWord(entity.getWord());
+        if (existing.isPresent()) {
+            return existing.get();
+        }
 
-        return AiAnalyzeResult.WordAnalysis.builder()
-                .id(saved.getId())
-                .word(saved.getWord())
-                .reading(saved.getReading())
-                .pos(saved.getPos())
-                .meaning(saved.getMeaning() != null ? List.of(saved.getMeaning()) : List.of())
-                .build();
+        // 创建新单词，设置默认值
+        WordEntity newEntity = new WordEntity();
+        newEntity.setWord(entity.getWord());
+        newEntity.setReading(entity.getReading());
+        newEntity.setRomaji(entity.getRomaji());
+        newEntity.setPos(entity.getPos());
+        newEntity.setMeaning(entity.getMeaning());
+        newEntity.setNotes(entity.getNotes());
+        newEntity.setIsManualConfirmed(false);
+
+        return wordRepository.save(newEntity);
+    }
+
+    /**
+     * 批量查找或创建单词（通用方法）
+     * 优化：1次批量查询 + 1次批量插入
+     */
+    @Transactional
+    public List<WordEntity> findOrCreateBatch(List<WordEntity> entities) {
+        if (entities == null || entities.isEmpty()) {
+            return List.of();
+        }
+
+        // 1. 提取所有单词名称
+        List<String> wordNames = entities.stream()
+                .map(WordEntity::getWord)
+                .filter(word -> word != null && !word.trim().isEmpty())
+                .toList();
+
+        if (wordNames.isEmpty()) {
+            return List.of();
+        }
+
+        // 2. 一次批量查询所有已存在的单词
+        List<WordEntity> existingWords = wordRepository.findByWordIn(wordNames);
+
+        // 3. 构建已存在单词的映射（word -> WordEntity）
+        Map<String, WordEntity> existingMap = existingWords.stream()
+                .collect(java.util.stream.Collectors.toMap(
+                        WordEntity::getWord,
+                        e -> e,
+                        (e1, e2) -> e1 // 如果有重复，保留第一个
+                ));
+
+        // 4. 分离出需要创建的新单词
+        List<WordEntity> newEntities = new ArrayList<>();
+        for (var entity : entities) {
+            if (entity.getWord() != null && !entity.getWord().trim().isEmpty()) {
+                if (!existingMap.containsKey(entity.getWord())) {
+                    WordEntity newEntity = new WordEntity();
+                    newEntity.setWord(entity.getWord());
+                    newEntity.setReading(entity.getReading());
+                    newEntity.setRomaji(entity.getRomaji());
+                    newEntity.setPos(entity.getPos());
+                    newEntity.setMeaning(entity.getMeaning());
+                    newEntity.setNotes(entity.getNotes());
+                    newEntity.setIsManualConfirmed(false);
+                    newEntities.add(newEntity);
+                }
+            }
+        }
+
+        // 5. 批量保存新单词
+        if (!newEntities.isEmpty()) {
+            List<WordEntity> savedEntities = wordRepository.saveAll(newEntities);
+            // 将新保存的单词加入映射
+            for (var saved : savedEntities) {
+                existingMap.put(saved.getWord(), saved);
+            }
+        }
+
+        // 6. 构建结果列表（保持原顺序）
+        return entities.stream()
+                .filter(entity -> entity.getWord() != null && !entity.getWord().trim().isEmpty())
+                .map(entity -> existingMap.get(entity.getWord()))
+                .filter(java.util.Objects::nonNull)
+                .toList();
     }
 }
