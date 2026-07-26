@@ -186,6 +186,18 @@
                 });
             }
 
+            // Edit button click handler - set data-edit-id on modal
+            document.addEventListener('click', function(e) {
+                var btn = e.target.closest('[data-modal="ai-config-modal"][data-edit-id]');
+                if (btn) {
+                    var editId = btn.getAttribute('data-edit-id');
+                    var modal = document.getElementById('ai-config-modal');
+                    if (modal) {
+                        modal.setAttribute('data-edit-id', editId);
+                    }
+                }
+            });
+
             // Modal data population for edit
             document.addEventListener('shown.bs.modal', function (e) {
                 if (e.target.id !== 'ai-config-modal') return;
@@ -196,7 +208,7 @@
 
                 if (!editId) {
                     form.removeAttribute('data-edit-id');
-                    form.querySelector('.modal-title').textContent = '创建AI提示词配置';
+                    modal.querySelector('.modal-title').textContent = '创建AI提示词配置';
                     form.reset();
                     // Enable promptKey for create, set default enabled
                     if (promptKeyInput) promptKeyInput.disabled = false;
@@ -205,7 +217,7 @@
                 }
 
                 form.setAttribute('data-edit-id', editId);
-                form.querySelector('.modal-title').textContent = '编辑AI提示词配置';
+                modal.querySelector('.modal-title').textContent = '编辑AI提示词配置';
                 // Disable promptKey for edit to prevent breaking service constants
                 if (promptKeyInput) promptKeyInput.disabled = true;
 
@@ -245,6 +257,89 @@
                 if (enabledYes && enabledNo) {
                     enabledYes.value = 'true';
                     enabledNo.value = 'false';
+                }
+            });
+
+            // Save button handler
+            document.addEventListener('click', function(e) {
+                var btn = e.target.closest('.modal-submit');
+                if (!btn) return;
+                e.preventDefault();
+
+                try {
+                    var form = btn.closest('.dict-modal-form');
+                    if (!form) {
+                        console.error('Form not found');
+                        return;
+                    }
+
+                    var apiBase = form.dataset.apiBase;
+                    console.log('apiBase:', apiBase);
+
+                    // Get editId from form or modal element
+                    var editId = form.dataset.editId || form.closest('.modal').dataset.editId;
+                    console.log('editId:', editId);
+
+                    var data = {
+                        promptKey: document.getElementById('config-promptKey').value,
+                        promptName: document.getElementById('config-promptName').value,
+                        systemPrompt: document.getElementById('config-systemPrompt').value,
+                        userPromptTemplate: document.getElementById('config-userPromptTemplate').value,
+                        modelName: document.getElementById('config-modelName').value,
+                        enabled: document.getElementById('config-enabled-yes').checked
+                    };
+
+                    console.log('Saving data:', JSON.stringify(data, null, 2));
+
+                    // Disable button during save
+                    btn.disabled = true;
+                    var originalText = btn.textContent;
+                    btn.textContent = '保存中...';
+
+                    var method = editId ? 'PUT' : 'POST';
+                    var url = editId ? apiBase + '/' + editId : apiBase;
+                    console.log('URL:', url, 'Method:', method);
+
+                    fetch(url, {
+                        method: method,
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify(data)
+                    })
+                    .then(function(resp) {
+                        console.log('Response status:', resp.status);
+                        if (!resp.ok) {
+                            return resp.json().then(function(err) {
+                                throw new Error(err.message || err.error || '保存失败，HTTP ' + resp.status);
+                            }).catch(function() {
+                                throw new Error('保存失败，HTTP ' + resp.status);
+                            });
+                        }
+                        return resp.json();
+                    })
+                    .then(function(result) {
+                        console.log('Save success:', result);
+                        // Close modal and refresh
+                        var modalEl = form.closest('.modal');
+                        if (modalEl) {
+                            modalEl.classList.remove('show');
+                            modalEl.style.display = 'none';
+                            var backdrop = document.querySelector('.modal-backdrop');
+                            if (backdrop) backdrop.remove();
+                            document.body.classList.remove('modal-open');
+                        }
+                        location.reload();
+                    })
+                    .catch(function(e) {
+                        console.error('Save error:', e);
+                        alert('保存失败: ' + e.message);
+                    })
+                    .finally(function() {
+                        btn.disabled = false;
+                        btn.textContent = originalText;
+                    });
+                } catch (err) {
+                    console.error('Save handler exception:', err);
+                    alert('保存异常: ' + err.message);
                 }
             });
         })();
