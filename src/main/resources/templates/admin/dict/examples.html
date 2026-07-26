@@ -523,6 +523,16 @@
     </style>
 
     <script th:inline="javascript">
+        // Global utility function - used by multiple script blocks
+        window._esc = function (str) {
+            if (!str) return '';
+            var d = document.createElement('div');
+            d.textContent = str;
+            return d.innerHTML;
+        };
+    </script>
+
+    <script th:inline="javascript">
         (function () {
             var searchInput = document.getElementById('exampleSearchInput');
             var clearBtn = document.getElementById('exampleSearchClear');
@@ -669,8 +679,8 @@
                         (function (it, idx) {
                             var el = document.createElement('div');
                             el.className = 'tag-dropdown-item';
-                            el.innerHTML = '<strong>' + esc(it.word || '') + '</strong>'
-                                + '<span class="dd-sub">' + esc(it.reading || '') + '</span>';
+                            el.innerHTML = '<strong>' + _esc(it.word || '') + '</strong>'
+                                + '<span class="dd-sub">' + _esc(it.reading || '') + '</span>';
                             el.onmousedown = function (ev) {
                                 ev.preventDefault();
                                 selectItem(it);
@@ -748,8 +758,8 @@
                     badge.className = 'tag-item tag-badge';
                     badge.dataset.id = item.id;
                     badge.setAttribute('data-field', field);
-                    badge.innerHTML = esc(item.word)
-                        + (item.reading ? ' <small>(' + esc(item.reading) + ')</small>' : '')
+                    badge.innerHTML = _esc(item.word)
+                        + (item.reading ? ' <small>(' + _esc(item.reading) + ')</small>' : '')
                         + ' <span class="tag-remove">&times;</span>';
                     badge.querySelector('.tag-remove').onclick = function () {
                         removeItem(item.id);
@@ -950,12 +960,13 @@
     <script th:inline="javascript">
         (function () {
             // ── Utility ──
-            function esc(str) {
+            // Use global _esc function, fallback to local if not available
+            var esc = window._esc || function (str) {
                 if (!str) return '';
                 var d = document.createElement('div');
                 d.textContent = str;
                 return d.innerHTML;
-            }
+            };
 
             // ── Word POS Mapping ──
             var posMapping = {
