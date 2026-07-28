@@ -26,16 +26,19 @@
         filter=~{::#grammar-filter}
     )}">
         <th:block id="grammar-filter">
-            <div class="row g-2">
+            <div class="row g-2" data-table-search="/admin/dict/grammars">
                 <div class="col-md-5">
                     <div class="input-group">
                         <span class="input-group-text"><i class="bi bi-search"></i></span>
-                        <input class="form-control dict-search-input" id="grammarSearchInput"
+                        <input class="form-control dict-search-input" data-search-field="keyword"
                                placeholder="搜索语法条目、读音..."
                                th:value="${keyword}" type="text">
-                        <button class="btn btn-outline-secondary" id="grammarSearchClear" style="display:none"
+                        <button class="btn btn-outline-secondary" data-search-clear style="display:none"
                                 type="button">
                             <i class="bi bi-x-lg"></i>
+                        </button>
+                        <button class="btn btn-primary" data-search-submit type="button">
+                            <i class="bi bi-search me-1"></i>搜索
                         </button>
                     </div>
                 </div>
@@ -117,54 +120,6 @@
             </div>
         </div>
     </div>
-
-    <script th:inline="javascript">
-        (function () {
-            var searchInput = document.getElementById('grammarSearchInput');
-            var clearBtn = document.getElementById('grammarSearchClear');
-            var DEBOUNCE_MS = 400;
-            var searchTimer = null;
-
-            function doSearch() {
-                var keyword = searchInput ? searchInput.value.trim() : '';
-                var params = new URLSearchParams(window.location.search);
-                if (keyword) params.set('keyword', keyword);
-                else params.delete('keyword');
-                params.delete('page');
-                window.location.href = '/admin/dict/grammars?' + params.toString();
-            }
-
-            function updateClearBtn() {
-                if (clearBtn) {
-                    clearBtn.style.display = searchInput.value ? '' : 'none';
-                }
-            }
-
-            if (searchInput) {
-                updateClearBtn();
-                searchInput.addEventListener('input', function () {
-                    updateClearBtn();
-                    clearTimeout(searchTimer);
-                    searchTimer = setTimeout(doSearch, DEBOUNCE_MS);
-                });
-                searchInput.addEventListener('keydown', function (e) {
-                    if (e.key === 'Enter') {
-                        clearTimeout(searchTimer);
-                        doSearch();
-                    }
-                });
-            }
-
-            if (clearBtn) {
-                clearBtn.addEventListener('click', function () {
-                    searchInput.value = '';
-                    updateClearBtn();
-                    clearTimeout(searchTimer);
-                    doSearch();
-                });
-            }
-        })();
-    </script>
 </main>
 
 </body>

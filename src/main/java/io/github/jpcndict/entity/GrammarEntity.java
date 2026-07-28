@@ -34,8 +34,4 @@ public class GrammarEntity extends BaseEntity {
      */
     @Column(columnDefinition = "_text")
     private String[] notes;
-    /**
-     * 是否人工确认
-     */
-    private Boolean isManualConfirmed;
 }

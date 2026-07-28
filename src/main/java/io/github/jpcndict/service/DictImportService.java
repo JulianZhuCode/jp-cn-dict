@@ -103,7 +103,6 @@ public class DictImportService {
         @SuppressWarnings("unchecked")
         List<String> notes = (List<String>) raw.get("notes");
         entity.setNotes(notes != null ? notes.toArray(new String[0]) : null);
-        entity.setIsManualConfirmed(Boolean.TRUE.equals(raw.get("isManualConfirmed")));
         return entity;
     }
 
@@ -123,7 +122,6 @@ public class DictImportService {
         @SuppressWarnings("unchecked")
         List<String> notes = (List<String>) raw.get("notes");
         entity.setNotes(notes != null ? notes.toArray(new String[0]) : null);
-        entity.setIsManualConfirmed(Boolean.TRUE.equals(raw.get("isManualConfirmed")));
         return entity;
     }
 
@@ -138,7 +136,6 @@ public class DictImportService {
         @SuppressWarnings("unchecked")
         List<Integer> relatedGrammars = (List<Integer>) raw.get("relatedGrammars");
         entity.setRelatedGrammars(relatedGrammars != null ? relatedGrammars.toArray(new Integer[0]) : null);
-        entity.setIsManualConfirmed(Boolean.TRUE.equals(raw.get("isManualConfirmed")));
         return entity;
     }
 
@@ -222,7 +219,6 @@ public class DictImportService {
         map.put("meaning", e.getMeaning());
         map.put("notes", e.getNotes());
         map.put("pos", e.getPos());
-        map.put("isManualConfirmed", e.getIsManualConfirmed());
         return map;
     }
 
@@ -233,7 +229,6 @@ public class DictImportService {
         map.put("reading", e.getReading());
         map.put("meaning", e.getMeaning());
         map.put("notes", e.getNotes());
-        map.put("isManualConfirmed", e.getIsManualConfirmed());
         return map;
     }
 
@@ -244,7 +239,6 @@ public class DictImportService {
         map.put("cn", e.getCn());
         map.put("relatedWords", e.getRelatedWords());
         map.put("relatedGrammars", e.getRelatedGrammars());
-        map.put("isManualConfirmed", e.getIsManualConfirmed());
         return map;
     }
 

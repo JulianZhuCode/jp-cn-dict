@@ -44,8 +44,4 @@ public class WordEntity extends BaseEntity {
      */
     @Column(length = 50)
     private String pos;
-    /**
-     * 是否人工确认
-     */
-    private Boolean isManualConfirmed;
 }

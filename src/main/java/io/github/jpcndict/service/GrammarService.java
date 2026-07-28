@@ -130,7 +130,6 @@ public class GrammarService {
         newEntity.setReading(entity.getReading());
         newEntity.setMeaning(entity.getMeaning());
         newEntity.setNotes(entity.getNotes());
-        newEntity.setIsManualConfirmed(false);
 
         return grammarRepository.save(newEntity);
     }
@@ -176,7 +175,6 @@ public class GrammarService {
                     newEntity.setReading(entity.getReading());
                     newEntity.setMeaning(entity.getMeaning());
                     newEntity.setNotes(entity.getNotes());
-                    newEntity.setIsManualConfirmed(false);
                     newEntities.add(newEntity);
                 }
             }

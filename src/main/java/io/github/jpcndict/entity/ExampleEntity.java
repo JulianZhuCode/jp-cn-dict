@@ -32,8 +32,4 @@ public class ExampleEntity extends BaseEntity {
      */
     @Column(columnDefinition = "integer[]")
     private Integer[] relatedGrammars;
-    /**
-     * 是否人工确认
-     */
-    private Boolean isManualConfirmed;
 }

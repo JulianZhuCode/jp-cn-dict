@@ -159,7 +159,6 @@ public class WordService {
         newEntity.setPos(entity.getPos());
         newEntity.setMeaning(entity.getMeaning());
         newEntity.setNotes(entity.getNotes());
-        newEntity.setIsManualConfirmed(false);
 
         return wordRepository.save(newEntity);
     }
@@ -207,7 +206,6 @@ public class WordService {
                     newEntity.setPos(entity.getPos());
                     newEntity.setMeaning(entity.getMeaning());
                     newEntity.setNotes(entity.getNotes());
-                    newEntity.setIsManualConfirmed(false);
                     newEntities.add(newEntity);
                 }
             }
