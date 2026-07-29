@@ -15,6 +15,7 @@ public class WordVO {
     private String[] meaning;
     private String[] notes;
     private String pos;
+    private String audioUrl;
 
     public String getPosDescription() {
         if (pos == null) return null;

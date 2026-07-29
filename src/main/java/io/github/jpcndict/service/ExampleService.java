@@ -31,6 +31,7 @@ public class ExampleService {
     private final ExampleMapper exampleMapper;
     private final WordRepository wordRepository;
     private final GrammarRepository grammarRepository;
+    private final AudioService audioService;
 
     /**
      * 分页查询所有例句
@@ -116,6 +117,13 @@ public class ExampleService {
         entity.setRelatedWords(request.getRelatedWords());
         entity.setRelatedGrammars(request.getRelatedGrammars());
         ExampleEntity saved = exampleRepository.save(entity);
+
+        String audioUrl = audioService.generateExampleAudio(saved.getId(), saved.getJp());
+        if (audioUrl != null) {
+            saved.setAudioUrl(audioUrl);
+            exampleRepository.save(saved);
+        }
+
         ExampleVO vo = exampleMapper.toVO(saved);
         enrichRelatedDetails(vo);
         return vo;
@@ -138,6 +146,11 @@ public class ExampleService {
         example.setRelatedWords(request.getRelatedWords());
         example.setRelatedGrammars(request.getRelatedGrammars());
 
+        String audioUrl = audioService.generateExampleAudio(example.getId(), example.getJp());
+        if (audioUrl != null) {
+            example.setAudioUrl(audioUrl);
+        }
+
         ExampleVO vo = exampleMapper.toVO(exampleRepository.save(example));
         enrichRelatedDetails(vo);
         return vo;
@@ -150,6 +163,7 @@ public class ExampleService {
     public void delete(Integer id) {
         ExampleEntity example = exampleRepository.findById(id)
                 .orElseThrow(() -> BusinessException.create("EXAMPLE_NOT_FOUND", "例句不存在，ID: " + id));
+        audioService.deleteExampleAudio(id);
         exampleRepository.delete(example);
     }
 
@@ -181,5 +195,41 @@ public class ExampleService {
                     })
                     .toList());
         }
+    }
+
+    /**
+     * 重新生成指定例句的音频
+     */
+    @Transactional
+    public boolean regenerateAudio(Integer id) {
+        ExampleEntity example = exampleRepository.findById(id)
+                .orElseThrow(() -> BusinessException.create("EXAMPLE_NOT_FOUND", "例句不存在，ID: " + id));
+        String audioUrl = audioService.generateExampleAudio(example.getId(), example.getJp());
+        if (audioUrl != null) {
+            example.setAudioUrl(audioUrl);
+            exampleRepository.save(example);
+            return true;
+        }
+        return false;
+    }
+
+    /**
+     * 批量重新生成所有例句的音频
+     */
+    @Transactional
+    public int regenerateAllAudio() {
+        List<ExampleEntity> all = exampleRepository.findAll();
+        int success = 0;
+        for (ExampleEntity example : all) {
+            String audioUrl = audioService.generateExampleAudio(example.getId(), example.getJp());
+            if (audioUrl != null) {
+                example.setAudioUrl(audioUrl);
+                success++;
+            }
+        }
+        if (success > 0) {
+            exampleRepository.saveAll(all);
+        }
+        return success;
     }
 }

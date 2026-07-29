@@ -17,4 +17,5 @@ public class WordRequest {
     private String[] meaning;
     private String[] notes;
     private String pos;
+    private String audioUrl;
 }

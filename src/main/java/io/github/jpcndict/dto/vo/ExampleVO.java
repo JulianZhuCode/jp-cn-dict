@@ -28,4 +28,5 @@ public class ExampleVO {
      * 关联语法详情（用于前端展示）
      */
     private List<GrammarVO> relatedGrammarItems;
+    private String audioUrl;
 }

@@ -32,4 +32,8 @@ public class ExampleEntity extends BaseEntity {
      */
     @Column(columnDefinition = "integer[]")
     private Integer[] relatedGrammars;
+    /**
+     * 音频URL
+     */
+    private String audioUrl;
 }

@@ -119,4 +119,24 @@ public class WordController {
     public void delete(@PathVariable Integer id) {
         wordService.delete(id);
     }
+
+    /**
+     * 重新生成单个单词音频
+     * POST /api/words/{id}/regenerate-audio
+     */
+    @PostMapping("/{id}/regenerate-audio")
+    public java.util.Map<String, Object> regenerateAudio(@PathVariable Integer id) {
+        boolean success = wordService.regenerateAudio(id);
+        return java.util.Map.of("success", success);
+    }
+
+    /**
+     * 批量重新生成所有单词音频
+     * POST /api/words/regenerate-all-audio
+     */
+    @PostMapping("/regenerate-all-audio")
+    public java.util.Map<String, Object> regenerateAllAudio() {
+        int count = wordService.regenerateAllAudio();
+        return java.util.Map.of("success", true, "count", count);
+    }
 }

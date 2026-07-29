@@ -26,6 +26,7 @@ public class WordService {
 
     private final WordRepository wordRepository;
     private final WordMapper wordMapper;
+    private final AudioService audioService;
 
     /**
      * 分页查询所有单词
@@ -105,7 +106,15 @@ public class WordService {
         entity.setMeaning(request.getMeaning());
         entity.setNotes(request.getNotes());
         entity.setPos(request.getPos());
-        return wordMapper.toVO(wordRepository.save(entity));
+        WordEntity saved = wordRepository.save(entity);
+
+        String audioUrl = audioService.generateWordAudio(saved.getId(), saved.getWord());
+        if (audioUrl != null) {
+            saved.setAudioUrl(audioUrl);
+            wordRepository.save(saved);
+        }
+
+        return wordMapper.toVO(saved);
     }
 
     /**
@@ -123,6 +132,11 @@ public class WordService {
         word.setNotes(request.getNotes());
         word.setPos(request.getPos());
 
+        String audioUrl = audioService.generateWordAudio(word.getId(), word.getWord());
+        if (audioUrl != null) {
+            word.setAudioUrl(audioUrl);
+        }
+
         return wordMapper.toVO(wordRepository.save(word));
     }
 
@@ -133,6 +147,7 @@ public class WordService {
     public void delete(Integer id) {
         WordEntity word = wordRepository.findById(id)
                 .orElseThrow(() -> BusinessException.create("WORD_NOT_FOUND", "单词不存在，ID: " + id));
+        audioService.deleteWordAudio(id);
         wordRepository.delete(word);
     }
 
@@ -226,5 +241,41 @@ public class WordService {
                 .map(entity -> existingMap.get(entity.getWord()))
                 .filter(java.util.Objects::nonNull)
                 .toList();
+    }
+
+    /**
+     * 重新生成指定单词的音频
+     */
+    @Transactional
+    public boolean regenerateAudio(Integer id) {
+        WordEntity word = wordRepository.findById(id)
+                .orElseThrow(() -> BusinessException.create("WORD_NOT_FOUND", "单词不存在，ID: " + id));
+        String audioUrl = audioService.generateWordAudio(word.getId(), word.getWord());
+        if (audioUrl != null) {
+            word.setAudioUrl(audioUrl);
+            wordRepository.save(word);
+            return true;
+        }
+        return false;
+    }
+
+    /**
+     * 批量重新生成所有单词的音频
+     */
+    @Transactional
+    public int regenerateAllAudio() {
+        List<WordEntity> all = wordRepository.findAll();
+        int success = 0;
+        for (WordEntity word : all) {
+            String audioUrl = audioService.generateWordAudio(word.getId(), word.getWord());
+            if (audioUrl != null) {
+                word.setAudioUrl(audioUrl);
+                success++;
+            }
+        }
+        if (success > 0) {
+            wordRepository.saveAll(all);
+        }
+        return success;
     }
 }

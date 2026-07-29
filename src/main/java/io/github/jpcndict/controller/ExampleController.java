@@ -98,4 +98,24 @@ public class ExampleController {
     public void delete(@PathVariable Integer id) {
         exampleService.delete(id);
     }
+
+    /**
+     * 重新生成单个例句音频
+     * POST /api/examples/{id}/regenerate-audio
+     */
+    @PostMapping("/{id}/regenerate-audio")
+    public java.util.Map<String, Object> regenerateAudio(@PathVariable Integer id) {
+        boolean success = exampleService.regenerateAudio(id);
+        return java.util.Map.of("success", success);
+    }
+
+    /**
+     * 批量重新生成所有例句音频
+     * POST /api/examples/regenerate-all-audio
+     */
+    @PostMapping("/regenerate-all-audio")
+    public java.util.Map<String, Object> regenerateAllAudio() {
+        int count = exampleService.regenerateAllAudio();
+        return java.util.Map.of("success", true, "count", count);
+    }
 }

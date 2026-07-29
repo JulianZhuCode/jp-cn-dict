@@ -59,3 +59,8 @@ spring:
           timeout: 60000 # 60秒超时释放连接
           top-p: 0.3 # 进一步压缩采样范围，减少自由发挥
           max-tokens: 4096 # 限制单次返回长度，避免超长冗余内容
+
+app:
+  audio:
+    dir: ${APP_AUDIO_DIR:./audio}
+    voice: ${APP_AUDIO_VOICE:ja-JP-NanamiNeural}

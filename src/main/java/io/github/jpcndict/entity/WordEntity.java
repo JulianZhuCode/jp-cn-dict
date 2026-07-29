@@ -44,4 +44,8 @@ public class WordEntity extends BaseEntity {
      */
     @Column(length = 50)
     private String pos;
+    /**
+     * 音频URL
+     */
+    private String audioUrl;
 }

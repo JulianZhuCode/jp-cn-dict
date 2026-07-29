@@ -20,7 +20,7 @@
         emptyMessage='未找到单词',
         baseUrl='/admin/dict/words',
         page=${page},
-        colspan=7,
+        colspan=8,
         headers=~{::#word-headers},
         rows=~{::#word-row},
         filter=~{::#word-filter}
@@ -51,6 +51,11 @@
                         </option>
                     </select>
                 </div>
+                <div class="col-md-2">
+                    <button class="btn btn-outline-warning w-100" id="regen-all-audio-btn" type="button">
+                        <i class="bi bi-arrow-repeat"></i> 全部重新生成音频
+                    </button>
+                </div>
             </div>
         </th:block>
         <th:block id="word-headers">
@@ -60,6 +65,7 @@
             <th>含义</th>
             <th>词性</th>
             <th>备注</th>
+            <th>音频</th>
             <th>操作</th>
         </th:block>
         <th:block id="word-row">
@@ -81,6 +87,26 @@
                       th:if="${item.notes != null and #arrays.length(item.notes) > 0}"
                       th:text="${n + (iterStat.last ? '' : ', ')}">verb</span>
                 <span th:unless="${item.notes != null and #arrays.length(item.notes) > 0}">-</span>
+            </td>
+            <td>
+                <button class="btn btn-outline-info btn-sm play-audio-btn"
+                        th:if="${item.audioUrl != null and !item.audioUrl.isEmpty()}"
+                        th:data-audio="${item.audioUrl}"
+                        title="播放音频">
+                    <i class="bi bi-play-fill"></i>
+                </button>
+                <button class="btn btn-outline-secondary btn-sm regen-audio-btn"
+                        th:if="${item.audioUrl != null and !item.audioUrl.isEmpty()}"
+                        th:data-id="${item.id}"
+                        title="重新生成">
+                    <i class="bi bi-arrow-repeat"></i>
+                </button>
+                <button class="btn btn-outline-primary btn-sm regen-audio-btn"
+                        th:unless="${item.audioUrl != null and !item.audioUrl.isEmpty()}"
+                        th:data-id="${item.id}"
+                        title="生成音频">
+                    <i class="bi bi-volume-up"></i>
+                </button>
             </td>
             <td class="d-flex gap-2">
                 <button class="btn btn-outline-primary btn-sm"
@@ -150,6 +176,83 @@
             </div>
         </div>
     </div>
+
+    <script th:inline="javascript">
+        (function () {
+            var currentAudio = null;
+
+            function playAudio(url) {
+                if (currentAudio) {
+                    currentAudio.pause();
+                    currentAudio = null;
+                }
+                var audio = new Audio(url);
+                currentAudio = audio;
+                audio.play().catch(function (e) {
+                    console.error('Audio play failed:', e);
+                });
+            }
+
+            document.addEventListener('click', function (e) {
+                var playBtn = e.target.closest('.play-audio-btn');
+                if (playBtn) {
+                    e.preventDefault();
+                    var url = playBtn.dataset.audio;
+                    if (url) playAudio(url);
+                    return;
+                }
+
+                var regenBtn = e.target.closest('.regen-audio-btn');
+                if (regenBtn) {
+                    e.preventDefault();
+                    var id = regenBtn.dataset.id;
+                    if (id) {
+                        regenBtn.disabled = true;
+                        regenBtn.innerHTML = '<i class="bi bi-arrow-repeat spin"></i>';
+                        fetch('/api/words/' + id + '/regenerate-audio', {method: 'POST'})
+                            .then(function (r) { return r.json(); })
+                            .then(function (d) {
+                                if (d && d.data && d.data.success) {
+                                    location.reload();
+                                } else {
+                                    alert('音频生成失败');
+                                    regenBtn.disabled = false;
+                                    regenBtn.innerHTML = '<i class="bi bi-arrow-repeat"></i>';
+                                }
+                            })
+                            .catch(function () {
+                                alert('音频生成失败');
+                                regenBtn.disabled = false;
+                                regenBtn.innerHTML = '<i class="bi bi-arrow-repeat"></i>';
+                            });
+                    }
+                    return;
+                }
+            });
+
+            var regenAllBtn = document.getElementById('regen-all-audio-btn');
+            if (regenAllBtn) {
+                regenAllBtn.addEventListener('click', function () {
+                    if (!confirm('确定要为所有单词重新生成音频吗？')) return;
+                    regenAllBtn.disabled = true;
+                    var origHtml = regenAllBtn.innerHTML;
+                    regenAllBtn.innerHTML = '<i class="bi bi-arrow-repeat spin"></i> 生成中...';
+                    fetch('/api/words/regenerate-all-audio', {method: 'POST'})
+                        .then(function (r) { return r.json(); })
+                        .then(function (d) {
+                            var count = (d && d.data && d.data.count) || 0;
+                            alert('已重新生成 ' + count + ' 个单词音频');
+                            location.reload();
+                        })
+                        .catch(function () {
+                            alert('批量生成失败');
+                            regenAllBtn.disabled = false;
+                            regenAllBtn.innerHTML = origHtml;
+                        });
+                });
+            }
+        })();
+    </script>
 </main>
 
 </body>

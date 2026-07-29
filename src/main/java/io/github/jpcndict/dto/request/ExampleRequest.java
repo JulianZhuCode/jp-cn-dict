@@ -24,4 +24,5 @@ public class ExampleRequest {
      * 关联语法ID（逗号分隔）
      */
     private Integer[] relatedGrammars;
+    private String audioUrl;
 }
