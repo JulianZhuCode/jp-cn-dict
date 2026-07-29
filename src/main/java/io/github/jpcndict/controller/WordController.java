@@ -4,6 +4,9 @@ import io.github.jpcndict.dto.request.WordRequest;
 import io.github.jpcndict.dto.vo.WordVO;
 import io.github.jpcndict.service.WordService;
 import io.github.springwhale.framework.webmvc.advice.AdviceIgnore;
+import io.github.springwhale.task.dto.request.TaskCreateRequest;
+import io.github.springwhale.task.dto.vo.TaskVO;
+import io.github.springwhale.task.service.TaskService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
@@ -12,6 +15,7 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+import java.util.Map;
 
 @RestController
 @RequestMapping("/api/words")
@@ -19,6 +23,7 @@ import java.util.List;
 public class WordController {
 
     private final WordService wordService;
+    private final TaskService taskService;
 
     /**
      * 分页查询所有单词（支持筛选）
@@ -125,18 +130,31 @@ public class WordController {
      * POST /api/words/{id}/regenerate-audio
      */
     @PostMapping("/{id}/regenerate-audio")
-    public java.util.Map<String, Object> regenerateAudio(@PathVariable Integer id) {
+    public Map<String, Object> regenerateAudio(@PathVariable Integer id) {
         boolean success = wordService.regenerateAudio(id);
-        return java.util.Map.of("success", success);
+        return Map.of("success", success);
     }
 
     /**
-     * 批量重新生成所有单词音频
+     * 创建批量单词音频生成任务（异步）
      * POST /api/words/regenerate-all-audio
+     * Body (optional): { "ids": [1,2,3], "onlyMissing": true }
+     * Returns a task that can be monitored via GET /api/tasks/{taskId}
      */
     @PostMapping("/regenerate-all-audio")
-    public java.util.Map<String, Object> regenerateAllAudio() {
-        int count = wordService.regenerateAllAudio();
-        return java.util.Map.of("success", true, "count", count);
+    public TaskVO createAudioTask(@RequestBody(required = false) Map<String, Object> params) {
+        TaskCreateRequest request = new TaskCreateRequest();
+        request.setTaskType("WORD_AUDIO");
+        request.setParams(params != null ? params : Map.of());
+        return taskService.create(request);
+    }
+
+    /**
+     * 启动已创建的音频任务
+     * POST /api/words/regenerate-all-audio/{taskId}/start
+     */
+    @PostMapping("/regenerate-all-audio/{taskId}/start")
+    public TaskVO startAudioTask(@PathVariable Integer taskId) {
+        return taskService.start(taskId);
     }
 }

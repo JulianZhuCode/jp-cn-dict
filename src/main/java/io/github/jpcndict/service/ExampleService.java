@@ -6,6 +6,8 @@ import io.github.jpcndict.dto.vo.GrammarVO;
 import io.github.jpcndict.dto.vo.WordVO;
 import io.github.jpcndict.entity.ExampleEntity;
 import io.github.jpcndict.mapper.ExampleMapper;
+import io.github.jpcndict.mapper.GrammarMapper;
+import io.github.jpcndict.mapper.WordMapper;
 import io.github.jpcndict.repository.ExampleRepository;
 import io.github.jpcndict.repository.GrammarRepository;
 import io.github.jpcndict.repository.WordRepository;
@@ -29,6 +31,8 @@ public class ExampleService {
 
     private final ExampleRepository exampleRepository;
     private final ExampleMapper exampleMapper;
+    private final WordMapper wordMapper;
+    private final GrammarMapper grammarMapper;
     private final WordRepository wordRepository;
     private final GrammarRepository grammarRepository;
     private final AudioService audioService;
@@ -174,25 +178,13 @@ public class ExampleService {
         if (vo.getRelatedWords() != null && vo.getRelatedWords().length > 0) {
             List<Integer> wordIds = Arrays.asList(vo.getRelatedWords());
             vo.setRelatedWordItems(wordRepository.findAllById(wordIds).stream()
-                    .map(w -> {
-                        WordVO wv = new WordVO();
-                        wv.setId(w.getId());
-                        wv.setWord(w.getWord());
-                        wv.setReading(w.getReading());
-                        return wv;
-                    })
+                    .map(wordMapper::toVO)
                     .toList());
         }
         if (vo.getRelatedGrammars() != null && vo.getRelatedGrammars().length > 0) {
             List<Integer> grammarIds = Arrays.asList(vo.getRelatedGrammars());
             vo.setRelatedGrammarItems(grammarRepository.findAllById(grammarIds).stream()
-                    .map(g -> {
-                        GrammarVO gv = new GrammarVO();
-                        gv.setId(g.getId());
-                        gv.setPattern(g.getPattern());
-                        gv.setReading(g.getReading());
-                        return gv;
-                    })
+                    .map(grammarMapper::toVO)
                     .toList());
         }
     }
@@ -214,16 +206,25 @@ public class ExampleService {
     }
 
     /**
-     * 批量重新生成所有例句的音频
+     * 批量重新生成所有例句的音频（并发）
      */
     @Transactional
     public int regenerateAllAudio() {
         List<ExampleEntity> all = exampleRepository.findAll();
+        if (all.isEmpty()) {
+            return 0;
+        }
+
+        List<Integer> exampleIds = all.stream().map(ExampleEntity::getId).toList();
+        List<String> exampleTexts = all.stream().map(ExampleEntity::getJp).toList();
+
+        List<String> urls = audioService.batchGenerateExampleAudio(exampleIds, exampleTexts);
+
         int success = 0;
-        for (ExampleEntity example : all) {
-            String audioUrl = audioService.generateExampleAudio(example.getId(), example.getJp());
-            if (audioUrl != null) {
-                example.setAudioUrl(audioUrl);
+        for (int i = 0; i < all.size(); i++) {
+            String url = urls.get(i);
+            if (url != null) {
+                all.get(i).setAudioUrl(url);
                 success++;
             }
         }

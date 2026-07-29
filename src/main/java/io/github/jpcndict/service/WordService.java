@@ -260,16 +260,25 @@ public class WordService {
     }
 
     /**
-     * 批量重新生成所有单词的音频
+     * 批量重新生成所有单词的音频（并发）
      */
     @Transactional
     public int regenerateAllAudio() {
         List<WordEntity> all = wordRepository.findAll();
+        if (all.isEmpty()) {
+            return 0;
+        }
+
+        List<Integer> wordIds = all.stream().map(WordEntity::getId).toList();
+        List<String> wordTexts = all.stream().map(WordEntity::getWord).toList();
+
+        List<String> urls = audioService.batchGenerateWordAudio(wordIds, wordTexts);
+
         int success = 0;
-        for (WordEntity word : all) {
-            String audioUrl = audioService.generateWordAudio(word.getId(), word.getWord());
-            if (audioUrl != null) {
-                word.setAudioUrl(audioUrl);
+        for (int i = 0; i < all.size(); i++) {
+            String url = urls.get(i);
+            if (url != null) {
+                all.get(i).setAudioUrl(url);
                 success++;
             }
         }
