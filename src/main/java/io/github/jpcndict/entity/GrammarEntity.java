@@ -29,9 +29,4 @@ public class GrammarEntity extends BaseEntity {
      */
     @Column(columnDefinition = "_text")
     private String[] meaning;
-    /**
-     * 说明
-     */
-    @Column(columnDefinition = "_text")
-    private String[] notes;
 }

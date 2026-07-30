@@ -79,7 +79,6 @@ public class GrammarService {
         entity.setPattern(request.getPattern());
         entity.setReading(request.getReading());
         entity.setMeaning(request.getMeaning());
-        entity.setNotes(request.getNotes());
         return grammarMapper.toVO(grammarRepository.save(entity));
     }
 
@@ -94,7 +93,6 @@ public class GrammarService {
         grammar.setPattern(request.getPattern());
         grammar.setReading(request.getReading());
         grammar.setMeaning(request.getMeaning());
-        grammar.setNotes(request.getNotes());
 
         return grammarMapper.toVO(grammarRepository.save(grammar));
     }
@@ -129,7 +127,6 @@ public class GrammarService {
         newEntity.setPattern(entity.getPattern());
         newEntity.setReading(entity.getReading());
         newEntity.setMeaning(entity.getMeaning());
-        newEntity.setNotes(entity.getNotes());
 
         return grammarRepository.save(newEntity);
     }
@@ -174,7 +171,6 @@ public class GrammarService {
                     newEntity.setPattern(entity.getPattern());
                     newEntity.setReading(entity.getReading());
                     newEntity.setMeaning(entity.getMeaning());
-                    newEntity.setNotes(entity.getNotes());
                     newEntities.add(newEntity);
                 }
             }

@@ -100,9 +100,6 @@ public class DictImportService {
         @SuppressWarnings("unchecked")
         List<String> meaning = (List<String>) raw.get("meaning");
         entity.setMeaning(meaning != null ? meaning.toArray(new String[0]) : null);
-        @SuppressWarnings("unchecked")
-        List<String> notes = (List<String>) raw.get("notes");
-        entity.setNotes(notes != null ? notes.toArray(new String[0]) : null);
         return entity;
     }
 
@@ -119,9 +116,6 @@ public class DictImportService {
         @SuppressWarnings("unchecked")
         List<String> meaning = (List<String>) raw.get("meaning");
         entity.setMeaning(meaning != null ? meaning.toArray(new String[0]) : null);
-        @SuppressWarnings("unchecked")
-        List<String> notes = (List<String>) raw.get("notes");
-        entity.setNotes(notes != null ? notes.toArray(new String[0]) : null);
         return entity;
     }
 
@@ -217,7 +211,6 @@ public class DictImportService {
         map.put("reading", e.getReading());
         map.put("romaji", e.getRomaji());
         map.put("meaning", e.getMeaning());
-        map.put("notes", e.getNotes());
         map.put("pos", e.getPos());
         return map;
     }
@@ -228,7 +221,6 @@ public class DictImportService {
         map.put("pattern", e.getPattern());
         map.put("reading", e.getReading());
         map.put("meaning", e.getMeaning());
-        map.put("notes", e.getNotes());
         return map;
     }
 

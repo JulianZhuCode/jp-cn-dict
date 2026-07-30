@@ -20,7 +20,7 @@
         emptyMessage='未找到单词',
         baseUrl='/admin/dict/words',
         page=${page},
-        colspan=8,
+        colspan=7,
         headers=~{::#word-headers},
         rows=~{::#word-row},
         filter=~{::#word-filter}
@@ -64,7 +64,6 @@
             <th>罗马音</th>
             <th>含义</th>
             <th>词性</th>
-            <th>备注</th>
             <th>音频</th>
             <th>操作</th>
         </th:block>
@@ -81,12 +80,6 @@
             <td>
                 <span class="badge bg-info" th:if="${item.posDescription != null}" th:text="${item.posDescription}">动词II段</span>
                 <span th:unless="${item.posDescription != null}">-</span>
-            </td>
-            <td>
-                <span th:each="n,iterStat : ${item.notes}"
-                      th:if="${item.notes != null and #arrays.length(item.notes) > 0}"
-                      th:text="${n + (iterStat.last ? '' : ', ')}">verb</span>
-                <span th:unless="${item.notes != null and #arrays.length(item.notes) > 0}">-</span>
             </td>
             <td>
                 <button class="btn btn-outline-info btn-sm play-audio-btn"
@@ -161,11 +154,6 @@
                             <label class="form-label" for="word-meaning">含义（逗号分隔）</label>
                             <input class="form-control" id="word-meaning" name="meaning" type="text">
                             <div class="invalid-feedback" data-field="meaning"></div>
-                        </div>
-                        <div class="mb-3">
-                            <label class="form-label" for="word-notes">备注（逗号分隔）</label>
-                            <input class="form-control" id="word-notes" name="notes" type="text">
-                            <div class="invalid-feedback" data-field="notes"></div>
                         </div>
                     </div>
                     <div class="modal-footer">

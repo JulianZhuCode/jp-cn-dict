@@ -20,7 +20,7 @@
         emptyMessage='未找到语法',
         baseUrl='/admin/dict/grammars',
         page=${page},
-        colspan=5,
+        colspan=4,
         headers=~{::#grammar-headers},
         rows=~{::#grammar-row},
         filter=~{::#grammar-filter}
@@ -48,7 +48,6 @@
             <th>语法条目</th>
             <th>读音</th>
             <th>含义</th>
-            <th>备注</th>
             <th>操作</th>
         </th:block>
         <th:block id="grammar-row">
@@ -59,12 +58,6 @@
                       th:if="${item.meaning != null and #arrays.length(item.meaning) > 0}"
                       th:text="${m + (iterStat.last ? '' : ', ')}">want to</span>
                 <span th:unless="${item.meaning != null and #arrays.length(item.meaning) > 0}">-</span>
-            </td>
-            <td>
-                <span th:each="n,iterStat : ${item.notes}"
-                      th:if="${item.notes != null and #arrays.length(item.notes) > 0}"
-                      th:text="${n + (iterStat.last ? '' : ', ')}">attached to masu-stem</span>
-                <span th:unless="${item.notes != null and #arrays.length(item.notes) > 0}">-</span>
             </td>
             <td class="d-flex gap-2">
                 <button class="btn btn-outline-primary btn-sm"
@@ -105,11 +98,6 @@
                             <label class="form-label" for="grammar-meaning">含义（逗号分隔）</label>
                             <input class="form-control" id="grammar-meaning" name="meaning" type="text">
                             <div class="invalid-feedback" data-field="meaning"></div>
-                        </div>
-                        <div class="mb-3">
-                            <label class="form-label" for="grammar-notes">备注（逗号分隔）</label>
-                            <input class="form-control" id="grammar-notes" name="notes" type="text">
-                            <div class="invalid-feedback" data-field="notes"></div>
                         </div>
                     </div>
                     <div class="modal-footer">

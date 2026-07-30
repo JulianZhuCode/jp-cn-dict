@@ -11,5 +11,4 @@ public class GrammarVO {
     private String pattern;
     private String reading;
     private String[] meaning;
-    private String[] notes;
 }

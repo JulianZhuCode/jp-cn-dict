@@ -1071,7 +1071,6 @@
                 var pos = data.pos || '';
                 var romaji = data.romaji || '';
                 var meanings = Array.isArray(data.meaning) ? data.meaning.filter(function(m) { return m && m.trim(); }) : [];
-                var notes = Array.isArray(data.notes) ? data.notes.filter(function(n) { return n && n.trim(); }) : [];
 
                 // Build body HTML
                 var bodyHtml = '';
@@ -1099,17 +1098,6 @@
                         '<span class="detail-value">';
                     for (var i = 0; i < meanings.length; i++) {
                         bodyHtml += '<span class="meaning-item">' + esc(meanings[i]) + '</span>';
-                    }
-                    bodyHtml += '</span></div>';
-                }
-
-                // Notes
-                if (notes.length > 0) {
-                    bodyHtml += '<div class="detail-item">' +
-                        '<span class="detail-label">备注</span>' +
-                        '<span class="detail-value">';
-                    for (var j = 0; j < notes.length; j++) {
-                        bodyHtml += '<span class="note-item">' + esc(notes[j]) + '</span>';
                     }
                     bodyHtml += '</span></div>';
                 }
@@ -1165,7 +1153,6 @@
                 var pattern = data.pattern || '';
                 var reading = data.reading || '';
                 var meanings = Array.isArray(data.meaning) ? data.meaning.filter(function(m) { return m && m.trim(); }) : [];
-                var notes = Array.isArray(data.notes) ? data.notes.filter(function(n) { return n && n.trim(); }) : [];
 
                 // Build body HTML
                 var bodyHtml = '';
@@ -1183,17 +1170,6 @@
                         '<span class="detail-value">';
                     for (var i = 0; i < meanings.length; i++) {
                         bodyHtml += '<span class="meaning-item">' + esc(meanings[i]) + '</span>';
-                    }
-                    bodyHtml += '</span></div>';
-                }
-
-                // Notes
-                if (notes.length > 0) {
-                    bodyHtml += '<div class="detail-item">' +
-                        '<span class="detail-label">备注</span>' +
-                        '<span class="detail-value">';
-                    for (var j = 0; j < notes.length; j++) {
-                        bodyHtml += '<span class="note-item">' + esc(notes[j]) + '</span>';
                     }
                     bodyHtml += '</span></div>';
                 }

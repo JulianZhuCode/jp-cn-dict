@@ -170,7 +170,6 @@ public class WordService {
         entity.setReading(request.getReading());
         // romaji 由 reading 动态生成，无需手动设置
         entity.setMeaning(request.getMeaning());
-        entity.setNotes(request.getNotes());
         entity.setPos(request.getPos());
         WordEntity saved = wordRepository.save(entity);
 
@@ -195,7 +194,6 @@ public class WordService {
         word.setReading(request.getReading());
         // romaji 由 reading 动态生成，无需手动设置
         word.setMeaning(request.getMeaning());
-        word.setNotes(request.getNotes());
         word.setPos(request.getPos());
 
         String audioUrl = audioService.generateWordAudio(word.getId(), word.getWord());
@@ -239,7 +237,6 @@ public class WordService {
         // romaji 由 reading 动态生成，无需手动设置
         newEntity.setPos(entity.getPos());
         newEntity.setMeaning(entity.getMeaning());
-        newEntity.setNotes(entity.getNotes());
 
         return wordRepository.save(newEntity);
     }
@@ -286,7 +283,6 @@ public class WordService {
                     // romaji 由 reading 动态生成，无需手动设置
                     newEntity.setPos(entity.getPos());
                     newEntity.setMeaning(entity.getMeaning());
-                    newEntity.setNotes(entity.getNotes());
                     newEntities.add(newEntity);
                 }
             }

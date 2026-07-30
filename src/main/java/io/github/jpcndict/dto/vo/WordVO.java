@@ -13,7 +13,6 @@ public class WordVO {
     private String reading;
     private String romaji;
     private String[] meaning;
-    private String[] notes;
     private String pos;
     private String audioUrl;
 

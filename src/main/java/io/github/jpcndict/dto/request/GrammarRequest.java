@@ -14,5 +14,4 @@ public class GrammarRequest {
 
     private String reading;
     private String[] meaning;
-    private String[] notes;
 }
