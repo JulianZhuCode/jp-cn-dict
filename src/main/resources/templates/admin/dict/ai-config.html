@@ -245,7 +245,7 @@
                     })
                     .catch(function (e) {
                         console.error('Load config error:', e);
-                        alert('加载配置失败: ' + e.message);
+                        showToast('加载配置失败: ' + e.message, 'error');
                     });
             });
 
@@ -331,7 +331,7 @@
                     })
                     .catch(function(e) {
                         console.error('Save error:', e);
-                        alert('保存失败: ' + e.message);
+                        showToast('保存失败: ' + e.message, 'error');
                     })
                     .finally(function() {
                         btn.disabled = false;
@@ -339,7 +339,7 @@
                     });
                 } catch (err) {
                     console.error('Save handler exception:', err);
-                    alert('保存异常: ' + err.message);
+                    showToast('保存异常: ' + err.message, 'error');
                 }
             });
         })();

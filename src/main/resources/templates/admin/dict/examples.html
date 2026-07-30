@@ -822,7 +822,7 @@
                     }
 
                     if (!result.success) {
-                        alert('AI分析失败: ' + (result.error || '未知错误'));
+                        showToast('AI分析失败: ' + (result.error || '未知错误'), 'error');
                         return;
                     }
 
@@ -864,12 +864,12 @@
                         }
                     }
 
-                    alert('AI分析完成！');
+                    showToast('AI分析完成！', 'success');
 
                 } catch (e) {
                     if (e.name !== 'AbortError') {
                         console.error('AI analyze error:', e);
-                        alert('AI分析失败: ' + e.message);
+                        showToast('AI分析失败: ' + e.message, 'error');
                     }
                 } finally {
                     aiBtn.classList.remove('loading');
@@ -1275,13 +1275,13 @@
                                 if (d && d.data && d.data.success) {
                                     location.reload();
                                 } else {
-                                    alert('音频生成失败');
+                                    showToast('音频生成失败', 'error');
                                     regenBtn.disabled = false;
                                     regenBtn.innerHTML = '<i class="bi bi-arrow-repeat"></i>';
                                 }
                             })
                             .catch(function () {
-                                alert('音频生成失败');
+                                showToast('音频生成失败', 'error');
                                 regenBtn.disabled = false;
                                 regenBtn.innerHTML = '<i class="bi bi-arrow-repeat"></i>';
                             });
@@ -1292,8 +1292,14 @@
 
             var regenAllBtn = document.getElementById('regen-all-example-audio-btn');
             if (regenAllBtn) {
-                regenAllBtn.addEventListener('click', function () {
-                    if (!confirm('确定要为所有例句重新生成音频吗？')) return;
+                regenAllBtn.addEventListener('click', async function () {
+                    var ok = await showConfirm({
+                        message: '确定要为所有例句重新生成音频吗？',
+                        type: 'warning',
+                        title: '批量生成音频',
+                        okText: '确定生成'
+                    });
+                    if (!ok) return;
                     regenAllBtn.disabled = true;
                     var origHtml = regenAllBtn.innerHTML;
                     regenAllBtn.innerHTML = '<i class="bi bi-arrow-repeat spin"></i> 创建任务中...';
@@ -1302,16 +1308,18 @@
                         .then(function (d) {
                             var task = d && d.data;
                             if (task && task.id) {
-                                alert('音频生成任务已创建 (ID: ' + task.id + ')，请前往任务管理页面查看进度');
-                                window.location.href = '/admin/task/batch';
+                                showToast('音频生成任务已创建 (ID: ' + task.id + ')，正在跳转...', 'success');
+                                setTimeout(function () {
+                                    window.location.href = '/admin/task/batch';
+                                }, 1200);
                             } else {
-                                alert('任务创建失败');
+                                showToast('任务创建失败', 'error');
                                 regenAllBtn.disabled = false;
                                 regenAllBtn.innerHTML = origHtml;
                             }
                         })
                         .catch(function () {
-                            alert('任务创建失败');
+                            showToast('任务创建失败', 'error');
                             regenAllBtn.disabled = false;
                             regenAllBtn.innerHTML = origHtml;
                         });
