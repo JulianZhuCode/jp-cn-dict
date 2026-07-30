@@ -95,7 +95,7 @@ public class DictImportService {
         entity.setId(toInt(raw.get("id")));
         entity.setWord((String) raw.get("word"));
         entity.setReading((String) raw.get("reading"));
-        entity.setRomaji((String) raw.get("romaji"));
+        // romaji 由 reading 动态生成，无需导入持久化
         entity.setPos((String) raw.get("pos"));
         @SuppressWarnings("unchecked")
         List<String> meaning = (List<String>) raw.get("meaning");

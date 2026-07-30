@@ -15,8 +15,6 @@ public interface WordRepository extends JpaRepository<WordEntity, Integer>, JpaS
 
     Optional<WordEntity> findByReading(String reading);
 
-    Optional<WordEntity> findByRomaji(String romaji);
-
     List<WordEntity> findByWordContaining(String word);
 
     List<WordEntity> findByReadingContaining(String reading);

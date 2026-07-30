@@ -57,10 +57,16 @@ public class WordService {
     }
 
     /**
-     * 根据罗马音精确查询
+     * 根据罗马音精确查询（内存中过滤，因为 romaji 不持久化在 DB 中）
      */
     public Optional<WordVO> findByRomaji(String romaji) {
-        return wordRepository.findByRomaji(romaji).map(wordMapper::toVO);
+        if (romaji == null || romaji.isEmpty()) {
+            return Optional.empty();
+        }
+        return wordRepository.findAll().stream()
+                .filter(w -> romaji.equalsIgnoreCase(w.getRomaji()))
+                .findFirst()
+                .map(wordMapper::toVO);
     }
 
     /**
@@ -82,16 +88,76 @@ public class WordService {
 
     /**
      * 分页搜索单词（支持关键字模糊搜索 + 词性筛选）
+     * <p>
+     * 因为 romaji 字段不再存储在数据库中（@Transient 动态生成），
+     * 所以：数据库仅按 word/reading 模糊查询 + 词性筛选，
+     * 再在结果中对 romaji 做忽略大小写的 contains 匹配（合并去重）。
      */
     public Page<WordVO> search(String keyword, String pos, Pageable pageable) {
+        // 1) DB 查询：按 word/reading + pos 筛选
         var spec = JpaQueryWrapper.of(WordEntity.class)
                 .or(!ObjectUtils.isEmpty(keyword), w -> w
                         .likeIgnoreCase(WordEntity::getWord, keyword)
-                        .likeIgnoreCase(WordEntity::getReading, keyword)
-                        .likeIgnoreCase(WordEntity::getRomaji, keyword))
+                        .likeIgnoreCase(WordEntity::getReading, keyword))
                 .eq(!ObjectUtils.isEmpty(pos), WordEntity::getPos, pos)
                 .buildSpec();
-        return wordRepository.findAll(spec, pageable).map(wordMapper::toVO);
+
+        // 若关键字为空则直接走 DB 分页
+        if (ObjectUtils.isEmpty(keyword)) {
+            return wordRepository.findAll(spec, pageable).map(wordMapper::toVO);
+        }
+
+        // 2) 有 keyword 时，需要从 DB 查 word/reading 匹配，并补 romaji 内存匹配
+        List<WordEntity> dbList = wordRepository.findAll(spec);
+        String kwLower = keyword.toLowerCase();
+
+        // 3) 从全量词库中补 romaji 匹配的词（按同样的 pos 过滤），避免分页结果遗漏
+        //    为了避免重复：先收集 dbList 中已有的 id
+        java.util.Set<Integer> seenIds = dbList.stream()
+                .map(WordEntity::getId)
+                .filter(java.util.Objects::nonNull)
+                .collect(java.util.stream.Collectors.toSet());
+
+        // 判断单个实体是否满足 romaji 匹配
+        java.util.function.Predicate<WordEntity> romajiMatch = w -> {
+            String r = w.getRomaji();
+            if (r == null) return false;
+            return r.toLowerCase().contains(kwLower);
+        };
+
+        List<WordEntity> romajiExtras = new ArrayList<>();
+        if (!ObjectUtils.isEmpty(pos)) {
+            // pos 相同时直接在 pos 集合中找
+            List<WordEntity> posList = wordRepository.findByPos(pos);
+            for (WordEntity w : posList) {
+                if (!seenIds.contains(w.getId()) && romajiMatch.test(w)) {
+                    romajiExtras.add(w);
+                    seenIds.add(w.getId());
+                }
+            }
+        } else {
+            // pos 空 -> 在全量中匹配 romaji（避免 findAll 太频繁，只在已查出 dbList 的 seenIds 基础上扫一次全量即可）
+            for (WordEntity w : wordRepository.findAll()) {
+                if (!seenIds.contains(w.getId()) && romajiMatch.test(w)) {
+                    romajiExtras.add(w);
+                    seenIds.add(w.getId());
+                }
+            }
+        }
+
+        // 4) 合并结果并手动分页（按 pageable 的排序如果是 Spring 默认 id，这里简化按 id 排序；与 DB 默认策略一致）
+        List<WordEntity> merged = new ArrayList<>(dbList.size() + romajiExtras.size());
+        merged.addAll(dbList);
+        merged.addAll(romajiExtras);
+        merged.sort(java.util.Comparator.comparing(WordEntity::getId, java.util.Comparator.nullsLast(Integer::compareTo)));
+
+        int total = merged.size();
+        int start = (int) pageable.getOffset();
+        int end = Math.min(start + pageable.getPageSize(), total);
+        List<WordEntity> pageContent = (start >= total) ? List.of() : merged.subList(start, end);
+
+        List<WordVO> voContent = pageContent.stream().map(wordMapper::toVO).toList();
+        return new org.springframework.data.domain.PageImpl<>(voContent, pageable, total);
     }
 
     /**
@@ -102,7 +168,7 @@ public class WordService {
         WordEntity entity = new WordEntity();
         entity.setWord(request.getWord());
         entity.setReading(request.getReading());
-        entity.setRomaji(request.getRomaji());
+        // romaji 由 reading 动态生成，无需手动设置
         entity.setMeaning(request.getMeaning());
         entity.setNotes(request.getNotes());
         entity.setPos(request.getPos());
@@ -127,7 +193,7 @@ public class WordService {
 
         word.setWord(request.getWord());
         word.setReading(request.getReading());
-        word.setRomaji(request.getRomaji());
+        // romaji 由 reading 动态生成，无需手动设置
         word.setMeaning(request.getMeaning());
         word.setNotes(request.getNotes());
         word.setPos(request.getPos());
@@ -170,7 +236,7 @@ public class WordService {
         WordEntity newEntity = new WordEntity();
         newEntity.setWord(entity.getWord());
         newEntity.setReading(entity.getReading());
-        newEntity.setRomaji(entity.getRomaji());
+        // romaji 由 reading 动态生成，无需手动设置
         newEntity.setPos(entity.getPos());
         newEntity.setMeaning(entity.getMeaning());
         newEntity.setNotes(entity.getNotes());
@@ -217,7 +283,7 @@ public class WordService {
                     WordEntity newEntity = new WordEntity();
                     newEntity.setWord(entity.getWord());
                     newEntity.setReading(entity.getReading());
-                    newEntity.setRomaji(entity.getRomaji());
+                    // romaji 由 reading 动态生成，无需手动设置
                     newEntity.setPos(entity.getPos());
                     newEntity.setMeaning(entity.getMeaning());
                     newEntity.setNotes(entity.getNotes());
