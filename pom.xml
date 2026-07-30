@@ -45,15 +45,6 @@
             <artifactId>lombok</artifactId>
         </dependency>
         <dependency>
-            <groupId>org.mapstruct</groupId>
-            <artifactId>mapstruct</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.mapstruct</groupId>
-            <artifactId>mapstruct-processor</artifactId>
-            <scope>provided</scope>
-        </dependency>
-        <dependency>
             <groupId>org.springframework.ai</groupId>
             <artifactId>spring-ai-starter-model-deepseek</artifactId>
         </dependency>

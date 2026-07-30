@@ -1296,16 +1296,22 @@
                     if (!confirm('确定要为所有例句重新生成音频吗？')) return;
                     regenAllBtn.disabled = true;
                     var origHtml = regenAllBtn.innerHTML;
-                    regenAllBtn.innerHTML = '<i class="bi bi-arrow-repeat spin"></i> 生成中...';
+                    regenAllBtn.innerHTML = '<i class="bi bi-arrow-repeat spin"></i> 创建任务中...';
                     fetch('/api/examples/regenerate-all-audio', {method: 'POST'})
                         .then(function (r) { return r.json(); })
                         .then(function (d) {
-                            var count = (d && d.data && d.data.count) || 0;
-                            alert('已重新生成 ' + count + ' 个例句音频');
-                            location.reload();
+                            var task = d && d.data;
+                            if (task && task.id) {
+                                alert('音频生成任务已创建 (ID: ' + task.id + ')，请前往任务管理页面查看进度');
+                                window.location.href = '/admin/task/batch';
+                            } else {
+                                alert('任务创建失败');
+                                regenAllBtn.disabled = false;
+                                regenAllBtn.innerHTML = origHtml;
+                            }
                         })
                         .catch(function () {
-                            alert('批量生成失败');
+                            alert('任务创建失败');
                             regenAllBtn.disabled = false;
                             regenAllBtn.innerHTML = origHtml;
                         });

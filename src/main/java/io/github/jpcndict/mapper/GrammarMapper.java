@@ -2,25 +2,51 @@ package io.github.jpcndict.mapper;
 
 import io.github.jpcndict.dto.vo.GrammarVO;
 import io.github.jpcndict.entity.GrammarEntity;
-import org.mapstruct.Mapper;
+import org.springframework.beans.BeanUtils;
+import org.springframework.stereotype.Component;
 
 import java.util.List;
+import java.util.stream.Collectors;
 
 /**
- * 语法实体与VO转换器（MapStruct）
+ * 语法实体与VO转换器
  */
-@Mapper(componentModel = "spring")
-public interface GrammarMapper {
+@Component
+public class GrammarMapper {
 
-    GrammarVO toVO(GrammarEntity entity);
+    /**
+     * Entity → VO
+     */
+    public GrammarVO toVO(GrammarEntity entity) {
+        if (entity == null) {
+            return null;
+        }
+        GrammarVO vo = new GrammarVO();
+        BeanUtils.copyProperties(entity, vo);
+        return vo;
+    }
 
     /**
      * VO → Entity
      */
-    GrammarEntity toEntity(GrammarVO vo);
+    public GrammarEntity toEntity(GrammarVO vo) {
+        if (vo == null) {
+            return null;
+        }
+        GrammarEntity entity = new GrammarEntity();
+        BeanUtils.copyProperties(vo, entity);
+        return entity;
+    }
 
     /**
      * Entity列表 → VO列表
      */
-    List<GrammarVO> toVOList(List<GrammarEntity> entities);
+    public List<GrammarVO> toVOList(List<GrammarEntity> entities) {
+        if (entities == null) {
+            return null;
+        }
+        return entities.stream()
+                .map(this::toVO)
+                .collect(Collectors.toList());
+    }
 }

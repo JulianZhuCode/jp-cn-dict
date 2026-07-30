@@ -136,17 +136,21 @@ public class WordController {
     }
 
     /**
-     * 创建批量单词音频生成任务（异步）
+     * 创建并启动批量单词音频生成任务（异步）
      * POST /api/words/regenerate-all-audio
      * Body (optional): { "ids": [1,2,3], "onlyMissing": true }
-     * Returns a task that can be monitored via GET /api/tasks/{taskId}
+     * Returns task info with ID for monitoring at /tasks page
      */
     @PostMapping("/regenerate-all-audio")
-    public TaskVO createAudioTask(@RequestBody(required = false) Map<String, Object> params) {
+    public TaskVO createAndStartAudioTask(@RequestBody(required = false) Map<String, Object> params) {
         TaskCreateRequest request = new TaskCreateRequest();
         request.setTaskType("WORD_AUDIO");
         request.setParams(params != null ? params : Map.of());
-        return taskService.create(request);
+        TaskVO task = taskService.create(request);
+        if (task.getStatus() == io.github.springwhale.task.enums.TaskStatus.PENDING) {
+            task = taskService.start(task.getId());
+        }
+        return task;
     }
 
     /**

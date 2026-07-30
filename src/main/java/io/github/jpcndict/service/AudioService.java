@@ -65,6 +65,18 @@ public class AudioService {
     }
 
     /**
+     * Batch generate audio for multiple words concurrently with per-item callback.
+     *
+     * @param wordIds       list of word IDs
+     * @param wordTexts     list of corresponding word texts
+     * @param itemCallback  callback invoked immediately after each item completes (id, success, url)
+     */
+    public void batchGenerateWordAudio(List<Integer> wordIds, List<String> wordTexts,
+                                       AudioItemCallback itemCallback) {
+        batchGenerateAudio("word", wordIds, wordTexts, itemCallback);
+    }
+
+    /**
      * Batch generate audio for multiple examples concurrently.
      *
      * @param exampleIds   list of example IDs
@@ -73,6 +85,45 @@ public class AudioService {
      */
     public List<String> batchGenerateExampleAudio(List<Integer> exampleIds, List<String> exampleTexts) {
         return batchGenerateAudio("example", exampleIds, exampleTexts);
+    }
+
+    /**
+     * Batch generate audio for multiple examples concurrently with per-item callback.
+     *
+     * @param exampleIds    list of example IDs
+     * @param exampleTexts  list of corresponding example texts
+     * @param itemCallback  callback invoked immediately after each item completes (id, success, url)
+     */
+    public void batchGenerateExampleAudio(List<Integer> exampleIds, List<String> exampleTexts,
+                                          AudioItemCallback itemCallback) {
+        batchGenerateAudio("example", exampleIds, exampleTexts, itemCallback);
+    }
+
+    /**
+     * Callback interface for per-item audio generation results.
+     */
+    @FunctionalInterface
+    public interface AudioItemCallback {
+        /**
+         * Called when a single item's audio generation completes, with error details.
+         *
+         * @param id            the item ID
+         * @param success       true if successful
+         * @param url           the generated URL, or null if failed
+         * @param errorMessage  error details when failed
+         */
+        void onItemResult(int id, boolean success, String url, String errorMessage);
+
+        /**
+         * Called when a single item's audio generation completes.
+         *
+         * @param id      the item ID
+         * @param success true if successful
+         * @param url     the generated URL, or null if failed
+         */
+        default void onItemResult(int id, boolean success, String url) {
+            onItemResult(id, success, url, null);
+        }
     }
 
     /**
@@ -160,6 +211,53 @@ public class AudioService {
             urls.add(resultMap.get(String.valueOf(id)));
         }
         return urls;
+    }
+
+    private void batchGenerateAudio(String type, List<Integer> ids, List<String> texts,
+                                    AudioItemCallback itemCallback) {
+        if (ids == null || ids.isEmpty()) {
+            return;
+        }
+
+        Path dirPath = Paths.get(audioDir, type);
+        try {
+            Files.createDirectories(dirPath);
+        } catch (IOException e) {
+            log.warn("Failed to create directory for type={}", type, e);
+        }
+
+        List<EdgeTtsUtil.TtsRequest> requests = new ArrayList<>(ids.size());
+        for (int i = 0; i < ids.size(); i++) {
+            Integer id = ids.get(i);
+            String text = texts.get(i);
+            if (text == null || text.isBlank()) {
+                if (itemCallback != null) {
+                    itemCallback.onItemResult(id, false, null, "文本内容为空，跳过生成");
+                }
+                continue;
+            }
+            Path filePath = dirPath.resolve(id + ".mp3");
+            requests.add(new EdgeTtsUtil.TtsRequest(
+                    String.valueOf(id), text, voice, filePath.toString()));
+        }
+
+        if (requests.isEmpty()) {
+            return;
+        }
+
+        edgeTtsUtil.ttsToMp3Batch(requests, result -> {
+            int itemId = Integer.parseInt(result.id());
+            String url = result.success() ? "/audio/" + type + "/" + result.id() + ".mp3" : null;
+            if (!result.success()) {
+                log.warn("Batch audio generation failed: type={}, id={}, error={}",
+                        type, result.id(), result.errorMessage());
+            }
+            if (itemCallback != null) {
+                String errMsg = result.success() ? null :
+                        (result.errorMessage() != null ? result.errorMessage() : "音频生成失败");
+                itemCallback.onItemResult(itemId, result.success(), url, errMsg);
+            }
+        });
     }
 
     private void deleteAudio(String type, Integer id) {
