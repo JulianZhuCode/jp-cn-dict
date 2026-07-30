@@ -7,8 +7,11 @@ import io.github.jpcndict.entity.WordEntity;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.ai.chat.client.ChatClient;
+import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+import org.springframework.transaction.support.TransactionSynchronization;
+import org.springframework.transaction.support.TransactionSynchronizationManager;
 import tools.jackson.databind.ObjectMapper;
 
 import java.util.ArrayList;
@@ -27,11 +30,12 @@ public class ExampleAiService {
     private final ChatClient chatClient;
     private final WordService wordService;
     private final GrammarService grammarService;
+    private final AudioService audioService;
     private final AiPromptConfigService aiPromptConfigService;
     private final ObjectMapper objectMapper;
 
     /**
-     * AI分析日语例句，自动创建不存在的单词和语法
+     * AI分析日语例句，自动创建不存在的单词和语法，并为新单词生成音频
      */
     @Transactional
     public AiAnalyzeResult analyze(String jp) {
@@ -55,6 +59,14 @@ public class ExampleAiService {
             List<WordEntity> savedWords = wordService.findOrCreateBatch(wordEntities);
             List<GrammarEntity> savedGrammars = grammarService.findOrCreateBatch(grammarEntities);
 
+            // 为 audioUrl 为空的单词批量生成音频（同步，AI分析一次识别的新单词通常不多）
+            List<WordEntity> needAudio = savedWords.stream()
+                    .filter(w -> w.getAudioUrl() == null || w.getAudioUrl().isEmpty())
+                    .toList();
+            if (!needAudio.isEmpty()) {
+                generateAudioForWords(needAudio);
+            }
+
             // 将实体转换回AI分析结果格式
             List<AiAnalyzeResult.WordAnalysis> wordResults = savedWords.stream()
                     .map(this::toWordAnalysis)
@@ -74,6 +86,32 @@ public class ExampleAiService {
         } catch (Exception e) {
             log.error("AI分析例句失败: {}", e.getMessage(), e);
             return AiAnalyzeResult.failure("AI分析失败: " + e.getMessage());
+        }
+    }
+
+    /**
+     * 为多个单词批量生成音频并保存。
+     * 音频生成失败不影响整体流程，仅打印日志。
+     */
+    private void generateAudioForWords(List<WordEntity> words) {
+        List<Integer> ids = words.stream().map(WordEntity::getId).toList();
+        List<String> texts = words.stream().map(WordEntity::getWord).toList();
+        try {
+            audioService.batchGenerateWordAudio(ids, texts, (id, success, url, errMsg) -> {
+                if (success && url != null) {
+                    // 找到对应实体并更新 URL
+                    words.stream()
+                            .filter(w -> w.getId() != null && w.getId().equals(id))
+                            .findFirst()
+                            .ifPresent(w -> w.setAudioUrl(url));
+                } else {
+                    log.warn("AI分析后为单词(id={})生成音频失败: {}", id, errMsg);
+                }
+            });
+            // 统一保存更新后的单词
+            wordService.saveAll(words);
+        } catch (Exception e) {
+            log.error("批量为新单词生成音频失败: {}", e.getMessage(), e);
         }
     }
 

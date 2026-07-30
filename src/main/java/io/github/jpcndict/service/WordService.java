@@ -244,6 +244,15 @@ public class WordService {
     }
 
     /**
+     * 批量保存单词（用于批量更新音频URL等）
+     */
+    @Transactional
+    public List<WordEntity> saveAll(List<WordEntity> entities) {
+        if (entities == null || entities.isEmpty()) return List.of();
+        return wordRepository.saveAll(entities);
+    }
+
+    /**
      * 重新生成指定单词的音频
      */
     @Transactional
