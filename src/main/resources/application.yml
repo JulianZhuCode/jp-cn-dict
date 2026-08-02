@@ -50,6 +50,7 @@ spring:
         format_sql: true
   flyway:
     baseline-on-migrate: true
+    baseline-version: 0
     batch: true
     connect-retries: 3
     connect-retries-interval: 3
