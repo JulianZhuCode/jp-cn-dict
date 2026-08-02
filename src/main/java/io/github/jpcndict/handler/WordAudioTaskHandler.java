@@ -4,7 +4,7 @@ import io.github.jpcndict.entity.WordEntity;
 import io.github.jpcndict.repository.WordRepository;
 import io.github.jpcndict.service.AudioService;
 import io.github.jpcndict.service.WordService;
-import io.github.springwhale.task.handler.TaskHandler;
+import io.github.springwhale.platform.task.handler.TaskHandler;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
@@ -33,6 +33,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 @Slf4j
 public class WordAudioTaskHandler implements TaskHandler {
 
+    private static final int CHUNK_SIZE = 100;
     private final WordService wordService;
     private final WordRepository wordRepository;
     private final AudioService audioService;
@@ -72,8 +73,6 @@ public class WordAudioTaskHandler implements TaskHandler {
         int wordId = Integer.parseInt(itemKey.split(":")[1]);
         return wordService.regenerateAudio(wordId);
     }
-
-    private static final int CHUNK_SIZE = 100;
 
     @Override
     public void processBatch(List<String> itemKeys, Map<String, Object> params,

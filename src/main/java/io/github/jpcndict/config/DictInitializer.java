@@ -2,9 +2,9 @@ package io.github.jpcndict.config;
 
 import io.github.jpcndict.entity.AiPromptConfigEntity;
 import io.github.jpcndict.repository.AiPromptConfigRepository;
-import io.github.springwhale.rbac.constant.RbacConstants;
-import io.github.springwhale.rbac.entity.MenuEntity;
-import io.github.springwhale.rbac.repository.MenuRepository;
+import io.github.springwhale.platform.rbac.constant.RbacConstants;
+import io.github.springwhale.platform.rbac.entity.MenuEntity;
+import io.github.springwhale.platform.rbac.repository.MenuRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.jspecify.annotations.NonNull;
@@ -117,12 +117,12 @@ public class DictInitializer implements CommandLineRunner {
             config.setPromptName("例句分析");
             config.setSystemPrompt("""
                     日语句子分析助手。请分析日语句子，提取单词和语法，给出中文翻译。
-
+                    
                     规则：
                     1. 单词：名词、动词原形、形容词等实词，含word/reading/pos/meaning。pos枚举：NOUN、VERB_I、VERB_II、VERB_III、VERB_TRANS、ADJ_I、ADJ_NA、ADV、PART、AUX、CONJ、PRON、INTERJ、PHRASE、PRENOM、PREFIX、SUFFIX、NUM、COUNTER、GREET、SENTENCE、GRAMMAR、UNKNOWN。
                     2. 语法：助词、助动词、语法模式，pattern用「〜」占位（如〜て、〜た、〜ます）。含义需包含接续规则、用法、场景，不与单词重复。
                     3. 中文翻译准确。
-
+                    
                     返回JSON（无其他文本）：
                     {"success":true,"cn":"翻译","words":[{"word":"词","reading":"音","pos":"NOUN","meaning":["义"]}],"grammars":[{"pattern":"〜て","reading":"〜て","meaning":["接动词连用形，表示动作进行"]}],"model":"deepseek-v4-flash-260425"}
                     失败返回：{"success":false,"error":"原因"}

@@ -7,9 +7,10 @@ import io.github.jpcndict.dto.vo.ExampleVO;
 import io.github.jpcndict.service.ExampleAiService;
 import io.github.jpcndict.service.ExampleService;
 import io.github.springwhale.framework.webmvc.advice.AdviceIgnore;
-import io.github.springwhale.task.dto.request.TaskCreateRequest;
-import io.github.springwhale.task.dto.vo.TaskVO;
-import io.github.springwhale.task.service.TaskService;
+import io.github.springwhale.platform.task.dto.request.TaskCreateRequest;
+import io.github.springwhale.platform.task.dto.vo.TaskVO;
+import io.github.springwhale.platform.task.enums.TaskStatus;
+import io.github.springwhale.platform.task.service.TaskService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
@@ -17,7 +18,6 @@ import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.List;
 import java.util.Map;
 
 @RestController
@@ -126,7 +126,7 @@ public class ExampleController {
         request.setTaskType("EXAMPLE_AUDIO");
         request.setParams(params != null ? params : Map.of());
         TaskVO task = taskService.create(request);
-        if (task.getStatus() == io.github.springwhale.task.enums.TaskStatus.PENDING) {
+        if (task.getStatus() == TaskStatus.PENDING) {
             task = taskService.start(task.getId());
         }
         return task;

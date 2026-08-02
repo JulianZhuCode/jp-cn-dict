@@ -20,19 +20,19 @@
     <dependencies>
         <dependency>
             <groupId>io.github.julianzhucode</groupId>
-            <artifactId>spring-whale-rbac</artifactId>
+            <artifactId>spring-whale-platform-rbac</artifactId>
         </dependency>
         <dependency>
             <groupId>io.github.julianzhucode</groupId>
-            <artifactId>spring-whale-rbac-ui</artifactId>
+            <artifactId>spring-whale-platform-rbac-ui</artifactId>
         </dependency>
         <dependency>
             <groupId>io.github.julianzhucode</groupId>
-            <artifactId>spring-whale-task</artifactId>
+            <artifactId>spring-whale-platform-task</artifactId>
         </dependency>
         <dependency>
             <groupId>io.github.julianzhucode</groupId>
-            <artifactId>spring-whale-task-ui</artifactId>
+            <artifactId>spring-whale-platform-task-ui</artifactId>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>

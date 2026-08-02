@@ -4,9 +4,10 @@ import io.github.jpcndict.dto.request.WordRequest;
 import io.github.jpcndict.dto.vo.WordVO;
 import io.github.jpcndict.service.WordService;
 import io.github.springwhale.framework.webmvc.advice.AdviceIgnore;
-import io.github.springwhale.task.dto.request.TaskCreateRequest;
-import io.github.springwhale.task.dto.vo.TaskVO;
-import io.github.springwhale.task.service.TaskService;
+import io.github.springwhale.platform.task.dto.request.TaskCreateRequest;
+import io.github.springwhale.platform.task.dto.vo.TaskVO;
+import io.github.springwhale.platform.task.enums.TaskStatus;
+import io.github.springwhale.platform.task.service.TaskService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
@@ -147,7 +148,7 @@ public class WordController {
         request.setTaskType("WORD_AUDIO");
         request.setParams(params != null ? params : Map.of());
         TaskVO task = taskService.create(request);
-        if (task.getStatus() == io.github.springwhale.task.enums.TaskStatus.PENDING) {
+        if (task.getStatus() == TaskStatus.PENDING) {
             task = taskService.start(task.getId());
         }
         return task;

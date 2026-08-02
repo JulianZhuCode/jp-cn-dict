@@ -4,7 +4,7 @@ import io.github.jpcndict.entity.ExampleEntity;
 import io.github.jpcndict.repository.ExampleRepository;
 import io.github.jpcndict.service.AudioService;
 import io.github.jpcndict.service.ExampleService;
-import io.github.springwhale.task.handler.TaskHandler;
+import io.github.springwhale.platform.task.handler.TaskHandler;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
@@ -33,6 +33,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 @Slf4j
 public class ExampleAudioTaskHandler implements TaskHandler {
 
+    private static final int CHUNK_SIZE = 100;
     private final ExampleService exampleService;
     private final ExampleRepository exampleRepository;
     private final AudioService audioService;
@@ -72,8 +73,6 @@ public class ExampleAudioTaskHandler implements TaskHandler {
         int exampleId = Integer.parseInt(itemKey.split(":")[1]);
         return exampleService.regenerateAudio(exampleId);
     }
-
-    private static final int CHUNK_SIZE = 100;
 
     @Override
     public void processBatch(List<String> itemKeys, Map<String, Object> params,
