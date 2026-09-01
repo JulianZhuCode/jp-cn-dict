@@ -1,5 +1,7 @@
 package io.github.jpcndict.service;
 
+import io.github.springwhale.framework.core.model.TtsRequest;
+import io.github.springwhale.framework.core.model.TtsResult;
 import io.github.springwhale.framework.core.utils.EdgeTtsUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
@@ -19,14 +21,11 @@ import java.util.Map;
 @Slf4j
 public class AudioService {
 
-    private final EdgeTtsUtil edgeTtsUtil;
     private final String audioDir;
     private final String voice;
 
-    public AudioService(EdgeTtsUtil edgeTtsUtil,
-                        @Value("${app.audio.dir:./audio}") String audioDir,
+    public AudioService(@Value("${app.audio.dir:./audio}") String audioDir,
                         @Value("${app.audio.voice:ja-JP-NanamiNeural}") String voice) {
-        this.edgeTtsUtil = edgeTtsUtil;
         this.audioDir = audioDir;
         this.voice = voice;
     }
@@ -151,13 +150,13 @@ public class AudioService {
         try {
             Files.createDirectories(dirPath);
 
-            boolean success = edgeTtsUtil.ttsToMp3(text, voice, filePath.toString());
-            if (success) {
+            TtsResult result = EdgeTtsUtil.ttsToMp3(text, voice, filePath.toString());
+            if (result.success()) {
                 String url = "/audio/" + type + "/" + id + ".mp3";
                 log.info("Generated audio: type={}, id={}, url={}", type, id, url);
                 return url;
             } else {
-                log.warn("Failed to generate audio: type={}, id={}", type, id);
+                log.warn("Failed to generate audio: type={}, id={}, error={}", type, id, result.errorMessage());
                 return null;
             }
         } catch (Exception e) {
@@ -178,7 +177,7 @@ public class AudioService {
             log.warn("Failed to create directory for type={}", type, e);
         }
 
-        List<EdgeTtsUtil.TtsRequest> requests = new ArrayList<>(ids.size());
+        List<TtsRequest> requests = new ArrayList<>(ids.size());
         for (int i = 0; i < ids.size(); i++) {
             Integer id = ids.get(i);
             String text = texts.get(i);
@@ -186,7 +185,7 @@ public class AudioService {
                 continue;
             }
             Path filePath = dirPath.resolve(id + ".mp3");
-            requests.add(new EdgeTtsUtil.TtsRequest(
+            requests.add(new TtsRequest(
                     String.valueOf(id), text, voice, filePath.toString()));
         }
 
@@ -194,10 +193,10 @@ public class AudioService {
             return new ArrayList<>(Collections.nCopies(ids.size(), null));
         }
 
-        List<EdgeTtsUtil.TtsResult> results = edgeTtsUtil.ttsToMp3Batch(requests);
+        List<TtsResult> results = EdgeTtsUtil.ttsToMp3Batch(requests);
 
         Map<String, String> resultMap = new HashMap<>();
-        for (EdgeTtsUtil.TtsResult result : results) {
+        for (TtsResult result : results) {
             if (result.success()) {
                 resultMap.put(result.id(), "/audio/" + type + "/" + result.id() + ".mp3");
             } else {
@@ -226,7 +225,7 @@ public class AudioService {
             log.warn("Failed to create directory for type={}", type, e);
         }
 
-        List<EdgeTtsUtil.TtsRequest> requests = new ArrayList<>(ids.size());
+        List<TtsRequest> requests = new ArrayList<>(ids.size());
         for (int i = 0; i < ids.size(); i++) {
             Integer id = ids.get(i);
             String text = texts.get(i);
@@ -237,7 +236,7 @@ public class AudioService {
                 continue;
             }
             Path filePath = dirPath.resolve(id + ".mp3");
-            requests.add(new EdgeTtsUtil.TtsRequest(
+            requests.add(new TtsRequest(
                     String.valueOf(id), text, voice, filePath.toString()));
         }
 
@@ -245,7 +244,8 @@ public class AudioService {
             return;
         }
 
-        edgeTtsUtil.ttsToMp3Batch(requests, result -> {
+        List<TtsResult> results = EdgeTtsUtil.ttsToMp3Batch(requests);
+        for (TtsResult result : results) {
             int itemId = Integer.parseInt(result.id());
             String url = result.success() ? "/audio/" + type + "/" + result.id() + ".mp3" : null;
             if (!result.success()) {
@@ -257,7 +257,7 @@ public class AudioService {
                         (result.errorMessage() != null ? result.errorMessage() : "音频生成失败");
                 itemCallback.onItemResult(itemId, result.success(), url, errMsg);
             }
-        });
+        }
     }
 
     private void deleteAudio(String type, Integer id) {
