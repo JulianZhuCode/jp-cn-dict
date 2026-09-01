@@ -25,6 +25,12 @@ spring:
           max-age: 0
       chain:
         cache: false
+    cors:
+      allowed-origin-patterns: "*"
+      allowed-methods: "*"
+      allowed-headers: "*"
+      max-age: 3600
+      allow-credentials: true
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: org.postgresql.Driver
