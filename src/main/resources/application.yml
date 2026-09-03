@@ -13,6 +13,10 @@ spring:
   whale:
     i18n:
       enabled: false
+    edge-tts:
+      command: ${EDGE_TTS_COMMAND:edge-tts}
+      timeout-seconds: ${EDGE_TTS_TIMEOUT:30}
+      concurrency: ${EDGE_TTS_CONCURRENCY:0}
   application:
     name: jp-cn-dict
   messages:
@@ -83,8 +87,3 @@ app:
   audio:
     dir: ${APP_AUDIO_DIR:./audio}
     voice: ${APP_AUDIO_VOICE:ja-JP-NanamiNeural}
-
-edge-tts:
-  command: ${EDGE_TTS_COMMAND:edge-tts}
-  timeout-seconds: ${EDGE_TTS_TIMEOUT:30}
-  concurrency: ${EDGE_TTS_CONCURRENCY:0}
