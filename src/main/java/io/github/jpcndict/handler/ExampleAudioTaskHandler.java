@@ -1,7 +1,7 @@
 package io.github.jpcndict.handler;
 
-import io.github.jpcndict.entity.ExampleEntity;
-import io.github.jpcndict.repository.ExampleRepository;
+import io.github.jpcndict.dao.entity.ExampleEntity;
+import io.github.jpcndict.dao.repository.ExampleRepository;
 import io.github.jpcndict.service.AudioService;
 import io.github.jpcndict.service.ExampleService;
 import io.github.springwhale.platform.task.handler.TaskHandler;

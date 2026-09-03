@@ -1,7 +1,7 @@
 package io.github.jpcndict.mapper;
 
+import io.github.jpcndict.dao.entity.ExampleEntity;
 import io.github.jpcndict.dto.vo.ExampleVO;
-import io.github.jpcndict.entity.ExampleEntity;
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Component;
 

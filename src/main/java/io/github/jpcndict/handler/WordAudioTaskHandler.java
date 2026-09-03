@@ -1,7 +1,7 @@
 package io.github.jpcndict.handler;
 
-import io.github.jpcndict.entity.WordEntity;
-import io.github.jpcndict.repository.WordRepository;
+import io.github.jpcndict.dao.entity.WordEntity;
+import io.github.jpcndict.dao.repository.WordRepository;
 import io.github.jpcndict.service.AudioService;
 import io.github.jpcndict.service.WordService;
 import io.github.springwhale.platform.task.handler.TaskHandler;

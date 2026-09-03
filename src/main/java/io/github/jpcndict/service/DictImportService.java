@@ -1,11 +1,11 @@
 package io.github.jpcndict.service;
 
-import io.github.jpcndict.entity.ExampleEntity;
-import io.github.jpcndict.entity.GrammarEntity;
-import io.github.jpcndict.entity.WordEntity;
-import io.github.jpcndict.repository.ExampleRepository;
-import io.github.jpcndict.repository.GrammarRepository;
-import io.github.jpcndict.repository.WordRepository;
+import io.github.jpcndict.dao.entity.ExampleEntity;
+import io.github.jpcndict.dao.entity.GrammarEntity;
+import io.github.jpcndict.dao.entity.WordEntity;
+import io.github.jpcndict.dao.repository.ExampleRepository;
+import io.github.jpcndict.dao.repository.GrammarRepository;
+import io.github.jpcndict.dao.repository.WordRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.domain.Sort;

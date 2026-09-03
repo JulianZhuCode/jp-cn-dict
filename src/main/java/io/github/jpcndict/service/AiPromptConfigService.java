@@ -1,10 +1,10 @@
 package io.github.jpcndict.service;
 
+import io.github.jpcndict.dao.entity.AiPromptConfigEntity;
+import io.github.jpcndict.dao.repository.AiPromptConfigRepository;
 import io.github.jpcndict.dto.request.AiPromptConfigRequest;
 import io.github.jpcndict.dto.vo.AiPromptConfigVO;
-import io.github.jpcndict.entity.AiPromptConfigEntity;
 import io.github.jpcndict.mapper.AiPromptConfigMapper;
-import io.github.jpcndict.repository.AiPromptConfigRepository;
 import io.github.springwhale.database.JpaQueryWrapper;
 import io.github.springwhale.framework.core.exception.BusinessException;
 import lombok.RequiredArgsConstructor;
@@ -52,7 +52,6 @@ public class AiPromptConfigService {
         return repository.findByPromptKey(promptKey).map(mapper::toVO);
     }
 
-    
 
     /**
      * 搜索配置（支持关键字模糊搜索）

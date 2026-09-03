@@ -1,13 +1,13 @@
 package io.github.jpcndict.controller.page;
 
+import io.github.jpcndict.dao.repository.ExampleRepository;
+import io.github.jpcndict.dao.repository.GrammarRepository;
+import io.github.jpcndict.dao.repository.WordRepository;
 import io.github.jpcndict.dto.vo.AiPromptConfigVO;
 import io.github.jpcndict.dto.vo.ExampleVO;
 import io.github.jpcndict.dto.vo.GrammarVO;
 import io.github.jpcndict.dto.vo.WordVO;
 import io.github.jpcndict.enums.WordPos;
-import io.github.jpcndict.repository.ExampleRepository;
-import io.github.jpcndict.repository.GrammarRepository;
-import io.github.jpcndict.repository.WordRepository;
 import io.github.jpcndict.service.AiPromptConfigService;
 import io.github.jpcndict.service.ExampleService;
 import io.github.jpcndict.service.GrammarService;

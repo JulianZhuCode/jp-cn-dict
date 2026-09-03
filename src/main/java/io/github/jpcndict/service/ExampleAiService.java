@@ -1,17 +1,14 @@
 package io.github.jpcndict.service;
 
+import io.github.jpcndict.dao.entity.GrammarEntity;
+import io.github.jpcndict.dao.entity.WordEntity;
 import io.github.jpcndict.dto.vo.AiAnalyzeResult;
 import io.github.jpcndict.dto.vo.AiPromptConfigVO;
-import io.github.jpcndict.entity.GrammarEntity;
-import io.github.jpcndict.entity.WordEntity;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.ai.chat.client.ChatClient;
-import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import org.springframework.transaction.support.TransactionSynchronization;
-import org.springframework.transaction.support.TransactionSynchronizationManager;
 import tools.jackson.databind.ObjectMapper;
 
 import java.util.ArrayList;

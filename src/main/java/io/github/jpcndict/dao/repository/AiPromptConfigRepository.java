@@ -1,6 +1,6 @@
-package io.github.jpcndict.repository;
+package io.github.jpcndict.dao.repository;
 
-import io.github.jpcndict.entity.AiPromptConfigEntity;
+import io.github.jpcndict.dao.entity.AiPromptConfigEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 import org.springframework.stereotype.Repository;

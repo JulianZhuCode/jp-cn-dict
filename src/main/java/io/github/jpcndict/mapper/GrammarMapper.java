@@ -1,7 +1,7 @@
 package io.github.jpcndict.mapper;
 
+import io.github.jpcndict.dao.entity.GrammarEntity;
 import io.github.jpcndict.dto.vo.GrammarVO;
-import io.github.jpcndict.entity.GrammarEntity;
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Component;
 

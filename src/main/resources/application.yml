@@ -3,6 +3,13 @@ server:
 
 
 spring:
+  cache:
+    type: caffeine
+    caffeine:
+      spec: expireAfterWrite=60s,maximumSize=1000
+  threads:
+    virtual:
+      enabled: true
   whale:
     i18n:
       enabled: false
@@ -48,7 +55,7 @@ spring:
         login-password: 123456
   jpa:
     hibernate:
-      ddl-auto: update
+      ddl-auto: none
     show-sql: true
     properties:
       hibernate:

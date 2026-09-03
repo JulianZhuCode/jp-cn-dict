@@ -1,10 +1,10 @@
 package io.github.jpcndict.service;
 
+import io.github.jpcndict.dao.entity.WordEntity;
+import io.github.jpcndict.dao.repository.WordRepository;
 import io.github.jpcndict.dto.request.WordRequest;
 import io.github.jpcndict.dto.vo.WordVO;
-import io.github.jpcndict.entity.WordEntity;
 import io.github.jpcndict.mapper.WordMapper;
-import io.github.jpcndict.repository.WordRepository;
 import io.github.springwhale.database.JpaQueryWrapper;
 import io.github.springwhale.framework.core.exception.BusinessException;
 import lombok.RequiredArgsConstructor;
