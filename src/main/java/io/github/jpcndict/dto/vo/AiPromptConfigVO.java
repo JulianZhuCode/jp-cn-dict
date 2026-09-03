@@ -7,7 +7,7 @@ import java.time.LocalDateTime;
 @Data
 public class AiPromptConfigVO {
 
-    private Integer id;
+    private Long id;
 
     private String promptKey;
 

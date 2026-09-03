@@ -8,7 +8,7 @@ import lombok.Data;
  */
 @Data
 public class WordVO {
-    private Integer id;
+    private Long id;
     private String word;
     private String reading;
     private String romaji;

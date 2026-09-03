@@ -7,7 +7,7 @@ CREATE SCHEMA IF NOT EXISTS dict;
 -- 1. Word
 CREATE TABLE IF NOT EXISTS dict.word
 (
-    id          SERIAL PRIMARY KEY,
+    id          BIGSERIAL PRIMARY KEY,
     word        VARCHAR,
     reading     VARCHAR,
     meaning     _text,
@@ -15,8 +15,8 @@ CREATE TABLE IF NOT EXISTS dict.word
     audio_url   VARCHAR,
     create_time TIMESTAMP,
     update_time TIMESTAMP,
-    create_by   INTEGER,
-    update_by   INTEGER,
+    create_by   BIGINT,
+    update_by   BIGINT,
     version     INTEGER NOT NULL DEFAULT 0,
     del_flag    INTEGER NOT NULL DEFAULT 0
 );
@@ -26,14 +26,14 @@ CREATE INDEX IF NOT EXISTS idx_word_reading ON dict.word (reading);
 -- 2. Grammar
 CREATE TABLE IF NOT EXISTS dict.grammar
 (
-    id          SERIAL PRIMARY KEY,
+    id          BIGSERIAL PRIMARY KEY,
     pattern     VARCHAR,
     reading     VARCHAR,
     meaning     _text,
     create_time TIMESTAMP,
     update_time TIMESTAMP,
-    create_by   INTEGER,
-    update_by   INTEGER,
+    create_by   BIGINT,
+    update_by   BIGINT,
     version     INTEGER NOT NULL DEFAULT 0,
     del_flag    INTEGER NOT NULL DEFAULT 0
 );
@@ -43,16 +43,16 @@ CREATE INDEX IF NOT EXISTS idx_grammar_reading ON dict.grammar (reading);
 -- 3. Example
 CREATE TABLE IF NOT EXISTS dict.example
 (
-    id               SERIAL PRIMARY KEY,
+    id               BIGSERIAL PRIMARY KEY,
     jp               TEXT,
     cn               TEXT,
-    related_words    INTEGER[],
-    related_grammars INTEGER[],
+    related_words    BIGINT[],
+    related_grammars BIGINT[],
     audio_url        VARCHAR,
     create_time      TIMESTAMP,
     update_time      TIMESTAMP,
-    create_by        INTEGER,
-    update_by        INTEGER,
+    create_by        BIGINT,
+    update_by        BIGINT,
     version          INTEGER NOT NULL DEFAULT 0,
     del_flag         INTEGER NOT NULL DEFAULT 0
 );
@@ -60,7 +60,7 @@ CREATE TABLE IF NOT EXISTS dict.example
 -- 4. AI Prompt Config
 CREATE TABLE IF NOT EXISTS dict.ai_prompt_config
 (
-    id                   SERIAL PRIMARY KEY,
+    id                   BIGSERIAL PRIMARY KEY,
     prompt_key           VARCHAR(100) NOT NULL UNIQUE,
     prompt_name          VARCHAR(200) NOT NULL,
     system_prompt        TEXT         NOT NULL,
@@ -69,8 +69,8 @@ CREATE TABLE IF NOT EXISTS dict.ai_prompt_config
     enabled              BOOLEAN      NOT NULL DEFAULT TRUE,
     create_time          TIMESTAMP,
     update_time          TIMESTAMP,
-    create_by            INTEGER,
-    update_by            INTEGER,
+    create_by            BIGINT,
+    update_by            BIGINT,
     version              INTEGER      NOT NULL DEFAULT 0,
     del_flag             INTEGER      NOT NULL DEFAULT 0
 );

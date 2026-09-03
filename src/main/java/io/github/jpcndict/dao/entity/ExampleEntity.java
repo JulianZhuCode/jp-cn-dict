@@ -13,7 +13,7 @@ import lombok.EqualsAndHashCode;
 public class ExampleEntity extends BaseEntity {
     private String jp;
     private String cn;
-    private Integer[] relatedWords;
-    private Integer[] relatedGrammars;
+    private Long[] relatedWords;
+    private Long[] relatedGrammars;
     private String audioUrl;
 }

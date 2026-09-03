@@ -38,7 +38,7 @@ public class GrammarController {
      * GET /api/grammars/{id}
      */
     @GetMapping("/{id}")
-    public GrammarVO findById(@PathVariable Integer id) {
+    public GrammarVO findById(@PathVariable Long id) {
         return grammarService.findById(id)
                 .orElseThrow(() -> new IllegalArgumentException("语法不存在: " + id));
     }
@@ -77,7 +77,7 @@ public class GrammarController {
      * PUT /api/grammars/{id}
      */
     @PutMapping("/{id}")
-    public GrammarVO update(@PathVariable Integer id, @Valid @RequestBody GrammarRequest request) {
+    public GrammarVO update(@PathVariable Long id, @Valid @RequestBody GrammarRequest request) {
         return grammarService.update(id, request);
     }
 
@@ -86,7 +86,7 @@ public class GrammarController {
      * DELETE /api/grammars/{id}
      */
     @DeleteMapping("/{id}")
-    public void delete(@PathVariable Integer id) {
+    public void delete(@PathVariable Long id) {
         grammarService.delete(id);
     }
 }

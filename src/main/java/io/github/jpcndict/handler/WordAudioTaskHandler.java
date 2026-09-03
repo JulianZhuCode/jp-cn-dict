@@ -70,7 +70,7 @@ public class WordAudioTaskHandler implements TaskHandler {
 
     @Override
     public boolean processItem(String itemKey, Map<String, Object> params) {
-        int wordId = Integer.parseInt(itemKey.split(":")[1]);
+        long wordId = Long.parseLong(itemKey.split(":")[1]);
         return wordService.regenerateAudio(wordId);
     }
 
@@ -85,12 +85,12 @@ public class WordAudioTaskHandler implements TaskHandler {
         log.info("WordAudioTaskHandler.processBatch: starting batch of {} items, chunkSize={}",
                 itemKeys.size(), CHUNK_SIZE);
 
-        List<Integer> allWordIds = itemKeys.stream()
-                .map(key -> Integer.parseInt(key.split(":")[1]))
+        List<Long> allWordIds = itemKeys.stream()
+                .map(key -> Long.parseLong(key.split(":")[1]))
                 .toList();
 
         List<WordEntity> allWords = wordRepository.findAllById(allWordIds);
-        Map<Integer, WordEntity> wordMap = new HashMap<>();
+        Map<Long, WordEntity> wordMap = new HashMap<>();
         for (WordEntity w : allWords) {
             wordMap.put(w.getId(), w);
         }
@@ -110,10 +110,10 @@ public class WordAudioTaskHandler implements TaskHandler {
 
             chunkIndex++;
             int end = Math.min(offset + CHUNK_SIZE, itemKeys.size());
-            List<Integer> chunkIds = allWordIds.subList(offset, end);
+            List<Long> chunkIds = allWordIds.subList(offset, end);
 
             List<String> chunkTexts = new ArrayList<>(chunkIds.size());
-            for (Integer id : chunkIds) {
+            for (Long id : chunkIds) {
                 WordEntity w = wordMap.get(id);
                 chunkTexts.add(w != null ? w.getWord() : "");
             }

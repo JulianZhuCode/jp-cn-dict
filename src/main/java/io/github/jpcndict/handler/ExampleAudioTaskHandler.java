@@ -70,7 +70,7 @@ public class ExampleAudioTaskHandler implements TaskHandler {
 
     @Override
     public boolean processItem(String itemKey, Map<String, Object> params) {
-        int exampleId = Integer.parseInt(itemKey.split(":")[1]);
+        long exampleId = Long.parseLong(itemKey.split(":")[1]);
         return exampleService.regenerateAudio(exampleId);
     }
 
@@ -85,12 +85,12 @@ public class ExampleAudioTaskHandler implements TaskHandler {
         log.info("ExampleAudioTaskHandler.processBatch: starting batch of {} items, chunkSize={}",
                 itemKeys.size(), CHUNK_SIZE);
 
-        List<Integer> allExampleIds = itemKeys.stream()
-                .map(key -> Integer.parseInt(key.split(":")[1]))
+        List<Long> allExampleIds = itemKeys.stream()
+                .map(key -> Long.parseLong(key.split(":")[1]))
                 .toList();
 
         List<ExampleEntity> allExamples = exampleRepository.findAllById(allExampleIds);
-        Map<Integer, ExampleEntity> exampleMap = new HashMap<>();
+        Map<Long, ExampleEntity> exampleMap = new HashMap<>();
         for (ExampleEntity e : allExamples) {
             exampleMap.put(e.getId(), e);
         }
@@ -110,10 +110,10 @@ public class ExampleAudioTaskHandler implements TaskHandler {
 
             chunkIndex++;
             int end = Math.min(offset + CHUNK_SIZE, itemKeys.size());
-            List<Integer> chunkIds = allExampleIds.subList(offset, end);
+            List<Long> chunkIds = allExampleIds.subList(offset, end);
 
             List<String> chunkTexts = new ArrayList<>(chunkIds.size());
-            for (Integer id : chunkIds) {
+            for (Long id : chunkIds) {
                 ExampleEntity e = exampleMap.get(id);
                 chunkTexts.add(e != null ? e.getJp() : "");
             }

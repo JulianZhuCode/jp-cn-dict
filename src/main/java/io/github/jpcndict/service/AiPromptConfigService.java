@@ -40,7 +40,7 @@ public class AiPromptConfigService {
     /**
      * 根据ID查询配置
      */
-    public Optional<AiPromptConfigVO> findById(Integer id) {
+    public Optional<AiPromptConfigVO> findById(Long id) {
         return repository.findById(id).map(mapper::toVO);
     }
 
@@ -92,7 +92,7 @@ public class AiPromptConfigService {
      */
     @Transactional
     @CacheEvict(value = CACHE_NAME, allEntries = true)
-    public AiPromptConfigVO update(Integer id, AiPromptConfigRequest request) {
+    public AiPromptConfigVO update(Long id, AiPromptConfigRequest request) {
         AiPromptConfigEntity entity = repository.findById(id)
                 .orElseThrow(() -> BusinessException.create("PROMPT_CONFIG_NOT_FOUND", "提示词配置不存在，ID: " + id));
 
@@ -114,7 +114,7 @@ public class AiPromptConfigService {
      */
     @Transactional
     @CacheEvict(value = CACHE_NAME, allEntries = true)
-    public void delete(Integer id) {
+    public void delete(Long id) {
         AiPromptConfigEntity entity = repository.findById(id)
                 .orElseThrow(() -> BusinessException.create("PROMPT_CONFIG_NOT_FOUND", "提示词配置不存在，ID: " + id));
         repository.delete(entity);

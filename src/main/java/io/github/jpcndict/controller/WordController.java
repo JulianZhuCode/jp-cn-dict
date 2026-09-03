@@ -45,7 +45,7 @@ public class WordController {
      * GET /api/words/{id}
      */
     @GetMapping("/{id}")
-    public WordVO findById(@PathVariable Integer id) {
+    public WordVO findById(@PathVariable Long id) {
         return wordService.findById(id)
                 .orElseThrow(() -> new IllegalArgumentException("单词不存在: " + id));
     }
@@ -113,7 +113,7 @@ public class WordController {
      * PUT /api/words/{id}
      */
     @PutMapping("/{id}")
-    public WordVO update(@PathVariable Integer id, @Valid @RequestBody WordRequest request) {
+    public WordVO update(@PathVariable Long id, @Valid @RequestBody WordRequest request) {
         return wordService.update(id, request);
     }
 
@@ -122,7 +122,7 @@ public class WordController {
      * DELETE /api/words/{id}
      */
     @DeleteMapping("/{id}")
-    public void delete(@PathVariable Integer id) {
+    public void delete(@PathVariable Long id) {
         wordService.delete(id);
     }
 
@@ -131,7 +131,7 @@ public class WordController {
      * POST /api/words/{id}/regenerate-audio
      */
     @PostMapping("/{id}/regenerate-audio")
-    public Map<String, Object> regenerateAudio(@PathVariable Integer id) {
+    public Map<String, Object> regenerateAudio(@PathVariable Long id) {
         boolean success = wordService.regenerateAudio(id);
         return Map.of("success", success);
     }
@@ -159,7 +159,7 @@ public class WordController {
      * POST /api/words/regenerate-all-audio/{taskId}/start
      */
     @PostMapping("/regenerate-all-audio/{taskId}/start")
-    public TaskVO startAudioTask(@PathVariable Integer taskId) {
+    public TaskVO startAudioTask(@PathVariable Long taskId) {
         return taskService.start(taskId);
     }
 }

@@ -44,9 +44,9 @@ public class DictImportService {
 
     // ---- Import (upsert by id) ----
 
-    private static Integer toInt(Object value) {
+    private static Long toLong(Object value) {
         if (value instanceof Number n) {
-            return n.intValue();
+            return n.longValue();
         }
         return null;
     }
@@ -92,7 +92,7 @@ public class DictImportService {
 
     private WordEntity toWordEntity(Map<String, Object> raw) {
         WordEntity entity = new WordEntity();
-        entity.setId(toInt(raw.get("id")));
+        entity.setId(toLong(raw.get("id")));
         entity.setWord((String) raw.get("word"));
         entity.setReading((String) raw.get("reading"));
         // romaji 由 reading 动态生成，无需导入持久化
@@ -105,7 +105,7 @@ public class DictImportService {
 
     private GrammarEntity toGrammarEntity(Map<String, Object> raw) {
         GrammarEntity entity = new GrammarEntity();
-        entity.setId(toInt(raw.get("id")));
+        entity.setId(toLong(raw.get("id")));
         // 兼容旧格式 word 和新格式 pattern
         String pattern = (String) raw.get("pattern");
         if (pattern == null) {
@@ -121,15 +121,15 @@ public class DictImportService {
 
     private ExampleEntity toExampleEntity(Map<String, Object> raw) {
         ExampleEntity entity = new ExampleEntity();
-        entity.setId(toInt(raw.get("id")));
+        entity.setId(toLong(raw.get("id")));
         entity.setJp((String) raw.get("jp"));
         entity.setCn((String) raw.get("cn"));
         @SuppressWarnings("unchecked")
-        List<Integer> relatedWords = (List<Integer>) raw.get("relatedWords");
-        entity.setRelatedWords(relatedWords != null ? relatedWords.toArray(new Integer[0]) : null);
+        List<Long> relatedWords = (List<Long>) raw.get("relatedWords");
+        entity.setRelatedWords(relatedWords != null ? relatedWords.toArray(new Long[0]) : null);
         @SuppressWarnings("unchecked")
-        List<Integer> relatedGrammars = (List<Integer>) raw.get("relatedGrammars");
-        entity.setRelatedGrammars(relatedGrammars != null ? relatedGrammars.toArray(new Integer[0]) : null);
+        List<Long> relatedGrammars = (List<Long>) raw.get("relatedGrammars");
+        entity.setRelatedGrammars(relatedGrammars != null ? relatedGrammars.toArray(new Long[0]) : null);
         return entity;
     }
 
@@ -170,9 +170,9 @@ public class DictImportService {
 
     public byte[] exportWords() throws IOException {
         List<WordEntity> all = wordRepository.findAll(Sort.by("id"));
-        Map<Integer, List<Map<String, Object>>> groups = new TreeMap<>();
+        Map<Long, List<Map<String, Object>>> groups = new TreeMap<>();
         for (WordEntity e : all) {
-            int start = ((e.getId() - 1) / 100) * 100 + 1;
+            long start = ((e.getId() - 1) / 100) * 100 + 1;
             groups.computeIfAbsent(start, _ -> new ArrayList<>()).add(toWordExportMap(e));
         }
         ByteArrayOutputStream baos = new ByteArrayOutputStream();
@@ -182,9 +182,9 @@ public class DictImportService {
 
     public byte[] exportGrammars() throws IOException {
         List<GrammarEntity> all = grammarRepository.findAll(Sort.by("id"));
-        Map<Integer, List<Map<String, Object>>> groups = new TreeMap<>();
+        Map<Long, List<Map<String, Object>>> groups = new TreeMap<>();
         for (GrammarEntity e : all) {
-            int start = ((e.getId() - 1) / 100) * 100 + 1;
+            long start = ((e.getId() - 1) / 100) * 100 + 1;
             groups.computeIfAbsent(start, _ -> new ArrayList<>()).add(toGrammarExportMap(e));
         }
         ByteArrayOutputStream baos = new ByteArrayOutputStream();
@@ -194,9 +194,9 @@ public class DictImportService {
 
     public byte[] exportExamples() throws IOException {
         List<ExampleEntity> all = exampleRepository.findAll(Sort.by("id"));
-        Map<Integer, List<Map<String, Object>>> groups = new TreeMap<>();
+        Map<Long, List<Map<String, Object>>> groups = new TreeMap<>();
         for (ExampleEntity e : all) {
-            int start = ((e.getId() - 1) / 100) * 100 + 1;
+            long start = ((e.getId() - 1) / 100) * 100 + 1;
             groups.computeIfAbsent(start, _ -> new ArrayList<>()).add(toExampleExportMap(e));
         }
         ByteArrayOutputStream baos = new ByteArrayOutputStream();
@@ -235,9 +235,9 @@ public class DictImportService {
     }
 
     private void writeZip(OutputStream out, String prefix,
-                          Map<Integer, List<Map<String, Object>>> groups) throws IOException {
+                          Map<Long, List<Map<String, Object>>> groups) throws IOException {
         try (ZipOutputStream zos = new ZipOutputStream(out)) {
-            for (Map.Entry<Integer, List<Map<String, Object>>> entry : groups.entrySet()) {
+            for (Map.Entry<Long, List<Map<String, Object>>> entry : groups.entrySet()) {
                 String fileName = prefix + entry.getKey() + ".json";
                 zos.putNextEntry(new ZipEntry(fileName));
                 byte[] jsonBytes = objectMapper.writerWithDefaultPrettyPrinter().writeValueAsBytes(entry.getValue());

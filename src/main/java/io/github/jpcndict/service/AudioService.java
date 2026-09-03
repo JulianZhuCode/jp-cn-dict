@@ -37,7 +37,7 @@ public class AudioService {
      * @param text   the text to synthesize
      * @return the relative URL path, or null if generation failed
      */
-    public String generateWordAudio(Integer wordId, String text) {
+    public String generateWordAudio(Long wordId, String text) {
         return generateAudio("word", wordId, text);
     }
 
@@ -48,7 +48,7 @@ public class AudioService {
      * @param text      the text to synthesize
      * @return the relative URL path, or null if generation failed
      */
-    public String generateExampleAudio(Integer exampleId, String text) {
+    public String generateExampleAudio(Long exampleId, String text) {
         return generateAudio("example", exampleId, text);
     }
 
@@ -59,7 +59,7 @@ public class AudioService {
      * @param wordTexts list of corresponding word texts
      * @return list of generated URL paths (null entries indicate failure)
      */
-    public List<String> batchGenerateWordAudio(List<Integer> wordIds, List<String> wordTexts) {
+    public List<String> batchGenerateWordAudio(List<Long> wordIds, List<String> wordTexts) {
         return batchGenerateAudio("word", wordIds, wordTexts);
     }
 
@@ -70,7 +70,7 @@ public class AudioService {
      * @param wordTexts     list of corresponding word texts
      * @param itemCallback  callback invoked immediately after each item completes (id, success, url)
      */
-    public void batchGenerateWordAudio(List<Integer> wordIds, List<String> wordTexts,
+    public void batchGenerateWordAudio(List<Long> wordIds, List<String> wordTexts,
                                        AudioItemCallback itemCallback) {
         batchGenerateAudio("word", wordIds, wordTexts, itemCallback);
     }
@@ -82,7 +82,7 @@ public class AudioService {
      * @param exampleTexts list of corresponding example texts
      * @return list of generated URL paths (null entries indicate failure)
      */
-    public List<String> batchGenerateExampleAudio(List<Integer> exampleIds, List<String> exampleTexts) {
+    public List<String> batchGenerateExampleAudio(List<Long> exampleIds, List<String> exampleTexts) {
         return batchGenerateAudio("example", exampleIds, exampleTexts);
     }
 
@@ -93,7 +93,7 @@ public class AudioService {
      * @param exampleTexts  list of corresponding example texts
      * @param itemCallback  callback invoked immediately after each item completes (id, success, url)
      */
-    public void batchGenerateExampleAudio(List<Integer> exampleIds, List<String> exampleTexts,
+    public void batchGenerateExampleAudio(List<Long> exampleIds, List<String> exampleTexts,
                                           AudioItemCallback itemCallback) {
         batchGenerateAudio("example", exampleIds, exampleTexts, itemCallback);
     }
@@ -111,7 +111,7 @@ public class AudioService {
          * @param url           the generated URL, or null if failed
          * @param errorMessage  error details when failed
          */
-        void onItemResult(int id, boolean success, String url, String errorMessage);
+        void onItemResult(long id, boolean success, String url, String errorMessage);
 
         /**
          * Called when a single item's audio generation completes.
@@ -120,7 +120,7 @@ public class AudioService {
          * @param success true if successful
          * @param url     the generated URL, or null if failed
          */
-        default void onItemResult(int id, boolean success, String url) {
+        default void onItemResult(long id, boolean success, String url) {
             onItemResult(id, success, url, null);
         }
     }
@@ -128,18 +128,18 @@ public class AudioService {
     /**
      * Delete audio file for a word.
      */
-    public void deleteWordAudio(Integer wordId) {
+    public void deleteWordAudio(Long wordId) {
         deleteAudio("word", wordId);
     }
 
     /**
      * Delete audio file for an example.
      */
-    public void deleteExampleAudio(Integer exampleId) {
+    public void deleteExampleAudio(Long exampleId) {
         deleteAudio("example", exampleId);
     }
 
-    private String generateAudio(String type, Integer id, String text) {
+    private String generateAudio(String type, Long id, String text) {
         if (text == null || text.isBlank()) {
             return null;
         }
@@ -165,7 +165,7 @@ public class AudioService {
         }
     }
 
-    private List<String> batchGenerateAudio(String type, List<Integer> ids, List<String> texts) {
+    private List<String> batchGenerateAudio(String type, List<Long> ids, List<String> texts) {
         if (ids == null || ids.isEmpty()) {
             return List.of();
         }
@@ -179,7 +179,7 @@ public class AudioService {
 
         List<TtsRequest> requests = new ArrayList<>(ids.size());
         for (int i = 0; i < ids.size(); i++) {
-            Integer id = ids.get(i);
+            Long id = ids.get(i);
             String text = texts.get(i);
             if (text == null || text.isBlank()) {
                 continue;
@@ -206,13 +206,13 @@ public class AudioService {
         }
 
         List<String> urls = new ArrayList<>(ids.size());
-        for (Integer id : ids) {
+        for (Long id : ids) {
             urls.add(resultMap.get(String.valueOf(id)));
         }
         return urls;
     }
 
-    private void batchGenerateAudio(String type, List<Integer> ids, List<String> texts,
+    private void batchGenerateAudio(String type, List<Long> ids, List<String> texts,
                                     AudioItemCallback itemCallback) {
         if (ids == null || ids.isEmpty()) {
             return;
@@ -227,7 +227,7 @@ public class AudioService {
 
         List<TtsRequest> requests = new ArrayList<>(ids.size());
         for (int i = 0; i < ids.size(); i++) {
-            Integer id = ids.get(i);
+            Long id = ids.get(i);
             String text = texts.get(i);
             if (text == null || text.isBlank()) {
                 if (itemCallback != null) {
@@ -246,7 +246,7 @@ public class AudioService {
 
         List<TtsResult> results = EdgeTtsUtil.ttsToMp3Batch(requests);
         for (TtsResult result : results) {
-            int itemId = Integer.parseInt(result.id());
+            long itemId = Long.parseLong(result.id());
             String url = result.success() ? "/audio/" + type + "/" + result.id() + ".mp3" : null;
             if (!result.success()) {
                 log.warn("Batch audio generation failed: type={}, id={}, error={}",
@@ -260,7 +260,7 @@ public class AudioService {
         }
     }
 
-    private void deleteAudio(String type, Integer id) {
+    private void deleteAudio(String type, Long id) {
         Path filePath = Paths.get(audioDir, type, id + ".mp3");
         try {
             Files.deleteIfExists(filePath);

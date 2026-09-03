@@ -47,7 +47,7 @@ public class ExampleController {
      * GET /api/examples/{id}
      */
     @GetMapping("/{id}")
-    public ExampleVO findById(@PathVariable Integer id) {
+    public ExampleVO findById(@PathVariable Long id) {
         return exampleService.findById(id)
                 .orElseThrow(() -> new IllegalArgumentException("例句不存在: " + id));
     }
@@ -60,8 +60,8 @@ public class ExampleController {
     @GetMapping("/exists")
     public Map<String, Object> checkExists(
             @RequestParam String jp,
-            @RequestParam(required = false) Integer excludeId) {
-        Integer existingId = exampleService.checkExists(jp, excludeId);
+            @RequestParam(required = false) Long excludeId) {
+        Long existingId = exampleService.checkExists(jp, excludeId);
         if (existingId != null) {
             return Map.of("exists", true, "existingId", existingId);
         }
@@ -91,7 +91,7 @@ public class ExampleController {
      * PUT /api/examples/{id}
      */
     @PutMapping("/{id}")
-    public ExampleVO update(@PathVariable Integer id, @Valid @RequestBody ExampleRequest request) {
+    public ExampleVO update(@PathVariable Long id, @Valid @RequestBody ExampleRequest request) {
         return exampleService.update(id, request);
     }
 
@@ -100,7 +100,7 @@ public class ExampleController {
      * DELETE /api/examples/{id}
      */
     @DeleteMapping("/{id}")
-    public void delete(@PathVariable Integer id) {
+    public void delete(@PathVariable Long id) {
         exampleService.delete(id);
     }
 
@@ -109,7 +109,7 @@ public class ExampleController {
      * POST /api/examples/{id}/regenerate-audio
      */
     @PostMapping("/{id}/regenerate-audio")
-    public Map<String, Object> regenerateAudio(@PathVariable Integer id) {
+    public Map<String, Object> regenerateAudio(@PathVariable Long id) {
         boolean success = exampleService.regenerateAudio(id);
         return Map.of("success", success);
     }
@@ -137,7 +137,7 @@ public class ExampleController {
      * POST /api/examples/regenerate-all-audio/{taskId}/start
      */
     @PostMapping("/regenerate-all-audio/{taskId}/start")
-    public TaskVO startAudioTask(@PathVariable Integer taskId) {
+    public TaskVO startAudioTask(@PathVariable Long taskId) {
         return taskService.start(taskId);
     }
 }

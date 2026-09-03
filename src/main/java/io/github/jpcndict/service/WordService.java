@@ -38,7 +38,7 @@ public class WordService {
     /**
      * 根据ID查询单词
      */
-    public Optional<WordVO> findById(Integer id) {
+    public Optional<WordVO> findById(Long id) {
         return wordRepository.findById(id).map(wordMapper::toVO);
     }
 
@@ -113,7 +113,7 @@ public class WordService {
 
         // 3) 从全量词库中补 romaji 匹配的词（按同样的 pos 过滤），避免分页结果遗漏
         //    为了避免重复：先收集 dbList 中已有的 id
-        java.util.Set<Integer> seenIds = dbList.stream()
+        java.util.Set<Long> seenIds = dbList.stream()
                 .map(WordEntity::getId)
                 .filter(java.util.Objects::nonNull)
                 .collect(java.util.stream.Collectors.toSet());
@@ -149,7 +149,7 @@ public class WordService {
         List<WordEntity> merged = new ArrayList<>(dbList.size() + romajiExtras.size());
         merged.addAll(dbList);
         merged.addAll(romajiExtras);
-        merged.sort(java.util.Comparator.comparing(WordEntity::getId, java.util.Comparator.nullsLast(Integer::compareTo)));
+        merged.sort(java.util.Comparator.comparing(WordEntity::getId, java.util.Comparator.nullsLast(Long::compareTo)));
 
         int total = merged.size();
         int start = (int) pageable.getOffset();
@@ -186,7 +186,7 @@ public class WordService {
      * 更新单词
      */
     @Transactional
-    public WordVO update(Integer id, WordRequest request) {
+    public WordVO update(Long id, WordRequest request) {
         WordEntity word = wordRepository.findById(id)
                 .orElseThrow(() -> BusinessException.create("WORD_NOT_FOUND", "单词不存在，ID: " + id));
 
@@ -208,7 +208,7 @@ public class WordService {
      * 删除单词
      */
     @Transactional
-    public void delete(Integer id) {
+    public void delete(Long id) {
         WordEntity word = wordRepository.findById(id)
                 .orElseThrow(() -> BusinessException.create("WORD_NOT_FOUND", "单词不存在，ID: " + id));
         audioService.deleteWordAudio(id);
@@ -318,7 +318,7 @@ public class WordService {
      * 重新生成指定单词的音频
      */
     @Transactional
-    public boolean regenerateAudio(Integer id) {
+    public boolean regenerateAudio(Long id) {
         WordEntity word = wordRepository.findById(id)
                 .orElseThrow(() -> BusinessException.create("WORD_NOT_FOUND", "单词不存在，ID: " + id));
         String audioUrl = audioService.generateWordAudio(word.getId(), word.getWord());
@@ -340,7 +340,7 @@ public class WordService {
             return 0;
         }
 
-        List<Integer> wordIds = all.stream().map(WordEntity::getId).toList();
+        List<Long> wordIds = all.stream().map(WordEntity::getId).toList();
         List<String> wordTexts = all.stream().map(WordEntity::getWord).toList();
 
         List<String> urls = audioService.batchGenerateWordAudio(wordIds, wordTexts);

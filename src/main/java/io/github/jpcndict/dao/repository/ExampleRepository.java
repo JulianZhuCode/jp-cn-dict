@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Optional;
 
 @Repository
-public interface ExampleRepository extends JpaRepository<ExampleEntity, Integer>, JpaSpecificationExecutor<ExampleEntity> {
+public interface ExampleRepository extends JpaRepository<ExampleEntity, Long>, JpaSpecificationExecutor<ExampleEntity> {
 
     List<ExampleEntity> findByJpContaining(String jp);
 
@@ -21,5 +21,5 @@ public interface ExampleRepository extends JpaRepository<ExampleEntity, Integer>
 
     Optional<ExampleEntity> findByJp(String jp);
 
-    boolean existsByJpAndIdNot(String jp, Integer id);
+    boolean existsByJpAndIdNot(String jp, Long id);
 }

@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Optional;
 
 @Repository
-public interface WordRepository extends JpaRepository<WordEntity, Integer>, JpaSpecificationExecutor<WordEntity> {
+public interface WordRepository extends JpaRepository<WordEntity, Long>, JpaSpecificationExecutor<WordEntity> {
 
     Optional<WordEntity> findByWord(String word);
 

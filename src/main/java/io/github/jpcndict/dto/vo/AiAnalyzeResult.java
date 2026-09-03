@@ -81,7 +81,7 @@ public class AiAnalyzeResult {
         /**
          * 单词ID（已存在或新创建）
          */
-        private Integer id;
+        private Long id;
         /**
          * 单词
          */
@@ -111,7 +111,7 @@ public class AiAnalyzeResult {
         /**
          * 语法ID（已存在或新创建）
          */
-        private Integer id;
+        private Long id;
         /**
          * 语法模式
          */

@@ -91,7 +91,7 @@ public class ExampleAiService {
      * 音频生成失败不影响整体流程，仅打印日志。
      */
     private void generateAudioForWords(List<WordEntity> words) {
-        List<Integer> ids = words.stream().map(WordEntity::getId).toList();
+        List<Long> ids = words.stream().map(WordEntity::getId).toList();
         List<String> texts = words.stream().map(WordEntity::getWord).toList();
         try {
             audioService.batchGenerateWordAudio(ids, texts, (id, success, url, errMsg) -> {

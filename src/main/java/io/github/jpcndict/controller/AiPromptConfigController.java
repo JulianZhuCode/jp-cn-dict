@@ -38,7 +38,7 @@ public class AiPromptConfigController {
      * GET /api/ai-prompt-configs/{id}
      */
     @GetMapping("/{id}")
-    public AiPromptConfigVO findById(@PathVariable Integer id) {
+    public AiPromptConfigVO findById(@PathVariable Long id) {
         return service.findById(id)
                 .orElseThrow(() -> new IllegalArgumentException("提示词配置不存在，ID: " + id));
     }
@@ -67,7 +67,7 @@ public class AiPromptConfigController {
      * PUT /api/ai-prompt-configs/{id}
      */
     @PutMapping("/{id}")
-    public AiPromptConfigVO update(@PathVariable Integer id, @Valid @RequestBody AiPromptConfigRequest request) {
+    public AiPromptConfigVO update(@PathVariable Long id, @Valid @RequestBody AiPromptConfigRequest request) {
         return service.update(id, request);
     }
 
@@ -76,7 +76,7 @@ public class AiPromptConfigController {
      * DELETE /api/ai-prompt-configs/{id}
      */
     @DeleteMapping("/{id}")
-    public void delete(@PathVariable Integer id) {
+    public void delete(@PathVariable Long id) {
         service.delete(id);
     }
 

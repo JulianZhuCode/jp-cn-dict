@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Optional;
 
 @Repository
-public interface GrammarRepository extends JpaRepository<GrammarEntity, Integer>, JpaSpecificationExecutor<GrammarEntity> {
+public interface GrammarRepository extends JpaRepository<GrammarEntity, Long>, JpaSpecificationExecutor<GrammarEntity> {
 
     Optional<GrammarEntity> findByPattern(String pattern);
 

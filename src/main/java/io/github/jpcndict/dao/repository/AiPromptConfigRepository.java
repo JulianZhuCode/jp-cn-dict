@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 import java.util.Optional;
 
 @Repository
-public interface AiPromptConfigRepository extends JpaRepository<AiPromptConfigEntity, Integer>, JpaSpecificationExecutor<AiPromptConfigEntity> {
+public interface AiPromptConfigRepository extends JpaRepository<AiPromptConfigEntity, Long>, JpaSpecificationExecutor<AiPromptConfigEntity> {
 
     /**
      * 根据提示词key查询
@@ -28,5 +28,5 @@ public interface AiPromptConfigRepository extends JpaRepository<AiPromptConfigEn
     /**
      * 判断提示词key是否存在（排除指定ID）
      */
-    boolean existsByPromptKeyAndIdNot(String promptKey, Integer id);
+    boolean existsByPromptKeyAndIdNot(String promptKey, Long id);
 }

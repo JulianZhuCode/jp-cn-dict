@@ -18,11 +18,11 @@ public class ExampleRequest {
     /**
      * 关联单词ID（逗号分隔）
      */
-    private Integer[] relatedWords;
+    private Long[] relatedWords;
 
     /**
      * 关联语法ID（逗号分隔）
      */
-    private Integer[] relatedGrammars;
+    private Long[] relatedGrammars;
     private String audioUrl;
 }

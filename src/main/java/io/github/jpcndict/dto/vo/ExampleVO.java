@@ -9,17 +9,17 @@ import java.util.List;
  */
 @Data
 public class ExampleVO {
-    private Integer id;
+    private Long id;
     private String jp;
     private String cn;
     /**
      * 关联单词 ID 数组
      */
-    private Integer[] relatedWords;
+    private Long[] relatedWords;
     /**
      * 关联语法 ID 数组
      */
-    private Integer[] relatedGrammars;
+    private Long[] relatedGrammars;
     /**
      * 关联单词详情（用于前端展示）
      */

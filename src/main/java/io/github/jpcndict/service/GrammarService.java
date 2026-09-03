@@ -37,7 +37,7 @@ public class GrammarService {
     /**
      * 根据ID查询语法
      */
-    public Optional<GrammarVO> findById(Integer id) {
+    public Optional<GrammarVO> findById(Long id) {
         return grammarRepository.findById(id).map(grammarMapper::toVO);
     }
 
@@ -86,7 +86,7 @@ public class GrammarService {
      * 更新语法
      */
     @Transactional
-    public GrammarVO update(Integer id, GrammarRequest request) {
+    public GrammarVO update(Long id, GrammarRequest request) {
         GrammarEntity grammar = grammarRepository.findById(id)
                 .orElseThrow(() -> BusinessException.create("GRAMMAR_NOT_FOUND", "语法不存在，ID: " + id));
 
@@ -101,7 +101,7 @@ public class GrammarService {
      * 删除语法
      */
     @Transactional
-    public void delete(Integer id) {
+    public void delete(Long id) {
         GrammarEntity grammar = grammarRepository.findById(id)
                 .orElseThrow(() -> BusinessException.create("GRAMMAR_NOT_FOUND", "语法不存在，ID: " + id));
         grammarRepository.delete(grammar);

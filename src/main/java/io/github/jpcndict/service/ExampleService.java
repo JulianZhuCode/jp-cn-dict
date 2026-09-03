@@ -49,7 +49,7 @@ public class ExampleService {
     /**
      * 根据ID查询例句
      */
-    public Optional<ExampleVO> findById(Integer id) {
+    public Optional<ExampleVO> findById(Long id) {
         return exampleRepository.findById(id).map(entity -> {
             ExampleVO vo = exampleMapper.toVO(entity);
             enrichRelatedDetails(vo);
@@ -92,7 +92,7 @@ public class ExampleService {
      * @param excludeId 排除的ID（编辑时排除自身）
      * @return 已存在时返回该记录ID，否则返回null
      */
-    public Integer checkExists(String jp, Integer excludeId) {
+    public Long checkExists(String jp, Long excludeId) {
         if (jp == null || jp.trim().isEmpty()) {
             return null;
         }
@@ -135,7 +135,7 @@ public class ExampleService {
      * 更新例句
      */
     @Transactional
-    public ExampleVO update(Integer id, ExampleRequest request) {
+    public ExampleVO update(Long id, ExampleRequest request) {
         ExampleEntity example = exampleRepository.findById(id)
                 .orElseThrow(() -> BusinessException.create("EXAMPLE_NOT_FOUND", "例句不存在，ID: " + id));
 
@@ -162,7 +162,7 @@ public class ExampleService {
      * 删除例句
      */
     @Transactional
-    public void delete(Integer id) {
+    public void delete(Long id) {
         ExampleEntity example = exampleRepository.findById(id)
                 .orElseThrow(() -> BusinessException.create("EXAMPLE_NOT_FOUND", "例句不存在，ID: " + id));
         audioService.deleteExampleAudio(id);
@@ -174,13 +174,13 @@ public class ExampleService {
      */
     private void enrichRelatedDetails(ExampleVO vo) {
         if (vo.getRelatedWords() != null && vo.getRelatedWords().length > 0) {
-            List<Integer> wordIds = Arrays.asList(vo.getRelatedWords());
+            List<Long> wordIds = Arrays.asList(vo.getRelatedWords());
             vo.setRelatedWordItems(wordRepository.findAllById(wordIds).stream()
                     .map(wordMapper::toVO)
                     .toList());
         }
         if (vo.getRelatedGrammars() != null && vo.getRelatedGrammars().length > 0) {
-            List<Integer> grammarIds = Arrays.asList(vo.getRelatedGrammars());
+            List<Long> grammarIds = Arrays.asList(vo.getRelatedGrammars());
             vo.setRelatedGrammarItems(grammarRepository.findAllById(grammarIds).stream()
                     .map(grammarMapper::toVO)
                     .toList());
@@ -191,7 +191,7 @@ public class ExampleService {
      * 重新生成指定例句的音频
      */
     @Transactional
-    public boolean regenerateAudio(Integer id) {
+    public boolean regenerateAudio(Long id) {
         ExampleEntity example = exampleRepository.findById(id)
                 .orElseThrow(() -> BusinessException.create("EXAMPLE_NOT_FOUND", "例句不存在，ID: " + id));
         String audioUrl = audioService.generateExampleAudio(example.getId(), example.getJp());
@@ -213,7 +213,7 @@ public class ExampleService {
             return 0;
         }
 
-        List<Integer> exampleIds = all.stream().map(ExampleEntity::getId).toList();
+        List<Long> exampleIds = all.stream().map(ExampleEntity::getId).toList();
         List<String> exampleTexts = all.stream().map(ExampleEntity::getJp).toList();
 
         List<String> urls = audioService.batchGenerateExampleAudio(exampleIds, exampleTexts);
