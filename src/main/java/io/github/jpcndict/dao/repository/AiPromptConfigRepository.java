@@ -16,11 +16,6 @@ public interface AiPromptConfigRepository extends JpaRepository<AiPromptConfigEn
     Optional<AiPromptConfigEntity> findByPromptKey(String promptKey);
 
     /**
-     * 根据提示词key查询（忽略软删除）
-     */
-    Optional<AiPromptConfigEntity> findByPromptKeyAndDelFlag(String promptKey, Integer delFlag);
-
-    /**
      * 判断提示词key是否存在
      */
     boolean existsByPromptKey(String promptKey);
