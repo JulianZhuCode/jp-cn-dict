@@ -17,6 +17,9 @@ spring:
       command: ${EDGE_TTS_COMMAND:edge-tts}
       timeout-seconds: ${EDGE_TTS_TIMEOUT:30}
       concurrency: ${EDGE_TTS_CONCURRENCY:0}
+    web-mvc:
+      security:
+        jwt-secret: "test-secret-key-for-unit-testing-purposes-only-at-least-32-bytes"
   application:
     name: jp-cn-dict
   messages:
